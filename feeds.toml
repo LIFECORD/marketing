@@ -1,4 +1,4 @@
-[i-boss_news]
+[i-boss_marketingnews]
 title = "아이보스 ─ 마케팅 뉴스"
 url = "https://www.i-boss.co.kr/ab-7301"
 entrySelector = "div.news-article-list div.cell"
@@ -8,4 +8,13 @@ contentSelector = "p.comment_text"
 dateSelector = "div.date span.published-date"
 dateFormat = "yyyy.MM.dd hh:mm"
 imageSelector = "div.img a img"
+waitUntil = "networkidle"
+
+[i-boss_news]
+title = "아이보스 ─ 뉴스 ─ 전체보기"
+url = "https://www.i-boss.co.kr/ab-7214"
+entrySelector = "table tbody tr._t:not(:nth-child(1))"
+titleSelector = "span.AB-LF-common"
+linkSelector = "td:nth-child(2) a"
+contentSelector = "p.mb_writer span"
 waitUntil = "networkidle"
