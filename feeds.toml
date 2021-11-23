@@ -18,3 +18,12 @@ titleSelector = "span.AB-LF-common"
 linkSelector = "td:nth-child(2) a"
 contentSelector = "p.mb_writer span"
 waitUntil = "networkidle"
+
+[i-boss_quiz]
+title = "아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈"
+url = "https://www.i-boss.co.kr/ab-5826"
+entrySelector = "table.question"
+titleSelector = "table.question tbody tr:nth-child(1) td:nth-child(1)"
+linkSelector = "*"
+contentSelector = "table.question tbody tr:nth-child(2)"
+waitUntil = "networkidle"
