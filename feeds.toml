@@ -1,3 +1,14 @@
+[i-boss_popular]
+title = "아이보스 ─ 인기글"
+url = "https://www.i-boss.co.kr/ab-1886"
+entrySelector = "table.table-mbb tbody tr.is_notice_"
+titleSelector = "span.mb_subject a span.AB-LF-common"
+linkSelector = "span.mb_subject a"
+contentSelector = "span.mb_writer"
+dateSelector = "span.bstip"
+dateFormat = "MM.dd"
+waitUntil = "networkidle"
+
 [i-boss_marketingnews]
 title = "아이보스 ─ 마케팅 뉴스"
 url = "https://www.i-boss.co.kr/ab-7301"
