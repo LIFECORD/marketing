@@ -1,9 +1,0 @@
-[i-boss_news]
-title = "아이보스 ─ 마케팅 뉴스"
-url = "https://www.i-boss.co.kr/ab-7301"
-entrySelector = "div.news-article-list div.cell"
-titleSelector = "span.subject_text.text-ellipsis"
-linkSelector = "div.info a"
-contentSelector = "p.comment_text"
-imageSelector = "div.img a img"
-waitUntil = "networkidle"
