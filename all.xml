@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 22:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 23:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56683</guid>
             <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[준5941]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[11월 24일 마케팅 뉴스클리핑] 트위터, 라이브 쇼핑 시범 운영 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7713</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7713</guid>
+            <pubDate>Wed, 24 Nov 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 트위터, `라이브 쇼핑` 시범 운영  트위터가 실시간으로 방송을 시청하며 물건을 구매할 수 있는 라이브 쇼핑 기능을 소개했다. 오는 28일 월마트와 협력해 첫 라이브 쇼핑 방송을 선보일 예정이다. 이날 방송에서는 미국 싱어 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a4dd5215d46fc67c3c4ecd2925a4678e_72364_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트위터, 라이브 쇼핑 시범 운영 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -454,12 +462,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8e80a7ce466f5300c1183cf95b65a57c_16255_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아이지에이웍스 디지털퍼스트, 2021 유튜브 웍스 어워드 그랑프리 대상 포함 3관왕 수상 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7684</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7684</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[빅데이터 플랫폼 기업 아이지에이웍스(대표 마국성)그룹의 미디어 에이전시 디지털퍼스트가`2021유튜브 웍스 어워드(Youtube Works Awards 2021)`에서 그랑프리 대상을 수상했다. 유튜브 웍스 어워드는 전세계20여개국에 걸쳐 진행되는  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[11월 24일 마케팅 뉴스클리핑] 트위터, '라이브 쇼핑' 시범 운영 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7713</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7713</guid>
+            <pubDate>Tue, 23 Nov 2021 23:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[트위터, '라이브 쇼핑' 시범 운영 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -665,11 +672,17 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이지에이웍스 디지털퍼스트, '2021 유튜브 웍스 어워드' 그랑프리 대상 포함 3관왕 수상 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7684</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7684</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[네이버 검색광고 노출 전략을 세팅할 때, 광고의 ON/OFF 시간대는 30분 단위로 설정할 수 있다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Tue, 23 Nov 2021 23:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->네이버 검색광고 노출 전략을 세팅할 때, 광고의 ON/OFF 시간대는 30분 단위로 설정할 수 있다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1305_1" value="1" class="AB-radio" id="PQ_BD5826_1305_1_0"><label for="PQ_BD5826_1305_1_0" id="label_PQ_BD5826_1305_1_0">(A) O</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1305_1" value="2" class="AB-radio" id="PQ_BD5826_1305_1_1"><label for="PQ_BD5826_1305_1_1" id="label_PQ_BD5826_1305_1_1">(B) X</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
     </channel>
 </rss>
