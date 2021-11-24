@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 22:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 23:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-2825-480</guid>
             <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[11월 25일 마케팅 뉴스클리핑] 야놀자, 애드테크 데이블 인수 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7722</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7722</guid>
+            <pubDate>Thu, 25 Nov 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 야놀자, 애드테크 `데이블` 인수  야놀자가 비전펀드 등에서 2조 원 이상 확보한 실탄을 앞세워 적극적인 M&amp;A를 단행하고 있다. 야놀자의 자회사 야놀자클라우드가 최근 `데이블`을 인수하고 계열사로 편입했다. 야놀자는 데이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c8c423a8c33c2f0d82fc913276ed8b5e_90440_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오, 다음뉴스 구독 모델 전환... 언론사가 직접 편집 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -454,12 +462,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5a0c8a09d549560207f4d77e04b87092_11016_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[셔터스톡, 2022 컬러 트렌드 리포트 발표... 미니멀하며 차분하고 부드러운 색상이 대세가 될 전망 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7692</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7692</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 크리에이티브 플랫폼 셔터스톡(Shutterstock)이2022컬러 트렌드 리포트를 발표했다.해당 리포트는 수백만 건의 이미지 다운로드와 픽셀 데이터를 분석하여 수요가 가장 빠르게 늘고 있는 세 가지 색상과 전세계20개국에서 제 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[11월 25일 마케팅 뉴스클리핑] 야놀자, 애드테크 '데이블' 인수 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7722</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7722</guid>
+            <pubDate>Wed, 24 Nov 2021 23:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카카오, '다음뉴스' 구독 모델 전환... 언론사가 직접 편집 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -665,11 +672,17 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[셔터스톡, 2022 컬러 트렌드 리포트 발표... 미니멀하며 차분하고 부드러운 색상이 대세가 될 전망 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7692</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7692</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[다음 대화에서 빈칸에 들어갈 단어로 올바른 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Wed, 24 Nov 2021 23:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 대화에서 빈칸에 들어갈 단어로 올바른 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/35aece39a3a48b6d8bbbee08ca847993_16375465325103.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1306_1" value="1" class="AB-radio" id="PQ_BD5826_1306_1_0"><label for="PQ_BD5826_1306_1_0" id="label_PQ_BD5826_1306_1_0">(A) 트윈슈머</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1306_1" value="2" class="AB-radio" id="PQ_BD5826_1306_1_1"><label for="PQ_BD5826_1306_1_1" id="label_PQ_BD5826_1306_1_1">(B) 블루슈머</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1306_1" value="3" class="AB-radio" id="PQ_BD5826_1306_1_2"><label for="PQ_BD5826_1306_1_2" id="label_PQ_BD5826_1306_1_2">(C) 모디슈머</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1306_1" value="4" class="AB-radio" id="PQ_BD5826_1306_1_3"><label for="PQ_BD5826_1306_1_3" id="label_PQ_BD5826_1306_1_3">(D) 체크슈머</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
     </channel>
 </rss>

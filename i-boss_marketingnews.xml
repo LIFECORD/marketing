@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 22:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 23:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[11월 25일 마케팅 뉴스클리핑] 야놀자, 애드테크 데이블 인수 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7722</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7722</guid>
+            <pubDate>Thu, 25 Nov 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 야놀자, 애드테크 `데이블` 인수  야놀자가 비전펀드 등에서 2조 원 이상 확보한 실탄을 앞세워 적극적인 M&amp;A를 단행하고 있다. 야놀자의 자회사 야놀자클라우드가 최근 `데이블`을 인수하고 계열사로 편입했다. 야놀자는 데이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c8c423a8c33c2f0d82fc913276ed8b5e_90440_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오, 다음뉴스 구독 모델 전환... 언론사가 직접 편집]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7721</link>
@@ -242,14 +250,6 @@
             <pubDate>Thu, 18 Nov 2021 10:22:00 GMT</pubDate>
             <content:encoded><![CDATA[올 연말까지 운영...23일부터 공지 계획  미국 IT매체 테크크런치는 17일(현지시간) 인스타그램이 12월 스레드 앱을 종료할 예정이라고 밝혔다.  스레드 이용자는 이달 23일부터 앱이 종료된다는 공지를 받게 되며, 인스타그램의 도 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5a0c8a09d549560207f4d77e04b87092_11016_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[셔터스톡, 2022 컬러 트렌드 리포트 발표... 미니멀하며 차분하고 부드러운 색상이 대세가 될 전망]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7692</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7692</guid>
-            <pubDate>Thu, 18 Nov 2021 10:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 크리에이티브 플랫폼 셔터스톡(Shutterstock)이2022컬러 트렌드 리포트를 발표했다.해당 리포트는 수백만 건의 이미지 다운로드와 픽셀 데이터를 분석하여 수요가 가장 빠르게 늘고 있는 세 가지 색상과 전세계20개국에서 제 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
