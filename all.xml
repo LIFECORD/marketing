@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 14:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 15:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,18 +204,18 @@
             <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[24시간이모자라 시리즈]  17,280시간동안 쌓은 인사이.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56709</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56709</guid>
+            <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[맛의고수 맛고 차돌된장찌개 & 차돌볶음밥 세트 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2825-480</link>
             <guid>https://www.i-boss.co.kr/ab-2825-480</guid>
             <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가장 효율적인 퍼포먼스 마케팅 방법론 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56683</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56683</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카카오, 다음뉴스 구독 모델 전환... 언론사가 직접 편집 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -670,19 +670,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7692</guid>
             <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네이버 검색광고 노출 전략을 세팅할 때, 광고의 ON/OFF 시간대는 30분 단위로 설정할 수 있다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 24 Nov 2021 14:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->네이버 검색광고 노출 전략을 세팅할 때, 광고의 ON/OFF 시간대는 30분 단위로 설정할 수 있다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1305_1" value="1" class="AB-radio" id="PQ_BD5826_1305_1_0"><label for="PQ_BD5826_1305_1_0" id="label_PQ_BD5826_1305_1_0">(A) O</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1305_1" value="2" class="AB-radio" id="PQ_BD5826_1305_1_1"><label for="PQ_BD5826_1305_1_1" id="label_PQ_BD5826_1305_1_1">(B) X</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
     </channel>
 </rss>
