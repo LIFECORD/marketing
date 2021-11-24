@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 16:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 17:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,18 +197,18 @@
             <content:encoded><![CDATA[아나키]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[데이터 정리는 필수! 자동화 하는 방법 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56633</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56633</guid>
-            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[준5941]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[24시간이모자라 시리즈]  17,280시간동안 쌓은 인사이.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56709</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56709</guid>
             <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[데이터 정리는 필수! 자동화 하는 방법 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56633</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56633</guid>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[맛의고수 맛고 차돌된장찌개 & 차돌볶음밥 세트 (아이보스 ─ 인기글)]]></title>
