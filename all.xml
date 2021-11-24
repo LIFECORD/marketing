@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 03:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 04:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56632</guid>
             <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네이버, 관심사  취향 반영한 쇼핑 큐레이션 포유 탭 신설 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7720</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7720</guid>
+            <pubDate>Wed, 24 Nov 2021 00:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[네이버쇼핑서 이용... 실시간 취향 분석 엔진 탑재해 쇼핑 테마 추천   네이버가 이용자 개인 관심사와 취향을 모은 인공지능(AI) 쇼핑 큐레이션 공간 `포유(FOR YOU)` 탭을 네이버쇼핑에 신설했다.  이 서비스는 AI 상품 추천 기술인  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16377244383021.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[PR협회, 올해의 PR인 조재형 피알원 대표, 올해의 PR기업 밍글스푼 선정 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -454,12 +462,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[펜타클, 2021 유튜브 웍스 어워드 리드 증대 부문 수상 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7690</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7690</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[메가존 계열 종합광고대행사 펜타클이 제작한 배민커넥트(우아한정년들)요즘 일상 캠페인이 2021유튜브 웍스 어워드(YouTube Works Awards)에서 베스트YouTube액션캠페인:리드 증대 부문 수상작으로 선정됐다. 유튜브 웍스 어워드는 유 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[네이버, 관심사 · 취향 반영한 쇼핑 큐레이션 '포유' 탭 신설 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7720</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7720</guid>
+            <pubDate>Wed, 24 Nov 2021 04:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[PR협회, 올해의 PR인 "조재형 피알원 대표", 올해의 PR기업 "밍글스푼" 선정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -665,17 +672,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[펜타클, ‘2021 유튜브 웍스 어워드’ 리드 증대 부문 수상 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7690</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7690</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네이버 검색광고 노출 전략을 세팅할 때, 광고의 ON/OFF 시간대는 30분 단위로 설정할 수 있다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 24 Nov 2021 03:19:07 GMT</pubDate>
+            <pubDate>Wed, 24 Nov 2021 04:22:55 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버 검색광고 노출 전략을 세팅할 때, 광고의 ON/OFF 시간대는 30분 단위로 설정할 수 있다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
