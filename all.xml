@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 07:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 08:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,18 +169,18 @@
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[퍼포먼스 마케팅, `실시간 모니터링`이 중요한 이유 3.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56492</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56492</guid>
-            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[준5941]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[카카오가 생각하는 오픈마켓은? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56687</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56687</guid>
             <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[퍼포먼스 마케팅, `실시간 모니터링`이 중요한 이유 3.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56492</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56492</guid>
+            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3000 원 짜리 햄버거를 1억원 짜리 햄버거로 만드는 방.. (아이보스 ─ 인기글)]]></title>
@@ -211,11 +211,19 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[MZ세대의 관심 '아트테크' 활용한 마케팅 이야기 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56632</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56632</guid>
-            <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
+            <title><![CDATA[가장 효율적인 퍼포먼스 마케팅 방법론 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56683</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56683</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[준5941]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카카오, 다음뉴스 구독 모델 전환... 언론사가 직접 편집 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7721</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7721</guid>
+            <pubDate>Wed, 24 Nov 2021 08:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[내년 1월부터 아웃링크 방식으로 운영  카카오가 운영하는 다음 뉴스 서비스가 구독 모델로 바뀐다. 기존 알고리즘 추천과 랭킹 방식의 뉴스 서비스는 종료된다.   카카오는 콘텐츠 제휴 언론사를 대상으로 다음 뉴스 서비스 개 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_68821840c4ca84a5e603a4ca967706ed_63461_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버, 관심사  취향 반영한 쇼핑 큐레이션 포유 탭 신설 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -454,12 +462,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[스포티파이 홀리데이 싱글즈 발표, 한국 아티스트 최초로 이하이 참여 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7691</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7691</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[세계 최대 오디오음원 스트리밍 플랫폼 스포티파이(Spotify)는 연말 시즌을 맞아스포티파이 싱글즈 홀리데이 컬렉션(Spotify Singles: Holiday Collection )에크리스마스 음악12곡을 추가했다고 밝혔다.특히 올해에는 한국 아티스트 최초이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[카카오, '다음뉴스' 구독 모델 전환... 언론사가 직접 편집 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7721</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7721</guid>
+            <pubDate>Wed, 24 Nov 2021 08:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버, 관심사 · 취향 반영한 쇼핑 큐레이션 '포유' 탭 신설 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -665,17 +672,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스포티파이 홀리데이 싱글즈 발표, 한국 아티스트 최초로 이하이 참여 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7691</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7691</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네이버 검색광고 노출 전략을 세팅할 때, 광고의 ON/OFF 시간대는 30분 단위로 설정할 수 있다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 24 Nov 2021 07:17:15 GMT</pubDate>
+            <pubDate>Wed, 24 Nov 2021 08:21:10 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버 검색광고 노출 전략을 세팅할 때, 광고의 ON/OFF 시간대는 30분 단위로 설정할 수 있다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
