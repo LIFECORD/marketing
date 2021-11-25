@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 06:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 07:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -106,18 +106,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버 검색광고 고객센터는 웨일을 쓸까? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37625</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37625</guid>
-            <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[프랜차이즈X]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 마케터의 세포들 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37593</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37593</guid>
             <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네이버 검색광고 고객센터는 웨일을 쓸까? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37625</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37625</guid>
+            <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[프랜차이즈X]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[키워드에 집중해야 마케팅이 잘 된다! (아이보스 ─ 인기글)]]></title>
@@ -134,18 +134,18 @@
             <content:encoded><![CDATA[헤이데일리]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[5분 만에 보는 트렌드 코리아 2022 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37755</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37755</guid>
-            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[헤이데일리]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[24시간이모자라 시리즈]  17,280시간동안 쌓은 인사이.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56709</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56709</guid>
             <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5분 만에 보는 트렌드 코리아 2022 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37755</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37755</guid>
+            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[헤이데일리]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[요즘 강박에 시달리고 있습니다..... (아이보스 ─ 인기글)]]></title>
@@ -183,18 +183,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[3000 원 짜리 햄버거를 1억원 짜리 햄버거로 만드는 방.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37617</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37617</guid>
-            <pubDate>Sat, 30 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[탁구공]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[구글 유튜브 광고 1억 집행, 매출 4억 초반 후기 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56654</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56654</guid>
             <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아나키]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[3000 원 짜리 햄버거를 1억원 짜리 햄버거로 만드는 방.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37617</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37617</guid>
+            <pubDate>Sat, 30 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[탁구공]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카피 문구를 바꿨을 뿐인데 "역대급 매출 기록" (아이보스 ─ 인기글)]]></title>
@@ -675,7 +675,7 @@
             <title><![CDATA[다음 대화에서 빈칸에 들어갈 단어로 올바른 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 25 Nov 2021 06:20:51 GMT</pubDate>
+            <pubDate>Thu, 25 Nov 2021 07:19:18 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 대화에서 빈칸에 들어갈 단어로 올바른 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/35aece39a3a48b6d8bbbee08ca847993_16375465325103.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
