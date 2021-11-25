@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-11-25T14:16:44.039Z</updated>
+    <updated>2021-11-25T15:18:46.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -132,6 +132,13 @@
         <content type="html"><![CDATA[헤이데일리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[카카오가 생각하는 오픈마켓은?]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56687</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56687"/>
+        <updated>2021-11-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[요즘 강박에 시달리고 있습니다.....]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-37726</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-37726"/>
@@ -151,13 +158,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-37725"/>
         <updated>2021-11-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[놀토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오가 생각하는 오픈마켓은?]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56687</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56687"/>
-        <updated>2021-11-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마케팅밈] 마케터의 현타]]></title>
