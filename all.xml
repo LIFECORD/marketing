@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 02:38:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 03:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -99,13 +99,6 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이렇게도 멘탈이 흔들릴 때 응급처치법 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37584</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37584</guid>
-            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ggdpW]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[카카오, 드디어 네이버 첫 추월 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56582</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56582</guid>
@@ -169,18 +162,18 @@
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오가 생각하는 오픈마켓은? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56687</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56687</guid>
-            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[24시간이모자라 시리즈]  17,280시간동안 쌓은 인사이.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56709</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56709</guid>
             <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카카오가 생각하는 오픈마켓은? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56687</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56687</guid>
+            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3000 원 짜리 햄버거를 1억원 짜리 햄버거로 만드는 방.. (아이보스 ─ 인기글)]]></title>
@@ -211,11 +204,26 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[내 머릿속에 저-장☆, 7년차 마자이너가 알려주는 매.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56693</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56693</guid>
+            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[가장 효율적인 퍼포먼스 마케팅 방법론 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56683</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56683</guid>
             <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[준5941]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[배달앱판 D2C 플랫폼 뜬다... 위메프오 플러스 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7729</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7729</guid>
+            <pubDate>Thu, 25 Nov 2021 00:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[자사앱 구축 솔루션 제공개발, 운영, 유지보수 등 추가 비용 없어고객 접점은 늘리고 최소 비용으로 자체 플랫폼 운영 부담 줄여   위메프오가 외식업 종사자들이 직접 운영하는 D2C(Direct to Customer) 배달앱 솔루션 위메프오 플러 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_08a5b800370df5c24130617f12454d06_12081_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[믹스패널, 마켓핏랩과 대한민국 스타트업 지원프로그램 연다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -454,12 +462,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_15021a11c9c8975f975371733892af1d_29535_6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[해외광고특선] 학교로 돌아갈 시간 : Back-To-School Essentials - Clio Award Gold (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7700</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7700</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[코로나가 끝나간다. 백신 덕분이다. 그렇다는건 학생들에게 있어 이제 학교로 돌아갈 시간이 되었다는 것이다. 매번 비대면으로 수업을 진행하다가 대면으로 다시 전환한다면 나름의 설렘 또한 있을 것이다. 그런 설레는 마음 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[배달앱판 D2C 플랫폼 뜬다... '위메프오 플러스' 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7729</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7729</guid>
+            <pubDate>Thu, 25 Nov 2021 03:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[믹스패널, 마켓핏랩과 대한민국 스타트업 지원프로그램 연다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -665,17 +672,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[해외광고특선] 학교로 돌아갈 시간 : Back-To-School Essentials - Clio Award Gold (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7700</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7700</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 대화에서 빈칸에 들어갈 단어로 올바른 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 25 Nov 2021 02:38:44 GMT</pubDate>
+            <pubDate>Thu, 25 Nov 2021 03:18:28 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 대화에서 빈칸에 들어갈 단어로 올바른 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/35aece39a3a48b6d8bbbee08ca847993_16375465325103.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
