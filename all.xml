@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 23:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 00:55:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -183,18 +183,18 @@
             <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[3000 원 짜리 햄버거를 1억원 짜리 햄버거로 만드는 방.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37617</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37617</guid>
-            <pubDate>Sat, 30 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[탁구공]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[24시간이모자라 시리즈]  17,280시간동안 쌓은 인사이.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56709</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56709</guid>
             <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[3000 원 짜리 햄버거를 1억원 짜리 햄버거로 만드는 방.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37617</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37617</guid>
+            <pubDate>Sat, 30 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[탁구공]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구글 유튜브 광고 1억 집행, 매출 4억 초반 후기 (아이보스 ─ 인기글)]]></title>
@@ -216,6 +216,54 @@
             <guid>https://www.i-boss.co.kr/ab-2825-480</guid>
             <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[믹스패널, 마켓핏랩과 대한민국 스타트업 지원프로그램 연다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7728</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7728</guid>
+            <pubDate>Thu, 25 Nov 2021 09:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 유니콘 기업 믹스패널이 한국 스타트업을 위한 지원 프로그램을 시작한다고 밝혔다. 아미르 모바파기 CEO는 믹스패널이 2억 달러(한화 2300억원 상당)의 투자 유치에 성공하였다고 밝힌 가운데, 오는 12월 1일부터 대한민국 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[몰로코, 딜로이트 테크놀로지 패스트 500 선정...고속성장하는 혁신 기업으로 인정받아 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7727</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7727</guid>
+            <pubDate>Thu, 25 Nov 2021 09:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌AI테크 기업 몰로코(Moloco,대표 안익진)가 올해 딜로이트(Deloitte)의 테크놀로지 패스트500(Technology Fast 500)에서 북미 전역91위,샌프란시스코 베이지역에서26위로 이름을 올렸다.몰로코는3년간 무려1,797%의 성장률을 기록하며  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[신사와 아가씨 처음으로 한국인이 좋아하는 TV프로그램 1위에 올라 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7726</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7726</guid>
+            <pubDate>Thu, 25 Nov 2021 08:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국갤럽이 2021년 11월 16~18일 전국 만 18세 이상 1,000명에게 요즘 가장 즐겨보는 TV프로그램을 물은 결과(2개까지 자유응답), KBS2 주말 드라마신사와 아가씨 가 선호도 6.2%로 1위를 차지했다. 신사와 아가씨는 20대 입주 가정교사 박 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[아마존, 급성장하는 소매 미디어 광고시장 장악 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7725</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7725</guid>
+            <pubDate>Thu, 25 Nov 2021 08:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[아마존은조용히 디지털 광고 엘리트로 부상하며, 현재 빠르게 부상하고 있는 소매 미디어 광고시장을 장악하고 있다고 이마케터는 발표했다. 전자 상거래 애드테크제공업체인 Perpantua의 성장 부사장인 Adam Epsein은 `아마존과 이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[인스타그램 샵으로 새로운 고객에게 다가는 4가지 팁 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7724</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7724</guid>
+            <pubDate>Thu, 25 Nov 2021 08:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[중소상공인들이 많이 활용하고 있는 인스타그램 샵. 인스타그램이1년 내내 개발해 온 인스타그램 샵은 이미 사용하고 있는 플랫폼에서 참여하고 활동적인 브라우저에 접근할 수 있는 상당한 기회를 제공한다. 인스타그램은 특 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[한국PR협회, 2021 PR인의 날 및 제29회 한국PR대상 시상식 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7723</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7723</guid>
+            <pubDate>Thu, 25 Nov 2021 08:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국PR협회는 11월 24일 라움아트센터 2층 마제스틱볼룸에서 방역지침을 철저히 지키는 가운데, `2021PR인의 날 및 제 29회 한국PR대상 시상식`을 개최했다. 작년에 이어 코로나로 힘든 한 해를 보낸 PR인들의 화합과 격려와 함께, 올  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[11월 25일 마케팅 뉴스클리핑] 야놀자, 애드테크 데이블 인수 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -414,58 +462,52 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[이노레드, 2021 유튜브 웍스 어워드 4관왕 수상 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7698</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7698</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[이노레드(대표 박현우)가`2021유튜브 웍스 어워드(Youtube Works Awards 2021)`에서베스트 YouTube 브랜딩 캠페인: Full Funnel 부문, 베스트 YouTube 액션 캠페인: 온라인 세일즈 증대 부문,베스트 YouTube 브랜드 크리에이터 등 4개 부문에서 수상 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[믹스패널, 마켓핏랩과 대한민국 스타트업 지원프로그램 연다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7728</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7728</guid>
+            <pubDate>Thu, 25 Nov 2021 00:55:15 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[신인섭 칼럼] 꼰대가 하는 말 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7697</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7697</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[MZ 세대란 말 지금쯤은 우리나라 외래어 가운데 끼게 되지 않았을까. 올해 봄 서울과 부산 시장 선거에서 야당 후보가 압승한 뒤부터는 MZ가 무명의 정치 세력으로 등장했다 기껏해야 10년밖에 안 된 SNS, 디지털, 스마트폰 시대가  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_55320123675fda1216f11d3fa0c0d804_61019_6.png" length="0" type="image/png"/>
+            <title><![CDATA[몰로코, 딜로이트 ‘테크놀로지 패스트 500’ 선정...고속성장하는 혁신 기업으로 인정받아 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7727</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7727</guid>
+            <pubDate>Thu, 25 Nov 2021 00:55:15 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 광고의 날의 주인공은 광고인이라는 작은 바람을 담았습니다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7696</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7696</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[11월 11일! 제일 먼저 떠오르는 것은 빼빼로 데이. 그런데 우리 광고인들은 다르다. `광고의 날`이기 때문이다. 광고의 날이 있냐 할 수 있지만, 광고의 날은 1973년부터 이어온 우리의 날이다.그런데 언제부터인가 광고인들도 광고 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA["신사와 아가씨" 처음으로 한국인이 좋아하는 TV프로그램 1위에 올라 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7726</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7726</guid>
+            <pubDate>Thu, 25 Nov 2021 00:55:15 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미국 리테일 미디어 광고비, 올해 처음으로 300억 달러 돌파 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7695</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7695</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[미국 리테일 미디어 광고비가 2021년 314억 9천만 달러를 기록, 2020년 보다 53.4% 증가할 것이라고 이마케터가 발표했다. 2023년까지 광고비는 500억 달러를 넘어설 것이며, 리테일 미디어 광고비의 대부분은 전자 상거래 채널에서 발 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[아마존, 급성장하는 소매 미디어 광고시장 장악 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7725</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7725</guid>
+            <pubDate>Thu, 25 Nov 2021 00:55:15 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[11월 19일 마케팅 뉴스클리핑] 네이버, 81년생 CEO 내정 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7694</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7694</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[1. 네이버, 81년생 CEO 내정  네이버가 81년생인 최수연 글로벌 사업지원부 책임리더를 차기 CEO로 낙점했다. 올해 만 40세인 젊은 여성인재가 연매출 5조 원이 넘는 국내 최대 인터넷기업을 이끌게 된 것. 기존 한성숙 대표는 2023년 3 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5805f265754b49c6400eb45476b4f8ca_81098_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[인스타그램 샵으로 새로운 고객에게 다가는 4가지 팁 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7724</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7724</guid>
+            <pubDate>Thu, 25 Nov 2021 00:55:15 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인스타그램, 실시간 사진영상 공유 앱 스레드 종료 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7693</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7693</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[올 연말까지 운영...23일부터 공지 계획  미국 IT매체 테크크런치는 17일(현지시간) 인스타그램이 12월 스레드 앱을 종료할 예정이라고 밝혔다.  스레드 이용자는 이달 23일부터 앱이 종료된다는 공지를 받게 되며, 인스타그램의 도 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5a0c8a09d549560207f4d77e04b87092_11016_1.png" length="0" type="image/png"/>
+            <title><![CDATA[한국PR협회, 2021 PR인의 날 및 제29회 한국PR대상 시상식 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7723</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7723</guid>
+            <pubDate>Thu, 25 Nov 2021 00:55:15 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[11월 25일 마케팅 뉴스클리핑] 야놀자, 애드테크 '데이블' 인수 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7722</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7722</guid>
-            <pubDate>Wed, 24 Nov 2021 23:18:17 GMT</pubDate>
+            <pubDate>Thu, 25 Nov 2021 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -630,52 +672,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이노레드, ‘2021 유튜브 웍스 어워드’ 4관왕 수상 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7698</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7698</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[신인섭 칼럼] “꼰대”가 하는 말 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7697</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7697</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] "광고의 날의 주인공은 광고인이라는 작은 바람을 담았습니다" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7696</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7696</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미국 리테일 미디어 광고비, 올해 처음으로 300억 달러 돌파 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7695</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7695</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[11월 19일 마케팅 뉴스클리핑] 네이버, 81년생 CEO 내정 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7694</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7694</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인스타그램, 실시간 사진·영상 공유 앱 '스레드' 종료 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7693</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7693</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 대화에서 빈칸에 들어갈 단어로 올바른 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 24 Nov 2021 23:18:29 GMT</pubDate>
+            <pubDate>Thu, 25 Nov 2021 00:55:27 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 대화에서 빈칸에 들어갈 단어로 올바른 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/35aece39a3a48b6d8bbbee08ca847993_16375465325103.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

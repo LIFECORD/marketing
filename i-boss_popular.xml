@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-11-24T23:18:30.695Z</updated>
+    <updated>2021-11-25T00:55:27.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -181,18 +181,18 @@
         <content type="html"><![CDATA[준5941]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3000 원 짜리 햄버거를 1억원 짜리 햄버거로 만드는 방..]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-37617</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-37617"/>
-        <updated>2021-10-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[탁구공]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[24시간이모자라 시리즈]  17,280시간동안 쌓은 인사이..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56709</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56709"/>
         <updated>2021-11-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[마케팅모먼트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3000 원 짜리 햄버거를 1억원 짜리 햄버거로 만드는 방..]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-37617</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-37617"/>
+        <updated>2021-10-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[탁구공]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 유튜브 광고 1억 집행, 매출 4억 초반 후기]]></title>
