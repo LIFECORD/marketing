@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 12:27:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 13:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -127,13 +127,6 @@
             <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[10년 후에도 살아남는 기업이 되려면? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37589</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37589</guid>
-            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[헤이데일리]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[5분 만에 보는 트렌드 코리아 2022 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37755</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37755</guid>
@@ -216,6 +209,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56683</guid>
             <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[준5941]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[맛의고수 맛고 차돌된장찌개 & 차돌볶음밥 세트 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2825-480</link>
+            <guid>https://www.i-boss.co.kr/ab-2825-480</guid>
+            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[배달앱판 D2C 플랫폼 뜬다... 위메프오 플러스 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -675,7 +675,7 @@
             <title><![CDATA[다음 대화에서 빈칸에 들어갈 단어로 올바른 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 25 Nov 2021 12:27:06 GMT</pubDate>
+            <pubDate>Thu, 25 Nov 2021 13:23:48 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 대화에서 빈칸에 들어갈 단어로 올바른 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/35aece39a3a48b6d8bbbee08ca847993_16375465325103.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
