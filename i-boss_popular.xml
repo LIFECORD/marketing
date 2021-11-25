@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-11-25T07:19:19.646Z</updated>
+    <updated>2021-11-25T08:21:42.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -62,13 +62,6 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[매출을 부르는 카피 노하우 19개]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56494</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56494"/>
-        <updated>2021-10-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[김매니저]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[연봉 올리는 방법 (written by 우뇌)]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56589</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56589"/>
@@ -125,18 +118,18 @@
         <content type="html"><![CDATA[스파이더킴]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10년 후에도 살아남는 기업이 되려면?]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-37589</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-37589"/>
-        <updated>2021-10-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[헤이데일리]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[24시간이모자라 시리즈]  17,280시간동안 쌓은 인사이..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56709</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56709"/>
         <updated>2021-11-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[마케팅모먼트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10년 후에도 살아남는 기업이 되려면?]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-37589</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-37589"/>
+        <updated>2021-10-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[헤이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5분 만에 보는 트렌드 코리아 2022]]></title>
@@ -202,6 +195,13 @@
         <content type="html"><![CDATA[yoorok]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[내 머릿속에 저-장☆, 7년차 마자이너가 알려주는 매..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56693</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56693"/>
+        <updated>2021-11-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[사각사각그림사이]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[데이터 정리는 필수! 자동화 하는 방법]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56633</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56633"/>
@@ -209,10 +209,10 @@
         <content type="html"><![CDATA[준5941]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내 머릿속에 저-장☆, 7년차 마자이너가 알려주는 매..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56693</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56693"/>
-        <updated>2021-11-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[사각사각그림사이]]></content>
+        <title type="html"><![CDATA[가장 효율적인 퍼포먼스 마케팅 방법론]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56683</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56683"/>
+        <updated>2021-11-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[준5941]]></content>
     </entry>
 </feed>
