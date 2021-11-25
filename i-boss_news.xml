@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2021-11-25T22:17:34.567Z</updated>
+    <updated>2021-11-25T23:17:29.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[11월 26일 마케팅 뉴스클리핑] 포털 다음뉴스 구독형으로 바뀐다... 내년 1월 전면 개편 외]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7730</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7730"/>
+        <updated>2021-11-25T23:17:15.714Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배달앱판 D2C 플랫폼 뜬다... '위메프오 플러스' 출시]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7729</id>
@@ -205,13 +212,6 @@
         <title type="html"><![CDATA[미국 광고시장 10월 8% 성장, 7개월 연속 성장]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7702</id>
         <link href="https://www.i-boss.co.kr/ab-2877-7702"/>
-        <updated>2021-11-23T12:11:17.348Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 인플레이션, 어떤 카테고리가 가장 큰 타격을 입었나?]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7701</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7701"/>
         <updated>2021-11-23T12:11:17.348Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
