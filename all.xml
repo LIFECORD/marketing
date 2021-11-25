@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 03:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 04:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -155,18 +155,18 @@
             <content:encoded><![CDATA[DV360]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마감] 오늘 빼빼로 데이, 벙개 이벤트 선착순 11분에.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37725</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37725</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[놀토]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[24시간이모자라 시리즈]  17,280시간동안 쌓은 인사이.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56709</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56709</guid>
             <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[마감] 오늘 빼빼로 데이, 벙개 이벤트 선착순 11분에.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37725</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37725</guid>
+            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카카오가 생각하는 오픈마켓은? (아이보스 ─ 인기글)]]></title>
@@ -190,6 +190,13 @@
             <content:encoded><![CDATA[아나키]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[마케팅밈] 마케터의 현타 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37799</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37799</guid>
+            <pubDate>Thu, 25 Nov 2021 04:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[데이터 정리는 필수! 자동화 하는 방법 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56633</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56633</guid>
@@ -209,13 +216,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56693</guid>
             <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가장 효율적인 퍼포먼스 마케팅 방법론 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56683</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56683</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[배달앱판 D2C 플랫폼 뜬다... 위메프오 플러스 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -465,7 +465,7 @@
             <title><![CDATA[배달앱판 D2C 플랫폼 뜬다... '위메프오 플러스' 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7729</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7729</guid>
-            <pubDate>Thu, 25 Nov 2021 03:18:15 GMT</pubDate>
+            <pubDate>Thu, 25 Nov 2021 00:02:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -675,7 +675,7 @@
             <title><![CDATA[다음 대화에서 빈칸에 들어갈 단어로 올바른 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 25 Nov 2021 03:18:28 GMT</pubDate>
+            <pubDate>Thu, 25 Nov 2021 04:22:54 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 대화에서 빈칸에 들어갈 단어로 올바른 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/35aece39a3a48b6d8bbbee08ca847993_16375465325103.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
