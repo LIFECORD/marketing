@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 00:53:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 01:59:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,18 +71,18 @@
             <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[일잘러로 소문난 마케터 3인  | 인사이트 엿보기 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56572</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56572</guid>
-            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김매니저]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[MZ의 성향을 이용한 머니러시 마케팅 사례 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56661</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56661</guid>
             <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일잘러로 소문난 마케터 3인  | 인사이트 엿보기 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56572</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56572</guid>
+            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김매니저]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 마케터의 일상 - 1 (아이보스 ─ 인기글)]]></title>
@@ -99,6 +99,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[24시간이모자라 시리즈]  17,280시간동안 쌓은 인사이.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56709</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56709</guid>
+            <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[마케팅밈] 마케터의 세포들 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37593</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37593</guid>
@@ -111,13 +118,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-37625</guid>
             <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[프랜차이즈X]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[24시간이모자라 시리즈]  17,280시간동안 쌓은 인사이.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56709</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56709</guid>
-            <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[키워드에 집중해야 마케팅이 잘 된다! (아이보스 ─ 인기글)]]></title>
@@ -134,18 +134,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[5분 만에 보는 트렌드 코리아 2022 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37755</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37755</guid>
-            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[헤이데일리]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 마케터의 현타 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37799</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37799</guid>
             <pubDate>Thu, 25 Nov 2021 04:22:17 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5분 만에 보는 트렌드 코리아 2022 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37755</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37755</guid>
+            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[헤이데일리]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[요즘 강박에 시달리고 있습니다..... (아이보스 ─ 인기글)]]></title>
@@ -169,18 +169,18 @@
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[구글 유튜브 광고 1억 집행, 매출 4억 초반 후기 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56654</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56654</guid>
-            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아나키]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[내 머릿속에 저-장☆, 7년차 마자이너가 알려주는 매.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56693</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56693</guid>
             <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[구글 유튜브 광고 1억 집행, 매출 4억 초반 후기 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56654</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56654</guid>
+            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아나키]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3000 원 짜리 햄버거를 1억원 짜리 햄버거로 만드는 방.. (아이보스 ─ 인기글)]]></title>
@@ -461,35 +461,35 @@
             <title><![CDATA[[데이터 마케팅 인사이트] 국내 상륙한 ‘디즈니+’, ‘넷플릭스’ 대항마 될 수 있을까? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7736</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7736</guid>
-            <pubDate>Fri, 26 Nov 2021 00:53:07 GMT</pubDate>
+            <pubDate>Fri, 26 Nov 2021 09:17:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이제 AR 매장에서 쇼핑하세요 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7735</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7735</guid>
-            <pubDate>Fri, 26 Nov 2021 00:53:07 GMT</pubDate>
+            <pubDate>Fri, 26 Nov 2021 08:33:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] "광고에 중독된 애딕트" 이화여대 광고학회 애딕트를 만나다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7734</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7734</guid>
-            <pubDate>Fri, 26 Nov 2021 00:53:07 GMT</pubDate>
+            <pubDate>Fri, 26 Nov 2021 08:27:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나19 동안 인하우스 에이전시 성장... 2019년 이후 7% 성장 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7733</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7733</guid>
-            <pubDate>Fri, 26 Nov 2021 00:53:07 GMT</pubDate>
+            <pubDate>Fri, 26 Nov 2021 08:26:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[트렌드모니터] 일상 복귀에 필요한 백신과 방역 패스... 그러나 강제와 차별은 안돼 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7732</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7732</guid>
-            <pubDate>Fri, 26 Nov 2021 00:53:07 GMT</pubDate>
+            <pubDate>Fri, 26 Nov 2021 08:26:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -671,7 +671,7 @@
             <title><![CDATA[★★회사가 11월에 광고비 100만 원을 투자하여 500만 원의 수익이 발생하였습니다. 이 때 ROI는 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 26 Nov 2021 00:53:20 GMT</pubDate>
+            <pubDate>Fri, 26 Nov 2021 01:59:04 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->★★회사가 11월에 광고비 100만 원을 투자하여 500만 원의 수익이 발생하였습니다. 이 때 ROI는 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
