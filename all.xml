@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 01:59:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 02:34:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,6 +197,13 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[맛의고수 맛고 차돌된장찌개 & 차돌볶음밥 세트 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2825-480</link>
+            <guid>https://www.i-boss.co.kr/ab-2825-480</guid>
+            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[데이터 정리는 필수! 자동화 하는 방법 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56633</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56633</guid>
@@ -209,13 +216,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56683</guid>
             <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[준5941]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[맛의고수 맛고 차돌된장찌개 & 차돌볶음밥 세트 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2825-480</link>
-            <guid>https://www.i-boss.co.kr/ab-2825-480</guid>
-            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[데이터 마케팅 인사이트] 국내 상륙한 디즈니+, 넷플릭스 대항마 될 수 있을까? (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -668,12 +668,12 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[★★회사가 11월에 광고비 100만 원을 투자하여 500만 원의 수익이 발생하였습니다. 이 때 ROI는 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <title><![CDATA[★★회사가 11월에 광고비 100만 원을 투자하여 500만 원의 매출이 발생하였습니다. 이 때 ROAS는 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 26 Nov 2021 01:59:04 GMT</pubDate>
+            <pubDate>Fri, 26 Nov 2021 02:34:56 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->★★회사가 11월에 광고비 100만 원을 투자하여 500만 원의 수익이 발생하였습니다. 이 때 ROI는 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+				<td><!--1-->★★회사가 11월에 광고비 100만 원을 투자하여 500만 원의 매출이 발생하였습니다. 이 때 ROAS는 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
 			<tr>
 				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1307_1" value="1" class="AB-radio" id="PQ_BD5826_1307_1_0"><label for="PQ_BD5826_1307_1_0" id="label_PQ_BD5826_1307_1_0">(A) 100%</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1307_1" value="2" class="AB-radio" id="PQ_BD5826_1307_1_1"><label for="PQ_BD5826_1307_1_1" id="label_PQ_BD5826_1307_1_1">(B) 150%</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1307_1" value="3" class="AB-radio" id="PQ_BD5826_1307_1_2"><label for="PQ_BD5826_1307_1_2" id="label_PQ_BD5826_1307_1_2">(C) 250%</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1307_1" value="4" class="AB-radio" id="PQ_BD5826_1307_1_3"><label for="PQ_BD5826_1307_1_3" id="label_PQ_BD5826_1307_1_3">(D) 500%</label></td></tr></tbody></table></td>
