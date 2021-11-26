@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2021-11-25T23:17:29.378Z</updated>
+    <updated>2021-11-26T00:53:20.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데이터 마케팅 인사이트] 국내 상륙한 ‘디즈니+’, ‘넷플릭스’ 대항마 될 수 있을까?]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7736</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7736"/>
+        <updated>2021-11-26T00:53:07.444Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제 AR 매장에서 쇼핑하세요]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7735</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7735"/>
+        <updated>2021-11-26T00:53:07.444Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] "광고에 중독된 애딕트" 이화여대 광고학회 애딕트를 만나다]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7734</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7734"/>
+        <updated>2021-11-26T00:53:07.446Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19 동안 인하우스 에이전시 성장... 2019년 이후 7% 성장]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7733</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7733"/>
+        <updated>2021-11-26T00:53:07.457Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[트렌드모니터] 일상 복귀에 필요한 백신과 방역 패스... 그러나 강제와 차별은 안돼]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7732</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7732"/>
+        <updated>2021-11-26T00:53:07.457Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[11월 26일 마케팅 뉴스클리핑] 포털 다음뉴스 구독형으로 바뀐다... 내년 1월 전면 개편 외]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7730</id>
@@ -179,40 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-7706"/>
         <updated>2021-11-23T12:11:17.344Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] "광고에서의 음악은 변신 로봇입니다", 작곡가 임선]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7705</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7705"/>
-        <updated>2021-11-23T12:11:17.344Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이키, 메타버스에 뛰어들다... 로블록스 내 "나이키랜드" 구축]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7704</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7704"/>
-        <updated>2021-11-23T12:11:17.344Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인포그래픽] 가장 오래 생산된 자동차 모델]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7703</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7703"/>
-        <updated>2021-11-23T12:11:17.331Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[11월 22일 마케팅 뉴스클리핑] 페이스북의 맞춤형 뉴스피드 기능 외]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7699</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7699"/>
-        <updated>2021-11-23T12:11:17.348Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 광고시장 10월 8% 성장, 7개월 연속 성장]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7702</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7702"/>
-        <updated>2021-11-23T12:11:17.348Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
