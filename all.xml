@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 08:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 10:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,13 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[내 머릿속에 저-장☆, 7년차 마자이너가 알려주는 매.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56693</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56693</guid>
+            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[5분 만에 보는 트렌드 코리아 2022 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37755</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37755</guid>
@@ -153,13 +160,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56698</guid>
             <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[DV360]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[내 머릿속에 저-장☆, 7년차 마자이너가 알려주는 매.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56693</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56693</guid>
-            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마감] 오늘 빼빼로 데이, 벙개 이벤트 선착순 11분에.. (아이보스 ─ 인기글)]]></title>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56632</guid>
             <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코리아센터, 다나와도 인수... 가격비교 이커머스 대공세 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7738</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7738</guid>
+            <pubDate>Fri, 26 Nov 2021 10:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[코리아센터가 다나와 경영권 인수를 위한 주식매매계약을 26일 체결했다.    종합 이커머스 전문 기업 코리아센터는 해외직구 대행 플랫폼 `몰테일`, 가격 비교 플랫폼 `에누리닷컴(써머스플랫폼)`에 더해  PC 중심 최저가 가격 비 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2d6dce182335ce269a172a400a394ec6_99300_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[데이터 마케팅 인사이트] 국내 상륙한 디즈니+, 넷플릭스 대항마 될 수 있을까? (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a630c3ae64e22a2b7ebb315d81398d28_8033_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카카오 음mm 크리에이터 후원 기능 응원하기 도입 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7706</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7706</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[카카오페이 통해 간편하게 송금향후 선물하기, 클레이 등도 활용할 계획    카카오 소셜 오디오 플랫폼 음mm이 이용자가 크리에이터를 후원할 수 있는 응원하기 기능을 새롭게 도입한다고 19일 밝혔다.  이용자는 카카오페이 송 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5996fc18e93f3c32d164c1ee0a574a69_74981_1.png" length="0" type="image/png"/>
+            <title><![CDATA[코리아센터, 다나와도 인수... 가격비교 이커머스 대공세 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7738</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7738</guid>
+            <pubDate>Fri, 26 Nov 2021 10:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[데이터 마케팅 인사이트] 국내 상륙한 ‘디즈니+’, ‘넷플릭스’ 대항마 될 수 있을까? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오 '음mm' 크리에이터 후원 기능 '응원하기' 도입 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7706</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7706</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[★★회사가 11월에 광고비 100만 원을 투자하여 500만 원의 매출이 발생하였습니다. 이 때 ROAS는 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 26 Nov 2021 08:20:53 GMT</pubDate>
+            <pubDate>Fri, 26 Nov 2021 10:20:02 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->★★회사가 11월에 광고비 100만 원을 투자하여 500만 원의 매출이 발생하였습니다. 이 때 ROAS는 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
