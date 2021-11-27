@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 09:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 10:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,13 +27,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56544</guid>
             <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[데이터, 이렇게 분석하세요! 데이터 분석 노하우 27개 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56516</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56516</guid>
-            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김매니저]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[효율보고서 쓰세요, 특히 인하우스 마케터분들 (아이보스 ─ 인기글)]]></title>
@@ -216,6 +209,13 @@
             <guid>https://www.i-boss.co.kr/ab-2973-426</guid>
             <pubDate>Fri, 05 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[앞으로 트렌드를 이끌어갈 뉴미디어 콘텐츠는? 🤔 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-5637-27</link>
+            <guid>https://www.i-boss.co.kr/ab-5637-27</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[중앙은행과 디지털 화폐 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -671,7 +671,7 @@
             <title><![CDATA[★★회사가 11월에 광고비 100만 원을 투자하여 500만 원의 매출이 발생하였습니다. 이 때 ROAS는 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 27 Nov 2021 09:17:32 GMT</pubDate>
+            <pubDate>Sat, 27 Nov 2021 10:18:54 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->★★회사가 11월에 광고비 100만 원을 투자하여 500만 원의 매출이 발생하였습니다. 이 때 ROAS는 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

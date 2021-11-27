@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-11-27T09:17:33.623Z</updated>
+    <updated>2021-11-27T10:18:55.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -25,13 +25,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-56544"/>
         <updated>2021-11-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[사각사각그림사이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이터, 이렇게 분석하세요! 데이터 분석 노하우 27개]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56516</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56516"/>
-        <updated>2021-10-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[김매니저]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[효율보고서 쓰세요, 특히 인하우스 마케터분들]]></title>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-2973-426"/>
         <updated>2021-11-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[당첨대쓔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앞으로 트렌드를 이끌어갈 뉴미디어 콘텐츠는? 🤔]]></title>
+        <id>https://www.i-boss.co.kr/ab-5637-27</id>
+        <link href="https://www.i-boss.co.kr/ab-5637-27"/>
+        <updated>2021-11-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
 </feed>
