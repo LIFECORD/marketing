@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 00:53:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 01:58:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -106,18 +106,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[키워드에 집중해야 마케팅이 잘 된다! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56593</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56593</guid>
-            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스파이더킴]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[카카오가 생각하는 오픈마켓은? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56687</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56687</guid>
             <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[키워드에 집중해야 마케팅이 잘 된다! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56593</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56593</guid>
+            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스파이더킴]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[내 머릿속에 저-장☆, 7년차 마자이너가 알려주는 매.. (아이보스 ─ 인기글)]]></title>
@@ -461,14 +461,14 @@
             <title><![CDATA[중앙은행과 디지털 화폐 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7740</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7740</guid>
-            <pubDate>Sat, 27 Nov 2021 00:53:00 GMT</pubDate>
+            <pubDate>Sat, 27 Nov 2021 09:07:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘읽는 습관’ 부족하고 제대로 글 안 읽는 사람 많아... 3명 중 1명 “주변에 읽기 능력이 부족한 사람이 많다” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7739</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7739</guid>
-            <pubDate>Sat, 27 Nov 2021 00:53:00 GMT</pubDate>
+            <pubDate>Sat, 27 Nov 2021 09:06:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -671,7 +671,7 @@
             <title><![CDATA[★★회사가 11월에 광고비 100만 원을 투자하여 500만 원의 매출이 발생하였습니다. 이 때 ROAS는 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 27 Nov 2021 00:53:12 GMT</pubDate>
+            <pubDate>Sat, 27 Nov 2021 01:58:09 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->★★회사가 11월에 광고비 100만 원을 투자하여 500만 원의 매출이 발생하였습니다. 이 때 ROAS는 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
