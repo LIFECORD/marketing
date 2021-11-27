@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 23:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 00:53:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중앙은행과 디지털 화폐]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7740</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7740</guid>
+            <pubDate>Sat, 27 Nov 2021 09:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[1600년대 후반, 지폐의 도입은 금융 시스템을 바꾸었다. 오늘날 중앙은행의 디지털 화폐(central bank digital currencies, CBDC)는 또 다른 변화를 일으킬 것으로 예상된다. 특히 CBDC는 일상적인 화폐(종이 또는 동전)와 암호화폐의 특정 특 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[읽는 습관 부족하고 제대로 글 안 읽는 사람 많아... 3명 중 1명 주변에 읽기 능력이 부족한 사람이 많다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7739</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7739</guid>
+            <pubDate>Sat, 27 Nov 2021 09:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[책을 비롯한 활자매체를 제대로 읽지 않는 경향이 뚜렷한 것으로, 10명 중 4명 이상(44.9%)이 평소 책을 거의 읽지 않고 있는 것으로 조사되었다. 10대~20대 저연령층에서 책을 잘 읽지 않는 성향이 가장 두드러졌지만 다른 연령대도 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[코리아센터, 다나와도 인수... 가격비교 이커머스 대공세]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7738</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 23 Nov 2021 09:14:00 GMT</pubDate>
             <content:encoded><![CDATA[이마케터에 따르면, 미국에서 커넥티드TV, 즉 CTV의 사용자가 계속 늘고 있어, CTV 월간 사용자는 미국 인구의 약 3분의 2를 차지한다. 미국 베이비 부머의 3분 1이상이CTV를 사용하고 있다. 젊은 사람들이 나이 든 사람들보다 CTV를  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[덴츠와 덴츠 디지털, CX 영역에 500명 규모의 크리에이터 집단 CX Creative Studio 설립]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7708</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7708</guid>
-            <pubDate>Tue, 23 Nov 2021 09:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[주식회사 덴츠(대표이사 사장 : 이가라시 히로시, 이하 덴츠)와 주식회사 덴츠 디지털(대표이사 사장 : 카와카미 소이치, 이하 덴츠 디지털)은크리에이티브의 힘을 광고 표현으로부터 확장시켜신규 획득으로부터 CRM까지 듀얼 퍼 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[11월 23일 마케팅 뉴스클리핑] 최소 900명 당했다... 네이버 블로거들 발칵 뒤집힌 이유 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7707</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7707</guid>
-            <pubDate>Tue, 23 Nov 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 최소 900명 당했다... 네이버 블로거들 발칵 뒤집힌 이유  900명 이상의 네이버 블로거 게시물이 무단으로 도용되는 사건이 벌어졌다. 한 프로그래머가 네이버 블로그 게시물을 구글에서 노출시키는 프로그램을 개발했다가 무 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a630c3ae64e22a2b7ebb315d81398d28_8033_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

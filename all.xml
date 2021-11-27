@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 23:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 00:53:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,13 +41,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56647</guid>
             <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마케터가 읽은 트렌드코리아 2022 📕 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-5637-26</link>
-            <guid>https://www.i-boss.co.kr/ab-5637-26</guid>
-            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[라이브커머스, 어떻게 진행하고 계신가요? (아이보스 ─ 인기글)]]></title>
@@ -97,13 +90,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56582</guid>
             <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[마케팅밈] 마케터의 세포들 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37593</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37593</guid>
-            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버 검색광고 고객센터는 웨일을 쓸까? (아이보스 ─ 인기글)]]></title>
@@ -216,6 +202,36 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56623</guid>
             <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MZ세대의 관심 '아트테크' 활용한 마케팅 이야기 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56632</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56632</guid>
+            <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 아이보스 10월 우수회원 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-426</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-426</guid>
+            <pubDate>Fri, 05 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[중앙은행과 디지털 화폐 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7740</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7740</guid>
+            <pubDate>Sat, 27 Nov 2021 09:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[1600년대 후반, 지폐의 도입은 금융 시스템을 바꾸었다. 오늘날 중앙은행의 디지털 화폐(central bank digital currencies, CBDC)는 또 다른 변화를 일으킬 것으로 예상된다. 특히 CBDC는 일상적인 화폐(종이 또는 동전)와 암호화폐의 특정 특 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[읽는 습관 부족하고 제대로 글 안 읽는 사람 많아... 3명 중 1명 주변에 읽기 능력이 부족한 사람이 많다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7739</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7739</guid>
+            <pubDate>Sat, 27 Nov 2021 09:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[책을 비롯한 활자매체를 제대로 읽지 않는 경향이 뚜렷한 것으로, 10명 중 4명 이상(44.9%)이 평소 책을 거의 읽지 않고 있는 것으로 조사되었다. 10대~20대 저연령층에서 책을 잘 읽지 않는 성향이 가장 두드러졌지만 다른 연령대도 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[코리아센터, 다나와도 인수... 가격비교 이커머스 대공세 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -442,20 +458,18 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[덴츠와 덴츠 디지털, CX 영역에 500명 규모의 크리에이터 집단 CX Creative Studio 설립 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7708</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7708</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[주식회사 덴츠(대표이사 사장 : 이가라시 히로시, 이하 덴츠)와 주식회사 덴츠 디지털(대표이사 사장 : 카와카미 소이치, 이하 덴츠 디지털)은크리에이티브의 힘을 광고 표현으로부터 확장시켜신규 획득으로부터 CRM까지 듀얼 퍼 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[중앙은행과 디지털 화폐 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7740</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7740</guid>
+            <pubDate>Sat, 27 Nov 2021 00:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[11월 23일 마케팅 뉴스클리핑] 최소 900명 당했다... 네이버 블로거들 발칵 뒤집힌 이유 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7707</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7707</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[1. 최소 900명 당했다... 네이버 블로거들 발칵 뒤집힌 이유  900명 이상의 네이버 블로거 게시물이 무단으로 도용되는 사건이 벌어졌다. 한 프로그래머가 네이버 블로그 게시물을 구글에서 노출시키는 프로그램을 개발했다가 무 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a630c3ae64e22a2b7ebb315d81398d28_8033_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘읽는 습관’ 부족하고 제대로 글 안 읽는 사람 많아... 3명 중 1명 “주변에 읽기 능력이 부족한 사람이 많다” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7739</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7739</guid>
+            <pubDate>Sat, 27 Nov 2021 00:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코리아센터, 다나와도 인수... 가격비교 이커머스 대공세 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -654,24 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[덴츠와 덴츠 디지털, CX 영역에 500명 규모의 크리에이터 집단 'CX Creative Studio' 설립 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7708</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7708</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[11월 23일 마케팅 뉴스클리핑] 최소 900명 당했다... 네이버 블로거들 발칵 뒤집힌 이유 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7707</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7707</guid>
-            <pubDate>Tue, 23 Nov 2021 12:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[★★회사가 11월에 광고비 100만 원을 투자하여 500만 원의 매출이 발생하였습니다. 이 때 ROAS는 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 26 Nov 2021 23:17:51 GMT</pubDate>
+            <pubDate>Sat, 27 Nov 2021 00:53:12 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->★★회사가 11월에 광고비 100만 원을 투자하여 500만 원의 매출이 발생하였습니다. 이 때 ROAS는 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
