@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 18:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 19:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,18 +204,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56715</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56715</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[상원1]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2021 아이보스 10월 우수회원 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-426</link>
             <guid>https://www.i-boss.co.kr/ab-2973-426</guid>
             <pubDate>Fri, 05 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[앞으로 트렌드를 이끌어갈 뉴미디어 콘텐츠는? 🤔 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-5637-27</link>
-            <guid>https://www.i-boss.co.kr/ab-5637-27</guid>
-            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[중앙은행과 디지털 화폐 (아이보스 ─ 마케팅 뉴스)]]></title>
