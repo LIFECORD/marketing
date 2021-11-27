@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-11-27T04:22:25.316Z</updated>
+    <updated>2021-11-27T05:15:41.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -181,6 +181,13 @@
         <content type="html"><![CDATA[준5941]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[윤쿨 시리즈] 언제까지 예쁜 소재만 만들래?]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56623</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56623"/>
+        <updated>2021-11-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[마케팅모먼트]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[맛의고수 맛고 차돌된장찌개 & 차돌볶음밥 세트]]></title>
         <id>https://www.i-boss.co.kr/ab-2825-480</id>
         <link href="https://www.i-boss.co.kr/ab-2825-480"/>
@@ -193,13 +200,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-56633"/>
         <updated>2021-11-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[준5941]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[윤쿨 시리즈] 언제까지 예쁜 소재만 만들래?]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56623</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56623"/>
-        <updated>2021-11-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[마케팅모먼트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MZ세대의 관심 '아트테크' 활용한 마케팅 이야기]]></title>
