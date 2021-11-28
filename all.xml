@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 15:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 16:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,6 +71,13 @@
             <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[마케팅밈] 마케터의 현타 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37799</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37799</guid>
+            <pubDate>Thu, 25 Nov 2021 04:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[카카오, 드디어 네이버 첫 추월 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56582</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56582</guid>
@@ -82,13 +89,6 @@
             <link>https://www.i-boss.co.kr/ab-1486505-37709</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37709</guid>
             <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[마케팅밈] 마케터의 현타 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37799</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37799</guid>
-            <pubDate>Thu, 25 Nov 2021 04:22:17 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -197,13 +197,6 @@
             <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[MZ세대의 관심 '아트테크' 활용한 마케팅 이야기 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56632</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56632</guid>
-            <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[우리가 NFT를 알아야 하는 이유 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37811</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37811</guid>
@@ -211,11 +204,18 @@
             <content:encoded><![CDATA[헤이데일리]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56715</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56715</guid>
-            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[상원1]]></content:encoded>
+            <title><![CDATA[MZ세대의 관심 '아트테크' 활용한 마케팅 이야기 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56632</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56632</guid>
+            <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[👩‍💻 지금이라도 제대로 알아봐요! 메타버스 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37637</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37637</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[헤이데일리]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NFT, 英콜린스가 선정한 올해의 단어 (아이보스 ─ 마케팅 뉴스)]]></title>

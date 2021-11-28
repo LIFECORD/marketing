@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-11-28T15:17:53.525Z</updated>
+    <updated>2021-11-28T16:25:38.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[마케팅모먼트]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[마케팅밈] 마케터의 현타]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-37799</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-37799"/>
+        <updated>2021-11-25T04:22:17.598Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[카카오, 드디어 네이버 첫 추월]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56582</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56582"/>
@@ -80,13 +87,6 @@
         <id>https://www.i-boss.co.kr/ab-1486505-37709</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-37709"/>
         <updated>2021-11-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마케팅밈] 마케터의 현타]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-37799</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-37799"/>
-        <updated>2021-11-25T04:22:17.598Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
@@ -195,13 +195,6 @@
         <content type="html"><![CDATA[준5941]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MZ세대의 관심 '아트테크' 활용한 마케팅 이야기]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56632</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56632"/>
-        <updated>2021-11-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[우리가 NFT를 알아야 하는 이유]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-37811</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-37811"/>
@@ -209,10 +202,17 @@
         <content type="html"><![CDATA[헤이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 ..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56715</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56715"/>
-        <updated>2021-11-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[상원1]]></content>
+        <title type="html"><![CDATA[MZ세대의 관심 '아트테크' 활용한 마케팅 이야기]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56632</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56632"/>
+        <updated>2021-11-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👩‍💻 지금이라도 제대로 알아봐요! 메타버스]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-37637</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-37637"/>
+        <updated>2021-11-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[헤이데일리]]></content>
     </entry>
 </feed>
