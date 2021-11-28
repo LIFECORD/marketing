@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 22:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 23:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[11월 29일 마케팅 뉴스클리핑] 네이버, 라이브 판매 기준 강화 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7737</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7737</guid>
+            <pubDate>Mon, 29 Nov 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버, 라이브 판매 기준 강화  네이버가 정부의 라이브커머스 규제 움직임에 선제적으로 라이브커머스에서 수입 건강식품 판매 기준을 강화한다. 네이버를 시작으로 각 플랫폼마다 소비자 안전을 위한 자율 가이드라인 마 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e5d82cfdd490b111ef85e53c5a5552bf_87100_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NFT, 英콜린스가 선정한 올해의 단어]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7745</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7715</guid>
             <pubDate>Wed, 24 Nov 2021 08:30:00 GMT</pubDate>
             <content:encoded><![CDATA[사람들이 가장 좋아하는 것 중 하나. 정치나 사회가 불안할 때, 가장 갖고 싶은 것. 바로 금이다. 수많은 연금술사들이 금을 만들어보려고 했지만, 결국 만들 수 없었다. 변하지 않고 인공적으로 만들 수 없기에, 그 가치가 계속  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[Trend from Tokyo] 벤토에도 스토리가 있다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7714</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7714</guid>
-            <pubDate>Wed, 24 Nov 2021 08:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[Bento a Japanese-style packed lunch (= a light meal that you take to eat at work or school), usually in a special box with separate parts or containers inside it. (출처Cambridge Dictionary) 일본 말로 벤토(弁当)는 우리나라 말로 도시락이다. 하지만 벤토에는 일본만의 독 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

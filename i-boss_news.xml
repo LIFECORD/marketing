@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2021-11-28T22:18:34.747Z</updated>
+    <updated>2021-11-28T23:17:52.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[11월 29일 마케팅 뉴스클리핑] 네이버, 라이브 판매 기준 강화 외]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7737</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7737"/>
+        <updated>2021-11-28T23:17:39.690Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT, 英콜린스가 선정한 올해의 단어]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7745</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-7715</id>
         <link href="https://www.i-boss.co.kr/ab-2877-7715"/>
         <updated>2021-11-24T00:53:53.960Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Trend from Tokyo] 벤토에도 스토리가 있다]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7714</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7714"/>
-        <updated>2021-11-24T00:53:53.961Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
