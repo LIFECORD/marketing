@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2021-11-27T23:23:35.000Z</updated>
+    <updated>2021-11-28T00:55:31.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NFT, 英콜린스가 선정한 올해의 단어]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7745</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7745"/>
+        <updated>2021-11-28T00:55:16.803Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5060 세대도 TV보다 ‘OTT 서비스’... 넷플릭스를 가장 많이 이용해]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7744</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7744"/>
+        <updated>2021-11-28T00:55:16.805Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5060 신중년, "나는 친환경을 입는다, 힙하니까"]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7743</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7743"/>
+        <updated>2021-11-28T00:55:16.805Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5060 신중년, 가장 인테리어하고 싶은 공간은 주방, 브랜드는 한샘]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7742</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7742"/>
+        <updated>2021-11-28T00:55:16.806Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FKII, "위드 코로나 시대의 디지털 비즈니스 전망" 세미나 개최]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7741</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7741"/>
+        <updated>2021-11-28T00:55:16.807Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중앙은행과 디지털 화폐]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7740</id>
@@ -178,41 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-7714</id>
         <link href="https://www.i-boss.co.kr/ab-2877-7714"/>
         <updated>2021-11-24T00:53:53.961Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[11월 24일 마케팅 뉴스클리핑] 트위터, '라이브 쇼핑' 시범 운영 외]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7713</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7713"/>
-        <updated>2021-11-23T23:20:51.331Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트위터, '라이브 쇼핑' 시범 운영]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7712</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7712"/>
-        <updated>2021-11-23T12:11:17.341Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황인선 작가, 클래스101에서 “세상을 바꾸는 Big Shot 마케팅” 라이브 강연]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7711</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7711"/>
-        <updated>2021-11-23T12:11:17.341Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2021-11월 ADPO] “11월, 오늘 삶의 여정은 어떤 여행일까”]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7710</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7710"/>
-        <updated>2021-11-23T12:11:17.341Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[커넥티드 TV, 모든 세대에서 사용이 확대되고 있어]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7709</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7709"/>
-        <updated>2021-11-23T12:11:17.343Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
