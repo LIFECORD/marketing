@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-11-29T10:20:18.864Z</updated>
+    <updated>2021-11-29T11:15:06.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -202,17 +202,17 @@
         <content type="html"><![CDATA[준5941]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MZ세대의 관심 '아트테크' 활용한 마케팅 이야기]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56632</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56632"/>
-        <updated>2021-11-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[앞으로 트렌드를 이끌어갈 뉴미디어 콘텐츠는? 🤔]]></title>
         <id>https://www.i-boss.co.kr/ab-5637-27</id>
         <link href="https://www.i-boss.co.kr/ab-5637-27"/>
         <updated>2021-11-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MZ세대의 관심 '아트테크' 활용한 마케팅 이야기]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56632</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56632"/>
+        <updated>2021-11-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
 </feed>
