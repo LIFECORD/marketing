@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 22:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 23:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56632</guid>
             <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[11월 30일 마케팅 뉴스클리핑] 네이버카카오쿠팡 등 온라인 임대료 투명하게 공개 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7752</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7752</guid>
+            <pubDate>Tue, 30 Nov 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버카카오쿠팡 등 `온라인 임대료` 투명하게 공개  이재명 대선 후보는 공약으로 플랫폼 수수료를 투명하게 공개하겠다고 밝혔다. 판매수수료, 주문관리 수수료, 간편결제 수수료, 심지어 광고비 등 온라인 플랫폼이 부과 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_bd1e2e3f42f86da93a9f7faf73cff5ed_29587_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국광고총연합회, 코로나19 이후 광고산업의 변화와 대응 전략 국제 광고세미나 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c8c423a8c33c2f0d82fc913276ed8b5e_90440_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카카오, 다음뉴스 구독 모델 전환... 언론사가 직접 편집 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7721</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7721</guid>
-            <pubDate>Wed, 24 Nov 2021 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[내년 1월부터 아웃링크 방식으로 운영  카카오가 운영하는 다음 뉴스 서비스가 구독 모델로 바뀐다. 기존 알고리즘 추천과 랭킹 방식의 뉴스 서비스는 종료된다.   카카오는 콘텐츠 제휴 언론사를 대상으로 다음 뉴스 서비스 개 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_68821840c4ca84a5e603a4ca967706ed_63461_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[11월 30일 마케팅 뉴스클리핑] 네이버·카카오·쿠팡 등 '온라인 임대료' 투명하게 공개 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7752</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7752</guid>
+            <pubDate>Mon, 29 Nov 2021 23:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국광고총연합회, "코로나19 이후 광고산업의 변화와 대응 전략" 국제 광고세미나 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,11 +668,17 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오, '다음뉴스' 구독 모델 전환... 언론사가 직접 편집 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7721</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7721</guid>
-            <pubDate>Wed, 24 Nov 2021 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[인스타그램 스토리 광고에 동영상을 업로드하려고 합니다. 이때 업로드할 수 있는 동영상의 최대 분량은 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Mon, 29 Nov 2021 23:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->인스타그램 스토리 광고에 동영상을 업로드하려고 합니다. 이때 업로드할 수 있는 동영상의 최대 분량은 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1309_1" value="1" class="AB-radio" id="PQ_BD5826_1309_1_0"><label for="PQ_BD5826_1309_1_0" id="label_PQ_BD5826_1309_1_0">(A) 30초</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1309_1" value="2" class="AB-radio" id="PQ_BD5826_1309_1_1"><label for="PQ_BD5826_1309_1_1" id="label_PQ_BD5826_1309_1_1">(B) 60초</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1309_1" value="3" class="AB-radio" id="PQ_BD5826_1309_1_2"><label for="PQ_BD5826_1309_1_2" id="label_PQ_BD5826_1309_1_2">(C) 90초</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1309_1" value="4" class="AB-radio" id="PQ_BD5826_1309_1_3"><label for="PQ_BD5826_1309_1_3" id="label_PQ_BD5826_1309_1_3">(D) 120초</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
     </channel>
 </rss>
