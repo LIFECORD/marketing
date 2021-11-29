@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 02:38:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 03:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국광고총연합회, 코로나19 이후 광고산업의 변화와 대응 전략 국제 광고세미나 개최]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7751</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7751</guid>
+            <pubDate>Mon, 29 Nov 2021 00:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국광고총연합회(회장 김낙회)는 창립50주년 기념 국제 광고 세지마를 `코로나19 이후 광고산업의 변화와 대응 전략`이라는 주제로 12월 2일코엑스에서 개최한다. 이번 세미나에는비베카 챈 WE 마케팅 그룹의 회장 및 CEO이자 前 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[카카오 이모티콘 출시 10년... 누적 매출 10억 이상 92개]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7750</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 24 Nov 2021 08:20:42 GMT</pubDate>
             <content:encoded><![CDATA[내년 1월부터 아웃링크 방식으로 운영  카카오가 운영하는 다음 뉴스 서비스가 구독 모델로 바뀐다. 기존 알고리즘 추천과 랭킹 방식의 뉴스 서비스는 종료된다.   카카오는 콘텐츠 제휴 언론사를 대상으로 다음 뉴스 서비스 개 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_68821840c4ca84a5e603a4ca967706ed_63461_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버, 관심사  취향 반영한 쇼핑 큐레이션 포유 탭 신설]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7720</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7720</guid>
-            <pubDate>Wed, 24 Nov 2021 00:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[네이버쇼핑서 이용... 실시간 취향 분석 엔진 탑재해 쇼핑 테마 추천   네이버가 이용자 개인 관심사와 취향을 모은 인공지능(AI) 쇼핑 큐레이션 공간 `포유(FOR YOU)` 탭을 네이버쇼핑에 신설했다.  이 서비스는 AI 상품 추천 기술인  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16377244383021.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
