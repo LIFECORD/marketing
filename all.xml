@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 21:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 22:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,18 +113,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버 검색광고 고객센터는 웨일을 쓸까? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37625</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37625</guid>
-            <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[프랜차이즈X]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[우리가 NFT를 알아야 하는 이유 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37811</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37811</guid>
             <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[헤이데일리]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네이버 검색광고 고객센터는 웨일을 쓸까? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37625</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37625</guid>
+            <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[프랜차이즈X]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[키워드에 집중해야 마케팅이 잘 된다! (아이보스 ─ 인기글)]]></title>
