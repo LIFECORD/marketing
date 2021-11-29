@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 08:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 09:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,13 +50,6 @@
             <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[MZ의 성향을 이용한 머니러시 마케팅 사례 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56661</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56661</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 마케터의 현타 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37799</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37799</guid>
@@ -69,6 +62,13 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-37755</guid>
             <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[헤이데일리]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MZ의 성향을 이용한 머니러시 마케팅 사례 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56661</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56661</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일잘러로 소문난 마케터 3인  | 인사이트 엿보기 (아이보스 ─ 인기글)]]></title>
@@ -155,13 +155,6 @@
             <content:encoded><![CDATA[헤이데일리]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[구글 유튜브 광고 1억 집행, 매출 4억 초반 후기 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56654</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56654</guid>
-            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아나키]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[카피 문구를 바꿨을 뿐인데 "역대급 매출 기록" (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56657</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56657</guid>
@@ -169,11 +162,25 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[구글 유튜브 광고 1억 집행, 매출 4억 초반 후기 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56654</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56654</guid>
+            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아나키]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[가장 효율적인 퍼포먼스 마케팅 방법론 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56683</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56683</guid>
             <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[준5941]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56715</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56715</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[상원1]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[윤쿨 시리즈] 언제까지 예쁜 소재만 만들래? (아이보스 ─ 인기글)]]></title>
@@ -195,13 +202,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56633</guid>
             <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[준5941]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56715</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56715</guid>
-            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[상원1]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MZ세대의 관심 '아트테크' 활용한 마케팅 이야기 (아이보스 ─ 인기글)]]></title>
@@ -671,7 +671,7 @@
             <title><![CDATA[다음 이미지에서 AARRR 퍼널에 대한 설명으로 옳지 않은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 29 Nov 2021 08:21:17 GMT</pubDate>
+            <pubDate>Mon, 29 Nov 2021 09:19:10 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 AARRR 퍼널에 대한 설명으로 옳지 않은 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/35aece39a3a48b6d8bbbee08ca847993_16378245288565.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
