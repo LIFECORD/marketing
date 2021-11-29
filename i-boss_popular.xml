@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-11-29T07:17:46.870Z</updated>
+    <updated>2021-11-29T08:21:17.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -146,18 +146,18 @@
         <content type="html"><![CDATA[놀토]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 유튜브 광고 1억 집행, 매출 4억 초반 후기]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56654</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56654"/>
-        <updated>2021-11-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아나키]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[우리가 NFT를 알아야 하는 이유]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-37811</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-37811"/>
         <updated>2021-11-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[헤이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 유튜브 광고 1억 집행, 매출 4억 초반 후기]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56654</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56654"/>
+        <updated>2021-11-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아나키]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카피 문구를 바꿨을 뿐인데 "역대급 매출 기록"]]></title>
