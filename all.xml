@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 07:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 08:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,18 +134,18 @@
             <content:encoded><![CDATA[스파이더킴]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케팅판을 여행하는 돈없는 마케터를 위한 안내서 2 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56698</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56698</guid>
-            <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[DV360]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[요즘 강박에 시달리고 있습니다..... (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37726</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37726</guid>
             <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[쥬녕쓰]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케팅판을 여행하는 돈없는 마케터를 위한 안내서 2 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56698</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56698</guid>
+            <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[DV360]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마감] 오늘 빼빼로 데이, 벙개 이벤트 선착순 11분에.. (아이보스 ─ 인기글)]]></title>
@@ -190,18 +190,18 @@
             <content:encoded><![CDATA[셀트너]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[맛의고수 맛고 차돌된장찌개 & 차돌볶음밥 세트 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2825-480</link>
-            <guid>https://www.i-boss.co.kr/ab-2825-480</guid>
-            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[앞으로 트렌드를 이끌어갈 뉴미디어 콘텐츠는? 🤔 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-5637-27</link>
             <guid>https://www.i-boss.co.kr/ab-5637-27</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[맛의고수 맛고 차돌된장찌개 & 차돌볶음밥 세트 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2825-480</link>
+            <guid>https://www.i-boss.co.kr/ab-2825-480</guid>
+            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[윤쿨 시리즈] 언제까지 예쁜 소재만 만들래? (아이보스 ─ 인기글)]]></title>
@@ -671,7 +671,7 @@
             <title><![CDATA[인스타그램 스토리 광고에 동영상을 업로드하려고 합니다. 이때 업로드할 수 있는 동영상의 최대 분량은 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 07:14:39 GMT</pubDate>
+            <pubDate>Tue, 30 Nov 2021 08:17:51 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->인스타그램 스토리 광고에 동영상을 업로드하려고 합니다. 이때 업로드할 수 있는 동영상의 최대 분량은 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
