@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 22:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 23:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12월 1일 마케팅 뉴스클리핑] 광고도 디지털이 대세... 내년 점유율 50% 넘는다 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7758</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7758</guid>
+            <pubDate>Wed, 01 Dec 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 광고도 디지털이 대세... 내년 점유율 50% 넘는다  내년 모바일 광고가 사상 처음 전체 시장의 절반을 넘어설 것이라는 전망이다. 나스미디어의 보고서에 따르면 내년 국내 광고 시장 규모는 13조 558억 원으로, 올해보다 4% 성장 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2acbaa8530f34c18e615932ceea478c0_14365_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KAI] 훈훈한 12월 광고시장, 연말에도 집행 계속된다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7759</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 25 Nov 2021 00:02:00 GMT</pubDate>
             <content:encoded><![CDATA[자사앱 구축 솔루션 제공개발, 운영, 유지보수 등 추가 비용 없어고객 접점은 늘리고 최소 비용으로 자체 플랫폼 운영 부담 줄여   위메프오가 외식업 종사자들이 직접 운영하는 D2C(Direct to Customer) 배달앱 솔루션 위메프오 플러 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_08a5b800370df5c24130617f12454d06_12081_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[믹스패널, 마켓핏랩과 대한민국 스타트업 지원프로그램 연다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7728</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7728</guid>
-            <pubDate>Thu, 25 Nov 2021 09:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 유니콘 기업 믹스패널이 한국 스타트업을 위한 지원 프로그램을 시작한다고 밝혔다. 아미르 모바파기 CEO는 믹스패널이 2억 달러(한화 2300억원 상당)의 투자 유치에 성공하였다고 밝힌 가운데, 오는 12월 1일부터 대한민국 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
