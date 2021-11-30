@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 09:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 10:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KAI] 훈훈한 12월 광고시장, 연말에도 집행 계속된다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7759</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7759</guid>
+            <pubDate>Tue, 30 Nov 2021 10:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송광고진흥공사(코바코, 사장 이백만)가 2021년 12월의 광고경기를 전망하는 광고경기전망지수(KAI ; Korea Advertising Index)를 발표했다. 12월 KAI는 100.7로, 모든 매체에서 보합세를 유지하며 연말까지 꾸준한 광고 집행이 이어지 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[구글플레이, 2021 올해를 빛낸 앱게임 발표]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7757</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7728</guid>
             <pubDate>Thu, 25 Nov 2021 09:18:00 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 유니콘 기업 믹스패널이 한국 스타트업을 위한 지원 프로그램을 시작한다고 밝혔다. 아미르 모바파기 CEO는 믹스패널이 2억 달러(한화 2300억원 상당)의 투자 유치에 성공하였다고 밝힌 가운데, 오는 12월 1일부터 대한민국 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[몰로코, 딜로이트 테크놀로지 패스트 500 선정...고속성장하는 혁신 기업으로 인정받아]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7727</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7727</guid>
-            <pubDate>Thu, 25 Nov 2021 09:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌AI테크 기업 몰로코(Moloco,대표 안익진)가 올해 딜로이트(Deloitte)의 테크놀로지 패스트500(Technology Fast 500)에서 북미 전역91위,샌프란시스코 베이지역에서26위로 이름을 올렸다.몰로코는3년간 무려1,797%의 성장률을 기록하며  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
