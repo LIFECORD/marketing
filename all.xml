@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 02:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 03:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,6 +197,13 @@
             <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? ) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56721</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56721</guid>
+            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[셀트너]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[앞으로 트렌드를 이끌어갈 뉴미디어 콘텐츠는? 🤔 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-5637-27</link>
             <guid>https://www.i-boss.co.kr/ab-5637-27</guid>
@@ -209,13 +216,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56633</guid>
             <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[준5941]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? ) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56721</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56721</guid>
-            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[셀트너]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구글플레이, 2021 올해를 빛낸 앱게임 발표 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -671,7 +671,7 @@
             <title><![CDATA[인스타그램 스토리 광고에 동영상을 업로드하려고 합니다. 이때 업로드할 수 있는 동영상의 최대 분량은 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 02:20:39 GMT</pubDate>
+            <pubDate>Tue, 30 Nov 2021 03:15:35 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->인스타그램 스토리 광고에 동영상을 업로드하려고 합니다. 이때 업로드할 수 있는 동영상의 최대 분량은 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
