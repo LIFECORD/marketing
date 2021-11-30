@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-11-30T13:15:04.248Z</updated>
+    <updated>2021-11-30T14:16:59.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5분 만에 보는 트렌드 코리아 2022]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-37755</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-37755"/>
-        <updated>2021-11-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[헤이데일리]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MZ의 성향을 이용한 머니러시 마케팅 사례]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56661</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56661"/>
         <updated>2021-11-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5분 만에 보는 트렌드 코리아 2022]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-37755</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-37755"/>
+        <updated>2021-11-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[헤이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일잘러로 소문난 마케터 3인  | 인사이트 엿보기]]></title>
@@ -167,6 +167,13 @@
         <content type="html"><![CDATA[아나키]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? )]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56721</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56721"/>
+        <updated>2021-11-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[셀트너]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 ..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56715</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56715"/>
@@ -179,13 +186,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-56683"/>
         <updated>2021-11-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[준5941]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? )]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56721</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56721"/>
-        <updated>2021-11-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[셀트너]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[앞으로 트렌드를 이끌어갈 뉴미디어 콘텐츠는? 🤔]]></title>
