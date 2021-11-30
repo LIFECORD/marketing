@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 00:56:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 01:52:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,6 +85,13 @@
             <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[내 머릿속에 저-장☆, 7년차 마자이너가 알려주는 매.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56693</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56693</guid>
+            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[마케팅밈] 마케터의 일상 - 1 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37709</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37709</guid>
@@ -97,13 +104,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56582</guid>
             <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[내 머릿속에 저-장☆, 7년차 마자이너가 알려주는 매.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56693</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56693</guid>
-            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카카오가 생각하는 오픈마켓은? (아이보스 ─ 인기글)]]></title>
@@ -155,18 +155,18 @@
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카피 문구를 바꿨을 뿐인데 "역대급 매출 기록" (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56657</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56657</guid>
-            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[yoorok]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[구글 유튜브 광고 1억 집행, 매출 4억 초반 후기 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56654</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56654</guid>
             <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아나키]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카피 문구를 바꿨을 뿐인데 "역대급 매출 기록" (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56657</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56657</guid>
+            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가장 효율적인 퍼포먼스 마케팅 방법론 (아이보스 ─ 인기글)]]></title>
@@ -211,11 +211,19 @@
             <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[MZ세대의 관심 '아트테크' 활용한 마케팅 이야기 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56632</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56632</guid>
-            <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
+            <title><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? ) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56721</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56721</guid>
+            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[셀트너]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[구글플레이, 2021 올해를 빛낸 앱게임 발표 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7757</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7757</guid>
+            <pubDate>Tue, 30 Nov 2021 10:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[구글플레이가30일 구글 플레이스토어를 통해 2021올해의 베스트 앱과 2021올해의 베스트 게임 최우수상 수상작을 발표했다. 구글플레이는 매년 말 엔터테인먼트,일상생활,자기계발 등의 앱 부문 카테고리와 경쟁력,혁신성,인디  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[제19회 KPR 대학생 PR 아이디어 공모전 개최... 총 상금 1천 2백만원 및 인턴십 기회 제공 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,39 +458,38 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[신사와 아가씨 처음으로 한국인이 좋아하는 TV프로그램 1위에 올라 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7726</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7726</guid>
-            <pubDate>Thu, 25 Nov 2021 08:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국갤럽이 2021년 11월 16~18일 전국 만 18세 이상 1,000명에게 요즘 가장 즐겨보는 TV프로그램을 물은 결과(2개까지 자유응답), KBS2 주말 드라마신사와 아가씨 가 선호도 6.2%로 1위를 차지했다. 신사와 아가씨는 20대 입주 가정교사 박 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[구글플레이, ‘2021 올해를 빛낸 앱·게임’ 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7757</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7757</guid>
+            <pubDate>Tue, 30 Nov 2021 01:51:55 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘제19회 KPR 대학생 PR 아이디어 공모전’ 개최... 총 상금 1천 2백만원 및 인턴십 기회 제공 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7756</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7756</guid>
-            <pubDate>Tue, 30 Nov 2021 00:56:39 GMT</pubDate>
+            <pubDate>Tue, 30 Nov 2021 09:49:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[애드저스트, 이커머스 앱 평균 세션 길이의 지속적인 증가... 최근 전 세계적으로 세션당 11분 기록 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7755</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7755</guid>
-            <pubDate>Tue, 30 Nov 2021 00:56:39 GMT</pubDate>
+            <pubDate>Tue, 30 Nov 2021 09:48:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 4대 프로그래매틱 트렌드 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7754</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7754</guid>
-            <pubDate>Tue, 30 Nov 2021 00:56:39 GMT</pubDate>
+            <pubDate>Tue, 30 Nov 2021 08:56:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[해외광고특선] PTSD를 완벽하게 설명하는 방법 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7753</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7753</guid>
-            <pubDate>Tue, 30 Nov 2021 00:56:39 GMT</pubDate>
+            <pubDate>Tue, 30 Nov 2021 08:55:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["신사와 아가씨" 처음으로 한국인이 좋아하는 TV프로그램 1위에 올라 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7726</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7726</guid>
-            <pubDate>Thu, 25 Nov 2021 08:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[인스타그램 스토리 광고에 동영상을 업로드하려고 합니다. 이때 업로드할 수 있는 동영상의 최대 분량은 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 00:56:52 GMT</pubDate>
+            <pubDate>Tue, 30 Nov 2021 01:52:06 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->인스타그램 스토리 광고에 동영상을 업로드하려고 합니다. 이때 업로드할 수 있는 동영상의 최대 분량은 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

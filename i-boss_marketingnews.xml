@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 00:56:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 01:52:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글플레이, 2021 올해를 빛낸 앱게임 발표]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7757</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7757</guid>
+            <pubDate>Tue, 30 Nov 2021 10:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[구글플레이가30일 구글 플레이스토어를 통해 2021올해의 베스트 앱과 2021올해의 베스트 게임 최우수상 수상작을 발표했다. 구글플레이는 매년 말 엔터테인먼트,일상생활,자기계발 등의 앱 부문 카테고리와 경쟁력,혁신성,인디  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[제19회 KPR 대학생 PR 아이디어 공모전 개최... 총 상금 1천 2백만원 및 인턴십 기회 제공]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7756</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7727</guid>
             <pubDate>Thu, 25 Nov 2021 09:11:00 GMT</pubDate>
             <content:encoded><![CDATA[글로벌AI테크 기업 몰로코(Moloco,대표 안익진)가 올해 딜로이트(Deloitte)의 테크놀로지 패스트500(Technology Fast 500)에서 북미 전역91위,샌프란시스코 베이지역에서26위로 이름을 올렸다.몰로코는3년간 무려1,797%의 성장률을 기록하며  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[신사와 아가씨 처음으로 한국인이 좋아하는 TV프로그램 1위에 올라]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7726</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7726</guid>
-            <pubDate>Thu, 25 Nov 2021 08:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국갤럽이 2021년 11월 16~18일 전국 만 18세 이상 1,000명에게 요즘 가장 즐겨보는 TV프로그램을 물은 결과(2개까지 자유응답), KBS2 주말 드라마신사와 아가씨 가 선호도 6.2%로 1위를 차지했다. 신사와 아가씨는 20대 입주 가정교사 박 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
