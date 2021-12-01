@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 22:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 23:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12월 2일 마케팅 뉴스클리핑] 21년 차 벅스의 변신... 업계는 반신반의 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7768</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7768</guid>
+            <pubDate>Thu, 02 Dec 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 21년 차 벅스의 변신... 업계는 `반신반의`  음악 스트리밍 플랫폼 벅스가 콘텐츠 사업으로 전환하며 재기를 노린다. 유튜브 뮤직스포티파이 등 해외 음원 스트리밍 플랫폼까지 국내 시장에 뛰어들며 경쟁이 가열되고 매출이  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_617c52d8074ac51ecf5431a3dafc6ae2_10813_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 대한민국대학생광고대상, 서강대 구해줘 내 식당 팀 대상 수상]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7767</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7740</guid>
             <pubDate>Sat, 27 Nov 2021 09:07:00 GMT</pubDate>
             <content:encoded><![CDATA[1600년대 후반, 지폐의 도입은 금융 시스템을 바꾸었다. 오늘날 중앙은행의 디지털 화폐(central bank digital currencies, CBDC)는 또 다른 변화를 일으킬 것으로 예상된다. 특히 CBDC는 일상적인 화폐(종이 또는 동전)와 암호화폐의 특정 특 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[읽는 습관 부족하고 제대로 글 안 읽는 사람 많아... 3명 중 1명 주변에 읽기 능력이 부족한 사람이 많다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7739</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7739</guid>
-            <pubDate>Sat, 27 Nov 2021 09:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[책을 비롯한 활자매체를 제대로 읽지 않는 경향이 뚜렷한 것으로, 10명 중 4명 이상(44.9%)이 평소 책을 거의 읽지 않고 있는 것으로 조사되었다. 10대~20대 저연령층에서 책을 잘 읽지 않는 성향이 가장 두드러졌지만 다른 연령대도 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

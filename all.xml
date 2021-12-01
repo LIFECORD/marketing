@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 22:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 23:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,6 +190,13 @@
             <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[SW]  상원 최신판 올마식 광고관리 비법 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56735</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56735</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[상원1]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[데이터 정리는 필수! 자동화 하는 방법 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56633</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56633</guid>
@@ -204,18 +211,19 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[SW]  상원 최신판 올마식 광고관리 비법 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56735</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56735</guid>
-            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[상원1]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[👩‍💻 지금이라도 제대로 알아봐요! 메타버스 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37637</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37637</guid>
             <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[헤이데일리]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[12월 2일 마케팅 뉴스클리핑] 21년 차 벅스의 변신... 업계는 반신반의 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7768</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7768</guid>
+            <pubDate>Thu, 02 Dec 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 21년 차 벅스의 변신... 업계는 `반신반의`  음악 스트리밍 플랫폼 벅스가 콘텐츠 사업으로 전환하며 재기를 노린다. 유튜브 뮤직스포티파이 등 해외 음원 스트리밍 플랫폼까지 국내 시장에 뛰어들며 경쟁이 가열되고 매출이  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_617c52d8074ac51ecf5431a3dafc6ae2_10813_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 대한민국대학생광고대상, 서강대 구해줘 내 식당 팀 대상 수상 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[읽는 습관 부족하고 제대로 글 안 읽는 사람 많아... 3명 중 1명 주변에 읽기 능력이 부족한 사람이 많다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7739</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7739</guid>
-            <pubDate>Sat, 27 Nov 2021 09:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[책을 비롯한 활자매체를 제대로 읽지 않는 경향이 뚜렷한 것으로, 10명 중 4명 이상(44.9%)이 평소 책을 거의 읽지 않고 있는 것으로 조사되었다. 10대~20대 저연령층에서 책을 잘 읽지 않는 성향이 가장 두드러졌지만 다른 연령대도 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[12월 2일 마케팅 뉴스클리핑] 21년 차 벅스의 변신... 업계는 '반신반의' 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7768</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7768</guid>
+            <pubDate>Wed, 01 Dec 2021 23:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 대한민국대학생광고대상, 서강대 ‘구해줘 내 식당’ 팀 대상 수상 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,11 +668,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘읽는 습관’ 부족하고 제대로 글 안 읽는 사람 많아... 3명 중 1명 “주변에 읽기 능력이 부족한 사람이 많다” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7739</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7739</guid>
-            <pubDate>Sat, 27 Nov 2021 09:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[다음 대화를 보고 알 수 있는 광고 형식은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Wed, 01 Dec 2021 23:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 대화를 보고 알 수 있는 광고 형식은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/35aece39a3a48b6d8bbbee08ca847993_16378252693991.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1311_1" value="1" class="AB-radio" id="PQ_BD5826_1311_1_0"><label for="PQ_BD5826_1311_1_0" id="label_PQ_BD5826_1311_1_0">(A) TAS 광고</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1311_1" value="2" class="AB-radio" id="PQ_BD5826_1311_1_1"><label for="PQ_BD5826_1311_1_1" id="label_PQ_BD5826_1311_1_1">(B) 리치미디어 광고</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1311_1" value="3" class="AB-radio" id="PQ_BD5826_1311_1_2"><label for="PQ_BD5826_1311_1_2" id="label_PQ_BD5826_1311_1_2">(C) 오퍼월 광고</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1311_1" value="4" class="AB-radio" id="PQ_BD5826_1311_1_3"><label for="PQ_BD5826_1311_1_3" id="label_PQ_BD5826_1311_1_3">(D) 네이티브 광고</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
     </channel>
 </rss>
