@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 13:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 14:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,13 +13,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56595</guid>
             <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅랩소디]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[매출이 발생하지 않는 3가지 이유 (feat. 우뇌) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56546</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56546</guid>
-            <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[효율보고서 쓰세요, 특히 인하우스 마케터분들 (아이보스 ─ 인기글)]]></title>
@@ -216,6 +209,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56735</guid>
             <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[상원1]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[👩‍💻 지금이라도 제대로 알아봐요! 메타버스 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37637</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37637</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[헤이데일리]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 대한민국대학생광고대상, 서강대 구해줘 내 식당 팀 대상 수상 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -671,7 +671,7 @@
             <title><![CDATA[다음 중 <트렌드코리아 2022>에서 제시한 키워드로, 부업이나 투자를 통해 수입을 늘리려는 노력을 뜻하는 이 말은 무엇일까요?(hint: 큐레터의 레퍼런스 보고 정답 살짝 엿보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 13:24:58 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 14:17:02 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 &lt;트렌드코리아 2022&gt;에서 제시한 키워드로, 부업이나 투자를 통해 수입을 늘리려는 노력을 뜻하는 이 말은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-56661" target="_blank">큐레터의 레퍼런스 보고 정답 살짝 엿보기!</a>)</span></td>
 			</tr>
