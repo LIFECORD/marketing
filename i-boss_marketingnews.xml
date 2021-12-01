@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 06:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 07:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 대한민국대학생광고대상, 서강대 구해줘 내 식당 팀 대상 수상]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7767</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7767</guid>
+            <pubDate>Wed, 01 Dec 2021 07:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[한국광고총연합회가 주관하고 문화체육관광부가 주최한2021 대한민국대학생광고대회(이하 KOSAC) 전국대회가 11월 29일, 코엑스 그랜드컨퍼런스룸에서 개최 되었다. 이로써 KOSAC은 지난 5월 대회집행위원회 개최를 시작으로 주제 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[두나무, 메타버스 플랫폼 세컨블록 오픈 베타 시작]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7766</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 Nov 2021 09:06:00 GMT</pubDate>
             <content:encoded><![CDATA[책을 비롯한 활자매체를 제대로 읽지 않는 경향이 뚜렷한 것으로, 10명 중 4명 이상(44.9%)이 평소 책을 거의 읽지 않고 있는 것으로 조사되었다. 10대~20대 저연령층에서 책을 잘 읽지 않는 성향이 가장 두드러졌지만 다른 연령대도 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[코리아센터, 다나와도 인수... 가격비교 이커머스 대공세]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7738</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7738</guid>
-            <pubDate>Fri, 26 Nov 2021 10:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[코리아센터가 다나와 경영권 인수를 위한 주식매매계약을 26일 체결했다.    종합 이커머스 전문 기업 코리아센터는 해외직구 대행 플랫폼 `몰테일`, 가격 비교 플랫폼 `에누리닷컴(써머스플랫폼)`에 더해  PC 중심 최저가 가격 비 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2d6dce182335ce269a172a400a394ec6_99300_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
