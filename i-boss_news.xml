@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2021-12-01T04:23:12.895Z</updated>
+    <updated>2021-12-01T05:17:02.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[두나무, 메타버스 플랫폼 '세컨블록' 오픈 베타 시작]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7766</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7766"/>
+        <updated>2021-12-01T05:16:47.504Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Ace Talk] “More than expected! 항상 기대하는 것 이상의 서비스를 제공하겠습니다”, 나스미디어 정기호 대표]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7765</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7765"/>
+        <updated>2021-12-01T05:16:47.504Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울산업진흥원·한국가상증강현실산업협회, ‘2021 DMC XR 기술 포럼’ 12월 8일 개최]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7764</id>
@@ -200,19 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-7738"/>
         <updated>2021-11-26T10:19:49.308Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데이터 마케팅 인사이트] 국내 상륙한 ‘디즈니+’, ‘넷플릭스’ 대항마 될 수 있을까?]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7736</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7736"/>
-        <updated>2021-11-26T00:53:07.444Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제 AR 매장에서 쇼핑하세요]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7735</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7735"/>
-        <updated>2021-11-26T00:53:07.444Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>

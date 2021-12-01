@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 04:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 05:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -155,11 +155,11 @@
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카피 문구를 바꿨을 뿐인데 "역대급 매출 기록" (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56657</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56657</guid>
-            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[yoorok]]></content:encoded>
+            <title><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? ) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56721</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56721</guid>
+            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[셀트너]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구글 유튜브 광고 1억 집행, 매출 4억 초반 후기 (아이보스 ─ 인기글)]]></title>
@@ -169,11 +169,11 @@
             <content:encoded><![CDATA[아나키]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? ) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56721</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56721</guid>
-            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[셀트너]]></content:encoded>
+            <title><![CDATA[카피 문구를 바꿨을 뿐인데 "역대급 매출 기록" (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56657</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56657</guid>
+            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 .. (아이보스 ─ 인기글)]]></title>
@@ -216,6 +216,22 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56633</guid>
             <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[준5941]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[두나무, 메타버스 플랫폼 세컨블록 오픈 베타 시작 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7766</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7766</guid>
+            <pubDate>Wed, 01 Dec 2021 05:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[블록체인 및 핀테크 전문기업 두나무가 메타버스 플랫폼 `세컨드블록`(2ndblock)의 오픈 베타 서비스를 시작한다고 30일 밝혔다.  세컨블록은 차별화된 기술력을 바탕으로 현존하는 메타버스 플랫폼 중 최대 인원의 동시 접속이  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16383347566007.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Ace Talk] More than expected! 항상 기대하는 것 이상의 서비스를 제공하겠습니다, 나스미디어 정기호 대표 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7765</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7765</guid>
+            <pubDate>Wed, 01 Dec 2021 05:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[한국광고학회(회장 안대천 인하대 교수)는 지난 11월 18일 광고계 대표기업 CEO대담 프로그램 ACE Talk 여섯번째 시간으로 나스미디어 정기호 대표와 단국대 박현수 교수와의 대담을 진행했다. 정기호 대표는 지난 2000년 웹 1.0 이라  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[서울산업진흥원한국가상증강현실산업협회, 2021 DMC XR 기술 포럼 12월 8일 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -442,20 +458,18 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2d6dce182335ce269a172a400a394ec6_99300_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[데이터 마케팅 인사이트] 국내 상륙한 디즈니+, 넷플릭스 대항마 될 수 있을까? (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7736</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7736</guid>
-            <pubDate>Fri, 26 Nov 2021 09:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 모바일 빅데이터 플랫폼 기업 아이지에이웍스가모바일인덱스리포트를 발표했다. 이번 리포트는디즈니+출시 초반DAU, 디즈니+및넷플릭스 DAU비교,주요OTT앱1인당 평균 사용시간, 디즈니+및넷플릭스앱 교차 사용 현황에  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[두나무, 메타버스 플랫폼 '세컨블록' 오픈 베타 시작 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7766</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7766</guid>
+            <pubDate>Wed, 01 Dec 2021 05:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이제 AR 매장에서 쇼핑하세요 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7735</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7735</guid>
-            <pubDate>Fri, 26 Nov 2021 08:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[올해도 추수감사절로 시작되는 미국 최대 쇼핑 시즌이 돌아왔다. 이번 명절에 직접 매장을 방문하지 못하는 사람들을 위해 스냅은 AR 홀리데이 마켓을 오픈했다.블랙프라이데이(11월 26일)부터 스냅챗 사용자들은 앱을 통해 AR 홀 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[Ace Talk] “More than expected! 항상 기대하는 것 이상의 서비스를 제공하겠습니다”, 나스미디어 정기호 대표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7765</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7765</guid>
+            <pubDate>Wed, 01 Dec 2021 05:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울산업진흥원·한국가상증강현실산업협회, ‘2021 DMC XR 기술 포럼’ 12월 8일 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -654,24 +668,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[데이터 마케팅 인사이트] 국내 상륙한 ‘디즈니+’, ‘넷플릭스’ 대항마 될 수 있을까? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7736</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7736</guid>
-            <pubDate>Fri, 26 Nov 2021 09:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이제 AR 매장에서 쇼핑하세요 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7735</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7735</guid>
-            <pubDate>Fri, 26 Nov 2021 08:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 <트렌드코리아 2022>에서 제시한 키워드로, 부업이나 투자를 통해 수입을 늘리려는 노력을 뜻하는 이 말은 무엇일까요?(hint: 큐레터의 레퍼런스 보고 정답 살짝 엿보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 04:23:12 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 05:17:02 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 &lt;트렌드코리아 2022&gt;에서 제시한 키워드로, 부업이나 투자를 통해 수입을 늘리려는 노력을 뜻하는 이 말은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-56661" target="_blank">큐레터의 레퍼런스 보고 정답 살짝 엿보기!</a>)</span></td>
 			</tr>
