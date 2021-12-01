@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 15:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 16:27:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,18 +113,18 @@
             <content:encoded><![CDATA[스파이더킴]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[요즘 강박에 시달리고 있습니다..... (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37726</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37726</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쥬녕쓰]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케팅판을 여행하는 돈없는 마케터를 위한 안내서 2 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56698</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56698</guid>
             <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[DV360]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[요즘 강박에 시달리고 있습니다..... (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37726</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37726</guid>
+            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쥬녕쓰]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? ) (아이보스 ─ 인기글)]]></title>
