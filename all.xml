@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 05:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 06:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -99,18 +99,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오, 드디어 네이버 첫 추월 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56582</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56582</guid>
-            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[우리가 NFT를 알아야 하는 이유 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37811</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37811</guid>
             <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[헤이데일리]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카카오, 드디어 네이버 첫 추월 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56582</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56582</guid>
+            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카카오가 생각하는 오픈마켓은? (아이보스 ─ 인기글)]]></title>
@@ -461,14 +461,14 @@
             <title><![CDATA[두나무, 메타버스 플랫폼 '세컨블록' 오픈 베타 시작 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7766</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7766</guid>
-            <pubDate>Wed, 01 Dec 2021 05:16:47 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 05:16:32 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[Ace Talk] “More than expected! 항상 기대하는 것 이상의 서비스를 제공하겠습니다”, 나스미디어 정기호 대표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7765</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7765</guid>
-            <pubDate>Wed, 01 Dec 2021 05:16:47 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 05:16:32 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -671,7 +671,7 @@
             <title><![CDATA[다음 중 <트렌드코리아 2022>에서 제시한 키워드로, 부업이나 투자를 통해 수입을 늘리려는 노력을 뜻하는 이 말은 무엇일까요?(hint: 큐레터의 레퍼런스 보고 정답 살짝 엿보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 05:17:02 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 06:21:20 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 &lt;트렌드코리아 2022&gt;에서 제시한 키워드로, 부업이나 투자를 통해 수입을 늘리려는 노력을 뜻하는 이 말은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-56661" target="_blank">큐레터의 레퍼런스 보고 정답 살짝 엿보기!</a>)</span></td>
 			</tr>
