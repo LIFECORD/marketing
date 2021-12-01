@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-01T16:27:07.669Z</updated>
+    <updated>2021-12-01T17:25:21.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[스파이더킴]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마케팅판을 여행하는 돈없는 마케터를 위한 안내서 2]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56698</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56698"/>
-        <updated>2021-11-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[DV360]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[요즘 강박에 시달리고 있습니다.....]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-37726</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-37726"/>
         <updated>2021-11-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[쥬녕쓰]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마케팅판을 여행하는 돈없는 마케터를 위한 안내서 2]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56698</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56698"/>
+        <updated>2021-11-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[DV360]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? )]]></title>
