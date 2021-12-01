@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 07:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 08:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,18 +50,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[MZ의 성향을 이용한 머니러시 마케팅 사례 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56661</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56661</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[일잘러로 소문난 마케터 3인  | 인사이트 엿보기 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56572</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56572</guid>
             <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김매니저]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MZ의 성향을 이용한 머니러시 마케팅 사례 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56661</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56661</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5분 만에 보는 트렌드 코리아 2022 (아이보스 ─ 인기글)]]></title>
@@ -461,7 +461,7 @@
             <title><![CDATA[2021 대한민국대학생광고대상, 서강대 ‘구해줘 내 식당’ 팀 대상 수상 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7767</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7767</guid>
-            <pubDate>Wed, 01 Dec 2021 07:17:38 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 07:17:23 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -671,7 +671,7 @@
             <title><![CDATA[다음 중 <트렌드코리아 2022>에서 제시한 키워드로, 부업이나 투자를 통해 수입을 늘리려는 노력을 뜻하는 이 말은 무엇일까요?(hint: 큐레터의 레퍼런스 보고 정답 살짝 엿보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 07:17:52 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 08:21:11 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 &lt;트렌드코리아 2022&gt;에서 제시한 키워드로, 부업이나 투자를 통해 수입을 늘리려는 노력을 뜻하는 이 말은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-56661" target="_blank">큐레터의 레퍼런스 보고 정답 살짝 엿보기!</a>)</span></td>
 			</tr>

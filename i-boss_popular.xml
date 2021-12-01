@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-01T07:17:52.778Z</updated>
+    <updated>2021-12-01T08:21:11.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MZ의 성향을 이용한 머니러시 마케팅 사례]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56661</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56661"/>
-        <updated>2021-11-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[일잘러로 소문난 마케터 3인  | 인사이트 엿보기]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56572</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56572"/>
         <updated>2021-11-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[김매니저]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MZ의 성향을 이용한 머니러시 마케팅 사례]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56661</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56661"/>
+        <updated>2021-11-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5분 만에 보는 트렌드 코리아 2022]]></title>
