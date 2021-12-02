@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2021-12-02T11:16:14.246Z</updated>
+    <updated>2021-12-02T12:27:22.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새로운 시대, 대행사와 마케터에게는 크리에이티브와 진정성이 요구된다]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7780</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7780"/>
+        <updated>2021-12-02T12:27:08.689Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해 광고계를 빛낸“2021대한민국광고대상 69개 수상작 선정”]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7779</id>
@@ -207,12 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-7750"/>
         <updated>2021-11-29T02:37:56.465Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Tip!] CMO가 2022년에 채택해야 하는 7가지 소셜 미디어 전략]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7749</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7749"/>
-        <updated>2021-11-29T00:54:31.126Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
