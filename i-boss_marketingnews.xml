@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 02:41:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 03:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오, 라이브커머스 플랫폼 전략 본격화... 그립 인수]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7774</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7774</guid>
+            <pubDate>Thu, 02 Dec 2021 00:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[카카오는 2일 SNS 기반 라이브커머스 기업 그립컴퍼니에 1800억원을 투자하고 약 50% 지분을 확보했다고 밝혔다.  카카오는 이번 투자를 바탕으로 커머스 경쟁력을 더욱 키우고 오프라인 사업자 및 소상공인들 디지털트랜스포메이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_06c71e7d8e2d6340303208c54c63cf90_30959_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해 국내 유튜브 사용자들이 가장 많이 본 영상은 아이유의 히트곡 라이브]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7773</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 29 Nov 2021 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 네이버, 라이브 판매 기준 강화  네이버가 정부의 라이브커머스 규제 움직임에 선제적으로 라이브커머스에서 수입 건강식품 판매 기준을 강화한다. 네이버를 시작으로 각 플랫폼마다 소비자 안전을 위한 자율 가이드라인 마 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e5d82cfdd490b111ef85e53c5a5552bf_87100_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT, 英콜린스가 선정한 올해의 단어]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7745</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7745</guid>
-            <pubDate>Sun, 28 Nov 2021 09:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 아트 등 가상자산의 열풍을 일으킨 NFT(Non-Fungible Token)를 영국의 콜린스 사전이올해의 단어로 선정했다. 콜린스 사전은 NFT를 블록체인에 저장되는 디지털 인증서로 예술 작품이나 수집품 같은 자산의 소유권을 기록하는  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
