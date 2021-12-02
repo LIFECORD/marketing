@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 19:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 21:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,11 +211,11 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[DMC] 2022 디지털 광고 시장 전망 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-3208-701</link>
-            <guid>https://www.i-boss.co.kr/ab-3208-701</guid>
-            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[2021 아이보스 10월 우수회원 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-426</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-426</guid>
+            <pubDate>Fri, 05 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[새로운 시대, 대행사와 마케터에게는 크리에이티브와 진정성이 요구된다 (아이보스 ─ 마케팅 뉴스)]]></title>
