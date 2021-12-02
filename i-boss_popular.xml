@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-02T07:22:25.616Z</updated>
+    <updated>2021-12-02T08:21:13.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[우뇌]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5분 만에 보는 트렌드 코리아 2022]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-37755</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-37755"/>
-        <updated>2021-11-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[헤이데일리]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내 머릿속에 저-장☆, 7년차 마자이너가 알려주는 매..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56693</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56693"/>
         <updated>2021-11-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[사각사각그림사이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5분 만에 보는 트렌드 코리아 2022]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-37755</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-37755"/>
+        <updated>2021-11-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[헤이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마케팅밈] 마케터의 현타]]></title>
