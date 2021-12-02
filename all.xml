@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 00:56:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 02:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,18 +50,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[MZ의 성향을 이용한 머니러시 마케팅 사례 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56661</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56661</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[5분 만에 보는 트렌드 코리아 2022 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37755</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37755</guid>
             <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[헤이데일리]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MZ의 성향을 이용한 머니러시 마케팅 사례 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56661</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56661</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[24시간이모자라 시리즈]  17,280시간동안 쌓은 인사이.. (아이보스 ─ 인기글)]]></title>
@@ -113,18 +113,18 @@
             <content:encoded><![CDATA[스파이더킴]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[요즘 강박에 시달리고 있습니다..... (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37726</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37726</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쥬녕쓰]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케팅판을 여행하는 돈없는 마케터를 위한 안내서 2 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56698</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56698</guid>
             <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[DV360]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[요즘 강박에 시달리고 있습니다..... (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37726</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37726</guid>
+            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쥬녕쓰]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? ) (아이보스 ─ 인기글)]]></title>
@@ -176,6 +176,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[SW]  상원 최신판 올마식 광고관리 비법 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56735</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56735</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[상원1]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[맛의고수 맛고 차돌된장찌개 & 차돌볶음밥 세트 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2825-480</link>
             <guid>https://www.i-boss.co.kr/ab-2825-480</guid>
@@ -188,13 +195,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56623</guid>
             <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[SW]  상원 최신판 올마식 광고관리 비법 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56735</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56735</guid>
-            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[상원1]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[데이터 정리는 필수! 자동화 하는 방법 (아이보스 ─ 인기글)]]></title>
@@ -211,11 +211,11 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[👩‍💻 지금이라도 제대로 알아봐요! 메타버스 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37637</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37637</guid>
-            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[헤이데일리]]></content:encoded>
+            <title><![CDATA[[DMC] 2022 디지털 광고 시장 전망 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-3208-701</link>
+            <guid>https://www.i-boss.co.kr/ab-3208-701</guid>
+            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[올해 국내 유튜브 사용자들이 가장 많이 본 영상은 아이유의 히트곡 라이브 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -461,35 +461,35 @@
             <title><![CDATA[올해 국내 유튜브 사용자들이 가장 많이 본 영상은 ‘아이유의 히트곡 라이브’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7773</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7773</guid>
-            <pubDate>Thu, 02 Dec 2021 00:56:35 GMT</pubDate>
+            <pubDate>Thu, 02 Dec 2021 09:06:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[해외 크리에이티브] 코로나, 브랜디드 프라이빗 아일랜드 오픈 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7772</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7772</guid>
-            <pubDate>Thu, 02 Dec 2021 00:56:35 GMT</pubDate>
+            <pubDate>Thu, 02 Dec 2021 08:46:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021년 세계 광고비, 19.9% 증가한 7,806억 달러 전망... 사상 최대의 성장 기록 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7771</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7771</guid>
-            <pubDate>Thu, 02 Dec 2021 00:56:35 GMT</pubDate>
+            <pubDate>Thu, 02 Dec 2021 08:44:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[트위터코리아, #Twitter4Brands 2021 웨비나 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7770</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7770</guid>
-            <pubDate>Thu, 02 Dec 2021 00:56:35 GMT</pubDate>
+            <pubDate>Thu, 02 Dec 2021 08:42:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정보통신정책연구원, '2021년 제1회 디지털 대전환 메가트렌드 컨퍼런스' 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7769</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7769</guid>
-            <pubDate>Thu, 02 Dec 2021 00:56:35 GMT</pubDate>
+            <pubDate>Thu, 02 Dec 2021 08:41:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -671,7 +671,7 @@
             <title><![CDATA[다음 대화를 보고 알 수 있는 광고 형식은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 02 Dec 2021 00:56:47 GMT</pubDate>
+            <pubDate>Thu, 02 Dec 2021 02:03:39 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 대화를 보고 알 수 있는 광고 형식은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/35aece39a3a48b6d8bbbee08ca847993_16378252693991.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
