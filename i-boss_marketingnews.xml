@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 22:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 23:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12월 3일 마케팅 뉴스클리핑] 카카오, 라이브 커머스 그립 1800억에 인수 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7775</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7775</guid>
+            <pubDate>Fri, 03 Dec 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 카카오, 라이브 커머스 `그립` 1800억에 인수  카카오가 라이브커머스 스타트업 그립컴퍼니의 지분 48%를 1,800억 원에 인수한다. 카카오는 이번 인수를 통해 라이브커머스 사업 확장에 속도를 내고 공격적으로 펼칠 계획이다. 카 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_26c25ff8958e2ad77bd894971e57a1ea_26301_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로운 시대, 대행사와 마케터에게는 크리에이티브와 진정성이 요구된다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7780</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 29 Nov 2021 00:04:00 GMT</pubDate>
             <content:encoded><![CDATA[한국광고총연합회(회장 김낙회)는 창립50주년 기념 국제 광고 세지마를 `코로나19 이후 광고산업의 변화와 대응 전략`이라는 주제로 12월 2일코엑스에서 개최한다. 이번 세미나에는비베카 챈 WE 마케팅 그룹의 회장 및 CEO이자 前 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오 이모티콘 출시 10년... 누적 매출 10억 이상 92개]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7750</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7750</guid>
-            <pubDate>Mon, 29 Nov 2021 10:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[억대 누적 매출 달성 이모티콘 1392개... 2030 창작자 비중 84.4%    카카오가 이모티콘 출시 10주년을 맞은 가운데, 개별 이모티콘 수(누적)는 약 30만개에 달하며 발신량(누적)은 2200억건을 넘어선 것으로 나타났다.  회사측에 따르면  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16381486341347.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
