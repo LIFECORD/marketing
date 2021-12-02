@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-02T06:22:34.576Z</updated>
+    <updated>2021-12-02T07:22:25.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -209,10 +209,10 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[DMC] 2022 디지털 광고 시장 전망]]></title>
-        <id>https://www.i-boss.co.kr/ab-3208-701</id>
-        <link href="https://www.i-boss.co.kr/ab-3208-701"/>
-        <updated>2021-11-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
+        <title type="html"><![CDATA[👩‍💻 지금이라도 제대로 알아봐요! 메타버스]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-37637</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-37637"/>
+        <updated>2021-11-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[헤이데일리]]></content>
     </entry>
 </feed>
