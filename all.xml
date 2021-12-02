@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 04:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 05:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,13 +29,6 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연봉 올리는 방법 (written by 우뇌) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56589</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56589</guid>
-            <pubDate>Sun, 07 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[우뇌]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[일잘러로 소문난 마케터 3인  | 인사이트 엿보기 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56572</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56572</guid>
@@ -43,11 +36,11 @@
             <content:encoded><![CDATA[김매니저]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마케팅밈] 마케터의 현타 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37799</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37799</guid>
-            <pubDate>Thu, 25 Nov 2021 04:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[연봉 올리는 방법 (written by 우뇌) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56589</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56589</guid>
+            <pubDate>Sun, 07 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5분 만에 보는 트렌드 코리아 2022 (아이보스 ─ 인기글)]]></title>
@@ -57,11 +50,11 @@
             <content:encoded><![CDATA[헤이데일리]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[MZ의 성향을 이용한 머니러시 마케팅 사례 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56661</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56661</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
+            <title><![CDATA[[마케팅밈] 마케터의 현타 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37799</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37799</guid>
+            <pubDate>Thu, 25 Nov 2021 04:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[내 머릿속에 저-장☆, 7년차 마자이너가 알려주는 매.. (아이보스 ─ 인기글)]]></title>
@@ -69,6 +62,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56693</guid>
             <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MZ의 성향을 이용한 머니러시 마케팅 사례 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56661</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56661</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[24시간이모자라 시리즈]  17,280시간동안 쌓은 인사이.. (아이보스 ─ 인기글)]]></title>
@@ -134,6 +134,13 @@
             <content:encoded><![CDATA[쥬녕쓰]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56715</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56715</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[상원1]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[마감] 오늘 빼빼로 데이, 벙개 이벤트 선착순 11분에.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37725</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37725</guid>
@@ -153,13 +160,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56657</guid>
             <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[yoorok]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56715</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56715</guid>
-            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[상원1]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가장 효율적인 퍼포먼스 마케팅 방법론 (아이보스 ─ 인기글)]]></title>
@@ -671,7 +671,7 @@
             <title><![CDATA[다음 대화를 보고 알 수 있는 광고 형식은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 02 Dec 2021 04:22:46 GMT</pubDate>
+            <pubDate>Thu, 02 Dec 2021 05:16:33 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 대화를 보고 알 수 있는 광고 형식은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/35aece39a3a48b6d8bbbee08ca847993_16378252693991.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
