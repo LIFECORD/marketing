@@ -2,20 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-5826</id>
     <title>아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈</title>
-    <updated>2021-12-02T14:16:56.569Z</updated>
+    <updated>2021-12-02T15:17:15.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[다음 대화를 보고 알 수 있는 광고 형식은 무엇일까요?]]></title>
-        <id>https://www.i-boss.co.kr/ab-5826</id>
-        <link href="https://www.i-boss.co.kr/ab-5826"/>
-        <updated>2021-12-02T14:16:55.795Z</updated>
-        <content type="html"><![CDATA[<tbody><tr>
-				<td><!--1-->다음 대화를 보고 알 수 있는 광고 형식은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/35aece39a3a48b6d8bbbee08ca847993_16378252693991.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1311_1" value="1" class="AB-radio" id="PQ_BD5826_1311_1_0"><label for="PQ_BD5826_1311_1_0" id="label_PQ_BD5826_1311_1_0">(A) TAS 광고</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1311_1" value="2" class="AB-radio" id="PQ_BD5826_1311_1_1"><label for="PQ_BD5826_1311_1_1" id="label_PQ_BD5826_1311_1_1">(B) 리치미디어 광고</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1311_1" value="3" class="AB-radio" id="PQ_BD5826_1311_1_2"><label for="PQ_BD5826_1311_1_2" id="label_PQ_BD5826_1311_1_2">(C) 오퍼월 광고</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1311_1" value="4" class="AB-radio" id="PQ_BD5826_1311_1_3"><label for="PQ_BD5826_1311_1_3" id="label_PQ_BD5826_1311_1_3">(D) 네이티브 광고</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content>
-    </entry>
 </feed>
