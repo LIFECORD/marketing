@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-02T05:16:33.765Z</updated>
+    <updated>2021-12-02T06:22:34.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[헤이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[마케팅밈] 마케터의 현타]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-37799</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-37799"/>
-        <updated>2021-11-25T04:22:17.598Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내 머릿속에 저-장☆, 7년차 마자이너가 알려주는 매..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56693</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56693"/>
         <updated>2021-11-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[사각사각그림사이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마케팅밈] 마케터의 현타]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-37799</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-37799"/>
+        <updated>2021-11-25T04:22:17.598Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MZ의 성향을 이용한 머니러시 마케팅 사례]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[마케팅모먼트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[마케팅밈] 마케터의 일상 - 1]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-37709</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-37709"/>
-        <updated>2021-11-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[우리가 NFT를 알아야 하는 이유]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-37811</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-37811"/>
         <updated>2021-11-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[헤이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마케팅밈] 마케터의 일상 - 1]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-37709</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-37709"/>
+        <updated>2021-11-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카카오, 드디어 네이버 첫 추월]]></title>
