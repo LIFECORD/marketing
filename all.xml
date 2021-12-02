@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 08:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 09:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,18 +113,18 @@
             <content:encoded><![CDATA[스파이더킴]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56715</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56715</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[상원1]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? ) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56721</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56721</guid>
             <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[셀트너]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마케팅판을 여행하는 돈없는 마케터를 위한 안내서 2 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56698</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56698</guid>
-            <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[DV360]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[요즘 강박에 시달리고 있습니다..... (아이보스 ─ 인기글)]]></title>
@@ -134,11 +134,11 @@
             <content:encoded><![CDATA[쥬녕쓰]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56715</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56715</guid>
-            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[상원1]]></content:encoded>
+            <title><![CDATA[마케팅판을 여행하는 돈없는 마케터를 위한 안내서 2 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56698</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56698</guid>
+            <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[DV360]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마감] 오늘 빼빼로 데이, 벙개 이벤트 선착순 11분에.. (아이보스 ─ 인기글)]]></title>
@@ -671,7 +671,7 @@
             <title><![CDATA[다음 대화를 보고 알 수 있는 광고 형식은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 02 Dec 2021 08:21:13 GMT</pubDate>
+            <pubDate>Thu, 02 Dec 2021 09:18:00 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 대화를 보고 알 수 있는 광고 형식은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/35aece39a3a48b6d8bbbee08ca847993_16378252693991.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
