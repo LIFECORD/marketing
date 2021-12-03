@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 07:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 08:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,18 +29,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[내 머릿속에 저-장☆, 7년차 마자이너가 알려주는 매.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56693</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56693</guid>
-            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[일잘러로 소문난 마케터 3인  | 인사이트 엿보기 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56572</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56572</guid>
             <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김매니저]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[내 머릿속에 저-장☆, 7년차 마자이너가 알려주는 매.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56693</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56693</guid>
+            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연봉 올리는 방법 (written by 우뇌) (아이보스 ─ 인기글)]]></title>
@@ -113,18 +113,18 @@
             <content:encoded><![CDATA[셀트너]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[키워드에 집중해야 마케팅이 잘 된다! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56593</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56593</guid>
-            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스파이더킴]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56715</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56715</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[상원1]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[키워드에 집중해야 마케팅이 잘 된다! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56593</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56593</guid>
+            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스파이더킴]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케팅판을 여행하는 돈없는 마케터를 위한 안내서 2 (아이보스 ─ 인기글)]]></title>
@@ -671,7 +671,7 @@
             <title><![CDATA[네이버쇼핑에 개인 관심사와 취향을 모은 인공지능(AI) 쇼핑 큐레이션 탭이 신설되었습니다. 이 탭의 이름은 무엇일까요?(hint: 11월 25일 뉴스 클리핑 보고 정답에 한 발짝 가까이!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 03 Dec 2021 07:17:42 GMT</pubDate>
+            <pubDate>Fri, 03 Dec 2021 08:21:11 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버쇼핑에 개인 관심사와 취향을 모은 인공지능(AI) 쇼핑 큐레이션 탭이 신설되었습니다. 이 탭의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7722" target="_blank">11월 25일 뉴스 클리핑 보고 정답에 한 발짝 가까이!</a>)</span></td>
 			</tr>
