@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 03:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 04:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -106,18 +106,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[키워드에 집중해야 마케팅이 잘 된다! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56593</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56593</guid>
-            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스파이더킴]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? ) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56721</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56721</guid>
             <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[셀트너]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[키워드에 집중해야 마케팅이 잘 된다! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56593</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56593</guid>
+            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스파이더킴]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 .. (아이보스 ─ 인기글)]]></title>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56632</guid>
             <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(사)한국광고홍보인협회, 올해의 광고인 및 홍보인 등 시상식 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7786</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7786</guid>
+            <pubDate>Fri, 03 Dec 2021 04:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[(사)한국광고홍보인협회 (회장 서범석 세명대 교수)는 12월 3일(금) 그랜드 인터콘티넨탈 서울 파르나스 1층 그랜드키친에서올해의 광고인상, 홍보인상, 특별공로상 시상식을 개최했다. 협회는 코로나 상황의 엄중함에 따라 수상 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[이베이 대신 그립 잡았다... 라이브커머스에 올인한 카카오 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[애드저스트, 이커머스 앱 평균 세션 길이의 지속적인 증가... 최근 전 세계적으로 세션당 11분 기록 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7755</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7755</guid>
-            <pubDate>Tue, 30 Nov 2021 09:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[모바일 마케팅 분석 플랫폼인 애드저스트는 모바일 기기를 통한 쇼핑이 급증할 것으로 예상되는 연말연시 쇼핑 트렌드를 분석한 2021년 이커머스 앱 보고서:모바일 쇼핑 트렌드 및 센서 타워의 인사이트(E-commerce App Report 2021: Top  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[(사)한국광고홍보인협회, 올해의 광고인 및 홍보인 등 시상식 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7786</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7786</guid>
+            <pubDate>Fri, 03 Dec 2021 04:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이베이 대신 그립 잡았다... 라이브커머스에 올인한 카카오 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[애드저스트, 이커머스 앱 평균 세션 길이의 지속적인 증가... 최근 전 세계적으로 세션당 11분 기록 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7755</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7755</guid>
-            <pubDate>Fri, 03 Dec 2021 03:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네이버쇼핑에 개인 관심사와 취향을 모은 인공지능(AI) 쇼핑 큐레이션 탭이 신설되었습니다. 이 탭의 이름은 무엇일까요?(hint: 11월 25일 뉴스 클리핑 보고 정답에 한 발짝 가까이!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 03 Dec 2021 03:18:55 GMT</pubDate>
+            <pubDate>Fri, 03 Dec 2021 04:22:47 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버쇼핑에 개인 관심사와 취향을 모은 인공지능(AI) 쇼핑 큐레이션 탭이 신설되었습니다. 이 탭의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7722" target="_blank">11월 25일 뉴스 클리핑 보고 정답에 한 발짝 가까이!</a>)</span></td>
 			</tr>

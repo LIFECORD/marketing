@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2021-12-03T03:18:56.365Z</updated>
+    <updated>2021-12-03T04:22:48.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(사)한국광고홍보인협회, 올해의 광고인 및 홍보인 등 시상식 개최]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7786</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7786"/>
+        <updated>2021-12-03T04:22:35.819Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이베이 대신 그립 잡았다... 라이브커머스에 올인한 카카오]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7785</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-7756</id>
         <link href="https://www.i-boss.co.kr/ab-2877-7756"/>
         <updated>2021-11-30T00:56:39.979Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애드저스트, 이커머스 앱 평균 세션 길이의 지속적인 증가... 최근 전 세계적으로 세션당 11분 기록]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7755</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7755"/>
-        <updated>2021-12-03T03:18:44.398Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>

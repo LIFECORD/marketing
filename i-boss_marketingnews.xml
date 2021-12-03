@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 03:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 04:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(사)한국광고홍보인협회, 올해의 광고인 및 홍보인 등 시상식 개최]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7786</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7786</guid>
+            <pubDate>Fri, 03 Dec 2021 04:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[(사)한국광고홍보인협회 (회장 서범석 세명대 교수)는 12월 3일(금) 그랜드 인터콘티넨탈 서울 파르나스 1층 그랜드키친에서올해의 광고인상, 홍보인상, 특별공로상 시상식을 개최했다. 협회는 코로나 상황의 엄중함에 따라 수상 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[이베이 대신 그립 잡았다... 라이브커머스에 올인한 카카오]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7785</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7756</guid>
             <pubDate>Tue, 30 Nov 2021 09:49:00 GMT</pubDate>
             <content:encoded><![CDATA[종합 커뮤니케이션그룹KPR(사장 김주호)이 제19회KPR대학생PR아이디어 공모전을 개최한다. KPR대학생PR공모전은 국내 최대 규모로 코로나19상황을 고려하여 작년에 이어 올해에도 접수 및 심사 전 과정을 온라인 비대면 방식으로  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[애드저스트, 이커머스 앱 평균 세션 길이의 지속적인 증가... 최근 전 세계적으로 세션당 11분 기록]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7755</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7755</guid>
-            <pubDate>Tue, 30 Nov 2021 09:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[모바일 마케팅 분석 플랫폼인 애드저스트는 모바일 기기를 통한 쇼핑이 급증할 것으로 예상되는 연말연시 쇼핑 트렌드를 분석한 2021년 이커머스 앱 보고서:모바일 쇼핑 트렌드 및 센서 타워의 인사이트(E-commerce App Report 2021: Top  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
