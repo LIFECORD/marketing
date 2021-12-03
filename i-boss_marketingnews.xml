@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 02:00:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 02:38:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이베이 대신 그립 잡았다 라이브커머스에 올인한 카카오]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7785</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7785</guid>
+            <pubDate>Fri, 03 Dec 2021 11:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[카카오가 라이브커머스 기업 `그립컴퍼니`에 1800억원을 투자하고, 모바일 커머스 영역을 강화한다. 네이버도 지난해 자회사 스노우의 라이브커머스 플랫폼 `잼라이브`를 인수하며 관련 사업 확장에 나서고 있으며, 여기에 쿠팡, ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d8adc1058dfe6cc419bc8cb7c02e8202_13148_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이베이 대신 그립 잡았다 라이브커머스에 올인한 카카오]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7784</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7784</guid>
+            <pubDate>Fri, 03 Dec 2021 11:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[카카오가 라이브커머스 기업 `그립컴퍼니`에 1800억원을 투자하고, 모바일 커머스 영역을 강화한다. 네이버도 지난해 자회사 스노우의 라이브커머스 플랫폼 `잼라이브`를 인수하며 관련 사업 확장에 나서고 있으며, 여기에 쿠팡, ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[조회수만 3000만회.. 올해 국내 최고 인기 유튜브 영상은?]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7783</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7756</guid>
             <pubDate>Tue, 30 Nov 2021 09:49:00 GMT</pubDate>
             <content:encoded><![CDATA[종합 커뮤니케이션그룹KPR(사장 김주호)이 제19회KPR대학생PR아이디어 공모전을 개최한다. KPR대학생PR공모전은 국내 최대 규모로 코로나19상황을 고려하여 작년에 이어 올해에도 접수 및 심사 전 과정을 온라인 비대면 방식으로  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[애드저스트, 이커머스 앱 평균 세션 길이의 지속적인 증가... 최근 전 세계적으로 세션당 11분 기록]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7755</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7755</guid>
-            <pubDate>Tue, 30 Nov 2021 09:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[모바일 마케팅 분석 플랫폼인 애드저스트는 모바일 기기를 통한 쇼핑이 급증할 것으로 예상되는 연말연시 쇼핑 트렌드를 분석한 2021년 이커머스 앱 보고서:모바일 쇼핑 트렌드 및 센서 타워의 인사이트(E-commerce App Report 2021: Top  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 4대 프로그래매틱 트렌드]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7754</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7754</guid>
-            <pubDate>Tue, 30 Nov 2021 08:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19는 광고산업에 큰 영향을 미쳤다. 그 중에는 프로그래매틱 세계에도 급격한 변화를 가져왔다. 마케터들은 새로운 도전과 기회에 대응했으며, 이제 2022년을 앞두고 있다. MiQ는광고주와 에이전시를 대상으로 설문조사를  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
