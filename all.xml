@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 02:38:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 03:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,18 +29,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[일잘러로 소문난 마케터 3인  | 인사이트 엿보기 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56572</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56572</guid>
-            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김매니저]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[내 머릿속에 저-장☆, 7년차 마자이너가 알려주는 매.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56693</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56693</guid>
             <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일잘러로 소문난 마케터 3인  | 인사이트 엿보기 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56572</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56572</guid>
+            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김매니저]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연봉 올리는 방법 (written by 우뇌) (아이보스 ─ 인기글)]]></title>
@@ -218,20 +218,12 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이베이 대신 그립 잡았다 라이브커머스에 올인한 카카오 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <title><![CDATA[이베이 대신 그립 잡았다... 라이브커머스에 올인한 카카오 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7785</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7785</guid>
             <pubDate>Fri, 03 Dec 2021 11:38:00 GMT</pubDate>
             <content:encoded><![CDATA[카카오가 라이브커머스 기업 `그립컴퍼니`에 1800억원을 투자하고, 모바일 커머스 영역을 강화한다. 네이버도 지난해 자회사 스노우의 라이브커머스 플랫폼 `잼라이브`를 인수하며 관련 사업 확장에 나서고 있으며, 여기에 쿠팡, ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d8adc1058dfe6cc419bc8cb7c02e8202_13148_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이베이 대신 그립 잡았다 라이브커머스에 올인한 카카오 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7784</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7784</guid>
-            <pubDate>Fri, 03 Dec 2021 11:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[카카오가 라이브커머스 기업 `그립컴퍼니`에 1800억원을 투자하고, 모바일 커머스 영역을 강화한다. 네이버도 지난해 자회사 스노우의 라이브커머스 플랫폼 `잼라이브`를 인수하며 관련 사업 확장에 나서고 있으며, 여기에 쿠팡, ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[조회수만 3000만회.. 올해 국내 최고 인기 유튜브 영상은? (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -458,17 +450,18 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[이베이 대신 그립 잡았다… 라이브커머스에 올인한 카카오 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7785</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7785</guid>
-            <pubDate>Fri, 03 Dec 2021 02:38:34 GMT</pubDate>
-            <content:encoded><![CDATA[김매니저]]></content:encoded>
+            <title><![CDATA[애드저스트, 이커머스 앱 평균 세션 길이의 지속적인 증가... 최근 전 세계적으로 세션당 11분 기록 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7755</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7755</guid>
+            <pubDate>Tue, 30 Nov 2021 09:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[모바일 마케팅 분석 플랫폼인 애드저스트는 모바일 기기를 통한 쇼핑이 급증할 것으로 예상되는 연말연시 쇼핑 트렌드를 분석한 2021년 이커머스 앱 보고서:모바일 쇼핑 트렌드 및 센서 타워의 인사이트(E-commerce App Report 2021: Top  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[이베이 대신 그립 잡았다… 라이브커머스에 올인한 카카오 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7784</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7784</guid>
-            <pubDate>Fri, 03 Dec 2021 02:38:34 GMT</pubDate>
+            <title><![CDATA[이베이 대신 그립 잡았다... 라이브커머스에 올인한 카카오 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7785</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7785</guid>
+            <pubDate>Fri, 03 Dec 2021 11:38:00 GMT</pubDate>
             <content:encoded><![CDATA[김매니저]]></content:encoded>
         </item>
         <item>
@@ -668,10 +661,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[애드저스트, 이커머스 앱 평균 세션 길이의 지속적인 증가... 최근 전 세계적으로 세션당 11분 기록 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7755</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7755</guid>
+            <pubDate>Fri, 03 Dec 2021 03:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[네이버쇼핑에 개인 관심사와 취향을 모은 인공지능(AI) 쇼핑 큐레이션 탭이 신설되었습니다. 이 탭의 이름은 무엇일까요?(hint: 11월 25일 뉴스 클리핑 보고 정답에 한 발짝 가까이!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 03 Dec 2021 02:38:47 GMT</pubDate>
+            <pubDate>Fri, 03 Dec 2021 03:18:55 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버쇼핑에 개인 관심사와 취향을 모은 인공지능(AI) 쇼핑 큐레이션 탭이 신설되었습니다. 이 탭의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7722" target="_blank">11월 25일 뉴스 클리핑 보고 정답에 한 발짝 가까이!</a>)</span></td>
 			</tr>
