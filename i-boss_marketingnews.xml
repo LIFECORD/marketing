@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 05:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 06:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 대한민국광고대상, 올해를 빛낸 광고를 만나다... 13개 일반부문 대상 포함 총 69개작 선정]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7788</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7788</guid>
+            <pubDate>Sat, 04 Dec 2021 06:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021 한국광고대회에서는 올 한해를 가장 빛낸 광고에 대한 2021 대한민국광고대상 시상식을 진행했다. 올해는 13개 일반부문 대상을 포함한 총 69개 작품이 선정됐다. 올해는 코로나라는 상황 속에서 방역지침을 철저히 준수하기  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2021 한국광고대회 개최... 김태형(본명 김태윤) 은탑산업훈장 서훈]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7787</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7759</guid>
             <pubDate>Thu, 02 Dec 2021 18:20:37 GMT</pubDate>
             <content:encoded><![CDATA[한국방송광고진흥공사(코바코, 사장 이백만)가 2021년 12월의 광고경기를 전망하는 광고경기전망지수(KAI ; Korea Advertising Index)를 발표했다. 12월 KAI는 100.7로, 모든 매체에서 보합세를 유지하며 연말까지 꾸준한 광고 집행이 이어지 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[구글플레이, 2021 올해를 빛낸 앱게임 발표]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7757</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7757</guid>
-            <pubDate>Tue, 30 Nov 2021 10:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[구글플레이가30일 구글 플레이스토어를 통해 2021올해의 베스트 앱과 2021올해의 베스트 게임 최우수상 수상작을 발표했다. 구글플레이는 매년 말 엔터테인먼트,일상생활,자기계발 등의 앱 부문 카테고리와 경쟁력,혁신성,인디  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

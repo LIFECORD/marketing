@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2021-12-04T05:16:52.084Z</updated>
+    <updated>2021-12-04T06:20:50.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 대한민국광고대상, 올해를 빛낸 광고를 만나다... 13개 일반부문 대상 포함 총 69개작 선정]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7788</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7788"/>
+        <updated>2021-12-04T06:20:35.644Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 '한국광고대회' 개최... 김태형(본명 김태윤) 은탑산업훈장 서훈]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7787</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-7759</id>
         <link href="https://www.i-boss.co.kr/ab-2877-7759"/>
         <updated>2021-11-30T10:16:17.439Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글플레이, ‘2021 올해를 빛낸 앱·게임’ 발표]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7757</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7757"/>
-        <updated>2021-11-30T01:51:55.529Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
