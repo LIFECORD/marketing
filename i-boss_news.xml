@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2021-12-04T00:55:06.435Z</updated>
+    <updated>2021-12-04T02:00:28.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 '한국광고대회' 개최... 김태형(본명 김태윤) 은탑산업훈장 서훈]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7787</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7787"/>
+        <updated>2021-12-04T02:00:14.247Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(사)한국광고홍보인협회, 올해의 광고인 및 홍보인 등 시상식 개최]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7786</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-7757</id>
         <link href="https://www.i-boss.co.kr/ab-2877-7757"/>
         <updated>2021-11-30T01:51:55.529Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘제19회 KPR 대학생 PR 아이디어 공모전’ 개최... 총 상금 1천 2백만원 및 인턴십 기회 제공]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7756</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7756"/>
-        <updated>2021-11-30T00:56:39.979Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 00:55:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 02:00:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 한국광고대회 개최... 김태형(본명 김태윤) 은탑산업훈장 서훈]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7787</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7787</guid>
+            <pubDate>Sat, 04 Dec 2021 10:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[우리나라 광고인들의 축제인 `2021 한국광고대회`가 3일 코엑스(그랜드 컨퍼런스룸)에서 `CREATE CHANCE IN CHAOS`라는 슬로건으로 열렸다.   한국광고대회의 시작은 김낙회 한국광고총연합회 회장은 개회선언으로 시작됐다. 김낙회 회 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[(사)한국광고홍보인협회, 올해의 광고인 및 홍보인 등 시상식 개최]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7786</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7757</guid>
             <pubDate>Tue, 30 Nov 2021 10:35:00 GMT</pubDate>
             <content:encoded><![CDATA[구글플레이가30일 구글 플레이스토어를 통해 2021올해의 베스트 앱과 2021올해의 베스트 게임 최우수상 수상작을 발표했다. 구글플레이는 매년 말 엔터테인먼트,일상생활,자기계발 등의 앱 부문 카테고리와 경쟁력,혁신성,인디  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[제19회 KPR 대학생 PR 아이디어 공모전 개최... 총 상금 1천 2백만원 및 인턴십 기회 제공]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7756</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7756</guid>
-            <pubDate>Tue, 30 Nov 2021 09:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[종합 커뮤니케이션그룹KPR(사장 김주호)이 제19회KPR대학생PR아이디어 공모전을 개최한다. KPR대학생PR공모전은 국내 최대 규모로 코로나19상황을 고려하여 작년에 이어 올해에도 접수 및 심사 전 과정을 온라인 비대면 방식으로  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

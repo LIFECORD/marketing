@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 00:55:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 02:00:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,13 +190,6 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[맛의고수 맛고 차돌된장찌개 & 차돌볶음밥 세트 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2825-480</link>
-            <guid>https://www.i-boss.co.kr/ab-2825-480</guid>
-            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[윤쿨 시리즈] 언제까지 예쁜 소재만 만들래? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56623</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56623</guid>
@@ -216,6 +209,21 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56632</guid>
             <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[DMC] 2022 디지털 광고 시장 전망 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-3208-701</link>
+            <guid>https://www.i-boss.co.kr/ab-3208-701</guid>
+            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 한국광고대회 개최... 김태형(본명 김태윤) 은탑산업훈장 서훈 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7787</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7787</guid>
+            <pubDate>Sat, 04 Dec 2021 10:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[우리나라 광고인들의 축제인 `2021 한국광고대회`가 3일 코엑스(그랜드 컨퍼런스룸)에서 `CREATE CHANCE IN CHAOS`라는 슬로건으로 열렸다.   한국광고대회의 시작은 김낙회 한국광고총연합회 회장은 개회선언으로 시작됐다. 김낙회 회 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[(사)한국광고홍보인협회, 올해의 광고인 및 홍보인 등 시상식 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[제19회 KPR 대학생 PR 아이디어 공모전 개최... 총 상금 1천 2백만원 및 인턴십 기회 제공 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7756</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7756</guid>
-            <pubDate>Tue, 30 Nov 2021 09:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[종합 커뮤니케이션그룹KPR(사장 김주호)이 제19회KPR대학생PR아이디어 공모전을 개최한다. KPR대학생PR공모전은 국내 최대 규모로 코로나19상황을 고려하여 작년에 이어 올해에도 접수 및 심사 전 과정을 온라인 비대면 방식으로  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[2021 '한국광고대회' 개최... 김태형(본명 김태윤) 은탑산업훈장 서훈 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7787</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7787</guid>
+            <pubDate>Sat, 04 Dec 2021 02:00:14 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(사)한국광고홍보인협회, 올해의 광고인 및 홍보인 등 시상식 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘제19회 KPR 대학생 PR 아이디어 공모전’ 개최... 총 상금 1천 2백만원 및 인턴십 기회 제공 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7756</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7756</guid>
-            <pubDate>Tue, 30 Nov 2021 09:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네이버쇼핑에 개인 관심사와 취향을 모은 인공지능(AI) 쇼핑 큐레이션 탭이 신설되었습니다. 이 탭의 이름은 무엇일까요?(hint: 11월 25일 뉴스 클리핑 보고 정답에 한 발짝 가까이!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 04 Dec 2021 00:55:05 GMT</pubDate>
+            <pubDate>Sat, 04 Dec 2021 02:00:27 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버쇼핑에 개인 관심사와 취향을 모은 인공지능(AI) 쇼핑 큐레이션 탭이 신설되었습니다. 이 탭의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7722" target="_blank">11월 25일 뉴스 클리핑 보고 정답에 한 발짝 가까이!</a>)</span></td>
 			</tr>
