@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 22:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 23:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56588</guid>
             <pubDate>Sun, 07 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[원데이샵]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[12월 6일 마케팅 뉴스클리핑] 모바일 화면서 뛰쳐나오는 패션 플랫폼 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7789</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7789</guid>
+            <pubDate>Mon, 06 Dec 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 모바일 화면서 뛰쳐나오는 패션 플랫폼  온라인을 기반으로 한 유통패션기업이 속속 오프라인으로 나오고 있다. 플래그십 스토어를 비롯해 백화점에 입점하는 팝업스토어, 대형마트의 숍인숍 등 다양한 점포 형태로 오프라 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16386942795968.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[퍼포먼스 바이 TBWA, 광고자동화 솔루션 프라핏 개발 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[Trend from Tokyo] 한류의 성공 뒤에는 스트레스가 있다. (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7762</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7762</guid>
-            <pubDate>Wed, 01 Dec 2021 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이번 칼럼의 주제는 스트레스입니다. 스트레스를 얘기하지 전에 메기 효과라는 것에 대해서 소개해 드리려고 합니다. 노르웨이, 스웨덴, 핀란드 등 북유럽 해역에는 정어리가 많이 잡힙니다. 바다에서 잡은 정어리들은 항구에  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[12월 6일 마케팅 뉴스클리핑] 모바일 화면서 뛰쳐나오는 패션 플랫폼 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7789</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7789</guid>
+            <pubDate>Sun, 05 Dec 2021 23:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[퍼포먼스 바이 TBWA, 광고자동화 솔루션 '프라핏' 개발 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,11 +668,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[Trend from Tokyo] 한류의 성공 뒤에는 “스트레스”가 있다. (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7762</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7762</guid>
-            <pubDate>Wed, 01 Dec 2021 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA['이것'은 대체 불가능한 토큰이라는 뜻의 용어입니다. 디지털 데이터에 별도의 고유한 인식 값을 부여해 복제나 위변조를 막을 수 있으며, 2021년 올해의 단어로 선정되어 큰 관심을 모으고 있는 '이것'은 무엇일까요?(hint: 11월 26일 뉴스 클리핑에 답이 있대요~) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Sun, 05 Dec 2021 23:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->'이것'은 대체 불가능한 토큰이라는 뜻의 용어입니다. 디지털 데이터에 별도의 고유한 인식 값을 부여해 복제나 위변조를 막을 수 있으며, 2021년 올해의 단어로 선정되어 큰 관심을 모으고 있는 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7730" target="_blank">11월 26일 뉴스 클리핑에 답이 있대요~</a>)</span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1313_1" value="1" class="AB-radio" id="PQ_BD5826_1313_1_0"><label for="PQ_BD5826_1313_1_0" id="label_PQ_BD5826_1313_1_0">(A) NCT</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1313_1" value="2" class="AB-radio" id="PQ_BD5826_1313_1_1"><label for="PQ_BD5826_1313_1_1" id="label_PQ_BD5826_1313_1_1">(B) NFT</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1313_1" value="3" class="AB-radio" id="PQ_BD5826_1313_1_2"><label for="PQ_BD5826_1313_1_2" id="label_PQ_BD5826_1313_1_2">(C) ETF</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1313_1" value="4" class="AB-radio" id="PQ_BD5826_1313_1_3"><label for="PQ_BD5826_1313_1_3" id="label_PQ_BD5826_1313_1_3">(D) 비트코인</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
     </channel>
 </rss>

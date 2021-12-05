@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 22:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 23:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12월 6일 마케팅 뉴스클리핑] 모바일 화면서 뛰쳐나오는 패션 플랫폼 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7789</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7789</guid>
+            <pubDate>Mon, 06 Dec 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 모바일 화면서 뛰쳐나오는 패션 플랫폼  온라인을 기반으로 한 유통패션기업이 속속 오프라인으로 나오고 있다. 플래그십 스토어를 비롯해 백화점에 입점하는 팝업스토어, 대형마트의 숍인숍 등 다양한 점포 형태로 오프라 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16386942795968.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퍼포먼스 바이 TBWA, 광고자동화 솔루션 프라핏 개발]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7793</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7763</guid>
             <pubDate>Wed, 01 Dec 2021 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022년에도 인플루언서 마케팅은 중요한 마케팅 전략 중 하나가 될 것으로 예상된다. 그 중에서도 특히 마이크로 인플루언서가 중요한 의미를 가질 것이라고 이마케터가 예상했다. 소셜 커머스의 지속적인 성장은 인플루언서들 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[Trend from Tokyo] 한류의 성공 뒤에는 스트레스가 있다.]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7762</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7762</guid>
-            <pubDate>Wed, 01 Dec 2021 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이번 칼럼의 주제는 스트레스입니다. 스트레스를 얘기하지 전에 메기 효과라는 것에 대해서 소개해 드리려고 합니다. 노르웨이, 스웨덴, 핀란드 등 북유럽 해역에는 정어리가 많이 잡힙니다. 바다에서 잡은 정어리들은 항구에  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
