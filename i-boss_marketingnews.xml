@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 00:59:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 02:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퍼포먼스 바이 TBWA, 광고자동화 솔루션 프라핏 개발]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7793</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7793</guid>
+            <pubDate>Sun, 05 Dec 2021 10:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[퍼포먼스 바이 TBWA(대표 김형태)는 자동화 일변도의 타깃마케팅 문제를 해결한 RTB DSP `프라핏(Propfit)`을 개발하고 서비스를 시작했다. 퍼포먼스 바이 TBWA에 따르면, `프라핏`은범용 광고자동화 플랫폼의 한계를 극복하기 위해 개 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[Tip!] 인게이지먼트를 급증시키는 10가지 소셜 미디어 디자인 방법]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7792</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7762</guid>
             <pubDate>Wed, 01 Dec 2021 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이번 칼럼의 주제는 스트레스입니다. 스트레스를 얘기하지 전에 메기 효과라는 것에 대해서 소개해 드리려고 합니다. 노르웨이, 스웨덴, 핀란드 등 북유럽 해역에는 정어리가 많이 잡힙니다. 바다에서 잡은 정어리들은 항구에  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외광고특선] 작년 코로나때문에 모든게 틀어진 당신을 위한... Last Years Lemons]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7761</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7761</guid>
-            <pubDate>Wed, 01 Dec 2021 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[잠깐! 이 광고를 보기전에 꼭 알아야할 영어 격언이 있다. 바로 `Whenlife gives you a lemon, make a lemonade` 이다. 직역하자면 `인생이 당신에게 레몬을 만들 때, 레몬에이드를 만들어라.` 라는 뜻이다. 여기서 Lemon은 별로인 것, 불쾌한 것 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

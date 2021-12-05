@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 00:59:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 02:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,13 +197,6 @@
             <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021 아이보스 10월 우수회원 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-426</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-426</guid>
-            <pubDate>Fri, 05 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[MZ세대의 관심 '아트테크' 활용한 마케팅 이야기 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56632</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56632</guid>
@@ -216,6 +209,21 @@
             <guid>https://www.i-boss.co.kr/ab-2110-13831</guid>
             <pubDate>Sat, 20 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[노예탈출]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스마트스토어 상위노출 상품등록 이렇게 하고 있습.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56588</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56588</guid>
+            <pubDate>Sun, 07 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[원데이샵]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[퍼포먼스 바이 TBWA, 광고자동화 솔루션 프라핏 개발 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7793</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7793</guid>
+            <pubDate>Sun, 05 Dec 2021 10:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[퍼포먼스 바이 TBWA(대표 김형태)는 자동화 일변도의 타깃마케팅 문제를 해결한 RTB DSP `프라핏(Propfit)`을 개발하고 서비스를 시작했다. 퍼포먼스 바이 TBWA에 따르면, `프라핏`은범용 광고자동화 플랫폼의 한계를 극복하기 위해 개 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[Tip!] 인게이지먼트를 급증시키는 10가지 소셜 미디어 디자인 방법 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,32 +458,31 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[해외광고특선] 작년 코로나때문에 모든게 틀어진 당신을 위한... Last Years Lemons (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7761</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7761</guid>
-            <pubDate>Wed, 01 Dec 2021 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[잠깐! 이 광고를 보기전에 꼭 알아야할 영어 격언이 있다. 바로 `Whenlife gives you a lemon, make a lemonade` 이다. 직역하자면 `인생이 당신에게 레몬을 만들 때, 레몬에이드를 만들어라.` 라는 뜻이다. 여기서 Lemon은 별로인 것, 불쾌한 것 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[퍼포먼스 바이 TBWA, 광고자동화 솔루션 '프라핏' 개발 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7793</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7793</guid>
+            <pubDate>Sun, 05 Dec 2021 02:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[Tip!] 인게이지먼트를 급증시키는 10가지 소셜 미디어 디자인 방법 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7792</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7792</guid>
-            <pubDate>Sun, 05 Dec 2021 00:59:00 GMT</pubDate>
+            <pubDate>Sun, 05 Dec 2021 09:33:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 지난 60년 동안 자동차 안전은 어떻게 개선됐을까? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7791</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7791</guid>
-            <pubDate>Sun, 05 Dec 2021 00:59:00 GMT</pubDate>
+            <pubDate>Sun, 05 Dec 2021 09:32:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이마케터, 2022년 주목해야 할 디지털 광고 트렌드 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7790</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7790</guid>
-            <pubDate>Sun, 05 Dec 2021 00:59:00 GMT</pubDate>
+            <pubDate>Sun, 05 Dec 2021 09:31:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[해외광고특선] 작년 코로나때문에 모든게 틀어진 당신을 위한... Last Year's Lemons (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7761</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7761</guid>
-            <pubDate>Wed, 01 Dec 2021 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네이버쇼핑에 개인 관심사와 취향을 모은 인공지능(AI) 쇼핑 큐레이션 탭이 신설되었습니다. 이 탭의 이름은 무엇일까요?(hint: 11월 25일 뉴스 클리핑 보고 정답에 한 발짝 가까이!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 05 Dec 2021 00:59:13 GMT</pubDate>
+            <pubDate>Sun, 05 Dec 2021 02:11:19 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버쇼핑에 개인 관심사와 취향을 모은 인공지능(AI) 쇼핑 큐레이션 탭이 신설되었습니다. 이 탭의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7722" target="_blank">11월 25일 뉴스 클리핑 보고 정답에 한 발짝 가까이!</a>)</span></td>
 			</tr>

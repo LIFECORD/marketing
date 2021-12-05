@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2021-12-05T00:59:13.974Z</updated>
+    <updated>2021-12-05T02:11:20.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퍼포먼스 바이 TBWA, 광고자동화 솔루션 '프라핏' 개발]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7793</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7793"/>
+        <updated>2021-12-05T02:11:04.627Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Tip!] 인게이지먼트를 급증시키는 10가지 소셜 미디어 디자인 방법]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7792</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-7762</id>
         <link href="https://www.i-boss.co.kr/ab-2877-7762"/>
         <updated>2021-12-01T00:57:58.954Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[해외광고특선] 작년 코로나때문에 모든게 틀어진 당신을 위한... Last Year's Lemons]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7761</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7761"/>
-        <updated>2021-12-01T00:57:58.955Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
