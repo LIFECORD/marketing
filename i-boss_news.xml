@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2021-12-05T23:17:33.850Z</updated>
+    <updated>2021-12-06T00:57:24.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특별기고] ‘이미지’를 소비하는 시대, 브랜드 목적 광고에 진정성 담아야]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7796</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7796"/>
+        <updated>2021-12-06T00:57:13.071Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["2022년, Z세대와 밀레니얼 세대의 시선을 사로잡는 것은 무엇일까?"... 2022년 디자인 트렌드]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7795</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7795"/>
+        <updated>2021-12-06T00:57:13.072Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[해외 크리에이티브] 버거킹이 맥도날드의 50번 째 생일을 축하하는 법]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7794</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7794"/>
+        <updated>2021-12-06T00:57:13.073Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[12월 6일 마케팅 뉴스클리핑] 모바일 화면서 뛰쳐나오는 패션 플랫폼 외]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7789</id>
@@ -193,26 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-7766"/>
         <updated>2021-12-01T05:16:47.504Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Ace Talk] “More than expected! 항상 기대하는 것 이상의 서비스를 제공하겠습니다”, 나스미디어 정기호 대표]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7765</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7765"/>
-        <updated>2021-12-01T05:16:47.504Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울산업진흥원·한국가상증강현실산업협회, ‘2021 DMC XR 기술 포럼’ 12월 8일 개최]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7764</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7764"/>
-        <updated>2021-12-01T00:57:58.914Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거시적 기회를 제시하는 마이크로 인플루언서]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7763</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7763"/>
-        <updated>2021-12-01T00:57:58.950Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
