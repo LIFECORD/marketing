@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 08:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 09:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-2110-13831</guid>
             <pubDate>Sat, 20 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[노예탈출]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[애드아시아 마카오, 2023 애드아시아 서울에 대한 높은 관심 보여 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7799</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7799</guid>
+            <pubDate>Mon, 06 Dec 2021 09:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[12월 3일과 4일 마카오에서는 아시아 및 글로벌 광고업계 리더들이 참가한 가운데 아시아광고대회(AdAsia, 이하 애드아시아)가 개최됐다. 특히 이번 애드아시아에서는 2023년 애드아시아 서울에 대한 관심과 기대가 매우 높은 것으 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[온라인 명품 플랫폼 머스트잇, 압구정 쇼룸형 매장 오픈 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_617c52d8074ac51ecf5431a3dafc6ae2_10813_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021 대한민국대학생광고대상, 서강대 구해줘 내 식당 팀 대상 수상 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7767</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7767</guid>
-            <pubDate>Wed, 01 Dec 2021 07:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[한국광고총연합회가 주관하고 문화체육관광부가 주최한2021 대한민국대학생광고대회(이하 KOSAC) 전국대회가 11월 29일, 코엑스 그랜드컨퍼런스룸에서 개최 되었다. 이로써 KOSAC은 지난 5월 대회집행위원회 개최를 시작으로 주제 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[애드아시아 마카오, '2023 애드아시아 서울'에 대한 높은 관심 보여 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7799</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7799</guid>
+            <pubDate>Mon, 06 Dec 2021 09:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[온라인 명품 플랫폼 머스트잇, 압구정 쇼룸형 매장 오픈 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021 대한민국대학생광고대상, 서강대 ‘구해줘 내 식당’ 팀 대상 수상 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7767</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7767</guid>
-            <pubDate>Wed, 01 Dec 2021 07:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['이것'은 대체 불가능한 토큰이라는 뜻의 용어입니다. 디지털 데이터에 별도의 고유한 인식 값을 부여해 복제나 위변조를 막을 수 있으며, 2021년 올해의 단어로 선정되어 큰 관심을 모으고 있는 '이것'은 무엇일까요?(hint: 11월 26일 뉴스 클리핑에 답이 있대요~) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 06 Dec 2021 08:21:18 GMT</pubDate>
+            <pubDate>Mon, 06 Dec 2021 09:18:44 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 대체 불가능한 토큰이라는 뜻의 용어입니다. 디지털 데이터에 별도의 고유한 인식 값을 부여해 복제나 위변조를 막을 수 있으며, 2021년 올해의 단어로 선정되어 큰 관심을 모으고 있는 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7730" target="_blank">11월 26일 뉴스 클리핑에 답이 있대요~</a>)</span></td>
 			</tr>

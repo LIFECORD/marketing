@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2021-12-06T08:21:19.469Z</updated>
+    <updated>2021-12-06T09:18:45.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애드아시아 마카오, '2023 애드아시아 서울'에 대한 높은 관심 보여]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7799</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7799"/>
+        <updated>2021-12-06T09:18:33.129Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[온라인 명품 플랫폼 머스트잇, 압구정 쇼룸형 매장 오픈]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7797</id>
@@ -207,12 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-7768"/>
         <updated>2021-12-01T23:18:06.323Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 대한민국대학생광고대상, 서강대 ‘구해줘 내 식당’ 팀 대상 수상]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7767</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7767"/>
-        <updated>2021-12-01T07:17:38.932Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
