@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2021-12-06T00:57:24.811Z</updated>
+    <updated>2021-12-06T02:04:30.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[온라인 명품 플랫폼 머스트잇, 압구정 쇼룸형 매장 오픈]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7797</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7797"/>
+        <updated>2021-12-06T02:04:17.069Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[특별기고] ‘이미지’를 소비하는 시대, 브랜드 목적 광고에 진정성 담아야]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7796</id>
@@ -207,12 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-7767"/>
         <updated>2021-12-01T07:17:38.932Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두나무, 메타버스 플랫폼 '세컨블록' 오픈 베타 시작]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7766</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7766"/>
-        <updated>2021-12-01T05:16:47.504Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 00:57:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 02:04:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56588</guid>
             <pubDate>Sun, 07 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[원데이샵]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[온라인 명품 플랫폼 머스트잇, 압구정 쇼룸형 매장 오픈 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7797</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7797</guid>
+            <pubDate>Mon, 06 Dec 2021 10:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[온라인에서만 만나보던 명품, 입어보고 구매...온오프라인 시너지 강화    온라인 명품 플랫폼 머스트잇이 서울 압구정에 쇼룸형 매장을 오픈했다. 쇼룸은 압구정 머스트잇 신사옥 건물 1층에 위치했으며 규모는 182(약 60평)정도 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16387552041846.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[특별기고] 이미지를 소비하는 시대, 브랜드 목적 광고에 진정성 담아야 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,32 +458,31 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[두나무, 메타버스 플랫폼 세컨블록 오픈 베타 시작 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7766</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7766</guid>
-            <pubDate>Wed, 01 Dec 2021 05:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[블록체인 및 핀테크 전문기업 두나무가 메타버스 플랫폼 `세컨드블록`(2ndblock)의 오픈 베타 서비스를 시작한다고 30일 밝혔다.  세컨블록은 차별화된 기술력을 바탕으로 현존하는 메타버스 플랫폼 중 최대 인원의 동시 접속이  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16383347566007.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[온라인 명품 플랫폼 머스트잇, 압구정 쇼룸형 매장 오픈 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7797</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7797</guid>
+            <pubDate>Mon, 06 Dec 2021 02:04:17 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[특별기고] ‘이미지’를 소비하는 시대, 브랜드 목적 광고에 진정성 담아야 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7796</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7796</guid>
-            <pubDate>Mon, 06 Dec 2021 00:57:13 GMT</pubDate>
+            <pubDate>Mon, 06 Dec 2021 08:51:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["2022년, Z세대와 밀레니얼 세대의 시선을 사로잡는 것은 무엇일까?"... 2022년 디자인 트렌드 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7795</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7795</guid>
-            <pubDate>Mon, 06 Dec 2021 00:57:13 GMT</pubDate>
+            <pubDate>Mon, 06 Dec 2021 08:47:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[해외 크리에이티브] 버거킹이 맥도날드의 50번 째 생일을 축하하는 법 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7794</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7794</guid>
-            <pubDate>Mon, 06 Dec 2021 00:57:13 GMT</pubDate>
+            <pubDate>Mon, 06 Dec 2021 08:46:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[두나무, 메타버스 플랫폼 '세컨블록' 오픈 베타 시작 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7766</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7766</guid>
-            <pubDate>Wed, 01 Dec 2021 05:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['이것'은 대체 불가능한 토큰이라는 뜻의 용어입니다. 디지털 데이터에 별도의 고유한 인식 값을 부여해 복제나 위변조를 막을 수 있으며, 2021년 올해의 단어로 선정되어 큰 관심을 모으고 있는 '이것'은 무엇일까요?(hint: 11월 26일 뉴스 클리핑에 답이 있대요~) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 06 Dec 2021 00:57:24 GMT</pubDate>
+            <pubDate>Mon, 06 Dec 2021 02:04:29 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 대체 불가능한 토큰이라는 뜻의 용어입니다. 디지털 데이터에 별도의 고유한 인식 값을 부여해 복제나 위변조를 막을 수 있으며, 2021년 올해의 단어로 선정되어 큰 관심을 모으고 있는 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7730" target="_blank">11월 26일 뉴스 클리핑에 답이 있대요~</a>)</span></td>
 			</tr>

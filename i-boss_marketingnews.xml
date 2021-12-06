@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 00:57:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 02:04:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온라인 명품 플랫폼 머스트잇, 압구정 쇼룸형 매장 오픈]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7797</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7797</guid>
+            <pubDate>Mon, 06 Dec 2021 10:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[온라인에서만 만나보던 명품, 입어보고 구매...온오프라인 시너지 강화    온라인 명품 플랫폼 머스트잇이 서울 압구정에 쇼룸형 매장을 오픈했다. 쇼룸은 압구정 머스트잇 신사옥 건물 1층에 위치했으며 규모는 182(약 60평)정도 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16387552041846.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특별기고] 이미지를 소비하는 시대, 브랜드 목적 광고에 진정성 담아야]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7796</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 02 Dec 2021 18:20:37 GMT</pubDate>
             <content:encoded><![CDATA[한국광고총연합회가 주관하고 문화체육관광부가 주최한2021 대한민국대학생광고대회(이하 KOSAC) 전국대회가 11월 29일, 코엑스 그랜드컨퍼런스룸에서 개최 되었다. 이로써 KOSAC은 지난 5월 대회집행위원회 개최를 시작으로 주제 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[두나무, 메타버스 플랫폼 세컨블록 오픈 베타 시작]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7766</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7766</guid>
-            <pubDate>Thu, 02 Dec 2021 18:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[블록체인 및 핀테크 전문기업 두나무가 메타버스 플랫폼 `세컨드블록`(2ndblock)의 오픈 베타 서비스를 시작한다고 30일 밝혔다.  세컨블록은 차별화된 기술력을 바탕으로 현존하는 메타버스 플랫폼 중 최대 인원의 동시 접속이  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16383347566007.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
