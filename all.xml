@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 09:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 10:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-2110-13831</guid>
             <pubDate>Sat, 20 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[노예탈출]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스페이스몬스터컨텐츠 김찬김영기 감독 부자(父子), 2021 한국광고대회 수상 영예 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7800</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7800</guid>
+            <pubDate>Mon, 06 Dec 2021 10:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[스페이스몬스터컨텐츠 김찬, 김영기 감독 부자가지난 3일 진행된 2021 한국광고대회에서 광고산업 발전 유공 정부포상 포장과 더불어, 대한민국 광고대상 디지털영상 부문 금상을 수상했다. 스페이스몬스터컨텐츠 고문인 김찬  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[애드아시아 마카오, 2023 애드아시아 서울에 대한 높은 관심 보여 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,18 +458,17 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[12월 2일 마케팅 뉴스클리핑] 21년 차 벅스의 변신... 업계는 반신반의 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7768</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7768</guid>
-            <pubDate>Thu, 02 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 21년 차 벅스의 변신... 업계는 `반신반의`  음악 스트리밍 플랫폼 벅스가 콘텐츠 사업으로 전환하며 재기를 노린다. 유튜브 뮤직스포티파이 등 해외 음원 스트리밍 플랫폼까지 국내 시장에 뛰어들며 경쟁이 가열되고 매출이  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_617c52d8074ac51ecf5431a3dafc6ae2_10813_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[스페이스몬스터컨텐츠 김찬·김영기 감독 부자(父子), 2021 한국광고대회 수상 영예 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7800</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7800</guid>
+            <pubDate>Mon, 06 Dec 2021 10:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[애드아시아 마카오, '2023 애드아시아 서울'에 대한 높은 관심 보여 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7799</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7799</guid>
-            <pubDate>Mon, 06 Dec 2021 09:18:33 GMT</pubDate>
+            <pubDate>Mon, 06 Dec 2021 09:18:20 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[12월 2일 마케팅 뉴스클리핑] 21년 차 벅스의 변신... 업계는 '반신반의' 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7768</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7768</guid>
-            <pubDate>Thu, 02 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['이것'은 대체 불가능한 토큰이라는 뜻의 용어입니다. 디지털 데이터에 별도의 고유한 인식 값을 부여해 복제나 위변조를 막을 수 있으며, 2021년 올해의 단어로 선정되어 큰 관심을 모으고 있는 '이것'은 무엇일까요?(hint: 11월 26일 뉴스 클리핑에 답이 있대요~) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 06 Dec 2021 09:18:44 GMT</pubDate>
+            <pubDate>Mon, 06 Dec 2021 10:20:19 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 대체 불가능한 토큰이라는 뜻의 용어입니다. 디지털 데이터에 별도의 고유한 인식 값을 부여해 복제나 위변조를 막을 수 있으며, 2021년 올해의 단어로 선정되어 큰 관심을 모으고 있는 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7730" target="_blank">11월 26일 뉴스 클리핑에 답이 있대요~</a>)</span></td>
 			</tr>

@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 09:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 10:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스페이스몬스터컨텐츠 김찬김영기 감독 부자(父子), 2021 한국광고대회 수상 영예]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7800</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7800</guid>
+            <pubDate>Mon, 06 Dec 2021 10:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[스페이스몬스터컨텐츠 김찬, 김영기 감독 부자가지난 3일 진행된 2021 한국광고대회에서 광고산업 발전 유공 정부포상 포장과 더불어, 대한민국 광고대상 디지털영상 부문 금상을 수상했다. 스페이스몬스터컨텐츠 고문인 김찬  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[애드아시아 마카오, 2023 애드아시아 서울에 대한 높은 관심 보여]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7799</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 02 Dec 2021 08:41:00 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부가 주최하고 정보통신정책연구원이 주관하는 제1회 디지털 대전환 메가트렌드 컨퍼런스가오는 12월 9일 오프라인 및 온라인 실시간 스트리밍 컨퍼런스로 개최된다. 코로나 19 팬데믹은 디지털 전환을 가속화 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[12월 2일 마케팅 뉴스클리핑] 21년 차 벅스의 변신... 업계는 반신반의 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7768</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7768</guid>
-            <pubDate>Thu, 02 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 21년 차 벅스의 변신... 업계는 `반신반의`  음악 스트리밍 플랫폼 벅스가 콘텐츠 사업으로 전환하며 재기를 노린다. 유튜브 뮤직스포티파이 등 해외 음원 스트리밍 플랫폼까지 국내 시장에 뛰어들며 경쟁이 가열되고 매출이  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_617c52d8074ac51ecf5431a3dafc6ae2_10813_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
