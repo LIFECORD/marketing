@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 05:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 06:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,18 +120,18 @@
             <content:encoded><![CDATA[DV360]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[요즘 강박에 시달리고 있습니다..... (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37726</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37726</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쥬녕쓰]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[카피 문구를 바꿨을 뿐인데 "역대급 매출 기록" (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56657</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56657</guid>
             <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[yoorok]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[요즘 강박에 시달리고 있습니다..... (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37726</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37726</guid>
+            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쥬녕쓰]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마감] 오늘 빼빼로 데이, 벙개 이벤트 선착순 11분에.. (아이보스 ─ 인기글)]]></title>
@@ -146,6 +146,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56654</guid>
             <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아나키]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[아이보스 연말 이벤트] 이벤트 참여하고 프레임 받.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-428</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-428</guid>
+            <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[SW]  상원 최신판 올마식 광고관리 비법 (아이보스 ─ 인기글)]]></title>
@@ -169,13 +176,6 @@
             <content:encoded><![CDATA[그린다이어리]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[아이보스 연말 이벤트] 이벤트 참여하고 프레임 받.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-428</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-428</guid>
-            <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[앞으로 트렌드를 이끌어갈 뉴미디어 콘텐츠는? 🤔 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-5637-27</link>
             <guid>https://www.i-boss.co.kr/ab-5637-27</guid>
@@ -190,18 +190,18 @@
             <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[MZ세대의 관심 '아트테크' 활용한 마케팅 이야기 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56632</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56632</guid>
-            <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[윤쿨 시리즈] 언제까지 예쁜 소재만 만들래? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56623</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56623</guid>
             <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MZ세대의 관심 '아트테크' 활용한 마케팅 이야기 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56632</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56632</guid>
+            <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[너무 힘들어요ㅠㅠ마케팅만 잘하면 다 성공하는 걸.. (아이보스 ─ 인기글)]]></title>
@@ -671,7 +671,7 @@
             <title><![CDATA['이것'은 대체 불가능한 토큰이라는 뜻의 용어입니다. 디지털 데이터에 별도의 고유한 인식 값을 부여해 복제나 위변조를 막을 수 있으며, 2021년 올해의 단어로 선정되어 큰 관심을 모으고 있는 '이것'은 무엇일까요?(hint: 11월 26일 뉴스 클리핑에 답이 있대요~) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 06 Dec 2021 05:17:45 GMT</pubDate>
+            <pubDate>Mon, 06 Dec 2021 06:20:59 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 대체 불가능한 토큰이라는 뜻의 용어입니다. 디지털 데이터에 별도의 고유한 인식 값을 부여해 복제나 위변조를 막을 수 있으며, 2021년 올해의 단어로 선정되어 큰 관심을 모으고 있는 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7730" target="_blank">11월 26일 뉴스 클리핑에 답이 있대요~</a>)</span></td>
 			</tr>
