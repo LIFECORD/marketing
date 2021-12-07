@@ -38,3 +38,12 @@ titleSelector = "tbody tr:nth-child(1) > td"
 linkSelector = "*"
 contentSelector = "table.question tbody tr:nth-child(2)"
 waitUntil = "networkidle"
+
+[jalnagage_trend_news]
+title = "KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스"
+url = "https://jalnagage.kt.co.kr/trend/news/"
+entrySelector = "ul.newsList li"
+titleSelector = "span.title"
+linkSelector = "a"
+contentSelector = "span.description"
+waitUntil = "networkidle"
