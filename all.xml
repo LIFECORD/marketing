@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 12:29:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 13:27:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,18 +190,18 @@
             <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[윤쿨 시리즈] 언제까지 예쁜 소재만 만들래? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56623</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56623</guid>
-            <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[출근 전날 연봉 500 깎는 회사 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37910</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37910</guid>
             <pubDate>Tue, 07 Dec 2021 08:21:32 GMT</pubDate>
             <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[윤쿨 시리즈] 언제까지 예쁜 소재만 만들래? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56623</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56623</guid>
+            <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MZ세대의 관심 '아트테크' 활용한 마케팅 이야기 (아이보스 ─ 인기글)]]></title>
@@ -671,7 +671,7 @@
             <title><![CDATA[★★브랜드는 MZ세대를 공략하기 위해 이슈가 되는 사회현상이나 유머, 신조어 등을 가볍고 재미있는 내용으로 전달하는 마케팅 기법을 적극적으로 사용하고 있습니다. ★★브랜드가 사용하고 있는 이 마케팅 전략은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 07 Dec 2021 12:29:42 GMT</pubDate>
+            <pubDate>Tue, 07 Dec 2021 13:27:59 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->★★브랜드는 MZ세대를 공략하기 위해 이슈가 되는 사회현상이나 유머, 신조어 등을 가볍고 재미있는 내용으로 전달하는 마케팅 기법을 적극적으로 사용하고 있습니다. ★★브랜드가 사용하고 있는 이 마케팅 전략은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

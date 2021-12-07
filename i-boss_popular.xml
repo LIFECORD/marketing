@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-07T12:29:43.292Z</updated>
+    <updated>2021-12-07T13:27:59.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -188,18 +188,18 @@
         <content type="html"><![CDATA[준5941]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[윤쿨 시리즈] 언제까지 예쁜 소재만 만들래?]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56623</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56623"/>
-        <updated>2021-11-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[마케팅모먼트]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[출근 전날 연봉 500 깎는 회사]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-37910</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-37910"/>
         <updated>2021-12-07T08:21:32.296Z</updated>
         <content type="html"><![CDATA[오늘그리고내일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[윤쿨 시리즈] 언제까지 예쁜 소재만 만들래?]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56623</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56623"/>
+        <updated>2021-11-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[마케팅모먼트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MZ세대의 관심 '아트테크' 활용한 마케팅 이야기]]></title>
