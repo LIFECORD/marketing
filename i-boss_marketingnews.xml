@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 09:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 10:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국디지털광고협회, 2021 대한민국 온라인광고대상 시상식 개최]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7807</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7807</guid>
+            <pubDate>Tue, 07 Dec 2021 10:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[한국디지털광고협회(회장 목영도)는올 한해 디지털 광고업계를 빛낸 우수한 작품에 대한 2021 대한민국 온라인광고대상 시상식을 12월 9일 온라인으로 개최한다. 이번 시상식에서는 2021년 우수 광고 사례 발표와 함께 김유나 서 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[한국디지털광고협회, 2021년 온라인광고 성공사례 세미나 온라인 공개]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7806</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7806</guid>
+            <pubDate>Tue, 07 Dec 2021 10:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[한국디지털광고협회(회장 목영도)는제3차 온라인광고 재직자 세미나 영상을 공개했다. 이번 세미나는 12월 9일 개최될`2021 대한민국 온라인광고대상` 수상기업의 성공사례 를 중심으로,2021년 디지털광고 업계의 최신 동향과 이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[베타 뗀 네이버쇼핑, e커머스 1위 굳히기]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7804</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 02 Dec 2021 18:20:37 GMT</pubDate>
             <content:encoded><![CDATA[아시아 최대 규모 광고, 마케팅 컨퍼런스 `2021 아시아광고대회(AdAsia)`가 `Future Topia : Marketing int the Brave New World`라는 주제로 12월 3일~4일 개최된다. 마크 리드 WPP 글로벌 CEO의`팬데믹 속 마케팅이 어떻게 우리의 성장을 도와주는지` ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[인크로스, 디지털 마케팅 트렌드 2022 발표]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7776</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7776</guid>
-            <pubDate>Thu, 02 Dec 2021 18:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 미디어렙사 인크로스(대표 이재원)가 공식채널을 통해 디지털 마케팅 트렌드 2022 ` 자료를 발표했다. 이 리포트는 2022 디지털 마케팅 트렌드 키워드 TOP5를 통해 3D광고, 가치투자 마케팅, 구독패스, 취향 타깃팅, 디지털 ECG ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 라이브커머스 플랫폼 전략 본격화... 그립 인수]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7774</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7774</guid>
-            <pubDate>Thu, 02 Dec 2021 00:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[카카오는 2일 SNS 기반 라이브커머스 기업 그립컴퍼니에 1800억원을 투자하고 약 50% 지분을 확보했다고 밝혔다.  카카오는 이번 투자를 바탕으로 커머스 경쟁력을 더욱 키우고 오프라인 사업자 및 소상공인들 디지털트랜스포메이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_06c71e7d8e2d6340303208c54c63cf90_30959_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
