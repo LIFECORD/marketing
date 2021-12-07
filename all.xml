@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 22:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 23:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56717</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[준5941]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[12월 8일 마케팅 뉴스클리핑] 쿠팡, 아마존 출신 마케팅 부사장 영입... 광고사업 강화 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7805</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7805</guid>
+            <pubDate>Wed, 08 Dec 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 쿠팡, 아마존 출신 마케팅 부사장 영입... 광고사업 강화  쿠팡이 아마존 출신 광고사업부 마케팅 부사장을 영입하고 아마존식 광고사업 모델에 뛰어든다. 마켓플레이스 입점 판매자 대상으로 선진화한 광고 솔루션을 제공하 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8161ae84aece075300a9b0249f2e0950_10438_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국디지털광고협회, 2021 대한민국 온라인광고대상 시상식 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2021 아시아광고대회(AdAsia) 마카오 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7777</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7777</guid>
-            <pubDate>Thu, 02 Dec 2021 10:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[아시아 최대 규모 광고, 마케팅 컨퍼런스 `2021 아시아광고대회(AdAsia)`가 `Future Topia : Marketing int the Brave New World`라는 주제로 12월 3일~4일 개최된다. 마크 리드 WPP 글로벌 CEO의`팬데믹 속 마케팅이 어떻게 우리의 성장을 도와주는지` ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[12월 8일 마케팅 뉴스클리핑] 쿠팡, 아마존 출신 마케팅 부사장 영입... 광고사업 강화 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7805</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7805</guid>
+            <pubDate>Tue, 07 Dec 2021 23:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국디지털광고협회, '2021 대한민국 온라인광고대상 시상식' 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,11 +668,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['2021 아시아광고대회(AdAsia) 마카오' 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7777</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7777</guid>
-            <pubDate>Thu, 02 Dec 2021 10:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[다음 중 모바일 기기로는 볼 수 없는 유튜브 광고는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Tue, 07 Dec 2021 23:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 중 모바일 기기로는 볼 수 없는 유튜브 광고는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1315_1" value="1" class="AB-radio" id="PQ_BD5826_1315_1_0"><label for="PQ_BD5826_1315_1_0" id="label_PQ_BD5826_1315_1_0">(A) 트루뷰 인스트림 광고</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1315_1" value="2" class="AB-radio" id="PQ_BD5826_1315_1_1"><label for="PQ_BD5826_1315_1_1" id="label_PQ_BD5826_1315_1_1">(B) 범퍼광고</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1315_1" value="3" class="AB-radio" id="PQ_BD5826_1315_1_2"><label for="PQ_BD5826_1315_1_2" id="label_PQ_BD5826_1315_1_2">(C) 마스트헤드 광고</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1315_1" value="4" class="AB-radio" id="PQ_BD5826_1315_1_3"><label for="PQ_BD5826_1315_1_3" id="label_PQ_BD5826_1315_1_3">(D) 오버레이 광고</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시 '특별상품권' 3500억 발행 “폐업 위기 소상공인 살린다” (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

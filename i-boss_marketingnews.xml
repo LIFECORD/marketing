@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 22:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 23:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12월 8일 마케팅 뉴스클리핑] 쿠팡, 아마존 출신 마케팅 부사장 영입... 광고사업 강화 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7805</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7805</guid>
+            <pubDate>Wed, 08 Dec 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 쿠팡, 아마존 출신 마케팅 부사장 영입... 광고사업 강화  쿠팡이 아마존 출신 광고사업부 마케팅 부사장을 영입하고 아마존식 광고사업 모델에 뛰어든다. 마켓플레이스 입점 판매자 대상으로 선진화한 광고 솔루션을 제공하 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8161ae84aece075300a9b0249f2e0950_10438_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국디지털광고협회, 2021 대한민국 온라인광고대상 시상식 개최]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7807</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7778</guid>
             <pubDate>Thu, 02 Dec 2021 18:20:37 GMT</pubDate>
             <content:encoded><![CDATA[(사)한국광고총연합회(회장 김낙회)는 올해 연합회 창립 50주년을 기념하는 한국광고대회가 한국광고50년 온라인 전시회, 국제광고세미나, 대한민국광고대상 시상식 등 광고인들을 위한 다채로운 행사를 선보인다. 연합회는12월 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 아시아광고대회(AdAsia) 마카오 개최]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7777</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7777</guid>
-            <pubDate>Thu, 02 Dec 2021 18:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[아시아 최대 규모 광고, 마케팅 컨퍼런스 `2021 아시아광고대회(AdAsia)`가 `Future Topia : Marketing int the Brave New World`라는 주제로 12월 3일~4일 개최된다. 마크 리드 WPP 글로벌 CEO의`팬데믹 속 마케팅이 어떻게 우리의 성장을 도와주는지` ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
