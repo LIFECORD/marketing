@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 10:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 11:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,18 +197,18 @@
             <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[MZ세대의 관심 '아트테크' 활용한 마케팅 이야기 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56632</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56632</guid>
-            <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[출근 전날 연봉 500 깎는 회사 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37910</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37910</guid>
             <pubDate>Tue, 07 Dec 2021 08:21:32 GMT</pubDate>
             <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MZ세대의 관심 '아트테크' 활용한 마케팅 이야기 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56632</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56632</guid>
+            <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[잘 파는 회사의 레포트에 들어가는 핵심지표 3가지 (아이보스 ─ 인기글)]]></title>
@@ -461,14 +461,14 @@
             <title><![CDATA[한국디지털광고협회, '2021 대한민국 온라인광고대상 시상식' 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7807</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7807</guid>
-            <pubDate>Tue, 07 Dec 2021 10:20:50 GMT</pubDate>
+            <pubDate>Tue, 07 Dec 2021 10:20:38 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국디지털광고협회, '2021년 온라인광고 성공사례 세미나' 온라인 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7806</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7806</guid>
-            <pubDate>Tue, 07 Dec 2021 10:20:50 GMT</pubDate>
+            <pubDate>Tue, 07 Dec 2021 10:20:38 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -671,7 +671,7 @@
             <title><![CDATA[★★브랜드는 MZ세대를 공략하기 위해 이슈가 되는 사회현상이나 유머, 신조어 등을 가볍고 재미있는 내용으로 전달하는 마케팅 기법을 적극적으로 사용하고 있습니다. ★★브랜드가 사용하고 있는 이 마케팅 전략은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 07 Dec 2021 10:21:01 GMT</pubDate>
+            <pubDate>Tue, 07 Dec 2021 11:16:14 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->★★브랜드는 MZ세대를 공략하기 위해 이슈가 되는 사회현상이나 유머, 신조어 등을 가볍고 재미있는 내용으로 전달하는 마케팅 기법을 적극적으로 사용하고 있습니다. ★★브랜드가 사용하고 있는 이 마케팅 전략은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
