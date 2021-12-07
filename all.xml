@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 08:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 09:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,6 +190,13 @@
             <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[상세페이지 기획 어렵네요 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37889</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37889</guid>
+            <pubDate>Fri, 03 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[rdg]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[MZ세대의 관심 '아트테크' 활용한 마케팅 이야기 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56632</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56632</guid>
@@ -197,11 +204,11 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[상세페이지 기획 어렵네요 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37889</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37889</guid>
-            <pubDate>Fri, 03 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[rdg]]></content:encoded>
+            <title><![CDATA[출근 전날 연봉 500 깎는 회사 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37910</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37910</guid>
+            <pubDate>Tue, 07 Dec 2021 08:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[잘 파는 회사의 레포트에 들어가는 핵심지표 3가지 (아이보스 ─ 인기글)]]></title>
@@ -211,11 +218,12 @@
             <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[출근 전날 연봉 500 깎는 회사 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37910</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37910</guid>
-            <pubDate>Tue, 07 Dec 2021 08:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
+            <title><![CDATA[베타 뗀 네이버쇼핑, e커머스 1위 굳히기 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7804</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7804</guid>
+            <pubDate>Tue, 07 Dec 2021 09:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[스마트스토어를 기반으로 국내 e커머스 시장 1위에 오른 네이버가 지난해 연이어 내놓은 신규 서비스들이 빠른 속도로 성장하고 있다. 특히 장보기, 럭셔리, 남성 패션 등 버티컬에 특화된 서비스들이 시범 테스트를 종료하고  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1fa2a78558f32e93491e09624972ba50_71706_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[11월 디즈니플러스 결제자 31만 명! (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_06c71e7d8e2d6340303208c54c63cf90_30959_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올해 국내 유튜브 사용자들이 가장 많이 본 영상은 아이유의 히트곡 라이브 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7773</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7773</guid>
-            <pubDate>Thu, 02 Dec 2021 09:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 동영상 커뮤니티 유튜브가 2021년 유튜브 국내 최고 인기 동영상TOP 102021년 유튜브 국내 최고 인기 뮤직비디오TOP 102021년 유튜브 국내 최고 인기 크리에이터TOP 102021년 유튜브 국내 급성장 크리에이터TOP 102021년 유튜브 국내 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[베타 뗀 네이버쇼핑, e커머스 1위 굳히기 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7804</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7804</guid>
+            <pubDate>Tue, 07 Dec 2021 09:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[김매니저]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[11월 디즈니플러스 결제자 31만 명! (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[올해 국내 유튜브 사용자들이 가장 많이 본 영상은 ‘아이유의 히트곡 라이브’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7773</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7773</guid>
-            <pubDate>Thu, 02 Dec 2021 09:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[★★브랜드는 MZ세대를 공략하기 위해 이슈가 되는 사회현상이나 유머, 신조어 등을 가볍고 재미있는 내용으로 전달하는 마케팅 기법을 적극적으로 사용하고 있습니다. ★★브랜드가 사용하고 있는 이 마케팅 전략은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 07 Dec 2021 08:22:07 GMT</pubDate>
+            <pubDate>Tue, 07 Dec 2021 09:19:03 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->★★브랜드는 MZ세대를 공략하기 위해 이슈가 되는 사회현상이나 유머, 신조어 등을 가볍고 재미있는 내용으로 전달하는 마케팅 기법을 적극적으로 사용하고 있습니다. ★★브랜드가 사용하고 있는 이 마케팅 전략은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
