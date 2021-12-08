@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 02:05:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 03:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에이블리, 서비스 3년 만에 누적 거래액 1조원 넘겨]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7814</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7814</guid>
+            <pubDate>Wed, 08 Dec 2021 11:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[10월 거래액 58% 성장, 11월 거래액 81% 성장하며 역대 최고 거래액 기록    에이블리코퍼레이션이 운영하는 에이블리가 사업 시작 3년만에 누적 거래액 1조원을 돌파했다고 8일 밝혔다.   특히 11월은 역대 최고 거래액을 기록했다.  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16389308670651.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퀄트릭스, 부실한 소비자 경험 최대 94조원 비용으로 이어질 수 있어]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7813</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Dec 2021 11:38:00 GMT</pubDate>
             <content:encoded><![CDATA[카카오가 라이브커머스 기업 `그립컴퍼니`에 1800억원을 투자하고, 모바일 커머스 영역을 강화한다. 네이버도 지난해 자회사 스노우의 라이브커머스 플랫폼 `잼라이브`를 인수하며 관련 사업 확장에 나서고 있으며, 여기에 쿠팡, ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d8adc1058dfe6cc419bc8cb7c02e8202_13148_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조회수만 3000만회.. 올해 국내 최고 인기 유튜브 영상은?]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7783</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7783</guid>
-            <pubDate>Fri, 03 Dec 2021 10:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[올해 유튜브에서 국내 사용자들이 가장 많이 본 영상의 주인공은 가수 아이유인 것으로 나타났다.   올 한 해 가장 조회수가 높았던 인기 동영상 1위는 가수 아이유가 본인의 히트곡을 라이브로 부르는 딩고뮤직의 아이유(IU)의  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_6384fd5ce290a52e49bf55692faae9b1_47490_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

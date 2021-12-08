@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 02:05:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 03:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,6 +204,13 @@
             <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[플레이디] 위드코로나 시대 변화하는 소비 트렌드 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-3208-715</link>
+            <guid>https://www.i-boss.co.kr/ab-3208-715</guid>
+            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[너무 힘들어요ㅠㅠ마케팅만 잘하면 다 성공하는 걸.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2110-13831</link>
             <guid>https://www.i-boss.co.kr/ab-2110-13831</guid>
@@ -211,11 +218,12 @@
             <content:encoded><![CDATA[노예탈출]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[플레이디] 위드코로나 시대 변화하는 소비 트렌드 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-3208-715</link>
-            <guid>https://www.i-boss.co.kr/ab-3208-715</guid>
-            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[에이블리, 서비스 3년 만에 누적 거래액 1조원 넘겨 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7814</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7814</guid>
+            <pubDate>Wed, 08 Dec 2021 11:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[10월 거래액 58% 성장, 11월 거래액 81% 성장하며 역대 최고 거래액 기록    에이블리코퍼레이션이 운영하는 에이블리가 사업 시작 3년만에 누적 거래액 1조원을 돌파했다고 8일 밝혔다.   특히 11월은 역대 최고 거래액을 기록했다.  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16389308670651.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[퀄트릭스, 부실한 소비자 경험 최대 94조원 비용으로 이어질 수 있어 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d8adc1058dfe6cc419bc8cb7c02e8202_13148_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[조회수만 3000만회.. 올해 국내 최고 인기 유튜브 영상은? (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7783</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7783</guid>
-            <pubDate>Fri, 03 Dec 2021 10:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[올해 유튜브에서 국내 사용자들이 가장 많이 본 영상의 주인공은 가수 아이유인 것으로 나타났다.   올 한 해 가장 조회수가 높았던 인기 동영상 1위는 가수 아이유가 본인의 히트곡을 라이브로 부르는 딩고뮤직의 아이유(IU)의  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_6384fd5ce290a52e49bf55692faae9b1_47490_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[에이블리, 서비스 3년 만에 누적 거래액 1조원 넘겨 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7814</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7814</guid>
+            <pubDate>Wed, 08 Dec 2021 03:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[퀄트릭스, “부실한 소비자 경험 최대 94조원 비용으로 이어질 수 있어” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[김매니저]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[조회수만 3000만회.. 올해 국내 최고 인기 유튜브 영상은? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7783</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7783</guid>
-            <pubDate>Fri, 03 Dec 2021 10:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[김매니저]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 모바일 기기로는 볼 수 없는 유튜브 광고는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 08 Dec 2021 02:05:42 GMT</pubDate>
+            <pubDate>Wed, 08 Dec 2021 03:18:15 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 모바일 기기로는 볼 수 없는 유튜브 광고는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
