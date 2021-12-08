@@ -4,16 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 04:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 05:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[따라만하세요, 카피걱정 없애드릴게요 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56595</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56595</guid>
-            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅랩소디]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[효율보고서 쓰세요, 특히 인하우스 마케터분들 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56647</link>
@@ -113,18 +106,18 @@
             <content:encoded><![CDATA[쥬녕쓰]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마감] 오늘 빼빼로 데이, 벙개 이벤트 선착순 11분에.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37725</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37725</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[놀토]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[아이보스 연말 이벤트] 이벤트 참여하고 프레임 받.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-428</link>
             <guid>https://www.i-boss.co.kr/ab-2973-428</guid>
             <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[마감] 오늘 빼빼로 데이, 벙개 이벤트 선착순 11분에.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37725</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37725</guid>
+            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구글 유튜브 광고 1억 집행, 매출 4억 초반 후기 (아이보스 ─ 인기글)]]></title>
@@ -197,13 +190,6 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[잘 파는 회사의 레포트에 들어가는 핵심지표 3가지 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56717</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56717</guid>
-            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[준5941]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[플레이디] 위드코로나 시대 변화하는 소비 트렌드 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-3208-715</link>
             <guid>https://www.i-boss.co.kr/ab-3208-715</guid>
@@ -211,11 +197,33 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[잘 파는 회사의 레포트에 들어가는 핵심지표 3가지 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56717</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56717</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[준5941]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[너무 힘들어요ㅠㅠ마케팅만 잘하면 다 성공하는 걸.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2110-13831</link>
             <guid>https://www.i-boss.co.kr/ab-2110-13831</guid>
             <pubDate>Sat, 20 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[노예탈출]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[안녕하세요 저는 김치입니다!! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37862</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37862</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[구루나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[알파벳메타아마존, 세계 광고시장 절반 장악 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7815</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7815</guid>
+            <pubDate>Wed, 08 Dec 2021 05:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[미국 3개 빅테크 기업, 알파벳메타아마존이 중국을 제외한 세계 광고 시장의 50% 이상을 장악했다고 주요 외신이 그룹M 분석을 인용해 6일 보도했다.  (...)  디지털 광고 시장은 코로나19로 대부분 광고 시장이 위축된 지난해에도  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[에이블리, 서비스 3년 만에 누적 거래액 1조원 넘겨 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[이베이 대신 그립 잡았다... 라이브커머스에 올인한 카카오 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7785</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7785</guid>
-            <pubDate>Fri, 03 Dec 2021 11:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[카카오가 라이브커머스 기업 `그립컴퍼니`에 1800억원을 투자하고, 모바일 커머스 영역을 강화한다. 네이버도 지난해 자회사 스노우의 라이브커머스 플랫폼 `잼라이브`를 인수하며 관련 사업 확장에 나서고 있으며, 여기에 쿠팡, ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d8adc1058dfe6cc419bc8cb7c02e8202_13148_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[알파벳·메타·아마존, 세계 광고시장 절반 장악 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7815</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7815</guid>
+            <pubDate>Wed, 08 Dec 2021 05:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[에이블리, 서비스 3년 만에 누적 거래액 1조원 넘겨 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이베이 대신 그립 잡았다... 라이브커머스에 올인한 카카오 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7785</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7785</guid>
-            <pubDate>Fri, 03 Dec 2021 11:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[김매니저]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 모바일 기기로는 볼 수 없는 유튜브 광고는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 08 Dec 2021 04:22:58 GMT</pubDate>
+            <pubDate>Wed, 08 Dec 2021 05:17:35 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 모바일 기기로는 볼 수 없는 유튜브 광고는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

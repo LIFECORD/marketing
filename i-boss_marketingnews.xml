@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 04:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 05:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알파벳메타아마존, 세계 광고시장 절반 장악]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7815</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7815</guid>
+            <pubDate>Wed, 08 Dec 2021 05:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[미국 3개 빅테크 기업, 알파벳메타아마존이 중국을 제외한 세계 광고 시장의 50% 이상을 장악했다고 주요 외신이 그룹M 분석을 인용해 6일 보도했다.  (...)  디지털 광고 시장은 코로나19로 대부분 광고 시장이 위축된 지난해에도  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[에이블리, 서비스 3년 만에 누적 거래액 1조원 넘겨]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7814</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Dec 2021 04:22:23 GMT</pubDate>
             <content:encoded><![CDATA[(사)한국광고홍보인협회 (회장 서범석 세명대 교수)는 12월 3일(금) 그랜드 인터콘티넨탈 서울 파르나스 1층 그랜드키친에서올해의 광고인상, 홍보인상, 특별공로상 시상식을 개최했다. 협회는 코로나 상황의 엄중함에 따라 수상 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[이베이 대신 그립 잡았다... 라이브커머스에 올인한 카카오]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7785</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7785</guid>
-            <pubDate>Fri, 03 Dec 2021 11:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[카카오가 라이브커머스 기업 `그립컴퍼니`에 1800억원을 투자하고, 모바일 커머스 영역을 강화한다. 네이버도 지난해 자회사 스노우의 라이브커머스 플랫폼 `잼라이브`를 인수하며 관련 사업 확장에 나서고 있으며, 여기에 쿠팡, ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d8adc1058dfe6cc419bc8cb7c02e8202_13148_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
