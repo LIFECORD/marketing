@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-08T12:28:35.217Z</updated>
+    <updated>2021-12-08T13:25:53.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[DV360]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[요즘 강박에 시달리고 있습니다.....]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-37726</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-37726"/>
-        <updated>2021-11-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[쥬녕쓰]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[아이보스 연말 이벤트] 이벤트 참여하고 프레임 받..]]></title>
         <id>https://www.i-boss.co.kr/ab-2973-428</id>
         <link href="https://www.i-boss.co.kr/ab-2973-428"/>
         <updated>2021-12-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[당첨대쓔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 강박에 시달리고 있습니다.....]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-37726</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-37726"/>
+        <updated>2021-11-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[쥬녕쓰]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 유튜브 광고 1억 집행, 매출 4억 초반 후기]]></title>
