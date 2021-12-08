@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 09:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 10:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -148,18 +148,18 @@
             <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[퇴사 후 귀농 테스트를 만들었는데,, 어디에 홍보를 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56727</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56727</guid>
-            <pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[그린다이어리]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[앞으로 트렌드를 이끌어갈 뉴미디어 콘텐츠는? 🤔 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-5637-27</link>
             <guid>https://www.i-boss.co.kr/ab-5637-27</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[퇴사 후 귀농 테스트를 만들었는데,, 어디에 홍보를 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56727</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56727</guid>
+            <pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[그린다이어리]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[상세페이지 기획 어렵네요 (아이보스 ─ 인기글)]]></title>
@@ -461,7 +461,7 @@
             <title><![CDATA[온라인 장보기 생태계 넓히는 네이버··· 이마트 트레이더스 입점 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7819</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7819</guid>
-            <pubDate>Wed, 08 Dec 2021 09:18:02 GMT</pubDate>
+            <pubDate>Wed, 08 Dec 2021 09:17:50 GMT</pubDate>
             <content:encoded><![CDATA[빙빙]]></content:encoded>
         </item>
         <item>
@@ -671,7 +671,7 @@
             <title><![CDATA[다음 중 모바일 기기로는 볼 수 없는 유튜브 광고는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 08 Dec 2021 09:18:14 GMT</pubDate>
+            <pubDate>Wed, 08 Dec 2021 10:19:41 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 모바일 기기로는 볼 수 없는 유튜브 광고는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
