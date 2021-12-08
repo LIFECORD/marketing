@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 08:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 09:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온라인 장보기 생태계 넓히는 네이버 이마트 트레이더스 입점]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7819</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7819</guid>
+            <pubDate>Wed, 08 Dec 2021 09:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[8일 네이버에 따르면 이날 오후 6시부터 네이버쇼핑에서 SSG닷컴과 함께 창고형 할인매장 이마트 트레이더스 장보기 서비스를 시작한다. 이곳에서 이용자들은 이마트 트레이더스의 신선식품과 생필품 등 대용량 상품을 합리적 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[어디든 무엇이든 반려동물과 함께, 펫코노미]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7818</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7790</guid>
             <pubDate>Sun, 05 Dec 2021 09:31:00 GMT</pubDate>
             <content:encoded><![CDATA[지금은 디지털 광고 붐 시대다. 팬데믹이 경제, 고용 시장, 소비자 신뢰를 강타했지만 디지털 광고 지출에서 큰 타격을 입히지는 못했다. 그러나 파편화된 미디어 플랫폼과벽으로 둘러싸인 정원에서 광고 성과를 측정하는 어려 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 대한민국광고대상, 올해를 빛낸 광고를 만나다... 13개 일반부문 대상 포함 총 69개작 선정]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7788</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7788</guid>
-            <pubDate>Sat, 04 Dec 2021 06:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[2021 한국광고대회에서는 올 한해를 가장 빛낸 광고에 대한 2021 대한민국광고대상 시상식을 진행했다. 올해는 13개 일반부문 대상을 포함한 총 69개 작품이 선정됐다. 올해는 코로나라는 상황 속에서 방역지침을 철저히 준수하기  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

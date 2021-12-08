@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 08:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 09:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-37862</guid>
             <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[구루나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[온라인 장보기 생태계 넓히는 네이버 이마트 트레이더스 입점 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7819</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7819</guid>
+            <pubDate>Wed, 08 Dec 2021 09:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[8일 네이버에 따르면 이날 오후 6시부터 네이버쇼핑에서 SSG닷컴과 함께 창고형 할인매장 이마트 트레이더스 장보기 서비스를 시작한다. 이곳에서 이용자들은 이마트 트레이더스의 신선식품과 생필품 등 대용량 상품을 합리적 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[어디든 무엇이든 반려동물과 함께, 펫코노미 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,25 +458,24 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2021 대한민국광고대상, 올해를 빛낸 광고를 만나다... 13개 일반부문 대상 포함 총 69개작 선정 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7788</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7788</guid>
-            <pubDate>Sat, 04 Dec 2021 06:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[2021 한국광고대회에서는 올 한해를 가장 빛낸 광고에 대한 2021 대한민국광고대상 시상식을 진행했다. 올해는 13개 일반부문 대상을 포함한 총 69개 작품이 선정됐다. 올해는 코로나라는 상황 속에서 방역지침을 철저히 준수하기  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[온라인 장보기 생태계 넓히는 네이버··· 이마트 트레이더스 입점 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7819</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7819</guid>
+            <pubDate>Wed, 08 Dec 2021 09:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[빙빙]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어디든 무엇이든 반려동물과 함께, 펫코노미 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7818</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7818</guid>
-            <pubDate>Wed, 08 Dec 2021 08:21:17 GMT</pubDate>
+            <pubDate>Wed, 08 Dec 2021 08:21:04 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[동영상 숏폼 광고가 TV 채널에... 나스미디어, LGU+ TV에 '6초광고' 도입 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7817</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7817</guid>
-            <pubDate>Wed, 08 Dec 2021 08:21:17 GMT</pubDate>
+            <pubDate>Wed, 08 Dec 2021 08:21:04 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021 대한민국광고대상, 올해를 빛낸 광고를 만나다... 13개 일반부문 대상 포함 총 69개작 선정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7788</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7788</guid>
-            <pubDate>Sat, 04 Dec 2021 06:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 모바일 기기로는 볼 수 없는 유튜브 광고는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 08 Dec 2021 08:21:31 GMT</pubDate>
+            <pubDate>Wed, 08 Dec 2021 09:18:14 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 모바일 기기로는 볼 수 없는 유튜브 광고는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
