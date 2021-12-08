@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 00:57:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 02:05:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -99,13 +99,6 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[키워드에 집중해야 마케팅이 잘 된다! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56593</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56593</guid>
-            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스파이더킴]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케팅판을 여행하는 돈없는 마케터를 위한 안내서 2 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56698</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56698</guid>
@@ -148,18 +141,18 @@
             <content:encoded><![CDATA[상원1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가장 효율적인 퍼포먼스 마케팅 방법론 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56683</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56683</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[준5941]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[출근 전날 연봉 500 깎는 회사 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37910</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37910</guid>
             <pubDate>Tue, 07 Dec 2021 08:21:32 GMT</pubDate>
             <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가장 효율적인 퍼포먼스 마케팅 방법론 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56683</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56683</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[퇴사 후 귀농 테스트를 만들었는데,, 어디에 홍보를 .. (아이보스 ─ 인기글)]]></title>
@@ -216,6 +209,13 @@
             <guid>https://www.i-boss.co.kr/ab-2110-13831</guid>
             <pubDate>Sat, 20 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[노예탈출]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[플레이디] 위드코로나 시대 변화하는 소비 트렌드 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-3208-715</link>
+            <guid>https://www.i-boss.co.kr/ab-3208-715</guid>
+            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[퀄트릭스, 부실한 소비자 경험 최대 94조원 비용으로 이어질 수 있어 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -461,42 +461,42 @@
             <title><![CDATA[퀄트릭스, “부실한 소비자 경험 최대 94조원 비용으로 이어질 수 있어” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7813</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7813</guid>
-            <pubDate>Wed, 08 Dec 2021 00:57:16 GMT</pubDate>
+            <pubDate>Wed, 08 Dec 2021 09:55:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[트위터, '슬랙 대항마' 퀼 인수... DM 힘 준다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7812</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7812</guid>
-            <pubDate>Wed, 08 Dec 2021 00:57:16 GMT</pubDate>
+            <pubDate>Wed, 08 Dec 2021 09:18:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[모바일인덱스, 11월 사용자 급상승 앱, 게임 및 퍼블리셔 매출 순위 분석 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7811</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7811</guid>
-            <pubDate>Wed, 08 Dec 2021 00:57:16 GMT</pubDate>
+            <pubDate>Wed, 08 Dec 2021 09:01:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[세계 광고시장 성장에 따라 2021년 총 광고비 전망 상향 조정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7810</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7810</guid>
-            <pubDate>Wed, 08 Dec 2021 00:57:16 GMT</pubDate>
+            <pubDate>Wed, 08 Dec 2021 08:39:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 세계에서 가장 인기있는 소셜 네트워크는? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7809</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7809</guid>
-            <pubDate>Wed, 08 Dec 2021 00:57:16 GMT</pubDate>
+            <pubDate>Wed, 08 Dec 2021 08:39:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[“2022년은 디지털 확장의 해”... 나스미디어, 디지털 미디어&마케팅 트렌드 전망 보고서 발행 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7808</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7808</guid>
-            <pubDate>Wed, 08 Dec 2021 00:57:16 GMT</pubDate>
+            <pubDate>Wed, 08 Dec 2021 08:38:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -671,7 +671,7 @@
             <title><![CDATA[다음 중 모바일 기기로는 볼 수 없는 유튜브 광고는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 08 Dec 2021 00:57:29 GMT</pubDate>
+            <pubDate>Wed, 08 Dec 2021 02:05:42 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 모바일 기기로는 볼 수 없는 유튜브 광고는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
