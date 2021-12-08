@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 22:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 23:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12월 9일 마케팅 뉴스클리핑] 베타 뗀 네이버쇼핑, 이커머스 1위 굳히기 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7816</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7816</guid>
+            <pubDate>Thu, 09 Dec 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. `베타` 뗀 네이버쇼핑, 이커머스 1위 굳히기  스마트스토어를 기반으로 이커머스 시장 1위에 오른 네이버의 신규 서비스들이 빠른 속도로 성장하고 있다. 특히 장보기, 럭셔리, 남성 패션 등 버티컬에 특화된 서비스에 대한 베 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_406b6ec450926982d525d689de13596a_17106_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여성이 젖소로 변신... 네티즌들, 서울우유 광고에 역겹다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7820</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7792</guid>
             <pubDate>Sun, 05 Dec 2021 09:33:00 GMT</pubDate>
             <content:encoded><![CDATA[사람들이 디자인에서 저지르는 큰 실수는 단지 멋지게 보이기 위한 것이라고 생각하는 것이다. 좋은 디자인은 멋지게 보이는 것이 아니다. 오디언스의 참여를 유도할 수 있으며. 이는 고객을 유치하는데 중요하다는 것을 의미 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 지난 60년 동안 자동차 안전은 어떻게 개선됐을까?]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7791</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7791</guid>
-            <pubDate>Sun, 05 Dec 2021 09:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[미국에서만 2019년에 670만 건의 자동차 사고가 발생했고,36,096명이 사망했다. 우리나라는2019년에 229,600건의 교통 사고가 발생하고, 3,349명이 사망했다. 아마도 안전벨트나에어백, 다른 안전장치들이 아니었다면 훨씬 상황은 더 심 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
