@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 09:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 10:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이보스, 엘씨벤처스와 카카오 비즈니스 마케팅 웨비나 연다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7832</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7832</guid>
+            <pubDate>Thu, 09 Dec 2021 10:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[30만의 마케팅 회원을 보유한 마케팅 커뮤니티 아이보스에서 효과적인 카카오 비즈니스를 위한 웨비나가 개최된다.  카카오 프리미엄 파트너사(KPP)인 엘씨벤처스와 아이보스간 업무 협약을 통하여 엘씨벤처스 권용무 대표와  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e61688a01339324ffca48ffe4ec871ac_16390448232771.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웹사이트 순위 매기던 알렉사닷컴 사라진다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7831</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7831</guid>
+            <pubDate>Thu, 09 Dec 2021 10:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[인터넷 사이트 순위 집계 사이트로 한 때 많은 인기를 누렸던 알렉사닷컴이 사라진다.  아마존은 8일(현지시간) 2022년 5월 알렉사닷컴 서비스를 중단한다고 공지했다.]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[인스타그램, 게시물 시간순으로 보여준다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7830</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 07 Dec 2021 08:51:00 GMT</pubDate>
             <content:encoded><![CDATA[문자나 카톡, 또는 SNS에서 이모티콘(이모지)이 없다면 어떨까? 아마도 삭막하고 뭔가 허전한 느낌이 들지 않을까? 게다가 코로나로 인해 비대면 접촉이 많아졌기 때문에, 아마도 이모티콘은 더 많이 사용됐을 것으로 추측된다. ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[29억 명의 사람들이 여전히 오프라인 상태]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7801</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7801</guid>
-            <pubDate>Tue, 07 Dec 2021 08:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[국제통신연합(ITU)이 발표한 `Facts and Figures 2021` 보고서에 따르면,거의 30억 명의 사람들이 인터넷을 사용한 적이 없으며 따라서 정보, 통신, 교육의 필수적인 원천으로부터 단절되어 있다고 한다. ITU의 최근 추정치에 따르면, 2019 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[12월 7일 마케팅 뉴스클리핑] 화장품 온라인쇼핑 4개월째 마이너스 성장 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7798</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7798</guid>
-            <pubDate>Tue, 07 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 화장품 온라인쇼핑 4개월째 마이너스 성장  23개 온라인쇼핑 품목 중 화장품이 감소액 기준 4개월째 꼴찌를 이어갔다. 통계청 조사에 따르면 10월 화장품 온라인쇼핑 거래액은 9,720억 원으로 전년 대비 5.8% 감소했다. 다만 모바 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8d50f7fff0e164ef0747e36ea96d367b_72051_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
