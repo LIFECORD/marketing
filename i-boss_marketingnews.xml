@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 07:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 08:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스타그램, 게시물 시간순으로 보여준다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7830</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7830</guid>
+            <pubDate>Thu, 09 Dec 2021 08:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[인스타그램이 게시물 노출 방식을 기존의 알고리즘 중심에서 시간순으로 변경할 전망이다.  8일(현지시간) 와  등 외신에 따르면 아담 모세리 인스타그램 대표는 이날 열린 미국 상원 소위원회 청문회에서 `사용자 선호도에 따 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[올해 네이버 블로그 콘텐츠 생성 3억개 역대 최다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7829</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 07 Dec 2021 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 화장품 온라인쇼핑 4개월째 마이너스 성장  23개 온라인쇼핑 품목 중 화장품이 감소액 기준 4개월째 꼴찌를 이어갔다. 통계청 조사에 따르면 10월 화장품 온라인쇼핑 거래액은 9,720억 원으로 전년 대비 5.8% 감소했다. 다만 모바 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8d50f7fff0e164ef0747e36ea96d367b_72051_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스페이스몬스터컨텐츠 김찬김영기 감독 부자(父子), 2021 한국광고대회 수상 영예]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7800</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7800</guid>
-            <pubDate>Mon, 06 Dec 2021 10:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[스페이스몬스터컨텐츠 김찬, 김영기 감독 부자가지난 3일 진행된 2021 한국광고대회에서 광고산업 발전 유공 정부포상 포장과 더불어, 대한민국 광고대상 디지털영상 부문 금상을 수상했다. 스페이스몬스터컨텐츠 고문인 김찬  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

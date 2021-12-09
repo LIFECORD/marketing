@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 07:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 08:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-37862</guid>
             <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[구루나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인스타그램, 게시물 시간순으로 보여준다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7830</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7830</guid>
+            <pubDate>Thu, 09 Dec 2021 08:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[인스타그램이 게시물 노출 방식을 기존의 알고리즘 중심에서 시간순으로 변경할 전망이다.  8일(현지시간) 와  등 외신에 따르면 아담 모세리 인스타그램 대표는 이날 열린 미국 상원 소위원회 청문회에서 `사용자 선호도에 따 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[올해 네이버 블로그 콘텐츠 생성 3억개 역대 최다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,18 +458,17 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8d50f7fff0e164ef0747e36ea96d367b_72051_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스페이스몬스터컨텐츠 김찬김영기 감독 부자(父子), 2021 한국광고대회 수상 영예 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7800</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7800</guid>
-            <pubDate>Mon, 06 Dec 2021 10:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[스페이스몬스터컨텐츠 김찬, 김영기 감독 부자가지난 3일 진행된 2021 한국광고대회에서 광고산업 발전 유공 정부포상 포장과 더불어, 대한민국 광고대상 디지털영상 부문 금상을 수상했다. 스페이스몬스터컨텐츠 고문인 김찬  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[인스타그램, 게시물 시간순으로 보여준다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7830</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7830</guid>
+            <pubDate>Thu, 09 Dec 2021 08:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[올해 네이버 블로그 콘텐츠 생성 3억개 '역대 최다' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7829</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7829</guid>
-            <pubDate>Thu, 09 Dec 2021 07:17:31 GMT</pubDate>
+            <pubDate>Thu, 09 Dec 2021 07:17:17 GMT</pubDate>
             <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
         </item>
         <item>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스페이스몬스터컨텐츠 김찬·김영기 감독 부자(父子), 2021 한국광고대회 수상 영예 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7800</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7800</guid>
-            <pubDate>Mon, 06 Dec 2021 10:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지를 보고 알 수 있는 전환율이 가장 높은 상품은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 09 Dec 2021 07:17:43 GMT</pubDate>
+            <pubDate>Thu, 09 Dec 2021 08:21:02 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지를 보고 알 수 있는 전환율이 가장 높은 상품은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/67449777d73f79a08fa78645022ef270_16384346041138.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
