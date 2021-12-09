@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 00:55:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 02:04:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,18 +22,18 @@
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[5분 만에 보는 트렌드 코리아 2022 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37755</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37755</guid>
-            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[헤이데일리]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 마케터의 현타 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37799</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37799</guid>
             <pubDate>Thu, 25 Nov 2021 04:22:17 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5분 만에 보는 트렌드 코리아 2022 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37755</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37755</guid>
+            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[헤이데일리]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MZ의 성향을 이용한 머니러시 마케팅 사례 (아이보스 ─ 인기글)]]></title>
@@ -57,13 +57,6 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? ) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56721</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56721</guid>
-            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[셀트너]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[우리가 NFT를 알아야 하는 이유 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37811</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37811</guid>
@@ -71,11 +64,11 @@
             <content:encoded><![CDATA[헤이데일리]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오가 생각하는 오픈마켓은? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56687</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56687</guid>
-            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
+            <title><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? ) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56721</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56721</guid>
+            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[셀트너]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 .. (아이보스 ─ 인기글)]]></title>
@@ -83,6 +76,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56715</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[상원1]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카카오가 생각하는 오픈마켓은? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56687</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56687</guid>
+            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카피 문구를 바꿨을 뿐인데 "역대급 매출 기록" (아이보스 ─ 인기글)]]></title>
@@ -204,18 +204,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[너무 힘들어요ㅠㅠ마케팅만 잘하면 다 성공하는 걸.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2110-13831</link>
-            <guid>https://www.i-boss.co.kr/ab-2110-13831</guid>
-            <pubDate>Sat, 20 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[노예탈출]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[안녕하세요 저는 김치입니다!! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37862</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37862</guid>
             <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[구루나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[너무 힘들어요ㅠㅠ마케팅만 잘하면 다 성공하는 걸.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2110-13831</link>
+            <guid>https://www.i-boss.co.kr/ab-2110-13831</guid>
+            <pubDate>Sat, 20 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[노예탈출]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구글 검색어로 되돌아보는 2021년 한국과 세계... 한국 종합 1위 로블록스, 글로벌 종합 1위 호주 대 인도 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -461,42 +461,42 @@
             <title><![CDATA[구글 검색어로 되돌아보는 2021년 한국과 세계... 한국 종합 1위 ‘로블록스’, 글로벌 종합 1위 ‘호주 대 인도’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7826</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7826</guid>
-            <pubDate>Thu, 09 Dec 2021 00:55:30 GMT</pubDate>
+            <pubDate>Thu, 09 Dec 2021 09:51:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대학내일20대연구소] 대면 소통에 대한 니즈는 감소하고, 비대면 소통 선호 비율 증가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7825</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7825</guid>
-            <pubDate>Thu, 09 Dec 2021 00:55:30 GMT</pubDate>
+            <pubDate>Thu, 09 Dec 2021 09:03:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[덴츠/마이크로소프트, '지속 가능한 미디어'와 '탈탄소화 광고'가 중요해 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7824</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7824</guid>
-            <pubDate>Thu, 09 Dec 2021 00:55:30 GMT</pubDate>
+            <pubDate>Thu, 09 Dec 2021 08:47:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[PR협회, PR People Talk 일곱 번째 이야기 '2021년의 Hot 이슈를 논하다 - PR 키워드 7' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7823</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7823</guid>
-            <pubDate>Thu, 09 Dec 2021 00:55:30 GMT</pubDate>
+            <pubDate>Thu, 09 Dec 2021 08:46:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인스타그램의 스트리밍 플랫폼 인게이지먼트가 가장 높아 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7822</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7822</guid>
-            <pubDate>Thu, 09 Dec 2021 00:55:30 GMT</pubDate>
+            <pubDate>Thu, 09 Dec 2021 08:46:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[트렌드모니터] 아무리 건강에 좋아도 맛이 없으면, 소비자들이 찾지 않을 것 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7821</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7821</guid>
-            <pubDate>Thu, 09 Dec 2021 00:55:30 GMT</pubDate>
+            <pubDate>Thu, 09 Dec 2021 08:44:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -671,7 +671,7 @@
             <title><![CDATA[다음 이미지를 보고 알 수 있는 전환율이 가장 높은 상품은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 09 Dec 2021 00:55:43 GMT</pubDate>
+            <pubDate>Thu, 09 Dec 2021 02:03:59 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지를 보고 알 수 있는 전환율이 가장 높은 상품은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/67449777d73f79a08fa78645022ef270_16384346041138.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
