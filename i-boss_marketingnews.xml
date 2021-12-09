@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 06:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 07:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해 네이버 블로그 콘텐츠 생성 3억개 역대 최다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7829</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7829</guid>
+            <pubDate>Thu, 09 Dec 2021 07:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[올해 생성된 블로그 콘텐츠3억 개로 역대 최다 기록 MZ세대 블로그 활성화 견인, 1020사용자44%달해  올해 네이버 블로그 서비스 이용률은 여느 해보다 가장 가파른 상승 곡선을 보였다.올 한 해 새롭게 생성된 블로그 콘텐츠 수 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c64c3fbd5bcba073386e7116b2817c9e_16390319543931.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방통위중기부, 중소벤처사 광고마케팅 지원 펀드 250억 조성]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7827</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7800</guid>
             <pubDate>Mon, 06 Dec 2021 10:19:46 GMT</pubDate>
             <content:encoded><![CDATA[스페이스몬스터컨텐츠 김찬, 김영기 감독 부자가지난 3일 진행된 2021 한국광고대회에서 광고산업 발전 유공 정부포상 포장과 더불어, 대한민국 광고대상 디지털영상 부문 금상을 수상했다. 스페이스몬스터컨텐츠 고문인 김찬  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[애드아시아 마카오, 2023 애드아시아 서울에 대한 높은 관심 보여]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7799</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7799</guid>
-            <pubDate>Mon, 06 Dec 2021 09:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[12월 3일과 4일 마카오에서는 아시아 및 글로벌 광고업계 리더들이 참가한 가운데 아시아광고대회(AdAsia, 이하 애드아시아)가 개최됐다. 특히 이번 애드아시아에서는 2023년 애드아시아 서울에 대한 관심과 기대가 매우 높은 것으 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

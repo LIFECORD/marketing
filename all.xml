@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 06:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 07:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,13 @@
             <content:encoded><![CDATA[쥬녕쓰]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[마케팅밈] 마케팅 유우머 - 1 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37915</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37915</guid>
+            <pubDate>Thu, 09 Dec 2021 04:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[구글 유튜브 광고 1억 집행, 매출 4억 초반 후기 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56654</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56654</guid>
@@ -132,13 +139,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-37725</guid>
             <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[놀토]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[마케팅밈] 마케팅 유우머 - 1 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37915</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37915</guid>
-            <pubDate>Thu, 09 Dec 2021 04:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[SW]  상원 최신판 올마식 광고관리 비법 (아이보스 ─ 인기글)]]></title>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-37862</guid>
             <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[구루나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[올해 네이버 블로그 콘텐츠 생성 3억개 역대 최다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7829</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7829</guid>
+            <pubDate>Thu, 09 Dec 2021 07:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[올해 생성된 블로그 콘텐츠3억 개로 역대 최다 기록 MZ세대 블로그 활성화 견인, 1020사용자44%달해  올해 네이버 블로그 서비스 이용률은 여느 해보다 가장 가파른 상승 곡선을 보였다.올 한 해 새롭게 생성된 블로그 콘텐츠 수 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c64c3fbd5bcba073386e7116b2817c9e_16390319543931.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방통위중기부, 중소벤처사 광고마케팅 지원 펀드 250억 조성 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[애드아시아 마카오, 2023 애드아시아 서울에 대한 높은 관심 보여 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7799</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7799</guid>
-            <pubDate>Mon, 06 Dec 2021 09:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[12월 3일과 4일 마카오에서는 아시아 및 글로벌 광고업계 리더들이 참가한 가운데 아시아광고대회(AdAsia, 이하 애드아시아)가 개최됐다. 특히 이번 애드아시아에서는 2023년 애드아시아 서울에 대한 관심과 기대가 매우 높은 것으 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[올해 네이버 블로그 콘텐츠 생성 3억개 '역대 최다' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7829</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7829</guid>
+            <pubDate>Thu, 09 Dec 2021 07:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[방통위·중기부, 중소벤처사 광고·마케팅 지원 펀드 250억 조성 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[애드아시아 마카오, '2023 애드아시아 서울'에 대한 높은 관심 보여 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7799</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7799</guid>
-            <pubDate>Mon, 06 Dec 2021 09:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지를 보고 알 수 있는 전환율이 가장 높은 상품은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 09 Dec 2021 06:21:39 GMT</pubDate>
+            <pubDate>Thu, 09 Dec 2021 07:17:43 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지를 보고 알 수 있는 전환율이 가장 높은 상품은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/67449777d73f79a08fa78645022ef270_16384346041138.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
