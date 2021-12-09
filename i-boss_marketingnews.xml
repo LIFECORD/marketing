@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 14:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 15:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스타그램, 알고리즘 폐지최신순 피드만 제공]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7833</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7833</guid>
+            <pubDate>Thu, 09 Dec 2021 15:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[인스타그램이 내년부터 알고리즘에 기반한 콘텐츠 노출을 포기한다. 대신 콘텐츠를 생산한 시간 순서대로 배열할 계획이다.  인스타그램 아담 모세리 CEO는 의회 청문회에 처음으로 출석해 이 같은 계획을 밝혔다. 인스타그램과 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[아이보스, 엘씨벤처스와 카카오 비즈니스 마케팅 웨비나 연다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7832</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 07 Dec 2021 10:01:00 GMT</pubDate>
             <content:encoded><![CDATA[11월 디즈니플러스 결제자 31만 명, 결제금액은 172억 원 추정 디즈니플러스 결제자의 32%가 넷플릭스를 이미 결제하고 있는 사람     앱/리테일 분석서비스 와이즈앱리테일굿즈가 지난 11월 한국 서비스를 시작한 디즈니플러스(Disn ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0b5428cd7d74060320bf19ac27eeaede_42182_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 세계에서 가장 많이 사용된 이모티콘은?]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7802</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7802</guid>
-            <pubDate>Tue, 07 Dec 2021 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[문자나 카톡, 또는 SNS에서 이모티콘(이모지)이 없다면 어떨까? 아마도 삭막하고 뭔가 허전한 느낌이 들지 않을까? 게다가 코로나로 인해 비대면 접촉이 많아졌기 때문에, 아마도 이모티콘은 더 많이 사용됐을 것으로 추측된다. ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
