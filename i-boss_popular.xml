@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-09T02:04:09.070Z</updated>
+    <updated>2021-12-09T03:18:29.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -111,6 +111,13 @@
         <content type="html"><![CDATA[쥬녕쓰]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[출근 전날 연봉 500 깎는 회사]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-37910</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-37910"/>
+        <updated>2021-12-07T08:21:32.296Z</updated>
+        <content type="html"><![CDATA[오늘그리고내일]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[구글 유튜브 광고 1억 집행, 매출 4억 초반 후기]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56654</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56654"/>
@@ -123,13 +130,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-37725"/>
         <updated>2021-11-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[놀토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[출근 전날 연봉 500 깎는 회사]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-37910</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-37910"/>
-        <updated>2021-12-07T08:21:32.296Z</updated>
-        <content type="html"><![CDATA[오늘그리고내일]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[SW]  상원 최신판 올마식 광고관리 비법]]></title>
