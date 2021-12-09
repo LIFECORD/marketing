@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 22:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 23:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12월 10일 마케팅 뉴스클리핑] 네이버 블로그, 올해 신규 콘텐츠 3억 개... MZ 비중 70% 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7828</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7828</guid>
+            <pubDate>Fri, 10 Dec 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버 블로그, 올해 신규 콘텐츠 3억 개... MZ 비중 70%  올해 네이버 블로그에 올라온 콘텐츠 수가 역대 최대 규모인 3억 개를 기록했다. 특히 전체 사용자 가운데 MZ 세대의 비중이 70%였고, 1020 사용자 비중은 44%에 달했다. 새롭 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d98322c8b28ad058cded3dfdca03ffa0_89177_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인스타그램, 알고리즘 폐지최신순 피드만 제공]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7833</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 07 Dec 2021 09:18:35 GMT</pubDate>
             <content:encoded><![CDATA[스마트스토어를 기반으로 국내 e커머스 시장 1위에 오른 네이버가 지난해 연이어 내놓은 신규 서비스들이 빠른 속도로 성장하고 있다. 특히 장보기, 럭셔리, 남성 패션 등 버티컬에 특화된 서비스들이 시범 테스트를 종료하고  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1fa2a78558f32e93491e09624972ba50_71706_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11월 디즈니플러스 결제자 31만 명!]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7803</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7803</guid>
-            <pubDate>Tue, 07 Dec 2021 10:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[11월 디즈니플러스 결제자 31만 명, 결제금액은 172억 원 추정 디즈니플러스 결제자의 32%가 넷플릭스를 이미 결제하고 있는 사람     앱/리테일 분석서비스 와이즈앱리테일굿즈가 지난 11월 한국 서비스를 시작한 디즈니플러스(Disn ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0b5428cd7d74060320bf19ac27eeaede_42182_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
