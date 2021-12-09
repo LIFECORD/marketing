@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 03:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 04:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방통위중기부, 중소벤처사 광고마케팅 지원 펀드 250억 조성]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7827</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7827</guid>
+            <pubDate>Thu, 09 Dec 2021 00:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[방송통신위원회와 중소벤처기업부, 한국방송광고진흥공사(코바코), 한국벤처투자는 9일 코바코 대회의실에서 중소벤처기업 지원을 위한 업무협약을 체결한다고 밝혔다.  이번 협약은 우수 벤처기업의 판로지원을 위한 한국형  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[구글 검색어로 되돌아보는 2021년 한국과 세계... 한국 종합 1위 로블록스, 글로벌 종합 1위 호주 대 인도]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7826</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 06 Dec 2021 09:18:20 GMT</pubDate>
             <content:encoded><![CDATA[12월 3일과 4일 마카오에서는 아시아 및 글로벌 광고업계 리더들이 참가한 가운데 아시아광고대회(AdAsia, 이하 애드아시아)가 개최됐다. 특히 이번 애드아시아에서는 2023년 애드아시아 서울에 대한 관심과 기대가 매우 높은 것으 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[온라인 명품 플랫폼 머스트잇, 압구정 쇼룸형 매장 오픈]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7797</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7797</guid>
-            <pubDate>Mon, 06 Dec 2021 10:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[온라인에서만 만나보던 명품, 입어보고 구매...온오프라인 시너지 강화    온라인 명품 플랫폼 머스트잇이 서울 압구정에 쇼룸형 매장을 오픈했다. 쇼룸은 압구정 머스트잇 신사옥 건물 1층에 위치했으며 규모는 182(약 60평)정도 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16387552041846.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

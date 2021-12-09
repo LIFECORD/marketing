@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 03:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 04:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,6 +176,13 @@
             <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[마케팅밈] 마케팅 유우머 - 1 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37915</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37915</guid>
+            <pubDate>Thu, 09 Dec 2021 04:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[윤쿨 시리즈] 언제까지 예쁜 소재만 만들래? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56623</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56623</guid>
@@ -211,11 +218,12 @@
             <content:encoded><![CDATA[구루나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[너무 힘들어요ㅠㅠ마케팅만 잘하면 다 성공하는 걸.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2110-13831</link>
-            <guid>https://www.i-boss.co.kr/ab-2110-13831</guid>
-            <pubDate>Sat, 20 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[노예탈출]]></content:encoded>
+            <title><![CDATA[방통위중기부, 중소벤처사 광고마케팅 지원 펀드 250억 조성 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7827</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7827</guid>
+            <pubDate>Thu, 09 Dec 2021 00:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[방송통신위원회와 중소벤처기업부, 한국방송광고진흥공사(코바코), 한국벤처투자는 9일 코바코 대회의실에서 중소벤처기업 지원을 위한 업무협약을 체결한다고 밝혔다.  이번 협약은 우수 벤처기업의 판로지원을 위한 한국형  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[구글 검색어로 되돌아보는 2021년 한국과 세계... 한국 종합 1위 로블록스, 글로벌 종합 1위 호주 대 인도 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[온라인 명품 플랫폼 머스트잇, 압구정 쇼룸형 매장 오픈 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7797</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7797</guid>
-            <pubDate>Mon, 06 Dec 2021 10:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[온라인에서만 만나보던 명품, 입어보고 구매...온오프라인 시너지 강화    온라인 명품 플랫폼 머스트잇이 서울 압구정에 쇼룸형 매장을 오픈했다. 쇼룸은 압구정 머스트잇 신사옥 건물 1층에 위치했으며 규모는 182(약 60평)정도 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16387552041846.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[방통위·중기부, 중소벤처사 광고·마케팅 지원 펀드 250억 조성 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7827</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7827</guid>
+            <pubDate>Thu, 09 Dec 2021 04:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[빙빙]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구글 검색어로 되돌아보는 2021년 한국과 세계... 한국 종합 1위 ‘로블록스’, 글로벌 종합 1위 ‘호주 대 인도’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[온라인 명품 플랫폼 머스트잇, 압구정 쇼룸형 매장 오픈 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7797</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7797</guid>
-            <pubDate>Mon, 06 Dec 2021 10:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지를 보고 알 수 있는 전환율이 가장 높은 상품은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 09 Dec 2021 03:18:19 GMT</pubDate>
+            <pubDate>Thu, 09 Dec 2021 04:22:47 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지를 보고 알 수 있는 전환율이 가장 높은 상품은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/67449777d73f79a08fa78645022ef270_16384346041138.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
