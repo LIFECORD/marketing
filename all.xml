@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 23:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 00:55:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -57,13 +57,6 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우리가 NFT를 알아야 하는 이유 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37811</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37811</guid>
-            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[헤이데일리]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? ) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56721</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56721</guid>
@@ -71,11 +64,11 @@
             <content:encoded><![CDATA[셀트너]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56715</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56715</guid>
-            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[상원1]]></content:encoded>
+            <title><![CDATA[우리가 NFT를 알아야 하는 이유 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37811</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37811</guid>
+            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[헤이데일리]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카카오가 생각하는 오픈마켓은? (아이보스 ─ 인기글)]]></title>
@@ -83,6 +76,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56687</guid>
             <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56715</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56715</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[상원1]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카피 문구를 바꿨을 뿐인데 "역대급 매출 기록" (아이보스 ─ 인기글)]]></title>
@@ -127,13 +127,6 @@
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[SW]  상원 최신판 올마식 광고관리 비법 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56735</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56735</guid>
-            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[상원1]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[출근 전날 연봉 500 깎는 회사 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37910</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37910</guid>
@@ -141,11 +134,25 @@
             <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[SW]  상원 최신판 올마식 광고관리 비법 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56735</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56735</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[상원1]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[가장 효율적인 퍼포먼스 마케팅 방법론 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56683</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56683</guid>
             <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[준5941]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[상세페이지 기획 어렵네요 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37889</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37889</guid>
+            <pubDate>Fri, 03 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[rdg]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[앞으로 트렌드를 이끌어갈 뉴미디어 콘텐츠는? 🤔 (아이보스 ─ 인기글)]]></title>
@@ -162,13 +169,6 @@
             <content:encoded><![CDATA[그린다이어리]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[상세페이지 기획 어렵네요 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37889</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37889</guid>
-            <pubDate>Fri, 03 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[rdg]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[데이터 정리는 필수! 자동화 하는 방법 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56633</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56633</guid>
@@ -181,6 +181,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56623</guid>
             <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잘 파는 회사의 레포트에 들어가는 핵심지표 3가지 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56717</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56717</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MZ세대의 관심 '아트테크' 활용한 마케팅 이야기 (아이보스 ─ 인기글)]]></title>
@@ -197,13 +204,6 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[잘 파는 회사의 레포트에 들어가는 핵심지표 3가지 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56717</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56717</guid>
-            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[준5941]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[너무 힘들어요ㅠㅠ마케팅만 잘하면 다 성공하는 걸.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2110-13831</link>
             <guid>https://www.i-boss.co.kr/ab-2110-13831</guid>
@@ -216,6 +216,54 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-37862</guid>
             <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[구루나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[구글 검색어로 되돌아보는 2021년 한국과 세계... 한국 종합 1위 로블록스, 글로벌 종합 1위 호주 대 인도 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7826</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7826</guid>
+            <pubDate>Thu, 09 Dec 2021 09:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[구글코리아는9일구글검색으로본2021년국내검색어순위를발표했다.올해국내사용자들이검색한키워드를기준으로종합카테고리를비롯해코로나바이러스국내뉴스/사회드라마/예능영화게임카테고리검색어순위를공개했다.이와함께 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_64dbebf29f102918730ac351a136500f_99714_6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대학내일20대연구소] 대면 소통에 대한 니즈는 감소하고, 비대면 소통 선호 비율 증가 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7825</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7825</guid>
+            <pubDate>Thu, 09 Dec 2021 09:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19로 급격한 비대면 전환을 경험한 지 2년이 지난 지금, 세대별 온라인 소통 방법은 어떻게 변화했을까? 이에 대학내일20대연구소는 만 15세에서 60세 남녀 1200명을 대상으로 세대별 자아, 관계, 사회, 국가, 세계, 삶에 대한  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[덴츠/마이크로소프트, 지속 가능한 미디어와 탈탄소화 광고가 중요해 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7824</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7824</guid>
+            <pubDate>Thu, 09 Dec 2021 08:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[덴츠 인터내셔널과 마이크로소프트 어드버타이징의 새로운 보고서에 따르면, 소비자의 14%만이 자신이 사용하는 미디어의 지속 가능성 및/또는 광고의 탄소 영향 때문에 브랜드와 관련된 조치를 취했다고 답했다. 또한`지속 가 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[PR협회, PR People Talk 일곱 번째 이야기 2021년의 Hot 이슈를 논하다 - PR 키워드 7 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7823</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7823</guid>
+            <pubDate>Thu, 09 Dec 2021 08:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국PR협회는 2021년을 마무리하며`2021년의 Hot 이슈를 논하다 - PR 키워드 7`이라는 주제로PR People Talk를 개최한다. 이번 PR People Talk에서는 강미혜 The PR 편집장(한국PR협회 이사)의 사회로 김윤경 어센트 코리아 마케팅본부장(前 롯 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[인스타그램의 스트리밍 플랫폼 인게이지먼트가 가장 높아 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7822</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7822</guid>
+            <pubDate>Thu, 09 Dec 2021 08:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[인스타그램의 스트리밍 플랫폼 인게이지먼트가 약 80%로 소셜 플랫폼 가운데 가장 높았고, 2021년에 팔로워 수가 매달 수백만 명씩 증가한 넷플릭스(Netflix) 등의 계정에 힘입어 틱톡(TikTok)이 근소한 차이로 그 뒤를 이었다. 스트리 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[트렌드모니터] 아무리 건강에 좋아도 맛이 없으면, 소비자들이 찾지 않을 것 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7821</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7821</guid>
+            <pubDate>Thu, 09 Dec 2021 08:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[먼저 건강에 대한 관심이 지속적으로 높아지고 있다는 것을 확인해볼 수 있었다. 전체 응답자의 78.1%가 평소 건강에 대해 관심이 많다고 응답한 것으로, 이는 지난해 조사(74.6%) 때보다 더 높아진 것이었다. 코로나 시대를 겪으면 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[12월 9일 마케팅 뉴스클리핑] 베타 뗀 네이버쇼핑, 이커머스 1위 굳히기 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -410,58 +458,52 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16387552041846.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[특별기고] 이미지를 소비하는 시대, 브랜드 목적 광고에 진정성 담아야 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7796</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7796</guid>
-            <pubDate>Mon, 06 Dec 2021 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[미국 최대 세일 기간인 블랙 프라이데이에 `Don`t Buy This Jacket(우리 옷을 사지 마세요)`라는 슬로건을 내세운 한 기업이 있다. 바로, 미국 최대 아웃도어 브랜드 파타고니아(Patagonia)다. 파타고니아는 제품 생산 과정에서 발생하는 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[구글 검색어로 되돌아보는 2021년 한국과 세계... 한국 종합 1위 ‘로블록스’, 글로벌 종합 1위 ‘호주 대 인도’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7826</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7826</guid>
+            <pubDate>Thu, 09 Dec 2021 00:55:30 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년, Z세대와 밀레니얼 세대의 시선을 사로잡는 것은 무엇일까?... 2022년 디자인 트렌드 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7795</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7795</guid>
-            <pubDate>Mon, 06 Dec 2021 08:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[2020년은 그동안 경험하지 못했던 것을 경험했고, 2021년 전년의 경험을 바탕으로 다양한 분야에서 크리에이티브가 발휘됐다. 디자인적으로는밝은 색상과 희망, 따뜻함, 네온, 노스탤지어, 유머의 비주얼이 특징이었다. 그렇다면  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[대학내일20대연구소] 대면 소통에 대한 니즈는 감소하고, 비대면 소통 선호 비율 증가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7825</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7825</guid>
+            <pubDate>Thu, 09 Dec 2021 00:55:30 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[해외 크리에이티브] 버거킹이 맥도날드의 50번 째 생일을 축하하는 법 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7794</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7794</guid>
-            <pubDate>Mon, 06 Dec 2021 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[버거킹은 맥도날드 50번째 생일에 깜짝 선물을 제공했다. 디자인택시에 따르면, 버거킹 독일은 크리에이티브 에이전시INGO 함부르크와 함께독일맥도날드의 50주년을 기념하기 위해 `Every King Needs a Clown`이라는 슬로건과 함께 버거 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[덴츠/마이크로소프트, '지속 가능한 미디어'와 '탈탄소화 광고'가 중요해 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7824</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7824</guid>
+            <pubDate>Thu, 09 Dec 2021 00:55:30 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[12월 6일 마케팅 뉴스클리핑] 모바일 화면서 뛰쳐나오는 패션 플랫폼 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7789</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7789</guid>
-            <pubDate>Mon, 06 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 모바일 화면서 뛰쳐나오는 패션 플랫폼  온라인을 기반으로 한 유통패션기업이 속속 오프라인으로 나오고 있다. 플래그십 스토어를 비롯해 백화점에 입점하는 팝업스토어, 대형마트의 숍인숍 등 다양한 점포 형태로 오프라 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16386942795968.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[PR협회, PR People Talk 일곱 번째 이야기 '2021년의 Hot 이슈를 논하다 - PR 키워드 7' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7823</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7823</guid>
+            <pubDate>Thu, 09 Dec 2021 00:55:30 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[퍼포먼스 바이 TBWA, 광고자동화 솔루션 프라핏 개발 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7793</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7793</guid>
-            <pubDate>Sun, 05 Dec 2021 10:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[퍼포먼스 바이 TBWA(대표 김형태)는 자동화 일변도의 타깃마케팅 문제를 해결한 RTB DSP `프라핏(Propfit)`을 개발하고 서비스를 시작했다. 퍼포먼스 바이 TBWA에 따르면, `프라핏`은범용 광고자동화 플랫폼의 한계를 극복하기 위해 개 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[인스타그램의 스트리밍 플랫폼 인게이지먼트가 가장 높아 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7822</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7822</guid>
+            <pubDate>Thu, 09 Dec 2021 00:55:30 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[Tip!] 인게이지먼트를 급증시키는 10가지 소셜 미디어 디자인 방법 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7792</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7792</guid>
-            <pubDate>Sun, 05 Dec 2021 09:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[사람들이 디자인에서 저지르는 큰 실수는 단지 멋지게 보이기 위한 것이라고 생각하는 것이다. 좋은 디자인은 멋지게 보이는 것이 아니다. 오디언스의 참여를 유도할 수 있으며. 이는 고객을 유치하는데 중요하다는 것을 의미 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[트렌드모니터] 아무리 건강에 좋아도 맛이 없으면, 소비자들이 찾지 않을 것 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7821</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7821</guid>
+            <pubDate>Thu, 09 Dec 2021 00:55:30 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[12월 9일 마케팅 뉴스클리핑] '베타' 뗀 네이버쇼핑, 이커머스 1위 굳히기 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7816</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7816</guid>
-            <pubDate>Wed, 08 Dec 2021 23:17:59 GMT</pubDate>
+            <pubDate>Thu, 09 Dec 2021 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -626,52 +668,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[특별기고] ‘이미지’를 소비하는 시대, 브랜드 목적 광고에 진정성 담아야 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7796</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7796</guid>
-            <pubDate>Mon, 06 Dec 2021 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["2022년, Z세대와 밀레니얼 세대의 시선을 사로잡는 것은 무엇일까?"... 2022년 디자인 트렌드 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7795</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7795</guid>
-            <pubDate>Mon, 06 Dec 2021 08:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[해외 크리에이티브] 버거킹이 맥도날드의 50번 째 생일을 축하하는 법 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7794</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7794</guid>
-            <pubDate>Mon, 06 Dec 2021 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[12월 6일 마케팅 뉴스클리핑] 모바일 화면서 뛰쳐나오는 패션 플랫폼 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7789</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7789</guid>
-            <pubDate>Mon, 06 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[퍼포먼스 바이 TBWA, 광고자동화 솔루션 '프라핏' 개발 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7793</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7793</guid>
-            <pubDate>Sun, 05 Dec 2021 10:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[Tip!] 인게이지먼트를 급증시키는 10가지 소셜 미디어 디자인 방법 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7792</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7792</guid>
-            <pubDate>Sun, 05 Dec 2021 09:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지를 보고 알 수 있는 전환율이 가장 높은 상품은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 08 Dec 2021 23:18:09 GMT</pubDate>
+            <pubDate>Thu, 09 Dec 2021 00:55:43 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지를 보고 알 수 있는 전환율이 가장 높은 상품은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/67449777d73f79a08fa78645022ef270_16384346041138.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
