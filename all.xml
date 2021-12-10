@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 07:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 08:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -57,18 +57,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우리가 NFT를 알아야 하는 이유 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37811</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37811</guid>
-            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[헤이데일리]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? ) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56721</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56721</guid>
             <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[셀트너]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우리가 NFT를 알아야 하는 이유 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37811</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37811</guid>
+            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[헤이데일리]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 .. (아이보스 ─ 인기글)]]></title>
@@ -99,18 +99,18 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[출근 전날 연봉 500 깎는 회사 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37910</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37910</guid>
-            <pubDate>Tue, 07 Dec 2021 08:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 마케팅 유우머 - 1 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37915</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37915</guid>
             <pubDate>Thu, 09 Dec 2021 04:22:08 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[출근 전날 연봉 500 깎는 회사 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37910</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37910</guid>
+            <pubDate>Tue, 07 Dec 2021 08:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케팅판을 여행하는 돈없는 마케터를 위한 안내서 2 (아이보스 ─ 인기글)]]></title>
@@ -183,13 +183,6 @@
             <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[윤쿨 시리즈] 언제까지 예쁜 소재만 만들래? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56623</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56623</guid>
-            <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[잘 파는 회사의 레포트에 들어가는 핵심지표 3가지 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56717</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56717</guid>
@@ -216,6 +209,21 @@
             <guid>https://www.i-boss.co.kr/ab-3208-715</guid>
             <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[안녕하세요 저는 김치입니다!! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37862</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37862</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[구루나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[올해는 어디서 사지... 유통가, 크리스마스 케이크 출시 봇물 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7838</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7838</guid>
+            <pubDate>Fri, 10 Dec 2021 08:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[`홈파티족` 공략 마케팅 활발 파리바게뜨뚜레쥬르 등 케이크 예약 판매   10일 업계에 따르면 커피아이스크림 전문점에서는 최근 크리스마스 홀케이크 출시와 함께 `홈파티족`을 겨냥한 다양한 마케팅을 펼치고 있다.  프리미엄  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[알렉사 순위 사이트, 25년 만에 문 닫는다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2022년은 디지털 확장의 해... 나스미디어, 디지털 미디어&마케팅 트렌드 전망 보고서 발행 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7808</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7808</guid>
-            <pubDate>Wed, 08 Dec 2021 08:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 미디어렙 나스미디어(대표 정기호)가 2022년 광고시장 및 미디어 트렌드를 예측한 Digital Media &amp; Marketing Trend forecasting 을 발표했다. 이번 리포트는 크게 6개의 챕터로 2022년 광고시장 전망 옴니채널 마케팅  오프라인 친화 업 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[올해는 어디서 사지... 유통가, '크리스마스 케이크' 출시 봇물 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7838</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7838</guid>
+            <pubDate>Fri, 10 Dec 2021 08:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[알렉사 순위 사이트, 25년 만에 문 닫는다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“2022년은 디지털 확장의 해”... 나스미디어, 디지털 미디어&마케팅 트렌드 전망 보고서 발행 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7808</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7808</guid>
-            <pubDate>Wed, 08 Dec 2021 08:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['이것'은 플랫폼과 배달업체를 1:1로 직접 매칭하는 배달 방식을 말합니다. 단순 중개가 아닌, 주문과 배달 시스템을 플랫폼이 직접 관리하여 배달 수수료와 배달 시간을 모두 줄일 수 있는 모델인 '이것'은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 10 Dec 2021 07:17:59 GMT</pubDate>
+            <pubDate>Fri, 10 Dec 2021 08:21:13 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 플랫폼과 배달업체를 1:1로 직접 매칭하는 배달 방식을 말합니다. 단순 중개가 아닌, 주문과 배달 시스템을 플랫폼이 직접 관리하여 배달 수수료와 배달 시간을 모두 줄일 수 있는 모델인 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
