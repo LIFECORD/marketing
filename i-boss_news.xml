@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2021-12-09T23:18:15.975Z</updated>
+    <updated>2021-12-10T00:56:43.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지속가능성 전략은 소매업체의 필수 사항이 될 것이다]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7836</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7836"/>
+        <updated>2021-12-10T00:56:22.942Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[해외 크리에이티브] 랄프 로렌, 로블록스에서 다양한 체험 제공하는 '랄프 로렌 윈터 이스케이프' 선보여]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7835</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7835"/>
+        <updated>2021-12-10T00:56:22.943Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국광고홍보학회, 특별기획 세미나 '미디어·광고 데이터 신뢰도 향상 방안 모색' 개최]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7834</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7834"/>
+        <updated>2021-12-10T00:56:22.943Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[12월 10일 마케팅 뉴스클리핑] 네이버 블로그, 올해 신규 콘텐츠 3억 개... MZ 비중 70% 외]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7828</id>
@@ -193,26 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-7805"/>
         <updated>2021-12-07T23:18:03.305Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국디지털광고협회, '2021 대한민국 온라인광고대상 시상식' 개최]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7807</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7807"/>
-        <updated>2021-12-07T10:20:50.698Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국디지털광고협회, '2021년 온라인광고 성공사례 세미나' 온라인 공개]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7806</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7806"/>
-        <updated>2021-12-07T10:20:50.699Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베타 뗀 네이버쇼핑, e커머스 1위 굳히기]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7804</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7804"/>
-        <updated>2021-12-07T09:18:49.322Z</updated>
-        <content type="html"><![CDATA[김매니저]]></content>
     </entry>
 </feed>

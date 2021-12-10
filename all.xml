@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 23:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 00:56:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,18 +71,18 @@
             <content:encoded><![CDATA[셀트너]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오가 생각하는 오픈마켓은? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56687</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56687</guid>
-            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56715</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56715</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[상원1]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카카오가 생각하는 오픈마켓은? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56687</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56687</guid>
+            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[아이보스 연말 이벤트] 이벤트 참여하고 프레임 받.. (아이보스 ─ 인기글)]]></title>
@@ -99,18 +99,18 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케팅판을 여행하는 돈없는 마케터를 위한 안내서 2 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56698</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56698</guid>
-            <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[DV360]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[출근 전날 연봉 500 깎는 회사 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37910</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37910</guid>
             <pubDate>Tue, 07 Dec 2021 08:21:32 GMT</pubDate>
             <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케팅판을 여행하는 돈없는 마케터를 위한 안내서 2 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56698</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56698</guid>
+            <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[DV360]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 마케팅 유우머 - 1 (아이보스 ─ 인기글)]]></title>
@@ -211,11 +211,35 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[안녕하세요 저는 김치입니다!! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37862</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37862</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[구루나]]></content:encoded>
+            <title><![CDATA[[마감되쓔] 선착순 10명에게 1209 리터 보내드립니다 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37934</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37934</guid>
+            <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[지속가능성 전략은 소매업체의 필수 사항이 될 것이다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7836</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7836</guid>
+            <pubDate>Fri, 10 Dec 2021 08:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[지속가능성은 더이상 유행어가 아니다.덴츠와 마이크로소프트의 최근 보고서 에 따르면, 1년 이내 인구 5명 중 3명은 기후 변화에 대처하지 않는 브랜드를 보이콧하고,소비자의 거의 절반은 친환경 대안을 위해 브랜드와 서비스 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[해외 크리에이티브] 랄프 로렌, 로블록스에서 다양한 체험 제공하는 랄프 로렌 윈터 이스케이프 선보여 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7835</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7835</guid>
+            <pubDate>Fri, 10 Dec 2021 08:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[랄프 로렌은 로블록스에서 디지털 의류 컬렉션과 아이스 스케이트와 같은 겨울 활동을 주제로 한랄프 로렌 윈터 이스케이프(The Ralph Lauren Winter Escape)를 22년 1월 3일까지 선보인다. 랄프 로렌 윈터 이스케이프 체험은 아이스 스케 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[한국광고홍보학회, 특별기획 세미나 미디어광고 데이터 신뢰도 향상 방안 모색 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7834</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7834</guid>
+            <pubDate>Fri, 10 Dec 2021 08:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[급변하는 미디어 환경변화로 인해 공공정책 수립, 시장 마케팅 활용 등 관련 산업 주체들의 거래질서 확립과 산업 활성화를 위해 이용자에 대한 정확하고 신뢰할 수 있는 관련 데이터의 중요성이 부각되고 있다. 이에 한국광고 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[12월 10일 마케팅 뉴스클리핑] 네이버 블로그, 올해 신규 콘텐츠 3억 개... MZ 비중 70% 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -434,34 +458,31 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8161ae84aece075300a9b0249f2e0950_10438_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한국디지털광고협회, 2021 대한민국 온라인광고대상 시상식 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7807</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7807</guid>
-            <pubDate>Tue, 07 Dec 2021 10:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[한국디지털광고협회(회장 목영도)는올 한해 디지털 광고업계를 빛낸 우수한 작품에 대한 2021 대한민국 온라인광고대상 시상식을 12월 9일 온라인으로 개최한다. 이번 시상식에서는 2021년 우수 광고 사례 발표와 함께 김유나 서 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[지속가능성 전략은 소매업체의 필수 사항이 될 것이다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7836</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7836</guid>
+            <pubDate>Fri, 10 Dec 2021 00:56:22 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국디지털광고협회, 2021년 온라인광고 성공사례 세미나 온라인 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7806</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7806</guid>
-            <pubDate>Tue, 07 Dec 2021 10:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[한국디지털광고협회(회장 목영도)는제3차 온라인광고 재직자 세미나 영상을 공개했다. 이번 세미나는 12월 9일 개최될`2021 대한민국 온라인광고대상` 수상기업의 성공사례 를 중심으로,2021년 디지털광고 업계의 최신 동향과 이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[해외 크리에이티브] 랄프 로렌, 로블록스에서 다양한 체험 제공하는 '랄프 로렌 윈터 이스케이프' 선보여 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7835</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7835</guid>
+            <pubDate>Fri, 10 Dec 2021 00:56:22 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[베타 뗀 네이버쇼핑, e커머스 1위 굳히기 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7804</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7804</guid>
-            <pubDate>Tue, 07 Dec 2021 09:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[스마트스토어를 기반으로 국내 e커머스 시장 1위에 오른 네이버가 지난해 연이어 내놓은 신규 서비스들이 빠른 속도로 성장하고 있다. 특히 장보기, 럭셔리, 남성 패션 등 버티컬에 특화된 서비스들이 시범 테스트를 종료하고  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1fa2a78558f32e93491e09624972ba50_71706_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[한국광고홍보학회, 특별기획 세미나 '미디어·광고 데이터 신뢰도 향상 방안 모색' 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7834</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7834</guid>
+            <pubDate>Fri, 10 Dec 2021 00:56:22 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[12월 10일 마케팅 뉴스클리핑] 네이버 블로그, 올해 신규 콘텐츠 3억 개... MZ 비중 70% 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7828</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7828</guid>
-            <pubDate>Thu, 09 Dec 2021 23:17:54 GMT</pubDate>
+            <pubDate>Fri, 10 Dec 2021 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -647,31 +668,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국디지털광고협회, '2021 대한민국 온라인광고대상 시상식' 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7807</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7807</guid>
-            <pubDate>Tue, 07 Dec 2021 10:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국디지털광고협회, '2021년 온라인광고 성공사례 세미나' 온라인 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7806</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7806</guid>
-            <pubDate>Tue, 07 Dec 2021 10:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[베타 뗀 네이버쇼핑, e커머스 1위 굳히기 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7804</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7804</guid>
-            <pubDate>Tue, 07 Dec 2021 09:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[김매니저]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['이것'은 플랫폼과 배달업체를 1:1로 직접 매칭하는 배달 방식을 말합니다. 단순 중개가 아닌, 주문과 배달 시스템을 플랫폼이 직접 관리하여 배달 수수료와 배달 시간을 모두 줄일 수 있는 모델인 '이것'은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 09 Dec 2021 23:18:07 GMT</pubDate>
+            <pubDate>Fri, 10 Dec 2021 00:56:34 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 플랫폼과 배달업체를 1:1로 직접 매칭하는 배달 방식을 말합니다. 단순 중개가 아닌, 주문과 배달 시스템을 플랫폼이 직접 관리하여 배달 수수료와 배달 시간을 모두 줄일 수 있는 모델인 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
