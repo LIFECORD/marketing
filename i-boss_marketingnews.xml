@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 11:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 12:27:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[n번방 방지법 첫 날...오픈채팅방 검열 논란 시끌]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7840</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7840</guid>
+            <pubDate>Fri, 10 Dec 2021 12:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[이른바 n번방 방지법(전기통신사업법정보통신망법 개정안)이 시행되면서 네이버카카오 등이 불법촬영물 필터링 기능을 적용하고 나섰다. 이를 두고 온라인에서 과도한 검열이라는 비판 여론이 들끓자 정치권에서는 법 재개정 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[페이스북, 메타버스앱 호라이즌 월드 모두에게 개방]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7839</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7811</guid>
             <pubDate>Wed, 08 Dec 2021 09:01:00 GMT</pubDate>
             <content:encoded><![CDATA[국내 최대 모바일 빅데이터 플랫폼 기업 아이지에이웍스가모바일인덱스리포트를 발표했다.2021년11월1일부터2021년11월30일까지로,일평균4000만 모바일 기기의20억건 데이터(안드로이드, iOS통합 데이터 기준)를AI알고리즘에 기반하 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 광고시장 성장에 따라 2021년 총 광고비 전망 상향 조정]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7810</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7810</guid>
-            <pubDate>Wed, 08 Dec 2021 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[미디어포스트에 따르면, 미국과 전 세계 광고시장이 사상 최대의 성장을 기록하고 있는 것으로 나타났다. 미디어포스트는 IPG 미디어브랜드의 마그나, WPP의 그룹M, 그리고 퍼블릭리스 미디어의 제니스의 새로운 전망에 따라미국 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
