@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 05:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 06:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-3208-715</guid>
             <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[알렉사 순위 사이트, 25년 만에 문 닫는다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7837</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7837</guid>
+            <pubDate>Fri, 10 Dec 2021 06:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[알렉사는 9일(현지시간) 웹사이트 공지를 통해 오는 2022년 5월 1일 서비스를 중단한다고 밝혔다.   월드와이드웹(WWW) 탄생 후 웹사이트 제작 붐이 일던 1996년 4월 1일 출범한 알렉사는 전 세계 약 3000만개 웹사이트를 대상으로 트래 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[지속가능성 전략은 소매업체의 필수 사항이 될 것이다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[12월 8일 마케팅 뉴스클리핑] 쿠팡, 아마존 출신 마케팅 부사장 영입... 광고사업 강화 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7805</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7805</guid>
-            <pubDate>Wed, 08 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 쿠팡, 아마존 출신 마케팅 부사장 영입... 광고사업 강화  쿠팡이 아마존 출신 광고사업부 마케팅 부사장을 영입하고 아마존식 광고사업 모델에 뛰어든다. 마켓플레이스 입점 판매자 대상으로 선진화한 광고 솔루션을 제공하 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8161ae84aece075300a9b0249f2e0950_10438_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[알렉사 순위 사이트, 25년 만에 문 닫는다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7837</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7837</guid>
+            <pubDate>Fri, 10 Dec 2021 06:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지속가능성 전략은 소매업체의 필수 사항이 될 것이다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[12월 8일 마케팅 뉴스클리핑] 쿠팡, 아마존 출신 마케팅 부사장 영입... 광고사업 강화 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7805</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7805</guid>
-            <pubDate>Wed, 08 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['이것'은 플랫폼과 배달업체를 1:1로 직접 매칭하는 배달 방식을 말합니다. 단순 중개가 아닌, 주문과 배달 시스템을 플랫폼이 직접 관리하여 배달 수수료와 배달 시간을 모두 줄일 수 있는 모델인 '이것'은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 10 Dec 2021 05:16:22 GMT</pubDate>
+            <pubDate>Fri, 10 Dec 2021 06:20:48 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 플랫폼과 배달업체를 1:1로 직접 매칭하는 배달 방식을 말합니다. 단순 중개가 아닌, 주문과 배달 시스템을 플랫폼이 직접 관리하여 배달 수수료와 배달 시간을 모두 줄일 수 있는 모델인 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

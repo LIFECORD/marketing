@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 05:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 06:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알렉사 순위 사이트, 25년 만에 문 닫는다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7837</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7837</guid>
+            <pubDate>Fri, 10 Dec 2021 06:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[알렉사는 9일(현지시간) 웹사이트 공지를 통해 오는 2022년 5월 1일 서비스를 중단한다고 밝혔다.   월드와이드웹(WWW) 탄생 후 웹사이트 제작 붐이 일던 1996년 4월 1일 출범한 알렉사는 전 세계 약 3000만개 웹사이트를 대상으로 트래 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[지속가능성 전략은 소매업체의 필수 사항이 될 것이다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7836</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 08 Dec 2021 08:38:00 GMT</pubDate>
             <content:encoded><![CDATA[디지털 미디어렙 나스미디어(대표 정기호)가 2022년 광고시장 및 미디어 트렌드를 예측한 Digital Media &amp; Marketing Trend forecasting 을 발표했다. 이번 리포트는 크게 6개의 챕터로 2022년 광고시장 전망 옴니채널 마케팅  오프라인 친화 업 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[12월 8일 마케팅 뉴스클리핑] 쿠팡, 아마존 출신 마케팅 부사장 영입... 광고사업 강화 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7805</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7805</guid>
-            <pubDate>Wed, 08 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 쿠팡, 아마존 출신 마케팅 부사장 영입... 광고사업 강화  쿠팡이 아마존 출신 광고사업부 마케팅 부사장을 영입하고 아마존식 광고사업 모델에 뛰어든다. 마켓플레이스 입점 판매자 대상으로 선진화한 광고 솔루션을 제공하 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8161ae84aece075300a9b0249f2e0950_10438_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
