@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-10T02:38:49.673Z</updated>
+    <updated>2021-12-10T03:18:39.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[오늘그리고내일]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마케팅판을 여행하는 돈없는 마케터를 위한 안내서 2]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56698</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56698"/>
-        <updated>2021-11-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[DV360]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[마케팅밈] 마케팅 유우머 - 1]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-37915</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-37915"/>
         <updated>2021-12-09T04:22:08.100Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마케팅판을 여행하는 돈없는 마케터를 위한 안내서 2]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56698</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56698"/>
+        <updated>2021-11-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[DV360]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[요즘 강박에 시달리고 있습니다.....]]></title>

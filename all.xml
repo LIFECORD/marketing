@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 02:38:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 03:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -106,18 +106,18 @@
             <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케팅판을 여행하는 돈없는 마케터를 위한 안내서 2 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56698</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56698</guid>
-            <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[DV360]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 마케팅 유우머 - 1 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37915</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37915</guid>
             <pubDate>Thu, 09 Dec 2021 04:22:08 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케팅판을 여행하는 돈없는 마케터를 위한 안내서 2 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56698</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56698</guid>
+            <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[DV360]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[요즘 강박에 시달리고 있습니다..... (아이보스 ─ 인기글)]]></title>
@@ -671,7 +671,7 @@
             <title><![CDATA['이것'은 플랫폼과 배달업체를 1:1로 직접 매칭하는 배달 방식을 말합니다. 단순 중개가 아닌, 주문과 배달 시스템을 플랫폼이 직접 관리하여 배달 수수료와 배달 시간을 모두 줄일 수 있는 모델인 '이것'은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 10 Dec 2021 02:38:39 GMT</pubDate>
+            <pubDate>Fri, 10 Dec 2021 03:18:31 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 플랫폼과 배달업체를 1:1로 직접 매칭하는 배달 방식을 말합니다. 단순 중개가 아닌, 주문과 배달 시스템을 플랫폼이 직접 관리하여 배달 수수료와 배달 시간을 모두 줄일 수 있는 모델인 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
