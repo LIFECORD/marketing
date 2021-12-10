@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 08:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 09:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페이스북, 메타버스앱 호라이즌 월드 모두에게 개방]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7839</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7839</guid>
+            <pubDate>Fri, 10 Dec 2021 09:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[미국 경제전문매체 는 9일(현지시간) 메타가 자사의 아바타 VR(가상현실) 세계인 `호라이즌 월드(Horizon Worlds)`를 초대없이 누구나 사용 가능하게 했다고 보도했다.  지난해 베타 버전이 출시된 호라이즌 월드는 가상세계 참여 초 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16391275469481.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해는 어디서 사지... 유통가, 크리스마스 케이크 출시 봇물]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7838</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7810</guid>
             <pubDate>Wed, 08 Dec 2021 08:39:00 GMT</pubDate>
             <content:encoded><![CDATA[미디어포스트에 따르면, 미국과 전 세계 광고시장이 사상 최대의 성장을 기록하고 있는 것으로 나타났다. 미디어포스트는 IPG 미디어브랜드의 마그나, WPP의 그룹M, 그리고 퍼블릭리스 미디어의 제니스의 새로운 전망에 따라미국 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 세계에서 가장 인기있는 소셜 네트워크는?]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7809</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7809</guid>
-            <pubDate>Wed, 08 Dec 2021 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[현재전 세계에서 전체 인구의 약 57%인45억 명 이상의 사람들이 소셜 미디어를 사용하고 있다. 그러나 소수의 회사가 소셜 미디어를 장악하고 있다. 메타는 상위 5개 플랫폼 중 4개를 소유하고 있다. 그렇다면 구체적으로 전 세계 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
