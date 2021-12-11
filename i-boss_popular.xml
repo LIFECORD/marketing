@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-11T02:42:35.125Z</updated>
+    <updated>2021-12-11T03:17:56.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -209,10 +209,10 @@
         <content type="html"><![CDATA[구루나]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[너무 힘들어요ㅠㅠ마케팅만 잘하면 다 성공하는 걸..]]></title>
-        <id>https://www.i-boss.co.kr/ab-2110-13831</id>
-        <link href="https://www.i-boss.co.kr/ab-2110-13831"/>
-        <updated>2021-11-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[노예탈출]]></content>
+        <title type="html"><![CDATA[메타버스 간접 체험해보실 분 🖐]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56788</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56788"/>
+        <updated>2021-12-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
 </feed>
