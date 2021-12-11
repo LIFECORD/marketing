@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 05:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 06:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,18 +204,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[안녕하세요 저는 김치입니다!! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37862</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37862</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[구루나]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[메타버스 간접 체험해보실 분 🖐 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56788</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56788</guid>
             <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[안녕하세요 저는 김치입니다!! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37862</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37862</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[구루나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5060 신중년의 은행 업무도 모바일뱅킹이 대세... 많이 사용하는 은행 앱은 국민, 신한, 농협 순 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -671,7 +671,7 @@
             <title><![CDATA['이것'은 플랫폼과 배달업체를 1:1로 직접 매칭하는 배달 방식을 말합니다. 단순 중개가 아닌, 주문과 배달 시스템을 플랫폼이 직접 관리하여 배달 수수료와 배달 시간을 모두 줄일 수 있는 모델인 '이것'은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 11 Dec 2021 05:15:53 GMT</pubDate>
+            <pubDate>Sat, 11 Dec 2021 06:20:18 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 플랫폼과 배달업체를 1:1로 직접 매칭하는 배달 방식을 말합니다. 단순 중개가 아닌, 주문과 배달 시스템을 플랫폼이 직접 관리하여 배달 수수료와 배달 시간을 모두 줄일 수 있는 모델인 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
