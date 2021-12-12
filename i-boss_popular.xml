@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-12T06:20:52.485Z</updated>
+    <updated>2021-12-12T07:17:22.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -153,13 +153,6 @@
         <content type="html"><![CDATA[그린다이어리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[데이터 정리는 필수! 자동화 하는 방법]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56633</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56633"/>
-        <updated>2021-11-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[준5941]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[잘 파는 회사의 레포트에 들어가는 핵심지표 3가지]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56717</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56717"/>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-37764"/>
         <updated>2021-11-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[마케터쭈니]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매출을 올리는 인스타그램 태그 활용법 3가지]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56642</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56642"/>
+        <updated>2021-11-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[업스타그램]]></content>
     </entry>
 </feed>
