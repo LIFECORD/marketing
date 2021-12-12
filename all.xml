@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 10:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 11:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56642</guid>
             <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[업스타그램]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[홈페이지 기록 남기는 로그4j2서 취약점 발견과기정통부 긴급 보안패치 권고 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7849</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7849</guid>
+            <pubDate>Sun, 12 Dec 2021 11:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[많은 기업들이 홈페이지를 운영하며 사용하는 아파치(Apache) 로그(Log)4j 2 서비스와 관련된 보안 취약점이 발견된 가운데 정부가 긴급 보안패치를 할 것을 권고했다.  과학기술정보통신부(이하 과기정통부)는 12일 아파치 로그4j 2  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[차이커뮤니케이션, 13일(월) 사업부별 사옥 분리 이전 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a910a48ebdded36930e45f834da69691_16389727202381.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[온라인 장보기 생태계 넓히는 네이버 이마트 트레이더스 입점 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7819</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7819</guid>
-            <pubDate>Wed, 08 Dec 2021 09:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[8일 네이버에 따르면 이날 오후 6시부터 네이버쇼핑에서 SSG닷컴과 함께 창고형 할인매장 이마트 트레이더스 장보기 서비스를 시작한다. 이곳에서 이용자들은 이마트 트레이더스의 신선식품과 생필품 등 대용량 상품을 합리적 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[홈페이지 기록 남기는 '로그4j2'서 취약점 발견…과기정통부 "긴급 보안패치 권고" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7849</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7849</guid>
+            <pubDate>Sun, 12 Dec 2021 11:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[차이커뮤니케이션, 13일(월) 사업부별 사옥 분리 이전 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[온라인 장보기 생태계 넓히는 네이버··· 이마트 트레이더스 입점 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7819</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7819</guid>
-            <pubDate>Wed, 08 Dec 2021 09:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[빙빙]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['이것'은 플랫폼과 배달업체를 1:1로 직접 매칭하는 배달 방식을 말합니다. 단순 중개가 아닌, 주문과 배달 시스템을 플랫폼이 직접 관리하여 배달 수수료와 배달 시간을 모두 줄일 수 있는 모델인 '이것'은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 12 Dec 2021 10:19:04 GMT</pubDate>
+            <pubDate>Sun, 12 Dec 2021 11:14:52 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 플랫폼과 배달업체를 1:1로 직접 매칭하는 배달 방식을 말합니다. 단순 중개가 아닌, 주문과 배달 시스템을 플랫폼이 직접 관리하여 배달 수수료와 배달 시간을 모두 줄일 수 있는 모델인 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
