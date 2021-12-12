@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 07:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 08:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차이커뮤니케이션, 13일(월) 사업부별 사옥 분리 이전]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7848</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7848</guid>
+            <pubDate>Sun, 12 Dec 2021 08:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 종합광고회사 차이커뮤니케이션이 사업부별 사옥을 13일자로 분리, 이전한다. 차이커뮤니케이션은 `차이의 새로운 비전과 사업 영역의 안정화를 위해 브랜드 본부와 컨텐츠본부는 플랫폼C로, 퍼포먼스 본부는 플랫폼P로 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[펩시, 자체 NFT 컬렉션 마이크 드롭 출시... 무료다!]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7846</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7819</guid>
             <pubDate>Wed, 08 Dec 2021 09:17:50 GMT</pubDate>
             <content:encoded><![CDATA[8일 네이버에 따르면 이날 오후 6시부터 네이버쇼핑에서 SSG닷컴과 함께 창고형 할인매장 이마트 트레이더스 장보기 서비스를 시작한다. 이곳에서 이용자들은 이마트 트레이더스의 신선식품과 생필품 등 대용량 상품을 합리적 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[어디든 무엇이든 반려동물과 함께, 펫코노미]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7818</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7818</guid>
-            <pubDate>Wed, 08 Dec 2021 08:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[최근 반려인들의 수요가 높아지고 있다. 특히 1인 가구가 증가하면서 반려동물과 함께하는 가구들이 증가하고 있다. 펫팸족 펫코노미 등의 단어들이 등장할 정도로 산업 전반에 있어 반려동물에 초점을 맞춘 서비스와 제품들이 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
