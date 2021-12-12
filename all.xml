@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 22:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 23:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56642</guid>
             <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[업스타그램]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[12월 13일 마케팅 뉴스클리핑] 인스타그램 최신순 피드만 제공한다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7847</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7847</guid>
+            <pubDate>Mon, 13 Dec 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 인스타그램, 알고리즘 폐지... 최신순 피드만 제공  인스타그램이 내년부터 알고리즘에 기반한 콘텐츠 노출을 포기한다. 대신 콘텐츠를 생산한 시간 순서대로 배열할 계획이다. 인스타그램 아담 모세리 CEO는 몇 달 동안 시간  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16393061234659.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[홈페이지 기록 남기는 로그4j2서 취약점 발견과기정통부 긴급 보안패치 권고 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_406b6ec450926982d525d689de13596a_17106_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여성이 젖소로 변신... 네티즌들, 서울우유 광고에 역겹다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7820</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7820</guid>
-            <pubDate>Wed, 08 Dec 2021 14:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[서울우유가 여성을 젖소에 비유한 광고 영상을 유튜브에 올렸다가 네티즌들의 뭇매를 맞자 8일 비공개로 전환했다.  지난달 29일 서울우유는 공식 유튜브 채널에 `베일에 감춰져있던 그들의 정체는..? 서울우유 유기농 우유`라 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a910a48ebdded36930e45f834da69691_16389727202381.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[12월 13일 마케팅 뉴스클리핑] 인스타그램 최신순 피드만 제공한다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7847</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7847</guid>
+            <pubDate>Sun, 12 Dec 2021 23:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[홈페이지 기록 남기는 '로그4j2'서 취약점 발견…과기정통부 "긴급 보안패치 권고" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,11 +668,17 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[여성이 젖소로 변신... 네티즌들, 서울우유 광고에 “역겹다” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7820</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7820</guid>
-            <pubDate>Wed, 08 Dec 2021 14:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
+            <title><![CDATA[카카오 디스플레이 광고를 집행하려고 합니다. 다음 중 광고가 승인될 확률이 가장 낮은 사람은 누구일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Sun, 12 Dec 2021 23:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->카카오 디스플레이 광고를 집행하려고 합니다. 다음 중 광고가 승인될 확률이 가장 낮은 사람은 누구일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/cbc86e367f72e91b7bf65010ffdb0039_16391205274507.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1318_1" value="1" class="AB-radio" id="PQ_BD5826_1318_1_0"><label for="PQ_BD5826_1318_1_0" id="label_PQ_BD5826_1318_1_0">(A) ○○ 지역의 전통주를 판매하는 A</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1318_1" value="2" class="AB-radio" id="PQ_BD5826_1318_1_1"><label for="PQ_BD5826_1318_1_1" id="label_PQ_BD5826_1318_1_1">(B) 다이어트 보조기구를 판매하는 B</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1318_1" value="3" class="AB-radio" id="PQ_BD5826_1318_1_2"><label for="PQ_BD5826_1318_1_2" id="label_PQ_BD5826_1318_1_2">(C) 포털의 커뮤니티 판매 사이트를 운영하는 C</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1318_1" value="4" class="AB-radio" id="PQ_BD5826_1318_1_3"><label for="PQ_BD5826_1318_1_3" id="label_PQ_BD5826_1318_1_3">(D) 중고차를 매매하는 D</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시 '특별상품권' 3500억 발행 “폐업 위기 소상공인 살린다” (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
