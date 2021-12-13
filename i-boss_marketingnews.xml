@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 06:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 07:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디지털로 줄어든 영업점포 대안 찾은 시중은행들]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7857</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7857</guid>
+            <pubDate>Mon, 13 Dec 2021 07:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[은행권에서 비대면으로 진행 가능한 디지털 상담 창구를 속속 오픈하고 있다. 시중은행들의 비용 효율화에 따른 점포 통폐합으로 사라지는 오프라인 영업점을 대신할 수 있는 채널을 확대해 금융취약계층의 편의성을 제고하기 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[차단된 페북 계정에 라이브 채팅 적용]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7856</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7856</guid>
+            <pubDate>Mon, 13 Dec 2021 07:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[최근 메타로 사명을 바꾼 페이스북은 계정이 차단된 이용자를 위한 `라이브 채팅` 기능을 선보인다고 밝혔다. 현재 시범 운영 단계로, 미국에서부터 서비스를 시작한다.  이번에 출시한 라이브 채팅을 통해 차단 이용자는 페이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_609ef1b782abbfe9519e4e862f2b3d57_95314_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[번개장터, 퀵커머스 서비스 도입... 카카오모빌리티와 협력]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7855</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 09 Dec 2021 07:17:17 GMT</pubDate>
             <content:encoded><![CDATA[올해 생성된 블로그 콘텐츠3억 개로 역대 최다 기록 MZ세대 블로그 활성화 견인, 1020사용자44%달해  올해 네이버 블로그 서비스 이용률은 여느 해보다 가장 가파른 상승 곡선을 보였다.올 한 해 새롭게 생성된 블로그 콘텐츠 수 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c64c3fbd5bcba073386e7116b2817c9e_16390319543931.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방통위중기부, 중소벤처사 광고마케팅 지원 펀드 250억 조성]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7827</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7827</guid>
-            <pubDate>Thu, 09 Dec 2021 00:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[방송통신위원회와 중소벤처기업부, 한국방송광고진흥공사(코바코), 한국벤처투자는 9일 코바코 대회의실에서 중소벤처기업 지원을 위한 업무협약을 체결한다고 밝혔다.  이번 협약은 우수 벤처기업의 판로지원을 위한 한국형  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 검색어로 되돌아보는 2021년 한국과 세계... 한국 종합 1위 로블록스, 글로벌 종합 1위 호주 대 인도]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7826</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7826</guid>
-            <pubDate>Thu, 09 Dec 2021 09:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[구글코리아는9일구글검색으로본2021년국내검색어순위를발표했다.올해국내사용자들이검색한키워드를기준으로종합카테고리를비롯해코로나바이러스국내뉴스/사회드라마/예능영화게임카테고리검색어순위를공개했다.이와함께 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_64dbebf29f102918730ac351a136500f_99714_6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
