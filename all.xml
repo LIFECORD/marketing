@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 05:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 06:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,13 +197,6 @@
             <content:encoded><![CDATA[구루나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[너무 힘들어요ㅠㅠ마케팅만 잘하면 다 성공하는 걸.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2110-13831</link>
-            <guid>https://www.i-boss.co.kr/ab-2110-13831</guid>
-            <pubDate>Sat, 20 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[노예탈출]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[인크로스] 디지털 마케팅 트렌드 2022 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-3208-718</link>
             <guid>https://www.i-boss.co.kr/ab-3208-718</guid>
@@ -211,11 +204,26 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[너무 힘들어요ㅠㅠ마케팅만 잘하면 다 성공하는 걸.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2110-13831</link>
+            <guid>https://www.i-boss.co.kr/ab-2110-13831</guid>
+            <pubDate>Sat, 20 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[노예탈출]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[현타 씨게 옵니다 기획.. 마케팅.. 브랜드.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37764</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37764</guid>
             <pubDate>Wed, 17 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케터쭈니]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[번개장터, 퀵커머스 서비스 도입... 카카오모빌리티와 협력 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7855</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7855</guid>
+            <pubDate>Mon, 13 Dec 2021 06:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[번개장터는 카카오모빌리티와 번개장터카카오모빌리티, 중고거래 배송 서비스 확대를 위한 제휴 협약을 체결했다고 13일 밝혔다.   이번 협약을 통해 택배만 가능하던 기존 배송 서비스를 퀵, 용달 등 다른 운송 서비스까지 확 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16393748258205.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마켓컬리, 선물하기 서비스 정식 오픈 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_64dbebf29f102918730ac351a136500f_99714_6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대학내일20대연구소] 대면 소통에 대한 니즈는 감소하고, 비대면 소통 선호 비율 증가 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7825</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7825</guid>
-            <pubDate>Thu, 09 Dec 2021 09:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19로 급격한 비대면 전환을 경험한 지 2년이 지난 지금, 세대별 온라인 소통 방법은 어떻게 변화했을까? 이에 대학내일20대연구소는 만 15세에서 60세 남녀 1200명을 대상으로 세대별 자아, 관계, 사회, 국가, 세계, 삶에 대한  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[번개장터, 퀵커머스 서비스 도입... 카카오모빌리티와 협력 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7855</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7855</guid>
+            <pubDate>Mon, 13 Dec 2021 06:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마켓컬리, 선물하기 서비스 정식 오픈 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[대학내일20대연구소] 대면 소통에 대한 니즈는 감소하고, 비대면 소통 선호 비율 증가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7825</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7825</guid>
-            <pubDate>Thu, 09 Dec 2021 09:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[카카오 디스플레이 광고를 집행하려고 합니다. 다음 중 광고가 승인될 확률이 가장 낮은 사람은 누구일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 13 Dec 2021 05:16:31 GMT</pubDate>
+            <pubDate>Mon, 13 Dec 2021 06:21:41 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->카카오 디스플레이 광고를 집행하려고 합니다. 다음 중 광고가 승인될 확률이 가장 낮은 사람은 누구일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/cbc86e367f72e91b7bf65010ffdb0039_16391205274507.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
