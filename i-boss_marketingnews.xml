@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 11:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 12:28:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 쉽고 빠르게...간편인증 도입한 알뜰폰 MZ세대가 좋아합니다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7859</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7859</guid>
+            <pubDate>Mon, 13 Dec 2021 12:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[저렴한 통신비, 쏠쏠한 혜택으로 인기몰이 중인 알뜰폰 업계가 가입 문턱을 더욱 낮추고 접근성은 높이며 사용자 확보에 박차를 가하고 있다. 매년 가계통신비 인하를 외쳐온 정부도 알뜰폰 돕기에 적극적이다. 내년에도 알뜰 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[디지털로 줄어든 영업점포 대안 찾은 시중은행들]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7857</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Dec 2021 08:20:39 GMT</pubDate>
             <content:encoded><![CDATA[인스타그램이 게시물 노출 방식을 기존의 알고리즘 중심에서 시간순으로 변경할 전망이다.  8일(현지시간) 와  등 외신에 따르면 아담 모세리 인스타그램 대표는 이날 열린 미국 상원 소위원회 청문회에서 `사용자 선호도에 따 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 네이버 블로그 콘텐츠 생성 3억개 역대 최다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7829</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7829</guid>
-            <pubDate>Thu, 09 Dec 2021 07:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[올해 생성된 블로그 콘텐츠3억 개로 역대 최다 기록 MZ세대 블로그 활성화 견인, 1020사용자44%달해  올해 네이버 블로그 서비스 이용률은 여느 해보다 가장 가파른 상승 곡선을 보였다.올 한 해 새롭게 생성된 블로그 콘텐츠 수 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c64c3fbd5bcba073386e7116b2817c9e_16390319543931.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
