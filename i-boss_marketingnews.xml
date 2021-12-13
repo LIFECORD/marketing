@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 00:56:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 02:03:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코바코x방통위x중기부, 중소벤처기업 광고마케팅 지원 펀드 250억 조성]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7853</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7853</guid>
+            <pubDate>Mon, 13 Dec 2021 10:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코, 사장 이백만)는 12월 9일 한국프레스센터 대회의실에서 방송통신위원회(위원장 한상혁), 중소벤처기업부(장관 권칠승),한국벤처투자(KVIC, 대표 이영민)와 우수 중소벤처기업의 판로 지원과  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[한국광고학회, ACE Talk 일곱 번째 시리즈 : 에델만코리아 장성빈 대표 대담 개최]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7852</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7824</guid>
             <pubDate>Thu, 09 Dec 2021 08:47:00 GMT</pubDate>
             <content:encoded><![CDATA[덴츠 인터내셔널과 마이크로소프트 어드버타이징의 새로운 보고서에 따르면, 소비자의 14%만이 자신이 사용하는 미디어의 지속 가능성 및/또는 광고의 탄소 영향 때문에 브랜드와 관련된 조치를 취했다고 답했다. 또한`지속 가 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[PR협회, PR People Talk 일곱 번째 이야기 2021년의 Hot 이슈를 논하다 - PR 키워드 7]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7823</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7823</guid>
-            <pubDate>Thu, 09 Dec 2021 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국PR협회는 2021년을 마무리하며`2021년의 Hot 이슈를 논하다 - PR 키워드 7`이라는 주제로PR People Talk를 개최한다. 이번 PR People Talk에서는 강미혜 The PR 편집장(한국PR협회 이사)의 사회로 김윤경 어센트 코리아 마케팅본부장(前 롯 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

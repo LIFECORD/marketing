@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 00:56:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 02:03:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56642</guid>
             <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[업스타그램]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코바코x방통위x중기부, 중소벤처기업 광고마케팅 지원 펀드 250억 조성 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7853</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7853</guid>
+            <pubDate>Mon, 13 Dec 2021 10:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코, 사장 이백만)는 12월 9일 한국프레스센터 대회의실에서 방송통신위원회(위원장 한상혁), 중소벤처기업부(장관 권칠승),한국벤처투자(KVIC, 대표 이영민)와 우수 중소벤처기업의 판로 지원과  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[한국광고학회, ACE Talk 일곱 번째 시리즈 : 에델만코리아 장성빈 대표 대담 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,32 +458,31 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[PR협회, PR People Talk 일곱 번째 이야기 2021년의 Hot 이슈를 논하다 - PR 키워드 7 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7823</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7823</guid>
-            <pubDate>Thu, 09 Dec 2021 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국PR협회는 2021년을 마무리하며`2021년의 Hot 이슈를 논하다 - PR 키워드 7`이라는 주제로PR People Talk를 개최한다. 이번 PR People Talk에서는 강미혜 The PR 편집장(한국PR협회 이사)의 사회로 김윤경 어센트 코리아 마케팅본부장(前 롯 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[코바코x방통위x중기부, 중소벤처기업 광고·마케팅 지원 펀드 250억 조성 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7853</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7853</guid>
+            <pubDate>Mon, 13 Dec 2021 02:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국광고학회, 'ACE' Talk 일곱 번째 시리즈 : 에델만코리아 장성빈 대표 대담 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7852</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7852</guid>
-            <pubDate>Mon, 13 Dec 2021 00:56:14 GMT</pubDate>
+            <pubDate>Mon, 13 Dec 2021 08:53:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 2021년 세계 최대 스타트업은 어디? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7851</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7851</guid>
-            <pubDate>Mon, 13 Dec 2021 00:56:14 GMT</pubDate>
+            <pubDate>Mon, 13 Dec 2021 08:53:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[Account Action] 2021년 막바지 피치를 가하고 있는 경쟁 PT 시장 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7850</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7850</guid>
-            <pubDate>Mon, 13 Dec 2021 00:56:14 GMT</pubDate>
+            <pubDate>Mon, 13 Dec 2021 08:52:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[PR협회, PR People Talk 일곱 번째 이야기 '2021년의 Hot 이슈를 논하다 - PR 키워드 7' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7823</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7823</guid>
-            <pubDate>Thu, 09 Dec 2021 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[카카오 디스플레이 광고를 집행하려고 합니다. 다음 중 광고가 승인될 확률이 가장 낮은 사람은 누구일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 13 Dec 2021 00:56:27 GMT</pubDate>
+            <pubDate>Mon, 13 Dec 2021 02:03:24 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->카카오 디스플레이 광고를 집행하려고 합니다. 다음 중 광고가 승인될 확률이 가장 낮은 사람은 누구일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/cbc86e367f72e91b7bf65010ffdb0039_16391205274507.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
