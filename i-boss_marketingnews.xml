@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 22:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 23:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12월 14일 마케팅 뉴스클리핑] 위메프, 더 이상 소셜커머스 아냐... 메타쇼핑으로 진화 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7858</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7858</guid>
+            <pubDate>Tue, 14 Dec 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 위메프, 더 이상 소셜커머스 아냐... `메타쇼핑`으로 진화  위메프가 소셜커머스에 머물지 않고 쇼핑몰을 비교 분석해주는 `메타쇼핑`으로 거듭난다. 트렌드와 상품 정보를 파악할 수 있는 플랫폼으로 발전, `커머스 분야의 구 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_7d3e3a741fec08bd472180555dc5e1e8_54226_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 쉽고 빠르게...간편인증 도입한 알뜰폰 MZ세대가 좋아합니다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7859</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7831</guid>
             <pubDate>Thu, 09 Dec 2021 10:19:34 GMT</pubDate>
             <content:encoded><![CDATA[인터넷 사이트 순위 집계 사이트로 한 때 많은 인기를 누렸던 알렉사닷컴이 사라진다.  아마존은 8일(현지시간) 2022년 5월 알렉사닷컴 서비스를 중단한다고 공지했다.]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[인스타그램, 게시물 시간순으로 보여준다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7830</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7830</guid>
-            <pubDate>Thu, 09 Dec 2021 08:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[인스타그램이 게시물 노출 방식을 기존의 알고리즘 중심에서 시간순으로 변경할 전망이다.  8일(현지시간) 와  등 외신에 따르면 아담 모세리 인스타그램 대표는 이날 열린 미국 상원 소위원회 청문회에서 `사용자 선호도에 따 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

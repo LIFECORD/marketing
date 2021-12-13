@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-13T22:15:53.772Z</updated>
+    <updated>2021-12-13T23:18:02.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -202,17 +202,17 @@
         <content type="html"><![CDATA[구루나]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[네이버의 새로운 검색 '에어서치' 살펴보기]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56797</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56797"/>
+        <updated>2021-12-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[너무 힘들어요ㅠㅠ마케팅만 잘하면 다 성공하는 걸..]]></title>
         <id>https://www.i-boss.co.kr/ab-2110-13831</id>
         <link href="https://www.i-boss.co.kr/ab-2110-13831"/>
         <updated>2021-11-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[노예탈출]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현타 씨게 옵니다 기획.. 마케팅.. 브랜드..]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-37764</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-37764"/>
-        <updated>2021-11-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[마케터쭈니]]></content>
     </entry>
 </feed>
