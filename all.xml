@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 23:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 00:56:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,18 +85,18 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카피 문구를 바꿨을 뿐인데 "역대급 매출 기록" (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56657</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56657</guid>
-            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[yoorok]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 마케팅 유우머 - 1 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37915</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37915</guid>
             <pubDate>Thu, 09 Dec 2021 04:22:08 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카피 문구를 바꿨을 뿐인데 "역대급 매출 기록" (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56657</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56657</guid>
+            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[출근 전날 연봉 500 깎는 회사 (아이보스 ─ 인기글)]]></title>
@@ -155,6 +155,13 @@
             <content:encoded><![CDATA[그린다이어리]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[메타버스 간접 체험해보실 분 🖐 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56788</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56788</guid>
+            <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[잘 파는 회사의 레포트에 들어가는 핵심지표 3가지 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56717</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56717</guid>
@@ -183,13 +190,6 @@
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[메타버스 간접 체험해보실 분 🖐 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56788</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56788</guid>
-            <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[안녕하세요 저는 김치입니다!! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37862</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37862</guid>
@@ -216,6 +216,30 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56642</guid>
             <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[업스타그램]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한국광고학회, ACE Talk 일곱 번째 시리즈 : 에델만코리아 장성빈 대표 대담 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7852</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7852</guid>
+            <pubDate>Mon, 13 Dec 2021 08:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국광고학회(회장 안대천, 인하대학교 교수)는2021년마지막이자 일곱 번째 ACE TalkACE를12월 16일(목) 오후 2시에 진행한다. 이번에는 에델만코리아의 장성빈 대표가 함께 한다. 동국대 유창조 교수의 사회로 진행되는 이번 대담에 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인포그래픽] 2021년 세계 최대 스타트업은 어디? (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7851</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7851</guid>
+            <pubDate>Mon, 13 Dec 2021 08:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[많은 사람들이 대박을 꿈꾸며 창업에 나선다. 그런데 성공하는 사람들은 일부다. 기업가치가 10억 달러 이상인 스타트업기업인 소위 `유니콘` 기업을 만드는 사람은 극히 일부다. 전 세계적으로 유니콘 스타트업이 800개가 넘는 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[Account Action] 2021년 막바지 피치를 가하고 있는 경쟁 PT 시장 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7850</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7850</guid>
+            <pubDate>Mon, 13 Dec 2021 08:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[4분기의 경쟁 PT는 항상 그래왔듯이 분위기가 고조되고 있다. 4분기 경쟁 PT 시장은 10월에 이어 11월도 다소 늘어나며 활발한 모습을 되찾고 있다. 예년처럼 신규 광고주 영입이나 기존 광고주 수성을 위한 경쟁 PT 내지는 Annual PT  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[12월 13일 마케팅 뉴스클리핑] 인스타그램 최신순 피드만 제공한다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -434,34 +458,31 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[인스타그램의 스트리밍 플랫폼 인게이지먼트가 가장 높아 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7822</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7822</guid>
-            <pubDate>Thu, 09 Dec 2021 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[인스타그램의 스트리밍 플랫폼 인게이지먼트가 약 80%로 소셜 플랫폼 가운데 가장 높았고, 2021년에 팔로워 수가 매달 수백만 명씩 증가한 넷플릭스(Netflix) 등의 계정에 힘입어 틱톡(TikTok)이 근소한 차이로 그 뒤를 이었다. 스트리 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[한국광고학회, 'ACE' Talk 일곱 번째 시리즈 : 에델만코리아 장성빈 대표 대담 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7852</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7852</guid>
+            <pubDate>Mon, 13 Dec 2021 00:56:14 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[트렌드모니터] 아무리 건강에 좋아도 맛이 없으면, 소비자들이 찾지 않을 것 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7821</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7821</guid>
-            <pubDate>Thu, 09 Dec 2021 08:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[먼저 건강에 대한 관심이 지속적으로 높아지고 있다는 것을 확인해볼 수 있었다. 전체 응답자의 78.1%가 평소 건강에 대해 관심이 많다고 응답한 것으로, 이는 지난해 조사(74.6%) 때보다 더 높아진 것이었다. 코로나 시대를 겪으면 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[인포그래픽] 2021년 세계 최대 스타트업은 어디? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7851</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7851</guid>
+            <pubDate>Mon, 13 Dec 2021 00:56:14 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[12월 9일 마케팅 뉴스클리핑] 베타 뗀 네이버쇼핑, 이커머스 1위 굳히기 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7816</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7816</guid>
-            <pubDate>Thu, 09 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. `베타` 뗀 네이버쇼핑, 이커머스 1위 굳히기  스마트스토어를 기반으로 이커머스 시장 1위에 오른 네이버의 신규 서비스들이 빠른 속도로 성장하고 있다. 특히 장보기, 럭셔리, 남성 패션 등 버티컬에 특화된 서비스에 대한 베 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_406b6ec450926982d525d689de13596a_17106_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[Account Action] 2021년 막바지 피치를 가하고 있는 경쟁 PT 시장 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7850</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7850</guid>
+            <pubDate>Mon, 13 Dec 2021 00:56:14 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[12월 13일 마케팅 뉴스클리핑] 인스타그램 최신순 피드만 제공한다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7847</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7847</guid>
-            <pubDate>Sun, 12 Dec 2021 23:17:22 GMT</pubDate>
+            <pubDate>Mon, 13 Dec 2021 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -647,31 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인스타그램의 스트리밍 플랫폼 인게이지먼트가 가장 높아 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7822</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7822</guid>
-            <pubDate>Thu, 09 Dec 2021 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[트렌드모니터] 아무리 건강에 좋아도 맛이 없으면, 소비자들이 찾지 않을 것 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7821</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7821</guid>
-            <pubDate>Thu, 09 Dec 2021 08:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[12월 9일 마케팅 뉴스클리핑] '베타' 뗀 네이버쇼핑, 이커머스 1위 굳히기 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7816</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7816</guid>
-            <pubDate>Thu, 09 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[카카오 디스플레이 광고를 집행하려고 합니다. 다음 중 광고가 승인될 확률이 가장 낮은 사람은 누구일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 12 Dec 2021 23:17:34 GMT</pubDate>
+            <pubDate>Mon, 13 Dec 2021 00:56:27 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->카카오 디스플레이 광고를 집행하려고 합니다. 다음 중 광고가 승인될 확률이 가장 낮은 사람은 누구일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/cbc86e367f72e91b7bf65010ffdb0039_16391205274507.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

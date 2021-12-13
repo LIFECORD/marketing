@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2021-12-12T23:17:44.660Z</updated>
+    <updated>2021-12-13T00:56:37.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국광고학회, 'ACE' Talk 일곱 번째 시리즈 : 에델만코리아 장성빈 대표 대담 개최]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7852</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7852"/>
+        <updated>2021-12-13T00:56:14.789Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인포그래픽] 2021년 세계 최대 스타트업은 어디?]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7851</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7851"/>
+        <updated>2021-12-13T00:56:14.789Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Account Action] 2021년 막바지 피치를 가하고 있는 경쟁 PT 시장]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7850</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7850"/>
+        <updated>2021-12-13T00:56:14.791Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[12월 13일 마케팅 뉴스클리핑] 인스타그램 최신순 피드만 제공한다 외]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7847</id>
@@ -193,26 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-7823"/>
         <updated>2021-12-09T00:55:30.440Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인스타그램의 스트리밍 플랫폼 인게이지먼트가 가장 높아]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7822</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7822"/>
-        <updated>2021-12-09T00:55:30.442Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[트렌드모니터] 아무리 건강에 좋아도 맛이 없으면, 소비자들이 찾지 않을 것]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7821</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7821"/>
-        <updated>2021-12-09T00:55:30.443Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[12월 9일 마케팅 뉴스클리핑] '베타' 뗀 네이버쇼핑, 이커머스 1위 굳히기 외]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7816</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7816"/>
-        <updated>2021-12-08T23:17:59.118Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
 </feed>
