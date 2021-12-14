@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 05:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 09:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빈박스 보내고 가짜후기로 마케팅 쇼핑몰, 광고대행사 첫 제재]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7866</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7866</guid>
+            <pubDate>Tue, 14 Dec 2021 09:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[아르바이트생에게 상품을 넣지 않은 빈 상자를 택배로 보내 후기작성 권한을 얻도록 하고 실구매자인 것처럼 네이버나 쿠팡, 자사몰에 `가짜 후기`를 올리게 한 쇼핑몰 업체와 광고대행사가 공정거래위원회 제재를 받게 됐다.   ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[어도비, 일반인 겨냥한 이미지 편집도구 새로 출시]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7865</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7837</guid>
             <pubDate>Fri, 10 Dec 2021 06:20:21 GMT</pubDate>
             <content:encoded><![CDATA[알렉사는 9일(현지시간) 웹사이트 공지를 통해 오는 2022년 5월 1일 서비스를 중단한다고 밝혔다.   월드와이드웹(WWW) 탄생 후 웹사이트 제작 붐이 일던 1996년 4월 1일 출범한 알렉사는 전 세계 약 3000만개 웹사이트를 대상으로 트래 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[지속가능성 전략은 소매업체의 필수 사항이 될 것이다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7836</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7836</guid>
-            <pubDate>Fri, 10 Dec 2021 08:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[지속가능성은 더이상 유행어가 아니다.덴츠와 마이크로소프트의 최근 보고서 에 따르면, 1년 이내 인구 5명 중 3명은 기후 변화에 대처하지 않는 브랜드를 보이콧하고,소비자의 거의 절반은 친환경 대안을 위해 브랜드와 서비스 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
