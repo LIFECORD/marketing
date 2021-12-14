@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 09:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 10:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56806</guid>
             <pubDate>Sun, 12 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케팅의 아버지 필립 코틀러, 코로나 팬데믹 시대의 새로운 마케팅 전략 제시 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7868</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7868</guid>
+            <pubDate>Tue, 14 Dec 2021 10:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅의 아버지 필립 코틀러가 부산국제광고제 특별 강연을 통해 코로나 팬데믹 시대의 새로운 마케팅 전략을 제시한다. 그는 이번 강연을 통해우리가 처음 마주한 세계(Understanding the Current Market) 미래의 마케팅을 위한 새로운 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[빈박스 보내고 가짜후기로 마케팅 쇼핑몰, 광고대행사 첫 제재 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,18 +458,17 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[알렉사 순위 사이트, 25년 만에 문 닫는다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7837</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7837</guid>
-            <pubDate>Fri, 10 Dec 2021 06:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[알렉사는 9일(현지시간) 웹사이트 공지를 통해 오는 2022년 5월 1일 서비스를 중단한다고 밝혔다.   월드와이드웹(WWW) 탄생 후 웹사이트 제작 붐이 일던 1996년 4월 1일 출범한 알렉사는 전 세계 약 3000만개 웹사이트를 대상으로 트래 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[마케팅의 아버지 필립 코틀러, 코로나 팬데믹 시대의 새로운 마케팅 전략 제시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7868</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7868</guid>
+            <pubDate>Tue, 14 Dec 2021 10:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빈박스 보내고 '가짜후기'로 마케팅 쇼핑몰, 광고대행사 첫 제재 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7866</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7866</guid>
-            <pubDate>Tue, 14 Dec 2021 09:17:54 GMT</pubDate>
+            <pubDate>Tue, 14 Dec 2021 09:17:43 GMT</pubDate>
             <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[알렉사 순위 사이트, 25년 만에 문 닫는다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7837</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7837</guid>
-            <pubDate>Fri, 10 Dec 2021 06:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 메타버스를 활용한 플랫폼이 아닌 것은 무엇일까요?(hint: 큐레터의 메타버스 체험기에서 힌트 찾기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 14 Dec 2021 09:18:05 GMT</pubDate>
+            <pubDate>Tue, 14 Dec 2021 10:19:44 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 메타버스를 활용한 플랫폼이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-56788" target="_blank">큐레터의 메타버스 체험기에서 힌트 찾기!</a>)</span></td>
 			</tr>
