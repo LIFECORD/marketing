@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2021-12-14T00:59:57.067Z</updated>
+    <updated>2021-12-14T02:09:32.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국PR협회, ‘2021년 올해의 핫 이슈 톱 7’ 발표... 비대면, 공정, OTT, ESG, 진실과팩트, 소통, DT]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7863</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7863"/>
+        <updated>2021-12-14T02:09:12.888Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국인이 온라인에서 가장 많이 구매하는 제품은 영양제, 김치냉장고, 청소기, 생수, 노트북]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7862</id>
@@ -207,12 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-7834"/>
         <updated>2021-12-10T00:56:22.943Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[12월 10일 마케팅 뉴스클리핑] 네이버 블로그, 올해 신규 콘텐츠 3억 개... MZ 비중 70% 외]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7828</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7828"/>
-        <updated>2021-12-09T23:17:54.473Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
 </feed>

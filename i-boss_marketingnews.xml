@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 00:59:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 02:09:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국PR협회, 2021년 올해의 핫 이슈 톱 7 발표... 비대면, 공정, OTT, ESG, 진실과팩트, 소통, DT]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7863</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7863</guid>
+            <pubDate>Tue, 14 Dec 2021 10:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국PR협회(회장 김주호)는12월13일 PR피플 토크(People Talk) 행사를 갖고2021년 올해의 핫 이슈 톱7을 발표했다. 올해의 이슈 키워드1위에는 비대면이55.1%의 압도적인 응답으로 올랐으며,이는 코로나19상황에서 비접촉,온라인 언택트  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[한국인이 온라인에서 가장 많이 구매하는 제품은 영양제, 김치냉장고, 청소기, 생수, 노트북]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7862</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Dec 2021 08:55:00 GMT</pubDate>
             <content:encoded><![CDATA[급변하는 미디어 환경변화로 인해 공공정책 수립, 시장 마케팅 활용 등 관련 산업 주체들의 거래질서 확립과 산업 활성화를 위해 이용자에 대한 정확하고 신뢰할 수 있는 관련 데이터의 중요성이 부각되고 있다. 이에 한국광고 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[12월 10일 마케팅 뉴스클리핑] 네이버 블로그, 올해 신규 콘텐츠 3억 개... MZ 비중 70% 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7828</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7828</guid>
-            <pubDate>Fri, 10 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 네이버 블로그, 올해 신규 콘텐츠 3억 개... MZ 비중 70%  올해 네이버 블로그에 올라온 콘텐츠 수가 역대 최대 규모인 3억 개를 기록했다. 특히 전체 사용자 가운데 MZ 세대의 비중이 70%였고, 1020 사용자 비중은 44%에 달했다. 새롭 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d98322c8b28ad058cded3dfdca03ffa0_89177_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
