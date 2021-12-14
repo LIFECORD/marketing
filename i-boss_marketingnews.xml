@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 22:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 23:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12월 15일 마케팅 뉴스클리핑] 네이버쿠팡도 속았다... 진화한 허위 구매후기 수법 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7867</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7867</guid>
+            <pubDate>Wed, 15 Dec 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버쿠팡도 속았다... 진화한 허위 구매후기 수법  아르바이트생을 동원해 직접 물건을 구매하게 한 후 허위 구매후기를 작성토록 한 업체가 적발됐다. 이들은 네이버 등에서 구매후기 작성 권한을 얻기 위해 상품이 없는  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_6e9950ec000568ee0d8875e5470b44f0_3240_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마케팅의 아버지 필립 코틀러, 코로나 팬데믹 시대의 새로운 마케팅 전략 제시]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7868</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Dec 2021 09:17:30 GMT</pubDate>
             <content:encoded><![CDATA[미국 경제전문매체 는 9일(현지시간) 메타가 자사의 아바타 VR(가상현실) 세계인 `호라이즌 월드(Horizon Worlds)`를 초대없이 누구나 사용 가능하게 했다고 보도했다.  지난해 베타 버전이 출시된 호라이즌 월드는 가상세계 참여 초 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16391275469481.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해는 어디서 사지... 유통가, 크리스마스 케이크 출시 봇물]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7838</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7838</guid>
-            <pubDate>Fri, 10 Dec 2021 08:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[`홈파티족` 공략 마케팅 활발 파리바게뜨뚜레쥬르 등 케이크 예약 판매   10일 업계에 따르면 커피아이스크림 전문점에서는 최근 크리스마스 홀케이크 출시와 함께 `홈파티족`을 겨냥한 다양한 마케팅을 펼치고 있다.  프리미엄  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 22:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 23:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-37934</guid>
             <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[놀토]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[12월 15일 마케팅 뉴스클리핑] 네이버쿠팡도 속았다... 진화한 허위 구매후기 수법 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7867</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7867</guid>
+            <pubDate>Wed, 15 Dec 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버쿠팡도 속았다... 진화한 허위 구매후기 수법  아르바이트생을 동원해 직접 물건을 구매하게 한 후 허위 구매후기를 작성토록 한 업체가 적발됐다. 이들은 네이버 등에서 구매후기 작성 권한을 얻기 위해 상품이 없는  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_6e9950ec000568ee0d8875e5470b44f0_3240_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마케팅의 아버지 필립 코틀러, 코로나 팬데믹 시대의 새로운 마케팅 전략 제시 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16391275469481.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올해는 어디서 사지... 유통가, 크리스마스 케이크 출시 봇물 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7838</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7838</guid>
-            <pubDate>Fri, 10 Dec 2021 08:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[`홈파티족` 공략 마케팅 활발 파리바게뜨뚜레쥬르 등 케이크 예약 판매   10일 업계에 따르면 커피아이스크림 전문점에서는 최근 크리스마스 홀케이크 출시와 함께 `홈파티족`을 겨냥한 다양한 마케팅을 펼치고 있다.  프리미엄  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[12월 15일 마케팅 뉴스클리핑] 네이버·쿠팡도 속았다... 진화한 허위 구매후기 수법 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7867</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7867</guid>
+            <pubDate>Tue, 14 Dec 2021 23:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케팅의 아버지 필립 코틀러, 코로나 팬데믹 시대의 새로운 마케팅 전략 제시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,11 +668,17 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[올해는 어디서 사지... 유통가, '크리스마스 케이크' 출시 봇물 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7838</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7838</guid>
-            <pubDate>Fri, 10 Dec 2021 08:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[구글 애널리틱스에서 사용자가 특정 페이지에서 다음 페이지로 이동한 경로를 시각적으로 보려고 합니다. 이 때 확인해야 할 보고서는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Tue, 14 Dec 2021 23:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->구글 애널리틱스에서 사용자가 특정 페이지에서 다음 페이지로 이동한 경로를 시각적으로 보려고 합니다. 이 때 확인해야 할 보고서는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1320_1" value="1" class="AB-radio" id="PQ_BD5826_1320_1_0"><label for="PQ_BD5826_1320_1_0" id="label_PQ_BD5826_1320_1_0">(A) 트리맵 보고서</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1320_1" value="2" class="AB-radio" id="PQ_BD5826_1320_1_1"><label for="PQ_BD5826_1320_1_1" id="label_PQ_BD5826_1320_1_1">(B) 방문 페이지 보고서</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1320_1" value="3" class="AB-radio" id="PQ_BD5826_1320_1_2"><label for="PQ_BD5826_1320_1_2" id="label_PQ_BD5826_1320_1_2">(C) 콘텐츠 상세 비교 보고서</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1320_1" value="4" class="AB-radio" id="PQ_BD5826_1320_1_3"><label for="PQ_BD5826_1320_1_3" id="label_PQ_BD5826_1320_1_3">(D) 행동 흐름 보고서</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘겨울방학 알바 채용관’ 오픈, 알바 5000건 한 눈에...자영업자 구인난 해소 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
