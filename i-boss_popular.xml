@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-14T14:16:48.804Z</updated>
+    <updated>2021-12-14T15:18:50.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[상원1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[아이보스 연말 이벤트] 이벤트 참여하고 프레임 받..]]></title>
-        <id>https://www.i-boss.co.kr/ab-2973-428</id>
-        <link href="https://www.i-boss.co.kr/ab-2973-428"/>
-        <updated>2021-12-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[당첨대쓔]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[네이버의 새로운 검색 '에어서치' 살펴보기]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56797</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56797"/>
         <updated>2021-12-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[아이보스 연말 이벤트] 이벤트 참여하고 프레임 받..]]></title>
+        <id>https://www.i-boss.co.kr/ab-2973-428</id>
+        <link href="https://www.i-boss.co.kr/ab-2973-428"/>
+        <updated>2021-12-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마케팅밈] 마케팅 유우머 - 1]]></title>
