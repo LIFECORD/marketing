@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 02:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 03:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어도비, 일반인 겨냥한 이미지 편집도구 새로 출시]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7865</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7865</guid>
+            <pubDate>Tue, 14 Dec 2021 11:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[이미지 편집도구인 `포토샵`으로 유명한 미국 소프트웨어 업체 어도비가 13일 일반인을 겨냥해 포토샵의 보급형 제품을 출시했다.  크리에이티브 클라우드 익스프레스는 다양한 폰트와 인공지능을 이용한 이미지 효과를 제공해 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[인스타그램, 릴스 비주얼 답장 기능 출시]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7864</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7864</guid>
+            <pubDate>Tue, 14 Dec 2021 11:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[다른 이용자 댓글, 숏폼 콘텐츠 릴스로 제작해 답장할 수 있어    미국 IT매체 테크크런치는 13일(현지시간) 인스타그램이 릴스로 댓글 답장을 할 수 있는  `릴스 비주얼 답장(Reels Visual Replies)` 기능을 출시했다고 밝혔다.  이용자 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16394484945205.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국PR협회, 2021년 올해의 핫 이슈 톱 7 발표... 비대면, 공정, OTT, ESG, 진실과팩트, 소통, DT]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7863</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7836</guid>
             <pubDate>Fri, 10 Dec 2021 08:58:00 GMT</pubDate>
             <content:encoded><![CDATA[지속가능성은 더이상 유행어가 아니다.덴츠와 마이크로소프트의 최근 보고서 에 따르면, 1년 이내 인구 5명 중 3명은 기후 변화에 대처하지 않는 브랜드를 보이콧하고,소비자의 거의 절반은 친환경 대안을 위해 브랜드와 서비스 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외 크리에이티브] 랄프 로렌, 로블록스에서 다양한 체험 제공하는 랄프 로렌 윈터 이스케이프 선보여]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7835</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7835</guid>
-            <pubDate>Fri, 10 Dec 2021 08:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[랄프 로렌은 로블록스에서 디지털 의류 컬렉션과 아이스 스케이트와 같은 겨울 활동을 주제로 한랄프 로렌 윈터 이스케이프(The Ralph Lauren Winter Escape)를 22년 1월 3일까지 선보인다. 랄프 로렌 윈터 이스케이프 체험은 아이스 스케 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[한국광고홍보학회, 특별기획 세미나 미디어광고 데이터 신뢰도 향상 방안 모색 개최]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7834</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7834</guid>
-            <pubDate>Fri, 10 Dec 2021 08:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[급변하는 미디어 환경변화로 인해 공공정책 수립, 시장 마케팅 활용 등 관련 산업 주체들의 거래질서 확립과 산업 활성화를 위해 이용자에 대한 정확하고 신뢰할 수 있는 관련 데이터의 중요성이 부각되고 있다. 이에 한국광고 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

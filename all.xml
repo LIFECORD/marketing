@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 02:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 03:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,13 @@
             <content:encoded><![CDATA[아나키]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[네이버의 새로운 검색 '에어서치' 살펴보기 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56797</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56797</guid>
+            <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[SW]  상원 최신판 올마식 광고관리 비법 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56735</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56735</guid>
@@ -127,18 +134,18 @@
             <content:encoded><![CDATA[상원1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[상세페이지 기획 어렵네요 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37889</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37889</guid>
-            <pubDate>Fri, 03 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[rdg]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[메타버스 간접 체험해보실 분 🖐 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56788</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56788</guid>
             <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[상세페이지 기획 어렵네요 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37889</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37889</guid>
+            <pubDate>Fri, 03 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[rdg]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가장 효율적인 퍼포먼스 마케팅 방법론 (아이보스 ─ 인기글)]]></title>
@@ -152,13 +159,6 @@
             <link>https://www.i-boss.co.kr/ab-5637-27</link>
             <guid>https://www.i-boss.co.kr/ab-5637-27</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네이버의 새로운 검색 '에어서치' 살펴보기 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56797</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56797</guid>
-            <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
@@ -183,6 +183,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[알아두면 좋은 유용한 사이트 모음 NO.2 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56810</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56810</guid>
+            <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[인크로스] 디지털 마케팅 트렌드 2022 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-3208-718</link>
             <guid>https://www.i-boss.co.kr/ab-3208-718</guid>
@@ -204,18 +211,27 @@
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[알아두면 좋은 유용한 사이트 모음 NO.2 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56810</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56810</guid>
-            <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[안녕하세요 저는 김치입니다!! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37862</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37862</guid>
             <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[구루나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어도비, 일반인 겨냥한 이미지 편집도구 새로 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7865</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7865</guid>
+            <pubDate>Tue, 14 Dec 2021 11:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[이미지 편집도구인 `포토샵`으로 유명한 미국 소프트웨어 업체 어도비가 13일 일반인을 겨냥해 포토샵의 보급형 제품을 출시했다.  크리에이티브 클라우드 익스프레스는 다양한 폰트와 인공지능을 이용한 이미지 효과를 제공해 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[인스타그램, 릴스 비주얼 답장 기능 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7864</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7864</guid>
+            <pubDate>Tue, 14 Dec 2021 11:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[다른 이용자 댓글, 숏폼 콘텐츠 릴스로 제작해 답장할 수 있어    미국 IT매체 테크크런치는 13일(현지시간) 인스타그램이 릴스로 댓글 답장을 할 수 있는  `릴스 비주얼 답장(Reels Visual Replies)` 기능을 출시했다고 밝혔다.  이용자 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16394484945205.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국PR협회, 2021년 올해의 핫 이슈 톱 7 발표... 비대면, 공정, OTT, ESG, 진실과팩트, 소통, DT (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -442,26 +458,24 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[해외 크리에이티브] 랄프 로렌, 로블록스에서 다양한 체험 제공하는 랄프 로렌 윈터 이스케이프 선보여 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7835</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7835</guid>
-            <pubDate>Fri, 10 Dec 2021 08:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[랄프 로렌은 로블록스에서 디지털 의류 컬렉션과 아이스 스케이트와 같은 겨울 활동을 주제로 한랄프 로렌 윈터 이스케이프(The Ralph Lauren Winter Escape)를 22년 1월 3일까지 선보인다. 랄프 로렌 윈터 이스케이프 체험은 아이스 스케 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[어도비, 일반인 겨냥한 이미지 편집도구 새로 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7865</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7865</guid>
+            <pubDate>Tue, 14 Dec 2021 03:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국광고홍보학회, 특별기획 세미나 미디어광고 데이터 신뢰도 향상 방안 모색 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7834</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7834</guid>
-            <pubDate>Fri, 10 Dec 2021 08:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[급변하는 미디어 환경변화로 인해 공공정책 수립, 시장 마케팅 활용 등 관련 산업 주체들의 거래질서 확립과 산업 활성화를 위해 이용자에 대한 정확하고 신뢰할 수 있는 관련 데이터의 중요성이 부각되고 있다. 이에 한국광고 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[인스타그램, '릴스 비주얼 답장' 기능 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7864</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7864</guid>
+            <pubDate>Tue, 14 Dec 2021 03:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국PR협회, ‘2021년 올해의 핫 이슈 톱 7’ 발표... 비대면, 공정, OTT, ESG, 진실과팩트, 소통, DT (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7863</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7863</guid>
-            <pubDate>Tue, 14 Dec 2021 02:09:12 GMT</pubDate>
+            <pubDate>Tue, 14 Dec 2021 10:18:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -654,24 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[해외 크리에이티브] 랄프 로렌, 로블록스에서 다양한 체험 제공하는 '랄프 로렌 윈터 이스케이프' 선보여 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7835</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7835</guid>
-            <pubDate>Fri, 10 Dec 2021 08:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국광고홍보학회, 특별기획 세미나 '미디어·광고 데이터 신뢰도 향상 방안 모색' 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7834</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7834</guid>
-            <pubDate>Fri, 10 Dec 2021 08:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 메타버스를 활용한 플랫폼이 아닌 것은 무엇일까요?(hint: 큐레터의 메타버스 체험기에서 힌트 찾기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 14 Dec 2021 02:09:23 GMT</pubDate>
+            <pubDate>Tue, 14 Dec 2021 03:17:45 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 메타버스를 활용한 플랫폼이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-56788" target="_blank">큐레터의 메타버스 체험기에서 힌트 찾기!</a>)</span></td>
 			</tr>
