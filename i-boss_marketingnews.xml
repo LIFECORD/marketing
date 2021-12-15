@@ -4,16 +4,24 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 06:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 07:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국민인증서 만든 카카오2명 중 1명 사용]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7874</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7874</guid>
+            <pubDate>Wed, 15 Dec 2021 07:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[카카오 인증서가 출시 1년만에 3000만명의 이용자 수를 확보하며 국민인증서로 자리매김했다. 국민 2명 중 1명이 쓰는 셈이다. 15일 카카오는 지난해 12월 16일 출시 이후 카카오 인증서가 3000만명의 이용자 수를 달성, 1억 3000만 건  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[사업자가 아닌 개인도 카드 결제를 받을 수 있다면?]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7731</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7731</guid>
             <pubDate>Wed, 15 Dec 2021 06:19:44 GMT</pubDate>
             <content:encoded><![CDATA[두둑한 현금이 들어가 있는 지갑을 보면 라떼 시절에야 우와~~ 라고 했지만, 지금에서야 어디 그런가? 오히려 무슨 불법적인 일을 하는 사람은 아닌가 하고 의심받기 마련이다. 그만큼 지금은 현금을 들고  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a88147f7631ae42b1b1e307a0d1ad1b8_3916_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1cd9552fb77084936c84746189e254f3_83439_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메이크샵, 라이브방송 날방TV 시작]]></title>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7846</guid>
             <pubDate>Sun, 12 Dec 2021 09:40:00 GMT</pubDate>
             <content:encoded><![CDATA[펩시콜라 모기업 펩시코가 이더리움 블록체인 기반 자체 NFT 컬렉션`펩시 마이크 드롭 NFT(Pepsi Mic Drop NTF) 1,893개를 출시한다고 밝혔다. 1,893개는 펩시는 펩시가 탄생한 1893년을 기념하기 위한 것이다.1,893개의 제네시스 토큰 각각 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[맥도날드, OfflineTV와 파트너십 맺고 메타버스에 진출하다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7845</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7845</guid>
-            <pubDate>Sun, 12 Dec 2021 09:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[애드에이지에 따르면,2백만 명이 넘는 유튜브 구독자를 보유한 8명의 게이머와 콘텐츠 제작자 그룹인 OfflineTV(오프라인TV)가 주최하는 가상 이벤트를 후원한다. 엘리자베스 캠벨 맥도날드 문화 참여 수석 이사는 `맥도날드가 메 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

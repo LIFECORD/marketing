@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 06:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 07:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,18 +71,18 @@
             <content:encoded><![CDATA[셀트너]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56715</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56715</guid>
-            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[상원1]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[카카오가 생각하는 오픈마켓은? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56687</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56687</guid>
             <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56715</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56715</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[상원1]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[아이보스 연말 이벤트] 이벤트 참여하고 프레임 받.. (아이보스 ─ 인기글)]]></title>
@@ -218,12 +218,20 @@
             <content:encoded><![CDATA[구루나]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[국민인증서 만든 카카오2명 중 1명 사용 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7874</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7874</guid>
+            <pubDate>Wed, 15 Dec 2021 07:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[카카오 인증서가 출시 1년만에 3000만명의 이용자 수를 확보하며 국민인증서로 자리매김했다. 국민 2명 중 1명이 쓰는 셈이다. 15일 카카오는 지난해 12월 16일 출시 이후 카카오 인증서가 3000만명의 이용자 수를 달성, 1억 3000만 건  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[사업자가 아닌 개인도 카드 결제를 받을 수 있다면? (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7731</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7731</guid>
             <pubDate>Wed, 15 Dec 2021 06:19:44 GMT</pubDate>
             <content:encoded><![CDATA[두둑한 현금이 들어가 있는 지갑을 보면 라떼 시절에야 우와~~ 라고 했지만, 지금에서야 어디 그런가? 오히려 무슨 불법적인 일을 하는 사람은 아닌가 하고 의심받기 마련이다. 그만큼 지금은 현금을 들고  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a88147f7631ae42b1b1e307a0d1ad1b8_3916_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1cd9552fb77084936c84746189e254f3_83439_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메이크샵, 라이브방송 날방TV 시작 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,18 +458,17 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[맥도날드, OfflineTV와 파트너십 맺고 메타버스에 진출하다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7845</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7845</guid>
-            <pubDate>Sun, 12 Dec 2021 09:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[애드에이지에 따르면,2백만 명이 넘는 유튜브 구독자를 보유한 8명의 게이머와 콘텐츠 제작자 그룹인 OfflineTV(오프라인TV)가 주최하는 가상 이벤트를 후원한다. 엘리자베스 캠벨 맥도날드 문화 참여 수석 이사는 `맥도날드가 메 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA['국민인증서' 만든 카카오…"2명 중 1명 사용" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7874</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7874</guid>
+            <pubDate>Wed, 15 Dec 2021 07:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사업자가 아닌 개인도 카드 결제를 받을 수 있다면? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7731</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7731</guid>
-            <pubDate>Wed, 15 Dec 2021 06:19:55 GMT</pubDate>
+            <pubDate>Wed, 15 Dec 2021 06:19:44 GMT</pubDate>
             <content:encoded><![CDATA[신용성]]></content:encoded>
         </item>
         <item>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[맥도날드, OfflineTV와 파트너십 맺고 메타버스에 진출하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7845</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7845</guid>
-            <pubDate>Sun, 12 Dec 2021 09:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[구글 애널리틱스에서 사용자가 특정 페이지에서 다음 페이지로 이동한 경로를 시각적으로 보려고 합니다. 이 때 확인해야 할 보고서는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 15 Dec 2021 06:20:06 GMT</pubDate>
+            <pubDate>Wed, 15 Dec 2021 07:17:28 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->구글 애널리틱스에서 사용자가 특정 페이지에서 다음 페이지로 이동한 경로를 시각적으로 보려고 합니다. 이 때 확인해야 할 보고서는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
