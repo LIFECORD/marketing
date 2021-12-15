@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 23:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 00:56:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[얼마나 맞췄을까?]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7870</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7870</guid>
+            <pubDate>Wed, 15 Dec 2021 08:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[매년 이 맘때면 다음 해 전망과 관련된 다양한 서적과 아티클들이 쏟아진다. 그런데 그 중에 얼마나 맞았는지에 대해서는 이야기가 거의 없다. 사실 매우 궁금하다. 작년 말 비주얼 캐피털리스트는200개 이상의 보고서, 기사, 팟 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[한국갤럽] 2021년 올해를 빛낸 탤런트, 갯마을 차차차 김선호 1위]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7869</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7869</guid>
+            <pubDate>Wed, 15 Dec 2021 08:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국갤럽이 2021년 11월 5일부터 28일까지 전국(제주 제외) 만 13세 이상 1,700명에게 올 한 해 가장 활약한 탤런트를 두 명까지 물은 결과(자유응답), tvN 주말 드라마 갯마을 차차차의 주연 김선호와 신민아가 각각 7.8%, 7.3%의 지지를  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[12월 15일 마케팅 뉴스클리핑] 네이버쿠팡도 속았다... 진화한 허위 구매후기 수법 외]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7867</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 11 Dec 2021 05:41:00 GMT</pubDate>
             <content:encoded><![CDATA[디지털 인프라를 제공하는 글로벌 기업에퀴닉스,는 향후 10년을 정의할 4대 디지털 인프라 예측을 발표했다.이번 발표는 디지털 시대에서 하이브리드 멀티클라우드 인공지능 및 머신러닝 보안 지속 가능성 등이 미치는 영향을  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[n번방 방지법 첫 날...오픈채팅방 검열 논란 시끌]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7840</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7840</guid>
-            <pubDate>Fri, 10 Dec 2021 12:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[이른바 n번방 방지법(전기통신사업법정보통신망법 개정안)이 시행되면서 네이버카카오 등이 불법촬영물 필터링 기능을 적용하고 나섰다. 이를 두고 온라인에서 과도한 검열이라는 비판 여론이 들끓자 정치권에서는 법 재개정 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[페이스북, 메타버스앱 호라이즌 월드 모두에게 개방]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7839</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7839</guid>
-            <pubDate>Fri, 10 Dec 2021 09:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[미국 경제전문매체 는 9일(현지시간) 메타가 자사의 아바타 VR(가상현실) 세계인 `호라이즌 월드(Horizon Worlds)`를 초대없이 누구나 사용 가능하게 했다고 보도했다.  지난해 베타 버전이 출시된 호라이즌 월드는 가상세계 참여 초 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16391275469481.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
