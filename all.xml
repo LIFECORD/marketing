@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 00:56:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 02:03:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,18 +64,18 @@
             <content:encoded><![CDATA[셀트너]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오가 생각하는 오픈마켓은? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56687</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56687</guid>
-            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56715</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56715</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[상원1]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카카오가 생각하는 오픈마켓은? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56687</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56687</guid>
+            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버의 새로운 검색 '에어서치' 살펴보기 (아이보스 ─ 인기글)]]></title>
@@ -162,6 +162,13 @@
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[인크로스] 디지털 마케팅 트렌드 2022 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-3208-718</link>
+            <guid>https://www.i-boss.co.kr/ab-3208-718</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[앞으로 트렌드를 이끌어갈 뉴미디어 콘텐츠는? 🤔 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-5637-27</link>
             <guid>https://www.i-boss.co.kr/ab-5637-27</guid>
@@ -176,25 +183,18 @@
             <content:encoded><![CDATA[그린다이어리]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[잘 파는 회사의 레포트에 들어가는 핵심지표 3가지 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56717</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56717</guid>
-            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[준5941]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[인크로스] 디지털 마케팅 트렌드 2022 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-3208-718</link>
-            <guid>https://www.i-boss.co.kr/ab-3208-718</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[상세페이지 제작 접근 방식 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56806</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56806</guid>
             <pubDate>Sun, 12 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잘 파는 회사의 레포트에 들어가는 핵심지표 3가지 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56717</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56717</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[플레이디] 위드코로나 시대 변화하는 소비 트렌드 (아이보스 ─ 인기글)]]></title>
@@ -216,6 +216,22 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-37862</guid>
             <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[구루나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네이버 뉴스, PC 홈 화면 개편... 모바일과 동일하게 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7872</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7872</guid>
+            <pubDate>Wed, 15 Dec 2021 10:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[PC에서도 언론사 구독 뉴스, 언론사 홈, 언론사별 기사 본문 등 서비스   네이버가 PC 뉴스 홈 화면을 개편했다. 모바일 환경에 먼저 적용됐던 구독 기반 언론사별 뉴스 서비스를 네이버 PC 뉴스 홈에도 도입했다.  이번 개편을 통 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16395333241218.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[연대하며 새로운 물결을 만드는 우리들의 이야기... 90년대생 작가들이 온다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7871</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7871</guid>
+            <pubDate>Wed, 15 Dec 2021 10:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[대세로 떠오른90년대생 작가들2030독자층 탄탄한 지지 기반  20대 후반부터30대 초반의 이른바90년대생 작가들이 서점가 트렌드 한 축을 이루며 새로운 물결을 만들고 있다.세상을 향한 타오르는 눈빛과 중장년층 못잖은 삶의 통 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[얼마나 맞췄을까? (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -442,33 +458,31 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[팬톤이 선정한 2022년의 컬러는 베리 페리 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7842</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7842</guid>
-            <pubDate>Sat, 11 Dec 2021 05:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[세계적인 컬러 연구소 팬톤은2022년 올해의 컬러로제비꽃 색에 가까운베리 페리(팬톤 17-3938 Very Peri)를 선정, 발표했다. 베리 페리는 레드 언더톤에 다이내믹한 페리윙클 블루 컬러를 더한 생생한 보랏빛이다. 지금까지와는 다르 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[네이버 뉴스, PC 홈 화면 개편... 모바일과 동일하게 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7872</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7872</guid>
+            <pubDate>Wed, 15 Dec 2021 02:03:02 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에퀴닉스, 향후 10년을 정의할 4대 디지털 인프라 트렌드 발표 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7841</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7841</guid>
-            <pubDate>Sat, 11 Dec 2021 05:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 인프라를 제공하는 글로벌 기업에퀴닉스,는 향후 10년을 정의할 4대 디지털 인프라 예측을 발표했다.이번 발표는 디지털 시대에서 하이브리드 멀티클라우드 인공지능 및 머신러닝 보안 지속 가능성 등이 미치는 영향을  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[연대하며 새로운 물결을 만드는 '우리들의 이야기'... 90년대생 작가들이 온다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7871</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7871</guid>
+            <pubDate>Wed, 15 Dec 2021 02:03:02 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[얼마나 맞췄을까? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7870</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7870</guid>
-            <pubDate>Wed, 15 Dec 2021 00:55:39 GMT</pubDate>
+            <pubDate>Wed, 15 Dec 2021 08:52:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[한국갤럽] 2021년 올해를 빛낸 탤런트, '갯마을 차차차' 김선호 1위 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7869</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7869</guid>
-            <pubDate>Wed, 15 Dec 2021 00:55:39 GMT</pubDate>
+            <pubDate>Wed, 15 Dec 2021 08:52:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -654,24 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[팬톤이 선정한 2022년의 컬러는 '베리 페리' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7842</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7842</guid>
-            <pubDate>Sat, 11 Dec 2021 05:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[에퀴닉스, 향후 10년을 정의할 ‘4대 디지털 인프라 트렌드' 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7841</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7841</guid>
-            <pubDate>Sat, 11 Dec 2021 05:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[구글 애널리틱스에서 사용자가 특정 페이지에서 다음 페이지로 이동한 경로를 시각적으로 보려고 합니다. 이 때 확인해야 할 보고서는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 15 Dec 2021 00:55:52 GMT</pubDate>
+            <pubDate>Wed, 15 Dec 2021 02:03:14 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->구글 애널리틱스에서 사용자가 특정 페이지에서 다음 페이지로 이동한 경로를 시각적으로 보려고 합니다. 이 때 확인해야 할 보고서는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

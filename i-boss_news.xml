@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2021-12-15T00:56:02.292Z</updated>
+    <updated>2021-12-15T02:03:23.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버 뉴스, PC 홈 화면 개편... 모바일과 동일하게]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7872</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7872"/>
+        <updated>2021-12-15T02:03:02.397Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연대하며 새로운 물결을 만드는 '우리들의 이야기'... 90년대생 작가들이 온다]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7871</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7871"/>
+        <updated>2021-12-15T02:03:02.398Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[얼마나 맞췄을까?]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7870</id>
@@ -199,20 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-7843</id>
         <link href="https://www.i-boss.co.kr/ab-2877-7843"/>
         <updated>2021-12-10T21:15:09.508Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팬톤이 선정한 2022년의 컬러는 '베리 페리']]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7842</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7842"/>
-        <updated>2021-12-10T21:15:09.510Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에퀴닉스, 향후 10년을 정의할 ‘4대 디지털 인프라 트렌드' 발표]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7841</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7841"/>
-        <updated>2021-12-10T21:15:09.512Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>

@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 00:56:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 02:03:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 뉴스, PC 홈 화면 개편... 모바일과 동일하게]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7872</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7872</guid>
+            <pubDate>Wed, 15 Dec 2021 10:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[PC에서도 언론사 구독 뉴스, 언론사 홈, 언론사별 기사 본문 등 서비스   네이버가 PC 뉴스 홈 화면을 개편했다. 모바일 환경에 먼저 적용됐던 구독 기반 언론사별 뉴스 서비스를 네이버 PC 뉴스 홈에도 도입했다.  이번 개편을 통 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16395333241218.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[연대하며 새로운 물결을 만드는 우리들의 이야기... 90년대생 작가들이 온다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7871</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7871</guid>
+            <pubDate>Wed, 15 Dec 2021 10:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[대세로 떠오른90년대생 작가들2030독자층 탄탄한 지지 기반  20대 후반부터30대 초반의 이른바90년대생 작가들이 서점가 트렌드 한 축을 이루며 새로운 물결을 만들고 있다.세상을 향한 타오르는 눈빛과 중장년층 못잖은 삶의 통 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[얼마나 맞췄을까?]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7870</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7843</guid>
             <pubDate>Sat, 11 Dec 2021 05:42:00 GMT</pubDate>
             <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)가에이풀(Aful)을 통해 8월 20일부터 9월 3일까지 50세 이상 264명을 대상으로 5060세대의 모바일뱅킹 이용 현황을 조사한 결과, 은행 업무 방법 물음(N=264, 복수 응답)에 83%가 모바일뱅킹을 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[팬톤이 선정한 2022년의 컬러는 베리 페리]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7842</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7842</guid>
-            <pubDate>Sat, 11 Dec 2021 05:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[세계적인 컬러 연구소 팬톤은2022년 올해의 컬러로제비꽃 색에 가까운베리 페리(팬톤 17-3938 Very Peri)를 선정, 발표했다. 베리 페리는 레드 언더톤에 다이내믹한 페리윙클 블루 컬러를 더한 생생한 보랏빛이다. 지금까지와는 다르 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[에퀴닉스, 향후 10년을 정의할 4대 디지털 인프라 트렌드 발표]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7841</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7841</guid>
-            <pubDate>Sat, 11 Dec 2021 05:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 인프라를 제공하는 글로벌 기업에퀴닉스,는 향후 10년을 정의할 4대 디지털 인프라 예측을 발표했다.이번 발표는 디지털 시대에서 하이브리드 멀티클라우드 인공지능 및 머신러닝 보안 지속 가능성 등이 미치는 영향을  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
