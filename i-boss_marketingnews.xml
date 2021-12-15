@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 05:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 06:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사업자가 아닌 개인도 카드 결제를 받을 수 있다면?]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7731</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7731</guid>
+            <pubDate>Wed, 15 Dec 2021 06:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[두둑한 현금이 들어가 있는 지갑을 보면 라떼 시절에야 우와~~ 라고 했지만, 지금에서야 어디 그런가? 오히려 무슨 불법적인 일을 하는 사람은 아닌가 하고 의심받기 마련이다. 그만큼 지금은 현금을 들고  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a88147f7631ae42b1b1e307a0d1ad1b8_3916_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메이크샵, 라이브방송 날방TV 시작]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7873</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7845</guid>
             <pubDate>Sun, 12 Dec 2021 09:39:00 GMT</pubDate>
             <content:encoded><![CDATA[애드에이지에 따르면,2백만 명이 넘는 유튜브 구독자를 보유한 8명의 게이머와 콘텐츠 제작자 그룹인 OfflineTV(오프라인TV)가 주최하는 가상 이벤트를 후원한다. 엘리자베스 캠벨 맥도날드 문화 참여 수석 이사는 `맥도날드가 메 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[디지털광고人들의 축제, 2021 대한민국 온라인광고대상개최]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7844</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7844</guid>
-            <pubDate>Sun, 12 Dec 2021 09:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국디지털광고협회(회장 목영도, www.kodaa.or.kr)는 과학기술정보통신부 주최, 한국인터넷진흥원 공동 주관으로 2021 대한민국 온라인광고대상을 12월 9일(목) 온라인으로 성황리에 개최했다 올해로 10회째를 맞이하는 본 행사에서 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

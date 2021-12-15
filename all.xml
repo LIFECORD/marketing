@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 05:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 06:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -57,18 +57,18 @@
             <content:encoded><![CDATA[헤이데일리]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? ) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56721</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56721</guid>
-            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[셀트너]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네이버의 새로운 검색 '에어서치' 살펴보기 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56797</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56797</guid>
             <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? ) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56721</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56721</guid>
+            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[셀트너]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 .. (아이보스 ─ 인기글)]]></title>
@@ -134,18 +134,18 @@
             <content:encoded><![CDATA[아나키]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[SW]  상원 최신판 올마식 광고관리 비법 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56735</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56735</guid>
-            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[상원1]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[인크로스] 디지털 마케팅 트렌드 2022 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-3208-718</link>
             <guid>https://www.i-boss.co.kr/ab-3208-718</guid>
             <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[SW]  상원 최신판 올마식 광고관리 비법 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56735</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56735</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[상원1]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[상세페이지 기획 어렵네요 (아이보스 ─ 인기글)]]></title>
@@ -155,18 +155,18 @@
             <content:encoded><![CDATA[rdg]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가장 효율적인 퍼포먼스 마케팅 방법론 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56683</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56683</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[준5941]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[알아두면 좋은 유용한 사이트 모음 NO.2 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56810</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56810</guid>
             <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가장 효율적인 퍼포먼스 마케팅 방법론 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56683</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56683</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[앞으로 트렌드를 이끌어갈 뉴미디어 콘텐츠는? 🤔 (아이보스 ─ 인기글)]]></title>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-37862</guid>
             <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[구루나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사업자가 아닌 개인도 카드 결제를 받을 수 있다면? (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7731</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7731</guid>
+            <pubDate>Wed, 15 Dec 2021 06:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[두둑한 현금이 들어가 있는 지갑을 보면 라떼 시절에야 우와~~ 라고 했지만, 지금에서야 어디 그런가? 오히려 무슨 불법적인 일을 하는 사람은 아닌가 하고 의심받기 마련이다. 그만큼 지금은 현금을 들고  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a88147f7631ae42b1b1e307a0d1ad1b8_3916_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메이크샵, 라이브방송 날방TV 시작 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[디지털광고人들의 축제, 2021 대한민국 온라인광고대상개최 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7844</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7844</guid>
-            <pubDate>Sun, 12 Dec 2021 09:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국디지털광고협회(회장 목영도, www.kodaa.or.kr)는 과학기술정보통신부 주최, 한국인터넷진흥원 공동 주관으로 2021 대한민국 온라인광고대상을 12월 9일(목) 온라인으로 성황리에 개최했다 올해로 10회째를 맞이하는 본 행사에서 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[사업자가 아닌 개인도 카드 결제를 받을 수 있다면? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7731</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7731</guid>
+            <pubDate>Wed, 15 Dec 2021 06:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[신용성]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[메이크샵, 라이브방송 '날방TV' 시작 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[디지털광고人들의 축제, ‘2021 대한민국 온라인광고대상’개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7844</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7844</guid>
-            <pubDate>Sun, 12 Dec 2021 09:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[구글 애널리틱스에서 사용자가 특정 페이지에서 다음 페이지로 이동한 경로를 시각적으로 보려고 합니다. 이 때 확인해야 할 보고서는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 15 Dec 2021 05:16:43 GMT</pubDate>
+            <pubDate>Wed, 15 Dec 2021 06:20:06 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->구글 애널리틱스에서 사용자가 특정 페이지에서 다음 페이지로 이동한 경로를 시각적으로 보려고 합니다. 이 때 확인해야 할 보고서는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
