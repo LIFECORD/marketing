@@ -2,7 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-5826</id>
     <title>아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈</title>
-    <updated>2021-12-15T22:17:58.915Z</updated>
+    <updated>2021-12-15T23:18:37.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다음은 마케팅 용어에 대한 설명입니다. 올바르지 않은 설명을 한 사람은 누구일까요?]]></title>
+        <id>https://www.i-boss.co.kr/ab-5826</id>
+        <link href="https://www.i-boss.co.kr/ab-5826"/>
+        <updated>2021-12-15T23:18:27.858Z</updated>
+        <content type="html"><![CDATA[<tbody><tr>
+				<td><!--1-->다음은 마케팅 용어에 대한 설명입니다. 올바르지 않은 설명을 한 사람은 누구일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/8638dd683a6734a9c81b6b7a0d8efed8_16390405676229.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1321_1" value="1" class="AB-radio" id="PQ_BD5826_1321_1_0"><label for="PQ_BD5826_1321_1_0" id="label_PQ_BD5826_1321_1_0">(A) A</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1321_1" value="2" class="AB-radio" id="PQ_BD5826_1321_1_1"><label for="PQ_BD5826_1321_1_1" id="label_PQ_BD5826_1321_1_1">(B) B</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1321_1" value="3" class="AB-radio" id="PQ_BD5826_1321_1_2"><label for="PQ_BD5826_1321_1_2" id="label_PQ_BD5826_1321_1_2">(C) C</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1321_1" value="4" class="AB-radio" id="PQ_BD5826_1321_1_3"><label for="PQ_BD5826_1321_1_3" id="label_PQ_BD5826_1321_1_3">(D) D</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content>
+    </entry>
 </feed>

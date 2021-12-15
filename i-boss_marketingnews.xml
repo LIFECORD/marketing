@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 22:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 23:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 케어 띄우고 원격의료 시장 참전]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7876</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7876</guid>
+            <pubDate>Thu, 16 Dec 2021 08:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[네이버가 한국판 아마존 케어인 `네이버 케어`로 원격의료 시장에 진출한다. 원격의료를 포함한 디지털 헬스케어 서비스를 내부에서 제공한 뒤 외부로 확대한다. 네이버의 헬스케어 시장 진출이 임박했다. 네이버는 지난 11월 ` ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[12월 16일 마케팅 뉴스클리핑] 카톡에서 NFT 사고 판다... 클립 드롭스 정식 버전 출시 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7875</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7875</guid>
+            <pubDate>Thu, 16 Dec 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 카톡에서 NFT 사고 판다... `클립 드롭스` 정식 버전 출시  카카오톡 내 가상자산 지갑 `클립(Klip)`에서 대체 불가능한 토큰 작품을 전시하고 유통하는 `클립 드롭스`가 정식 버전을 출시한다. 카카오의 블록체인 기술 계열사 그 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4ea187afea7dc1c9414438508fc01d9d_24967_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국민인증서 만든 카카오2명 중 1명 사용]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7874</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7849</guid>
             <pubDate>Sun, 12 Dec 2021 11:14:26 GMT</pubDate>
             <content:encoded><![CDATA[많은 기업들이 홈페이지를 운영하며 사용하는 아파치(Apache) 로그(Log)4j 2 서비스와 관련된 보안 취약점이 발견된 가운데 정부가 긴급 보안패치를 할 것을 권고했다.  과학기술정보통신부(이하 과기정통부)는 12일 아파치 로그4j 2  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[차이커뮤니케이션, 13일(월) 사업부별 사옥 분리 이전]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7848</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7848</guid>
-            <pubDate>Sun, 12 Dec 2021 08:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 종합광고회사 차이커뮤니케이션이 사업부별 사옥을 13일자로 분리, 이전한다. 차이커뮤니케이션은 `차이의 새로운 비전과 사업 영역의 안정화를 위해 브랜드 본부와 컨텐츠본부는 플랫폼C로, 퍼포먼스 본부는 플랫폼P로 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[펩시, 자체 NFT 컬렉션 마이크 드롭 출시... 무료다!]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7846</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7846</guid>
-            <pubDate>Sun, 12 Dec 2021 09:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[펩시콜라 모기업 펩시코가 이더리움 블록체인 기반 자체 NFT 컬렉션`펩시 마이크 드롭 NFT(Pepsi Mic Drop NTF) 1,893개를 출시한다고 밝혔다. 1,893개는 펩시는 펩시가 탄생한 1893년을 기념하기 위한 것이다.1,893개의 제네시스 토큰 각각 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
