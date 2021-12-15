@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 03:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 04:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,18 +176,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[퇴사 후 귀농 테스트를 만들었는데,, 어디에 홍보를 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56727</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56727</guid>
-            <pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[그린다이어리]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[상세페이지 제작 접근 방식 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56806</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56806</guid>
             <pubDate>Sun, 12 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[퇴사 후 귀농 테스트를 만들었는데,, 어디에 홍보를 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56727</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56727</guid>
+            <pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[그린다이어리]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[잘 파는 회사의 레포트에 들어가는 핵심지표 3가지 (아이보스 ─ 인기글)]]></title>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-37862</guid>
             <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[구루나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[메이크샵, 라이브방송 날방TV 시작 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7873</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7873</guid>
+            <pubDate>Wed, 15 Dec 2021 00:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[누구나 방송할 수 있는 `오픈형` 라이브 방송 지원     코리아센터가 운영하는 메이크샵에서 라이브방송 `날방TV`를 시작한다고 15일 밝혔다.   날방TV는 플랫폼은 1인 창업자부터 인플루언서, 소상공인, 중소기업, 대기업까지 누구 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16395405238709.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버 뉴스, PC 홈 화면 개편... 모바일과 동일하게 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[5060 신중년의 은행 업무도 모바일뱅킹이 대세... 많이 사용하는 은행 앱은 국민, 신한, 농협 순 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7843</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7843</guid>
-            <pubDate>Sat, 11 Dec 2021 05:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)가에이풀(Aful)을 통해 8월 20일부터 9월 3일까지 50세 이상 264명을 대상으로 5060세대의 모바일뱅킹 이용 현황을 조사한 결과, 은행 업무 방법 물음(N=264, 복수 응답)에 83%가 모바일뱅킹을 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[메이크샵, 라이브방송 '날방TV' 시작 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7873</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7873</guid>
+            <pubDate>Wed, 15 Dec 2021 04:22:32 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버 뉴스, PC 홈 화면 개편... 모바일과 동일하게 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[5060 신중년의 은행 업무도 모바일뱅킹이 대세... 많이 사용하는 은행 앱은 국민, 신한, 농협 순 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7843</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7843</guid>
-            <pubDate>Sat, 11 Dec 2021 05:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[구글 애널리틱스에서 사용자가 특정 페이지에서 다음 페이지로 이동한 경로를 시각적으로 보려고 합니다. 이 때 확인해야 할 보고서는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 15 Dec 2021 03:18:03 GMT</pubDate>
+            <pubDate>Wed, 15 Dec 2021 04:22:43 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->구글 애널리틱스에서 사용자가 특정 페이지에서 다음 페이지로 이동한 경로를 시각적으로 보려고 합니다. 이 때 확인해야 할 보고서는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
