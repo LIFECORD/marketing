@@ -2,20 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-5826</id>
     <title>아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈</title>
-    <updated>2021-12-15T14:16:54.853Z</updated>
+    <updated>2021-12-15T16:26:38.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[구글 애널리틱스에서 사용자가 특정 페이지에서 다음 페이지로 이동한 경로를 시각적으로 보려고 합니다. 이 때 확인해야 할 보고서는 무엇일까요?]]></title>
-        <id>https://www.i-boss.co.kr/ab-5826</id>
-        <link href="https://www.i-boss.co.kr/ab-5826"/>
-        <updated>2021-12-15T14:16:45.845Z</updated>
-        <content type="html"><![CDATA[<tbody><tr>
-				<td><!--1-->구글 애널리틱스에서 사용자가 특정 페이지에서 다음 페이지로 이동한 경로를 시각적으로 보려고 합니다. 이 때 확인해야 할 보고서는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1320_1" value="1" class="AB-radio" id="PQ_BD5826_1320_1_0"><label for="PQ_BD5826_1320_1_0" id="label_PQ_BD5826_1320_1_0">(A) 트리맵 보고서</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1320_1" value="2" class="AB-radio" id="PQ_BD5826_1320_1_1"><label for="PQ_BD5826_1320_1_1" id="label_PQ_BD5826_1320_1_1">(B) 방문 페이지 보고서</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1320_1" value="3" class="AB-radio" id="PQ_BD5826_1320_1_2"><label for="PQ_BD5826_1320_1_2" id="label_PQ_BD5826_1320_1_2">(C) 콘텐츠 상세 비교 보고서</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1320_1" value="4" class="AB-radio" id="PQ_BD5826_1320_1_3"><label for="PQ_BD5826_1320_1_3" id="label_PQ_BD5826_1320_1_3">(D) 행동 흐름 보고서</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content>
-    </entry>
 </feed>

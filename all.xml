@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 14:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 16:26:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -148,18 +148,18 @@
             <content:encoded><![CDATA[상원1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[상세페이지 기획 어렵네요 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37889</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37889</guid>
-            <pubDate>Fri, 03 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[rdg]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[알아두면 좋은 유용한 사이트 모음 NO.2 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56810</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56810</guid>
             <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[상세페이지 기획 어렵네요 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37889</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37889</guid>
+            <pubDate>Fri, 03 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[rdg]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가장 효율적인 퍼포먼스 마케팅 방법론 (아이보스 ─ 인기글)]]></title>
@@ -666,19 +666,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7846</guid>
             <pubDate>Sun, 12 Dec 2021 09:40:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[구글 애널리틱스에서 사용자가 특정 페이지에서 다음 페이지로 이동한 경로를 시각적으로 보려고 합니다. 이 때 확인해야 할 보고서는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 15 Dec 2021 14:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->구글 애널리틱스에서 사용자가 특정 페이지에서 다음 페이지로 이동한 경로를 시각적으로 보려고 합니다. 이 때 확인해야 할 보고서는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1320_1" value="1" class="AB-radio" id="PQ_BD5826_1320_1_0"><label for="PQ_BD5826_1320_1_0" id="label_PQ_BD5826_1320_1_0">(A) 트리맵 보고서</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1320_1" value="2" class="AB-radio" id="PQ_BD5826_1320_1_1"><label for="PQ_BD5826_1320_1_1" id="label_PQ_BD5826_1320_1_1">(B) 방문 페이지 보고서</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1320_1" value="3" class="AB-radio" id="PQ_BD5826_1320_1_2"><label for="PQ_BD5826_1320_1_2" id="label_PQ_BD5826_1320_1_2">(C) 콘텐츠 상세 비교 보고서</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1320_1" value="4" class="AB-radio" id="PQ_BD5826_1320_1_3"><label for="PQ_BD5826_1320_1_3" id="label_PQ_BD5826_1320_1_3">(D) 행동 흐름 보고서</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘겨울방학 알바 채용관’ 오픈, 알바 5000건 한 눈에...자영업자 구인난 해소 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
