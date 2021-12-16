@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 04:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 05:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -99,18 +99,18 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[출근 전날 연봉 500 깎는 회사 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37910</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37910</guid>
-            <pubDate>Tue, 07 Dec 2021 08:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[상세페이지 제작 접근 방식 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56806</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56806</guid>
             <pubDate>Sun, 12 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[출근 전날 연봉 500 깎는 회사 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37910</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37910</guid>
+            <pubDate>Tue, 07 Dec 2021 08:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케팅판을 여행하는 돈없는 마케터를 위한 안내서 2 (아이보스 ─ 인기글)]]></title>
@@ -671,7 +671,7 @@
             <title><![CDATA[다음은 마케팅 용어에 대한 설명입니다. 올바르지 않은 설명을 한 사람은 누구일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 16 Dec 2021 04:22:38 GMT</pubDate>
+            <pubDate>Thu, 16 Dec 2021 05:16:31 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음은 마케팅 용어에 대한 설명입니다. 올바르지 않은 설명을 한 사람은 누구일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/c5d6ae960c3fe4dfc6d7dd0719c06c20_16396159025182.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
