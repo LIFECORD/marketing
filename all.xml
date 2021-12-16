@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 06:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 07:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -141,13 +141,6 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[구글 유튜브 광고 1억 집행, 매출 4억 초반 후기 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56654</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56654</guid>
-            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아나키]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[SW]  상원 최신판 올마식 광고관리 비법 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56735</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56735</guid>
@@ -216,6 +209,21 @@
             <guid>https://www.i-boss.co.kr/ab-2110-13831</guid>
             <pubDate>Sat, 20 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[노예탈출]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[퍼포먼스 광고 대행사를 고르는 기준 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56768</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56768</guid>
+            <pubDate>Mon, 06 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[준5941]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네이버 쇼핑라이브, 콘텐츠 커머스 확대... 웹예능 쌍쌍 인비테이셔널 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7882</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7882</guid>
+            <pubDate>Thu, 16 Dec 2021 07:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[쇼핑 라이브에서 시리즈 웹 예능 공개 PPL 피로감 느끼는 소비자들 늘어 콘텐츠 통해 자연스럽게 상품 노출하며 구매 유도     네이버가 콘텐츠 제작사 미스틱스토리와 골프 예능 쌍쌍 인비테이셔널을 공동 기획제작해 16일부터  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16396381048598.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[메타버스 전시회 개최 국내외 158개사 참여 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,18 +458,17 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_1639361835272.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코바코x방통위x중기부, 중소벤처기업 광고마케팅 지원 펀드 250억 조성 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7853</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7853</guid>
-            <pubDate>Mon, 13 Dec 2021 10:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코, 사장 이백만)는 12월 9일 한국프레스센터 대회의실에서 방송통신위원회(위원장 한상혁), 중소벤처기업부(장관 권칠승),한국벤처투자(KVIC, 대표 이영민)와 우수 중소벤처기업의 판로 지원과  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[네이버 쇼핑라이브, 콘텐츠 커머스 확대... 웹예능 '쌍쌍 인비테이셔널' 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7882</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7882</guid>
+            <pubDate>Thu, 16 Dec 2021 07:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['메타버스 전시회' 개최… 국내외 158개사 참여 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7881</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7881</guid>
-            <pubDate>Thu, 16 Dec 2021 06:20:57 GMT</pubDate>
+            <pubDate>Thu, 16 Dec 2021 06:20:43 GMT</pubDate>
             <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코바코x방통위x중기부, 중소벤처기업 광고·마케팅 지원 펀드 250억 조성 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7853</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7853</guid>
-            <pubDate>Mon, 13 Dec 2021 10:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음은 마케팅 용어에 대한 설명입니다. 올바르지 않은 설명을 한 사람은 누구일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 16 Dec 2021 06:21:12 GMT</pubDate>
+            <pubDate>Thu, 16 Dec 2021 07:17:48 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음은 마케팅 용어에 대한 설명입니다. 올바르지 않은 설명을 한 사람은 누구일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/c5d6ae960c3fe4dfc6d7dd0719c06c20_16396159025182.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

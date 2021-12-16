@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 06:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 07:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 쇼핑라이브, 콘텐츠 커머스 확대... 웹예능 쌍쌍 인비테이셔널 공개]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7882</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7882</guid>
+            <pubDate>Thu, 16 Dec 2021 07:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[쇼핑 라이브에서 시리즈 웹 예능 공개 PPL 피로감 느끼는 소비자들 늘어 콘텐츠 통해 자연스럽게 상품 노출하며 구매 유도     네이버가 콘텐츠 제작사 미스틱스토리와 골프 예능 쌍쌍 인비테이셔널을 공동 기획제작해 16일부터  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16396381048598.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메타버스 전시회 개최 국내외 158개사 참여]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7881</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Dec 2021 11:17:00 GMT</pubDate>
             <content:encoded><![CDATA[9월 추석 앞두고 테스트로 선보였던 선물하기 정식 런칭 상품수 5배 이상 확대...비식품군 카테고리 범위 넓혀 전화번호 몰라도 카카오톡 연동 통해 전달 가능    마켓컬리가 지난 9월 추석 명절에 선보였던 선물하기 서비스를 정 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_1639361835272.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코바코x방통위x중기부, 중소벤처기업 광고마케팅 지원 펀드 250억 조성]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7853</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7853</guid>
-            <pubDate>Mon, 13 Dec 2021 10:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코, 사장 이백만)는 12월 9일 한국프레스센터 대회의실에서 방송통신위원회(위원장 한상혁), 중소벤처기업부(장관 권칠승),한국벤처투자(KVIC, 대표 이영민)와 우수 중소벤처기업의 판로 지원과  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
