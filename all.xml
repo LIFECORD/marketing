@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 22:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 23:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56829</guid>
             <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[루비빙]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[12월 17일 마케팅 뉴스클리핑] 비싸면 좀 어때... 길어지는 집콕에 작은 사치로 기분 풀었다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7883</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7883</guid>
+            <pubDate>Fri, 17 Dec 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 비싸면 좀 어때... 길어지는 집콕에 작은 사치로 기분 풀었다  좀처럼 진정되지 않는 코로나19 확산세에 먹고 마시고 즐기는 행위가 밖이 아닌 집에서 이뤄지게 됐고, 집밥족들과 홈술족들이 급증했다. 이 같은 트렌드에 힘입 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16396514210516.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버 쇼핑라이브, 콘텐츠 커머스 확대... 웹예능 쌍쌍 인비테이셔널 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16393748258205.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마켓컬리, 선물하기 서비스 정식 오픈 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7854</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7854</guid>
-            <pubDate>Mon, 13 Dec 2021 11:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[9월 추석 앞두고 테스트로 선보였던 선물하기 정식 런칭 상품수 5배 이상 확대...비식품군 카테고리 범위 넓혀 전화번호 몰라도 카카오톡 연동 통해 전달 가능    마켓컬리가 지난 9월 추석 명절에 선보였던 선물하기 서비스를 정 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_1639361835272.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[12월 17일 마케팅 뉴스클리핑] 비싸면 좀 어때... 길어지는 집콕에 작은 사치로 기분 풀었다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7883</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7883</guid>
+            <pubDate>Thu, 16 Dec 2021 23:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버 쇼핑라이브, 콘텐츠 커머스 확대... 웹예능 '쌍쌍 인비테이셔널' 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,11 +668,17 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마켓컬리, 선물하기 서비스 정식 오픈 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7854</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7854</guid>
-            <pubDate>Mon, 13 Dec 2021 11:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[○○ 상품은 반품이나 환불 후 수리된 상품 혹은 미세한 흠집이 있는 상품을 보수해 새 상품보다 저렴하게 판매하는 상품을 의미합니다. 빈칸에 들어갈 말은 무엇일까요?(hint: 12월 10일 뉴스클리핑에서 정답 들춰보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Thu, 16 Dec 2021 23:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->○○ 상품은 반품이나 환불 후 수리된 상품 혹은 미세한 흠집이 있는 상품을 보수해 새 상품보다 저렴하게 판매하는 상품을 의미합니다. 빈칸에 들어갈 말은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7828" target="_blank">12월 10일 뉴스클리핑에서 정답 들춰보기!</a>)</span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1322_1" value="1" class="AB-radio" id="PQ_BD5826_1322_1_0"><label for="PQ_BD5826_1322_1_0" id="label_PQ_BD5826_1322_1_0">(A) 리버서블</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1322_1" value="2" class="AB-radio" id="PQ_BD5826_1322_1_1"><label for="PQ_BD5826_1322_1_1" id="label_PQ_BD5826_1322_1_1">(B) 리퍼비시</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1322_1" value="3" class="AB-radio" id="PQ_BD5826_1322_1_2"><label for="PQ_BD5826_1322_1_2" id="label_PQ_BD5826_1322_1_2">(C) 리퍼블릭</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1322_1" value="4" class="AB-radio" id="PQ_BD5826_1322_1_3"><label for="PQ_BD5826_1322_1_3" id="label_PQ_BD5826_1322_1_3">(D) 리퍼브</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘겨울방학 알바 채용관’ 오픈, 알바 5000건 한 눈에...자영업자 구인난 해소 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
