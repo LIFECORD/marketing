@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 05:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 06:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타버스 전시회 개최 국내외 158개사 참여]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7881</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7881</guid>
+            <pubDate>Thu, 16 Dec 2021 06:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 인터넷, 모바일의 뒤를 잇는 차세대 플랫폼 메타버스를 직접 체험할 수 있는 `코리아 메타버스 페스티벌 2021`(KMF 2021)을 16일부터 사흘간 서울 삼성동 코엑스에서 `메타버스, XR로 로그인!`이라는 주제로 개 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8f0c0f99548e493334f66aad0f498ebf_49471_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021년 전체 신규 설치 건수 1위 앱은 질병관리청 COOV]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7880</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7853</guid>
             <pubDate>Mon, 13 Dec 2021 10:32:00 GMT</pubDate>
             <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코, 사장 이백만)는 12월 9일 한국프레스센터 대회의실에서 방송통신위원회(위원장 한상혁), 중소벤처기업부(장관 권칠승),한국벤처투자(KVIC, 대표 이영민)와 우수 중소벤처기업의 판로 지원과  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[한국광고학회, ACE Talk 일곱 번째 시리즈 : 에델만코리아 장성빈 대표 대담 개최]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7852</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7852</guid>
-            <pubDate>Mon, 13 Dec 2021 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국광고학회(회장 안대천, 인하대학교 교수)는2021년마지막이자 일곱 번째 ACE TalkACE를12월 16일(목) 오후 2시에 진행한다. 이번에는 에델만코리아의 장성빈 대표가 함께 한다. 동국대 유창조 교수의 사회로 진행되는 이번 대담에 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
