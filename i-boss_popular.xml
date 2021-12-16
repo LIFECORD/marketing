@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-15T23:18:37.682Z</updated>
+    <updated>2021-12-16T00:56:10.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[효율보고서 쓰세요, 특히 인하우스 마케터분들]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56647</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56647"/>
-        <updated>2021-11-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[우뇌]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[내 머릿속에 저-장☆, 7년차 마자이너가 알려주는 매..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56693</id>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-37862"/>
         <updated>2021-11-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[구루나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너무 힘들어요ㅠㅠ마케팅만 잘하면 다 성공하는 걸..]]></title>
+        <id>https://www.i-boss.co.kr/ab-2110-13831</id>
+        <link href="https://www.i-boss.co.kr/ab-2110-13831"/>
+        <updated>2021-11-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[노예탈출]]></content>
     </entry>
 </feed>

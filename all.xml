@@ -4,16 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 23:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 00:56:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[효율보고서 쓰세요, 특히 인하우스 마케터분들 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56647</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56647</guid>
-            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[우뇌]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[내 머릿속에 저-장☆, 7년차 마자이너가 알려주는 매.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56693</link>
@@ -216,6 +209,45 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-37862</guid>
             <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[구루나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[너무 힘들어요ㅠㅠ마케팅만 잘하면 다 성공하는 걸.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2110-13831</link>
+            <guid>https://www.i-boss.co.kr/ab-2110-13831</guid>
+            <pubDate>Sat, 20 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[노예탈출]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021년 전체 신규 설치 건수 1위 앱은 질병관리청 COOV (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7880</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7880</guid>
+            <pubDate>Thu, 16 Dec 2021 09:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최대 모바일 빅데이터 플랫폼 기업 아이지에이웍스가모바일인덱스 보고서를 발표했다. 모바일인덱스에 따르면,2021년 가장 많은 신규 설치 건수를 기록한 앱은COOV(16,792,224건) 로 확인됐으며,당근마켓(12,274,185건),쿠팡이츠(1 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2021년 인스타그램 스토리 퍼포먼스는 어땠을까 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7879</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7879</guid>
+            <pubDate>Thu, 16 Dec 2021 08:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[인스타그램 스토리는 인스타그램에서 가장 전환율이 가장 높은 광고 형식이다. 따라서 점점 더 많은 브랜드가 인스타그램 스토리 제작 과정에서 보다 적극적이고 창의적이 되기 시작했다. 오가닉인스타그램 스토리의 경우 이  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[한국갤럽] 2021년 올해를 빛낸 영화배우, 이정재 1위... 윤여정, 마동석, 송강호, 이병헌 2~5위 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7878</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7878</guid>
+            <pubDate>Thu, 16 Dec 2021 08:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[이정재 는 올해 하반기 넷플릭스 웹드라마 오징어 게임 주인공 기훈 역으로 명실상부한 글로벌 스타 반열에 올랐다. 신세계 관상에 출연한 2013년 올해의 영화배우 6위를 기록했고, 그 밖에 암살(2015), 인천상륙작전(2016), 다만 악 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[트렌드모니터] 오래 참았던 자유로운 여행 욕구, 위드코로나 시대 맞아 다시 꿈틀대는 모습... 여행형태가 이전과는 달라지게 될 것 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7877</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7877</guid>
+            <pubDate>Thu, 16 Dec 2021 08:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[계속되는 코로나의 위협에도 여행을 선호하는 태도만큼은 여전히 강해, 전체 76.8% 1박 이상의 여행을 선호한다  10명 중 9명 여행이 일상생활을 견디는데 도움이 되는 편이다, 60.8% 여행이 없는 삶은 상상할 수 없어  자유로운 여 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[네이버 케어 띄우고 원격의료 시장 참전 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -426,49 +458,45 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 2021년 세계 최대 스타트업은 어디? (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7851</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7851</guid>
-            <pubDate>Mon, 13 Dec 2021 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[많은 사람들이 대박을 꿈꾸며 창업에 나선다. 그런데 성공하는 사람들은 일부다. 기업가치가 10억 달러 이상인 스타트업기업인 소위 `유니콘` 기업을 만드는 사람은 극히 일부다. 전 세계적으로 유니콘 스타트업이 800개가 넘는 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[2021년 전체 신규 설치 건수 1위 앱은 질병관리청 ‘COOV’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7880</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7880</guid>
+            <pubDate>Thu, 16 Dec 2021 00:55:43 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[Account Action] 2021년 막바지 피치를 가하고 있는 경쟁 PT 시장 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7850</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7850</guid>
-            <pubDate>Mon, 13 Dec 2021 08:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[4분기의 경쟁 PT는 항상 그래왔듯이 분위기가 고조되고 있다. 4분기 경쟁 PT 시장은 10월에 이어 11월도 다소 늘어나며 활발한 모습을 되찾고 있다. 예년처럼 신규 광고주 영입이나 기존 광고주 수성을 위한 경쟁 PT 내지는 Annual PT  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[2021년 인스타그램 스토리 퍼포먼스는 어땠을까 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7879</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7879</guid>
+            <pubDate>Thu, 16 Dec 2021 00:55:43 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[12월 13일 마케팅 뉴스클리핑] 인스타그램 최신순 피드만 제공한다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7847</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7847</guid>
-            <pubDate>Mon, 13 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 인스타그램, 알고리즘 폐지... 최신순 피드만 제공  인스타그램이 내년부터 알고리즘에 기반한 콘텐츠 노출을 포기한다. 대신 콘텐츠를 생산한 시간 순서대로 배열할 계획이다. 인스타그램 아담 모세리 CEO는 몇 달 동안 시간  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16393061234659.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[한국갤럽] 2021년 올해를 빛낸 영화배우, 이정재 1위... 윤여정, 마동석, 송강호, 이병헌 2~5위 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7878</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7878</guid>
+            <pubDate>Thu, 16 Dec 2021 00:55:43 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[홈페이지 기록 남기는 로그4j2서 취약점 발견과기정통부 긴급 보안패치 권고 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7849</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7849</guid>
-            <pubDate>Sun, 12 Dec 2021 11:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[많은 기업들이 홈페이지를 운영하며 사용하는 아파치(Apache) 로그(Log)4j 2 서비스와 관련된 보안 취약점이 발견된 가운데 정부가 긴급 보안패치를 할 것을 권고했다.  과학기술정보통신부(이하 과기정통부)는 12일 아파치 로그4j 2  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[트렌드모니터] 오래 참았던 자유로운 '여행' 욕구, '위드코로나' 시대 맞아 다시 꿈틀대는 모습... '여행형태'가 이전과는 달라지게 될 것 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7877</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7877</guid>
+            <pubDate>Thu, 16 Dec 2021 00:55:43 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['네이버 케어' 띄우고 원격의료 시장 참전 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7876</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7876</guid>
-            <pubDate>Wed, 15 Dec 2021 23:18:13 GMT</pubDate>
+            <pubDate>Thu, 16 Dec 2021 08:16:00 GMT</pubDate>
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[12월 16일 마케팅 뉴스클리핑] 카톡에서 NFT 사고 판다... '클립 드롭스' 정식 버전 출시 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7875</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7875</guid>
-            <pubDate>Wed, 15 Dec 2021 23:18:13 GMT</pubDate>
+            <pubDate>Thu, 16 Dec 2021 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -640,40 +668,12 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 2021년 세계 최대 스타트업은 어디? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7851</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7851</guid>
-            <pubDate>Mon, 13 Dec 2021 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[Account Action] 2021년 막바지 피치를 가하고 있는 경쟁 PT 시장 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7850</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7850</guid>
-            <pubDate>Mon, 13 Dec 2021 08:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[12월 13일 마케팅 뉴스클리핑] 인스타그램 최신순 피드만 제공한다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7847</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7847</guid>
-            <pubDate>Mon, 13 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[홈페이지 기록 남기는 '로그4j2'서 취약점 발견…과기정통부 "긴급 보안패치 권고" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7849</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7849</guid>
-            <pubDate>Sun, 12 Dec 2021 11:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[놀토]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음은 마케팅 용어에 대한 설명입니다. 올바르지 않은 설명을 한 사람은 누구일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 15 Dec 2021 23:18:27 GMT</pubDate>
+            <pubDate>Thu, 16 Dec 2021 00:56:00 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->다음은 마케팅 용어에 대한 설명입니다. 올바르지 않은 설명을 한 사람은 누구일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/8638dd683a6734a9c81b6b7a0d8efed8_16390405676229.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
+				<td><!--1-->다음은 마케팅 용어에 대한 설명입니다. 올바르지 않은 설명을 한 사람은 누구일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/c5d6ae960c3fe4dfc6d7dd0719c06c20_16396159025182.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
 			<tr>
 				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1321_1" value="1" class="AB-radio" id="PQ_BD5826_1321_1_0"><label for="PQ_BD5826_1321_1_0" id="label_PQ_BD5826_1321_1_0">(A) A</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1321_1" value="2" class="AB-radio" id="PQ_BD5826_1321_1_1"><label for="PQ_BD5826_1321_1_1" id="label_PQ_BD5826_1321_1_1">(B) B</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1321_1" value="3" class="AB-radio" id="PQ_BD5826_1321_1_2"><label for="PQ_BD5826_1321_1_2" id="label_PQ_BD5826_1321_1_2">(C) C</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1321_1" value="4" class="AB-radio" id="PQ_BD5826_1321_1_3"><label for="PQ_BD5826_1321_1_3" id="label_PQ_BD5826_1321_1_3">(D) D</label></td></tr></tbody></table></td>
