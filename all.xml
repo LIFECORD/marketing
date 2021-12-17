@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 05:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 06:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,18 +43,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우리가 NFT를 알아야 하는 이유 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37811</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37811</guid>
-            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[헤이데일리]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[상세페이지 제작 접근 방식 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56806</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56806</guid>
             <pubDate>Sun, 12 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우리가 NFT를 알아야 하는 이유 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37811</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37811</guid>
+            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[헤이데일리]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? ) (아이보스 ─ 인기글)]]></title>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56829</guid>
             <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[루비빙]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스마트스토어, 원쁠딜 신규서비스 오픈 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7891</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7891</guid>
+            <pubDate>Fri, 17 Dec 2021 06:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[원쁠딜판 신설 2021년 12월 27일, 네이버앱 왼쪽(WEST)판에 원쁠딜판이 신설됩니다. 원쁠딜판엔 순삭특가, 온리원쁠, 만원쁠딜, 커밍쑨 등 특색있고 이용자가 좋아할만한 카드들이 구성됩니다.  원쁠딜에 판매를 제안할 수 있는 어 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c64c3fbd5bcba073386e7116b2817c9e_16397216693363.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[줌, 마케팅 자동화 플랫폼 줌 파트너 디맨드 센터 오픈 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_7a6de942ffd2a79eec41146ecea2c332_43807_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[AR은 소셜 커머스 경험을 높이는데 도움이 될 수 있다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7861</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7861</guid>
-            <pubDate>Tue, 14 Dec 2021 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[소셜 커머스는 구매 경로를 단축시켜 소비자들이 하나의 앱 안에서 검색에서 결제까지 구매 여정을 이동할 수 있게 했다. 이런 과정에서 지난 홀리데이 시즌에 스냅이AR 홀리데이 마켓 을 오픈하는 등 증강현실(AR)이 소셜 커머 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[스마트스토어, '원쁠딜' 신규서비스 오픈 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7891</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7891</guid>
+            <pubDate>Fri, 17 Dec 2021 06:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[줌, 마케팅 자동화 플랫폼 ‘줌 파트너 디맨드 센터’ 오픈 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[AR은 소셜 커머스 경험을 높이는데 도움이 될 수 있다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7861</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7861</guid>
-            <pubDate>Tue, 14 Dec 2021 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[○○ 상품은 반품이나 환불 후 수리된 상품 혹은 미세한 흠집이 있는 상품을 보수해 새 상품보다 저렴하게 판매하는 상품을 의미합니다. 빈칸에 들어갈 말은 무엇일까요?(hint: 12월 10일 뉴스클리핑에서 정답 들춰보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 17 Dec 2021 05:16:22 GMT</pubDate>
+            <pubDate>Fri, 17 Dec 2021 06:21:27 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->○○ 상품은 반품이나 환불 후 수리된 상품 혹은 미세한 흠집이 있는 상품을 보수해 새 상품보다 저렴하게 판매하는 상품을 의미합니다. 빈칸에 들어갈 말은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7828" target="_blank">12월 10일 뉴스클리핑에서 정답 들춰보기!</a>)</span></td>
 			</tr>

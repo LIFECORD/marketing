@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 05:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 06:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스마트스토어, 원쁠딜 신규서비스 오픈]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7891</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7891</guid>
+            <pubDate>Fri, 17 Dec 2021 06:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[원쁠딜판 신설 2021년 12월 27일, 네이버앱 왼쪽(WEST)판에 원쁠딜판이 신설됩니다. 원쁠딜판엔 순삭특가, 온리원쁠, 만원쁠딜, 커밍쑨 등 특색있고 이용자가 좋아할만한 카드들이 구성됩니다.  원쁠딜에 판매를 제안할 수 있는 어 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c64c3fbd5bcba073386e7116b2817c9e_16397216693363.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[줌, 마케팅 자동화 플랫폼 줌 파트너 디맨드 센터 오픈]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7889</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 14 Dec 2021 09:21:00 GMT</pubDate>
             <content:encoded><![CDATA[가전은 김치냉장고 &gt; 청소기 &gt; 노트북 &gt; 모니터 &gt; 가습기 가공식품은 영양제 &gt; 생수 &gt; 비타민 &gt; 다이어트 식품 &gt; 커피믹스 생활용품은 물티슈/소독티슈 &gt; 두루마리 화장지 &gt; 샴푸 &gt; 세제 &gt; 핸드/바디 로션 화장품은 크림 &gt; 에센스 &gt; 남 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_7a6de942ffd2a79eec41146ecea2c332_43807_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AR은 소셜 커머스 경험을 높이는데 도움이 될 수 있다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7861</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7861</guid>
-            <pubDate>Tue, 14 Dec 2021 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[소셜 커머스는 구매 경로를 단축시켜 소비자들이 하나의 앱 안에서 검색에서 결제까지 구매 여정을 이동할 수 있게 했다. 이런 과정에서 지난 홀리데이 시즌에 스냅이AR 홀리데이 마켓 을 오픈하는 등 증강현실(AR)이 소셜 커머 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
