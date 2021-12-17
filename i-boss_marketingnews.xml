@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 00:58:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 02:08:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[줌, 마케팅 자동화 플랫폼 줌 파트너 디맨드 센터 오픈]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7889</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7889</guid>
+            <pubDate>Fri, 17 Dec 2021 10:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[줌(Zoom Video Communications)이 파트너사 마케팅을 지원하는 줌파트너디맨드센터(Zoom Partner Demand Center) 를 열고 전세계 파트너 지원을 강화한다. 줌 파트너 디맨드 센터는 다양한 마케팅 전략을 지원하는 턴키 플랫폼으로,마케팅 자동 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[디지털 갤러리를 무료로 만드는 방법]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7888</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7861</guid>
             <pubDate>Tue, 14 Dec 2021 08:46:00 GMT</pubDate>
             <content:encoded><![CDATA[소셜 커머스는 구매 경로를 단축시켜 소비자들이 하나의 앱 안에서 검색에서 결제까지 구매 여정을 이동할 수 있게 했다. 이런 과정에서 지난 홀리데이 시즌에 스냅이AR 홀리데이 마켓 을 오픈하는 등 증강현실(AR)이 소셜 커머 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[한국갤럽] 2021년 올해를 빛낸 스포츠선수... 손흥민 5년 연속 1위]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7860</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7860</guid>
-            <pubDate>Tue, 14 Dec 2021 08:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국갤럽이 2021년 11월 5일부터 28일까지 전국(제주 제외) 만 13세 이상 1,700명에게 올 한 해 한국을 가장 빛낸 스포츠선수를 두 명까지 물은 결과(자유응답), 손흥민이 72.8%의 압도적 지지로 5년 연속 1위를 차지했다.]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
