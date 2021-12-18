@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-18T17:24:00.082Z</updated>
+    <updated>2021-12-18T18:21:04.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -139,13 +139,6 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[퇴사 후 귀농 테스트를 만들었는데,, 어디에 홍보를 ..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56727</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56727"/>
-        <updated>2021-11-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그린다이어리]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[인스타그램 2022 트렌드 리포트 한글 번역본입니다^^]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56829</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56829"/>
@@ -153,11 +146,11 @@
         <content type="html"><![CDATA[루비빙]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[잘 파는 회사의 레포트에 들어가는 핵심지표 3가지]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56717</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56717"/>
-        <updated>2021-11-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[준5941]]></content>
+        <title type="html"><![CDATA[퇴사 후 귀농 테스트를 만들었는데,, 어디에 홍보를 ..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56727</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56727"/>
+        <updated>2021-11-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그린다이어리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌]]></title>
@@ -165,6 +158,13 @@
         <link href="https://www.i-boss.co.kr/ab-6141-56816"/>
         <updated>2021-12-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잘 파는 회사의 레포트에 들어가는 핵심지표 3가지]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56717</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56717"/>
+        <updated>2021-11-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[준5941]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마감되쓔] 선착순 10명에게 1209 리터 보내드립니다]]></title>

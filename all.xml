@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 17:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 18:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -141,13 +141,6 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[퇴사 후 귀농 테스트를 만들었는데,, 어디에 홍보를 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56727</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56727</guid>
-            <pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[그린다이어리]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[인스타그램 2022 트렌드 리포트 한글 번역본입니다^^ (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56829</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56829</guid>
@@ -155,11 +148,11 @@
             <content:encoded><![CDATA[루비빙]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[잘 파는 회사의 레포트에 들어가는 핵심지표 3가지 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56717</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56717</guid>
-            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[준5941]]></content:encoded>
+            <title><![CDATA[퇴사 후 귀농 테스트를 만들었는데,, 어디에 홍보를 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56727</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56727</guid>
+            <pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[그린다이어리]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌 (아이보스 ─ 인기글)]]></title>
@@ -167,6 +160,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56816</guid>
             <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잘 파는 회사의 레포트에 들어가는 핵심지표 3가지 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56717</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56717</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마감되쓔] 선착순 10명에게 1209 리터 보내드립니다 (아이보스 ─ 인기글)]]></title>
