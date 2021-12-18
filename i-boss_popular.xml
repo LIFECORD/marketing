@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-18T02:12:00.043Z</updated>
+    <updated>2021-12-18T03:20:27.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -167,6 +167,13 @@
         <content type="html"><![CDATA[준5941]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56816</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56816"/>
+        <updated>2021-12-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[마감되쓔] 선착순 10명에게 1209 리터 보내드립니다]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-37934</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-37934"/>
@@ -179,13 +186,6 @@
         <link href="https://www.i-boss.co.kr/ab-3208-715"/>
         <updated>2021-11-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56816</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56816"/>
-        <updated>2021-12-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[안녕하세요 저는 김치입니다!!]]></title>

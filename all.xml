@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 02:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 03:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,6 +169,13 @@
             <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56816</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56816</guid>
+            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[마감되쓔] 선착순 10명에게 1209 리터 보내드립니다 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37934</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37934</guid>
@@ -181,13 +188,6 @@
             <guid>https://www.i-boss.co.kr/ab-3208-715</guid>
             <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56816</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56816</guid>
-            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[안녕하세요 저는 김치입니다!! (아이보스 ─ 인기글)]]></title>
@@ -671,7 +671,7 @@
             <title><![CDATA[○○ 상품은 반품이나 환불 후 수리된 상품 혹은 미세한 흠집이 있는 상품을 보수해 새 상품보다 저렴하게 판매하는 상품을 의미합니다. 빈칸에 들어갈 말은 무엇일까요?(hint: 12월 10일 뉴스클리핑에서 정답 들춰보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 18 Dec 2021 02:11:50 GMT</pubDate>
+            <pubDate>Sat, 18 Dec 2021 03:20:18 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->○○ 상품은 반품이나 환불 후 수리된 상품 혹은 미세한 흠집이 있는 상품을 보수해 새 상품보다 저렴하게 판매하는 상품을 의미합니다. 빈칸에 들어갈 말은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7828" target="_blank">12월 10일 뉴스클리핑에서 정답 들춰보기!</a>)</span></td>
 			</tr>
