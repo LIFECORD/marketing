@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 17:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 18:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,18 +204,18 @@
             <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[너무 힘들어요ㅠㅠ마케팅만 잘하면 다 성공하는 걸.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2110-13831</link>
-            <guid>https://www.i-boss.co.kr/ab-2110-13831</guid>
-            <pubDate>Sat, 20 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[노예탈출]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[소상공인은 앞으로 경험 마케팅의 시대를 맞이한다. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56782</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56782</guid>
             <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[yoorok]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케터와 MD 업무의 차이 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37802</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37802</guid>
+            <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[lusia]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[11월 미국 광고시장, 9개월 연속 성장...역대 최고 기록 (아이보스 ─ 마케팅 뉴스)]]></title>
