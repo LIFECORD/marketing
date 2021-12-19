@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 01:00:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 02:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -106,13 +106,6 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케팅판을 여행하는 돈없는 마케터를 위한 안내서 2 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56698</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56698</guid>
-            <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[DV360]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[인크로스] 디지털 마케팅 트렌드 2022 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-3208-718</link>
             <guid>https://www.i-boss.co.kr/ab-3208-718</guid>
@@ -190,6 +183,13 @@
             <content:encoded><![CDATA[구루나]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37996</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37996</guid>
+            <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[퍼포먼스 광고 대행사를 고르는 기준 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56768</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56768</guid>
@@ -204,18 +204,18 @@
             <content:encoded><![CDATA[노예탈출]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37996</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37996</guid>
-            <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[놀토]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[상세페이지, 그래서 팔리고 있으신가요? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56834</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56834</guid>
             <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[언카피]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소상공인은 앞으로 경험 마케팅의 시대를 맞이한다. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56782</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56782</guid>
+            <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아디다스, 진짜 상품 주는 NFT 컬렉션 출시하다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -461,28 +461,28 @@
             <title><![CDATA[아디다스, '진짜 상품' 주는 NFT 컬렉션 출시하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7895</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7895</guid>
-            <pubDate>Sun, 19 Dec 2021 01:00:27 GMT</pubDate>
+            <pubDate>Sun, 19 Dec 2021 09:39:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뉴노멀 시대, 2021년 디자인 트렌드 키워드는 ‘오프라인의 부활’과 ‘디자인 리프레쉬’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7894</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7894</guid>
-            <pubDate>Sun, 19 Dec 2021 01:00:27 GMT</pubDate>
+            <pubDate>Sun, 19 Dec 2021 09:38:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 한국 유튜브 8대 트렌드 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7893</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7893</guid>
-            <pubDate>Sun, 19 Dec 2021 01:00:27 GMT</pubDate>
+            <pubDate>Sun, 19 Dec 2021 09:37:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[다시 커지는 ‘코로나’의 위협, 대부분 ‘아쉬움’속에 차분한 ‘연말’ 계획 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7892</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7892</guid>
-            <pubDate>Sun, 19 Dec 2021 01:00:27 GMT</pubDate>
+            <pubDate>Sun, 19 Dec 2021 09:37:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -671,7 +671,7 @@
             <title><![CDATA[○○ 상품은 반품이나 환불 후 수리된 상품 혹은 미세한 흠집이 있는 상품을 보수해 새 상품보다 저렴하게 판매하는 상품을 의미합니다. 빈칸에 들어갈 말은 무엇일까요?(hint: 12월 10일 뉴스클리핑에서 정답 들춰보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 19 Dec 2021 01:00:40 GMT</pubDate>
+            <pubDate>Sun, 19 Dec 2021 02:13:17 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->○○ 상품은 반품이나 환불 후 수리된 상품 혹은 미세한 흠집이 있는 상품을 보수해 새 상품보다 저렴하게 판매하는 상품을 의미합니다. 빈칸에 들어갈 말은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7828" target="_blank">12월 10일 뉴스클리핑에서 정답 들춰보기!</a>)</span></td>
 			</tr>
