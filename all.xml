@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 07:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 08:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -92,18 +92,18 @@
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[출근 전날 연봉 500 깎는 회사 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37910</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37910</guid>
-            <pubDate>Tue, 07 Dec 2021 08:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[메타버스 간접 체험해보실 분 🖐 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56788</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56788</guid>
             <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[출근 전날 연봉 500 깎는 회사 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37910</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37910</guid>
+            <pubDate>Tue, 07 Dec 2021 08:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인크로스] 디지털 마케팅 트렌드 2022 (아이보스 ─ 인기글)]]></title>
@@ -671,7 +671,7 @@
             <title><![CDATA[○○ 상품은 반품이나 환불 후 수리된 상품 혹은 미세한 흠집이 있는 상품을 보수해 새 상품보다 저렴하게 판매하는 상품을 의미합니다. 빈칸에 들어갈 말은 무엇일까요?(hint: 12월 10일 뉴스클리핑에서 정답 들춰보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 19 Dec 2021 07:17:07 GMT</pubDate>
+            <pubDate>Sun, 19 Dec 2021 08:21:04 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->○○ 상품은 반품이나 환불 후 수리된 상품 혹은 미세한 흠집이 있는 상품을 보수해 새 상품보다 저렴하게 판매하는 상품을 의미합니다. 빈칸에 들어갈 말은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7828" target="_blank">12월 10일 뉴스클리핑에서 정답 들춰보기!</a>)</span></td>
 			</tr>
