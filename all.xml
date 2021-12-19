@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 02:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 03:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56782</guid>
             <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[yoorok]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[11월 미국 광고시장, 9개월 연속 성장...역대 최고 기록 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7896</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7896</guid>
+            <pubDate>Sun, 19 Dec 2021 00:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[11월 미국 광고시장이 9개월 연속 성장했다고 미디어포스트가 보도했다.미디어포스트와 스탠다드 미디어 인덱스가 미국 광고시장의 대부분을 대표하는 주요 광고회사가 실제 광고비에서 도출한 미국 애드 마켓 트래커에 따르 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[아디다스, 진짜 상품 주는 NFT 컬렉션 출시하다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[빈박스 보내고 가짜후기로 마케팅 쇼핑몰, 광고대행사 첫 제재 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7866</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7866</guid>
-            <pubDate>Tue, 14 Dec 2021 09:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[아르바이트생에게 상품을 넣지 않은 빈 상자를 택배로 보내 후기작성 권한을 얻도록 하고 실구매자인 것처럼 네이버나 쿠팡, 자사몰에 `가짜 후기`를 올리게 한 쇼핑몰 업체와 광고대행사가 공정거래위원회 제재를 받게 됐다.   ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[11월 미국 광고시장, 9개월 연속 성장...역대 최고 기록 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7896</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7896</guid>
+            <pubDate>Sun, 19 Dec 2021 03:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아디다스, '진짜 상품' 주는 NFT 컬렉션 출시하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빈박스 보내고 '가짜후기'로 마케팅 쇼핑몰, 광고대행사 첫 제재 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7866</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7866</guid>
-            <pubDate>Tue, 14 Dec 2021 09:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[유리나]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[○○ 상품은 반품이나 환불 후 수리된 상품 혹은 미세한 흠집이 있는 상품을 보수해 새 상품보다 저렴하게 판매하는 상품을 의미합니다. 빈칸에 들어갈 말은 무엇일까요?(hint: 12월 10일 뉴스클리핑에서 정답 들춰보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 19 Dec 2021 02:13:17 GMT</pubDate>
+            <pubDate>Sun, 19 Dec 2021 03:18:38 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->○○ 상품은 반품이나 환불 후 수리된 상품 혹은 미세한 흠집이 있는 상품을 보수해 새 상품보다 저렴하게 판매하는 상품을 의미합니다. 빈칸에 들어갈 말은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7828" target="_blank">12월 10일 뉴스클리핑에서 정답 들춰보기!</a>)</span></td>
 			</tr>

@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 02:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 03:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[11월 미국 광고시장, 9개월 연속 성장...역대 최고 기록]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7896</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7896</guid>
+            <pubDate>Sun, 19 Dec 2021 00:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[11월 미국 광고시장이 9개월 연속 성장했다고 미디어포스트가 보도했다.미디어포스트와 스탠다드 미디어 인덱스가 미국 광고시장의 대부분을 대표하는 주요 광고회사가 실제 광고비에서 도출한 미국 애드 마켓 트래커에 따르 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[아디다스, 진짜 상품 주는 NFT 컬렉션 출시하다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7895</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7868</guid>
             <pubDate>Tue, 14 Dec 2021 10:19:18 GMT</pubDate>
             <content:encoded><![CDATA[마케팅의 아버지 필립 코틀러가 부산국제광고제 특별 강연을 통해 코로나 팬데믹 시대의 새로운 마케팅 전략을 제시한다. 그는 이번 강연을 통해우리가 처음 마주한 세계(Understanding the Current Market) 미래의 마케팅을 위한 새로운 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[빈박스 보내고 가짜후기로 마케팅 쇼핑몰, 광고대행사 첫 제재]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7866</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7866</guid>
-            <pubDate>Tue, 14 Dec 2021 09:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[아르바이트생에게 상품을 넣지 않은 빈 상자를 택배로 보내 후기작성 권한을 얻도록 하고 실구매자인 것처럼 네이버나 쿠팡, 자사몰에 `가짜 후기`를 올리게 한 쇼핑몰 업체와 광고대행사가 공정거래위원회 제재를 받게 됐다.   ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
