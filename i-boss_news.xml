@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2021-12-18T23:17:52.148Z</updated>
+    <updated>2021-12-19T01:00:50.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아디다스, '진짜 상품' 주는 NFT 컬렉션 출시하다]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7895</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7895"/>
+        <updated>2021-12-19T01:00:27.205Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴노멀 시대, 2021년 디자인 트렌드 키워드는 ‘오프라인의 부활’과 ‘디자인 리프레쉬’]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7894</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7894"/>
+        <updated>2021-12-19T01:00:27.208Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 한국 유튜브 8대 트렌드]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7893</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7893"/>
+        <updated>2021-12-19T01:00:27.212Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다시 커지는 ‘코로나’의 위협, 대부분 ‘아쉬움’속에 차분한 ‘연말’ 계획]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7892</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7892"/>
+        <updated>2021-12-19T01:00:27.213Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스마트스토어, '원쁠딜' 신규서비스 오픈]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7891</id>
@@ -186,33 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-7866"/>
         <updated>2021-12-14T09:17:54.319Z</updated>
         <content type="html"><![CDATA[유리나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어도비, 일반인 겨냥한 이미지 편집도구 새로 출시]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7865</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7865"/>
-        <updated>2021-12-14T03:17:34.498Z</updated>
-        <content type="html"><![CDATA[유리나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인스타그램, '릴스 비주얼 답장' 기능 출시]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7864</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7864"/>
-        <updated>2021-12-14T03:17:34.500Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국PR협회, ‘2021년 올해의 핫 이슈 톱 7’ 발표... 비대면, 공정, OTT, ESG, 진실과팩트, 소통, DT]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7863</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7863"/>
-        <updated>2021-12-14T02:09:12.888Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국인이 온라인에서 가장 많이 구매하는 제품은 영양제, 김치냉장고, 청소기, 생수, 노트북]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7862</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7862"/>
-        <updated>2021-12-14T00:59:35.164Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
 </feed>

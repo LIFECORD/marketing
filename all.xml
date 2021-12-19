@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 23:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 01:00:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,11 +211,43 @@
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[소상공인은 앞으로 경험 마케팅의 시대를 맞이한다. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56782</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56782</guid>
-            <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[yoorok]]></content:encoded>
+            <title><![CDATA[상세페이지, 그래서 팔리고 있으신가요? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56834</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56834</guid>
+            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[언카피]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아디다스, 진짜 상품 주는 NFT 컬렉션 출시하다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7895</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7895</guid>
+            <pubDate>Sun, 19 Dec 2021 09:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[아디다스가 NFT 시장에 본격적으로 진출한다. 아디다스는 NFT 리더인 지루한 원숭이들의 요트 클럽(Bored Ape Yacht Club, BAYC), NFT 인플루언서이자 수집가인 지머니(Gmoney), 크립토펑크에서 영감을 얻은 비공식 이더리움 NFT 프로젝트 펑 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴노멀 시대, 2021년 디자인 트렌드 키워드는 오프라인의 부활과 디자인 리프레쉬 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7894</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7894</guid>
+            <pubDate>Sun, 19 Dec 2021 09:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[디자인 콘테스트 플랫폼 라우드소싱을 운영하는 스터닝(대표 김승환)이 2021 업종별 상업디자인 트렌드 리포트를 발표하며 키워드를 선정했다.선정된 키워드는오프라인의 부활 과디자인 리프레쉬(REFRESH) 다. 라우드소싱은 국내  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 한국 유튜브 8대 트렌드 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7893</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7893</guid>
+            <pubDate>Sun, 19 Dec 2021 09:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[한 해 동안 국내 유튜브 사용자들에게 가장 많은 사랑을 받았던 동영상과 크리에이터 리스트가 발표됐다. 국내 조회수를 기준으로 산정된최고 인기 동영상과최고 인기 뮤직비디오, 그리고 국내 구독자 수 변동을 기준으로 산정 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 커지는 코로나의 위협, 대부분 아쉬움속에 차분한 연말 계획 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7892</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7892</guid>
+            <pubDate>Sun, 19 Dec 2021 09:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[시장조사전문기업 엠브레인 트렌드모니터가 전국 만 19세~59세 직장인 남녀 1,000명을 대상으로 연말 분위기 및 연말 계획과 관련한 인식 조사를 실시한 결과, 다시 커져가는 코로나의 심각성으로 올해에도 대부분의 직장인들은  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[스마트스토어, 원쁠딜 신규서비스 오픈 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -426,36 +458,32 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[어도비, 일반인 겨냥한 이미지 편집도구 새로 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7865</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7865</guid>
-            <pubDate>Tue, 14 Dec 2021 11:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[이미지 편집도구인 `포토샵`으로 유명한 미국 소프트웨어 업체 어도비가 13일 일반인을 겨냥해 포토샵의 보급형 제품을 출시했다.  크리에이티브 클라우드 익스프레스는 다양한 폰트와 인공지능을 이용한 이미지 효과를 제공해 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[아디다스, '진짜 상품' 주는 NFT 컬렉션 출시하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7895</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7895</guid>
+            <pubDate>Sun, 19 Dec 2021 01:00:27 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인스타그램, 릴스 비주얼 답장 기능 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7864</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7864</guid>
-            <pubDate>Tue, 14 Dec 2021 11:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[다른 이용자 댓글, 숏폼 콘텐츠 릴스로 제작해 답장할 수 있어    미국 IT매체 테크크런치는 13일(현지시간) 인스타그램이 릴스로 댓글 답장을 할 수 있는  `릴스 비주얼 답장(Reels Visual Replies)` 기능을 출시했다고 밝혔다.  이용자 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16394484945205.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뉴노멀 시대, 2021년 디자인 트렌드 키워드는 ‘오프라인의 부활’과 ‘디자인 리프레쉬’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7894</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7894</guid>
+            <pubDate>Sun, 19 Dec 2021 01:00:27 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국PR협회, 2021년 올해의 핫 이슈 톱 7 발표... 비대면, 공정, OTT, ESG, 진실과팩트, 소통, DT (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7863</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7863</guid>
-            <pubDate>Tue, 14 Dec 2021 10:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국PR협회(회장 김주호)는12월13일 PR피플 토크(People Talk) 행사를 갖고2021년 올해의 핫 이슈 톱7을 발표했다. 올해의 이슈 키워드1위에는 비대면이55.1%의 압도적인 응답으로 올랐으며,이는 코로나19상황에서 비접촉,온라인 언택트  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[2021 한국 유튜브 8대 트렌드 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7893</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7893</guid>
+            <pubDate>Sun, 19 Dec 2021 01:00:27 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국인이 온라인에서 가장 많이 구매하는 제품은 영양제, 김치냉장고, 청소기, 생수, 노트북 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7862</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7862</guid>
-            <pubDate>Tue, 14 Dec 2021 09:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[가전은 김치냉장고 &gt; 청소기 &gt; 노트북 &gt; 모니터 &gt; 가습기 가공식품은 영양제 &gt; 생수 &gt; 비타민 &gt; 다이어트 식품 &gt; 커피믹스 생활용품은 물티슈/소독티슈 &gt; 두루마리 화장지 &gt; 샴푸 &gt; 세제 &gt; 핸드/바디 로션 화장품은 크림 &gt; 에센스 &gt; 남 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_7a6de942ffd2a79eec41146ecea2c332_43807_1.png" length="0" type="image/png"/>
+            <title><![CDATA[다시 커지는 ‘코로나’의 위협, 대부분 ‘아쉬움’속에 차분한 ‘연말’ 계획 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7892</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7892</guid>
+            <pubDate>Sun, 19 Dec 2021 01:00:27 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스마트스토어, '원쁠딜' 신규서비스 오픈 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -640,38 +668,10 @@
             <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[어도비, 일반인 겨냥한 이미지 편집도구 새로 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7865</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7865</guid>
-            <pubDate>Tue, 14 Dec 2021 11:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[유리나]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인스타그램, '릴스 비주얼 답장' 기능 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7864</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7864</guid>
-            <pubDate>Tue, 14 Dec 2021 11:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국PR협회, ‘2021년 올해의 핫 이슈 톱 7’ 발표... 비대면, 공정, OTT, ESG, 진실과팩트, 소통, DT (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7863</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7863</guid>
-            <pubDate>Tue, 14 Dec 2021 10:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국인이 온라인에서 가장 많이 구매하는 제품은 영양제, 김치냉장고, 청소기, 생수, 노트북 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7862</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7862</guid>
-            <pubDate>Tue, 14 Dec 2021 09:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[○○ 상품은 반품이나 환불 후 수리된 상품 혹은 미세한 흠집이 있는 상품을 보수해 새 상품보다 저렴하게 판매하는 상품을 의미합니다. 빈칸에 들어갈 말은 무엇일까요?(hint: 12월 10일 뉴스클리핑에서 정답 들춰보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 18 Dec 2021 23:17:42 GMT</pubDate>
+            <pubDate>Sun, 19 Dec 2021 01:00:40 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->○○ 상품은 반품이나 환불 후 수리된 상품 혹은 미세한 흠집이 있는 상품을 보수해 새 상품보다 저렴하게 판매하는 상품을 의미합니다. 빈칸에 들어갈 말은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7828" target="_blank">12월 10일 뉴스클리핑에서 정답 들춰보기!</a>)</span></td>
 			</tr>

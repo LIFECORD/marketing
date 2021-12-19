@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-18T23:17:52.144Z</updated>
+    <updated>2021-12-19T01:00:50.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -209,10 +209,10 @@
         <content type="html"><![CDATA[놀토]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소상공인은 앞으로 경험 마케팅의 시대를 맞이한다.]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56782</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56782"/>
-        <updated>2021-12-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[yoorok]]></content>
+        <title type="html"><![CDATA[상세페이지, 그래서 팔리고 있으신가요?]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56834</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56834"/>
+        <updated>2021-12-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[언카피]]></content>
     </entry>
 </feed>
