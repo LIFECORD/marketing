@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 04:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 05:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틱톡, 배달 음식점 틱톡 키친 미국서 연다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7899</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7899</guid>
+            <pubDate>Mon, 20 Dec 2021 05:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[숏폼 동영상 플랫폼 틱톡이 미국에서 배달 전용 음식점 `틱톡 키친(TikTok Kitchen)`을 연다.  이를 위해 틱톡은 배달 음식 솔루션 업체 `버추얼다이닝콘셉트(Virtual Dining Concepts)`와 손을 잡았다. 틱톡은 우선 300개 매장을 열고, 내년까 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오, 광고 협업 KPP 선정사 20개로 늘려]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7898</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7898</guid>
+            <pubDate>Mon, 20 Dec 2021 05:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[카카오는 광고 플랫폼 카카오모먼트 공식 대행사와 상생 목적으로 운영 중인 KPP(카카오 프리미엄 파트너) 프로그램의 2022년 파트너사를 선정했다고 20일 밝혔다.  KPP 프로그램은 매년 공식 대행사의 신청서를 접수 받아 카카오 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡 마켓플레이스, 신규 판매자 스튜디오 무료 대여]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7897</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7871</guid>
             <pubDate>Wed, 15 Dec 2021 10:52:00 GMT</pubDate>
             <content:encoded><![CDATA[대세로 떠오른90년대생 작가들2030독자층 탄탄한 지지 기반  20대 후반부터30대 초반의 이른바90년대생 작가들이 서점가 트렌드 한 축을 이루며 새로운 물결을 만들고 있다.세상을 향한 타오르는 눈빛과 중장년층 못잖은 삶의 통 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[얼마나 맞췄을까?]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7870</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7870</guid>
-            <pubDate>Wed, 15 Dec 2021 08:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[매년 이 맘때면 다음 해 전망과 관련된 다양한 서적과 아티클들이 쏟아진다. 그런데 그 중에 얼마나 맞았는지에 대해서는 이야기가 거의 없다. 사실 매우 궁금하다. 작년 말 비주얼 캐피털리스트는200개 이상의 보고서, 기사, 팟 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[한국갤럽] 2021년 올해를 빛낸 탤런트, 갯마을 차차차 김선호 1위]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7869</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7869</guid>
-            <pubDate>Wed, 15 Dec 2021 08:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국갤럽이 2021년 11월 5일부터 28일까지 전국(제주 제외) 만 13세 이상 1,700명에게 올 한 해 가장 활약한 탤런트를 두 명까지 물은 결과(자유응답), tvN 주말 드라마 갯마을 차차차의 주연 김선호와 신민아가 각각 7.8%, 7.3%의 지지를  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

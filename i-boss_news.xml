@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2021-12-20T04:23:45.755Z</updated>
+    <updated>2021-12-20T05:18:39.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[틱톡, 배달 음식점 '틱톡 키친' 미국서 연다]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7899</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7899"/>
+        <updated>2021-12-20T05:18:16.580Z</updated>
+        <content type="html"><![CDATA[유리나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오, 광고 협업 KPP 선정사 20개로 늘려]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7898</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7898"/>
+        <updated>2021-12-20T05:18:16.596Z</updated>
+        <content type="html"><![CDATA[유리나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쿠팡 마켓플레이스, 신규 판매자 스튜디오 무료 대여]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7897</id>
@@ -199,20 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-7871</id>
         <link href="https://www.i-boss.co.kr/ab-2877-7871"/>
         <updated>2021-12-15T02:03:02.398Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼마나 맞췄을까?]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7870</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7870"/>
-        <updated>2021-12-15T00:55:39.716Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한국갤럽] 2021년 올해를 빛낸 탤런트, '갯마을 차차차' 김선호 1위]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7869</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7869"/>
-        <updated>2021-12-15T00:55:39.717Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
