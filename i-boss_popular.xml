@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-20T08:22:46.684Z</updated>
+    <updated>2021-12-20T09:19:09.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -160,6 +160,13 @@
         <content type="html"><![CDATA[준5941]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56841</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56841"/>
+        <updated>2021-12-20T06:21:15.262Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[상세페이지, 그래서 팔리고 있으신가요?]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56834</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56834"/>
@@ -179,13 +186,6 @@
         <link href="https://www.i-boss.co.kr/ab-3208-715"/>
         <updated>2021-11-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56841</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56841"/>
-        <updated>2021-12-20T06:21:15.262Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리..]]></title>

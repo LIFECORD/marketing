@@ -4,17 +4,9 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 08:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 09:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[마케터들이 좋아할만한 행사가 열리네염]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7901</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7901</guid>
-            <pubDate>Mon, 20 Dec 2021 08:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[서울디자인페스티벌 2021이 코엑스에서 열린다고 하네용 22일 ~ 26일 코엑스  https://seoul.designfestival.co.kr/   입장료 만원에 전시회급의 꿀관람하고 잇템도 확보할 좋은 행사 같아 보이네요(저와 무관한 행사... 이지만 전 구경 다녀 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[카카오메이커스, 누적거래액 5000억 돌파]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7900</link>
@@ -246,6 +238,14 @@
             <pubDate>Wed, 15 Dec 2021 00:56:00 GMT</pubDate>
             <content:encoded><![CDATA[누구나 방송할 수 있는 `오픈형` 라이브 방송 지원     코리아센터가 운영하는 메이크샵에서 라이브방송 `날방TV`를 시작한다고 15일 밝혔다.   날방TV는 플랫폼은 1인 창업자부터 인플루언서, 소상공인, 중소기업, 대기업까지 누구 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16395405238709.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버 뉴스, PC 홈 화면 개편... 모바일과 동일하게]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7872</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7872</guid>
+            <pubDate>Wed, 15 Dec 2021 10:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[PC에서도 언론사 구독 뉴스, 언론사 홈, 언론사별 기사 본문 등 서비스   네이버가 PC 뉴스 홈 화면을 개편했다. 모바일 환경에 먼저 적용됐던 구독 기반 언론사별 뉴스 서비스를 네이버 PC 뉴스 홈에도 도입했다.  이번 개편을 통 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16395333241218.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
