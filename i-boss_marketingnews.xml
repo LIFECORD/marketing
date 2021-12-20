@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 22:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 23:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12월 21일 마케팅 뉴스클리핑] 카카오, 광고 협업 KPP 선정사 20개로 늘려 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7902</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7902</guid>
+            <pubDate>Tue, 21 Dec 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 카카오, 광고 협업 KPP 선정사 20개로 늘려  카카오는 `KPP(카카오 프리미엄 파트너) 프로그램`의 2022년 파트너사를 선정했다고 밝혔다. 카카오모먼트를 운영하는 공식 대행사를 대상으로 프리미엄 파트너를 선정해 지원하는 제 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_fefb3e9f475cbdc01a6be53eaf71476f_73353_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오메이커스, 누적거래액 5000억 돌파]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7900</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Dec 2021 00:56:00 GMT</pubDate>
             <content:encoded><![CDATA[누구나 방송할 수 있는 `오픈형` 라이브 방송 지원     코리아센터가 운영하는 메이크샵에서 라이브방송 `날방TV`를 시작한다고 15일 밝혔다.   날방TV는 플랫폼은 1인 창업자부터 인플루언서, 소상공인, 중소기업, 대기업까지 누구 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16395405238709.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 뉴스, PC 홈 화면 개편... 모바일과 동일하게]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7872</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7872</guid>
-            <pubDate>Wed, 15 Dec 2021 10:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[PC에서도 언론사 구독 뉴스, 언론사 홈, 언론사별 기사 본문 등 서비스   네이버가 PC 뉴스 홈 화면을 개편했다. 모바일 환경에 먼저 적용됐던 구독 기반 언론사별 뉴스 서비스를 네이버 PC 뉴스 홈에도 도입했다.  이번 개편을 통 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16395333241218.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
