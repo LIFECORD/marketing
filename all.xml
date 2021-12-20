@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 13:26:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 16:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -666,19 +666,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7872</guid>
             <pubDate>Wed, 15 Dec 2021 10:55:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다음 이미지에서 괄호 안에 들어갈 트렌드 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 20 Dec 2021 13:26:20 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->다음 이미지에서 괄호 안에 들어갈 트렌드 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/b2b7fb54f68ee38cc48fbe43c769bf53_16397078099545.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1323_1" value="1" class="AB-radio" id="PQ_BD5826_1323_1_0"><label for="PQ_BD5826_1323_1_0" id="label_PQ_BD5826_1323_1_0">(A) 슬리포노믹스</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1323_1" value="2" class="AB-radio" id="PQ_BD5826_1323_1_1"><label for="PQ_BD5826_1323_1_1" id="label_PQ_BD5826_1323_1_1">(B) 슬립비즈니스</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1323_1" value="3" class="AB-radio" id="PQ_BD5826_1323_1_2"><label for="PQ_BD5826_1323_1_2" id="label_PQ_BD5826_1323_1_2">(C) 슬리피먼트</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1323_1" value="4" class="AB-radio" id="PQ_BD5826_1323_1_3"><label for="PQ_BD5826_1323_1_3" id="label_PQ_BD5826_1323_1_3">(D) 슬립인더스트리</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소공연, 영세 소상공인 900개 사업장에 50만원 회복자금 지원 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
