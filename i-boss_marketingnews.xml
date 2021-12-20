@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 00:58:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 02:10:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡 마켓플레이스, 신규 판매자 스튜디오 무료 대여]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7897</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7897</guid>
+            <pubDate>Mon, 20 Dec 2021 09:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[내년 1월 말까지 공간 지원 이벤트    쿠팡 마켓플레이스는 내년 1월 말까지 패션 카테고리 신규 판매자를 대상으로 `패션 스튜디오 공간 지원 이벤트`를 진행한다고 20일 밝혔다. 내년 1월 말까지 쿠팡 마켓플레이스에 신규로 가 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16399619783205.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[12월 20일 마케팅 뉴스클리핑] 네이버 쇼핑판 원쁠딜 외]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7890</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Dec 2021 08:52:00 GMT</pubDate>
             <content:encoded><![CDATA[한국갤럽이 2021년 11월 5일부터 28일까지 전국(제주 제외) 만 13세 이상 1,700명에게 올 한 해 가장 활약한 탤런트를 두 명까지 물은 결과(자유응답), tvN 주말 드라마 갯마을 차차차의 주연 김선호와 신민아가 각각 7.8%, 7.3%의 지지를  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[12월 15일 마케팅 뉴스클리핑] 네이버쿠팡도 속았다... 진화한 허위 구매후기 수법 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7867</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7867</guid>
-            <pubDate>Wed, 15 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 네이버쿠팡도 속았다... 진화한 허위 구매후기 수법  아르바이트생을 동원해 직접 물건을 구매하게 한 후 허위 구매후기를 작성토록 한 업체가 적발됐다. 이들은 네이버 등에서 구매후기 작성 권한을 얻기 위해 상품이 없는  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_6e9950ec000568ee0d8875e5470b44f0_3240_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
