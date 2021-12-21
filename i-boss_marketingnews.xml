@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 07:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 09:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스타그램, NFT 진출 가능성 커졌다 CEO 적극 검토 중]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7912</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7912</guid>
+            <pubDate>Tue, 21 Dec 2021 09:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[대표적인 소셜네트워크서비스 인스타그램이 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 사업에 진출할 가능성이 커졌다.  아담 모세리 인스타그램 최고경영자(CEO)는 지난 18일(현지시간) 인스타그램 스토리를 통해 `아직 공식적 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[위메프, 브랜드사에 D2C 플랫폼 무료 개방]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7911</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Dec 2021 07:17:23 GMT</pubDate>
             <content:encoded><![CDATA[쇼핑 라이브에서 시리즈 웹 예능 공개 PPL 피로감 느끼는 소비자들 늘어 콘텐츠 통해 자연스럽게 상품 노출하며 구매 유도     네이버가 콘텐츠 제작사 미스틱스토리와 골프 예능 쌍쌍 인비테이셔널을 공동 기획제작해 16일부터  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16396381048598.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타버스 전시회 개최 국내외 158개사 참여]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7881</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7881</guid>
-            <pubDate>Thu, 16 Dec 2021 06:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부는 인터넷, 모바일의 뒤를 잇는 차세대 플랫폼 메타버스를 직접 체험할 수 있는 `코리아 메타버스 페스티벌 2021`(KMF 2021)을 16일부터 사흘간 서울 삼성동 코엑스에서 `메타버스, XR로 로그인!`이라는 주제로 개 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8f0c0f99548e493334f66aad0f498ebf_49471_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-21T07:17:58.364Z</updated>
+    <updated>2021-12-21T09:18:49.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[상원1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56816</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56816"/>
-        <updated>2021-12-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[상세페이지, 그래서 팔리고 있으신가요?]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56834</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56834"/>
         <updated>2021-12-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[언카피]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56816</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56816"/>
+        <updated>2021-12-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[앞으로 트렌드를 이끌어갈 뉴미디어 콘텐츠는? 🤔]]></title>

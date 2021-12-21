@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 07:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 09:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -127,18 +127,18 @@
             <content:encoded><![CDATA[상원1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56816</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56816</guid>
-            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[상세페이지, 그래서 팔리고 있으신가요? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56834</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56834</guid>
             <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[언카피]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56816</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56816</guid>
+            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[앞으로 트렌드를 이끌어갈 뉴미디어 콘텐츠는? 🤔 (아이보스 ─ 인기글)]]></title>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56782</guid>
             <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[yoorok]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인스타그램, NFT 진출 가능성 커졌다 CEO 적극 검토 중 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7912</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7912</guid>
+            <pubDate>Tue, 21 Dec 2021 09:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[대표적인 소셜네트워크서비스 인스타그램이 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 사업에 진출할 가능성이 커졌다.  아담 모세리 인스타그램 최고경영자(CEO)는 지난 18일(현지시간) 인스타그램 스토리를 통해 `아직 공식적 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[위메프, 브랜드사에 D2C 플랫폼 무료 개방 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16396381048598.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[메타버스 전시회 개최 국내외 158개사 참여 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7881</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7881</guid>
-            <pubDate>Thu, 16 Dec 2021 06:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부는 인터넷, 모바일의 뒤를 잇는 차세대 플랫폼 메타버스를 직접 체험할 수 있는 `코리아 메타버스 페스티벌 2021`(KMF 2021)을 16일부터 사흘간 서울 삼성동 코엑스에서 `메타버스, XR로 로그인!`이라는 주제로 개 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8f0c0f99548e493334f66aad0f498ebf_49471_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[인스타그램, NFT 진출 가능성 커졌다… CEO "적극 검토 중" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7912</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7912</guid>
+            <pubDate>Tue, 21 Dec 2021 09:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[위메프, 브랜드사에 D2C 플랫폼 무료 개방 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['메타버스 전시회' 개최… 국내외 158개사 참여 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7881</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7881</guid>
-            <pubDate>Thu, 16 Dec 2021 06:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[유리나]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[카카오 뷰 서비스에서 수익 창출 프로그램이 신설되었습니다. 다음 중 수익 정산을 신청할 수 있는 조건으로 옳은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 21 Dec 2021 07:17:49 GMT</pubDate>
+            <pubDate>Tue, 21 Dec 2021 09:18:40 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->카카오 뷰 서비스에서 수익 창출 프로그램이 신설되었습니다. 다음 중 수익 정산을 신청할 수 있는 조건으로 옳은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
