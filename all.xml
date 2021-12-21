@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 01:00:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 02:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -57,18 +57,18 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? ) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56721</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56721</guid>
-            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[셀트너]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[카카오가 생각하는 오픈마켓은? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56687</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56687</guid>
             <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? ) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56721</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56721</guid>
+            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[셀트너]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 .. (아이보스 ─ 인기글)]]></title>
@@ -127,6 +127,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56816</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56816</guid>
+            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[상세페이지 기획 어렵네요 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37889</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37889</guid>
@@ -138,13 +145,6 @@
             <link>https://www.i-boss.co.kr/ab-5637-27</link>
             <guid>https://www.i-boss.co.kr/ab-5637-27</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56816</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56816</guid>
-            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56782</guid>
             <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[yoorok]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한국인이 가장 많이 사용하는 쇼핑 앱은? (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7909</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7909</guid>
+            <pubDate>Tue, 21 Dec 2021 10:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 11월에 한국인이 가장 많이 사용한 쇼핑 앱은 쿠팡, 11번가, G마켓, 에이블리, 오늘의집 순 10대와 20대는 전문몰, 40대와 50대 이상은 종합몰 이용이 활발, 모든 세대에 걸쳐 1위는 쿠팡     앱/리테일 분석서비스 와이즈앱리테 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_496c0122e37d800fe69dbd645b1b7683_22428_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[TBWA 시니어랩 자기관리하는 시니어 A세대, 젊은층 못지않게 다양한 브랜드 주목 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,53 +458,52 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[한국갤럽] 2021년 올해를 빛낸 영화배우, 이정재 1위... 윤여정, 마동석, 송강호, 이병헌 2~5위 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7878</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7878</guid>
-            <pubDate>Thu, 16 Dec 2021 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[이정재 는 올해 하반기 넷플릭스 웹드라마 오징어 게임 주인공 기훈 역으로 명실상부한 글로벌 스타 반열에 올랐다. 신세계 관상에 출연한 2013년 올해의 영화배우 6위를 기록했고, 그 밖에 암살(2015), 인천상륙작전(2016), 다만 악 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[한국인이 가장 많이 사용하는 쇼핑 앱은? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7909</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7909</guid>
+            <pubDate>Tue, 21 Dec 2021 02:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[TBWA 시니어랩 “자기관리하는 시니어 ‘A세대’, 젊은층 못지않게 다양한 브랜드 주목” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7908</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7908</guid>
-            <pubDate>Tue, 21 Dec 2021 00:59:41 GMT</pubDate>
+            <pubDate>Tue, 21 Dec 2021 09:40:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오픈서베이, 새 CI와 슬로건 ‘데이터의 새로운 미래’ 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7907</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7907</guid>
-            <pubDate>Tue, 21 Dec 2021 00:59:41 GMT</pubDate>
+            <pubDate>Tue, 21 Dec 2021 09:19:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[ACE Talk] PROMOTION, PROTECTING, EVOLVING, 에델만코리아㈜ 장성빈 대표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7906</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7906</guid>
-            <pubDate>Tue, 21 Dec 2021 00:59:41 GMT</pubDate>
+            <pubDate>Tue, 21 Dec 2021 08:54:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘문화·과학·신뢰’를 통해 성장하는 ‘디지털 광고산업’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7905</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7905</guid>
-            <pubDate>Tue, 21 Dec 2021 00:59:41 GMT</pubDate>
+            <pubDate>Tue, 21 Dec 2021 08:51:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[한국갤럽] 2021년 올해를 빛낸 가수, 방탄소년단과 임영웅... 올해 최고의 가요, Butter와 이제 나만 믿어요 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7904</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7904</guid>
-            <pubDate>Tue, 21 Dec 2021 00:59:41 GMT</pubDate>
+            <pubDate>Tue, 21 Dec 2021 08:49:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나로 막힌 하늘길, 크리에이티브 업계에도 ‘크로스보더’가 뜬다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7903</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7903</guid>
-            <pubDate>Tue, 21 Dec 2021 00:59:41 GMT</pubDate>
+            <pubDate>Tue, 21 Dec 2021 08:48:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[한국갤럽] 2021년 올해를 빛낸 영화배우, 이정재 1위... 윤여정, 마동석, 송강호, 이병헌 2~5위 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7878</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7878</guid>
-            <pubDate>Thu, 16 Dec 2021 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[카카오 뷰 서비스에서 수익 창출 프로그램이 신설되었습니다. 다음 중 수익 정산을 신청할 수 있는 조건으로 옳은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 21 Dec 2021 00:59:55 GMT</pubDate>
+            <pubDate>Tue, 21 Dec 2021 02:13:23 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->카카오 뷰 서비스에서 수익 창출 프로그램이 신설되었습니다. 다음 중 수익 정산을 신청할 수 있는 조건으로 옳은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
