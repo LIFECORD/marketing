@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 13:27:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 15:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,18 +22,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[상세페이지 제작 접근 방식 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56806</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56806</guid>
-            <pubDate>Sun, 12 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[우뇌]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[24시간이모자라 시리즈]  17,280시간동안 쌓은 인사이.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56709</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56709</guid>
             <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[상세페이지 제작 접근 방식 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56806</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56806</guid>
+            <pubDate>Sun, 12 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버의 새로운 검색 '에어서치' 살펴보기 (아이보스 ─ 인기글)]]></title>
@@ -43,18 +43,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우리가 NFT를 알아야 하는 이유 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37811</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37811</guid>
-            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[헤이데일리]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[아이보스 연말 이벤트] 이벤트 참여하고 프레임 받.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-428</link>
             <guid>https://www.i-boss.co.kr/ab-2973-428</guid>
             <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우리가 NFT를 알아야 하는 이유 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37811</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37811</guid>
+            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[헤이데일리]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카카오가 생각하는 오픈마켓은? (아이보스 ─ 인기글)]]></title>
@@ -120,18 +120,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[SW]  상원 최신판 올마식 광고관리 비법 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56735</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56735</guid>
-            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[상원1]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[상세페이지, 그래서 팔리고 있으신가요? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56834</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56834</guid>
             <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[언카피]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[SW]  상원 최신판 올마식 광고관리 비법 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56735</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56735</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[상원1]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌 (아이보스 ─ 인기글)]]></title>
@@ -162,18 +162,18 @@
             <content:encoded><![CDATA[루비빙]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[퇴사 후 귀농 테스트를 만들었는데,, 어디에 홍보를 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56727</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56727</guid>
-            <pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[그린다이어리]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[외워두세요, 7년차 마자이너가 밝히는 상세페이지에 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56844</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56844</guid>
             <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[퇴사 후 귀농 테스트를 만들었는데,, 어디에 홍보를 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56727</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56727</guid>
+            <pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[그린다이어리]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[잘 파는 회사의 레포트에 들어가는 핵심지표 3가지 (아이보스 ─ 인기글)]]></title>
@@ -666,19 +666,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7882</guid>
             <pubDate>Thu, 16 Dec 2021 07:17:23 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카카오 뷰 서비스에서 수익 창출 프로그램이 신설되었습니다. 다음 중 수익 정산을 신청할 수 있는 조건으로 옳은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 21 Dec 2021 13:27:12 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->카카오 뷰 서비스에서 수익 창출 프로그램이 신설되었습니다. 다음 중 수익 정산을 신청할 수 있는 조건으로 옳은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1324_1" value="1" class="AB-radio" id="PQ_BD5826_1324_1_0"><label for="PQ_BD5826_1324_1_0" id="label_PQ_BD5826_1324_1_0">(A) 만 16세 이상</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1324_1" value="2" class="AB-radio" id="PQ_BD5826_1324_1_1"><label for="PQ_BD5826_1324_1_1" id="label_PQ_BD5826_1324_1_1">(B) 카카오톡 채널 친구 수 100명 이상</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1324_1" value="3" class="AB-radio" id="PQ_BD5826_1324_1_2"><label for="PQ_BD5826_1324_1_2" id="label_PQ_BD5826_1324_1_2">(C) 최근 12개월 기준 발행한 보드 수 5개 이상</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1324_1" value="4" class="AB-radio" id="PQ_BD5826_1324_1_3"><label for="PQ_BD5826_1324_1_3" id="label_PQ_BD5826_1324_1_3">(D) 최근 12개월 기준 발행한 보드의 좋아요 수 50개 이상</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소공연, 영세 소상공인 900개 사업장에 50만원 회복자금 지원 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
