@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 22:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 23:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12월 22일 마케팅 뉴스클리핑] 카카오, 돌고래유괴단스튜디오좋 인수 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7913</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7913</guid>
+            <pubDate>Wed, 22 Dec 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 카카오, 돌고래유괴단스튜디오좋 인수  카카오엔터는 `돌고래유괴단`과 `스튜디오좋`의 지분 100%를 인수했다고 밝혔다. 돌고래유괴단과 스튜디오좋은 직접 기획제작한 커머셜 콘텐츠를 통해 단순히 브랜드 마케팅의 목적을  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8f5e51fd38e1b6e527e8fe8f44f85491_88811_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인스타그램, NFT 진출 가능성 커졌다 CEO 적극 검토 중]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7912</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Dec 2021 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 비싸면 좀 어때... 길어지는 집콕에 작은 사치로 기분 풀었다  좀처럼 진정되지 않는 코로나19 확산세에 먹고 마시고 즐기는 행위가 밖이 아닌 집에서 이뤄지게 됐고, 집밥족들과 홈술족들이 급증했다. 이 같은 트렌드에 힘입 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16396514210516.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 쇼핑라이브, 콘텐츠 커머스 확대... 웹예능 쌍쌍 인비테이셔널 공개]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7882</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7882</guid>
-            <pubDate>Thu, 16 Dec 2021 07:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[쇼핑 라이브에서 시리즈 웹 예능 공개 PPL 피로감 느끼는 소비자들 늘어 콘텐츠 통해 자연스럽게 상품 노출하며 구매 유도     네이버가 콘텐츠 제작사 미스틱스토리와 골프 예능 쌍쌍 인비테이셔널을 공동 기획제작해 16일부터  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16396381048598.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
