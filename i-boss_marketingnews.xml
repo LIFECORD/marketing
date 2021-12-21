@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 03:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 04:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위메프, 브랜드사에 D2C 플랫폼 무료 개방]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7911</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7911</guid>
+            <pubDate>Tue, 21 Dec 2021 00:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[입점 절차 없는 무료 서비스...위메프 쇼핑 콘텐츠 강화 목적 브랜드사에 자사몰 관련 데이터 무료 제공    위메프가 내년 1분기에 브랜드사와 이용자를 연결하는 D2C(Direct to Customer) 서비스를 시작한다고 21일 밝혔다.   브랜드 공 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16400571698389.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오엔터, 돌고래유괴단스튜디오좋 인수...창작력 강화]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7910</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Dec 2021 06:20:43 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부는 인터넷, 모바일의 뒤를 잇는 차세대 플랫폼 메타버스를 직접 체험할 수 있는 `코리아 메타버스 페스티벌 2021`(KMF 2021)을 16일부터 사흘간 서울 삼성동 코엑스에서 `메타버스, XR로 로그인!`이라는 주제로 개 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8f0c0f99548e493334f66aad0f498ebf_49471_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 전체 신규 설치 건수 1위 앱은 질병관리청 COOV]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7880</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7880</guid>
-            <pubDate>Thu, 16 Dec 2021 09:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 모바일 빅데이터 플랫폼 기업 아이지에이웍스가모바일인덱스 보고서를 발표했다. 모바일인덱스에 따르면,2021년 가장 많은 신규 설치 건수를 기록한 앱은COOV(16,792,224건) 로 확인됐으며,당근마켓(12,274,185건),쿠팡이츠(1 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

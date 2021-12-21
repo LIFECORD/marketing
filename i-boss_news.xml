@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2021-12-21T03:19:30.930Z</updated>
+    <updated>2021-12-21T04:23:39.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위메프, 브랜드사에 D2C 플랫폼 무료 개방]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7911</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7911"/>
+        <updated>2021-12-21T04:23:19.202Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카카오엔터, 돌고래유괴단·스튜디오좋 인수..."창작력 강화”]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7910</id>
@@ -207,12 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-7881"/>
         <updated>2021-12-16T06:20:57.306Z</updated>
         <content type="html"><![CDATA[유리나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 전체 신규 설치 건수 1위 앱은 질병관리청 ‘COOV’]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7880</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7880"/>
-        <updated>2021-12-16T00:55:43.091Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
