@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-22T09:19:24.148Z</updated>
+    <updated>2021-12-22T11:15:50.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? )]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56721</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56721"/>
+        <updated>2021-11-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[셀트너]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[아이보스 연말 이벤트] 이벤트 참여하고 프레임 받..]]></title>
         <id>https://www.i-boss.co.kr/ab-2973-428</id>
         <link href="https://www.i-boss.co.kr/ab-2973-428"/>
@@ -46,13 +53,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-37811"/>
         <updated>2021-11-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[헤이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? )]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56721</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56721"/>
-        <updated>2021-11-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[셀트너]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 ..]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56816</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56816"/>
-        <updated>2021-12-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[외워두세요, 7년차 마자이너가 밝히는 상세페이지에 ..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56844</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56844"/>
         <updated>2021-12-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[사각사각그림사이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56816</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56816"/>
+        <updated>2021-12-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[SW]  상원 최신판 올마식 광고관리 비법]]></title>

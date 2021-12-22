@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 09:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 11:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? ) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56721</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56721</guid>
+            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[셀트너]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[아이보스 연말 이벤트] 이벤트 참여하고 프레임 받.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-428</link>
             <guid>https://www.i-boss.co.kr/ab-2973-428</guid>
@@ -48,13 +55,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-37811</guid>
             <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[헤이데일리]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? ) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56721</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56721</guid>
-            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[셀트너]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 .. (아이보스 ─ 인기글)]]></title>
@@ -113,18 +113,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56816</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56816</guid>
-            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[외워두세요, 7년차 마자이너가 밝히는 상세페이지에 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56844</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56844</guid>
             <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56816</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56816</guid>
+            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[SW]  상원 최신판 올마식 광고관리 비법 (아이보스 ─ 인기글)]]></title>
@@ -671,7 +671,7 @@
             <title><![CDATA[다음 중 네이버 검색광고 상품이 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 22 Dec 2021 09:19:15 GMT</pubDate>
+            <pubDate>Wed, 22 Dec 2021 11:15:41 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 네이버 검색광고 상품이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
