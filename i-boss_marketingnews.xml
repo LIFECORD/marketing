@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 04:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 06:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배달의민족, 커머스 확장 박차... 배민스토어 시범 운영]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7918</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7918</guid>
+            <pubDate>Wed, 22 Dec 2021 06:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[21일 모바일 앱 개편... 서울 강남 일부 지역서 시범 운영  배달앱 배달의민족 운영사 우아한형제들이 배달음식 주문 외에 화장품, 꽃 등 각종 상품을 사고팔 수 있는 `배민스토어`를 열고 시범 운영에 돌입했다.  우아한형제들은  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[티몬, 인플루언서와 공동기획 브랜드 위드티몬 공개]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7917</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7888</guid>
             <pubDate>Fri, 17 Dec 2021 08:35:00 GMT</pubDate>
             <content:encoded><![CDATA[어도비 라이트룸 사용자는 Galeryst.com에서 3D 가상 온라인 아트 갤러리를 만들어 자신의 예술을 공유할 수 있다. 사진작가들은 무료로 80장의 디지털 갤러리를 만들 수 있다. 갤러리스트는 Lightroom에서 정리되고 큐레이션된 사진이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년, 소셜 커머스에서 가장 인기있는 플랫폼은 무엇일까?]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7887</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7887</guid>
-            <pubDate>Fri, 17 Dec 2021 08:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[소셜 커머스는 2021년 소셜 미디어의 가장 큰 트렌드 중 하나이다. 주요 플랫폼들은 모두 소비자들이 버튼을 클릭하거나 모바일 화면을 탭하는 것만으로구매로 이동할수 있도록 하는 새로운 기능들을 선보이며 커머스를 사업 전 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 04:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 06:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-37802</guid>
             <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[lusia]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[배달의민족, 커머스 확장 박차... 배민스토어 시범 운영 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7918</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7918</guid>
+            <pubDate>Wed, 22 Dec 2021 06:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[21일 모바일 앱 개편... 서울 강남 일부 지역서 시범 운영  배달앱 배달의민족 운영사 우아한형제들이 배달음식 주문 외에 화장품, 꽃 등 각종 상품을 사고팔 수 있는 `배민스토어`를 열고 시범 운영에 돌입했다.  우아한형제들은  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[티몬, 인플루언서와 공동기획 브랜드 위드티몬 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2021년, 소셜 커머스에서 가장 인기있는 플랫폼은 무엇일까? (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7887</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7887</guid>
-            <pubDate>Fri, 17 Dec 2021 08:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[소셜 커머스는 2021년 소셜 미디어의 가장 큰 트렌드 중 하나이다. 주요 플랫폼들은 모두 소비자들이 버튼을 클릭하거나 모바일 화면을 탭하는 것만으로구매로 이동할수 있도록 하는 새로운 기능들을 선보이며 커머스를 사업 전 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[배달의민족, 커머스 확장 박차... '배민스토어' 시범 운영 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7918</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7918</guid>
+            <pubDate>Wed, 22 Dec 2021 06:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[티몬, 인플루언서와 공동기획 브랜드 '위드티몬' 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021년, 소셜 커머스에서 가장 인기있는 플랫폼은 무엇일까? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7887</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7887</guid>
-            <pubDate>Fri, 17 Dec 2021 08:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 네이버 검색광고 상품이 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 22 Dec 2021 04:23:57 GMT</pubDate>
+            <pubDate>Wed, 22 Dec 2021 06:22:12 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 네이버 검색광고 상품이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
