@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 06:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 07:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온라인 맞춤형 광고보험업계 등 개인정보 관리 점검한다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7919</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7919</guid>
+            <pubDate>Wed, 22 Dec 2021 07:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회가 다음달부터 민감정보 활용이 많은 보험업계, 온라인 맞춤형 광고를 대상으로 개인정보 관리 실태점검을 실시합니다.   개인정보위는 `국민 개인정보 안심사회 실현`과 `신뢰 기반의 데이터 경제 활성화`,  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[배달의민족, 커머스 확장 박차... 배민스토어 시범 운영]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7918</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7889</guid>
             <pubDate>Fri, 17 Dec 2021 10:37:00 GMT</pubDate>
             <content:encoded><![CDATA[줌(Zoom Video Communications)이 파트너사 마케팅을 지원하는 줌파트너디맨드센터(Zoom Partner Demand Center) 를 열고 전세계 파트너 지원을 강화한다. 줌 파트너 디맨드 센터는 다양한 마케팅 전략을 지원하는 턴키 플랫폼으로,마케팅 자동 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[디지털 갤러리를 무료로 만드는 방법]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7888</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7888</guid>
-            <pubDate>Fri, 17 Dec 2021 08:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[어도비 라이트룸 사용자는 Galeryst.com에서 3D 가상 온라인 아트 갤러리를 만들어 자신의 예술을 공유할 수 있다. 사진작가들은 무료로 80장의 디지털 갤러리를 만들 수 있다. 갤러리스트는 Lightroom에서 정리되고 큐레이션된 사진이 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

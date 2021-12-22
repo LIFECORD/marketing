@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 06:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 07:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,11 +211,19 @@
             <content:encoded><![CDATA[구루나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터와 MD 업무의 차이 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37802</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37802</guid>
-            <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[lusia]]></content:encoded>
+            <title><![CDATA[생일이에용! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38015</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38015</guid>
+            <pubDate>Wed, 22 Dec 2021 07:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[렐라뿅]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[온라인 맞춤형 광고보험업계 등 개인정보 관리 점검한다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7919</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7919</guid>
+            <pubDate>Wed, 22 Dec 2021 07:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회가 다음달부터 민감정보 활용이 많은 보험업계, 온라인 맞춤형 광고를 대상으로 개인정보 관리 실태점검을 실시합니다.   개인정보위는 `국민 개인정보 안심사회 실현`과 `신뢰 기반의 데이터 경제 활성화`,  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[배달의민족, 커머스 확장 박차... 배민스토어 시범 운영 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,18 +458,17 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[디지털 갤러리를 무료로 만드는 방법 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7888</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7888</guid>
-            <pubDate>Fri, 17 Dec 2021 08:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[어도비 라이트룸 사용자는 Galeryst.com에서 3D 가상 온라인 아트 갤러리를 만들어 자신의 예술을 공유할 수 있다. 사진작가들은 무료로 80장의 디지털 갤러리를 만들 수 있다. 갤러리스트는 Lightroom에서 정리되고 큐레이션된 사진이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[온라인 맞춤형 광고·보험업계 등 '개인정보 관리' 점검한다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7919</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7919</guid>
+            <pubDate>Wed, 22 Dec 2021 07:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[배달의민족, 커머스 확장 박차... '배민스토어' 시범 운영 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7918</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7918</guid>
-            <pubDate>Wed, 22 Dec 2021 06:22:00 GMT</pubDate>
+            <pubDate>Wed, 22 Dec 2021 06:21:49 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -661,17 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[디지털 갤러리를 무료로 만드는 방법 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7888</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7888</guid>
-            <pubDate>Fri, 17 Dec 2021 08:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 네이버 검색광고 상품이 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 22 Dec 2021 06:22:12 GMT</pubDate>
+            <pubDate>Wed, 22 Dec 2021 07:17:33 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 네이버 검색광고 상품이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
