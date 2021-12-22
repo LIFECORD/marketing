@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 23:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 00:59:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,18 +22,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[24시간이모자라 시리즈]  17,280시간동안 쌓은 인사이.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56709</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56709</guid>
-            <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[상세페이지 제작 접근 방식 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56806</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56806</guid>
             <pubDate>Sun, 12 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[24시간이모자라 시리즈]  17,280시간동안 쌓은 인사이.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56709</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56709</guid>
+            <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버의 새로운 검색 '에어서치' 살펴보기 (아이보스 ─ 인기글)]]></title>
@@ -55,13 +55,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-37811</guid>
             <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[헤이데일리]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카카오가 생각하는 오픈마켓은? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56687</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56687</guid>
-            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? ) (아이보스 ─ 인기글)]]></title>
@@ -92,17 +85,17 @@
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[메타버스 간접 체험해보실 분 🖐 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56788</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56788</guid>
-            <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56841</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56841</guid>
             <pubDate>Mon, 20 Dec 2021 06:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[메타버스 간접 체험해보실 분 🖐 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56788</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56788</guid>
+            <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
@@ -127,18 +120,18 @@
             <content:encoded><![CDATA[언카피]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[SW]  상원 최신판 올마식 광고관리 비법 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56735</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56735</guid>
-            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[상원1]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56816</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56816</guid>
             <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[SW]  상원 최신판 올마식 광고관리 비법 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56735</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56735</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[상원1]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[앞으로 트렌드를 이끌어갈 뉴미디어 콘텐츠는? 🤔 (아이보스 ─ 인기글)]]></title>
@@ -216,6 +209,37 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56782</guid>
             <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[yoorok]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[안녕하세요 저는 김치입니다!! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37862</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37862</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[구루나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[명품 앱 시장, 올해만 사용자 211% 급증... 8월 이후 폭발적 성장 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7916</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7916</guid>
+            <pubDate>Wed, 22 Dec 2021 09:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최대 모바일 빅데이터 플랫폼 기업 아이지에이웍스가 자사의 데이터 분석 솔루션모바일인덱스를 통해리포트를 발표했다.분석 기간은2021년1월1일부터2021년11월30일까지로,일평균4000만 모바일 기기의20억건 데이터(안드로이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[미디어허브, 메타버스에 사무실을 오픈하다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7915</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7915</guid>
+            <pubDate>Wed, 22 Dec 2021 08:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[광고, 마케팅, 미디어, 심지어 문화에서도 가장 핫한 메타버스. 광고회사들도 메타버스와 관련된 계획를 세우는 것은 당연하다. 인터퍼블릭의 미디어 에이전시 미디어허브는 직원을 위한 가상 테스트 장소, 현재 및 잠재 고객을 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[한국갤럽] 2021년 12월 한국인이 좋아하는 TV프로그램 : 신사와 아가씨, 2개월 연속 1위 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7914</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7914</guid>
+            <pubDate>Wed, 22 Dec 2021 08:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국갤럽이 2021년 12월 14~16일 전국 만 18세 이상 1,000명에게 요즘 가장 즐겨보는 TV프로그램을 물은 결과(2개까지 자유응답), KBS2 주말 드라마신사와 아가씨 가 선호도 5.5%로 2개월 연속 1위를 차지했다. 신사와 아가씨는통상의 주 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[12월 22일 마케팅 뉴스클리핑] 카카오, 돌고래유괴단스튜디오좋 인수 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -434,34 +458,31 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[광고주, 디지털 미디어 공급망에서 투명성을 가장 큰 문제로 생각 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7885</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7885</guid>
-            <pubDate>Fri, 17 Dec 2021 08:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[미디어 및 광고 컨설팅 회사인 IDComms의 새로운 연구에 따르면, 미디어 거래에 대한 기존의 우려는 생태계 문제로 인해 가려지고 있다. 은광고주에게 디지털에서 가장 큰우려가 투명성 문제라는 것을 발견했다. 5월과 6월에 글로 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[명품 앱 시장, 올해만 사용자 211% 급증... 8월 이후 폭발적 성장 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7916</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7916</guid>
+            <pubDate>Wed, 22 Dec 2021 00:58:54 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[AD & Celeb] 다양한 매력을 보여주는 모델, 배우가 되겠습니다 모델 이기원 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7884</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7884</guid>
-            <pubDate>Fri, 17 Dec 2021 08:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요.간단하게 소개 부탁드립니다. 연기자의 길을 걷게 된 이유가 무엇인가요?  안녕하세요.반전 매력을 포함한 다양한 끼와 매력을 가진99년생 모델테이너 이기원입니다! 저는 어릴 때 부터 드라마를 자주 봤었습니다.  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[미디어허브, 메타버스에 사무실을 오픈하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7915</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7915</guid>
+            <pubDate>Wed, 22 Dec 2021 00:58:54 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[12월 17일 마케팅 뉴스클리핑] 비싸면 좀 어때... 길어지는 집콕에 작은 사치로 기분 풀었다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7883</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7883</guid>
-            <pubDate>Fri, 17 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 비싸면 좀 어때... 길어지는 집콕에 작은 사치로 기분 풀었다  좀처럼 진정되지 않는 코로나19 확산세에 먹고 마시고 즐기는 행위가 밖이 아닌 집에서 이뤄지게 됐고, 집밥족들과 홈술족들이 급증했다. 이 같은 트렌드에 힘입 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16396514210516.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[한국갤럽] 2021년 12월 한국인이 좋아하는 TV프로그램 : 신사와 아가씨, 2개월 연속 1위 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7914</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7914</guid>
+            <pubDate>Wed, 22 Dec 2021 00:58:54 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[12월 22일 마케팅 뉴스클리핑] 카카오, 돌고래유괴단·스튜디오좋 인수 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7913</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7913</guid>
-            <pubDate>Tue, 21 Dec 2021 23:18:25 GMT</pubDate>
+            <pubDate>Wed, 22 Dec 2021 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -647,31 +668,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[광고주, 디지털 미디어 공급망에서 '투명성'을 가장 큰 문제로 생각 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7885</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7885</guid>
-            <pubDate>Fri, 17 Dec 2021 08:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AD & Celeb] "다양한 매력을 보여주는 모델, 배우가 되겠습니다" 모델 이기원 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7884</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7884</guid>
-            <pubDate>Fri, 17 Dec 2021 08:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[12월 17일 마케팅 뉴스클리핑] 비싸면 좀 어때... 길어지는 집콕에 작은 사치로 기분 풀었다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7883</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7883</guid>
-            <pubDate>Fri, 17 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 네이버 검색광고 상품이 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 21 Dec 2021 23:18:36 GMT</pubDate>
+            <pubDate>Wed, 22 Dec 2021 00:59:05 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 네이버 검색광고 상품이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
