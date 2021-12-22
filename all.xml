@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 03:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 04:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -141,18 +141,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[상세페이지 기획 어렵네요 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37889</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37889</guid>
-            <pubDate>Fri, 03 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[rdg]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[인스타그램 2022 트렌드 리포트 한글 번역본입니다^^ (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56829</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56829</guid>
             <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[루비빙]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[상세페이지 기획 어렵네요 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37889</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37889</guid>
+            <pubDate>Fri, 03 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[rdg]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[퇴사 후 귀농 테스트를 만들었는데,, 어디에 홍보를 .. (아이보스 ─ 인기글)]]></title>
@@ -671,7 +671,7 @@
             <title><![CDATA[다음 중 네이버 검색광고 상품이 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 22 Dec 2021 03:19:12 GMT</pubDate>
+            <pubDate>Wed, 22 Dec 2021 04:23:57 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 네이버 검색광고 상품이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
