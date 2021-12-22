@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-22T15:19:18.591Z</updated>
+    <updated>2021-12-22T16:27:46.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -160,18 +160,18 @@
         <content type="html"><![CDATA[그린다이어리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[잘 파는 회사의 레포트에 들어가는 핵심지표 3가지]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56717</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56717"/>
-        <updated>2021-11-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[준5941]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[생일이에용!]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38015</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38015"/>
         <updated>2021-12-22T07:16:56.731Z</updated>
         <content type="html"><![CDATA[렐라뿅]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잘 파는 회사의 레포트에 들어가는 핵심지표 3가지]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56717</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56717"/>
+        <updated>2021-11-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[준5941]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리..]]></title>
@@ -181,18 +181,18 @@
         <content type="html"><![CDATA[놀토]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[마감되쓔] 선착순 10명에게 1209 리터 보내드립니다]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-37934</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-37934"/>
-        <updated>2021-12-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[놀토]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[플레이디] 위드코로나 시대 변화하는 소비 트렌드]]></title>
         <id>https://www.i-boss.co.kr/ab-3208-715</id>
         <link href="https://www.i-boss.co.kr/ab-3208-715"/>
         <updated>2021-11-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마감되쓔] 선착순 10명에게 1209 리터 보내드립니다]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-37934</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-37934"/>
+        <updated>2021-12-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[놀토]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[퍼포먼스 광고 대행사를 고르는 기준]]></title>
