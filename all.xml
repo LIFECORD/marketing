@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 06:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 07:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -92,13 +92,6 @@
             <content:encoded><![CDATA[언카피]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[메타버스 간접 체험해보실 분 🖐 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56788</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56788</guid>
-            <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[인스타그램 2022 트렌드 리포트 한글 번역본입니다^^ (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56829</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56829</guid>
@@ -106,11 +99,11 @@
             <content:encoded><![CDATA[루비빙]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인크로스] 디지털 마케팅 트렌드 2022 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-3208-718</link>
-            <guid>https://www.i-boss.co.kr/ab-3208-718</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[메타버스 간접 체험해보실 분 🖐 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56788</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56788</guid>
+            <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[외워두세요, 7년차 마자이너가 밝히는 상세페이지에 .. (아이보스 ─ 인기글)]]></title>
@@ -118,6 +111,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56844</guid>
             <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[인크로스] 디지털 마케팅 트렌드 2022 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-3208-718</link>
+            <guid>https://www.i-boss.co.kr/ab-3208-718</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[출근 전날 연봉 500 깎는 회사 (아이보스 ─ 인기글)]]></title>
@@ -216,6 +216,30 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-37862</guid>
             <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[구루나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[국내 상권 1위 압구정SKT, 빅데이터 어떻게 분석했나 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7927</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7927</guid>
+            <pubDate>Thu, 23 Dec 2021 07:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤이 2021년 `대한민국 100대 상권`을 분석하고 코로나19 유행 전후의 변화를 공개했다. 이번 분석에는 상권별 업소 수, 카드 매출, 유동인구 등의 데이터와 SKT가 2011년 론칭한 빅데이터플랫폼 `지오비전`이 활용됐다 특정 지 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[트위터, 올해를 빛낸 브랜드에이전시NGO 발표 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7926</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7926</guid>
+            <pubDate>Thu, 23 Dec 2021 07:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[7개 부문 수상자에 트로피 증정...노출수, 대화량, 혁신성 등 종합 반영   트위터 코리아는 자사 광고 솔루션을 활용한 캠페인을 전개해 다양한 성과를 창출한 주요 브랜드 및 파트너를 대상으로 트위터 브랜드 어워즈 2021 수상자 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16402426340763.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[트위터, 2021년 트위터 빛낸 브랜드에이전시NGO 발표 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7925</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7925</guid>
+            <pubDate>Thu, 23 Dec 2021 07:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[트위터가 자사 광고 솔루션을 활용한 캠페인을 전개해 다양한 성과를 창출한 주요 브랜드 및 파트너를 대상으로 트위터 브랜드 어워즈 2021(#TwitterBrandAwards2021) 수상자를 선정해 발표했다. 이번 트위터 브랜드 어워즈 2021은 기업 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4038a31639a94b1f4b33f918de4f2994_47769_6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[챗봇 이루다 재출시 예고... AI 편향개인정보 유출 없앴다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -434,41 +458,38 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16399619783205.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[12월 20일 마케팅 뉴스클리핑] 네이버 쇼핑판 원쁠딜 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7890</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7890</guid>
-            <pubDate>Mon, 20 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 진화하는 네이버... `원쁠딜`로 더 싸게  네이버는 오는 27일 새로운 쇼핑 판 `원쁠딜`을 선보인다. 원쁠딜에서는 모든 상품이 `1+1` 또는 `1+`로 구성돼 `무료배송`으로 판매된다. 판매자에게는 상품 카테고리에 관계없이 매출 연 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16398343443492.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[국내 상권 1위 '압구정'…SKT, 빅데이터 어떻게 분석했나 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7927</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7927</guid>
+            <pubDate>Thu, 23 Dec 2021 07:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[11월 미국 광고시장, 9개월 연속 성장...역대 최고 기록 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7896</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7896</guid>
-            <pubDate>Sun, 19 Dec 2021 00:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[11월 미국 광고시장이 9개월 연속 성장했다고 미디어포스트가 보도했다.미디어포스트와 스탠다드 미디어 인덱스가 미국 광고시장의 대부분을 대표하는 주요 광고회사가 실제 광고비에서 도출한 미국 애드 마켓 트래커에 따르 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[트위터, 올해를 빛낸 '브랜드·에이전시·NGO' 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7926</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7926</guid>
+            <pubDate>Thu, 23 Dec 2021 07:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아디다스, 진짜 상품 주는 NFT 컬렉션 출시하다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7895</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7895</guid>
-            <pubDate>Sun, 19 Dec 2021 09:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[아디다스가 NFT 시장에 본격적으로 진출한다. 아디다스는 NFT 리더인 지루한 원숭이들의 요트 클럽(Bored Ape Yacht Club, BAYC), NFT 인플루언서이자 수집가인 지머니(Gmoney), 크립토펑크에서 영감을 얻은 비공식 이더리움 NFT 프로젝트 펑 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[트위터, 2021년 트위터 빛낸 ‘브랜드∙에이전시∙NGO’ 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7925</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7925</guid>
+            <pubDate>Thu, 23 Dec 2021 07:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[챗봇 '이루다' 재출시 예고... AI 편향·개인정보 유출 없앴다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7924</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7924</guid>
-            <pubDate>Thu, 23 Dec 2021 06:21:35 GMT</pubDate>
+            <pubDate>Thu, 23 Dec 2021 06:21:21 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['네이버 스마트플레이스' 경제적 가치는 연간 46.1조… 기준은 뭘까? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7923</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7923</guid>
-            <pubDate>Thu, 23 Dec 2021 06:21:35 GMT</pubDate>
+            <pubDate>Thu, 23 Dec 2021 06:21:21 GMT</pubDate>
             <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
@@ -647,31 +668,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[12월 20일 마케팅 뉴스클리핑] 네이버 쇼핑판 '원쁠딜' 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7890</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7890</guid>
-            <pubDate>Mon, 20 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[11월 미국 광고시장, 9개월 연속 성장...역대 최고 기록 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7896</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7896</guid>
-            <pubDate>Sun, 19 Dec 2021 00:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아디다스, '진짜 상품' 주는 NFT 컬렉션 출시하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7895</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7895</guid>
-            <pubDate>Sun, 19 Dec 2021 09:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[김보스 씨의 사례를 통해 설명할 수 있는 마케팅 현상은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 23 Dec 2021 06:21:47 GMT</pubDate>
+            <pubDate>Thu, 23 Dec 2021 07:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->김보스 씨의 사례를 통해 설명할 수 있는 마케팅 현상은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/b2b7fb54f68ee38cc48fbe43c769bf53_16397089300597.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
