@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 12:28:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 15:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -666,19 +666,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7897</guid>
             <pubDate>Mon, 20 Dec 2021 09:59:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김보스 씨의 사례를 통해 설명할 수 있는 마케팅 현상은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 23 Dec 2021 12:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->김보스 씨의 사례를 통해 설명할 수 있는 마케팅 현상은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/b2b7fb54f68ee38cc48fbe43c769bf53_16397089300597.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1326_1" value="1" class="AB-radio" id="PQ_BD5826_1326_1_0"><label for="PQ_BD5826_1326_1_0" id="label_PQ_BD5826_1326_1_0">(A) 밴드왜건 효과</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1326_1" value="2" class="AB-radio" id="PQ_BD5826_1326_1_1"><label for="PQ_BD5826_1326_1_1" id="label_PQ_BD5826_1326_1_1">(B) 스놉 효과</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1326_1" value="3" class="AB-radio" id="PQ_BD5826_1326_1_2"><label for="PQ_BD5826_1326_1_2" id="label_PQ_BD5826_1326_1_2">(C) 베블런 효과</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1326_1" value="4" class="AB-radio" id="PQ_BD5826_1326_1_3"><label for="PQ_BD5826_1326_1_3" id="label_PQ_BD5826_1326_1_3">(D) 파노플리 효과</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소공연, 영세 소상공인 900개 사업장에 50만원 회복자금 지원 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
