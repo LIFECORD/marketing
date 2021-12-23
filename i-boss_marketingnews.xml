@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 04:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 06:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[챗봇 이루다 재출시 예고... AI 편향개인정보 유출 없앴다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7924</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7924</guid>
+            <pubDate>Thu, 23 Dec 2021 06:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[올초 인공지능(AI)의 편향 및 개인정보 남용 논란이 나타나면서 서비스가 중단된 AI 챗봇 `이루다`가 2.0 버전으로 재출시될 예정이다.   이루다 개발사는 과거 문제됐던 부분들을 해결했다는 입장이지만, 수집 과정에서 위법성이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16402365707922.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버 스마트플레이스 경제적 가치는 연간 46.1조 기준은 뭘까?]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7923</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7923</guid>
+            <pubDate>Thu, 23 Dec 2021 06:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[네이버의 중소상공인(SME) 무료 플랫폼 네이버 스마트플레이스가 만든 경제적 가치는 얼마일까? 연간 46.1조 원이나 된다는 연구결과가 나왔다.  연구팀은 네이버 스마트플레이스를 통해 오프라인 SME들은 한 가게 당 연간 769만원, ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_bb4f441cad2accf7e1722988a89317be_30679_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클리블랜드 클리닉이 병원 커뮤니케이션을 잘 하는 비결은?]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7922</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7895</guid>
             <pubDate>Sun, 19 Dec 2021 09:39:00 GMT</pubDate>
             <content:encoded><![CDATA[아디다스가 NFT 시장에 본격적으로 진출한다. 아디다스는 NFT 리더인 지루한 원숭이들의 요트 클럽(Bored Ape Yacht Club, BAYC), NFT 인플루언서이자 수집가인 지머니(Gmoney), 크립토펑크에서 영감을 얻은 비공식 이더리움 NFT 프로젝트 펑 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴노멀 시대, 2021년 디자인 트렌드 키워드는 오프라인의 부활과 디자인 리프레쉬]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7894</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7894</guid>
-            <pubDate>Sun, 19 Dec 2021 09:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 콘테스트 플랫폼 라우드소싱을 운영하는 스터닝(대표 김승환)이 2021 업종별 상업디자인 트렌드 리포트를 발표하며 키워드를 선정했다.선정된 키워드는오프라인의 부활 과디자인 리프레쉬(REFRESH) 다. 라우드소싱은 국내  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 한국 유튜브 8대 트렌드]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7893</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7893</guid>
-            <pubDate>Sun, 19 Dec 2021 09:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[한 해 동안 국내 유튜브 사용자들에게 가장 많은 사랑을 받았던 동영상과 크리에이터 리스트가 발표됐다. 국내 조회수를 기준으로 산정된최고 인기 동영상과최고 인기 뮤직비디오, 그리고 국내 구독자 수 변동을 기준으로 산정 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
