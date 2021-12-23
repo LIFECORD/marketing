@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-23T10:19:50.230Z</updated>
+    <updated>2021-12-23T11:15:33.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -25,13 +25,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-56797"/>
         <updated>2021-12-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[24시간이모자라 시리즈]  17,280시간동안 쌓은 인사이..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56709</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56709"/>
-        <updated>2021-11-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[마케팅모먼트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? )]]></title>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-6141-56861"/>
         <updated>2021-12-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[햅삐햅삐]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소상공인은 앞으로 경험 마케팅의 시대를 맞이한다.]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56782</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56782"/>
+        <updated>2021-12-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[yoorok]]></content>
     </entry>
 </feed>
