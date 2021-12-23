@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-23T09:18:38.793Z</updated>
+    <updated>2021-12-23T10:19:50.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[상원1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알아두면 좋은 유용한 사이트 모음 NO.2]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56810</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56810"/>
-        <updated>2021-12-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[사각사각그림사이]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56841</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56841"/>
         <updated>2021-12-20T06:21:15.262Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알아두면 좋은 유용한 사이트 모음 NO.2]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56810</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56810"/>
+        <updated>2021-12-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[사각사각그림사이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마케팅밈] 마케팅 유우머 - 1]]></title>
