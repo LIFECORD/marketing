@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 07:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 08:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,13 +22,6 @@
             <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[24시간이모자라 시리즈]  17,280시간동안 쌓은 인사이.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56709</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56709</guid>
-            <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네이버의 새로운 검색 '에어서치' 살펴보기 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56797</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56797</guid>
@@ -36,11 +29,11 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[아이보스 연말 이벤트] 이벤트 참여하고 프레임 받.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-428</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-428</guid>
-            <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+            <title><![CDATA[[24시간이모자라 시리즈]  17,280시간동안 쌓은 인사이.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56709</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56709</guid>
+            <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[페이스북 마케팅의 종말 (feat. ROAS 255%? ) (아이보스 ─ 인기글)]]></title>
@@ -48,6 +41,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56721</guid>
             <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[셀트너]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[아이보스 연말 이벤트] 이벤트 참여하고 프레임 받.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-428</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-428</guid>
+            <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우리가 NFT를 알아야 하는 이유 (아이보스 ─ 인기글)]]></title>
@@ -176,6 +176,13 @@
             <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[마케팅밈] 거절하게 만드는 마케터 유형 5가지 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38017</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38017</guid>
+            <pubDate>Thu, 23 Dec 2021 08:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37996</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37996</guid>
@@ -209,13 +216,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56782</guid>
             <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[yoorok]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안녕하세요 저는 김치입니다!! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37862</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37862</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[구루나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[국내 상권 1위 압구정SKT, 빅데이터 어떻게 분석했나 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -461,21 +461,21 @@
             <title><![CDATA[국내 상권 1위 '압구정'…SKT, 빅데이터 어떻게 분석했나 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7927</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7927</guid>
-            <pubDate>Thu, 23 Dec 2021 07:17:54 GMT</pubDate>
+            <pubDate>Thu, 23 Dec 2021 07:17:38 GMT</pubDate>
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[트위터, 올해를 빛낸 '브랜드·에이전시·NGO' 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7926</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7926</guid>
-            <pubDate>Thu, 23 Dec 2021 07:17:54 GMT</pubDate>
+            <pubDate>Thu, 23 Dec 2021 07:17:38 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[트위터, 2021년 트위터 빛낸 ‘브랜드∙에이전시∙NGO’ 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7925</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7925</guid>
-            <pubDate>Thu, 23 Dec 2021 07:17:54 GMT</pubDate>
+            <pubDate>Thu, 23 Dec 2021 07:17:38 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -671,7 +671,7 @@
             <title><![CDATA[김보스 씨의 사례를 통해 설명할 수 있는 마케팅 현상은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 23 Dec 2021 07:18:08 GMT</pubDate>
+            <pubDate>Thu, 23 Dec 2021 08:21:52 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->김보스 씨의 사례를 통해 설명할 수 있는 마케팅 현상은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/b2b7fb54f68ee38cc48fbe43c769bf53_16397089300597.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
