@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 22:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 23:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12월 24일 마케팅 뉴스클리핑] 성탄절 앞두고 롤링페이퍼 사이트에 몰려드는 MZ 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7928</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7928</guid>
+            <pubDate>Fri, 24 Dec 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 성탄절 앞두고 `롤링페이퍼` 사이트에 몰려드는 MZ  크리스마스를 앞두고 2030 세대에서 온라인 `롤링페이퍼` 사이트가 큰 인기를 끌고 있다. `내 트리를 꾸며줘!`서비스는 인스타그램, 페이스북, 트위터 등 SNS를 통해 입소문을  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e000562225a5cb422cbf417dfd0d13fc_42335_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국내 상권 1위 압구정SKT, 빅데이터 어떻게 분석했나]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7927</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Dec 2021 05:18:04 GMT</pubDate>
             <content:encoded><![CDATA[카카오는 광고 플랫폼 카카오모먼트 공식 대행사와 상생 목적으로 운영 중인 KPP(카카오 프리미엄 파트너) 프로그램의 2022년 파트너사를 선정했다고 20일 밝혔다.  KPP 프로그램은 매년 공식 대행사의 신청서를 접수 받아 카카오 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡 마켓플레이스, 신규 판매자 스튜디오 무료 대여]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7897</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7897</guid>
-            <pubDate>Mon, 20 Dec 2021 09:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[내년 1월 말까지 공간 지원 이벤트    쿠팡 마켓플레이스는 내년 1월 말까지 패션 카테고리 신규 판매자를 대상으로 `패션 스튜디오 공간 지원 이벤트`를 진행한다고 20일 밝혔다. 내년 1월 말까지 쿠팡 마켓플레이스에 신규로 가 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16399619783205.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

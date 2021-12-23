@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 22:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 23:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,6 +85,13 @@
             <content:encoded><![CDATA[루비빙]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[외워두세요, 7년차 마자이너가 밝히는 상세페이지에 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56844</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56844</guid>
+            <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[상세페이지, 그래서 팔리고 있으신가요? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56834</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56834</guid>
@@ -97,13 +104,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56788</guid>
             <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[외워두세요, 7년차 마자이너가 밝히는 상세페이지에 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56844</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56844</guid>
-            <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인크로스] 디지털 마케팅 트렌드 2022 (아이보스 ─ 인기글)]]></title>
@@ -148,6 +148,13 @@
             <content:encoded><![CDATA[rdg]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[마케팅밈] 거절하게 만드는 마케터 유형 5가지 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38017</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38017</guid>
+            <pubDate>Thu, 23 Dec 2021 08:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[생일이에용! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38015</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38015</guid>
@@ -160,13 +167,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56727</guid>
             <pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[그린다이어리]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[마케팅밈] 거절하게 만드는 마케터 유형 5가지 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38017</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38017</guid>
-            <pubDate>Thu, 23 Dec 2021 08:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[잘 파는 회사의 레포트에 들어가는 핵심지표 3가지 (아이보스 ─ 인기글)]]></title>
@@ -204,6 +204,13 @@
             <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[카피 쓰다 막힐 때마다 꺼내 읽어요 📖 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-5637-28</link>
+            <guid>https://www.i-boss.co.kr/ab-5637-28</guid>
+            <pubDate>Thu, 23 Dec 2021 12:28:03 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[7일만에 매출을 두 배로 늘릴 수 있는 두가지 비법 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56861</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56861</guid>
@@ -211,11 +218,12 @@
             <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카피 쓰다 막힐 때마다 꺼내 읽어요 📖 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-5637-28</link>
-            <guid>https://www.i-boss.co.kr/ab-5637-28</guid>
-            <pubDate>Thu, 23 Dec 2021 12:28:03 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
+            <title><![CDATA[[12월 24일 마케팅 뉴스클리핑] 성탄절 앞두고 롤링페이퍼 사이트에 몰려드는 MZ 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7928</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7928</guid>
+            <pubDate>Fri, 24 Dec 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 성탄절 앞두고 `롤링페이퍼` 사이트에 몰려드는 MZ  크리스마스를 앞두고 2030 세대에서 온라인 `롤링페이퍼` 사이트가 큰 인기를 끌고 있다. `내 트리를 꾸며줘!`서비스는 인스타그램, 페이스북, 트위터 등 SNS를 통해 입소문을  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e000562225a5cb422cbf417dfd0d13fc_42335_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국내 상권 1위 압구정SKT, 빅데이터 어떻게 분석했나 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[쿠팡 마켓플레이스, 신규 판매자 스튜디오 무료 대여 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7897</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7897</guid>
-            <pubDate>Mon, 20 Dec 2021 09:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[내년 1월 말까지 공간 지원 이벤트    쿠팡 마켓플레이스는 내년 1월 말까지 패션 카테고리 신규 판매자를 대상으로 `패션 스튜디오 공간 지원 이벤트`를 진행한다고 20일 밝혔다. 내년 1월 말까지 쿠팡 마켓플레이스에 신규로 가 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16399619783205.png" length="0" type="image/png"/>
+            <title><![CDATA[[12월 24일 마케팅 뉴스클리핑] 성탄절 앞두고 '롤링페이퍼' 사이트에 몰려드는 MZ 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7928</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7928</guid>
+            <pubDate>Thu, 23 Dec 2021 23:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[국내 상권 1위 '압구정'…SKT, 빅데이터 어떻게 분석했나 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -661,11 +668,17 @@
             <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쿠팡 마켓플레이스, 신규 판매자 스튜디오 무료 대여 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7897</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7897</guid>
-            <pubDate>Mon, 20 Dec 2021 09:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[CPM이 6,000원인 광고 상품으로 1만 회의 광고 노출을 보장받기 위해서 필요한 광고비는 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Thu, 23 Dec 2021 23:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->CPM이 6,000원인 광고 상품으로 1만 회의 광고 노출을 보장받기 위해서 필요한 광고비는 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1327_1" value="1" class="AB-radio" id="PQ_BD5826_1327_1_0"><label for="PQ_BD5826_1327_1_0" id="label_PQ_BD5826_1327_1_0">(A) 6,000원</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1327_1" value="2" class="AB-radio" id="PQ_BD5826_1327_1_1"><label for="PQ_BD5826_1327_1_1" id="label_PQ_BD5826_1327_1_1">(B) 10,000원</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1327_1" value="3" class="AB-radio" id="PQ_BD5826_1327_1_2"><label for="PQ_BD5826_1327_1_2" id="label_PQ_BD5826_1327_1_2">(C) 60,000원</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1327_1" value="4" class="AB-radio" id="PQ_BD5826_1327_1_3"><label for="PQ_BD5826_1327_1_3" id="label_PQ_BD5826_1327_1_3">(D) 600,000원</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소공연, 영세 소상공인 900개 사업장에 50만원 회복자금 지원 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
