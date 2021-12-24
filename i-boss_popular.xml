@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-24T12:28:37.850Z</updated>
+    <updated>2021-12-24T13:25:30.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -160,18 +160,18 @@
         <content type="html"><![CDATA[rdg]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[퇴사 후 귀농 테스트를 만들었는데,, 어디에 홍보를 ..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56727</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56727"/>
-        <updated>2021-11-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그린다이어리]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년 주목해야 할 트렌드 총정리]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56862</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56862"/>
         <updated>2021-12-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[김매니저]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퇴사 후 귀농 테스트를 만들었는데,, 어디에 홍보를 ..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56727</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56727"/>
+        <updated>2021-11-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그린다이어리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[잘 파는 회사의 레포트에 들어가는 핵심지표 3가지]]></title>
