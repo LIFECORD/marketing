@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 07:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 08:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -189,6 +189,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[마케팅밈] 마케팅 유우머 - 1 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37915</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37915</guid>
+            <pubDate>Thu, 09 Dec 2021 04:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[인스타그램 2022 트렌드 리포트 한글 번역본입니다^^ (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56829</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56829</guid>
@@ -201,13 +208,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56715</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[상원1]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[마케팅밈] 마케팅 유우머 - 1 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37915</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37915</guid>
-            <pubDate>Thu, 09 Dec 2021 04:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[외워두세요, 7년차 마자이너가 밝히는 상세페이지에 .. (아이보스 ─ 인기글)]]></title>
@@ -273,17 +273,17 @@
             <content:encoded><![CDATA[상원1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[앞으로 트렌드를 이끌어갈 뉴미디어 콘텐츠는? 🤔 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-5637-27</link>
-            <guid>https://www.i-boss.co.kr/ab-5637-27</guid>
-            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[카피 쓰다 막힐 때마다 꺼내 읽어요 📖 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-5637-28</link>
             <guid>https://www.i-boss.co.kr/ab-5637-28</guid>
             <pubDate>Thu, 23 Dec 2021 12:28:03 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[앞으로 트렌드를 이끌어갈 뉴미디어 콘텐츠는? 🤔 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-5637-27</link>
+            <guid>https://www.i-boss.co.kr/ab-5637-27</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
@@ -308,18 +308,18 @@
             <content:encoded><![CDATA[그린다이어리]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[잘 파는 회사의 레포트에 들어가는 핵심지표 3가지 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56717</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56717</guid>
-            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[준5941]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022년 주목해야 할 트렌드 총정리 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56862</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56862</guid>
             <pubDate>Wed, 22 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김매니저]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잘 파는 회사의 레포트에 들어가는 핵심지표 3가지 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56717</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56717</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리.. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56861</guid>
             <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[파이어족 꿈꾸는 MZ세대재테크 콘텐츠에 돈 안아낀다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7930</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7930</guid>
+            <pubDate>Fri, 24 Dec 2021 08:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[올해 네이버 유료 구독 플랫폼에서 MZ세대(1980년대 초~2000년대 초 출생)가 열광한 콘텐츠는 `재테크`인 것으로 나타났다. 현재 행복을 중요하게 여겨 아낌없이 소비하는 `욜로족`에서 빨리 돈을 모아 조기 은퇴를 원하는 `파이어 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16403308369716.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[12월 24일 마케팅 뉴스클리핑] 성탄절 앞두고 롤링페이퍼 사이트에 몰려드는 MZ 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[카카오, 광고 협업 KPP 선정사 20개로 늘려 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7898</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7898</guid>
-            <pubDate>Mon, 20 Dec 2021 05:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[카카오는 광고 플랫폼 카카오모먼트 공식 대행사와 상생 목적으로 운영 중인 KPP(카카오 프리미엄 파트너) 프로그램의 2022년 파트너사를 선정했다고 20일 밝혔다.  KPP 프로그램은 매년 공식 대행사의 신청서를 접수 받아 카카오 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA['파이어족' 꿈꾸는 MZ세대…'재테크' 콘텐츠에 돈 안아낀다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7930</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7930</guid>
+            <pubDate>Fri, 24 Dec 2021 08:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[12월 24일 마케팅 뉴스클리핑] 성탄절 앞두고 '롤링페이퍼' 사이트에 몰려드는 MZ 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오, 광고 협업 KPP 선정사 20개로 늘려 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7898</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7898</guid>
-            <pubDate>Mon, 20 Dec 2021 05:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[유리나]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[CPM이 6,000원인 광고 상품으로 1만 회의 광고 노출을 보장받기 위해서 필요한 광고비는 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 24 Dec 2021 07:18:50 GMT</pubDate>
+            <pubDate>Fri, 24 Dec 2021 08:21:50 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->CPM이 6,000원인 광고 상품으로 1만 회의 광고 노출을 보장받기 위해서 필요한 광고비는 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
