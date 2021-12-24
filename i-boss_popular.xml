@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-24T02:04:58.010Z</updated>
+    <updated>2021-12-24T03:17:54.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[상세페이지 제작 접근 방식]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56806</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56806"/>
-        <updated>2021-12-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[우뇌]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[네이버의 새로운 검색 '에어서치' 살펴보기]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56797</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56797"/>
         <updated>2021-12-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상세페이지 제작 접근 방식]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56806</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56806"/>
+        <updated>2021-12-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[우뇌]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아이보스 연말 이벤트] 이벤트 참여하고 프레임 받..]]></title>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[헤이데일리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[인스타그램 2022 트렌드 리포트 한글 번역본입니다^^]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56829</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56829"/>
+        <updated>2021-12-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[루비빙]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[SW] 요즘 CPM 올라서 많이 힘드시죠 파훼법 간단하게 ..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56715</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56715"/>
@@ -60,13 +67,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-37915"/>
         <updated>2021-12-09T04:22:08.100Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인스타그램 2022 트렌드 리포트 한글 번역본입니다^^]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56829</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56829"/>
-        <updated>2021-12-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[루비빙]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[SW]  상원 최신판 올마식 광고관리 비법]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56735</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56735"/>
-        <updated>2021-11-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[상원1]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[마케팅밈] 거절하게 만드는 마케터 유형 5가지]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38017</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38017"/>
         <updated>2021-12-23T08:21:21.442Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SW]  상원 최신판 올마식 광고관리 비법]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56735</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56735"/>
+        <updated>2021-11-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[상원1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[앞으로 트렌드를 이끌어갈 뉴미디어 콘텐츠는? 🤔]]></title>
