@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 08:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 09:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 달라지는 일자리 정책 8가지]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7931</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7931</guid>
+            <pubDate>Fri, 24 Dec 2021 09:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[인크루트(대표 서미영)가 최저임금 인상중대재해처벌법 시행고용보험 적용 대상 확대 등 2022년부터 달라지는 일자리 정책을 정리해 24일 소개했다.   최저임금 인상 (2022년 1월1일부터)  중대재해처벌법 시행(2022년 1월27일부터)   ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[파이어족 꿈꾸는 MZ세대재테크 콘텐츠에 돈 안아낀다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7930</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Dec 2021 08:22:06 GMT</pubDate>
             <content:encoded><![CDATA[농가 돕기 및 고객 참여형 기부 캠페인 진행   2016년 서비스를 시작한 카카오메이커스가 누적 거래액 5000억원을 달성했다고 20일 밝혔다.   올해 6월 누적 거래액 4000억원을 돌파한지 약 6개월 만이다.   카카오메이커스는 공동 주 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_1639984763567.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡, 배달 음식점 틱톡 키친 미국서 연다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7899</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7899</guid>
-            <pubDate>Mon, 20 Dec 2021 05:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[숏폼 동영상 플랫폼 틱톡이 미국에서 배달 전용 음식점 `틱톡 키친(TikTok Kitchen)`을 연다.  이를 위해 틱톡은 배달 음식 솔루션 업체 `버추얼다이닝콘셉트(Virtual Dining Concepts)`와 손을 잡았다. 틱톡은 우선 300개 매장을 열고, 내년까 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
