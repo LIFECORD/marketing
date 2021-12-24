@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 21:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 23:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,6 +798,19 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7900</guid>
             <pubDate>Mon, 20 Dec 2021 08:22:06 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CPM이 6,000원인 광고 상품으로 1만 회의 광고 노출을 보장받기 위해서 필요한 광고비는 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Fri, 24 Dec 2021 23:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->CPM이 6,000원인 광고 상품으로 1만 회의 광고 노출을 보장받기 위해서 필요한 광고비는 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1327_1" value="1" class="AB-radio" id="PQ_BD5826_1327_1_0"><label for="PQ_BD5826_1327_1_0" id="label_PQ_BD5826_1327_1_0">(A) 6,000원</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1327_1" value="2" class="AB-radio" id="PQ_BD5826_1327_1_1"><label for="PQ_BD5826_1327_1_1" id="label_PQ_BD5826_1327_1_1">(B) 10,000원</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1327_1" value="3" class="AB-radio" id="PQ_BD5826_1327_1_2"><label for="PQ_BD5826_1327_1_2" id="label_PQ_BD5826_1327_1_2">(C) 60,000원</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1327_1" value="4" class="AB-radio" id="PQ_BD5826_1327_1_3"><label for="PQ_BD5826_1327_1_3" id="label_PQ_BD5826_1327_1_3">(D) 600,000원</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소공연, 영세 소상공인 900개 사업장에 50만원 회복자금 지원 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
