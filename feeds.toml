@@ -1,3 +1,13 @@
+[i-boss_qletter]
+title = "큐레터 저장소"
+url = "https://qletter.i-boss.co.kr/list/1/"
+entrySelector = "div.innerWrap div.list"
+titleSelector = "p strong"
+linkSelector = "a"
+contentSelector = "div.list a p"
+imageSelector = "div.thumb img"
+waitUntil = "networkidle"
+
 [i-boss_popular]
 title = "아이보스 ─ 인기글"
 url = "https://www.i-boss.co.kr/ab-1886"
