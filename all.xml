@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 13:28:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 14:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,6 +287,13 @@
             <content:encoded><![CDATA[그린다이어리]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[7일만에 매출을 두 배로 늘릴 수 있는 두가지 비법 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56861</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56861</guid>
+            <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37996</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37996</guid>
@@ -299,13 +306,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-37934</guid>
             <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[놀토]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[7일만에 매출을 두 배로 늘릴 수 있는 두가지 비법 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56861</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56861</guid>
-            <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[퍼포먼스 광고 대행사를 고르는 기준 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[CPM이 6,000원인 광고 상품으로 1만 회의 광고 노출을 보장받기 위해서 필요한 광고비는 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 25 Dec 2021 13:28:11 GMT</pubDate>
+            <pubDate>Sat, 25 Dec 2021 14:16:36 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->CPM이 6,000원인 광고 상품으로 1만 회의 광고 노출을 보장받기 위해서 필요한 광고비는 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
