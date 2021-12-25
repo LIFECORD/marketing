@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-24T23:18:09.766Z</updated>
+    <updated>2021-12-25T00:56:21.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[마케팅밈] 마케터의 현타]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-37799</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-37799"/>
-        <updated>2021-11-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[네이버의 새로운 검색 '에어서치' 살펴보기]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56797</id>
@@ -139,13 +132,6 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[앞으로 트렌드를 이끌어갈 뉴미디어 콘텐츠는? 🤔]]></title>
-        <id>https://www.i-boss.co.kr/ab-5637-27</id>
-        <link href="https://www.i-boss.co.kr/ab-5637-27"/>
-        <updated>2021-11-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[생일이에용!]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38015</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38015"/>
@@ -214,5 +200,19 @@
         <link href="https://www.i-boss.co.kr/ab-6141-56782"/>
         <updated>2021-12-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[yoorok]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안녕하세요 저는 김치입니다!!]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-37862</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-37862"/>
+        <updated>2021-11-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[구루나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼어붙은 감수성을 깨부수는 인문학적 도끼질! 박웅..]]></title>
+        <id>https://www.i-boss.co.kr/ab-2973-431</id>
+        <link href="https://www.i-boss.co.kr/ab-2973-431"/>
+        <updated>2021-12-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
 </feed>
