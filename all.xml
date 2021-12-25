@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 10:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 11:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -175,6 +175,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[메타버스 간접 체험해보실 분 🖐 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56788</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56788</guid>
+            <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[인스타그램 2022 트렌드 리포트 한글 번역본입니다^^ (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56829</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56829</guid>
@@ -187,13 +194,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-37915</guid>
             <pubDate>Thu, 09 Dec 2021 04:22:08 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[메타버스 간접 체험해보실 분 🖐 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56788</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56788</guid>
-            <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[외워두세요, 7년차 마자이너가 밝히는 상세페이지에 .. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[CPM이 6,000원인 광고 상품으로 1만 회의 광고 노출을 보장받기 위해서 필요한 광고비는 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 25 Dec 2021 10:19:02 GMT</pubDate>
+            <pubDate>Sat, 25 Dec 2021 11:14:34 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->CPM이 6,000원인 광고 상품으로 1만 회의 광고 노출을 보장받기 위해서 필요한 광고비는 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
