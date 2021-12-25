@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-25T14:16:45.373Z</updated>
+    <updated>2021-12-25T15:18:25.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[생일이에용!]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38015</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38015"/>
-        <updated>2021-12-22T07:16:56.731Z</updated>
-        <content type="html"><![CDATA[렐라뿅]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년 주목해야 할 트렌드 총정리]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56862</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56862"/>
         <updated>2021-12-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[김매니저]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생일이에용!]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38015</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38015"/>
+        <updated>2021-12-22T07:16:56.731Z</updated>
+        <content type="html"><![CDATA[렐라뿅]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[상세페이지 기획 어렵네요]]></title>
