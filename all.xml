@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 07:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 08:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,18 +196,18 @@
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[알아두면 좋은 유용한 사이트 모음 NO.2 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56810</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56810</guid>
-            <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[메타버스 간접 체험해보실 분 🖐 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56788</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56788</guid>
             <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[알아두면 좋은 유용한 사이트 모음 NO.2 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56810</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56810</guid>
+            <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[상세페이지, 그래서 팔리고 있으신가요? (아이보스 ─ 인기글)]]></title>
@@ -287,13 +287,6 @@
             <content:encoded><![CDATA[그린다이어리]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[잘 파는 회사의 레포트에 들어가는 핵심지표 3가지 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56717</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56717</guid>
-            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[준5941]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37996</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37996</guid>
@@ -348,6 +341,13 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7862</guid>
             <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[수익폭발 최신 해외 인터넷 마케팅 트렌드는 번들 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38000</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38000</guid>
+            <pubDate>Sat, 18 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[탁구공]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Meta, 결과에 초점을 맞춘 향후 광고 관리자 업데이트 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[CPM이 6,000원인 광고 상품으로 1만 회의 광고 노출을 보장받기 위해서 필요한 광고비는 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 25 Dec 2021 07:17:21 GMT</pubDate>
+            <pubDate>Sat, 25 Dec 2021 08:21:29 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->CPM이 6,000원인 광고 상품으로 1만 회의 광고 노출을 보장받기 위해서 필요한 광고비는 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
