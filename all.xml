@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 23:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 01:01:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,17 +168,17 @@
             <content:encoded><![CDATA[셀트너]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56841</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56841</guid>
-            <pubDate>Mon, 20 Dec 2021 06:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[메타버스 간접 체험해보실 분 🖐 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56788</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56788</guid>
             <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56841</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56841</guid>
+            <pubDate>Mon, 20 Dec 2021 06:21:15 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
@@ -348,6 +348,22 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38000</guid>
             <pubDate>Sat, 18 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[탁구공]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마이크로소프트, 잰더(Xandr) 인수... 프로그래매틱 광고 확장 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7936</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7936</guid>
+            <pubDate>Sun, 26 Dec 2021 09:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트는 AT&amp;T의 잰더(Xandr)를 인수한다. 미하일 파라힌 마이크로소프트 웹 경험 담당 사장은 `디지털 환경이 포스트 쿠키 세계에서 발전함에 따라 마이크로소프트와 잰더가 함께 미래의 디지털 광고 시장을 형성하는데  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인포그래픽] 2021년을 대표하는 기업들 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7935</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7935</guid>
+            <pubDate>Sun, 26 Dec 2021 09:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021년에도 수많은 기업들이 새로 생기고 없어졌다. 그런 가운데 대중들의 관심을 끌면서 사회에 영향을 끼친 기업들이 있다. 비주얼 캐피털리스트는 구글 트렌드를 중심으로 2021년을 정의한 기업으로 로빈후드화이자코인베이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[Meta, 결과에 초점을 맞춘 향후 광고 관리자 업데이트 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -574,20 +590,18 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[문화과학신뢰를 통해 성장하는 디지털 광고산업 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7905</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7905</guid>
-            <pubDate>Tue, 21 Dec 2021 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[광고시장의 신지형도 그리고 디지털 광고의 당면과제  이미 광고 산업에서 디지털 광고 영역은 규모의 경제로 성장했다. 실제로 2020년 기준 국내 총 광고비의 52.5%가 디지털 매체에 할애되고 있다. 물론 21년도 집계 결과가 나오 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c4e667ce9ff6f13d94e3b9b3831e72dd_7658_6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[마이크로소프트, 잰더(Xandr) 인수... 프로그래매틱 광고 확장 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7936</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7936</guid>
+            <pubDate>Sun, 26 Dec 2021 01:00:53 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[한국갤럽] 2021년 올해를 빛낸 가수, 방탄소년단과 임영웅... 올해 최고의 가요, Butter와 이제 나만 믿어요 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7904</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7904</guid>
-            <pubDate>Tue, 21 Dec 2021 08:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국갤럽이 2021년 7~8월, 9~10월, 11월 세 차례에 걸쳐 전국(제주 제외)의 만 13세 이상 5,103명을 대상으로 올 한 해 활동한 우리나라 대중가요 가수/그룹 중 가장 좋아하는 가수를 세 명까지 물었다(자유응답). 그 결과 30대 이하(13~39 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dfe72da313ee79a8a237d139ed0a8c7e_18535_6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[인포그래픽] 2021년을 대표하는 기업들 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7935</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7935</guid>
+            <pubDate>Sun, 26 Dec 2021 01:00:53 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Meta, 결과에 초점을 맞춘 향후 광고 관리자 업데이트 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘문화·과학·신뢰’를 통해 성장하는 ‘디지털 광고산업’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7905</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7905</guid>
-            <pubDate>Tue, 21 Dec 2021 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[한국갤럽] 2021년 올해를 빛낸 가수, 방탄소년단과 임영웅... 올해 최고의 가요, Butter와 이제 나만 믿어요 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7904</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7904</guid>
-            <pubDate>Tue, 21 Dec 2021 08:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[CPM이 6,000원인 광고 상품으로 1만 회의 광고 노출을 보장받기 위해서 필요한 광고비는 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 25 Dec 2021 23:17:49 GMT</pubDate>
+            <pubDate>Sun, 26 Dec 2021 01:01:07 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->CPM이 6,000원인 광고 상품으로 1만 회의 광고 노출을 보장받기 위해서 필요한 광고비는 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
