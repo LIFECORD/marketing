@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 09:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 10:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[유튜브 트렌드 한눈에솔루션 제공하는 샌드박스 데이터랩팀 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7937</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7937</guid>
+            <pubDate>Sun, 26 Dec 2021 10:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브 트렌드를 한눈에 볼 수 있는 데이터를 소프트웨어 형태의 솔루션으로 제공하고 있는 곳은 샌드박스네트워크(샌드박스)밖에 없을걸요?샌드박스 데이터랩팀 노성산 이사의 말엔 자신감이 묻어났다. 국내 대표 MCN인 샌드 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[마이크로소프트, 잰더(Xandr) 인수... 프로그래매틱 광고 확장 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7936</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7936</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[ACE Talk] PROMOTION, PROTECTING, EVOLVING, 에델만코리아㈜ 장성빈 대표 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7906</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7906</guid>
-            <pubDate>Tue, 21 Dec 2021 08:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국광고학회(회장 안대천 인하대 교수)는 지난 12월 16일 광고계 대표기업 CEO대담 프로그램 ACE Talk 일곱 번째 시간으로 에델만코리아 장성빈 대표와 동국대 유창조 교수와의 대담을 진행했다. 장성빈 대표는 VISA카드에서 홍보  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA["유튜브 트렌드 한눈에"…솔루션 제공하는 '샌드박스 데이터랩팀' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7937</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7937</guid>
+            <pubDate>Sun, 26 Dec 2021 10:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마이크로소프트, 잰더(Xandr) 인수... 프로그래매틱 광고 확장 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[ACE Talk] PROMOTION, PROTECTING, EVOLVING, 에델만코리아㈜ 장성빈 대표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7906</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7906</guid>
-            <pubDate>Tue, 21 Dec 2021 08:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[CPM이 6,000원인 광고 상품으로 1만 회의 광고 노출을 보장받기 위해서 필요한 광고비는 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 26 Dec 2021 09:17:50 GMT</pubDate>
+            <pubDate>Sun, 26 Dec 2021 10:19:10 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->CPM이 6,000원인 광고 상품으로 1만 회의 광고 노출을 보장받기 위해서 필요한 광고비는 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
