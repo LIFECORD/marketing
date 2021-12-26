@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 22:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 23:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12월 27일 마케팅 뉴스클리핑] 네이버 연말팩 페이지 오픈... 쇼핑블로그 트렌드 정리 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7929</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7929</guid>
+            <pubDate>Mon, 27 Dec 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. `네이버 연말팩` 페이지 오픈... 쇼핑블로그 트렌드 정리  네이버가 크리스마스와 연말을 맞아 다양한 서비스별 이벤트콘텐츠 정보를 한데 모은 `네이버 연말팩` 페이지를 오픈했다. 이 중 `2021 연말 쇼핑 차트`에서는 네이버쇼 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e02493631bbd9f69715c50fa6fc66ffe_78748_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유튜브 트렌드 한눈에솔루션 제공하는 샌드박스 데이터랩팀]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7937</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7908</guid>
             <pubDate>Tue, 21 Dec 2021 09:40:00 GMT</pubDate>
             <content:encoded><![CDATA[강력한소비주체로떠오른 시니어소비자들이젊은세대못지않게자기관리에열정적이며,다양한브랜드에관심을가지고브랜드의커뮤니케이션및마케팅활동에민감하게반응한다는분석결과가나왔다. TBWA코리아의시니어타겟전문랩TBWA ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈서베이, 새 CI와 슬로건 데이터의 새로운 미래 공개]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7907</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7907</guid>
-            <pubDate>Tue, 21 Dec 2021 09:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[소비자 데이터 플랫폼 기업 ㈜오픈서베이(대표 황희영)가 기업 아이덴티티(CI)및 브랜드 아이덴티티(BI)를 개편했다. 이번 개편은 오픈서베이가 설문을 기반으로 한 다양한 형태의 데이터를 수집하고 분석하는 비즈니스 영역을  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
