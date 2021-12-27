@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 22:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 23:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12월 28일 마케팅 뉴스클리핑] BTS 요구에 1.2배 비빔면 출시... 모디슈머 마케팅 뜬다 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7943</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7943</guid>
+            <pubDate>Tue, 28 Dec 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. BTS 요구에 1.2배 비빔면 출시... `모디슈머 마케팅` 뜬다  방탄소년단의 멤버가 비빔면의 용량이 조금 더 많았으면 좋겠다고 하자, 해당 회사가 실제로 대용량 제품을 내놨다. MZ세대의 소비 취향을 곧바로 신제품 개발이나 브랜 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_cab69010877144ff538c6665a0b04792_67322_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중기부, 새해 비대면 바우처에 410억... 1만5000여 중기 지원]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7944</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7915</guid>
             <pubDate>Wed, 22 Dec 2021 08:45:00 GMT</pubDate>
             <content:encoded><![CDATA[광고, 마케팅, 미디어, 심지어 문화에서도 가장 핫한 메타버스. 광고회사들도 메타버스와 관련된 계획를 세우는 것은 당연하다. 인터퍼블릭의 미디어 에이전시 미디어허브는 직원을 위한 가상 테스트 장소, 현재 및 잠재 고객을 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[한국갤럽] 2021년 12월 한국인이 좋아하는 TV프로그램 : 신사와 아가씨, 2개월 연속 1위]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7914</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7914</guid>
-            <pubDate>Wed, 22 Dec 2021 08:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국갤럽이 2021년 12월 14~16일 전국 만 18세 이상 1,000명에게 요즘 가장 즐겨보는 TV프로그램을 물은 결과(2개까지 자유응답), KBS2 주말 드라마신사와 아가씨 가 선호도 5.5%로 2개월 연속 1위를 차지했다. 신사와 아가씨는통상의 주 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
