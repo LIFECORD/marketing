@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 05:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 06:22:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -175,6 +175,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[외워두세요, 7년차 마자이너가 밝히는 상세페이지에 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56844</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56844</guid>
+            <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[메타버스 간접 체험해보실 분 🖐 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56788</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56788</guid>
@@ -182,10 +189,10 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[외워두세요, 7년차 마자이너가 밝히는 상세페이지에 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56844</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56844</guid>
-            <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[알아두면 좋은 유용한 사이트 모음 NO.2 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56810</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56810</guid>
+            <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
         </item>
         <item>
@@ -194,13 +201,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-37915</guid>
             <pubDate>Thu, 09 Dec 2021 04:22:08 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[알아두면 좋은 유용한 사이트 모음 NO.2 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56810</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56810</guid>
-            <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 거절하게 만드는 마케터 유형 5가지 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56723</guid>
             <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김승수 의원, K광고산업진흥법 제정안 대표발의 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7941</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7941</guid>
+            <pubDate>Mon, 27 Dec 2021 06:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[우리나라 광고산업의 숙원인 광고산업진흥법 제정안이 국회에 발의됐다. 국민의힘 김승수 의원(대구 북구을,문체위 간사)은인쇄광고,영상광고,인터넷 광고 등 광고산업이 코로나로 인해 어려움을 겪으면서,중소 사업자들은 외 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[G마켓, 여성은 볼거리, 남성은 식품에 돈 써 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[위메프, 브랜드사에 D2C 플랫폼 무료 개방 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7911</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7911</guid>
-            <pubDate>Tue, 21 Dec 2021 00:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[입점 절차 없는 무료 서비스...위메프 쇼핑 콘텐츠 강화 목적 브랜드사에 자사몰 관련 데이터 무료 제공    위메프가 내년 1분기에 브랜드사와 이용자를 연결하는 D2C(Direct to Customer) 서비스를 시작한다고 21일 밝혔다.   브랜드 공 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16400571698389.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김승수 의원, ‘K광고산업진흥법’ 제정안 대표발의 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7941</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7941</guid>
+            <pubDate>Mon, 27 Dec 2021 06:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[G마켓, 여성은 볼거리, 남성은 식품에 돈 써 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[위메프, 브랜드사에 D2C 플랫폼 무료 개방 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7911</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7911</guid>
-            <pubDate>Tue, 21 Dec 2021 00:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 디지털 미디어에 대해 옳지 않은 설명을 한 사람은 누구일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 27 Dec 2021 05:18:22 GMT</pubDate>
+            <pubDate>Mon, 27 Dec 2021 06:22:16 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 디지털 미디어에 대해 옳지 않은 설명을 한 사람은 누구일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/63d90d088e86a8c3c1496ae17cb035f7_16402534707813.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

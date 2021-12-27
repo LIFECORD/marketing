@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 05:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 06:22:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김승수 의원, K광고산업진흥법 제정안 대표발의]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7941</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7941</guid>
+            <pubDate>Mon, 27 Dec 2021 06:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[우리나라 광고산업의 숙원인 광고산업진흥법 제정안이 국회에 발의됐다. 국민의힘 김승수 의원(대구 북구을,문체위 간사)은인쇄광고,영상광고,인터넷 광고 등 광고산업이 코로나로 인해 어려움을 겪으면서,중소 사업자들은 외 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[G마켓, 여성은 볼거리, 남성은 식품에 돈 써]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7940</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Dec 2021 09:18:13 GMT</pubDate>
             <content:encoded><![CDATA[대표적인 소셜네트워크서비스 인스타그램이 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 사업에 진출할 가능성이 커졌다.  아담 모세리 인스타그램 최고경영자(CEO)는 지난 18일(현지시간) 인스타그램 스토리를 통해 `아직 공식적 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[위메프, 브랜드사에 D2C 플랫폼 무료 개방]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7911</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7911</guid>
-            <pubDate>Tue, 21 Dec 2021 00:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[입점 절차 없는 무료 서비스...위메프 쇼핑 콘텐츠 강화 목적 브랜드사에 자사몰 관련 데이터 무료 제공    위메프가 내년 1분기에 브랜드사와 이용자를 연결하는 D2C(Direct to Customer) 서비스를 시작한다고 21일 밝혔다.   브랜드 공 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16400571698389.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
