@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 00:58:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 02:10:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1 더하기 1은 'ㅇㅃㄷ']]></title>
+            <link>https://qletter.i-boss.co.kr/view/811322-1_%EB%8D%94%ED%95%98%EA%B8%B0_1%EC%9D%80/</link>
+            <guid>https://qletter.i-boss.co.kr/view/811322-1_%EB%8D%94%ED%95%98%EA%B8%B0_1%EC%9D%80/</guid>
+            <pubDate>Mon, 27 Dec 2021 02:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/811322-1_더하기_1은/">
+						<div class="thumb"><img src="/images/qletter_811322.png"></div>
+						<p><strong> 1 더하기 1은 'ㅇㅃㄷ'</strong>2021.12.27</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_811322.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카피 쓰다 커피 원샷한 보스님께]]></title>
             <link>https://qletter.i-boss.co.kr/view/808243-%EC%B9%B4%ED%94%BC_%EC%93%B0%EB%8B%A4_%EC%BB%A4%ED%94%BC_%EC%9B%90%EC%83%B7%ED%95%9C_%EB%B3%B4%EC%8A%A4%EB%8B%98%EA%BB%98/</link>
@@ -127,17 +138,6 @@
 						<p><strong>머니러시! MZ가 주목하고 있어요 👀</strong>2021.11.18</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_764235.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MZ 몰리는 아트테크가 뭐길래]]></title>
-            <link>https://qletter.i-boss.co.kr/view/758692-MZ_%EB%AA%B0%EB%A6%AC%EB%8A%94_%EC%95%84%ED%8A%B8%ED%85%8C%ED%81%AC%EA%B0%80_%EB%AD%90%EA%B8%B8%EB%9E%98/</link>
-            <guid>https://qletter.i-boss.co.kr/view/758692-MZ_%EB%AA%B0%EB%A6%AC%EB%8A%94_%EC%95%84%ED%8A%B8%ED%85%8C%ED%81%AC%EA%B0%80_%EB%AD%90%EA%B8%B8%EB%9E%98/</guid>
-            <pubDate>Fri, 24 Dec 2021 06:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/758692-MZ_몰리는_아트테크가_뭐길래/">
-						<div class="thumb"><img src="/images/qletter_758692.png"></div>
-						<p><strong> MZ 몰리는 아트테크가 뭐길래</strong>2021.11.15</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_758692.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
