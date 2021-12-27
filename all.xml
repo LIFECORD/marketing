@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 08:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 09:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[중기부, 새해 비대면 바우처에 410억... 1만5000여 중기 지원 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7944</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7944</guid>
+            <pubDate>Mon, 27 Dec 2021 09:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[중소기업의 화상회의, 재택근무 등 비대면 업무시스템 구축을 지원하는 `비대면 서비스 바우처 사업`에 중기부가 새해 410억원을 투입한다.   1만5000여 중소기업을 대상으로 화상회의, 재택근무(협업 툴), 네트워크 및 보안 솔루 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[배달의민족 임금교섭 잠정합의 배달료, 실거리 기준으로 인상 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7942</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7942</guid>
@@ -582,18 +590,17 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[12월 22일 마케팅 뉴스클리핑] 카카오, 돌고래유괴단스튜디오좋 인수 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7913</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7913</guid>
-            <pubDate>Wed, 22 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 카카오, 돌고래유괴단스튜디오좋 인수  카카오엔터는 `돌고래유괴단`과 `스튜디오좋`의 지분 100%를 인수했다고 밝혔다. 돌고래유괴단과 스튜디오좋은 직접 기획제작한 커머셜 콘텐츠를 통해 단순히 브랜드 마케팅의 목적을  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8f5e51fd38e1b6e527e8fe8f44f85491_88811_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[중기부, 새해 비대면 바우처에 410억... 1만5000여 중기 지원 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7944</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7944</guid>
+            <pubDate>Mon, 27 Dec 2021 09:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[배달의민족 임금교섭 잠정합의… 배달료, 실거리 기준으로 인상 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7942</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7942</guid>
-            <pubDate>Mon, 27 Dec 2021 08:22:03 GMT</pubDate>
+            <pubDate>Mon, 27 Dec 2021 08:21:52 GMT</pubDate>
             <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[12월 22일 마케팅 뉴스클리핑] 카카오, 돌고래유괴단·스튜디오좋 인수 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7913</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7913</guid>
-            <pubDate>Wed, 22 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 디지털 미디어에 대해 옳지 않은 설명을 한 사람은 누구일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 27 Dec 2021 08:22:15 GMT</pubDate>
+            <pubDate>Mon, 27 Dec 2021 09:19:40 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 디지털 미디어에 대해 옳지 않은 설명을 한 사람은 누구일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/63d90d088e86a8c3c1496ae17cb035f7_16402534707813.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
