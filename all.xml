@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 06:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 07:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -245,18 +245,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[SW]  상원 최신판 올마식 광고관리 비법 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56735</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56735</guid>
-            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[상원1]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022년 주목해야 할 트렌드 총정리 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56862</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56862</guid>
             <pubDate>Wed, 22 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김매니저]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[SW]  상원 최신판 올마식 광고관리 비법 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56735</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56735</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[상원1]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7일만에 매출을 두 배로 늘릴 수 있는 두가지 비법 (아이보스 ─ 인기글)]]></title>
@@ -593,7 +593,7 @@
             <title><![CDATA[김승수 의원, ‘K광고산업진흥법’ 제정안 대표발의 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7941</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7941</guid>
-            <pubDate>Mon, 27 Dec 2021 06:22:03 GMT</pubDate>
+            <pubDate>Mon, 27 Dec 2021 06:21:49 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 디지털 미디어에 대해 옳지 않은 설명을 한 사람은 누구일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 27 Dec 2021 06:22:16 GMT</pubDate>
+            <pubDate>Mon, 27 Dec 2021 07:17:38 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 디지털 미디어에 대해 옳지 않은 설명을 한 사람은 누구일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/63d90d088e86a8c3c1496ae17cb035f7_16402534707813.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
