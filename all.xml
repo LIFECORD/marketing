@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 02:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 03:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -266,18 +266,18 @@
             <content:encoded><![CDATA[렐라뿅]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[상세페이지 기획 어렵네요 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37889</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37889</guid>
-            <pubDate>Fri, 03 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[rdg]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[7일만에 매출을 두 배로 늘릴 수 있는 두가지 비법 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56861</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56861</guid>
             <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[상세페이지 기획 어렵네요 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37889</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37889</guid>
+            <pubDate>Fri, 03 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[rdg]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[퇴사 후 귀농 테스트를 만들었는데,, 어디에 홍보를 .. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56723</guid>
             <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[G마켓, 여성은 볼거리, 남성은 식품에 돈 써 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7940</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7940</guid>
+            <pubDate>Mon, 27 Dec 2021 11:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[G마켓, 2021년 구매 객단가 종합 분석 결과 공개 여성고객, TV노트북태블릿 등 영상 시청 기기 소비 확대 남성고객, 식품취미 생활 지출 늘어    G마켓이 올 한해 동안 구매 객단가를 종합해 분석한 결과, 여성은 영상 시청을 위한  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16405735864658.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[D2C 브랜드가 소매 산업을 혁신하기 위해 소비자 경험을 다양화하는 방법 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16400571698389.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카카오엔터, 돌고래유괴단스튜디오좋 인수...창작력 강화 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7910</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7910</guid>
-            <pubDate>Tue, 21 Dec 2021 11:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[카카오엔터테인먼트(대표 김성수, 이진수)는 독창적 크리에이티브로 주목 받고 있는 콘텐츠 스튜디오 `돌고래유괴단`과 `스튜디오좋`의 지분 100%를 최근 인수했다고 21일 밝혔다.  카카오엔터는 이번 인수를 통해 스토리텔링 커 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[G마켓, 여성은 볼거리, 남성은 식품에 돈 써 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7940</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7940</guid>
+            <pubDate>Mon, 27 Dec 2021 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[D2C 브랜드가 소매 산업을 혁신하기 위해 소비자 경험을 다양화하는 방법 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오엔터, 돌고래유괴단·스튜디오좋 인수..."창작력 강화” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7910</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7910</guid>
-            <pubDate>Tue, 21 Dec 2021 11:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[유리나]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 디지털 미디어에 대해 옳지 않은 설명을 한 사람은 누구일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 27 Dec 2021 02:10:15 GMT</pubDate>
+            <pubDate>Mon, 27 Dec 2021 03:19:01 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 디지털 미디어에 대해 옳지 않은 설명을 한 사람은 누구일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/63d90d088e86a8c3c1496ae17cb035f7_16402534707813.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
@@ -811,6 +811,20 @@
 				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1328_1" value="1" class="AB-radio" id="PQ_BD5826_1328_1_0"><label for="PQ_BD5826_1328_1_0" id="label_PQ_BD5826_1328_1_0">(A) 훈이</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1328_1" value="2" class="AB-radio" id="PQ_BD5826_1328_1_1"><label for="PQ_BD5826_1328_1_1" id="label_PQ_BD5826_1328_1_1">(B) 유리</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1328_1" value="3" class="AB-radio" id="PQ_BD5826_1328_1_2"><label for="PQ_BD5826_1328_1_2" id="label_PQ_BD5826_1328_1_2">(C) 철수</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1328_1" value="4" class="AB-radio" id="PQ_BD5826_1328_1_3"><label for="PQ_BD5826_1328_1_3" id="label_PQ_BD5826_1328_1_3">(D) 없음</label></td></tr></tbody></table></td>
 			</tr>
 		</tbody>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서울시, 소상공인 전용관 'e서울사랑샵' 운영...수수료 30% 감면 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
+            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=217</link>
+            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=217</guid>
+            <pubDate>Mon, 27 Dec 2021 03:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[서울시가 11번가와 민관제휴를 체결하고 11번가 쇼핑몰 내 소상공인전용과 ‘e서울사랑샵’을 운영한다고 밝혔다.  e서울사랑샵 운영은 판로개척부터 판매수수료 감면, 운영 지원 등 소상공인이 안정적으로 온라인 시장에 진입할 수 있도록 종합적인 지원을 펼쳐 자생력을 길러주는 것이 핵심이다.  'e서울사랑샵'에는 6만6000여개 기업 176만개 제품이 판매될 예정이며, 온라인 시장 초기 진입을 돕기 위해 판매수수료를 기존보다 30% 낮춰 부담을 덜었다. 또 e서울사랑상품권(5% 할인)으로 결제할 경우 11번가 상품별 자체 최대 10% 추가 할인 혜택을 받을 수 있다.  e서울사랑상품권은 총 356억원 규모로 구별 분산 발행한다. 오픈 기념으로 결제금액의 10%, 선착순 1인당 월 최대 2만원까지 상품권으로 페이백 해주는 행사도 함께 진행한다.  서울시 관계자는 “코로나19 장기화와 소비 트렌드 변화로 비대면 온라인 쇼핑이 늘어나면서 판로개척과 디지털 노하우가 부족해 어려움을 겪는 소상공인을 지원하기 위해 온라인몰을 개설했다”며 “e서울사랑샵은 품질 좋은 소상공인 상품을 한 곳에서 살 수 있는 편리한 쇼핑몰로 소상공인 매출증대에 도움을 주고 할인된 가격으로 상품을 구매할 수 있는 1석 2조 효과를 누릴 수 있다"고 설명했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소상공인 95만명에 전기료 900억 지원…1인당 약 10만원 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
+            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=216</link>
+            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=216</guid>
+            <pubDate>Mon, 27 Dec 2021 03:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 소상공인 동절기 전기요금 부담을 줄여주기 위해 900억원을 추가로 지원한다.   산업통상자원부 관계자는 "올해 추경으로 마련된 소상공인 전기요금 지원사업 예산 2천202억원 중 970억원이 남았다"며 "해당 잔액을 동절기 소상공인들의 전기료를 추가로 지원할 계획"이라고 밝혔다.  그는 이어 "다만 970억원 가운데 100억원 이내에서 저소득층을 위한 에너지 바우처를 우선 제공하고 남은 규모를 소상공인 전기요금 지원으로 쓸 계획"이라고 설명했다.   동절기 소상공인 전기요금은 12월과 내년 1월분에 해당한다. 바우처 사업비를 제외하면 870억원에서 900억원 가량의 예산이 소상공인에게 지원될 것으로 예상된다. 지원 대상자는 약 95만명이며 이는 1인당 평균 9만5천원의 규모다.   앞서 산업부는 방역조치로 공과금 부담이 늘어난 소상공인을 위해 3개월분(4~6월)의 전기요금을 추경으로 지원했다. 이런 가운데 당초 115만명을 예상했던 데서 실제 대상자는 21만명 가량 축소되면서 예산이 남은 것으로 파악됐다.  산업부 관계자는 "중기부에서 파악해 준 대상자를 기획재정부에 넘겼고 예산 편성과 실제 집행되는 가운데 차이가 발생했다"고 설명했다.  이번 지원은 올해만 한시적으로 실시될 전망이다. 내년도 예산에 소상공인 전기요금 지원사업이 제외돼서다. 전기요금 동결 여부도 아직은 확정적이지 않다.  산업부 관계자는 "전기요금 지원사업은 한시사업으로 올해 추경으로만 예산이 마련됐고 내년 예산에는 해당 사업이 없다"며 "전기요금 역시 인상할 수 있는 여건은 수두룩해 동결될 지는 확정된 게 없다"고 말했다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부, 320만 소상공인에 100만원 방역지원금 지원 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
@@ -867,20 +881,6 @@
             <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=208</guid>
             <pubDate>Mon, 20 Dec 2021 02:10:19 GMT</pubDate>
             <content:encoded><![CDATA[편의점에 이어 지방자치단체마다 다른 조치로 소상공인 손실보상에서 제외됐던 학원, 대면 방식의 교습소도 보상금을 받을 수 있게 됐다.   중소벤처기업부(중기부)에 따르면 학원 운영업자에 대한 손실보상 유권 해석과 관련한 지방청의 잇따른 문의에 대해 영업시간 제한 해당 여부를 질의응답 형식의 문서로 광역기초자치단체에 발송했다.  중기부 관계자는 "학원의 영업 시간으로 수업 외에도 상담, 평가 등 다양한 행위가 있다고 보고, 영업에 제한을 받은 것으로 해석할 수 있는 근거를 준 것"이라며 “지방청에 Q&amp;A를 통한 지침을 줬고 지방청 차원에서 각 지자체에 공유하기로 했다"고 설명했다.  지난 10월 8일 시행된 소상공인 보호 및 지원에 관한 법률(소상공인손실보상법)은 신종 코로나바이러스 감염증(코로나19) 확산 방지를 위한 집합금지나 영업제한 등의 행정명령으로 심각한 피해를 입은 경우 조치 수준과 피해 규모 등을 고려해 10만~1억 원의 손실보상금을 지원하도록 정하고 있다.   그런데 일부 학원·교습소 운영자는 소상공인 손실보상 대상에서 제외된 바 있다. 일부 지자체가 조례로 학원의 수업시간만을 제한해 이외 학원의 활동에 대한 영업시간 제한은 반영되지 않았던 것이다. 중기부는 "학원의 경우 소상공인 손실보상의 적용을 받는 영업시간 제한에 교습 외에도 상담, 평가 등 개별 학원이 수행하는 다양한 영업행위를 포함하는 것으로 보는 게 타당하다"며 "반면 조례는 교습시간의 제한만을 규정하고 있어 손실보상의 제한 대상인 영업시간과는 그 적용범위가 다르다"고 설명했다.  이어 "각 지자체가 영업시간 제한 조치를 부과하고 방역 이행 여부를 확인한 학원에 대해선 조례 유무와 상관없이 손실보상 대상으로 인정해 운영할 계획"이라고 덧붙였다.   앞서 중기부는 손실보상 대상에서 제외돼 반발이 나온 편의점도 손실보상 대상에 포함하는 내용의 문서를 각 지자체에 발송했다. 편의점업계는 지난 7월부터 일정 시간 이후 실내 취식 금지 등 영업 제한을 받았지만 손실보상 대상에서 제외되었고 지자체 별로 다른 해석으로 혼선을 빚은 바 있다.   한편 중기부는 손실보상 하한액을 10만원에서 50만원으로 상향하는 등 내년 소상공인 손실보상 예산을 애초 정부안인 1조8000억원에서 4000억원 증액한 2조2000억원으로 확정했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘겨울방학 알바 채용관’ 오픈, 알바 5000건 한 눈에...자영업자 구인난 해소 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=207</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=207</guid>
-            <pubDate>Tue, 14 Dec 2021 00:59:56 GMT</pubDate>
-            <content:encoded><![CDATA[아르바이트 전문 포털 '알바천국'이 겨울방학 시즌에 딱 맞는 알바자리를 한 눈에 볼 수 있는 '겨울방학 알바 채용관' 서비스를 시작했다.   겨울방학 알바 채용관에서는 방학 시즌에 적합한 근무기간과 추운 겨울 날씨에 최적화된 업직종 알바 공고를 손쉽게 확인할 수 있다. 날씨에 구애 받지 않고 쾌적한 실내 환경에서 근무할 수 있는 ▲카페ㆍ디저트 ▲백화점ㆍ아울렛 ▲사무보조 ▲편의점ㆍ드럭스토어 ▲학원ㆍ과외 ▲호텔ㆍ리조트 등이 대표적이다.   특히 채용관 상단 영역에서는 겨울방학 알바 중 식사 지원 등 복지 혜택이 뛰어나고 시급, 월급 등 급여가 높은 공고를 우선적으로 확인할 수 있다.   알바천국 관계자는 “알바천국 자체 설문조사 결과 겨울방학을 앞두고 고3 및 대학생 10명 중 9명이 아르바이트 구직할 예정인 것으로 집계되는 등 겨울방학 알바에 대한 관심이 매우 높은 상황”이라며 “이번 채용관 서비스를 통해 원하는 근무기간과 업종, 급여나 근무 조건까지 딱 맞는 알바자리를 찾으시길 바란다”고 말했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[겨울철 코로나19 식당 방역...'환기'가 핵심 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=206</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=206</guid>
-            <pubDate>Tue, 14 Dec 2021 00:59:56 GMT</pubDate>
-            <content:encoded><![CDATA[차가워진 날씨에 실내에 머무는 시간이 많아지면서 코로나19 확산 우려가 커지고 있는 가운데 방역당국이 겨울철 개인방역 못지 않게 '시설 환기'의 중요성을 강조했다.   코로나19 바이러스가 공기 중에서 3시간 가량 생존하는 것으로 알려져 있는 만큼 감염 위험을 낮추기 위해서는 무엇보다 '환기'가 중요하다. 연구 결과에 따르면 한 시간에 3번, 10분 정도 환기하면 공기 전파 감염 위험도가 3분의 1까지 줄어드는 것으로 나타났다.   정동식 동아대 감염내과 교수는 "공기의 흐름을 유지할 수 있는 환기가 이루어진다면 1m~2m 내에 바이러스가 바닥으로 떨어지기 때문에 집단 감염으로 퍼질 수 있는 부분을 상당수 줄일 수 있다"고 말했다.   출입문과 창문을 열어도 감염 위험도를 낮출 수 있으며 바람이 잘 통하게 '길'을 만드는 것이 중요하다. 공간 구조상 맞통풍이 어려울 경우에는 선풍기 등을 틀어 실내 공기가 밖으로 잘 배출될 수 있도록 하는 것도 좋은 방법이다.   주의할 점은 하나의 복도에 여러 사무 공간이 있는 경우, 출입문을 열어 두면 오히려 바이러스가 더 확산할 우려가 있어 출입문은 항상 닫아야 하고, 창문을 열고 환기할 때만 같이 열어둬야 한다. 또, 환기 설비의 내부 순환 기능은 사용을 권장하지 않는다.   환기 외에 코로나19 예방을 위해서는 손을 30초 이상 비누로 씻거나, 손소독제를 사용해야 한다. 옷에 묻은 코로나19 바이러스를 털어내기 위해서는 세탁을 자주 하는 것이 좋다.]]></content:encoded>
         </item>
     </channel>
 </rss>

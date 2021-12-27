@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 02:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 03:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[G마켓, 여성은 볼거리, 남성은 식품에 돈 써]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7940</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7940</guid>
+            <pubDate>Mon, 27 Dec 2021 11:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[G마켓, 2021년 구매 객단가 종합 분석 결과 공개 여성고객, TV노트북태블릿 등 영상 시청 기기 소비 확대 남성고객, 식품취미 생활 지출 늘어    G마켓이 올 한해 동안 구매 객단가를 종합해 분석한 결과, 여성은 영상 시청을 위한  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16405735864658.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[D2C 브랜드가 소매 산업을 혁신하기 위해 소비자 경험을 다양화하는 방법]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7939</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Dec 2021 00:26:00 GMT</pubDate>
             <content:encoded><![CDATA[입점 절차 없는 무료 서비스...위메프 쇼핑 콘텐츠 강화 목적 브랜드사에 자사몰 관련 데이터 무료 제공    위메프가 내년 1분기에 브랜드사와 이용자를 연결하는 D2C(Direct to Customer) 서비스를 시작한다고 21일 밝혔다.   브랜드 공 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16400571698389.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오엔터, 돌고래유괴단스튜디오좋 인수...창작력 강화]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7910</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7910</guid>
-            <pubDate>Tue, 21 Dec 2021 11:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[카카오엔터테인먼트(대표 김성수, 이진수)는 독창적 크리에이티브로 주목 받고 있는 콘텐츠 스튜디오 `돌고래유괴단`과 `스튜디오좋`의 지분 100%를 최근 인수했다고 21일 밝혔다.  카카오엔터는 이번 인수를 통해 스토리텔링 커 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
