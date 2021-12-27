@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 07:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 08:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배달의민족 임금교섭 잠정합의 배달료, 실거리 기준으로 인상]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7942</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7942</guid>
+            <pubDate>Mon, 27 Dec 2021 08:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[배달 앱 배달의민족을 운영하는 ㈜우아한청년들과 민주노총 서비스일반노동조합 배달플랫폼지부가 어제(24일) 노사 협상을 통해 배달료 단체 협상 합의안을 도출해냈다.  합의안에 따르면, 배달료는 산정 기준을 기존 직선거리 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_7f64e1a2e8cdd2dbf922c822742e8bf4_1640589796725.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김승수 의원, K광고산업진흥법 제정안 대표발의]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7941</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 22 Dec 2021 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 카카오, 돌고래유괴단스튜디오좋 인수  카카오엔터는 `돌고래유괴단`과 `스튜디오좋`의 지분 100%를 인수했다고 밝혔다. 돌고래유괴단과 스튜디오좋은 직접 기획제작한 커머셜 콘텐츠를 통해 단순히 브랜드 마케팅의 목적을  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8f5e51fd38e1b6e527e8fe8f44f85491_88811_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인스타그램, NFT 진출 가능성 커졌다 CEO 적극 검토 중]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7912</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7912</guid>
-            <pubDate>Tue, 21 Dec 2021 09:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[대표적인 소셜네트워크서비스 인스타그램이 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 사업에 진출할 가능성이 커졌다.  아담 모세리 인스타그램 최고경영자(CEO)는 지난 18일(현지시간) 인스타그램 스토리를 통해 `아직 공식적 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

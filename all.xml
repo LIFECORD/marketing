@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 07:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 08:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -154,18 +154,18 @@
             <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[아이보스 연말 이벤트] 이벤트 참여하고 프레임 받.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-428</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-428</guid>
-            <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[인스타그램 2022 트렌드 리포트 한글 번역본입니다^^ (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56829</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56829</guid>
             <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[루비빙]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[아이보스 연말 이벤트] 이벤트 참여하고 프레임 받.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-428</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-428</guid>
+            <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56723</guid>
             <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[배달의민족 임금교섭 잠정합의 배달료, 실거리 기준으로 인상 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7942</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7942</guid>
+            <pubDate>Mon, 27 Dec 2021 08:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[배달 앱 배달의민족을 운영하는 ㈜우아한청년들과 민주노총 서비스일반노동조합 배달플랫폼지부가 어제(24일) 노사 협상을 통해 배달료 단체 협상 합의안을 도출해냈다.  합의안에 따르면, 배달료는 산정 기준을 기존 직선거리 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_7f64e1a2e8cdd2dbf922c822742e8bf4_1640589796725.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김승수 의원, K광고산업진흥법 제정안 대표발의 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8f5e51fd38e1b6e527e8fe8f44f85491_88811_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인스타그램, NFT 진출 가능성 커졌다 CEO 적극 검토 중 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7912</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7912</guid>
-            <pubDate>Tue, 21 Dec 2021 09:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[대표적인 소셜네트워크서비스 인스타그램이 대체불가능한 토큰(Non-Fungible Token, 이하 NFT) 사업에 진출할 가능성이 커졌다.  아담 모세리 인스타그램 최고경영자(CEO)는 지난 18일(현지시간) 인스타그램 스토리를 통해 `아직 공식적 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[배달의민족 임금교섭 잠정합의… 배달료, 실거리 기준으로 인상 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7942</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7942</guid>
+            <pubDate>Mon, 27 Dec 2021 08:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김승수 의원, ‘K광고산업진흥법’ 제정안 대표발의 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인스타그램, NFT 진출 가능성 커졌다… CEO "적극 검토 중" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7912</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7912</guid>
-            <pubDate>Tue, 21 Dec 2021 09:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[유리나]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 디지털 미디어에 대해 옳지 않은 설명을 한 사람은 누구일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 27 Dec 2021 07:17:38 GMT</pubDate>
+            <pubDate>Mon, 27 Dec 2021 08:22:15 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 디지털 미디어에 대해 옳지 않은 설명을 한 사람은 누구일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/63d90d088e86a8c3c1496ae17cb035f7_16402534707813.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
