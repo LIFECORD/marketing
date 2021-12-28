@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 14:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 15:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7920</guid>
             <pubDate>Thu, 23 Dec 2021 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['이것'은 상업자 표시 신용카드를 의미합니다. 최근 MZ세대를 공략하기 위해 많은 카드사와 게임업체가 협업해 출시하고 있는 이것은 무엇일까요?(hint: 12월 23일 뉴스클리핑에서 정답 찾기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 28 Dec 2021 14:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->'이것'은 상업자 표시 신용카드를 의미합니다. 최근 MZ세대를 공략하기 위해 많은 카드사와 게임업체가 협업해 출시하고 있는 이것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7920" target="_blank">12월 23일 뉴스클리핑에서 정답 찾기!</a>)</span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1329_1" value="1" class="AB-radio" id="PQ_BD5826_1329_1_0"><label for="PQ_BD5826_1329_1_0" id="label_PQ_BD5826_1329_1_0">(A) PLCC</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1329_1" value="2" class="AB-radio" id="PQ_BD5826_1329_1_1"><label for="PQ_BD5826_1329_1_1" id="label_PQ_BD5826_1329_1_1">(B) BNPL</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1329_1" value="3" class="AB-radio" id="PQ_BD5826_1329_1_2"><label for="PQ_BD5826_1329_1_2" id="label_PQ_BD5826_1329_1_2">(C) UGC</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1329_1" value="4" class="AB-radio" id="PQ_BD5826_1329_1_3"><label for="PQ_BD5826_1329_1_3" id="label_PQ_BD5826_1329_1_3">(D) ICC</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시, 소상공인 전용관 'e서울사랑샵' 운영...수수료 30% 감면 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
