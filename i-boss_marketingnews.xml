@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 02:06:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 03:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 쇼핑라이브, 1년 4개월새 평균 매출 48%  단골 128%]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7947</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7947</guid>
+            <pubDate>Tue, 28 Dec 2021 11:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[김지영 성균관대 교수 연구결과 공개...쇼핑라이브 효용성 입증 온라인 진입 장벽 낮춰 중소상공인에게도 성장 기회 제공 소규모 SME일수록 성장 효과 더욱 뚜렷, 3배 이상 효과 발생     네이버가 김지영 성균관대학교 교수 연구 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16406572580058.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[디자이너 꿈꾸는 취업준비생 54%, 눈 앞 수익보다는 성장 원해]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7946</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 22 Dec 2021 06:21:49 GMT</pubDate>
             <content:encoded><![CDATA[21일 모바일 앱 개편... 서울 강남 일부 지역서 시범 운영  배달앱 배달의민족 운영사 우아한형제들이 배달음식 주문 외에 화장품, 꽃 등 각종 상품을 사고팔 수 있는 `배민스토어`를 열고 시범 운영에 돌입했다.  우아한형제들은  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[티몬, 인플루언서와 공동기획 브랜드 위드티몬 공개]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7917</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7917</guid>
-            <pubDate>Wed, 22 Dec 2021 11:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[D2C 상품 유통...유통단계 최소화해 합리적 소비 지원   티몬이 인플루언서들과 협력해 상품을 기획하는 위드티몬(with TMON)을 선보인다고 22일 밝혔다.   티몬은 인플루언서가 가진 정보성 콘텐츠와 팬덤을 기반으로 제품 신뢰도와 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16401387290793.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
