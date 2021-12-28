@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-28T03:18:41.596Z</updated>
+    <updated>2021-12-28T04:23:48.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[오늘그리고내일]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56816</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56816"/>
-        <updated>2021-12-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년 주목해야 할 트렌드 총정리]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56862</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56862"/>
         <updated>2021-12-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[김매니저]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56816</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56816"/>
+        <updated>2021-12-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7일만에 매출을 두 배로 늘릴 수 있는 두가지 비법]]></title>
