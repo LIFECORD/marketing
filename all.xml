@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 04:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 06:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,17 +196,17 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마케팅밈] 마케팅 유우머 - 1 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37915</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37915</guid>
-            <pubDate>Thu, 09 Dec 2021 04:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 거절하게 만드는 마케터 유형 5가지 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38017</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38017</guid>
             <pubDate>Thu, 23 Dec 2021 08:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[마케팅밈] 마케팅 유우머 - 1 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37915</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37915</guid>
+            <pubDate>Thu, 09 Dec 2021 04:22:08 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -308,18 +308,18 @@
             <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[소상공인은 앞으로 경험 마케팅의 시대를 맞이한다. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56782</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56782</guid>
-            <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[yoorok]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[1+1과 무료배송만 입점하는 네이버 신규 쇼핑판 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56880</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56880</guid>
             <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소상공인은 앞으로 경험 마케팅의 시대를 맞이한다. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56782</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56782</guid>
+            <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[안녕하세요 저는 김치입니다!! (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7862</guid>
             <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[지난해 방송통신 광고비 처음으로 줄었다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7948</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7948</guid>
+            <pubDate>Tue, 28 Dec 2021 06:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 국내 방송통신 총 광고비가 14조1천203억원 규모로 집계됐다. 2014년 이후 관련 조사를 시작한 이후 처음으로 총 광고비가 감소한 것으로 나타났다.  28일 과학기술정보통신부와 한국방송광고진흥공사가 발표한 방송통신광 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[네이버 쇼핑라이브, 1년 4개월새 평균 매출 48%  단골 128% (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[배달의민족, 커머스 확장 박차... 배민스토어 시범 운영 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7918</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7918</guid>
-            <pubDate>Wed, 22 Dec 2021 06:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[21일 모바일 앱 개편... 서울 강남 일부 지역서 시범 운영  배달앱 배달의민족 운영사 우아한형제들이 배달음식 주문 외에 화장품, 꽃 등 각종 상품을 사고팔 수 있는 `배민스토어`를 열고 시범 운영에 돌입했다.  우아한형제들은  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[지난해 방송통신 광고비 처음으로 줄었다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7948</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7948</guid>
+            <pubDate>Tue, 28 Dec 2021 06:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버 쇼핑라이브, 1년 4개월새 평균 매출 48%↑ · 단골 128%↑ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[배달의민족, 커머스 확장 박차... '배민스토어' 시범 운영 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7918</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7918</guid>
-            <pubDate>Wed, 22 Dec 2021 06:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['이것'은 상업자 표시 신용카드를 의미합니다. 최근 MZ세대를 공략하기 위해 많은 카드사와 게임업체가 협업해 출시하고 있는 이것은 무엇일까요?(hint: 12월 23일 뉴스클리핑에서 정답 찾기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 28 Dec 2021 04:23:39 GMT</pubDate>
+            <pubDate>Tue, 28 Dec 2021 06:22:12 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 상업자 표시 신용카드를 의미합니다. 최근 MZ세대를 공략하기 위해 많은 카드사와 게임업체가 협업해 출시하고 있는 이것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7920" target="_blank">12월 23일 뉴스클리핑에서 정답 찾기!</a>)</span></td>
 			</tr>
