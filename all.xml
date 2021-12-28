@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 23:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 00:57:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -175,17 +175,17 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[알아두면 좋은 유용한 사이트 모음 NO.2 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56810</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56810</guid>
-            <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[외워두세요, 7년차 마자이너가 밝히는 상세페이지에 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56844</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56844</guid>
             <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[알아두면 좋은 유용한 사이트 모음 NO.2 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56810</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56810</guid>
+            <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
         </item>
         <item>
@@ -343,11 +343,27 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[온라인 명품 플랫폼 인기의 비결은? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56723</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56723</guid>
-            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[1+1과 무료배송만 입점하는 네이버 신규 쇼핑판 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56880</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56880</guid>
+            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[디자이너 꿈꾸는 취업준비생 54%, 눈 앞 수익보다는 성장 원해 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7946</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7946</guid>
+            <pubDate>Tue, 28 Dec 2021 09:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[20만 디자이너 회원을 보유한 국내 최대 디자인 플랫폼 스터닝(대표 김승환)이 9월 자사 이용자 435명을 대상으로 설문조사한 결과를 28일 밝혔다. 설문조사 결과, 자기 계발과 포트폴리오 관리가 54%로 가장 높게 나타난 반면, 추 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[KAI] 새해에도 TV  모바일은 꾸준한 광고 집행 전망 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7945</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7945</guid>
+            <pubDate>Tue, 28 Dec 2021 09:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코, 사장 이백만)는 2022년 1월의 광고경기를 전망하는 광고경기전망지수(KAI ;Korea Advertising Index)를 발표했다. 통계청 국가승인통계인 광고경기전망지수(KAI)는 매월 국내 450여개 광고주에게 다음 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[12월 28일 마케팅 뉴스클리핑] BTS 요구에 1.2배 비빔면 출시... 모디슈머 마케팅 뜬다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -574,26 +590,24 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16401387290793.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[명품 앱 시장, 올해만 사용자 211% 급증... 8월 이후 폭발적 성장 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7916</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7916</guid>
-            <pubDate>Wed, 22 Dec 2021 09:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 모바일 빅데이터 플랫폼 기업 아이지에이웍스가 자사의 데이터 분석 솔루션모바일인덱스를 통해리포트를 발표했다.분석 기간은2021년1월1일부터2021년11월30일까지로,일평균4000만 모바일 기기의20억건 데이터(안드로이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[디자이너 꿈꾸는 취업준비생 54%, 눈 앞 수익보다는 "성장" 원해 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7946</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7946</guid>
+            <pubDate>Tue, 28 Dec 2021 00:57:35 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미디어허브, 메타버스에 사무실을 오픈하다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7915</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7915</guid>
-            <pubDate>Wed, 22 Dec 2021 08:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[광고, 마케팅, 미디어, 심지어 문화에서도 가장 핫한 메타버스. 광고회사들도 메타버스와 관련된 계획를 세우는 것은 당연하다. 인터퍼블릭의 미디어 에이전시 미디어허브는 직원을 위한 가상 테스트 장소, 현재 및 잠재 고객을 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[KAI] 새해에도 TV · 모바일은 꾸준한 광고 집행 전망 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7945</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7945</guid>
+            <pubDate>Tue, 28 Dec 2021 00:57:35 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[12월 28일 마케팅 뉴스클리핑] BTS 요구에 1.2배 비빔면 출시... '모디슈머 마케팅' 뜬다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7943</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7943</guid>
-            <pubDate>Mon, 27 Dec 2021 23:17:46 GMT</pubDate>
+            <pubDate>Tue, 28 Dec 2021 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[명품 앱 시장, 올해만 사용자 211% 급증... 8월 이후 폭발적 성장 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7916</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7916</guid>
-            <pubDate>Wed, 22 Dec 2021 09:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미디어허브, 메타버스에 사무실을 오픈하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7915</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7915</guid>
-            <pubDate>Wed, 22 Dec 2021 08:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['이것'은 상업자 표시 신용카드를 의미합니다. 최근 MZ세대를 공략하기 위해 많은 카드사와 게임업체가 협업해 출시하고 있는 이것은 무엇일까요?(hint: 12월 23일 뉴스클리핑에서 정답 찾기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 27 Dec 2021 23:18:01 GMT</pubDate>
+            <pubDate>Tue, 28 Dec 2021 00:57:47 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 상업자 표시 신용카드를 의미합니다. 최근 MZ세대를 공략하기 위해 많은 카드사와 게임업체가 협업해 출시하고 있는 이것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7920" target="_blank">12월 23일 뉴스클리핑에서 정답 찾기!</a>)</span></td>
 			</tr>

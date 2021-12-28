@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 23:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 00:57:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디자이너 꿈꾸는 취업준비생 54%, 눈 앞 수익보다는 성장 원해]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7946</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7946</guid>
+            <pubDate>Tue, 28 Dec 2021 09:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[20만 디자이너 회원을 보유한 국내 최대 디자인 플랫폼 스터닝(대표 김승환)이 9월 자사 이용자 435명을 대상으로 설문조사한 결과를 28일 밝혔다. 설문조사 결과, 자기 계발과 포트폴리오 관리가 54%로 가장 높게 나타난 반면, 추 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[KAI] 새해에도 TV  모바일은 꾸준한 광고 집행 전망]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7945</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7945</guid>
+            <pubDate>Tue, 28 Dec 2021 09:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코, 사장 이백만)는 2022년 1월의 광고경기를 전망하는 광고경기전망지수(KAI ;Korea Advertising Index)를 발표했다. 통계청 국가승인통계인 광고경기전망지수(KAI)는 매월 국내 450여개 광고주에게 다음 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[12월 28일 마케팅 뉴스클리핑] BTS 요구에 1.2배 비빔면 출시... 모디슈머 마케팅 뜬다 외]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7943</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 22 Dec 2021 11:05:00 GMT</pubDate>
             <content:encoded><![CDATA[D2C 상품 유통...유통단계 최소화해 합리적 소비 지원   티몬이 인플루언서들과 협력해 상품을 기획하는 위드티몬(with TMON)을 선보인다고 22일 밝혔다.   티몬은 인플루언서가 가진 정보성 콘텐츠와 팬덤을 기반으로 제품 신뢰도와 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16401387290793.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명품 앱 시장, 올해만 사용자 211% 급증... 8월 이후 폭발적 성장]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7916</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7916</guid>
-            <pubDate>Wed, 22 Dec 2021 09:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 모바일 빅데이터 플랫폼 기업 아이지에이웍스가 자사의 데이터 분석 솔루션모바일인덱스를 통해리포트를 발표했다.분석 기간은2021년1월1일부터2021년11월30일까지로,일평균4000만 모바일 기기의20억건 데이터(안드로이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[미디어허브, 메타버스에 사무실을 오픈하다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7915</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7915</guid>
-            <pubDate>Wed, 22 Dec 2021 08:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[광고, 마케팅, 미디어, 심지어 문화에서도 가장 핫한 메타버스. 광고회사들도 메타버스와 관련된 계획를 세우는 것은 당연하다. 인터퍼블릭의 미디어 에이전시 미디어허브는 직원을 위한 가상 테스트 장소, 현재 및 잠재 고객을 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
