@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 07:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 08:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검은 범 내려온다... 유통가, 호랑이 마케팅 후끈]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7949</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7949</guid>
+            <pubDate>Tue, 28 Dec 2021 08:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[28일 관련업계에 따르면 검은 호랑이 해를 맞아 식품유통업계에서는 호랑이 캐릭터를 모티브로 한 상품을 속속 선보이고 있다. 업계에서는 새해를 맞아 12지신 띠에 맞는 동물을 모티브로 한 상품을 선보이는 것이 연례행사처럼 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_9effa9a96d00fe8d9e42c0399c271968_84993_1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[지난해 방송통신 광고비 처음으로 줄었다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7948</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 23 Dec 2021 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 배달의민족, 커머스 확장 박차... `배민스토어` 시범 운영  우아한형제들은 배달의민족 앱 내 `배민스토어` 영역을 마련했다. 현재 배민스토어에 입점한 업체는 아리따움, 올가, 꾸까, 폴더 등 4곳이다. 우아한형제들 측은 음식  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16401929335244.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온라인 맞춤형 광고보험업계 등 개인정보 관리 점검한다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7919</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7919</guid>
-            <pubDate>Wed, 22 Dec 2021 07:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호위원회가 다음달부터 민감정보 활용이 많은 보험업계, 온라인 맞춤형 광고를 대상으로 개인정보 관리 실태점검을 실시합니다.   개인정보위는 `국민 개인정보 안심사회 실현`과 `신뢰 기반의 데이터 경제 활성화`,  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 07:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 08:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,18 +217,18 @@
             <content:encoded><![CDATA[언카피]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인크로스] 디지털 마케팅 트렌드 2022 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-3208-718</link>
-            <guid>https://www.i-boss.co.kr/ab-3208-718</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[카피 쓰다 막힐 때마다 꺼내 읽어요 📖 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-5637-28</link>
             <guid>https://www.i-boss.co.kr/ab-5637-28</guid>
             <pubDate>Thu, 23 Dec 2021 12:28:03 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[인크로스] 디지털 마케팅 트렌드 2022 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-3208-718</link>
+            <guid>https://www.i-boss.co.kr/ab-3208-718</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 주목해야 할 트렌드 총정리 (아이보스 ─ 인기글)]]></title>
@@ -315,6 +315,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[네이버 공식 NEW 알고리즘, 발칵 뒤집힙니다(Feat. 스마.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56894</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56894</guid>
+            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[해적보물선]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[소상공인은 앞으로 경험 마케팅의 시대를 맞이한다. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56782</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56782</guid>
@@ -343,11 +350,12 @@
             <content:encoded><![CDATA[탁구공]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버 공식 NEW 알고리즘, 발칵 뒤집힙니다(Feat. 스마.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56894</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56894</guid>
-            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[해적보물선]]></content:encoded>
+            <title><![CDATA[검은 범 내려온다... 유통가, 호랑이 마케팅 후끈 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7949</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7949</guid>
+            <pubDate>Tue, 28 Dec 2021 08:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[28일 관련업계에 따르면 검은 호랑이 해를 맞아 식품유통업계에서는 호랑이 캐릭터를 모티브로 한 상품을 속속 선보이고 있다. 업계에서는 새해를 맞아 12지신 띠에 맞는 동물을 모티브로 한 상품을 선보이는 것이 연례행사처럼 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_9effa9a96d00fe8d9e42c0399c271968_84993_1.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[지난해 방송통신 광고비 처음으로 줄었다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16401929335244.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[온라인 맞춤형 광고보험업계 등 개인정보 관리 점검한다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7919</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7919</guid>
-            <pubDate>Wed, 22 Dec 2021 07:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호위원회가 다음달부터 민감정보 활용이 많은 보험업계, 온라인 맞춤형 광고를 대상으로 개인정보 관리 실태점검을 실시합니다.   개인정보위는 `국민 개인정보 안심사회 실현`과 `신뢰 기반의 데이터 경제 활성화`,  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[검은 범 내려온다... 유통가, 호랑이 마케팅 '후끈' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7949</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7949</guid>
+            <pubDate>Tue, 28 Dec 2021 08:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지난해 방송통신 광고비 처음으로 줄었다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[온라인 맞춤형 광고·보험업계 등 '개인정보 관리' 점검한다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7919</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7919</guid>
-            <pubDate>Wed, 22 Dec 2021 07:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[유리나]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['이것'은 상업자 표시 신용카드를 의미합니다. 최근 MZ세대를 공략하기 위해 많은 카드사와 게임업체가 협업해 출시하고 있는 이것은 무엇일까요?(hint: 12월 23일 뉴스클리핑에서 정답 찾기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 28 Dec 2021 07:18:09 GMT</pubDate>
+            <pubDate>Tue, 28 Dec 2021 08:22:40 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 상업자 표시 신용카드를 의미합니다. 최근 MZ세대를 공략하기 위해 많은 카드사와 게임업체가 협업해 출시하고 있는 이것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7920" target="_blank">12월 23일 뉴스클리핑에서 정답 찾기!</a>)</span></td>
 			</tr>
