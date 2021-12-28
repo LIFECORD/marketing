@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 06:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 07:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,18 +231,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[출근 전날 연봉 500 깎는 회사 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37910</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37910</guid>
-            <pubDate>Tue, 07 Dec 2021 08:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022년 주목해야 할 트렌드 총정리 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56862</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56862</guid>
             <pubDate>Wed, 22 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김매니저]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[출근 전날 연봉 500 깎는 회사 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37910</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37910</guid>
+            <pubDate>Tue, 07 Dec 2021 08:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌 (아이보스 ─ 인기글)]]></title>
@@ -343,11 +343,11 @@
             <content:encoded><![CDATA[탁구공]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국인이 온라인에서 가장 많이 구매하는 제품은 영.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7862</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7862</guid>
-            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[네이버 공식 NEW 알고리즘, 발칵 뒤집힙니다(Feat. 스마.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56894</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56894</guid>
+            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[해적보물선]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지난해 방송통신 광고비 처음으로 줄었다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -593,7 +593,7 @@
             <title><![CDATA[지난해 방송통신 광고비 처음으로 줄었다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7948</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7948</guid>
-            <pubDate>Tue, 28 Dec 2021 06:21:59 GMT</pubDate>
+            <pubDate>Tue, 28 Dec 2021 06:21:47 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA['이것'은 상업자 표시 신용카드를 의미합니다. 최근 MZ세대를 공략하기 위해 많은 카드사와 게임업체가 협업해 출시하고 있는 이것은 무엇일까요?(hint: 12월 23일 뉴스클리핑에서 정답 찾기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 28 Dec 2021 06:22:12 GMT</pubDate>
+            <pubDate>Tue, 28 Dec 2021 07:18:09 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 상업자 표시 신용카드를 의미합니다. 최근 MZ세대를 공략하기 위해 많은 카드사와 게임업체가 협업해 출시하고 있는 이것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7920" target="_blank">12월 23일 뉴스클리핑에서 정답 찾기!</a>)</span></td>
 			</tr>
