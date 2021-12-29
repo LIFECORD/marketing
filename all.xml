@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 14:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 15:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,17 +182,17 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56841</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56841</guid>
-            <pubDate>Mon, 20 Dec 2021 06:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[메타버스 간접 체험해보실 분 🖐 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56788</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56788</guid>
             <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56841</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56841</guid>
+            <pubDate>Mon, 20 Dec 2021 06:21:15 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
@@ -217,18 +217,18 @@
             <content:encoded><![CDATA[해적보물선]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[상세페이지, 그래서 팔리고 있으신가요? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56834</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56834</guid>
-            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[언카피]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022년 주목해야 할 트렌드 총정리 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56862</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56862</guid>
             <pubDate>Wed, 22 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김매니저]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[상세페이지, 그래서 팔리고 있으신가요? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56834</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56834</guid>
+            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[언카피]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카피 쓰다 막힐 때마다 꺼내 읽어요 📖 (아이보스 ─ 인기글)]]></title>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7932</guid>
             <pubDate>Sat, 25 Dec 2021 11:14:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다음 중에서 구글 Ads 광고 순위를 결정하는 요인이 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 29 Dec 2021 14:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->다음 중에서 구글 Ads 광고 순위를 결정하는 요인이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1330_1" value="1" class="AB-radio" id="PQ_BD5826_1330_1_0"><label for="PQ_BD5826_1330_1_0" id="label_PQ_BD5826_1330_1_0">(A) 광고의 도달률</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1330_1" value="2" class="AB-radio" id="PQ_BD5826_1330_1_1"><label for="PQ_BD5826_1330_1_1" id="label_PQ_BD5826_1330_1_1">(B) 광고 및 방문 페이지의 품질</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1330_1" value="3" class="AB-radio" id="PQ_BD5826_1330_1_2"><label for="PQ_BD5826_1330_1_2" id="label_PQ_BD5826_1330_1_2">(C) 사용자의 검색 문맥</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1330_1" value="4" class="AB-radio" id="PQ_BD5826_1330_1_3"><label for="PQ_BD5826_1330_1_3" id="label_PQ_BD5826_1330_1_3">(D) 입찰가</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시, 소상공인 전용관 'e서울사랑샵' 운영...수수료 30% 감면 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

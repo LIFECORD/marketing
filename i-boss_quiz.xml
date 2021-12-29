@@ -2,20 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-5826</id>
     <title>아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈</title>
-    <updated>2021-12-29T14:17:09.333Z</updated>
+    <updated>2021-12-29T15:19:16.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[다음 중에서 구글 Ads 광고 순위를 결정하는 요인이 아닌 것은 무엇일까요?]]></title>
-        <id>https://www.i-boss.co.kr/ab-5826</id>
-        <link href="https://www.i-boss.co.kr/ab-5826"/>
-        <updated>2021-12-29T14:17:00.516Z</updated>
-        <content type="html"><![CDATA[<tbody><tr>
-				<td><!--1-->다음 중에서 구글 Ads 광고 순위를 결정하는 요인이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1330_1" value="1" class="AB-radio" id="PQ_BD5826_1330_1_0"><label for="PQ_BD5826_1330_1_0" id="label_PQ_BD5826_1330_1_0">(A) 광고의 도달률</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1330_1" value="2" class="AB-radio" id="PQ_BD5826_1330_1_1"><label for="PQ_BD5826_1330_1_1" id="label_PQ_BD5826_1330_1_1">(B) 광고 및 방문 페이지의 품질</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1330_1" value="3" class="AB-radio" id="PQ_BD5826_1330_1_2"><label for="PQ_BD5826_1330_1_2" id="label_PQ_BD5826_1330_1_2">(C) 사용자의 검색 문맥</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1330_1" value="4" class="AB-radio" id="PQ_BD5826_1330_1_3"><label for="PQ_BD5826_1330_1_3" id="label_PQ_BD5826_1330_1_3">(D) 입찰가</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content>
-    </entry>
 </feed>
