@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 00:59:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 02:05:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[메타버스 간접 체험해보실 분 🖐 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56788</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56788</guid>
+            <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[알아두면 좋은 유용한 사이트 모음 NO.2 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56810</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56810</guid>
@@ -194,13 +201,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38017</guid>
             <pubDate>Thu, 23 Dec 2021 08:21:21 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[메타버스 간접 체험해보실 분 🖐 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56788</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56788</guid>
-            <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 마케팅 유우머 - 1 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7862</guid>
             <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[식음료업계, 메타버스 마케팅 열풍... 가상공간서 이색 경험 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7954</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7954</guid>
+            <pubDate>Wed, 29 Dec 2021 10:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[SPC그룹이 운영하는 배스킨라빈스는 국내 식음료 업계 최초로 아시아 최대 메타버스 플랫폼 제페토(ZEPETO)에 단독 공식 맵 `배라 팩토리`를 론칭했다. 배스킨라빈스는 향후 제페토 아바타를 버추얼 캐릭터로 활용한 라이브커머스 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_3f72c09b88fc6c15b721c0a872bd1e26_33270_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신중년 건강 관리기기는 스마트폰 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,39 +590,38 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4038a31639a94b1f4b33f918de4f2994_47769_6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[챗봇 이루다 재출시 예고... AI 편향개인정보 유출 없앴다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7924</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7924</guid>
-            <pubDate>Thu, 23 Dec 2021 06:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[올초 인공지능(AI)의 편향 및 개인정보 남용 논란이 나타나면서 서비스가 중단된 AI 챗봇 `이루다`가 2.0 버전으로 재출시될 예정이다.   이루다 개발사는 과거 문제됐던 부분들을 해결했다는 입장이지만, 수집 과정에서 위법성이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16402365707922.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[식음료업계, 메타버스 마케팅 열풍... 가상공간서 이색 경험 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7954</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7954</guid>
+            <pubDate>Wed, 29 Dec 2021 02:05:22 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[신중년 건강 관리기기는 '스마트폰' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7953</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7953</guid>
-            <pubDate>Wed, 29 Dec 2021 00:58:40 GMT</pubDate>
+            <pubDate>Wed, 29 Dec 2021 09:52:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1월 1일에 가장 많이 다운로드된 책은? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7952</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7952</guid>
-            <pubDate>Wed, 29 Dec 2021 00:58:40 GMT</pubDate>
+            <pubDate>Wed, 29 Dec 2021 09:51:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[버티브, 2022년에 주목해야 할 데이터센터 동향... 지속 가능성과 기후 행동, 인공지능, 그리고 통합 솔루션 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7951</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7951</guid>
-            <pubDate>Wed, 29 Dec 2021 00:58:40 GMT</pubDate>
+            <pubDate>Wed, 29 Dec 2021 08:46:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[12월 29일 마케팅 뉴스클리핑] 대세는 모바일 광고... 광고비 비중 50% 첫 상회 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7950</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7950</guid>
-            <pubDate>Wed, 29 Dec 2021 00:58:40 GMT</pubDate>
+            <pubDate>Wed, 29 Dec 2021 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[챗봇 '이루다' 재출시 예고... AI 편향·개인정보 유출 없앴다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7924</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7924</guid>
-            <pubDate>Thu, 23 Dec 2021 06:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중에서 구글 Ads 광고 순위를 결정하는 요인이 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 29 Dec 2021 00:58:51 GMT</pubDate>
+            <pubDate>Wed, 29 Dec 2021 02:05:35 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중에서 구글 Ads 광고 순위를 결정하는 요인이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

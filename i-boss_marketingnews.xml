@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 00:59:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 02:05:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식음료업계, 메타버스 마케팅 열풍... 가상공간서 이색 경험]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7954</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7954</guid>
+            <pubDate>Wed, 29 Dec 2021 10:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[SPC그룹이 운영하는 배스킨라빈스는 국내 식음료 업계 최초로 아시아 최대 메타버스 플랫폼 제페토(ZEPETO)에 단독 공식 맵 `배라 팩토리`를 론칭했다. 배스킨라빈스는 향후 제페토 아바타를 버추얼 캐릭터로 활용한 라이브커머스 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_3f72c09b88fc6c15b721c0a872bd1e26_33270_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신중년 건강 관리기기는 스마트폰]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7953</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 23 Dec 2021 07:17:38 GMT</pubDate>
             <content:encoded><![CDATA[트위터가 자사 광고 솔루션을 활용한 캠페인을 전개해 다양한 성과를 창출한 주요 브랜드 및 파트너를 대상으로 트위터 브랜드 어워즈 2021(#TwitterBrandAwards2021) 수상자를 선정해 발표했다. 이번 트위터 브랜드 어워즈 2021은 기업 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4038a31639a94b1f4b33f918de4f2994_47769_6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[챗봇 이루다 재출시 예고... AI 편향개인정보 유출 없앴다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7924</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7924</guid>
-            <pubDate>Thu, 23 Dec 2021 06:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[올초 인공지능(AI)의 편향 및 개인정보 남용 논란이 나타나면서 서비스가 중단된 AI 챗봇 `이루다`가 2.0 버전으로 재출시될 예정이다.   이루다 개발사는 과거 문제됐던 부분들을 해결했다는 입장이지만, 수집 과정에서 위법성이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16402365707922.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
