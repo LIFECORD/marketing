@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 08:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 10:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,13 +217,6 @@
             <content:encoded><![CDATA[언카피]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카피 쓰다 막힐 때마다 꺼내 읽어요 📖 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-5637-28</link>
-            <guid>https://www.i-boss.co.kr/ab-5637-28</guid>
-            <pubDate>Thu, 23 Dec 2021 12:28:03 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022년 주목해야 할 트렌드 총정리 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56862</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56862</guid>
@@ -236,6 +229,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56894</guid>
             <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[해적보물선]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카피 쓰다 막힐 때마다 꺼내 읽어요 📖 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-5637-28</link>
+            <guid>https://www.i-boss.co.kr/ab-5637-28</guid>
+            <pubDate>Thu, 23 Dec 2021 12:28:03 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인크로스] 디지털 마케팅 트렌드 2022 (아이보스 ─ 인기글)]]></title>
@@ -264,13 +264,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56816</guid>
             <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[SW]  상원 최신판 올마식 광고관리 비법 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56735</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56735</guid>
-            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[상원1]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[생일이에용! (아이보스 ─ 인기글)]]></title>
@@ -329,13 +322,6 @@
             <content:encoded><![CDATA[구루나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[수익폭발 최신 해외 인터넷 마케팅 트렌드는 번들 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38000</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38000</guid>
-            <pubDate>Sat, 18 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[탁구공]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[얼어붙은 감수성을 깨부수는 인문학적 도끼질! 박웅.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-431</link>
             <guid>https://www.i-boss.co.kr/ab-2973-431</guid>
@@ -343,11 +329,25 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[수익폭발 최신 해외 인터넷 마케팅 트렌드는 번들 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38000</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38000</guid>
+            <pubDate>Sat, 18 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[탁구공]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[한국인이 온라인에서 가장 많이 구매하는 제품은 영.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7862</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7862</guid>
             <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[개쎄영시리즈] 광고1도 몰랐던 디자이너가 개쎈 배.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56750</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56750</guid>
+            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅모먼트]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2020년, 국내 방송통신 총 광고비는 14조 1,203억 원,전년 대비 2.1% 하락... 온라인 비중 50% 웃돌아 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -593,14 +593,14 @@
             <title><![CDATA[2020년, 국내 방송통신 총 광고비는 14조 1,203억 원,전년 대비 2.1% 하락... 온라인 비중 50% 웃돌아 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7961</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7961</guid>
-            <pubDate>Wed, 29 Dec 2021 08:21:29 GMT</pubDate>
+            <pubDate>Wed, 29 Dec 2021 08:21:17 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[작년 데이터산업 시장규모 18.7% 성장한 20조원 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7960</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7960</guid>
-            <pubDate>Wed, 29 Dec 2021 08:21:29 GMT</pubDate>
+            <pubDate>Wed, 29 Dec 2021 08:21:17 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중에서 구글 Ads 광고 순위를 결정하는 요인이 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 29 Dec 2021 08:21:41 GMT</pubDate>
+            <pubDate>Wed, 29 Dec 2021 10:19:39 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중에서 구글 Ads 광고 순위를 결정하는 요인이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
