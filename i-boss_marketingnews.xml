@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 22:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 23:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12월 30일 마케팅 뉴스클리핑] 인스타그램, 내년 릴스 중심으로 영상 서비스 강화 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7962</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7962</guid>
+            <pubDate>Thu, 30 Dec 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 인스타그램, 내년 릴스 중심으로 영상 서비스 강화  인스타그램이 내년 자사 숏폼 콘텐츠 플랫폼 릴스를 토대로, 영상 기능에 힘을 준다. 인스타그램이 단순 사진 공유 플랫폼을 넘어, 릴스를 중심으로 모든 영상 서비스를 통 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_fbe3d6cfbb0060ade1f5d545dcce2f27_22845_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2020년, 국내 방송통신 총 광고비는 14조 1,203억 원,전년 대비 2.1% 하락... 온라인 비중 50% 웃돌아]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7961</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7933</guid>
             <pubDate>Sat, 25 Dec 2021 11:15:00 GMT</pubDate>
             <content:encoded><![CDATA[크리스마스다! 코로나 때문에 예전처럼 왁자지껄하게 크리스마스를 축하할 수 없지만, 그래도 각자 자기만의 방법으로 크리스마스를 축하하고 있다. 미국 역시 개인이나 가정마다 자기만의 방법으로 크리스마스를 축하하는데, ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[트렌드모니터] 코로나 고통 속에서도 기부 의향은 높지만, 기부 단체에 대한 불신도 높아]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7932</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7932</guid>
-            <pubDate>Sat, 25 Dec 2021 11:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[시장조사전문기업 엠브레인 트렌드모니터가 전국 만 19세~59세 성인 남녀 1,000명을 대상으로 기부 경험 및 기부 문화 관련 인식 조사를 실시한 결과, 경제적 어려움이 가중되고 있는 코로나 시대에도 기부활동에 대한 관심은 높 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
