@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 05:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 06:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소름돋게 시원해, 못 끊겠어동남아서 4배 더 팔렸다는 한류상품]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7958</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7958</guid>
+            <pubDate>Wed, 29 Dec 2021 06:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[올해도 한류 열풍의 영향으로 다양한 한국 제품들이 동남아 지역 등에서 큰 인기를 끈 것으로 나타났다.이커머스 플랫폼 쇼피코리아는 올해 동남아에서 인기를 끈 한국 제품을 분석한 결과, 기존에 수요가 높았던 뷰티, K팝 기 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나로 피눈물 흘리는데 자영업자 두번 울리는 사기]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7957</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7957</guid>
+            <pubDate>Wed, 29 Dec 2021 06:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[코로나로 피눈물 흘리며 하루 벌어 하루 먹고 사는 자영업자들을 두 번 죽이고 있는 가해자를 빨리 잡을 수 있도록 도와주세요. 광고대행 사기를 당했다는 자영업자가 지난주 청와대 국민청원에 올린 글이다.그는 동영상, 리뷰  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 삼성 TV 플러스에 MBC 및 SBS 인기 프로그램 론칭]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7956</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 24 Dec 2021 08:21:26 GMT</pubDate>
             <content:encoded><![CDATA[올해 네이버 유료 구독 플랫폼에서 MZ세대(1980년대 초~2000년대 초 출생)가 열광한 콘텐츠는 `재테크`인 것으로 나타났다. 현재 행복을 중요하게 여겨 아낌없이 소비하는 `욜로족`에서 빨리 돈을 모아 조기 은퇴를 원하는 `파이어 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16403308369716.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[12월 24일 마케팅 뉴스클리핑] 성탄절 앞두고 롤링페이퍼 사이트에 몰려드는 MZ 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7928</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7928</guid>
-            <pubDate>Fri, 24 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 성탄절 앞두고 `롤링페이퍼` 사이트에 몰려드는 MZ  크리스마스를 앞두고 2030 세대에서 온라인 `롤링페이퍼` 사이트가 큰 인기를 끌고 있다. `내 트리를 꾸며줘!`서비스는 인스타그램, 페이스북, 트위터 등 SNS를 통해 입소문을  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e000562225a5cb422cbf417dfd0d13fc_42335_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 상권 1위 압구정SKT, 빅데이터 어떻게 분석했나]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7927</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7927</guid>
-            <pubDate>Thu, 23 Dec 2021 07:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 2021년 `대한민국 100대 상권`을 분석하고 코로나19 유행 전후의 변화를 공개했다. 이번 분석에는 상권별 업소 수, 카드 매출, 유동인구 등의 데이터와 SKT가 2011년 론칭한 빅데이터플랫폼 `지오비전`이 활용됐다 특정 지 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
