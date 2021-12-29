@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 07:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 08:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2020년, 국내 방송통신 총 광고비는 14조 1,203억 원,전년 대비 2.1% 하락... 온라인 비중 50% 웃돌아]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7961</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7961</guid>
+            <pubDate>Wed, 29 Dec 2021 08:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 과기정통부)와 한국방송광고진흥공사(사장 이백만, 이하 코바코)는 2020년도 국내 방송통신광고 시장 현황과 2021~2022년 전망을 담은`2021 방송통신광고비 조사` 결과를 발표했다. 본 조사는  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[작년 데이터산업 시장규모 18.7% 성장한 20조원]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7960</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7960</guid>
+            <pubDate>Wed, 29 Dec 2021 08:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 과기정통부)와 한국데이터산업진흥원(원장 윤혜정, 이하 K-DATA)은 국내 데이터산업 시장규모, 인력현황 등을 조사한`2021 데이터산업현황조사` 의 주요 통계결과를 발표했다. 해당 조사는,  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[소름돋게 시원해, 못 끊겠어동남아서 4배 더 팔렸다는 한류상품]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7958</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 25 Dec 2021 11:14:00 GMT</pubDate>
             <content:encoded><![CDATA[시장조사전문기업 엠브레인 트렌드모니터가 전국 만 19세~59세 성인 남녀 1,000명을 대상으로 기부 경험 및 기부 문화 관련 인식 조사를 실시한 결과, 경제적 어려움이 가중되고 있는 코로나 시대에도 기부활동에 대한 관심은 높 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 달라지는 일자리 정책 8가지]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7931</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7931</guid>
-            <pubDate>Fri, 24 Dec 2021 09:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[인크루트(대표 서미영)가 최저임금 인상중대재해처벌법 시행고용보험 적용 대상 확대 등 2022년부터 달라지는 일자리 정책을 정리해 24일 소개했다.   최저임금 인상 (2022년 1월1일부터)  중대재해처벌법 시행(2022년 1월27일부터)   ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[파이어족 꿈꾸는 MZ세대재테크 콘텐츠에 돈 안아낀다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7930</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7930</guid>
-            <pubDate>Fri, 24 Dec 2021 08:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[올해 네이버 유료 구독 플랫폼에서 MZ세대(1980년대 초~2000년대 초 출생)가 열광한 콘텐츠는 `재테크`인 것으로 나타났다. 현재 행복을 중요하게 여겨 아낌없이 소비하는 `욜로족`에서 빨리 돈을 모아 조기 은퇴를 원하는 `파이어 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16403308369716.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
