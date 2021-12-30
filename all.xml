@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 14:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 15:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7935</guid>
             <pubDate>Sun, 26 Dec 2021 09:32:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다음 중 '핀셋 마케팅'과 관련이 없는 사례는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 14:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->다음 중 '핀셋 마케팅'과 관련이 없는 사례는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/27b4b077ddadc1f98da55f0a99e6f513_16403062511743.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1331_1" value="1" class="AB-radio" id="PQ_BD5826_1331_1_0"><label for="PQ_BD5826_1331_1_0" id="label_PQ_BD5826_1331_1_0">(A) 다꾸족 겨냥 다이어리</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1331_1" value="2" class="AB-radio" id="PQ_BD5826_1331_1_1"><label for="PQ_BD5826_1331_1_1" id="label_PQ_BD5826_1331_1_1">(B) 연말 기념 1+1 행사</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1331_1" value="3" class="AB-radio" id="PQ_BD5826_1331_1_2"><label for="PQ_BD5826_1331_1_2" id="label_PQ_BD5826_1331_1_2">(C) 비건을 위한 화장품</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1331_1" value="4" class="AB-radio" id="PQ_BD5826_1331_1_3"><label for="PQ_BD5826_1331_1_3" id="label_PQ_BD5826_1331_1_3">(D) 반려동물용 가구</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시, 소상공인 전용관 'e서울사랑샵' 운영...수수료 30% 감면 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
