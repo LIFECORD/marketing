@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2021-12-29T23:18:19.412Z</updated>
+    <updated>2021-12-30T00:57:34.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[트렌드 모니터] 타인의 강요보다 개인의 선택에 의해 ‘취향’ 것 술 마시는 시대... 단 사회생활 위해 술을 마실 줄 알아야]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7963</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7963"/>
+        <updated>2021-12-30T00:57:12.728Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[12월 30일 마케팅 뉴스클리핑] 인스타그램, 내년 릴스 중심으로 영상 서비스 강화 외]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7962</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-7934</id>
         <link href="https://www.i-boss.co.kr/ab-2877-7934"/>
         <updated>2021-12-25T03:18:41.960Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인포그래픽] 미국 크리스마스 필수품]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7933</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7933"/>
-        <updated>2021-12-25T03:18:41.961Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>

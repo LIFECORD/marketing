@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 23:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 00:57:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트렌드 모니터] 타인의 강요보다 개인의 선택에 의해 취향 것 술 마시는 시대... 단 사회생활 위해 술을 마실 줄 알아야]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7963</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7963</guid>
+            <pubDate>Thu, 30 Dec 2021 08:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[사람들이 술을 마시는 가장 큰 이유는 술자리의 분위기와 그곳에서 만들어지는 관계 때문인 것으로 보여져  사람들이 술을 마시는 가장 큰 이유는 술자리의 분위기와 그 속에서 이뤄지는 관계 때문이라는 사실을 확인해 볼 수  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[12월 30일 마케팅 뉴스클리핑] 인스타그램, 내년 릴스 중심으로 영상 서비스 강화 외]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7962</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7934</guid>
             <pubDate>Sat, 25 Dec 2021 11:16:00 GMT</pubDate>
             <content:encoded><![CDATA[메타는 광고 관리자의 광고 목표 선택 환경에 대한 다수의 주요 변경 사항을 발표하여 ODAX(Outcome-Driven Ad Experiences)라고 하는 시스템을 도입했다. 주요 목표는 기존 인터페이스를 결과 기반으로 만들고 목표를 통합하며 가장 기본 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 미국 크리스마스 필수품]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7933</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7933</guid>
-            <pubDate>Sat, 25 Dec 2021 11:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[크리스마스다! 코로나 때문에 예전처럼 왁자지껄하게 크리스마스를 축하할 수 없지만, 그래도 각자 자기만의 방법으로 크리스마스를 축하하고 있다. 미국 역시 개인이나 가정마다 자기만의 방법으로 크리스마스를 축하하는데, ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
