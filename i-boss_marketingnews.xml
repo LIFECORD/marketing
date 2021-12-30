@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 20:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 23:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12월 31일 마케팅 뉴스클리핑] 쿠팡 와우 멤버십 가격 조정... 유료 멤버십 판도 변화 촉각 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7965</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7965</guid>
+            <pubDate>Fri, 31 Dec 2021 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 쿠팡 `와우 멤버십` 가격 조정... 유료 멤버십 판도 변화 촉각  쿠팡이 유료 멤버십 서비스인 `와우 멤버십`의 요금을 월 4990원으로 조정하면서 이커머스 업계가 향후 파장을 주시하고 있다. 특히 내년에는 신세계 쓱닷컴의 유 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0518c3d6b965984f40e879973b7e457e_30350_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벅스, 팬덤 특화 서비스 강화한다... 스밍 인증  위젯 커스텀 출시]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7964</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7936</guid>
             <pubDate>Sun, 26 Dec 2021 09:33:00 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트는 AT&amp;T의 잰더(Xandr)를 인수한다. 미하일 파라힌 마이크로소프트 웹 경험 담당 사장은 `디지털 환경이 포스트 쿠키 세계에서 발전함에 따라 마이크로소프트와 잰더가 함께 미래의 디지털 광고 시장을 형성하는데  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 2021년을 대표하는 기업들]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7935</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7935</guid>
-            <pubDate>Sun, 26 Dec 2021 09:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021년에도 수많은 기업들이 새로 생기고 없어졌다. 그런 가운데 대중들의 관심을 끌면서 사회에 영향을 끼친 기업들이 있다. 비주얼 캐피털리스트는 구글 트렌드를 중심으로 2021년을 정의한 기업으로 로빈후드화이자코인베이 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
