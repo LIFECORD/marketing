@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 00:57:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 02:05:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 광고 계획 미리보기 🧐]]></title>
+            <link>https://qletter.i-boss.co.kr/view/816530-2022%EB%85%84_%EA%B4%91%EA%B3%A0_%EA%B3%84%ED%9A%8D_%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/816530-2022%EB%85%84_%EA%B4%91%EA%B3%A0_%EA%B3%84%ED%9A%8D_%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0/</guid>
+            <pubDate>Thu, 30 Dec 2021 02:04:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/816530-2022년_광고_계획_미리보기/">
+						<div class="thumb"><img src="/images/qletter_816530.png"></div>
+						<p><strong>2022년 광고 계획 미리보기 🧐</strong>2021.12.30</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_816530.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[1 더하기 1은 'ㅇㅃㄷ']]></title>
             <link>https://qletter.i-boss.co.kr/view/811322-1_%EB%8D%94%ED%95%98%EA%B8%B0_1%EC%9D%80/</link>
@@ -127,17 +138,6 @@
 						<p><strong>오픈마켓 대전에 합류하는 카카오</strong>2021.11.22</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_767320.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[머니러시! MZ가 주목하고 있어요 👀]]></title>
-            <link>https://qletter.i-boss.co.kr/view/764235-%EB%A8%B8%EB%8B%88%EB%9F%AC%EC%8B%9C_MZ%EA%B0%80_%EC%A3%BC%EB%AA%A9%ED%95%98%EA%B3%A0_%EC%9E%88%EC%96%B4%EC%9A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/764235-%EB%A8%B8%EB%8B%88%EB%9F%AC%EC%8B%9C_MZ%EA%B0%80_%EC%A3%BC%EB%AA%A9%ED%95%98%EA%B3%A0_%EC%9E%88%EC%96%B4%EC%9A%94/</guid>
-            <pubDate>Fri, 24 Dec 2021 06:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/764235-머니러시_MZ가_주목하고_있어요/">
-						<div class="thumb"><img src="/images/qletter_764235.png"></div>
-						<p><strong>머니러시! MZ가 주목하고 있어요 👀</strong>2021.11.18</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_764235.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
