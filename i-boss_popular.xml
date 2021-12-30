@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-30T15:20:11.815Z</updated>
+    <updated>2021-12-30T16:28:38.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[김매니저]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[네이버 공식 NEW 알고리즘, 발칵 뒤집힙니다(Feat. 스마..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56894</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56894"/>
-        <updated>2021-12-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[해적보물선]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[메타버스 간접 체험해보실 분 🖐]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56788</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56788"/>
         <updated>2021-12-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버 공식 NEW 알고리즘, 발칵 뒤집힙니다(Feat. 스마..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56894</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56894"/>
+        <updated>2021-12-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[해적보물선]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아이보스 연말 이벤트] 이벤트 참여하고 프레임 받..]]></title>

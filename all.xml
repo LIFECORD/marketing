@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 15:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 16:28:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,18 +168,18 @@
             <content:encoded><![CDATA[김매니저]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버 공식 NEW 알고리즘, 발칵 뒤집힙니다(Feat. 스마.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56894</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56894</guid>
-            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[해적보물선]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[메타버스 간접 체험해보실 분 🖐 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56788</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56788</guid>
             <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네이버 공식 NEW 알고리즘, 발칵 뒤집힙니다(Feat. 스마.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56894</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56894</guid>
+            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[해적보물선]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[아이보스 연말 이벤트] 이벤트 참여하고 프레임 받.. (아이보스 ─ 인기글)]]></title>
