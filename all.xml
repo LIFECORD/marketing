@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 03:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 04:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,13 @@
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2022년 주목해야 할 트렌드 총정리 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56862</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56862</guid>
+            <pubDate>Wed, 22 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김매니저]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[마케팅밈] 거절하게 만드는 마케터 유형 5가지 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38017</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38017</guid>
@@ -194,13 +201,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56841</guid>
             <pubDate>Mon, 20 Dec 2021 06:21:15 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 주목해야 할 트렌드 총정리 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56862</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56862</guid>
-            <pubDate>Wed, 22 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김매니저]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[알아두면 좋은 유용한 사이트 모음 NO.2 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 '핀셋 마케팅'과 관련이 없는 사례는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 03:18:07 GMT</pubDate>
+            <pubDate>Thu, 30 Dec 2021 04:23:23 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 '핀셋 마케팅'과 관련이 없는 사례는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/27b4b077ddadc1f98da55f0a99e6f513_16403062511743.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
