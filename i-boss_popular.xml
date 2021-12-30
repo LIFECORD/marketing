@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-30T08:22:02.734Z</updated>
+    <updated>2021-12-30T09:18:37.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[사각사각그림사이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56841</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56841"/>
-        <updated>2021-12-20T06:21:15.262Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[네이버 공식 NEW 알고리즘, 발칵 뒤집힙니다(Feat. 스마..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56894</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56894"/>
         <updated>2021-12-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[해적보물선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56841</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56841"/>
+        <updated>2021-12-20T06:21:15.262Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[알아두면 좋은 유용한 사이트 모음 NO.2]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[햅삐햅삐]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56816</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56816"/>
-        <updated>2021-12-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[페이스북 UTM은 제발 제발 제발 이렇게 박으세요. 부..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56908</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56908"/>
         <updated>2021-12-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[우뇌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56816</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56816"/>
+        <updated>2021-12-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[출근 전날 연봉 500 깎는 회사]]></title>
