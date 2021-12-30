@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 04:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 05:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벅스, 팬덤 특화 서비스 강화한다... 스밍 인증  위젯 커스텀 출시]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7964</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7964</guid>
+            <pubDate>Thu, 30 Dec 2021 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[NHN벅스가 팬들의 팬심을 표현할 수 있는 스밍 인증 및 위젯 커스텀 기능을 선보였다. 향후 차별화된 팬덤 특화 서비스를 추가로 선보일 계획이다.  스밍 인증은 스트리밍 인증의 줄임말로, 내가 들은 음악을 이미지로 저장해 SNS ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2deab34a0206b47b1660c89872cf8a8d_62432_1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[트렌드 모니터] 타인의 강요보다 개인의 선택에 의해 취향 것 술 마시는 시대... 단 사회생활 위해 술을 마실 줄 알아야]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7963</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7935</guid>
             <pubDate>Sun, 26 Dec 2021 09:32:00 GMT</pubDate>
             <content:encoded><![CDATA[2021년에도 수많은 기업들이 새로 생기고 없어졌다. 그런 가운데 대중들의 관심을 끌면서 사회에 영향을 끼친 기업들이 있다. 비주얼 캐피털리스트는 구글 트렌드를 중심으로 2021년을 정의한 기업으로 로빈후드화이자코인베이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[Meta, 결과에 초점을 맞춘 향후 광고 관리자 업데이트 공개]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7934</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7934</guid>
-            <pubDate>Sat, 25 Dec 2021 11:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[메타는 광고 관리자의 광고 목표 선택 환경에 대한 다수의 주요 변경 사항을 발표하여 ODAX(Outcome-Driven Ad Experiences)라고 하는 시스템을 도입했다. 주요 목표는 기존 인터페이스를 결과 기반으로 만들고 목표를 통합하며 가장 기본 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

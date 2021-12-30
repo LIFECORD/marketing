@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-30T04:23:33.396Z</updated>
+    <updated>2021-12-30T05:17:54.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[루비빙]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2022년 주목해야 할 트렌드 총정리]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56862</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56862"/>
+        <updated>2021-12-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[김매니저]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[아이보스 연말 이벤트] 이벤트 참여하고 프레임 받..]]></title>
         <id>https://www.i-boss.co.kr/ab-2973-428</id>
         <link href="https://www.i-boss.co.kr/ab-2973-428"/>
@@ -46,13 +53,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-56844"/>
         <updated>2021-12-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[사각사각그림사이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 주목해야 할 트렌드 총정리]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56862</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56862"/>
-        <updated>2021-12-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[김매니저]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마케팅밈] 거절하게 만드는 마케터 유형 5가지]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[해적보물선]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[상세페이지, 그래서 팔리고 있으신가요?]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56834</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56834"/>
-        <updated>2021-12-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[언카피]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[카피 쓰다 막힐 때마다 꺼내 읽어요 📖]]></title>
         <id>https://www.i-boss.co.kr/ab-5637-28</id>
         <link href="https://www.i-boss.co.kr/ab-5637-28"/>
         <updated>2021-12-23T12:28:03.244Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상세페이지, 그래서 팔리고 있으신가요?]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56834</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56834"/>
+        <updated>2021-12-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[언카피]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인크로스] 디지털 마케팅 트렌드 2022]]></title>

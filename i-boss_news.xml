@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2021-12-30T04:23:33.393Z</updated>
+    <updated>2021-12-30T05:17:54.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[벅스, 팬덤 특화 서비스 강화한다... '스밍 인증' · '위젯 커스텀' 출시]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7964</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7964"/>
+        <updated>2021-12-30T05:17:32.824Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[트렌드 모니터] 타인의 강요보다 개인의 선택에 의해 ‘취향’ 것 술 마시는 시대... 단 사회생활 위해 술을 마실 줄 알아야]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7963</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-7935</id>
         <link href="https://www.i-boss.co.kr/ab-2877-7935"/>
         <updated>2021-12-26T01:00:53.121Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta, 결과에 초점을 맞춘 향후 광고 관리자 업데이트 공개]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7934</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7934"/>
-        <updated>2021-12-25T03:18:41.960Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
