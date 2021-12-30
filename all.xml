@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 17:27:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 19:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,13 @@
             <content:encoded><![CDATA[김매니저]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[네이버 공식 NEW 알고리즘, 발칵 뒤집힙니다(Feat. 스마.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56894</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56894</guid>
+            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[해적보물선]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[메타버스 간접 체험해보실 분 🖐 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56788</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56788</guid>
@@ -175,11 +182,11 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버 공식 NEW 알고리즘, 발칵 뒤집힙니다(Feat. 스마.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56894</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56894</guid>
-            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[해적보물선]]></content:encoded>
+            <title><![CDATA[외워두세요, 7년차 마자이너가 밝히는 상세페이지에 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56844</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56844</guid>
+            <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[아이보스 연말 이벤트] 이벤트 참여하고 프레임 받.. (아이보스 ─ 인기글)]]></title>
@@ -194,13 +201,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38017</guid>
             <pubDate>Thu, 23 Dec 2021 08:21:21 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[외워두세요, 7년차 마자이너가 밝히는 상세페이지에 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56844</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56844</guid>
-            <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발 (아이보스 ─ 인기글)]]></title>
