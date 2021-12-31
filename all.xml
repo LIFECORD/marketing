@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 14:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 16:27:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,18 +231,18 @@
             <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[마감되었습니다] 오늘 하루 만 (12월 31일) 무료로 1인.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38074</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38074</guid>
+            <pubDate>Fri, 31 Dec 2021 09:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[카피 쓰다 막힐 때마다 꺼내 읽어요 📖 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-5637-28</link>
             <guid>https://www.i-boss.co.kr/ab-5637-28</guid>
             <pubDate>Thu, 23 Dec 2021 12:28:03 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오늘 하루 만 (12월 31일) 무료로 1인당 777리터 보내드.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38074</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38074</guid>
-            <pubDate>Fri, 31 Dec 2021 09:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[상세페이지, 그래서 팔리고 있으신가요? (아이보스 ─ 인기글)]]></title>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7939</guid>
             <pubDate>Mon, 27 Dec 2021 08:48:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[페이스북 피드에는 1시간짜리 동영상을 업로드할 수 있다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 31 Dec 2021 14:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->페이스북 피드에는 1시간짜리 동영상을 업로드할 수 있다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1332_1" value="1" class="AB-radio" id="PQ_BD5826_1332_1_0"><label for="PQ_BD5826_1332_1_0" id="label_PQ_BD5826_1332_1_0">(A) O</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1332_1" value="2" class="AB-radio" id="PQ_BD5826_1332_1_1"><label for="PQ_BD5826_1332_1_1" id="label_PQ_BD5826_1332_1_1">(B) X</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시, 소상공인 전용관 'e서울사랑샵' 운영...수수료 30% 감면 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
