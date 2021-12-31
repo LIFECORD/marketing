@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-31T11:16:47.959Z</updated>
+    <updated>2021-12-31T12:29:02.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[햅삐햅삐]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56816</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56816"/>
-        <updated>2021-12-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[오늘 하루 만 (12월 31일) 무료로 1인당 777리터 보내드..]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38074</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38074"/>
         <updated>2021-12-31T09:19:18.470Z</updated>
         <content type="html"><![CDATA[놀토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56816</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56816"/>
+        <updated>2021-12-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[출근 전날 연봉 500 깎는 회사]]></title>
@@ -188,18 +188,18 @@
         <content type="html"><![CDATA[준5941]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아마존, 쿠팡의 성공공식을 마케팅에 대입해보기]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56886</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56886"/>
-        <updated>2021-12-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[우뇌]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[소상공인은 앞으로 경험 마케팅의 시대를 맞이한다.]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56782</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56782"/>
         <updated>2021-12-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[yoorok]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아마존, 쿠팡의 성공공식을 마케팅에 대입해보기]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56886</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56886"/>
+        <updated>2021-12-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[우뇌]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼어붙은 감수성을 깨부수는 인문학적 도끼질! 박웅..]]></title>
