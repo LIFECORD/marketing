@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 08:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 09:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -266,6 +266,13 @@
             <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘 하루 만 (12월 31일) 무료로 1인당 777리터 보내드.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38074</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38074</guid>
+            <pubDate>Fri, 31 Dec 2021 09:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[생일이에용! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38015</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38015</guid>
@@ -341,13 +348,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38000</guid>
             <pubDate>Sat, 18 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[탁구공]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국인이 온라인에서 가장 많이 구매하는 제품은 영.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7862</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7862</guid>
-            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소비자 가장 많이 기만한 홈쇼핑 어디? (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[페이스북 피드에는 1시간짜리 동영상을 업로드할 수 있다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 31 Dec 2021 08:22:07 GMT</pubDate>
+            <pubDate>Fri, 31 Dec 2021 09:19:54 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->페이스북 피드에는 1시간짜리 동영상을 업로드할 수 있다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

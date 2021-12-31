@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-31T08:22:16.237Z</updated>
+    <updated>2021-12-31T09:20:04.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -132,6 +132,13 @@
         <content type="html"><![CDATA[오늘그리고내일]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[오늘 하루 만 (12월 31일) 무료로 1인당 777리터 보내드..]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38074</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38074"/>
+        <updated>2021-12-31T09:19:18.470Z</updated>
+        <content type="html"><![CDATA[놀토]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[생일이에용!]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38015</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38015"/>
@@ -207,12 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38000"/>
         <updated>2021-12-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[탁구공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국인이 온라인에서 가장 많이 구매하는 제품은 영..]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7862</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7862"/>
-        <updated>2021-12-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
 </feed>
