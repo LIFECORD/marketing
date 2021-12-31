@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 00:59:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 05:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소비자 가장 많이 기만한 홈쇼핑 어디?]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7969</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7969</guid>
+            <pubDate>Fri, 31 Dec 2021 00:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[제5기 방송통신심의위원회가 출범한 이후상품판매방송사(홈쇼핑)들은 총 56건의 제재를 받았다. 여기에는 법정제재 20건과 행정지도 36건이 포함돼 있다. 방심위는 방송프로그램의 법 위반 정도가 중하다고 판단될 때 법정제재 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[대부업 이용자 수 지속 감소대출금리 15.8%로 낮아져]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7968</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7968</guid>
+            <pubDate>Fri, 31 Dec 2021 00:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[대부업자가 저축은행온라인투자연계금융업(온투업) 등으로 영업을 전환하는 사례 등이 잇따르며 대부업 이용자 수 감소 추세가 이어지고 있다. 대부업 평균 대출 금리는 15%대까지 떨어졌다. 31일 금융감독원이 발표한 `2021년 상 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[해외광고특선] 누구나 하나쯤은 가지고 있는 마음의 병. Nobody is Normal]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7967</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 27 Dec 2021 08:48:00 GMT</pubDate>
             <content:encoded><![CDATA[이마케터   이마케터에 따르면, 2022년 미국의 D2C전자상거래 매출은 올해보다 16.9% 증가한 1512억 2000만 달러에 이를 것으로 전망된다. 그리고 D2C 구매는 앞으로 1년 동안 전체 소매 매출의 2.5%에 불과할 것이지만, 이들 브랜드는 소 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 미디어 플래너의 필수 조건은 호기심과 열정입니다 원지훈 하쿠호도제일 상무]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7938</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7938</guid>
-            <pubDate>Mon, 27 Dec 2021 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[올 한해를 마무리하는 광고인들의 축제인 `2021 한국광고대회`가 지난 3일 코엑스에서 열렸다. 이 날 광고산업 발전과 광고문화 창달에 기여한 광고인들에 대한 포상이 진행했다. 원지훈 하쿠호도제일 상무는 광고매체 전문가 토 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[12월 27일 마케팅 뉴스클리핑] 네이버 연말팩 페이지 오픈... 쇼핑블로그 트렌드 정리 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7929</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7929</guid>
-            <pubDate>Mon, 27 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. `네이버 연말팩` 페이지 오픈... 쇼핑블로그 트렌드 정리  네이버가 크리스마스와 연말을 맞아 다양한 서비스별 이벤트콘텐츠 정보를 한데 모은 `네이버 연말팩` 페이지를 오픈했다. 이 중 `2021 연말 쇼핑 차트`에서는 네이버쇼 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e02493631bbd9f69715c50fa6fc66ffe_78748_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
