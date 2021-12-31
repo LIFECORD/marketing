@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2021-12-30T23:19:48.647Z</updated>
+    <updated>2021-12-31T00:59:19.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -202,17 +202,17 @@
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[추천] 50년 동안 검증된 팔리는 상세페이지 원리]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56877</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56877"/>
-        <updated>2021-12-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[햅삐햅삐]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년에는 어떤 광고에 집중하실 예정이세요?]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56900</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56900"/>
         <updated>2021-12-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[추천] 50년 동안 검증된 팔리는 상세페이지 원리]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56877</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56877"/>
+        <updated>2021-12-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[햅삐햅삐]]></content>
     </entry>
 </feed>

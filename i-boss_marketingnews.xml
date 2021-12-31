@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 23:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 00:59:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외광고특선] 누구나 하나쯤은 가지고 있는 마음의 병. Nobody is Normal]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7967</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7967</guid>
+            <pubDate>Fri, 31 Dec 2021 09:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[살다보면 육체를 다치는 것은 매우 흔한 일이다. 종이에 베여 피를 흘리는 것, 넘어져서 멍이드는 일, 몸을 과하게 움직여서 생긴 근육통 등... 정신 또한 마찬가지이다. 극심한 피해를 입은 경우가 드물 뿐이지. 그래서 이런 말 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 난 말이여, 세상에 없던 대출 비교 플랫폼을 만들 껴 세상에 없던 대출비교 플랫폼, 핀다 팀]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7966</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7966</guid>
+            <pubDate>Fri, 31 Dec 2021 09:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[핀다에 대한 소개 부탁드립니다.  핀다 핀다는 49개 금융사를 한 번에 조회하고 비교할 수 있는 대출 중개 서비스 플랫폼으로 대출 중개뿐만아니라 대출 관련 서비스를 제공하고 있는 종합 대출 관리 서비스입니다. 현재 누적 다 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[12월 31일 마케팅 뉴스클리핑] 쿠팡 와우 멤버십 가격 조정... 유료 멤버십 판도 변화 촉각 외]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7965</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 27 Dec 2021 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. `네이버 연말팩` 페이지 오픈... 쇼핑블로그 트렌드 정리  네이버가 크리스마스와 연말을 맞아 다양한 서비스별 이벤트콘텐츠 정보를 한데 모은 `네이버 연말팩` 페이지를 오픈했다. 이 중 `2021 연말 쇼핑 차트`에서는 네이버쇼 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e02493631bbd9f69715c50fa6fc66ffe_78748_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브 트렌드 한눈에솔루션 제공하는 샌드박스 데이터랩팀]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7937</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7937</guid>
-            <pubDate>Sun, 26 Dec 2021 10:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[유튜브 트렌드를 한눈에 볼 수 있는 데이터를 소프트웨어 형태의 솔루션으로 제공하고 있는 곳은 샌드박스네트워크(샌드박스)밖에 없을걸요?샌드박스 데이터랩팀 노성산 이사의 말엔 자신감이 묻어났다. 국내 대표 MCN인 샌드 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트, 잰더(Xandr) 인수... 프로그래매틱 광고 확장]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7936</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7936</guid>
-            <pubDate>Sun, 26 Dec 2021 09:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트는 AT&amp;T의 잰더(Xandr)를 인수한다. 미하일 파라힌 마이크로소프트 웹 경험 담당 사장은 `디지털 환경이 포스트 쿠키 세계에서 발전함에 따라 마이크로소프트와 잰더가 함께 미래의 디지털 광고 시장을 형성하는데  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

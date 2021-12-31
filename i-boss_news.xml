@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2021-12-30T23:19:48.645Z</updated>
+    <updated>2021-12-31T00:59:19.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[해외광고특선] 누구나 하나쯤은 가지고 있는 마음의 병. Nobody is Normal]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7967</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7967"/>
+        <updated>2021-12-31T00:59:00.197Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] “난 말이여, 세상에 없던 대출 비교 플랫폼을 만들 껴” 세상에 없던 대출비교 플랫폼, 핀다 팀]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7966</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7966"/>
+        <updated>2021-12-31T00:59:00.197Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[12월 31일 마케팅 뉴스클리핑] 쿠팡 '와우 멤버십' 가격 조정... 유료 멤버십 판도 변화 촉각 외]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7965</id>
@@ -200,19 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-7929"/>
         <updated>2021-12-26T23:17:33.003Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["유튜브 트렌드 한눈에"…솔루션 제공하는 '샌드박스 데이터랩팀']]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7937</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7937"/>
-        <updated>2021-12-26T10:18:57.486Z</updated>
-        <content type="html"><![CDATA[놀토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마이크로소프트, 잰더(Xandr) 인수... 프로그래매틱 광고 확장]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7936</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7936"/>
-        <updated>2021-12-26T01:00:53.114Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
