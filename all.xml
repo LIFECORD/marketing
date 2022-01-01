@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 12:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 13:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -161,18 +161,18 @@
             <content:encoded><![CDATA[해적보물선]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인스타그램 2022 트렌드 리포트 한글 번역본입니다^^ (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56829</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56829</guid>
-            <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[루비빙]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022년 주목해야 할 트렌드 총정리 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56862</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56862</guid>
             <pubDate>Wed, 22 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김매니저]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인스타그램 2022 트렌드 리포트 한글 번역본입니다^^ (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56829</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56829</guid>
+            <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[루비빙]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[메타버스 간접 체험해보실 분 🖐 (아이보스 ─ 인기글)]]></title>
@@ -593,7 +593,7 @@
             <title><![CDATA[로톡, 변호사법 위반?... 세 번째 '무혐의' 결론 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7972</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7972</guid>
-            <pubDate>Sat, 01 Jan 2022 12:27:25 GMT</pubDate>
+            <pubDate>Sat, 01 Jan 2022 12:27:14 GMT</pubDate>
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[페이스북 피드에는 1시간짜리 동영상을 업로드할 수 있다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 01 Jan 2022 12:27:38 GMT</pubDate>
+            <pubDate>Sat, 01 Jan 2022 13:24:03 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->페이스북 피드에는 1시간짜리 동영상을 업로드할 수 있다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
