@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 08:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 09:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,6 +196,13 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[마감되었습니다] 오늘 하루 만 (12월 31일) 무료로 1인.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38074</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38074</guid>
+            <pubDate>Fri, 31 Dec 2021 09:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56841</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56841</guid>
@@ -222,13 +229,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-37915</guid>
             <pubDate>Thu, 09 Dec 2021 04:22:08 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[마감되었습니다] 오늘 하루 만 (12월 31일) 무료로 1인.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38074</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38074</guid>
-            <pubDate>Fri, 31 Dec 2021 09:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카피 쓰다 막힐 때마다 꺼내 읽어요 📖 (아이보스 ─ 인기글)]]></title>
@@ -322,18 +322,18 @@
             <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[소상공인은 앞으로 경험 마케팅의 시대를 맞이한다. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56782</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56782</guid>
-            <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[yoorok]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[얼어붙은 감수성을 깨부수는 인문학적 도끼질! 박웅.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-431</link>
             <guid>https://www.i-boss.co.kr/ab-2973-431</guid>
             <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소상공인은 앞으로 경험 마케팅의 시대를 맞이한다. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56782</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56782</guid>
+            <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[수익폭발 최신 해외 인터넷 마케팅 트렌드는 번들 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[페이스북 피드에는 1시간짜리 동영상을 업로드할 수 있다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 01 Jan 2022 08:21:34 GMT</pubDate>
+            <pubDate>Sat, 01 Jan 2022 09:18:32 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->페이스북 피드에는 1시간짜리 동영상을 업로드할 수 있다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
