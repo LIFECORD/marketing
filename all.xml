@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 01:01:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 03:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,22 @@
             <content:encoded><![CDATA[탁구공]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[특별 좌담회] 2022년 광고마케팅커뮤니케이션 업계, 변화 속에서 긍정적인 모습을 보일 듯 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7971</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7971</guid>
+            <pubDate>Sat, 01 Jan 2022 10:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[일상으로 조심스러운 회복을 꾀하는 가운데, 광고 마케팅 커뮤니케이션 업계도 변화 속에서 서서히 기지개를 펴고 있는 모습이다. 그러나 코로나로 인해 촉발된 변화는 광고 마케팅 커뮤니케이션 업계가 기존과 같은 모습으로 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[타임스퀘어의 새해 전야제 볼 드롭을 새롭게 즐기는 법 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7970</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7970</guid>
+            <pubDate>Sat, 01 Jan 2022 10:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계에서 가장 유명한 새해를 맞는 장소는 뉴욕 타임스퀘어라고 해도 과언이 아니다. 많은 사람들이 모여서 카운트다운을 하며 새해를 맞는다. 그러나 코로나19로 인해 타임스퀘어에서 많은 사람들이 모여 새해를 축하할 수  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[소비자 가장 많이 기만한 홈쇼핑 어디? (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7969</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7969</guid>
@@ -574,20 +590,18 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[G마켓, 여성은 볼거리, 남성은 식품에 돈 써 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7940</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7940</guid>
-            <pubDate>Mon, 27 Dec 2021 11:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[G마켓, 2021년 구매 객단가 종합 분석 결과 공개 여성고객, TV노트북태블릿 등 영상 시청 기기 소비 확대 남성고객, 식품취미 생활 지출 늘어    G마켓이 올 한해 동안 구매 객단가를 종합해 분석한 결과, 여성은 영상 시청을 위한  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16405735864658.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[특별 좌담회] 2022년 광고·마케팅·커뮤니케이션 업계, 변화 속에서 긍정적인 모습을 보일 듯 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7971</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7971</guid>
+            <pubDate>Sat, 01 Jan 2022 03:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[D2C 브랜드가 소매 산업을 혁신하기 위해 소비자 경험을 다양화하는 방법 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7939</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7939</guid>
-            <pubDate>Mon, 27 Dec 2021 08:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[이마케터   이마케터에 따르면, 2022년 미국의 D2C전자상거래 매출은 올해보다 16.9% 증가한 1512억 2000만 달러에 이를 것으로 전망된다. 그리고 D2C 구매는 앞으로 1년 동안 전체 소매 매출의 2.5%에 불과할 것이지만, 이들 브랜드는 소 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[타임스퀘어의 새해 전야제 "볼 드롭"을 새롭게 즐기는 법 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7970</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7970</guid>
+            <pubDate>Sat, 01 Jan 2022 03:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소비자 가장 많이 기만한 홈쇼핑 어디? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[G마켓, 여성은 볼거리, 남성은 식품에 돈 써 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7940</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7940</guid>
-            <pubDate>Mon, 27 Dec 2021 11:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[D2C 브랜드가 소매 산업을 혁신하기 위해 소비자 경험을 다양화하는 방법 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7939</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7939</guid>
-            <pubDate>Mon, 27 Dec 2021 08:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[페이스북 피드에는 1시간짜리 동영상을 업로드할 수 있다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 01 Jan 2022 01:01:11 GMT</pubDate>
+            <pubDate>Sat, 01 Jan 2022 03:20:13 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->페이스북 피드에는 1시간짜리 동영상을 업로드할 수 있다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
