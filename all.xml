@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 03:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 05:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,18 +217,18 @@
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마케팅밈] 마케팅 유우머 - 1 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37915</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37915</guid>
-            <pubDate>Thu, 09 Dec 2021 04:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[페이스북 UTM은 제발 제발 제발 이렇게 박으세요. 부.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56908</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56908</guid>
             <pubDate>Tue, 28 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[마케팅밈] 마케팅 유우머 - 1 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37915</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37915</guid>
+            <pubDate>Thu, 09 Dec 2021 04:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마감되었습니다] 오늘 하루 만 (12월 31일) 무료로 1인.. (아이보스 ─ 인기글)]]></title>
@@ -593,14 +593,14 @@
             <title><![CDATA[[특별 좌담회] 2022년 광고·마케팅·커뮤니케이션 업계, 변화 속에서 긍정적인 모습을 보일 듯 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7971</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7971</guid>
-            <pubDate>Sat, 01 Jan 2022 03:20:00 GMT</pubDate>
+            <pubDate>Sat, 01 Jan 2022 10:43:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[타임스퀘어의 새해 전야제 "볼 드롭"을 새롭게 즐기는 법 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7970</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7970</guid>
-            <pubDate>Sat, 01 Jan 2022 03:20:00 GMT</pubDate>
+            <pubDate>Sat, 01 Jan 2022 10:41:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[페이스북 피드에는 1시간짜리 동영상을 업로드할 수 있다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 01 Jan 2022 03:20:13 GMT</pubDate>
+            <pubDate>Sat, 01 Jan 2022 05:18:53 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->페이스북 피드에는 1시간짜리 동영상을 업로드할 수 있다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
