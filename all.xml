@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 10:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 12:27:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[마감되었습니다] 오늘 하루 만 (12월 31일) 무료로 1인.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38074</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38074</guid>
+            <pubDate>Fri, 31 Dec 2021 09:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[외워두세요, 7년차 마자이너가 밝히는 상세페이지에 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56844</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56844</guid>
@@ -196,11 +203,11 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마감되었습니다] 오늘 하루 만 (12월 31일) 무료로 1인.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38074</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38074</guid>
-            <pubDate>Fri, 31 Dec 2021 09:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[놀토]]></content:encoded>
+            <title><![CDATA[페이스북 UTM은 제발 제발 제발 이렇게 박으세요. 부.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56908</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56908</guid>
+            <pubDate>Tue, 28 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발 (아이보스 ─ 인기글)]]></title>
@@ -208,13 +215,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56841</guid>
             <pubDate>Mon, 20 Dec 2021 06:21:15 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[페이스북 UTM은 제발 제발 제발 이렇게 박으세요. 부.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56908</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56908</guid>
-            <pubDate>Tue, 28 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[알아두면 좋은 유용한 사이트 모음 NO.2 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7862</guid>
             <pubDate>Wed, 14 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[로톡, 변호사법 위반?... 세 번째 무혐의 결론 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7972</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7972</guid>
+            <pubDate>Sat, 01 Jan 2022 12:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[법률플랫폼 로톡을 운영하는 로앤컴퍼니가 변호사법 위반과 관련해 수사기관으로부터 세 번째 무혐의 판정을 받았다.31일 로톡 서비스의 변호사법 및 개인정보보호법 위반 혐의 고발 사건을 수사해온 서울경찰청은 로톡이 모 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[특별 좌담회] 2022년 광고마케팅커뮤니케이션 업계, 변화 속에서 긍정적인 모습을 보일 듯 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_7f64e1a2e8cdd2dbf922c822742e8bf4_1640589796725.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김승수 의원, K광고산업진흥법 제정안 대표발의 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7941</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7941</guid>
-            <pubDate>Mon, 27 Dec 2021 06:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[우리나라 광고산업의 숙원인 광고산업진흥법 제정안이 국회에 발의됐다. 국민의힘 김승수 의원(대구 북구을,문체위 간사)은인쇄광고,영상광고,인터넷 광고 등 광고산업이 코로나로 인해 어려움을 겪으면서,중소 사업자들은 외 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[로톡, 변호사법 위반?... 세 번째 '무혐의' 결론 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7972</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7972</guid>
+            <pubDate>Sat, 01 Jan 2022 12:27:25 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[특별 좌담회] 2022년 광고·마케팅·커뮤니케이션 업계, 변화 속에서 긍정적인 모습을 보일 듯 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김승수 의원, ‘K광고산업진흥법’ 제정안 대표발의 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7941</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7941</guid>
-            <pubDate>Mon, 27 Dec 2021 06:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[페이스북 피드에는 1시간짜리 동영상을 업로드할 수 있다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 01 Jan 2022 10:19:14 GMT</pubDate>
+            <pubDate>Sat, 01 Jan 2022 12:27:38 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->페이스북 피드에는 1시간짜리 동영상을 업로드할 수 있다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

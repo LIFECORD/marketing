@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 10:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 12:27:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로톡, 변호사법 위반?... 세 번째 무혐의 결론]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7972</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7972</guid>
+            <pubDate>Sat, 01 Jan 2022 12:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[법률플랫폼 로톡을 운영하는 로앤컴퍼니가 변호사법 위반과 관련해 수사기관으로부터 세 번째 무혐의 판정을 받았다.31일 로톡 서비스의 변호사법 및 개인정보보호법 위반 혐의 고발 사건을 수사해온 서울경찰청은 로톡이 모 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[특별 좌담회] 2022년 광고마케팅커뮤니케이션 업계, 변화 속에서 긍정적인 모습을 보일 듯]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7971</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Dec 2021 08:21:52 GMT</pubDate>
             <content:encoded><![CDATA[배달 앱 배달의민족을 운영하는 ㈜우아한청년들과 민주노총 서비스일반노동조합 배달플랫폼지부가 어제(24일) 노사 협상을 통해 배달료 단체 협상 합의안을 도출해냈다.  합의안에 따르면, 배달료는 산정 기준을 기존 직선거리 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_7f64e1a2e8cdd2dbf922c822742e8bf4_1640589796725.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김승수 의원, K광고산업진흥법 제정안 대표발의]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7941</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7941</guid>
-            <pubDate>Mon, 27 Dec 2021 06:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[우리나라 광고산업의 숙원인 광고산업진흥법 제정안이 국회에 발의됐다. 국민의힘 김승수 의원(대구 북구을,문체위 간사)은인쇄광고,영상광고,인터넷 광고 등 광고산업이 코로나로 인해 어려움을 겪으면서,중소 사업자들은 외 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
