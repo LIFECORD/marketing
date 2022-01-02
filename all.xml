@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 21:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 23:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[1월 3일 마케팅 뉴스클리핑] 온라인몰 리뷰 솔루션 전성시대 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7973</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7973</guid>
+            <pubDate>Mon, 03 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 실검, #탭, 첫 화면 뉴스... 작년 네이버카카오가 없앤 것들  작년 한 해 포털과 플랫폼 분야에서 다양한 서비스가 사라지고 생겨났다. 가장 큰 변화는 네이버에서 `실검`을 폐지하며 양대 포털에서 모두 실검을 볼 수 없게 됐다 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16411169184422.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[로톡, 변호사법 위반?... 세 번째 무혐의 결론 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7972</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7972</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[배달의민족 임금교섭 잠정합의 배달료, 실거리 기준으로 인상 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7942</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7942</guid>
-            <pubDate>Mon, 27 Dec 2021 08:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[배달 앱 배달의민족을 운영하는 ㈜우아한청년들과 민주노총 서비스일반노동조합 배달플랫폼지부가 어제(24일) 노사 협상을 통해 배달료 단체 협상 합의안을 도출해냈다.  합의안에 따르면, 배달료는 산정 기준을 기존 직선거리 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_7f64e1a2e8cdd2dbf922c822742e8bf4_1640589796725.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[1월 3일 마케팅 뉴스클리핑] 온라인몰 '리뷰 솔루션' 전성시대 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7973</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7973</guid>
+            <pubDate>Sun, 02 Jan 2022 23:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[로톡, 변호사법 위반?... 세 번째 '무혐의' 결론 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[배달의민족 임금교섭 잠정합의… 배달료, 실거리 기준으로 인상 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7942</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7942</guid>
-            <pubDate>Mon, 27 Dec 2021 08:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[유리나]]></content:encoded>
+            <title><![CDATA['이것'은 네이버에서 새롭게 선보인 쇼핑 서비스입니다. 상품이 1+1 또는 1+α로만 구성되고, 무조건 무료배송으로 판매된다는 특징을 가진 '이것'은 무엇일까요?(hint: 12월 27일 큐레터에 정답이 숨어있어요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Sun, 02 Jan 2022 23:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->'이것'은 네이버에서 새롭게 선보인 쇼핑 서비스입니다. 상품이 1+1 또는 1+α로만 구성되고, 무조건 무료배송으로 판매된다는 특징을 가진 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-56880" target="_blank">12월 27일 큐레터에 정답이 숨어있어요!</a>)</span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1333_1" value="1" class="AB-radio" id="PQ_BD5826_1333_1_0"><label for="PQ_BD5826_1333_1_0" id="label_PQ_BD5826_1333_1_0">(A) 원쁠원</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1333_1" value="2" class="AB-radio" id="PQ_BD5826_1333_1_1"><label for="PQ_BD5826_1333_1_1" id="label_PQ_BD5826_1333_1_1">(B) 원쁠딜</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1333_1" value="3" class="AB-radio" id="PQ_BD5826_1333_1_2"><label for="PQ_BD5826_1333_1_2" id="label_PQ_BD5826_1333_1_2">(C) 원바이원</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1333_1" value="4" class="AB-radio" id="PQ_BD5826_1333_1_3"><label for="PQ_BD5826_1333_1_3" id="label_PQ_BD5826_1333_1_3">(D) 알파딜</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시, 소상공인 전용관 'e서울사랑샵' 운영...수수료 30% 감면 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

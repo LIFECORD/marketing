@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 21:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 23:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1월 3일 마케팅 뉴스클리핑] 온라인몰 리뷰 솔루션 전성시대 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7973</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7973</guid>
+            <pubDate>Mon, 03 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 실검, #탭, 첫 화면 뉴스... 작년 네이버카카오가 없앤 것들  작년 한 해 포털과 플랫폼 분야에서 다양한 서비스가 사라지고 생겨났다. 가장 큰 변화는 네이버에서 `실검`을 폐지하며 양대 포털에서 모두 실검을 볼 수 없게 됐다 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16411169184422.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로톡, 변호사법 위반?... 세 번째 무혐의 결론]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7972</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Dec 2021 09:19:13 GMT</pubDate>
             <content:encoded><![CDATA[중소기업의 화상회의, 재택근무 등 비대면 업무시스템 구축을 지원하는 `비대면 서비스 바우처 사업`에 중기부가 새해 410억원을 투입한다.   1만5000여 중소기업을 대상으로 화상회의, 재택근무(협업 툴), 네트워크 및 보안 솔루 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[배달의민족 임금교섭 잠정합의 배달료, 실거리 기준으로 인상]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7942</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7942</guid>
-            <pubDate>Mon, 27 Dec 2021 08:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[배달 앱 배달의민족을 운영하는 ㈜우아한청년들과 민주노총 서비스일반노동조합 배달플랫폼지부가 어제(24일) 노사 협상을 통해 배달료 단체 협상 합의안을 도출해냈다.  합의안에 따르면, 배달료는 산정 기준을 기존 직선거리 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_7f64e1a2e8cdd2dbf922c822742e8bf4_1640589796725.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
