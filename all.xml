@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 12:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 13:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -175,18 +175,18 @@
             <content:encoded><![CDATA[루비빙]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[메타버스 간접 체험해보실 분 🖐 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56788</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56788</guid>
-            <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[페이스북 UTM은 제발 제발 제발 이렇게 박으세요. 부.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56908</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56908</guid>
             <pubDate>Tue, 28 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[메타버스 간접 체험해보실 분 🖐 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56788</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56788</guid>
+            <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마감되었습니다] 오늘 하루 만 (12월 31일) 무료로 1인.. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[페이스북 피드에는 1시간짜리 동영상을 업로드할 수 있다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 02 Jan 2022 12:27:42 GMT</pubDate>
+            <pubDate>Sun, 02 Jan 2022 13:23:52 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->페이스북 피드에는 1시간짜리 동영상을 업로드할 수 있다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

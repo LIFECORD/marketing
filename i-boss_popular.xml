@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-02T12:27:51.751Z</updated>
+    <updated>2022-01-02T13:24:01.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[루비빙]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[메타버스 간접 체험해보실 분 🖐]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56788</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56788"/>
-        <updated>2021-12-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[페이스북 UTM은 제발 제발 제발 이렇게 박으세요. 부..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56908</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56908"/>
         <updated>2021-12-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[우뇌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메타버스 간접 체험해보실 분 🖐]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56788</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56788"/>
+        <updated>2021-12-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마감되었습니다] 오늘 하루 만 (12월 31일) 무료로 1인..]]></title>
