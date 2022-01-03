@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 06:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 07:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,18 +147,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버 공식 NEW 알고리즘, 발칵 뒤집힙니다(Feat. 스마.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56894</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56894</guid>
-            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[해적보물선]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[상세페이지 제작 접근 방식 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56806</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56806</guid>
             <pubDate>Sun, 12 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네이버 공식 NEW 알고리즘, 발칵 뒤집힙니다(Feat. 스마.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56894</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56894</guid>
+            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[해적보물선]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 주목해야 할 트렌드 총정리 (아이보스 ─ 인기글)]]></title>
@@ -329,18 +329,18 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[추천] 50년 동안 검증된 팔리는 상세페이지 원리 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56877</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56877</guid>
-            <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[수익폭발 최신 해외 인터넷 마케팅 트렌드는 번들 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38000</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38000</guid>
             <pubDate>Sat, 18 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[탁구공]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[추천] 50년 동안 검증된 팔리는 상세페이지 원리 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56877</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56877</guid>
+            <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국인이 온라인에서 가장 많이 구매하는 제품은 영.. (아이보스 ─ 인기글)]]></title>
@@ -593,14 +593,14 @@
             <title><![CDATA[네이버, 120개 업종에 키워드 리뷰 적용 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7980</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7980</guid>
-            <pubDate>Mon, 03 Jan 2022 06:21:42 GMT</pubDate>
+            <pubDate>Mon, 03 Jan 2022 06:21:31 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021년 네이버, 다음 최다 검색어 '유튜브' … 3년 넘게 1위 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7979</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7979</guid>
-            <pubDate>Mon, 03 Jan 2022 06:21:42 GMT</pubDate>
+            <pubDate>Mon, 03 Jan 2022 06:21:31 GMT</pubDate>
             <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA['이것'은 네이버에서 새롭게 선보인 쇼핑 서비스입니다. 상품이 1+1 또는 1+α로만 구성되고, 무조건 무료배송으로 판매된다는 특징을 가진 '이것'은 무엇일까요?(hint: 12월 27일 큐레터에 정답이 숨어있어요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 03 Jan 2022 06:21:53 GMT</pubDate>
+            <pubDate>Mon, 03 Jan 2022 07:17:48 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 네이버에서 새롭게 선보인 쇼핑 서비스입니다. 상품이 1+1 또는 1+α로만 구성되고, 무조건 무료배송으로 판매된다는 특징을 가진 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-56880" target="_blank">12월 27일 큐레터에 정답이 숨어있어요!</a>)</span></td>
 			</tr>
