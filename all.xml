@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 00:58:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 02:08:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,13 @@
             <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[마감되었습니다] 오늘 하루 만 (12월 31일) 무료로 1인.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38074</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38074</guid>
+            <pubDate>Fri, 31 Dec 2021 09:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[메타버스 간접 체험해보실 분 🖐 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56788</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56788</guid>
@@ -194,13 +201,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56844</guid>
             <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[마감되었습니다] 오늘 하루 만 (12월 31일) 무료로 1인.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38074</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38074</guid>
-            <pubDate>Fri, 31 Dec 2021 09:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 거절하게 만드는 마케터 유형 5가지 (아이보스 ─ 인기글)]]></title>
@@ -266,18 +266,18 @@
             <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[생일이에용! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38015</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38015</guid>
-            <pubDate>Wed, 22 Dec 2021 07:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[렐라뿅]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[1+1과 무료배송만 입점하는 네이버 신규 쇼핑판 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56880</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56880</guid>
             <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[생일이에용! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38015</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38015</guid>
+            <pubDate>Wed, 22 Dec 2021 07:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[렐라뿅]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년에는 어떤 광고에 집중하실 예정이세요? (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56877</guid>
             <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[11번가 빠른정산, 집화완료 다음날 정산급 지급 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7976</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7976</guid>
+            <pubDate>Mon, 03 Jan 2022 10:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[11번가가 11번가 빠른정산 서비스를 택배사 집화완료 기준 다음 영업일(+1일) 100% 정산으로 변경한다고 3일 밝혔다.  판매자가 11번가 주문 상품을 주문 당일 혹은 다음날 바로 택배사에 전달하면(집하완료) 하루 뒤 정산금액 100%를 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[대한민국광고대상 수상자 인터뷰] 귀여운 물범아 미안해 MZ세대 취향저격 SK하이닉스 ESG 캠페인 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,25 +590,24 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[KAI] 새해에도 TV  모바일은 꾸준한 광고 집행 전망 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7945</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7945</guid>
-            <pubDate>Tue, 28 Dec 2021 09:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코, 사장 이백만)는 2022년 1월의 광고경기를 전망하는 광고경기전망지수(KAI ;Korea Advertising Index)를 발표했다. 통계청 국가승인통계인 광고경기전망지수(KAI)는 매월 국내 450여개 광고주에게 다음 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[11번가 빠른정산, 집화완료 다음날 정산급 지급 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7976</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7976</guid>
+            <pubDate>Mon, 03 Jan 2022 02:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대한민국광고대상 수상자 인터뷰] “귀여운 물범아 미안해” MZ세대 취향저격 SK하이닉스 ESG 캠페인 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7975</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7975</guid>
-            <pubDate>Mon, 03 Jan 2022 00:58:03 GMT</pubDate>
+            <pubDate>Mon, 03 Jan 2022 08:55:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[디자인 어워드에서 가장 많이 상을 탄 나라는 어디일까? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7974</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7974</guid>
-            <pubDate>Mon, 03 Jan 2022 00:58:03 GMT</pubDate>
+            <pubDate>Mon, 03 Jan 2022 08:54:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[KAI] 새해에도 TV · 모바일은 꾸준한 광고 집행 전망 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7945</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7945</guid>
-            <pubDate>Tue, 28 Dec 2021 09:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['이것'은 네이버에서 새롭게 선보인 쇼핑 서비스입니다. 상품이 1+1 또는 1+α로만 구성되고, 무조건 무료배송으로 판매된다는 특징을 가진 '이것'은 무엇일까요?(hint: 12월 27일 큐레터에 정답이 숨어있어요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 03 Jan 2022 00:58:14 GMT</pubDate>
+            <pubDate>Mon, 03 Jan 2022 02:08:39 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 네이버에서 새롭게 선보인 쇼핑 서비스입니다. 상품이 1+1 또는 1+α로만 구성되고, 무조건 무료배송으로 판매된다는 특징을 가진 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-56880" target="_blank">12월 27일 큐레터에 정답이 숨어있어요!</a>)</span></td>
 			</tr>
