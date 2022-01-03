@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 08:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 09:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,18 +168,18 @@
             <content:encoded><![CDATA[김매니저]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인스타그램 2022 트렌드 리포트 한글 번역본입니다^^ (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56829</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56829</guid>
-            <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[루비빙]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[페이스북 UTM은 제발 제발 제발 이렇게 박으세요. 부.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56908</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56908</guid>
             <pubDate>Tue, 28 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인스타그램 2022 트렌드 리포트 한글 번역본입니다^^ (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56829</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56829</guid>
+            <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[루비빙]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마감되었습니다] 오늘 하루 만 (12월 31일) 무료로 1인.. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA['이것'은 네이버에서 새롭게 선보인 쇼핑 서비스입니다. 상품이 1+1 또는 1+α로만 구성되고, 무조건 무료배송으로 판매된다는 특징을 가진 '이것'은 무엇일까요?(hint: 12월 27일 큐레터에 정답이 숨어있어요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 03 Jan 2022 08:22:24 GMT</pubDate>
+            <pubDate>Mon, 03 Jan 2022 09:19:03 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 네이버에서 새롭게 선보인 쇼핑 서비스입니다. 상품이 1+1 또는 1+α로만 구성되고, 무조건 무료배송으로 판매된다는 특징을 가진 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-56880" target="_blank">12월 27일 큐레터에 정답이 숨어있어요!</a>)</span></td>
 			</tr>
