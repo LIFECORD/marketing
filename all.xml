@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 14:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 15:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7950</guid>
             <pubDate>Wed, 29 Dec 2021 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['이것'은 네이버에서 새롭게 선보인 쇼핑 서비스입니다. 상품이 1+1 또는 1+α로만 구성되고, 무조건 무료배송으로 판매된다는 특징을 가진 '이것'은 무엇일까요?(hint: 12월 27일 큐레터에 정답이 숨어있어요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 03 Jan 2022 14:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->'이것'은 네이버에서 새롭게 선보인 쇼핑 서비스입니다. 상품이 1+1 또는 1+α로만 구성되고, 무조건 무료배송으로 판매된다는 특징을 가진 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-56880" target="_blank">12월 27일 큐레터에 정답이 숨어있어요!</a>)</span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1333_1" value="1" class="AB-radio" id="PQ_BD5826_1333_1_0"><label for="PQ_BD5826_1333_1_0" id="label_PQ_BD5826_1333_1_0">(A) 원쁠원</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1333_1" value="2" class="AB-radio" id="PQ_BD5826_1333_1_1"><label for="PQ_BD5826_1333_1_1" id="label_PQ_BD5826_1333_1_1">(B) 원쁠딜</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1333_1" value="3" class="AB-radio" id="PQ_BD5826_1333_1_2"><label for="PQ_BD5826_1333_1_2" id="label_PQ_BD5826_1333_1_2">(C) 원바이원</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1333_1" value="4" class="AB-radio" id="PQ_BD5826_1333_1_3"><label for="PQ_BD5826_1333_1_3" id="label_PQ_BD5826_1333_1_3">(D) 알파딜</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 달라지는 일자리 정책 핵심 8가지 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
