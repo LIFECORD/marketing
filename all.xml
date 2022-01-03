@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 05:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 06:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,18 +147,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[상세페이지 제작 접근 방식 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56806</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56806</guid>
-            <pubDate>Sun, 12 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[우뇌]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네이버 공식 NEW 알고리즘, 발칵 뒤집힙니다(Feat. 스마.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56894</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56894</guid>
             <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[해적보물선]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[상세페이지 제작 접근 방식 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56806</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56806</guid>
+            <pubDate>Sun, 12 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 주목해야 할 트렌드 총정리 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,22 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7862</guid>
             <pubDate>Wed, 14 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네이버, 120개 업종에 키워드 리뷰 적용 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7980</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7980</guid>
+            <pubDate>Mon, 03 Jan 2022 06:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[초대규모 AI `하이퍼클로바` 활용해 업종별 적합 키워드 선정    네이버가 올 하반기 총 120개 업종에 키워드 리뷰(후기)를 적용했다고 31일 밝혔다.  이번에 키워드 리뷰가 새로 도입된 업종은 보드게임 카페, 스크린 골프장, 공방  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16411876089188.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2021년 네이버, 다음 최다 검색어 유튜브  3년 넘게 1위 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7979</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7979</guid>
+            <pubDate>Mon, 03 Jan 2022 06:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[다음의 2021년 올해의 검색어 집계에서 최다 검색어는 유튜브가 차지했다. 네이버와 날씨가 뒤를 이었고 로또 당첨 번호와 삼성전자, 구글, 비트코인도 주요 검색어에 포함됐다. 다음에서 유튜브는 2019년 네이버를 제치고 1위에  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[최대 1,000원기업고객 택배비 인상 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -574,20 +590,18 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_210689b6d5208c4cc8a394488d8f25c7_41703_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[검은 범 내려온다... 유통가, 호랑이 마케팅 후끈 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7949</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7949</guid>
-            <pubDate>Tue, 28 Dec 2021 08:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[28일 관련업계에 따르면 검은 호랑이 해를 맞아 식품유통업계에서는 호랑이 캐릭터를 모티브로 한 상품을 속속 선보이고 있다. 업계에서는 새해를 맞아 12지신 띠에 맞는 동물을 모티브로 한 상품을 선보이는 것이 연례행사처럼 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_9effa9a96d00fe8d9e42c0399c271968_84993_1.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[네이버, 120개 업종에 키워드 리뷰 적용 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7980</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7980</guid>
+            <pubDate>Mon, 03 Jan 2022 06:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[지난해 방송통신 광고비 처음으로 줄었다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7948</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7948</guid>
-            <pubDate>Tue, 28 Dec 2021 06:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 국내 방송통신 총 광고비가 14조1천203억원 규모로 집계됐다. 2014년 이후 관련 조사를 시작한 이후 처음으로 총 광고비가 감소한 것으로 나타났다.  28일 과학기술정보통신부와 한국방송광고진흥공사가 발표한 방송통신광 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[2021년 네이버, 다음 최다 검색어 '유튜브' … 3년 넘게 1위 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7979</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7979</guid>
+            <pubDate>Mon, 03 Jan 2022 06:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[최대 1,000원···기업고객 택배비 인상 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[검은 범 내려온다... 유통가, 호랑이 마케팅 '후끈' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7949</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7949</guid>
-            <pubDate>Tue, 28 Dec 2021 08:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[지난해 방송통신 광고비 처음으로 줄었다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7948</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7948</guid>
-            <pubDate>Tue, 28 Dec 2021 06:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['이것'은 네이버에서 새롭게 선보인 쇼핑 서비스입니다. 상품이 1+1 또는 1+α로만 구성되고, 무조건 무료배송으로 판매된다는 특징을 가진 '이것'은 무엇일까요?(hint: 12월 27일 큐레터에 정답이 숨어있어요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 03 Jan 2022 05:18:18 GMT</pubDate>
+            <pubDate>Mon, 03 Jan 2022 06:21:53 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 네이버에서 새롭게 선보인 쇼핑 서비스입니다. 상품이 1+1 또는 1+α로만 구성되고, 무조건 무료배송으로 판매된다는 특징을 가진 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-56880" target="_blank">12월 27일 큐레터에 정답이 숨어있어요!</a>)</span></td>
 			</tr>
