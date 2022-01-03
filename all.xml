@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 03:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 04:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 마케팅 트렌드 점수는? (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/820728-%EB%82%B4_%EB%A7%88%EC%BC%80%ED%8C%85_%ED%8A%B8%EB%A0%8C%EB%93%9C_%EC%A0%90%EC%88%98%EB%8A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/820728-%EB%82%B4_%EB%A7%88%EC%BC%80%ED%8C%85_%ED%8A%B8%EB%A0%8C%EB%93%9C_%EC%A0%90%EC%88%98%EB%8A%94/</guid>
+            <pubDate>Mon, 03 Jan 2022 04:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/820728-내_마케팅_트렌드_점수는/">
+						<div class="thumb"><img src="/images/qletter_820728.png"></div>
+						<p><strong>내 마케팅 트렌드 점수는?</strong>2022.01.03</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_820728.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2022년 광고 계획 미리보기 🧐 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/816530-2022%EB%85%84_%EA%B4%91%EA%B3%A0_%EA%B3%84%ED%9A%8D_%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0/</link>
@@ -127,17 +138,6 @@
 						<p><strong> 샌드박스가 말하는 뉴미디어 트렌드 10가지</strong>2021.11.25</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_772693.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈마켓 대전에 합류하는 카카오 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/767320-%EC%98%A4%ED%94%88%EB%A7%88%EC%BC%93_%EB%8C%80%EC%A0%84%EC%97%90_%ED%95%A9%EB%A5%98%ED%95%98%EB%8A%94_%EC%B9%B4%EC%B9%B4%EC%98%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/767320-%EC%98%A4%ED%94%88%EB%A7%88%EC%BC%93_%EB%8C%80%EC%A0%84%EC%97%90_%ED%95%A9%EB%A5%98%ED%95%98%EB%8A%94_%EC%B9%B4%EC%B9%B4%EC%98%A4/</guid>
-            <pubDate>Fri, 24 Dec 2021 06:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/767320-오픈마켓_대전에_합류하는_카카오/">
-						<div class="thumb"><img src="/images/qletter_767320.png"></div>
-						<p><strong>오픈마켓 대전에 합류하는 카카오</strong>2021.11.22</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_767320.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[네이버의 새로운 검색 '에어서치' 살펴보기 (아이보스 ─ 인기글)]]></title>
@@ -273,18 +273,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[생일이에용! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38015</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38015</guid>
-            <pubDate>Wed, 22 Dec 2021 07:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[렐라뿅]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022년에는 어떤 광고에 집중하실 예정이세요? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56900</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56900</guid>
             <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[생일이에용! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38015</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38015</guid>
+            <pubDate>Wed, 22 Dec 2021 07:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[렐라뿅]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아마존, 쿠팡의 성공공식을 마케팅에 대입해보기 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56877</guid>
             <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[최대 1,000원기업고객 택배비 인상 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7978</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7978</guid>
+            <pubDate>Mon, 03 Jan 2022 00:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[CJ대한통운과 한진 등 주요 택배업계가 새해부터 택배비 인상에 돌입했다. 코로나19 장기화로 배송 물량이 지속적으로 늘어나고 있어 택배비 인상이 부담스럽다는 우려의 목소리가 커지고 있다.  업계에 따르면 CJ대한통운은 올 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[네이버가 투자하고 CES 무대 오르는 스타트업 11곳 어디? (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,18 +590,17 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[네이버 쇼핑라이브, 1년 4개월새 평균 매출 48%  단골 128% (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7947</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7947</guid>
-            <pubDate>Tue, 28 Dec 2021 11:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[김지영 성균관대 교수 연구결과 공개...쇼핑라이브 효용성 입증 온라인 진입 장벽 낮춰 중소상공인에게도 성장 기회 제공 소규모 SME일수록 성장 효과 더욱 뚜렷, 3배 이상 효과 발생     네이버가 김지영 성균관대학교 교수 연구 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16406572580058.png" length="0" type="image/png"/>
+            <title><![CDATA[최대 1,000원···기업고객 택배비 인상 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7978</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7978</guid>
+            <pubDate>Mon, 03 Jan 2022 04:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[오늘그리고내일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버가 투자하고 'CES 무대' 오르는 스타트업 11곳 어디? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7977</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7977</guid>
-            <pubDate>Mon, 03 Jan 2022 03:19:35 GMT</pubDate>
+            <pubDate>Mon, 03 Jan 2022 11:48:00 GMT</pubDate>
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버 쇼핑라이브, 1년 4개월새 평균 매출 48%↑ · 단골 128%↑ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7947</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7947</guid>
-            <pubDate>Tue, 28 Dec 2021 11:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['이것'은 네이버에서 새롭게 선보인 쇼핑 서비스입니다. 상품이 1+1 또는 1+α로만 구성되고, 무조건 무료배송으로 판매된다는 특징을 가진 '이것'은 무엇일까요?(hint: 12월 27일 큐레터에 정답이 숨어있어요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 03 Jan 2022 03:19:47 GMT</pubDate>
+            <pubDate>Mon, 03 Jan 2022 04:23:46 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 네이버에서 새롭게 선보인 쇼핑 서비스입니다. 상품이 1+1 또는 1+α로만 구성되고, 무조건 무료배송으로 판매된다는 특징을 가진 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-56880" target="_blank">12월 27일 큐레터에 정답이 숨어있어요!</a>)</span></td>
 			</tr>

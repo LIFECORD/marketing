@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 03:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 04:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 마케팅 트렌드 점수는?]]></title>
+            <link>https://qletter.i-boss.co.kr/view/820728-%EB%82%B4_%EB%A7%88%EC%BC%80%ED%8C%85_%ED%8A%B8%EB%A0%8C%EB%93%9C_%EC%A0%90%EC%88%98%EB%8A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/820728-%EB%82%B4_%EB%A7%88%EC%BC%80%ED%8C%85_%ED%8A%B8%EB%A0%8C%EB%93%9C_%EC%A0%90%EC%88%98%EB%8A%94/</guid>
+            <pubDate>Mon, 03 Jan 2022 04:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/820728-내_마케팅_트렌드_점수는/">
+						<div class="thumb"><img src="/images/qletter_820728.png"></div>
+						<p><strong>내 마케팅 트렌드 점수는?</strong>2022.01.03</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_820728.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2022년 광고 계획 미리보기 🧐]]></title>
             <link>https://qletter.i-boss.co.kr/view/816530-2022%EB%85%84_%EA%B4%91%EA%B3%A0_%EA%B3%84%ED%9A%8D_%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0/</link>
@@ -127,17 +138,6 @@
 						<p><strong> 샌드박스가 말하는 뉴미디어 트렌드 10가지</strong>2021.11.25</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_772693.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈마켓 대전에 합류하는 카카오]]></title>
-            <link>https://qletter.i-boss.co.kr/view/767320-%EC%98%A4%ED%94%88%EB%A7%88%EC%BC%93_%EB%8C%80%EC%A0%84%EC%97%90_%ED%95%A9%EB%A5%98%ED%95%98%EB%8A%94_%EC%B9%B4%EC%B9%B4%EC%98%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/767320-%EC%98%A4%ED%94%88%EB%A7%88%EC%BC%93_%EB%8C%80%EC%A0%84%EC%97%90_%ED%95%A9%EB%A5%98%ED%95%98%EB%8A%94_%EC%B9%B4%EC%B9%B4%EC%98%A4/</guid>
-            <pubDate>Fri, 24 Dec 2021 06:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/767320-오픈마켓_대전에_합류하는_카카오/">
-						<div class="thumb"><img src="/images/qletter_767320.png"></div>
-						<p><strong>오픈마켓 대전에 합류하는 카카오</strong>2021.11.22</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_767320.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

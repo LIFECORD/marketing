@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 03:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 04:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최대 1,000원기업고객 택배비 인상]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7978</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7978</guid>
+            <pubDate>Mon, 03 Jan 2022 00:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[CJ대한통운과 한진 등 주요 택배업계가 새해부터 택배비 인상에 돌입했다. 코로나19 장기화로 배송 물량이 지속적으로 늘어나고 있어 택배비 인상이 부담스럽다는 우려의 목소리가 커지고 있다.  업계에 따르면 CJ대한통운은 올 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[네이버가 투자하고 CES 무대 오르는 스타트업 11곳 어디?]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7977</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Dec 2021 06:21:47 GMT</pubDate>
             <content:encoded><![CDATA[지난해 국내 방송통신 총 광고비가 14조1천203억원 규모로 집계됐다. 2014년 이후 관련 조사를 시작한 이후 처음으로 총 광고비가 감소한 것으로 나타났다.  28일 과학기술정보통신부와 한국방송광고진흥공사가 발표한 방송통신광 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 쇼핑라이브, 1년 4개월새 평균 매출 48%  단골 128%]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7947</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7947</guid>
-            <pubDate>Tue, 28 Dec 2021 11:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[김지영 성균관대 교수 연구결과 공개...쇼핑라이브 효용성 입증 온라인 진입 장벽 낮춰 중소상공인에게도 성장 기회 제공 소규모 SME일수록 성장 효과 더욱 뚜렷, 3배 이상 효과 발생     네이버가 김지영 성균관대학교 교수 연구 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16406572580058.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
