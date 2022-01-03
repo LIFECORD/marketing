@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 22:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 23:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1월 4일 마케팅 뉴스클리핑] 최대 1,000원... 기업고객 택배비 인상 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7981</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7981</guid>
+            <pubDate>Tue, 04 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 최대 1,000원... 기업고객 택배비 인상  CJ대한통운과 한진 등 주요 택배업계가 새해부터 택배비 인상에 돌입했다. 코로나19 장기화로 배송 물량이 지속적으로 늘어나고 있어 택배비 인상이 부담스럽다는 우려의 목소리가 커지 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_3d66cf3b5ad28aa875e533c891254bfd_39390_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버, 120개 업종에 키워드 리뷰 적용]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7980</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 08:46:00 GMT</pubDate>
             <content:encoded><![CDATA[디지털 인프라 및 연속성 솔루션 전문 기업인 버티브(Vertiv)가 지속 가능성 이슈를 해결 및 기후 위기 극복을 위한 조치들의 대대적 전개를 비롯해 2022년에 주목해야 할 데이터센터 시장 핵심 동향을 발표했다. 버티브 전문가들 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[12월 29일 마케팅 뉴스클리핑] 대세는 모바일 광고... 광고비 비중 50% 첫 상회 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7950</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7950</guid>
-            <pubDate>Wed, 29 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 대세는 모바일 광고... 광고비 비중 50% 첫 상회  지난해 국내 방송통신 광고 비용이 2014년 이후 처음으로 감소했다. 지상파와 IPTV 등 방송 광고비가 전년대비 줄어든 반면 온라인 광고비는 증가해 전체 비중의 50%를 상회했다.  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_210689b6d5208c4cc8a394488d8f25c7_41703_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

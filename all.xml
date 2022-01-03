@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 22:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 23:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[1월 4일 마케팅 뉴스클리핑] 최대 1,000원... 기업고객 택배비 인상 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7981</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7981</guid>
+            <pubDate>Tue, 04 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 최대 1,000원... 기업고객 택배비 인상  CJ대한통운과 한진 등 주요 택배업계가 새해부터 택배비 인상에 돌입했다. 코로나19 장기화로 배송 물량이 지속적으로 늘어나고 있어 택배비 인상이 부담스럽다는 우려의 목소리가 커지 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_3d66cf3b5ad28aa875e533c891254bfd_39390_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[네이버, 120개 업종에 키워드 리뷰 적용 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7980</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7980</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[12월 29일 마케팅 뉴스클리핑] 대세는 모바일 광고... 광고비 비중 50% 첫 상회 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7950</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7950</guid>
-            <pubDate>Wed, 29 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 대세는 모바일 광고... 광고비 비중 50% 첫 상회  지난해 국내 방송통신 광고 비용이 2014년 이후 처음으로 감소했다. 지상파와 IPTV 등 방송 광고비가 전년대비 줄어든 반면 온라인 광고비는 증가해 전체 비중의 50%를 상회했다.  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_210689b6d5208c4cc8a394488d8f25c7_41703_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[1월 4일 마케팅 뉴스클리핑] 최대 1,000원... 기업고객 택배비 인상 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7981</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7981</guid>
+            <pubDate>Mon, 03 Jan 2022 23:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버, 120개 업종에 키워드 리뷰 적용 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[12월 29일 마케팅 뉴스클리핑] 대세는 모바일 광고... 광고비 비중 50% 첫 상회 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7950</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7950</guid>
-            <pubDate>Wed, 29 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[PC(데스크톱)에서 유튜브 홈페이지에 방문할 때, 유튜브 홈 피드 상단에 마스트헤드 광고 영상이 소리 없이 자동 재생됩니다. 마스트헤드 광고는 최대 몇 초 동안 자동 재생될까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Mon, 03 Jan 2022 23:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->PC(데스크톱)에서 유튜브 홈페이지에 방문할 때, 유튜브 홈 피드 상단에 마스트헤드 광고 영상이 소리 없이 자동 재생됩니다. 마스트헤드 광고는 최대 몇 초 동안 자동 재생될까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1334_1" value="1" class="AB-radio" id="PQ_BD5826_1334_1_0"><label for="PQ_BD5826_1334_1_0" id="label_PQ_BD5826_1334_1_0">(A) 최대 5초</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1334_1" value="2" class="AB-radio" id="PQ_BD5826_1334_1_1"><label for="PQ_BD5826_1334_1_1" id="label_PQ_BD5826_1334_1_1">(B) 최대 15초</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1334_1" value="3" class="AB-radio" id="PQ_BD5826_1334_1_2"><label for="PQ_BD5826_1334_1_2" id="label_PQ_BD5826_1334_1_2">(C) 최대 30초</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1334_1" value="4" class="AB-radio" id="PQ_BD5826_1334_1_3"><label for="PQ_BD5826_1334_1_3" id="label_PQ_BD5826_1334_1_3">(D) 전체 동영상이 재생된다</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 달라지는 일자리 정책 핵심 8가지 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
