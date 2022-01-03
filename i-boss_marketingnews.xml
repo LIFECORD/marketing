@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 02:08:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 03:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버가 투자하고 CES 무대 오르는 스타트업 11곳 어디?]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7977</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7977</guid>
+            <pubDate>Mon, 03 Jan 2022 11:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[네이버의 스타트업 액셀러레이터 D2스타트업팩토리(D2SF)가 투자한 스타트업 11팀이 이달 5일(현지시간) 미국 라스베이거스에서 열리는 국제전자제품박람회(CES) 2022에 참가한다. 11팀은 비욘드허니컴, 이모코그, 리콘랩스, 누비랩, ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[11번가 빠른정산, 집화완료 다음날 정산급 지급]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7976</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Dec 2021 11:07:00 GMT</pubDate>
             <content:encoded><![CDATA[김지영 성균관대 교수 연구결과 공개...쇼핑라이브 효용성 입증 온라인 진입 장벽 낮춰 중소상공인에게도 성장 기회 제공 소규모 SME일수록 성장 효과 더욱 뚜렷, 3배 이상 효과 발생     네이버가 김지영 성균관대학교 교수 연구 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16406572580058.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디자이너 꿈꾸는 취업준비생 54%, 눈 앞 수익보다는 성장 원해]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7946</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7946</guid>
-            <pubDate>Tue, 28 Dec 2021 09:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[20만 디자이너 회원을 보유한 국내 최대 디자인 플랫폼 스터닝(대표 김승환)이 9월 자사 이용자 435명을 대상으로 설문조사한 결과를 28일 밝혔다. 설문조사 결과, 자기 계발과 포트폴리오 관리가 54%로 가장 높게 나타난 반면, 추 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
