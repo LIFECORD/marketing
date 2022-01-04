@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 05:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 06:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,18 +294,18 @@
             <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37996</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37996</guid>
-            <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[놀토]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[매출 2배 올린 대표이미지 노하우 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56896</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56896</guid>
             <pubDate>Tue, 27 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37996</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37996</guid>
+            <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마감되쓔] 선착순 10명에게 1209 리터 보내드립니다 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[PC(데스크톱)에서 유튜브 홈페이지에 방문할 때, 유튜브 홈 피드 상단에 마스트헤드 광고 영상이 소리 없이 자동 재생됩니다. 마스트헤드 광고는 최대 몇 초 동안 자동 재생될까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 04 Jan 2022 05:17:52 GMT</pubDate>
+            <pubDate>Tue, 04 Jan 2022 06:21:34 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->PC(데스크톱)에서 유튜브 홈페이지에 방문할 때, 유튜브 홈 피드 상단에 마스트헤드 광고 영상이 소리 없이 자동 재생됩니다. 마스트헤드 광고는 최대 몇 초 동안 자동 재생될까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
