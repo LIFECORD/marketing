@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 22:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 23:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1월 5일 마케팅 뉴스클리핑] 네이버 키워드 리뷰, SME 니즈 맞춰 빠른 도입 완료 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7985</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7985</guid>
+            <pubDate>Wed, 05 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버 키워드 리뷰, SME 니즈 맞춰 빠른 도입 완료  네이버는 지난달 30일 총 57개 업종에 대해서 키워드 리뷰를 신규 도입하면서 올 하반기 총 120개 업종에 키워드 리뷰를 적용 완료했다. 보드게임 카페, 스크린 골프장 등 총 57 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_f233df5bb5e6b5c698a52decdc299221_98706_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트위터, 모바일 광고 플랫폼 모펍 매각 완료]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7984</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 11:41:00 GMT</pubDate>
             <content:encoded><![CDATA[야놀자가 인터파크의 전자상거래부문(여행티켓쇼핑도서) 인수작업을 마무리했다. 28일 야놀자는 여행항공공연쇼핑 등 인터파크 사업부문에 대한 지분 70%를 2940억원에 인수했다고 밝혔다. 지난 10월 인터파크 사업부문 인수 우 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[식음료업계, 메타버스 마케팅 열풍... 가상공간서 이색 경험]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7954</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7954</guid>
-            <pubDate>Wed, 29 Dec 2021 10:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[SPC그룹이 운영하는 배스킨라빈스는 국내 식음료 업계 최초로 아시아 최대 메타버스 플랫폼 제페토(ZEPETO)에 단독 공식 맵 `배라 팩토리`를 론칭했다. 배스킨라빈스는 향후 제페토 아바타를 버추얼 캐릭터로 활용한 라이브커머스 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_3f72c09b88fc6c15b721c0a872bd1e26_33270_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

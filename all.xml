@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 22:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 23:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[1월 5일 마케팅 뉴스클리핑] 네이버 키워드 리뷰, SME 니즈 맞춰 빠른 도입 완료 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7985</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7985</guid>
+            <pubDate>Wed, 05 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버 키워드 리뷰, SME 니즈 맞춰 빠른 도입 완료  네이버는 지난달 30일 총 57개 업종에 대해서 키워드 리뷰를 신규 도입하면서 올 하반기 총 120개 업종에 키워드 리뷰를 적용 완료했다. 보드게임 카페, 스크린 골프장 등 총 57 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_f233df5bb5e6b5c698a52decdc299221_98706_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[트위터, 모바일 광고 플랫폼 모펍 매각 완료 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7984</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7984</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[식음료업계, 메타버스 마케팅 열풍... 가상공간서 이색 경험 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7954</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7954</guid>
-            <pubDate>Wed, 29 Dec 2021 10:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[SPC그룹이 운영하는 배스킨라빈스는 국내 식음료 업계 최초로 아시아 최대 메타버스 플랫폼 제페토(ZEPETO)에 단독 공식 맵 `배라 팩토리`를 론칭했다. 배스킨라빈스는 향후 제페토 아바타를 버추얼 캐릭터로 활용한 라이브커머스 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_3f72c09b88fc6c15b721c0a872bd1e26_33270_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[1월 5일 마케팅 뉴스클리핑] 네이버 키워드 리뷰, SME 니즈 맞춰 빠른 도입 완료 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7985</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7985</guid>
+            <pubDate>Tue, 04 Jan 2022 23:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[트위터, 모바일 광고 플랫폼 '모펍' 매각 완료 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[식음료업계, 메타버스 마케팅 열풍... 가상공간서 이색 경험 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7954</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7954</guid>
-            <pubDate>Wed, 29 Dec 2021 10:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA['이것'은 책 <무조건 팔리는 카피 단어장>에서 제시한 키워드입니다. 성공을 거둔 카피 문구에 일정하게 숨어있다는 이 법칙의 이름은 무엇일까요?(hint: 마케터의 서재에서 슬쩍 키워드 꺼내보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Tue, 04 Jan 2022 23:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->'이것'은 책 &lt;무조건 팔리는 카피 단어장&gt;에서 제시한 키워드입니다. 성공을 거둔 카피 문구에 일정하게 숨어있다는 이 법칙의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-5637-28" target="_blank">마케터의 서재에서 슬쩍 키워드 꺼내보기!</a>)</span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1335_1" value="1" class="AB-radio" id="PQ_BD5826_1335_1_0"><label for="PQ_BD5826_1335_1_0" id="label_PQ_BD5826_1335_1_0">(A) PASONA 법칙</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1335_1" value="2" class="AB-radio" id="PQ_BD5826_1335_1_1"><label for="PQ_BD5826_1335_1_1" id="label_PQ_BD5826_1335_1_1">(B) PERSON 법칙</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1335_1" value="3" class="AB-radio" id="PQ_BD5826_1335_1_2"><label for="PQ_BD5826_1335_1_2" id="label_PQ_BD5826_1335_1_2">(C) KEPLER 법칙</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1335_1" value="4" class="AB-radio" id="PQ_BD5826_1335_1_3"><label for="PQ_BD5826_1335_1_3" id="label_PQ_BD5826_1335_1_3">(D) POETIC 법칙</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 달라지는 일자리 정책 핵심 8가지 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
