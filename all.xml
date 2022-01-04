@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 02:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 03:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,6 +308,13 @@
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[매출 2배 올린 대표이미지 노하우 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56896</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56896</guid>
+            <pubDate>Tue, 27 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[퍼포먼스 광고 대행사를 고르는 기준 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56768</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56768</guid>
@@ -343,11 +350,12 @@
             <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[매출 2배 올린 대표이미지 노하우 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56896</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56896</guid>
-            <pubDate>Tue, 27 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
+            <title><![CDATA[트위터, 모바일 광고 플랫폼 모펍 매각 완료 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7984</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7984</guid>
+            <pubDate>Tue, 04 Jan 2022 11:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[트위터가 자회사 모바일 광고 플랫폼 모펍(MoPub)을 모바일 게임마케팅 소프트웨어 공급 업체 앱러빈(AppLovin)에 매각했다.  2010년 설립된 모펍은 실시간 광고 입찰 시스템을 운영한다. 모펍 네트워크 중재, 입찰, 마켓플레이스 기 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0322465dd9ffe8bf6790927800bc3444_39911_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대한민국광고대상 수상자 인터뷰] 안심하고 쇼핑할 수 있는 살균 카트 이마트 LIGHT SAVER (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_3f72c09b88fc6c15b721c0a872bd1e26_33270_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신중년 건강 관리기기는 스마트폰 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7953</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7953</guid>
-            <pubDate>Wed, 29 Dec 2021 09:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)가 5060세대의 스마트 헬스케어 기기 트렌드 현황을 조사했다. 임팩트피플스는 에이풀(Aful)을 통해 11월 10일부터 11월 21일까지 50세 이상 378명을 대상으로 조사한 결과, 응답한 신중년 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[트위터, 모바일 광고 플랫폼 '모펍' 매각 완료 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7984</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7984</guid>
+            <pubDate>Tue, 04 Jan 2022 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대한민국광고대상 수상자 인터뷰] 안심하고 쇼핑할 수 있는 살균 카트 이마트 ‘LIGHT SAVER’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신중년 건강 관리기기는 '스마트폰' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7953</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7953</guid>
-            <pubDate>Wed, 29 Dec 2021 09:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[PC(데스크톱)에서 유튜브 홈페이지에 방문할 때, 유튜브 홈 피드 상단에 마스트헤드 광고 영상이 소리 없이 자동 재생됩니다. 마스트헤드 광고는 최대 몇 초 동안 자동 재생될까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 04 Jan 2022 02:11:05 GMT</pubDate>
+            <pubDate>Tue, 04 Jan 2022 03:18:47 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->PC(데스크톱)에서 유튜브 홈페이지에 방문할 때, 유튜브 홈 피드 상단에 마스트헤드 광고 영상이 소리 없이 자동 재생됩니다. 마스트헤드 광고는 최대 몇 초 동안 자동 재생될까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

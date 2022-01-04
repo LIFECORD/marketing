@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 02:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 03:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트위터, 모바일 광고 플랫폼 모펍 매각 완료]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7984</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7984</guid>
+            <pubDate>Tue, 04 Jan 2022 11:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[트위터가 자회사 모바일 광고 플랫폼 모펍(MoPub)을 모바일 게임마케팅 소프트웨어 공급 업체 앱러빈(AppLovin)에 매각했다.  2010년 설립된 모펍은 실시간 광고 입찰 시스템을 운영한다. 모펍 네트워크 중재, 입찰, 마켓플레이스 기 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0322465dd9ffe8bf6790927800bc3444_39911_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[대한민국광고대상 수상자 인터뷰] 안심하고 쇼핑할 수 있는 살균 카트 이마트 LIGHT SAVER]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7983</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 10:50:00 GMT</pubDate>
             <content:encoded><![CDATA[SPC그룹이 운영하는 배스킨라빈스는 국내 식음료 업계 최초로 아시아 최대 메타버스 플랫폼 제페토(ZEPETO)에 단독 공식 맵 `배라 팩토리`를 론칭했다. 배스킨라빈스는 향후 제페토 아바타를 버추얼 캐릭터로 활용한 라이브커머스 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_3f72c09b88fc6c15b721c0a872bd1e26_33270_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신중년 건강 관리기기는 스마트폰]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7953</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7953</guid>
-            <pubDate>Wed, 29 Dec 2021 09:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)가 5060세대의 스마트 헬스케어 기기 트렌드 현황을 조사했다. 임팩트피플스는 에이풀(Aful)을 통해 11월 10일부터 11월 21일까지 50세 이상 378명을 대상으로 조사한 결과, 응답한 신중년 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
