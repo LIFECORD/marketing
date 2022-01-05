@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 01:00:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 02:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -140,18 +140,18 @@
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_772693.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[네이버 공식 NEW 알고리즘, 발칵 뒤집힙니다(Feat. 스마.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56894</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56894</guid>
-            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[해적보물선]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022년 주목해야 할 트렌드 총정리 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56862</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56862</guid>
             <pubDate>Wed, 22 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김매니저]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네이버 공식 NEW 알고리즘, 발칵 뒤집힙니다(Feat. 스마.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56894</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56894</guid>
+            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[해적보물선]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버의 새로운 검색 '에어서치' 살펴보기 (아이보스 ─ 인기글)]]></title>
@@ -294,11 +294,11 @@
             <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[매출 2배 올린 대표이미지 노하우 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56896</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56896</guid>
-            <pubDate>Tue, 27 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
+            <title><![CDATA[2022년 타임캡슐 📅 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38098</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38098</guid>
+            <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리.. (아이보스 ─ 인기글)]]></title>
@@ -308,18 +308,18 @@
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[매출 2배 올린 대표이미지 노하우 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56896</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56896</guid>
+            <pubDate>Tue, 27 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[마감되쓔] 선착순 10명에게 1209 리터 보내드립니다 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37934</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37934</guid>
             <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[놀토]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[퍼포먼스 광고 대행사를 고르는 기준 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56768</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56768</guid>
-            <pubDate>Mon, 06 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[준5941]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[얼어붙은 감수성을 깨부수는 인문학적 도끼질! 박웅.. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56877</guid>
             <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인터파크, 판매자 전용 데이터 분석 툴 서비스 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7990</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7990</guid>
+            <pubDate>Wed, 05 Jan 2022 11:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[판매 현황마케팅 효율고객 유입 등 판매 관련 데이터 제공    인터파크가 입점 판매자 경쟁력 강화를 위해 판매자 어드바이저 서비스를 시작한다고 5일 밝혔다.  판매자 어드바이저는 판매 현황, 마케팅 효율, 고객 유입 흐름 등 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16413480651969.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나19 비대면 수업과 재택근무 등으로 주중 TV 시청시간량 증가 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,39 +590,38 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[작년 데이터산업 시장규모 18.7% 성장한 20조원 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7960</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7960</guid>
-            <pubDate>Wed, 29 Dec 2021 08:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 과기정통부)와 한국데이터산업진흥원(원장 윤혜정, 이하 K-DATA)은 국내 데이터산업 시장규모, 인력현황 등을 조사한`2021 데이터산업현황조사` 의 주요 통계결과를 발표했다. 해당 조사는,  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[인터파크, 판매자 전용 데이터 분석 툴 서비스 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7990</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7990</guid>
+            <pubDate>Wed, 05 Jan 2022 02:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나19 비대면 수업과 재택근무 등으로 주중 TV 시청시간량 증가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7989</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7989</guid>
-            <pubDate>Wed, 05 Jan 2022 01:00:32 GMT</pubDate>
+            <pubDate>Wed, 05 Jan 2022 09:20:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대한민국광고대상 수상자 인터뷰] 2039 영(Young)탈모인들을 위한 두피스킨케어 아모레퍼시픽 라보에이치 ‘삼푸엔없지 라보에있지’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7988</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7988</guid>
-            <pubDate>Wed, 05 Jan 2022 01:00:32 GMT</pubDate>
+            <pubDate>Wed, 05 Jan 2022 08:49:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대한민국광고대상 수상자 인터뷰] 포스트코로나 시대, 여행자를 위한 안전한 여행법 제주관광공사 ‘슬로우로드(Slow Road)’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7987</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7987</guid>
-            <pubDate>Wed, 05 Jan 2022 01:00:32 GMT</pubDate>
+            <pubDate>Wed, 05 Jan 2022 08:48:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[삼성전자·LG전자는 왜 ‘NFT 경제’에 탑승할까 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7986</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7986</guid>
-            <pubDate>Wed, 05 Jan 2022 01:00:32 GMT</pubDate>
+            <pubDate>Wed, 05 Jan 2022 08:37:00 GMT</pubDate>
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[작년 데이터산업 시장규모 18.7% 성장한 20조원 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7960</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7960</guid>
-            <pubDate>Wed, 29 Dec 2021 08:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['이것'은 책 <무조건 팔리는 카피 단어장>에서 제시한 키워드입니다. 성공을 거둔 카피 문구에 일정하게 숨어있다는 이 법칙의 이름은 무엇일까요?(hint: 마케터의 서재에서 슬쩍 키워드 꺼내보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 05 Jan 2022 01:00:45 GMT</pubDate>
+            <pubDate>Wed, 05 Jan 2022 02:13:22 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 책 &lt;무조건 팔리는 카피 단어장&gt;에서 제시한 키워드입니다. 성공을 거둔 카피 문구에 일정하게 숨어있다는 이 법칙의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-5637-28" target="_blank">마케터의 서재에서 슬쩍 키워드 꺼내보기!</a>)</span></td>
 			</tr>

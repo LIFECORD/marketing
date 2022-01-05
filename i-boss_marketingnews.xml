@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 01:00:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 02:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인터파크, 판매자 전용 데이터 분석 툴 서비스 출시]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7990</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7990</guid>
+            <pubDate>Wed, 05 Jan 2022 11:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[판매 현황마케팅 효율고객 유입 등 판매 관련 데이터 제공    인터파크가 입점 판매자 경쟁력 강화를 위해 판매자 어드바이저 서비스를 시작한다고 5일 밝혔다.  판매자 어드바이저는 판매 현황, 마케팅 효율, 고객 유입 흐름 등 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16413480651969.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 비대면 수업과 재택근무 등으로 주중 TV 시청시간량 증가]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7989</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7961</guid>
             <pubDate>Wed, 29 Dec 2021 08:21:17 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 과기정통부)와 한국방송광고진흥공사(사장 이백만, 이하 코바코)는 2020년도 국내 방송통신광고 시장 현황과 2021~2022년 전망을 담은`2021 방송통신광고비 조사` 결과를 발표했다. 본 조사는  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[작년 데이터산업 시장규모 18.7% 성장한 20조원]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7960</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7960</guid>
-            <pubDate>Wed, 29 Dec 2021 08:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 과기정통부)와 한국데이터산업진흥원(원장 윤혜정, 이하 K-DATA)은 국내 데이터산업 시장규모, 인력현황 등을 조사한`2021 데이터산업현황조사` 의 주요 통계결과를 발표했다. 해당 조사는,  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
