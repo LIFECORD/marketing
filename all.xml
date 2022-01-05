@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 22:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 23:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -259,17 +259,17 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[1+1과 무료배송만 입점하는 네이버 신규 쇼핑판 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56880</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56880</guid>
-            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022년에는 어떤 광고에 집중하실 예정이세요? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56900</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56900</guid>
             <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1+1과 무료배송만 입점하는 네이버 신규 쇼핑판 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56880</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56880</guid>
+            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56910</guid>
             <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[baljunso]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[1월 6일 마케팅 뉴스클리핑] 인터파크, 판매자 전용 데이터 툴 서비스 오픈 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7992</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7992</guid>
+            <pubDate>Thu, 06 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 인터파크, 판매자 전용 데이터 툴 서비스 오픈  인터파크는 판매 현황, 마케팅 효율, 고객 유입 흐름 등과 같이 판매와 관련된 다양한 데이터를 입점 판매자가 직접 분석할 수 있는 데이터 솔루션 `판매자 어드바이저` 서비스 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a2d6b5fef6d78ca5da39a5001132b3df_9538_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[명품 이커머스 머스트잇, 누적 거래액 1조원 돌파 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[12월 30일 마케팅 뉴스클리핑] 인스타그램, 내년 릴스 중심으로 영상 서비스 강화 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7962</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7962</guid>
-            <pubDate>Thu, 30 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 인스타그램, 내년 릴스 중심으로 영상 서비스 강화  인스타그램이 내년 자사 숏폼 콘텐츠 플랫폼 릴스를 토대로, 영상 기능에 힘을 준다. 인스타그램이 단순 사진 공유 플랫폼을 넘어, 릴스를 중심으로 모든 영상 서비스를 통 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_fbe3d6cfbb0060ade1f5d545dcce2f27_22845_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[1월 6일 마케팅 뉴스클리핑] 인터파크, 판매자 전용 데이터 툴 서비스 오픈 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7992</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7992</guid>
+            <pubDate>Wed, 05 Jan 2022 23:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[명품 이커머스 머스트잇, 누적 거래액 1조원 돌파 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[12월 30일 마케팅 뉴스클리핑] 인스타그램, 내년 릴스 중심으로 영상 서비스 강화 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7962</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7962</guid>
-            <pubDate>Thu, 30 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[다음 대화에서 설명하는 소비자를 일컫는 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Wed, 05 Jan 2022 23:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 대화에서 설명하는 소비자를 일컫는 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/129bf44facc78268c55cb0aa46ae9148_16412026795046.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1336_1" value="1" class="AB-radio" id="PQ_BD5826_1336_1_0"><label for="PQ_BD5826_1336_1_0" id="label_PQ_BD5826_1336_1_0">(A) 모디슈머</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1336_1" value="2" class="AB-radio" id="PQ_BD5826_1336_1_1"><label for="PQ_BD5826_1336_1_1" id="label_PQ_BD5826_1336_1_1">(B) 블루슈머</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1336_1" value="3" class="AB-radio" id="PQ_BD5826_1336_1_2"><label for="PQ_BD5826_1336_1_2" id="label_PQ_BD5826_1336_1_2">(C) 체크슈머</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1336_1" value="4" class="AB-radio" id="PQ_BD5826_1336_1_3"><label for="PQ_BD5826_1336_1_3" id="label_PQ_BD5826_1336_1_3">(D) 트라이슈머</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 달라지는 일자리 정책 핵심 8가지 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

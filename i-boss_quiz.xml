@@ -2,7 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-5826</id>
     <title>아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈</title>
-    <updated>2022-01-05T22:18:34.450Z</updated>
+    <updated>2022-01-05T23:18:27.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다음 대화에서 설명하는 소비자를 일컫는 용어는 무엇일까요?]]></title>
+        <id>https://www.i-boss.co.kr/ab-5826</id>
+        <link href="https://www.i-boss.co.kr/ab-5826"/>
+        <updated>2022-01-05T23:18:18.428Z</updated>
+        <content type="html"><![CDATA[<tbody><tr>
+				<td><!--1-->다음 대화에서 설명하는 소비자를 일컫는 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/129bf44facc78268c55cb0aa46ae9148_16412026795046.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1336_1" value="1" class="AB-radio" id="PQ_BD5826_1336_1_0"><label for="PQ_BD5826_1336_1_0" id="label_PQ_BD5826_1336_1_0">(A) 모디슈머</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1336_1" value="2" class="AB-radio" id="PQ_BD5826_1336_1_1"><label for="PQ_BD5826_1336_1_1" id="label_PQ_BD5826_1336_1_1">(B) 블루슈머</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1336_1" value="3" class="AB-radio" id="PQ_BD5826_1336_1_2"><label for="PQ_BD5826_1336_1_2" id="label_PQ_BD5826_1336_1_2">(C) 체크슈머</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1336_1" value="4" class="AB-radio" id="PQ_BD5826_1336_1_3"><label for="PQ_BD5826_1336_1_3" id="label_PQ_BD5826_1336_1_3">(D) 트라이슈머</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content>
+    </entry>
 </feed>
