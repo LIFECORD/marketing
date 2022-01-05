@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-05T05:18:33.550Z</updated>
+    <updated>2022-01-05T06:22:12.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -153,18 +153,18 @@
         <content type="html"><![CDATA[렐라뿅]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아마존, 쿠팡의 성공공식을 마케팅에 대입해보기]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56886</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56886"/>
-        <updated>2021-12-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[우뇌]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년 타임캡슐 📅]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38098</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38098"/>
         <updated>2022-01-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[유리나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아마존, 쿠팡의 성공공식을 마케팅에 대입해보기]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56886</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56886"/>
+        <updated>2021-12-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[우뇌]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리..]]></title>

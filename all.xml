@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 05:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 06:22:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,18 +287,18 @@
             <content:encoded><![CDATA[렐라뿅]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아마존, 쿠팡의 성공공식을 마케팅에 대입해보기 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56886</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56886</guid>
-            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[우뇌]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022년 타임캡슐 📅 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38098</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38098</guid>
             <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[유리나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아마존, 쿠팡의 성공공식을 마케팅에 대입해보기 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56886</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56886</guid>
+            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리.. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA['이것'은 책 <무조건 팔리는 카피 단어장>에서 제시한 키워드입니다. 성공을 거둔 카피 문구에 일정하게 숨어있다는 이 법칙의 이름은 무엇일까요?(hint: 마케터의 서재에서 슬쩍 키워드 꺼내보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 05 Jan 2022 05:18:24 GMT</pubDate>
+            <pubDate>Wed, 05 Jan 2022 06:22:02 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 책 &lt;무조건 팔리는 카피 단어장&gt;에서 제시한 키워드입니다. 성공을 거둔 카피 문구에 일정하게 숨어있다는 이 법칙의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-5637-28" target="_blank">마케터의 서재에서 슬쩍 키워드 꺼내보기!</a>)</span></td>
 			</tr>
