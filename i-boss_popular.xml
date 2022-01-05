@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-05T03:19:38.668Z</updated>
+    <updated>2022-01-05T04:23:49.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[해적보물선]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[네이버의 새로운 검색 '에어서치' 살펴보기]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56797</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56797"/>
-        <updated>2021-12-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[상세페이지 제작 접근 방식]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56806</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56806"/>
         <updated>2021-12-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[우뇌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버의 새로운 검색 '에어서치' 살펴보기]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56797</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56797"/>
+        <updated>2021-12-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페이스북 UTM은 제발 제발 제발 이렇게 박으세요. 부..]]></title>

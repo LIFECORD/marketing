@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 03:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 04:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -154,18 +154,18 @@
             <content:encoded><![CDATA[해적보물선]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버의 새로운 검색 '에어서치' 살펴보기 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56797</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56797</guid>
-            <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[상세페이지 제작 접근 방식 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56806</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56806</guid>
             <pubDate>Sun, 12 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네이버의 새로운 검색 '에어서치' 살펴보기 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56797</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56797</guid>
+            <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[페이스북 UTM은 제발 제발 제발 이렇게 박으세요. 부.. (아이보스 ─ 인기글)]]></title>
@@ -593,7 +593,7 @@
             <title><![CDATA[명품 이커머스 머스트잇, 누적 거래액 1조원 돌파 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7991</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7991</guid>
-            <pubDate>Wed, 05 Jan 2022 03:19:17 GMT</pubDate>
+            <pubDate>Wed, 05 Jan 2022 00:12:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA['이것'은 책 <무조건 팔리는 카피 단어장>에서 제시한 키워드입니다. 성공을 거둔 카피 문구에 일정하게 숨어있다는 이 법칙의 이름은 무엇일까요?(hint: 마케터의 서재에서 슬쩍 키워드 꺼내보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 05 Jan 2022 03:19:29 GMT</pubDate>
+            <pubDate>Wed, 05 Jan 2022 04:23:40 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 책 &lt;무조건 팔리는 카피 단어장&gt;에서 제시한 키워드입니다. 성공을 거둔 카피 문구에 일정하게 숨어있다는 이 법칙의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-5637-28" target="_blank">마케터의 서재에서 슬쩍 키워드 꺼내보기!</a>)</span></td>
 			</tr>
