@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 02:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 03:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,6 +196,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[알아두면 좋은 유용한 사이트 모음 NO.2 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56810</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56810</guid>
+            <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[외워두세요, 7년차 마자이너가 밝히는 상세페이지에 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56844</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56844</guid>
@@ -208,13 +215,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38017</guid>
             <pubDate>Thu, 23 Dec 2021 08:21:21 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[알아두면 좋은 유용한 사이트 모음 NO.2 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56810</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56810</guid>
-            <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56877</guid>
             <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[명품 이커머스 머스트잇, 누적 거래액 1조원 돌파 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7991</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7991</guid>
+            <pubDate>Wed, 05 Jan 2022 00:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 한 해 거래액 3500억원 달성   온라인 명품 커머스 머스트잇이 지난해 거래액 3500억원을 달성했다고 5일 밝혔다. 12월 31일 기준 누적 거래액은 1조원을 돌파했다고 밝혔다.   머스트잇은 이번 성과에 힘입어 물류 시스템을 고 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16413523357189.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인터파크, 판매자 전용 데이터 분석 툴 서비스 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,18 +590,17 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_fbe3d6cfbb0060ade1f5d545dcce2f27_22845_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2020년, 국내 방송통신 총 광고비는 14조 1,203억 원,전년 대비 2.1% 하락... 온라인 비중 50% 웃돌아 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7961</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7961</guid>
-            <pubDate>Wed, 29 Dec 2021 08:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 과기정통부)와 한국방송광고진흥공사(사장 이백만, 이하 코바코)는 2020년도 국내 방송통신광고 시장 현황과 2021~2022년 전망을 담은`2021 방송통신광고비 조사` 결과를 발표했다. 본 조사는  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[명품 이커머스 머스트잇, 누적 거래액 1조원 돌파 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7991</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7991</guid>
+            <pubDate>Wed, 05 Jan 2022 03:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인터파크, 판매자 전용 데이터 분석 툴 서비스 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7990</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7990</guid>
-            <pubDate>Wed, 05 Jan 2022 02:13:09 GMT</pubDate>
+            <pubDate>Wed, 05 Jan 2022 11:01:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2020년, 국내 방송통신 총 광고비는 14조 1,203억 원,전년 대비 2.1% 하락... 온라인 비중 50% 웃돌아 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7961</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7961</guid>
-            <pubDate>Wed, 29 Dec 2021 08:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['이것'은 책 <무조건 팔리는 카피 단어장>에서 제시한 키워드입니다. 성공을 거둔 카피 문구에 일정하게 숨어있다는 이 법칙의 이름은 무엇일까요?(hint: 마케터의 서재에서 슬쩍 키워드 꺼내보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 05 Jan 2022 02:13:22 GMT</pubDate>
+            <pubDate>Wed, 05 Jan 2022 03:19:29 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 책 &lt;무조건 팔리는 카피 단어장&gt;에서 제시한 키워드입니다. 성공을 거둔 카피 문구에 일정하게 숨어있다는 이 법칙의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-5637-28" target="_blank">마케터의 서재에서 슬쩍 키워드 꺼내보기!</a>)</span></td>
 			</tr>
