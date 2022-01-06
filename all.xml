@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 23:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 01:05:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밋밋한 상품의 상페 기획 때문에 고민이에요 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/824534-%EB%B0%8B%EB%B0%8B%ED%95%9C_%EC%83%81%ED%92%88%EC%9D%98_%EC%83%81%ED%8E%98_%EA%B8%B0%ED%9A%8D_%EB%95%8C%EB%AC%B8%EC%97%90_%EA%B3%A0%EB%AF%BC%EC%9D%B4%EC%97%90%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/824534-%EB%B0%8B%EB%B0%8B%ED%95%9C_%EC%83%81%ED%92%88%EC%9D%98_%EC%83%81%ED%8E%98_%EA%B8%B0%ED%9A%8D_%EB%95%8C%EB%AC%B8%EC%97%90_%EA%B3%A0%EB%AF%BC%EC%9D%B4%EC%97%90%EC%9A%94/</guid>
+            <pubDate>Thu, 06 Jan 2022 01:04:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/824534-밋밋한_상품의_상페_기획_때문에_고민이에요/">
+						<div class="thumb"><img src="/images/qletter_824534.png"></div>
+						<p><strong> 밋밋한 상품의 상페 기획 때문에 고민이에요</strong>2022.01.06</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_824534.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[내 마케팅 트렌드 점수는? (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/820728-%EB%82%B4_%EB%A7%88%EC%BC%80%ED%8C%85_%ED%8A%B8%EB%A0%8C%EB%93%9C_%EC%A0%90%EC%88%98%EB%8A%94/</link>
@@ -129,17 +140,6 @@
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_775975.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[샌드박스가 말하는 뉴미디어 트렌드 10가지 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/772693-%EC%83%8C%EB%93%9C%EB%B0%95%EC%8A%A4%EA%B0%80_%EB%A7%90%ED%95%98%EB%8A%94_%EB%89%B4%EB%AF%B8%EB%94%94%EC%96%B4_%ED%8A%B8%EB%A0%8C%EB%93%9C_10%EA%B0%80%EC%A7%80/</link>
-            <guid>https://qletter.i-boss.co.kr/view/772693-%EC%83%8C%EB%93%9C%EB%B0%95%EC%8A%A4%EA%B0%80_%EB%A7%90%ED%95%98%EB%8A%94_%EB%89%B4%EB%AF%B8%EB%94%94%EC%96%B4_%ED%8A%B8%EB%A0%8C%EB%93%9C_10%EA%B0%80%EC%A7%80/</guid>
-            <pubDate>Fri, 24 Dec 2021 06:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/772693-샌드박스가_말하는_뉴미디어_트렌드_10가지/">
-						<div class="thumb"><img src="/images/qletter_772693.png"></div>
-						<p><strong> 샌드박스가 말하는 뉴미디어 트렌드 10가지</strong>2021.11.25</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_772693.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 주목해야 할 트렌드 총정리 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56862</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56862</guid>
@@ -252,17 +252,17 @@
             <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56816</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56816</guid>
-            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022년에는 어떤 광고에 집중하실 예정이세요? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56900</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56900</guid>
             <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56816</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56816</guid>
+            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
@@ -348,6 +348,30 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56910</guid>
             <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[baljunso]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[트렌드모니터] 현재의 만족만을 위해 소비하는 욜로 대신 진정한 취미활동에 대한 욕구가 커져 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7995</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7995</guid>
+            <pubDate>Thu, 06 Jan 2022 08:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[기본적으로 현재의 삶과 나를 중요하게 생각해, 전체 74.4% 현재 하고 싶은 것을 하면서 살아야 후회가 없다  2명 중 1명 먼 미래의 일보다는 현재 삶의 만족이 더 중요, 전체 73.7% 무엇보다도 내 행복을 우선시하려고 한다  먼저 기 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[대한민국광고대상 수상자 인터뷰] 삼성전자 비스포크 JOIN THE BESPOKE / COME BESPOKE HOME (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7994</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7994</guid>
+            <pubDate>Thu, 06 Jan 2022 08:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[소개 부탁드립니다. 안녕하세요.  제일기획의 카피라이터 서가영입니다. 이슬기CD님, 조석현 아트, 정재윤 아트, 박하빈 카피와 함께 이번 비스포크 통합 캠페인의 제작팀으로 참여했습니다. 수상작에 대해 간략한 소개 부탁드 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[대한민국광고대상 수상자 인터뷰] 환아의 치료를 돕는 특별한 프로젝트 현대자동차그룹 Little Big e-Motion (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7993</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7993</guid>
+            <pubDate>Thu, 06 Jan 2022 08:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[소개 부탁드립니다.  안녕하세요. 이노션입니다. 프로젝트의기획 단계부터 캠페인 온에어까지 함께하며 리틀빅 이모션의 활약을 기쁜 마음으로 지켜보고 있습니다. 수상작에 대해 간략한 소개 부탁드립니다.  리틀빅 이모션은 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[1월 6일 마케팅 뉴스클리핑] 인터파크, 판매자 전용 데이터 툴 서비스 오픈 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -566,34 +590,31 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[12월 31일 마케팅 뉴스클리핑] 쿠팡 와우 멤버십 가격 조정... 유료 멤버십 판도 변화 촉각 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7965</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7965</guid>
-            <pubDate>Fri, 31 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 쿠팡 `와우 멤버십` 가격 조정... 유료 멤버십 판도 변화 촉각  쿠팡이 유료 멤버십 서비스인 `와우 멤버십`의 요금을 월 4990원으로 조정하면서 이커머스 업계가 향후 파장을 주시하고 있다. 특히 내년에는 신세계 쓱닷컴의 유 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0518c3d6b965984f40e879973b7e457e_30350_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[트렌드모니터] 현재의 만족만을 위해 소비하는 ‘욜로’ 대신 진정한 ‘취미활동’에 대한 욕구가 커져 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7995</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7995</guid>
+            <pubDate>Thu, 06 Jan 2022 01:05:20 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[벅스, 팬덤 특화 서비스 강화한다... 스밍 인증  위젯 커스텀 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7964</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7964</guid>
-            <pubDate>Thu, 30 Dec 2021 05:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[NHN벅스가 팬들의 팬심을 표현할 수 있는 스밍 인증 및 위젯 커스텀 기능을 선보였다. 향후 차별화된 팬덤 특화 서비스를 추가로 선보일 계획이다.  스밍 인증은 스트리밍 인증의 줄임말로, 내가 들은 음악을 이미지로 저장해 SNS ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2deab34a0206b47b1660c89872cf8a8d_62432_1.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[[대한민국광고대상 수상자 인터뷰] 삼성전자 비스포크 ‘JOIN THE BESPOKE / COME BESPOKE HOME’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7994</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7994</guid>
+            <pubDate>Thu, 06 Jan 2022 01:05:20 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[트렌드 모니터] 타인의 강요보다 개인의 선택에 의해 취향 것 술 마시는 시대... 단 사회생활 위해 술을 마실 줄 알아야 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7963</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7963</guid>
-            <pubDate>Thu, 30 Dec 2021 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[사람들이 술을 마시는 가장 큰 이유는 술자리의 분위기와 그곳에서 만들어지는 관계 때문인 것으로 보여져  사람들이 술을 마시는 가장 큰 이유는 술자리의 분위기와 그 속에서 이뤄지는 관계 때문이라는 사실을 확인해 볼 수  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[대한민국광고대상 수상자 인터뷰] 환아의 치료를 돕는 특별한 프로젝트 현대자동차그룹 ‘Little Big e-Motion’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7993</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7993</guid>
+            <pubDate>Thu, 06 Jan 2022 01:05:20 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[1월 6일 마케팅 뉴스클리핑] 인터파크, 판매자 전용 데이터 툴 서비스 오픈 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7992</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7992</guid>
-            <pubDate>Wed, 05 Jan 2022 23:18:06 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -779,31 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[12월 31일 마케팅 뉴스클리핑] 쿠팡 '와우 멤버십' 가격 조정... 유료 멤버십 판도 변화 촉각 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7965</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7965</guid>
-            <pubDate>Fri, 31 Dec 2021 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[벅스, 팬덤 특화 서비스 강화한다... '스밍 인증' · '위젯 커스텀' 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7964</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7964</guid>
-            <pubDate>Thu, 30 Dec 2021 05:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[트렌드 모니터] 타인의 강요보다 개인의 선택에 의해 ‘취향’ 것 술 마시는 시대... 단 사회생활 위해 술을 마실 줄 알아야 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7963</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7963</guid>
-            <pubDate>Thu, 30 Dec 2021 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 대화에서 설명하는 소비자를 일컫는 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 05 Jan 2022 23:18:18 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 01:05:31 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 대화에서 설명하는 소비자를 일컫는 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/129bf44facc78268c55cb0aa46ae9148_16412026795046.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

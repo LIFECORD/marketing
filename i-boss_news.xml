@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-01-05T23:18:27.978Z</updated>
+    <updated>2022-01-06T01:05:40.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[트렌드모니터] 현재의 만족만을 위해 소비하는 ‘욜로’ 대신 진정한 ‘취미활동’에 대한 욕구가 커져]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7995</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7995"/>
+        <updated>2022-01-06T01:05:20.654Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대한민국광고대상 수상자 인터뷰] 삼성전자 비스포크 ‘JOIN THE BESPOKE / COME BESPOKE HOME’]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7994</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7994"/>
+        <updated>2022-01-06T01:05:20.660Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대한민국광고대상 수상자 인터뷰] 환아의 치료를 돕는 특별한 프로젝트 현대자동차그룹 ‘Little Big e-Motion’]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-7993</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-7993"/>
+        <updated>2022-01-06T01:05:20.660Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[1월 6일 마케팅 뉴스클리핑] 인터파크, 판매자 전용 데이터 툴 서비스 오픈 외]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-7992</id>
@@ -192,27 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-7966</id>
         <link href="https://www.i-boss.co.kr/ab-2877-7966"/>
         <updated>2021-12-31T00:59:00.197Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[12월 31일 마케팅 뉴스클리핑] 쿠팡 '와우 멤버십' 가격 조정... 유료 멤버십 판도 변화 촉각 외]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7965</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7965"/>
-        <updated>2021-12-30T23:19:28.629Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벅스, 팬덤 특화 서비스 강화한다... '스밍 인증' · '위젯 커스텀' 출시]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7964</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7964"/>
-        <updated>2021-12-30T05:17:32.824Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[트렌드 모니터] 타인의 강요보다 개인의 선택에 의해 ‘취향’ 것 술 마시는 시대... 단 사회생활 위해 술을 마실 줄 알아야]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7963</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7963"/>
-        <updated>2021-12-30T00:57:12.728Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
