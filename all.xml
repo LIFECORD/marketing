@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 22:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 23:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[1월 7일 마케팅 뉴스클리핑] 하나로 다 되는 슈퍼앱 뜬다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7999</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7999</guid>
+            <pubDate>Fri, 07 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 하나로 다 되는 `슈퍼앱` 뜬다  아이디 하나로 검색과 쇼핑, 송금, 결제까지 다 되는 슈퍼앱이 내년에도 주목받을 예정이다. 이미 슈퍼앱으로 평가받고 있는 네이버와 카카오톡은 서비스를 고도화할 예정이고, 야놀자와 여기 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_ec1d82e16071d81779a86e02fc3a8922_72859_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[G마켓  옥션이 꼽은 올해 쇼핑 키워드 팸잼 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7998</link>
             <guid>https://www.i-boss.co.kr/ab-2877-7998</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[소비자 가장 많이 기만한 홈쇼핑 어디? (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7969</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7969</guid>
-            <pubDate>Fri, 31 Dec 2021 00:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[제5기 방송통신심의위원회가 출범한 이후상품판매방송사(홈쇼핑)들은 총 56건의 제재를 받았다. 여기에는 법정제재 20건과 행정지도 36건이 포함돼 있다. 방심위는 방송프로그램의 법 위반 정도가 중하다고 판단될 때 법정제재 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[1월 7일 마케팅 뉴스클리핑] 하나로 다 되는 '슈퍼앱' 뜬다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7999</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7999</guid>
+            <pubDate>Thu, 06 Jan 2022 23:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[G마켓 · 옥션이 꼽은 올해 쇼핑 키워드 '팸잼' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[소비자 가장 많이 기만한 홈쇼핑 어디? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7969</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7969</guid>
-            <pubDate>Fri, 31 Dec 2021 00:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[놀토]]></content:encoded>
+            <title><![CDATA[다음 중 카카오 디스플레이 광고에 대한 설명으로 옳지 않은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Thu, 06 Jan 2022 23:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 중 카카오 디스플레이 광고에 대한 설명으로 옳지 않은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1337_1" value="1" class="AB-radio" id="PQ_BD5826_1337_1_0"><label for="PQ_BD5826_1337_1_0" id="label_PQ_BD5826_1337_1_0">(A) 노출 유형으로 네이티브형과 카탈로그형이 있다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1337_1" value="2" class="AB-radio" id="PQ_BD5826_1337_1_1"><label for="PQ_BD5826_1337_1_1" id="label_PQ_BD5826_1337_1_1">(B) 제공되는 입찰 방식은 CPC와 CPM이 있다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1337_1" value="3" class="AB-radio" id="PQ_BD5826_1337_1_2"><label for="PQ_BD5826_1337_1_2" id="label_PQ_BD5826_1337_1_2">(C) 모바일 디바이스에서만 광고가 노출된다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1337_1" value="4" class="AB-radio" id="PQ_BD5826_1337_1_3"><label for="PQ_BD5826_1337_1_3" id="label_PQ_BD5826_1337_1_3">(D) 설정이 가능한 광고 목표는 전환, 방문 2가지다</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 달라지는 일자리 정책 핵심 8가지 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

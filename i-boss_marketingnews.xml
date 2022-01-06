@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 22:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 23:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1월 7일 마케팅 뉴스클리핑] 하나로 다 되는 슈퍼앱 뜬다 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7999</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7999</guid>
+            <pubDate>Fri, 07 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 하나로 다 되는 `슈퍼앱` 뜬다  아이디 하나로 검색과 쇼핑, 송금, 결제까지 다 되는 슈퍼앱이 내년에도 주목받을 예정이다. 이미 슈퍼앱으로 평가받고 있는 네이버와 카카오톡은 서비스를 고도화할 예정이고, 야놀자와 여기 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_ec1d82e16071d81779a86e02fc3a8922_72859_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[G마켓  옥션이 꼽은 올해 쇼핑 키워드 팸잼]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7998</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7970</guid>
             <pubDate>Sat, 01 Jan 2022 10:41:00 GMT</pubDate>
             <content:encoded><![CDATA[전 세계에서 가장 유명한 새해를 맞는 장소는 뉴욕 타임스퀘어라고 해도 과언이 아니다. 많은 사람들이 모여서 카운트다운을 하며 새해를 맞는다. 그러나 코로나19로 인해 타임스퀘어에서 많은 사람들이 모여 새해를 축하할 수  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[소비자 가장 많이 기만한 홈쇼핑 어디?]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7969</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7969</guid>
-            <pubDate>Fri, 31 Dec 2021 00:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[제5기 방송통신심의위원회가 출범한 이후상품판매방송사(홈쇼핑)들은 총 56건의 제재를 받았다. 여기에는 법정제재 20건과 행정지도 36건이 포함돼 있다. 방심위는 방송프로그램의 법 위반 정도가 중하다고 판단될 때 법정제재 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
