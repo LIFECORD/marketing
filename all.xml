@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 04:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 05:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,18 +147,18 @@
             <content:encoded><![CDATA[김매니저]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버 공식 NEW 알고리즘, 발칵 뒤집힙니다(Feat. 스마.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56894</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56894</guid>
-            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[해적보물선]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[페이스북 UTM은 제발 제발 제발 이렇게 박으세요. 부.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56908</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56908</guid>
             <pubDate>Tue, 28 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네이버 공식 NEW 알고리즘, 발칵 뒤집힙니다(Feat. 스마.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56894</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56894</guid>
+            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[해적보물선]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버의 새로운 검색 '에어서치' 살펴보기 (아이보스 ─ 인기글)]]></title>
@@ -245,18 +245,18 @@
             <content:encoded><![CDATA[언카피]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[7일만에 매출을 두 배로 늘릴 수 있는 두가지 비법 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56861</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56861</guid>
-            <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022년에는 어떤 광고에 집중하실 예정이세요? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56900</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56900</guid>
             <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7일만에 매출을 두 배로 늘릴 수 있는 두가지 비법 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56861</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56861</guid>
+            <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌 (아이보스 ─ 인기글)]]></title>
@@ -294,6 +294,13 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[50가지 리스트로 정리해본 온라인 마케팅 순서도 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56910</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56910</guid>
+            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[baljunso]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37996</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37996</guid>
@@ -320,13 +327,6 @@
             <guid>https://www.i-boss.co.kr/ab-2973-431</guid>
             <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[50가지 리스트로 정리해본 온라인 마케팅 순서도 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56910</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56910</guid>
-            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[baljunso]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인은 앞으로 경험 마케팅의 시대를 맞이한다. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 대화에서 설명하는 소비자를 일컫는 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 06 Jan 2022 04:24:02 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 05:19:16 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 대화에서 설명하는 소비자를 일컫는 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/129bf44facc78268c55cb0aa46ae9148_16412026795046.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
