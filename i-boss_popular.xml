@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-06T01:05:40.221Z</updated>
+    <updated>2022-01-06T02:41:51.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[해적보물선]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[페이스북 UTM은 제발 제발 제발 이렇게 박으세요. 부..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56908</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56908"/>
+        <updated>2021-12-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[우뇌]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[상세페이지 제작 접근 방식]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56806</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56806"/>
@@ -32,13 +39,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-56797"/>
         <updated>2021-12-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페이스북 UTM은 제발 제발 제발 이렇게 박으세요. 부..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56908</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56908"/>
-        <updated>2021-12-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[우뇌]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마감되었습니다] 오늘 하루 만 (12월 31일) 무료로 1인..]]></title>
@@ -153,6 +153,13 @@
         <content type="html"><![CDATA[유리나]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[매출 2배 올린 대표이미지 노하우]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56896</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56896"/>
+        <updated>2022-12-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[둥근마을]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리..]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-37996</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-37996"/>
@@ -165,13 +172,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-56886"/>
         <updated>2021-12-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[우뇌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매출 2배 올린 대표이미지 노하우]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56896</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56896"/>
-        <updated>2022-12-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[둥근마을]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마감되쓔] 선착순 10명에게 1209 리터 보내드립니다]]></title>
@@ -195,6 +195,13 @@
         <content type="html"><![CDATA[yoorok]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[50가지 리스트로 정리해본 온라인 마케팅 순서도]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56910</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56910"/>
+        <updated>2022-12-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[baljunso]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[수익폭발 최신 해외 인터넷 마케팅 트렌드는 번들]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38000</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38000"/>
@@ -207,12 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-6141-56877"/>
         <updated>2022-12-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[햅삐햅삐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50가지 리스트로 정리해본 온라인 마케팅 순서도]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56910</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56910"/>
-        <updated>2022-12-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[baljunso]]></content>
     </entry>
 </feed>

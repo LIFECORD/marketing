@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 01:05:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 02:41:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일하는 방식 바꿨더니롯데ON의 실험 통했다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7997</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7997</guid>
+            <pubDate>Thu, 06 Jan 2022 10:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[롯데쇼핑의 큰 고민 중 하나는 이커머스다. 오프라인에서는 여전히 존재감을 드러내고 있지만 유독 온라인에서는 큰 힘을 쓰지 못하고 있다. 이제 유통업계에서 온라인 경쟁력을 갖추지 못하면 낙오할 수밖에 없다. 롯데가 지 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[동대문 도매업자 80%가 쓰는 신상마켓K패션 들고 일본 진출]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-7996</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-7996</guid>
+            <pubDate>Thu, 06 Jan 2022 10:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[동대문 도매업자 80%가 쓰는 도소매 거래 플랫폼 신상마켓을 운영하는 딜리셔스가 540억원의 시리즈C 투자를 유치했다. 이에 올해 일본을 시작으로 글로벌 시장에 신상마켓을 선보일 계획이다.5일 오전 딜리셔스는 서울 중구에  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[트렌드모니터] 현재의 만족만을 위해 소비하는 욜로 대신 진정한 취미활동에 대한 욕구가 커져]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-7995</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7968</guid>
             <pubDate>Fri, 31 Dec 2021 00:25:00 GMT</pubDate>
             <content:encoded><![CDATA[대부업자가 저축은행온라인투자연계금융업(온투업) 등으로 영업을 전환하는 사례 등이 잇따르며 대부업 이용자 수 감소 추세가 이어지고 있다. 대부업 평균 대출 금리는 15%대까지 떨어졌다. 31일 금융감독원이 발표한 `2021년 상 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외광고특선] 누구나 하나쯤은 가지고 있는 마음의 병. Nobody is Normal]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7967</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7967</guid>
-            <pubDate>Fri, 31 Dec 2021 09:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[살다보면 육체를 다치는 것은 매우 흔한 일이다. 종이에 베여 피를 흘리는 것, 넘어져서 멍이드는 일, 몸을 과하게 움직여서 생긴 근육통 등... 정신 또한 마찬가지이다. 극심한 피해를 입은 경우가 드물 뿐이지. 그래서 이런 말 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 난 말이여, 세상에 없던 대출 비교 플랫폼을 만들 껴 세상에 없던 대출비교 플랫폼, 핀다 팀]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7966</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7966</guid>
-            <pubDate>Fri, 31 Dec 2021 09:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[핀다에 대한 소개 부탁드립니다.  핀다 핀다는 49개 금융사를 한 번에 조회하고 비교할 수 있는 대출 중개 서비스 플랫폼으로 대출 중개뿐만아니라 대출 관련 서비스를 제공하고 있는 종합 대출 관리 서비스입니다. 현재 누적 다 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
