@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 06:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 07:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -259,6 +259,13 @@
             <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2022년 타임캡슐 📅 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38098</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38098</guid>
+            <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유리나]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[1+1과 무료배송만 입점하는 네이버 신규 쇼핑판 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56880</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56880</guid>
@@ -271,13 +278,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56816</guid>
             <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 타임캡슐 📅 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38098</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38098</guid>
-            <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[매출 2배 올린 대표이미지 노하우 (아이보스 ─ 인기글)]]></title>
@@ -294,18 +294,18 @@
             <content:encoded><![CDATA[렐라뿅]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[50가지 리스트로 정리해본 온라인 마케팅 순서도 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56910</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56910</guid>
-            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[baljunso]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[흥하는 인스타그램의 비밀 9가지 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56954</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56954</guid>
             <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김매니저]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[50가지 리스트로 정리해본 온라인 마케팅 순서도 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56910</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56910</guid>
+            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[baljunso]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리.. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 카카오 디스플레이 광고에 대한 설명으로 옳지 않은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 07 Jan 2022 06:22:04 GMT</pubDate>
+            <pubDate>Fri, 07 Jan 2022 07:17:29 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 카카오 디스플레이 광고에 대한 설명으로 옳지 않은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
