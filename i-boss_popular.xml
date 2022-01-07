@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-07T14:19:58.343Z</updated>
+    <updated>2022-01-07T15:19:24.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -195,18 +195,18 @@
         <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[마감되쓔] 선착순 10명에게 1209 리터 보내드립니다]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-37934</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-37934"/>
-        <updated>2021-12-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[놀토]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[무신사로 살펴본 브랜드 마케팅 캠페인의 핵심요소 5..]]></title>
         <id>https://www.i-boss.co.kr/ab-74668-2503</id>
         <link href="https://www.i-boss.co.kr/ab-74668-2503"/>
         <updated>2022-12-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[김이서]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마감되쓔] 선착순 10명에게 1209 리터 보내드립니다]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-37934</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-37934"/>
+        <updated>2021-12-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[놀토]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[수익폭발 최신 해외 인터넷 마케팅 트렌드는 번들]]></title>
