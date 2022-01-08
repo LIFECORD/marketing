@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 23:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 00:59:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전문가들이 보는 2022년 전망]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8007</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8007</guid>
+            <pubDate>Sat, 08 Jan 2022 09:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[사람들은 누구나 미래에 대해 궁금해한다. 그래서 새해가 되면 토정비결을 보고, 매해 전문가들이 트렌드를 예측하고 있다. 이러한 예측들을 돌이켜 보면, 다양한 수준의 성공과 실패를 보고 있다. 예측이 맞지 않는다고 해서  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[트렌드모니터] 가족의 의미가 중요해진 코로나 시대, 친구같은 부모가 대세]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8006</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8006</guid>
+            <pubDate>Sat, 08 Jan 2022 09:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[시장조사전문기업 엠브레인 트렌드모니터가 전국 만 13세~59세 남녀 1,000명을 대상으로 가족의 의미 및 세대 간 인식 차이 관련 설문조사를 실시한 결과, 일상이 불안한 코로나 시대를 맞아 가족의 의미가 더욱 소중하게 느껴지 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[트위터, 비디오 트윗 기능 테스트]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8004</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7977</guid>
             <pubDate>Mon, 03 Jan 2022 11:48:00 GMT</pubDate>
             <content:encoded><![CDATA[네이버의 스타트업 액셀러레이터 D2스타트업팩토리(D2SF)가 투자한 스타트업 11팀이 이달 5일(현지시간) 미국 라스베이거스에서 열리는 국제전자제품박람회(CES) 2022에 참가한다. 11팀은 비욘드허니컴, 이모코그, 리콘랩스, 누비랩, ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[11번가 빠른정산, 집화완료 다음날 정산급 지급]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7976</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7976</guid>
-            <pubDate>Mon, 03 Jan 2022 10:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[11번가가 11번가 빠른정산 서비스를 택배사 집화완료 기준 다음 영업일(+1일) 100% 정산으로 변경한다고 3일 밝혔다.  판매자가 11번가 주문 상품을 주문 당일 혹은 다음날 바로 택배사에 전달하면(집하완료) 하루 뒤 정산금액 100%를 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[대한민국광고대상 수상자 인터뷰] 귀여운 물범아 미안해 MZ세대 취향저격 SK하이닉스 ESG 캠페인]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7975</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7975</guid>
-            <pubDate>Mon, 03 Jan 2022 08:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[소개 부탁드립니다. 안녕하세요.  저는 이노션 비즈니스 4본부3팀 이제원입니다. 이번 SK하이닉스 ESG 캠페인에서 캠페인 기획업무를 담당했습니다. 클라이언트와 커뮤니케이션을 바탕으로 캠페인 전반에 대한 구조를 만들고, 제 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
