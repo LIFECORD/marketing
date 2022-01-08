@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 22:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 23:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,11 +343,11 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오뷰 수익도 장난 아니네요~ (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38058</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38058</guid>
-            <pubDate>Wed, 28 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[좌이리]]></content:encoded>
+            <title><![CDATA[쇼핑몰 4가지 상황별 GFA통한 매출 N% 상승 전략 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56940</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56940</guid>
+            <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[근육돌이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[전문가들이 보는 2022년 전망 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -798,6 +798,19 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7977</guid>
             <pubDate>Mon, 03 Jan 2022 11:48:00 GMT</pubDate>
             <content:encoded><![CDATA[놀토]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[다음 중 카카오 디스플레이 광고에 대한 설명으로 옳지 않은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Sat, 08 Jan 2022 23:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 중 카카오 디스플레이 광고에 대한 설명으로 옳지 않은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1337_1" value="1" class="AB-radio" id="PQ_BD5826_1337_1_0"><label for="PQ_BD5826_1337_1_0" id="label_PQ_BD5826_1337_1_0">(A) 노출 유형으로 네이티브형과 카탈로그형이 있다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1337_1" value="2" class="AB-radio" id="PQ_BD5826_1337_1_1"><label for="PQ_BD5826_1337_1_1" id="label_PQ_BD5826_1337_1_1">(B) 제공되는 입찰 방식은 CPC와 CPM이 있다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1337_1" value="3" class="AB-radio" id="PQ_BD5826_1337_1_2"><label for="PQ_BD5826_1337_1_2" id="label_PQ_BD5826_1337_1_2">(C) 모바일 디바이스에서만 광고가 노출된다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1337_1" value="4" class="AB-radio" id="PQ_BD5826_1337_1_3"><label for="PQ_BD5826_1337_1_3" id="label_PQ_BD5826_1337_1_3">(D) 설정이 가능한 광고 목표는 전환, 방문 2가지다</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 달라지는 일자리 정책 핵심 8가지 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
