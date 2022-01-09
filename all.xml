@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 01:02:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 02:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,18 +294,18 @@
             <content:encoded><![CDATA[baljunso]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37996</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37996</guid>
-            <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[놀토]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[아마존, 쿠팡의 성공공식을 마케팅에 대입해보기 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56886</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56886</guid>
             <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37996</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37996</guid>
+            <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[무신사로 살펴본 브랜드 마케팅 캠페인의 핵심요소 5.. (아이보스 ─ 인기글)]]></title>
@@ -593,21 +593,21 @@
             <title><![CDATA[2022년 광고업계 발전을 이끄는 소비자 중심의 트렌드 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8010</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8010</guid>
-            <pubDate>Sun, 09 Jan 2022 01:01:43 GMT</pubDate>
+            <pubDate>Sun, 09 Jan 2022 09:19:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[액센츄어, 소셜 커머스는 전자상거래보다 3배 빠르게 성장할 것 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8009</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8009</guid>
-            <pubDate>Sun, 09 Jan 2022 01:01:43 GMT</pubDate>
+            <pubDate>Sun, 09 Jan 2022 09:16:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 미디어 최대 이슈, "통합 미디어 계획/구매, 측정" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8008</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8008</guid>
-            <pubDate>Sun, 09 Jan 2022 01:01:43 GMT</pubDate>
+            <pubDate>Sun, 09 Jan 2022 09:16:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 카카오 디스플레이 광고에 대한 설명으로 옳지 않은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 09 Jan 2022 01:01:56 GMT</pubDate>
+            <pubDate>Sun, 09 Jan 2022 02:15:18 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 카카오 디스플레이 광고에 대한 설명으로 옳지 않은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

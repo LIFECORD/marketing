@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-09T01:02:04.697Z</updated>
+    <updated>2022-01-09T02:15:27.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -160,18 +160,18 @@
         <content type="html"><![CDATA[baljunso]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리..]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-37996</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-37996"/>
-        <updated>2021-12-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[놀토]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아마존, 쿠팡의 성공공식을 마케팅에 대입해보기]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56886</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56886"/>
         <updated>2021-12-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[우뇌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리..]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-37996</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-37996"/>
+        <updated>2021-12-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[놀토]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[무신사로 살펴본 브랜드 마케팅 캠페인의 핵심요소 5..]]></title>
