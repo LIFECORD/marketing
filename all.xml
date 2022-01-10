@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 00:57:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 02:10:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3년 만에 또 내린다! 💳 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/827878-3%EB%85%84_%EB%A7%8C%EC%97%90_%EB%98%90_%EB%82%B4%EB%A6%B0%EB%8B%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/827878-3%EB%85%84_%EB%A7%8C%EC%97%90_%EB%98%90_%EB%82%B4%EB%A6%B0%EB%8B%A4/</guid>
+            <pubDate>Mon, 10 Jan 2022 02:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/827878-3년_만에_또_내린다/">
+						<div class="thumb"><img src="/images/qletter_827878.png"></div>
+						<p><strong>3년 만에 또 내린다! 💳</strong>2022.01.10</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_827878.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[밋밋한 상품의 상페 기획 때문에 고민이에요 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/824534-%EB%B0%8B%EB%B0%8B%ED%95%9C_%EC%83%81%ED%92%88%EC%9D%98_%EC%83%81%ED%8E%98_%EA%B8%B0%ED%9A%8D_%EB%95%8C%EB%AC%B8%EC%97%90_%EA%B3%A0%EB%AF%BC%EC%9D%B4%EC%97%90%EC%9A%94/</link>
@@ -127,17 +138,6 @@
 						<p><strong>브랜드를 만드는 것이 어려워요 😢</strong>2021.12.02</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_782627.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[온라인 명품 플랫폼, 왜 뜨는데? 👜 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/775975-%EC%98%A8%EB%9D%BC%EC%9D%B8_%EB%AA%85%ED%92%88_%ED%94%8C%EB%9E%AB%ED%8F%BC_%EC%99%9C_%EB%9C%A8%EB%8A%94%EB%8D%B0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/775975-%EC%98%A8%EB%9D%BC%EC%9D%B8_%EB%AA%85%ED%92%88_%ED%94%8C%EB%9E%AB%ED%8F%BC_%EC%99%9C_%EB%9C%A8%EB%8A%94%EB%8D%B0/</guid>
-            <pubDate>Fri, 24 Dec 2021 06:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/775975-온라인_명품_플랫폼_왜_뜨는데/">
-						<div class="thumb"><img src="/images/qletter_775975.png"></div>
-						<p><strong> 온라인 명품 플랫폼, 왜 뜨는데? 👜</strong>2021.11.29</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_775975.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[페이스북 UTM은 제발 제발 제발 이렇게 박으세요. 부.. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56940</guid>
             <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[11번가, 고객이 직접 쇼핑 콘텐츠 만든다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8013</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8013</guid>
+            <pubDate>Mon, 10 Jan 2022 10:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[이용자 쇼핑 콘텐츠 제작공유 서비스 팁콕 오픈  11번가(대표 이상호)가 고객이 직접 쇼핑 콘텐츠를 제작해 등록하는 `팁콕` 서비스를 10일 정식 오픈했다.  쇼핑에 필요한 `팁`을 `콕` 짚어 알려준다는 뜻으로, SNS에 글을 올리듯  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[케이스 스터디] 최적화된 고객 경험을 제공하는  기아자동차 VR 드라이빙 센터 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,25 +590,24 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0322465dd9ffe8bf6790927800bc3444_39911_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대한민국광고대상 수상자 인터뷰] 안심하고 쇼핑할 수 있는 살균 카트 이마트 LIGHT SAVER (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7983</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7983</guid>
-            <pubDate>Tue, 04 Jan 2022 08:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[소개 부탁드립니다.  제일기획 제작 2본부 카피라이터 오창규입니다. 프로젝트 멤버들이 제각각 특별한 역할을 담당해서 업무를 했다기보다는 아이디어 개발에서 실행까지, 소소한 것 하나까지다 같이 머리와 손을 맞대고 진행 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[11번가, 고객이 직접 쇼핑 콘텐츠 만든다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8013</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8013</guid>
+            <pubDate>Mon, 10 Jan 2022 02:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[케이스 스터디] 최적화된 고객 경험을 제공하는 " 기아자동차 VR 드라이빙 센터" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8012</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8012</guid>
-            <pubDate>Mon, 10 Jan 2022 00:57:35 GMT</pubDate>
+            <pubDate>Mon, 10 Jan 2022 08:54:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 2022년 디지털 마케팅 트렌드 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8011</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8011</guid>
-            <pubDate>Mon, 10 Jan 2022 00:57:35 GMT</pubDate>
+            <pubDate>Mon, 10 Jan 2022 08:54:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[대한민국광고대상 수상자 인터뷰] 안심하고 쇼핑할 수 있는 살균 카트 이마트 ‘LIGHT SAVER’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7983</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7983</guid>
-            <pubDate>Tue, 04 Jan 2022 08:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 보기 중 괄호 안에 들어가기에 알맞은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 10 Jan 2022 00:57:46 GMT</pubDate>
+            <pubDate>Mon, 10 Jan 2022 02:10:44 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 보기 중 괄호 안에 들어가기에 알맞은 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/436c6457aa661bfd3dc582dfe6e11718_16414701452974.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

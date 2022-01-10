@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 00:57:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 02:10:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[11번가, 고객이 직접 쇼핑 콘텐츠 만든다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8013</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8013</guid>
+            <pubDate>Mon, 10 Jan 2022 10:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[이용자 쇼핑 콘텐츠 제작공유 서비스 팁콕 오픈  11번가(대표 이상호)가 고객이 직접 쇼핑 콘텐츠를 제작해 등록하는 `팁콕` 서비스를 10일 정식 오픈했다.  쇼핑에 필요한 `팁`을 `콕` 짚어 알려준다는 뜻으로, SNS에 글을 올리듯  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[케이스 스터디] 최적화된 고객 경험을 제공하는  기아자동차 VR 드라이빙 센터]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8012</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 04 Jan 2022 11:49:00 GMT</pubDate>
             <content:encoded><![CDATA[트위터가 자회사 모바일 광고 플랫폼 모펍(MoPub)을 모바일 게임마케팅 소프트웨어 공급 업체 앱러빈(AppLovin)에 매각했다.  2010년 설립된 모펍은 실시간 광고 입찰 시스템을 운영한다. 모펍 네트워크 중재, 입찰, 마켓플레이스 기 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0322465dd9ffe8bf6790927800bc3444_39911_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대한민국광고대상 수상자 인터뷰] 안심하고 쇼핑할 수 있는 살균 카트 이마트 LIGHT SAVER]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7983</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7983</guid>
-            <pubDate>Tue, 04 Jan 2022 08:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[소개 부탁드립니다.  제일기획 제작 2본부 카피라이터 오창규입니다. 프로젝트 멤버들이 제각각 특별한 역할을 담당해서 업무를 했다기보다는 아이디어 개발에서 실행까지, 소소한 것 하나까지다 같이 머리와 손을 맞대고 진행 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
