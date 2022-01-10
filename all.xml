@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 08:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 09:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,18 +182,18 @@
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인스타그램 2022 트렌드 리포트 한글 번역본입니다^^ (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56829</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56829</guid>
-            <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[루비빙]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[알아두면 좋은 유용한 사이트 모음 NO.2 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56810</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56810</guid>
             <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인스타그램 2022 트렌드 리포트 한글 번역본입니다^^ (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56829</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56829</guid>
+            <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[루비빙]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[외워두세요, 7년차 마자이너가 밝히는 상세페이지에 .. (아이보스 ─ 인기글)]]></title>
@@ -203,18 +203,18 @@
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마케팅밈] 거절하게 만드는 마케터 유형 5가지 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38017</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38017</guid>
-            <pubDate>Thu, 23 Dec 2021 08:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022년에는 어떤 광고에 집중하실 예정이세요? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56900</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56900</guid>
             <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[마케팅밈] 거절하게 만드는 마케터 유형 5가지 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38017</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38017</guid>
+            <pubDate>Thu, 23 Dec 2021 08:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 보기 중 괄호 안에 들어가기에 알맞은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 10 Jan 2022 08:23:09 GMT</pubDate>
+            <pubDate>Mon, 10 Jan 2022 09:19:00 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 보기 중 괄호 안에 들어가기에 알맞은 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/436c6457aa661bfd3dc582dfe6e11718_16414701452974.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
