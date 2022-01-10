@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 23:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 00:57:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[케이스 스터디] 최적화된 고객 경험을 제공하는  기아자동차 VR 드라이빙 센터]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8012</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8012</guid>
+            <pubDate>Mon, 10 Jan 2022 08:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[종합광고대행사, 디지털대행사, PR회사, 크리에이티브 부티크... 흔히 광고 산업 관련 회사를 분류할 때 흔히 사용하는 용어다. 일반적인 분류에는 적당할 지 모르지만, 이미 현장에서는 이런 구분의 의미가 없어진지 오래다. 전 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인포그래픽] 2022년 디지털 마케팅 트렌드]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8011</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8011</guid>
+            <pubDate>Mon, 10 Jan 2022 08:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021년에 이어 올해도 디지털 마케팅은 강화되고 성장할 것으로 예상된다.Red Website Design은 캠페인에 영향을 줄 수 있는 디지털 마케팅 트렌드를 공유했다. 1. 메타는 어디에나 있다 :페이스북은 공식적으로 이름을 메타로 변경했 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[1월 10일 마케팅 뉴스클리핑] 네이버카카오 등 플랫폼, 자사 상품 우대하면 불법 외]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8005</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 04 Jan 2022 08:29:00 GMT</pubDate>
             <content:encoded><![CDATA[소개 부탁드립니다.  제일기획 제작 2본부 카피라이터 오창규입니다. 프로젝트 멤버들이 제각각 특별한 역할을 담당해서 업무를 했다기보다는 아이디어 개발에서 실행까지, 소소한 것 하나까지다 같이 머리와 손을 맞대고 진행 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[대한민국광고대상 수상자 인터뷰] 삼양식품 60주년 캠페인 평범하게, 위대하게]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7982</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7982</guid>
-            <pubDate>Tue, 04 Jan 2022 08:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[소개 부탁드립니다.  안녕하세요.이번 캠페인에서 CreativeDirector 역할을 한 스튜디오좋 남우리입니다. 수상작에 대해 간략한 소개 부탁드립니다.  대한민국 최초의 라면이자 60년간 꾸준히 판매된 삼양라면 오리지널의 철학을 담 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[1월 4일 마케팅 뉴스클리핑] 최대 1,000원... 기업고객 택배비 인상 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7981</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7981</guid>
-            <pubDate>Tue, 04 Jan 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 최대 1,000원... 기업고객 택배비 인상  CJ대한통운과 한진 등 주요 택배업계가 새해부터 택배비 인상에 돌입했다. 코로나19 장기화로 배송 물량이 지속적으로 늘어나고 있어 택배비 인상이 부담스럽다는 우려의 목소리가 커지 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_3d66cf3b5ad28aa875e533c891254bfd_39390_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
