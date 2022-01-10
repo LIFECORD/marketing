@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 22:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 23:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[좌이리]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[1월 11일 마케팅 뉴스클리핑] 2.5억 명 올라탄 제페토... 올해 기업가치 3조 넘는다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8014</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8014</guid>
+            <pubDate>Tue, 11 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 2.5억 명 올라탄 `제페토`... 올해 기업가치 3조 넘는다  지난해 네이버 메타버스 플랫폼 `제페토`의 가입자가 2억 5천만 명을 돌파했다. 이 중 90%가 해외 이용자이며, 80%는 Z세대다. 메타버스 열풍을 타고 1년 만에 기업가치가 10 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a5417a366788221cef724edadb1a204f_7116_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[11번가, 고객이 직접 쇼핑 콘텐츠 만든다 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8013</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8013</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_f233df5bb5e6b5c698a52decdc299221_98706_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[트위터, 모바일 광고 플랫폼 모펍 매각 완료 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7984</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7984</guid>
-            <pubDate>Tue, 04 Jan 2022 11:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[트위터가 자회사 모바일 광고 플랫폼 모펍(MoPub)을 모바일 게임마케팅 소프트웨어 공급 업체 앱러빈(AppLovin)에 매각했다.  2010년 설립된 모펍은 실시간 광고 입찰 시스템을 운영한다. 모펍 네트워크 중재, 입찰, 마켓플레이스 기 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0322465dd9ffe8bf6790927800bc3444_39911_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[1월 11일 마케팅 뉴스클리핑] 2.5억 명 올라탄 '제페토'... 올해 기업가치 3조 넘는다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8014</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8014</guid>
+            <pubDate>Mon, 10 Jan 2022 23:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[11번가, 고객이 직접 쇼핑 콘텐츠 만든다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트위터, 모바일 광고 플랫폼 '모펍' 매각 완료 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7984</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7984</guid>
-            <pubDate>Tue, 04 Jan 2022 11:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[유리나]]></content:encoded>
+            <title><![CDATA['이것'은 급성장 중인 커머스 트렌드입니다. 여러 분야의 제품을 종합적으로 판매하는 대신 패션이나 식품, 인테리어 등 특정 카테고리의 제품을 전문적으로 판매하는 플랫폼을 의미하는 '이것'은 무엇일까요?(hint: 헷갈려하는 보스님을 위한 힌트 타임~ 1월 6일 뉴스클리핑 보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Mon, 10 Jan 2022 23:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->'이것'은 급성장 중인 커머스 트렌드입니다. 여러 분야의 제품을 종합적으로 판매하는 대신 패션이나 식품, 인테리어 등 특정 카테고리의 제품을 전문적으로 판매하는 플랫폼을 의미하는 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7992" target="_blank">헷갈려하는 보스님을 위한 힌트 타임~ 1월 6일 뉴스클리핑 보기!</a>)</span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1339_1" value="1" class="AB-radio" id="PQ_BD5826_1339_1_0"><label for="PQ_BD5826_1339_1_0" id="label_PQ_BD5826_1339_1_0">(A) 버티컬 커머스</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1339_1" value="2" class="AB-radio" id="PQ_BD5826_1339_1_1"><label for="PQ_BD5826_1339_1_1" id="label_PQ_BD5826_1339_1_1">(B) 파티클 커머스</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1339_1" value="3" class="AB-radio" id="PQ_BD5826_1339_1_2"><label for="PQ_BD5826_1339_1_2" id="label_PQ_BD5826_1339_1_2">(C) 프로펄 커머스</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1339_1" value="4" class="AB-radio" id="PQ_BD5826_1339_1_3"><label for="PQ_BD5826_1339_1_3" id="label_PQ_BD5826_1339_1_3">(D) 호라이즌 커머스</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 달라지는 일자리 정책 핵심 8가지 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

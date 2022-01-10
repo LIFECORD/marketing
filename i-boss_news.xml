@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-01-10T22:16:36.536Z</updated>
+    <updated>2022-01-10T23:19:46.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[1월 11일 마케팅 뉴스클리핑] 2.5억 명 올라탄 '제페토'... 올해 기업가치 3조 넘는다 외]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8014</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8014"/>
+        <updated>2022-01-10T23:19:24.108Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11번가, 고객이 직접 쇼핑 콘텐츠 만든다]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8013</id>
@@ -207,12 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-7985"/>
         <updated>2022-01-04T23:18:21.868Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트위터, 모바일 광고 플랫폼 '모펍' 매각 완료]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-7984</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-7984"/>
-        <updated>2022-01-04T03:18:36.062Z</updated>
-        <content type="html"><![CDATA[유리나]]></content>
     </entry>
 </feed>

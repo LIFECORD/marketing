@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 22:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 23:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1월 11일 마케팅 뉴스클리핑] 2.5억 명 올라탄 제페토... 올해 기업가치 3조 넘는다 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8014</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8014</guid>
+            <pubDate>Tue, 11 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 2.5억 명 올라탄 `제페토`... 올해 기업가치 3조 넘는다  지난해 네이버 메타버스 플랫폼 `제페토`의 가입자가 2억 5천만 명을 돌파했다. 이 중 90%가 해외 이용자이며, 80%는 Z세대다. 메타버스 열풍을 타고 1년 만에 기업가치가 10 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a5417a366788221cef724edadb1a204f_7116_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[11번가, 고객이 직접 쇼핑 콘텐츠 만든다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8013</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 05 Jan 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 네이버 키워드 리뷰, SME 니즈 맞춰 빠른 도입 완료  네이버는 지난달 30일 총 57개 업종에 대해서 키워드 리뷰를 신규 도입하면서 올 하반기 총 120개 업종에 키워드 리뷰를 적용 완료했다. 보드게임 카페, 스크린 골프장 등 총 57 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_f233df5bb5e6b5c698a52decdc299221_98706_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터, 모바일 광고 플랫폼 모펍 매각 완료]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7984</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7984</guid>
-            <pubDate>Tue, 04 Jan 2022 11:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[트위터가 자회사 모바일 광고 플랫폼 모펍(MoPub)을 모바일 게임마케팅 소프트웨어 공급 업체 앱러빈(AppLovin)에 매각했다.  2010년 설립된 모펍은 실시간 광고 입찰 시스템을 운영한다. 모펍 네트워크 중재, 입찰, 마켓플레이스 기 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0322465dd9ffe8bf6790927800bc3444_39911_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
