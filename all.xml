@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 14:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 15:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7984</guid>
             <pubDate>Tue, 04 Jan 2022 11:49:00 GMT</pubDate>
             <content:encoded><![CDATA[유리나]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다음 보기 중 괄호 안에 들어가기에 알맞은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 10 Jan 2022 14:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->다음 보기 중 괄호 안에 들어가기에 알맞은 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/436c6457aa661bfd3dc582dfe6e11718_16414701452974.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1338_1" value="1" class="AB-radio" id="PQ_BD5826_1338_1_0"><label for="PQ_BD5826_1338_1_0" id="label_PQ_BD5826_1338_1_0">(A) 매일 정오에</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1338_1" value="2" class="AB-radio" id="PQ_BD5826_1338_1_1"><label for="PQ_BD5826_1338_1_1" id="label_PQ_BD5826_1338_1_1">(B) 사용자가 브라우저에서 다른 창을 열 때</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1338_1" value="3" class="AB-radio" id="PQ_BD5826_1338_1_2"><label for="PQ_BD5826_1338_1_2" id="label_PQ_BD5826_1338_1_2">(C) 사이트에 방문한 사용자가 30분 이상 아무 활동이 없을 때</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1338_1" value="4" class="AB-radio" id="PQ_BD5826_1338_1_3"><label for="PQ_BD5826_1338_1_3" id="label_PQ_BD5826_1338_1_3">(D) 웹사이트에서 사용자의 활동 여부와 관계없이 30분 후</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 달라지는 일자리 정책 핵심 8가지 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
