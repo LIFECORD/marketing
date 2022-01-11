@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 02:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 03:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,18 +336,18 @@
             <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[객단가 30만원의 제품을 팔면서 느낀 점 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56961</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56961</guid>
+            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[진민우]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[쇼핑몰 4가지 상황별 GFA통한 매출 N% 상승 전략 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56940</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56940</guid>
             <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카카오뷰 수익도 장난 아니네요~ (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38058</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38058</guid>
-            <pubDate>Wed, 28 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[좌이리]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나19 이후 한국인이 가장 많이 결제한 이커머스 서비스 Top 5 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -593,7 +593,7 @@
             <title><![CDATA[코로나19 이후 한국인이 가장 많이 결제한 이커머스 서비스 'Top 5' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8020</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8020</guid>
-            <pubDate>Tue, 11 Jan 2022 02:13:05 GMT</pubDate>
+            <pubDate>Tue, 11 Jan 2022 10:05:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA['이것'은 급성장 중인 커머스 트렌드입니다. 여러 분야의 제품을 종합적으로 판매하는 대신 패션이나 식품, 인테리어 등 특정 카테고리의 제품을 전문적으로 판매하는 플랫폼을 의미하는 '이것'은 무엇일까요?(hint: 헷갈려하는 보스님을 위한 힌트 타임~ 1월 6일 뉴스클리핑 보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 11 Jan 2022 02:13:19 GMT</pubDate>
+            <pubDate>Tue, 11 Jan 2022 03:20:39 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 급성장 중인 커머스 트렌드입니다. 여러 분야의 제품을 종합적으로 판매하는 대신 패션이나 식품, 인테리어 등 특정 카테고리의 제품을 전문적으로 판매하는 플랫폼을 의미하는 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7992" target="_blank">헷갈려하는 보스님을 위한 힌트 타임~ 1월 6일 뉴스클리핑 보기!</a>)</span></td>
 			</tr>
