@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 01:02:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 02:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 이후 한국인이 가장 많이 결제한 이커머스 서비스 Top 5]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8020</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8020</guid>
+            <pubDate>Tue, 11 Jan 2022 10:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 한국인이 가장 많이 결제한 이커머스 서비스는 네이버, 쿠팡, SSG+이베이코리아 순 2020년 결제추정금액 대비 네이버 31%, 쿠팡 54%, SSG+이베이코리아 7% 상승     앱/리테일 분석서비스 와이즈앱리테일굿즈가 지난해 한국인이  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16418630921393.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[트위터, 2021 게임 트윗량 및 키워드 순위 공개...한국, 게임 트윗량 3위]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8019</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 05 Jan 2022 00:12:00 GMT</pubDate>
             <content:encoded><![CDATA[2021년 한 해 거래액 3500억원 달성   온라인 명품 커머스 머스트잇이 지난해 거래액 3500억원을 달성했다고 5일 밝혔다. 12월 31일 기준 누적 거래액은 1조원을 돌파했다고 밝혔다.   머스트잇은 이번 성과에 힘입어 물류 시스템을 고 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16413523357189.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인터파크, 판매자 전용 데이터 분석 툴 서비스 출시]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7990</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7990</guid>
-            <pubDate>Wed, 05 Jan 2022 11:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[판매 현황마케팅 효율고객 유입 등 판매 관련 데이터 제공    인터파크가 입점 판매자 경쟁력 강화를 위해 판매자 어드바이저 서비스를 시작한다고 5일 밝혔다.  판매자 어드바이저는 판매 현황, 마케팅 효율, 고객 유입 흐름 등 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16413480651969.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
