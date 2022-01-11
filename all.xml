@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 23:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 01:02:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,18 +168,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[상세페이지 제작 접근 방식 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56806</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56806</guid>
-            <pubDate>Sun, 12 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[우뇌]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[알아두면 좋은 유용한 사이트 모음 NO.2 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56810</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56810</guid>
             <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[상세페이지 제작 접근 방식 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56806</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56806</guid>
+            <pubDate>Sun, 12 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마감되었습니다] 오늘 하루 만 (12월 31일) 무료로 1인.. (아이보스 ─ 인기글)]]></title>
@@ -210,18 +210,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마케팅밈] 거절하게 만드는 마케터 유형 5가지 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38017</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38017</guid>
-            <pubDate>Thu, 23 Dec 2021 08:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56841</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56841</guid>
             <pubDate>Mon, 20 Dec 2021 06:21:15 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[마케팅밈] 거절하게 만드는 마케터 유형 5가지 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38017</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38017</guid>
+            <pubDate>Thu, 23 Dec 2021 08:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카피 쓰다 막힐 때마다 꺼내 읽어요 📖 (아이보스 ─ 인기글)]]></title>
@@ -308,6 +308,13 @@
             <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[수익폭발 최신 해외 인터넷 마케팅 트렌드는 번들 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38000</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38000</guid>
+            <pubDate>Sat, 18 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[탁구공]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-37996</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-37996</guid>
@@ -329,13 +336,6 @@
             <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[수익폭발 최신 해외 인터넷 마케팅 트렌드는 번들 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38000</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38000</guid>
-            <pubDate>Sat, 18 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[탁구공]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[쇼핑몰 4가지 상황별 GFA통한 매출 N% 상승 전략 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56940</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56940</guid>
@@ -348,6 +348,46 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38058</guid>
             <pubDate>Wed, 28 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[좌이리]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트위터, 2021 게임 트윗량 및 키워드 순위 공개...한국, 게임 트윗량 3위 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8019</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8019</guid>
+            <pubDate>Tue, 11 Jan 2022 09:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[트위터가 2021년에 발생한 게임 관련 트윗을 분석해 2021 게임 키워드 TOP10을 발표했다. 트위터에서는 게임 개발자와 미디어, 인플루언서, e스포츠 팀 및 리그, 선수 등이 활발히 소통하며 지난 1년간 24억 건 이상의 게임 관련 트윗 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[대홍기획, 지금껏 없었던 新인류, 요즘 5060 - WAVY 리포트 발간 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8018</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8018</guid>
+            <pubDate>Tue, 11 Jan 2022 09:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[대홍기획(대표이사:홍성현)이5060소비자의 특성과 잠재성을 분석한리포트를 발간했다.리포트는 새로운 마케팅 타깃을 발굴하는 대홍기획의 新시장 탐색 리포트 중 하나로 지난11월 발간된에 이어 두 번째이다. 리포트는 그간 주 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[유통업계, MZ세대 눈길 사로잡는 띠 마케팅 인기... 임인년 맞아 호랑이 활용한 신년 마케팅 나서 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8017</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8017</guid>
+            <pubDate>Tue, 11 Jan 2022 08:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[유통업계가2022년임인년(壬寅年)새해벽두부터호랑이를앞세운마케팅을선보이며눈길을끌고있다. 매년새해가되면업계가선보이는신년마케팅은그해를상징하는동물을앞세운띠마케팅에집중되고있다.이는캐릭터로풀어내기쉬운동 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[마케터와 스마트홈 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8016</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8016</guid>
+            <pubDate>Tue, 11 Jan 2022 08:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[꽤 오래 전부터 이야기가 많이 되고 있지만, 진전이 느린 것이 있다. 바로 스마트홈. 바로 홈 오토메이션, 홈 IoT, 스마트홈 등 용어는 조금씩 달라졌지만, 통신이나 가전, 건설 회사들이 꾸준히 추진해왔다. 그런데 아직까지 만족 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[신중년 SPA 최애 브랜드는 유니클로와 자라 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8015</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8015</guid>
+            <pubDate>Tue, 11 Jan 2022 08:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)는 에이풀(Aful)을 통해 10월 18일부터 12월 31일까지 50세 이상 365명을 대상으로 조사한 결과, 선호하는 1위 SPA 브랜드는 유니클로가 26.58%로 나타났다. 자라(ZARA)가 25.48%, 무신사 스탠다드 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[1월 11일 마케팅 뉴스클리핑] 2.5억 명 올라탄 제페토... 올해 기업가치 3조 넘는다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -550,50 +590,45 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16413480651969.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코로나19 비대면 수업과 재택근무 등으로 주중 TV 시청시간량 증가 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7989</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7989</guid>
-            <pubDate>Wed, 05 Jan 2022 09:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19확산과 함께 비대면 수업과 재택근무 등으로 집에 있는 시간이 길어지면서 코로나 이전19년 대비21년에10대부터50대까지 주중 활동시간인 오전9시부터 오후6시까지 집에서TV시청 시간량이 각 시간대별로 일제히 증가한  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[트위터, 2021 게임 트윗량 및 키워드 순위 공개...한국, 게임 트윗량 3위 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8019</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8019</guid>
+            <pubDate>Tue, 11 Jan 2022 01:01:37 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[대한민국광고대상 수상자 인터뷰] 2039 영(Young)탈모인들을 위한 두피스킨케어 아모레퍼시픽 라보에이치 삼푸엔없지 라보에있지 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7988</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7988</guid>
-            <pubDate>Wed, 05 Jan 2022 08:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[소개 부탁드립니다.  안녕하세요. 차이커뮤니케이션 BRAND0본부의 김정연 팀장입니다. 이번 캠페인의 전체 업무를 총괄했습니다. 수상작에 대해 간략한 소개 부탁드립니다.  아모레퍼시픽 라보에이치 캠페인은 두피케어 및 탈모 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[대홍기획, '지금껏 없었던 新인류, 요즘 5060 - WAVY' 리포트 발간 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8018</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8018</guid>
+            <pubDate>Tue, 11 Jan 2022 01:01:37 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[대한민국광고대상 수상자 인터뷰] 포스트코로나 시대, 여행자를 위한 안전한 여행법 제주관광공사 슬로우로드(Slow Road) (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7987</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7987</guid>
-            <pubDate>Wed, 05 Jan 2022 08:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[소개 부탁드립니다.  안녕하세요. 슬로우로드 캠페인에서 초기 아이디어 개발 및 프로젝트 오너 역할을 담당한 제일기획 아트디렉터 김선택 프로입니다. 제주도 여행자에게 아름다운 길에 대한정보를 제공하면서 티맵 내비게 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[유통업계, MZ세대 눈길 사로잡는 ‘띠 마케팅’ 인기... 임인년 맞아 호랑이 활용한 신년 마케팅 나서 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8017</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8017</guid>
+            <pubDate>Tue, 11 Jan 2022 01:01:37 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[삼성전자LG전자는 왜 NFT 경제에 탑승할까 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7986</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7986</guid>
-            <pubDate>Wed, 05 Jan 2022 08:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자와 LG전자가 모두 자사 플랫폼에 대체 불가능한 토큰, 일명 NFT(Non-Fungible Token)를 탑재하겠다고 밝혔다. 두 회사 모두 NFT 관련 사업을 직간접적으로 펼쳐왔지만 자사 디바이스에 들어가는 플랫폼을 만드는 건 이번이 처음 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[마케터와 스마트홈 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8016</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8016</guid>
+            <pubDate>Tue, 11 Jan 2022 01:01:37 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[1월 5일 마케팅 뉴스클리핑] 네이버 키워드 리뷰, SME 니즈 맞춰 빠른 도입 완료 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7985</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7985</guid>
-            <pubDate>Wed, 05 Jan 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 네이버 키워드 리뷰, SME 니즈 맞춰 빠른 도입 완료  네이버는 지난달 30일 총 57개 업종에 대해서 키워드 리뷰를 신규 도입하면서 올 하반기 총 120개 업종에 키워드 리뷰를 적용 완료했다. 보드게임 카페, 스크린 골프장 등 총 57 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_f233df5bb5e6b5c698a52decdc299221_98706_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[신중년 SPA 최애 브랜드는 '유니클로'와 '자라' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8015</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8015</guid>
+            <pubDate>Tue, 11 Jan 2022 01:01:37 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[1월 11일 마케팅 뉴스클리핑] 2.5억 명 올라탄 '제페토'... 올해 기업가치 3조 넘는다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8014</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8014</guid>
-            <pubDate>Mon, 10 Jan 2022 23:19:24 GMT</pubDate>
+            <pubDate>Tue, 11 Jan 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -765,45 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코로나19 비대면 수업과 재택근무 등으로 주중 TV 시청시간량 증가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7989</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7989</guid>
-            <pubDate>Wed, 05 Jan 2022 09:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[대한민국광고대상 수상자 인터뷰] 2039 영(Young)탈모인들을 위한 두피스킨케어 아모레퍼시픽 라보에이치 ‘삼푸엔없지 라보에있지’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7988</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7988</guid>
-            <pubDate>Wed, 05 Jan 2022 08:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[대한민국광고대상 수상자 인터뷰] 포스트코로나 시대, 여행자를 위한 안전한 여행법 제주관광공사 ‘슬로우로드(Slow Road)’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7987</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7987</guid>
-            <pubDate>Wed, 05 Jan 2022 08:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자·LG전자는 왜 ‘NFT 경제’에 탑승할까 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7986</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7986</guid>
-            <pubDate>Wed, 05 Jan 2022 08:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[놀토]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[1월 5일 마케팅 뉴스클리핑] 네이버 키워드 리뷰, SME 니즈 맞춰 빠른 도입 완료 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7985</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7985</guid>
-            <pubDate>Wed, 05 Jan 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['이것'은 급성장 중인 커머스 트렌드입니다. 여러 분야의 제품을 종합적으로 판매하는 대신 패션이나 식품, 인테리어 등 특정 카테고리의 제품을 전문적으로 판매하는 플랫폼을 의미하는 '이것'은 무엇일까요?(hint: 헷갈려하는 보스님을 위한 힌트 타임~ 1월 6일 뉴스클리핑 보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 10 Jan 2022 23:19:37 GMT</pubDate>
+            <pubDate>Tue, 11 Jan 2022 01:01:50 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 급성장 중인 커머스 트렌드입니다. 여러 분야의 제품을 종합적으로 판매하는 대신 패션이나 식품, 인테리어 등 특정 카테고리의 제품을 전문적으로 판매하는 플랫폼을 의미하는 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7992" target="_blank">헷갈려하는 보스님을 위한 힌트 타임~ 1월 6일 뉴스클리핑 보기!</a>)</span></td>
 			</tr>
