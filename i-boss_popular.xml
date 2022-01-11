@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-11T11:15:30.314Z</updated>
+    <updated>2022-01-11T12:29:01.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[언카피]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7일만에 매출을 두 배로 늘릴 수 있는 두가지 비법]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56861</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56861"/>
-        <updated>2021-12-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[햅삐햅삐]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[매출 2배 올린 대표이미지 노하우]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56896</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56896"/>
         <updated>2022-12-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[둥근마을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7일만에 매출을 두 배로 늘릴 수 있는 두가지 비법]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56861</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56861"/>
+        <updated>2021-12-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[햅삐햅삐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌]]></title>

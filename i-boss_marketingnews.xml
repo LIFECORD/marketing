@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 11:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 12:29:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[협업툴 노션, 공식 웨비나 Happy Notions Year 개최]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8022</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8022</guid>
+            <pubDate>Tue, 11 Jan 2022 12:28:27 GMT</pubDate>
+            <content:encoded><![CDATA[협업을 위한 올인원 생산성 앱 노션(Notion)이 2022년 새해를 맞아 13일 공식 웨비나 Happy Notions Year (해피 노션 이어)를 개최한다. 그로스쿨을 통해 13일 오후 8시부터 무료로 진행되는 이번 웨비나에서는 사용자 니즈가 높은 7가지  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a617ab69ff3bfc89d5decc7f877a29d6_79877_6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 이후 한국인이 가장 많이 결제한 이커머스 서비스 Top 5]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8020</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 06 Jan 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 인터파크, 판매자 전용 데이터 툴 서비스 오픈  인터파크는 판매 현황, 마케팅 효율, 고객 유입 흐름 등과 같이 판매와 관련된 다양한 데이터를 입점 판매자가 직접 분석할 수 있는 데이터 솔루션 `판매자 어드바이저` 서비스 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a2d6b5fef6d78ca5da39a5001132b3df_9538_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명품 이커머스 머스트잇, 누적 거래액 1조원 돌파]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7991</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7991</guid>
-            <pubDate>Wed, 05 Jan 2022 00:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 한 해 거래액 3500억원 달성   온라인 명품 커머스 머스트잇이 지난해 거래액 3500억원을 달성했다고 5일 밝혔다. 12월 31일 기준 누적 거래액은 1조원을 돌파했다고 밝혔다.   머스트잇은 이번 성과에 힘입어 물류 시스템을 고 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16413523357189.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
