@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 13:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 14:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -175,13 +175,6 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[상세페이지 제작 접근 방식 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56806</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56806</guid>
-            <pubDate>Sun, 12 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[우뇌]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마감되었습니다] 오늘 하루 만 (12월 31일) 무료로 1인.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38074</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38074</guid>
@@ -341,6 +334,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56877</guid>
             <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[새해맞이 '새로운 마케팅'을 위한 3가지 팁 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-74668-2525</link>
+            <guid>https://www.i-boss.co.kr/ab-74668-2525</guid>
+            <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아드리엘]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쇼핑몰 4가지 상황별 GFA통한 매출 N% 상승 전략 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA['이것'은 급성장 중인 커머스 트렌드입니다. 여러 분야의 제품을 종합적으로 판매하는 대신 패션이나 식품, 인테리어 등 특정 카테고리의 제품을 전문적으로 판매하는 플랫폼을 의미하는 '이것'은 무엇일까요?(hint: 헷갈려하는 보스님을 위한 힌트 타임~ 1월 6일 뉴스클리핑 보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 11 Jan 2022 13:26:43 GMT</pubDate>
+            <pubDate>Tue, 11 Jan 2022 14:17:31 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 급성장 중인 커머스 트렌드입니다. 여러 분야의 제품을 종합적으로 판매하는 대신 패션이나 식품, 인테리어 등 특정 카테고리의 제품을 전문적으로 판매하는 플랫폼을 의미하는 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-7992" target="_blank">헷갈려하는 보스님을 위한 힌트 타임~ 1월 6일 뉴스클리핑 보기!</a>)</span></td>
 			</tr>
