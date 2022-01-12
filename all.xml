@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 10:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 11:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,18 +224,18 @@
             <content:encoded><![CDATA[언카피]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[7일만에 매출을 두 배로 늘릴 수 있는 두가지 비법 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56861</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56861</guid>
-            <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[매출 2배 올린 대표이미지 노하우 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56896</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56896</guid>
             <pubDate>Tue, 27 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7일만에 매출을 두 배로 늘릴 수 있는 두가지 비법 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56861</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56861</guid>
+            <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌 (아이보스 ─ 인기글)]]></title>
@@ -301,18 +301,18 @@
             <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-37996</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-37996</guid>
-            <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[놀토]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[블로그 글쓰기 1% 비밀(체류시간 5분 만들기) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56962</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56962</guid>
             <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[해적보물선]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-37996</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-37996</guid>
+            <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[수익폭발 최신 해외 인터넷 마케팅 트렌드는 번들 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[네이버 디스플레이 광고를 집행할 때, 몇개월 후에 집행할 광고를 미리 구매할 수 있다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 12 Jan 2022 10:20:14 GMT</pubDate>
+            <pubDate>Wed, 12 Jan 2022 11:16:53 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버 디스플레이 광고를 집행할 때, 몇개월 후에 집행할 광고를 미리 구매할 수 있다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
