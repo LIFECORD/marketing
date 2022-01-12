@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-12T19:15:15.373Z</updated>
+    <updated>2022-01-12T20:20:24.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -146,18 +146,18 @@
         <content type="html"><![CDATA[재비]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무신사로 살펴본 브랜드 마케팅 캠페인의 핵심요소 5..]]></title>
-        <id>https://www.i-boss.co.kr/ab-74668-2503</id>
-        <link href="https://www.i-boss.co.kr/ab-74668-2503"/>
-        <updated>2022-12-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[김이서]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[객단가 30만원의 제품을 팔면서 느낀 점]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56961</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56961"/>
         <updated>2022-01-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[진민우]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무신사로 살펴본 브랜드 마케팅 캠페인의 핵심요소 5..]]></title>
+        <id>https://www.i-boss.co.kr/ab-74668-2503</id>
+        <link href="https://www.i-boss.co.kr/ab-74668-2503"/>
+        <updated>2022-12-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[김이서]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아마존, 쿠팡의 성공공식을 마케팅에 대입해보기]]></title>
