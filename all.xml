@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 03:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 04:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[아이언소스, 모바일 광고 네트워크 탭조이 인수 완료 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8028</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8028</guid>
+            <pubDate>Wed, 12 Jan 2022 00:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[아이언소스가 탭조이(Tapjoy) 사업 최종인수를 완료했다.  이번 인수를 통해 앱 개발자를 위한 앱 및 게임 내 경제를 지원하는 업계 도구와 함께 광고주 마켓 플레이스가 더해져 아이언소스 본연의 시너지가 한층 강화될 것으로  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[GfK 2021년 글로벌 기술 소비재 시장, 전년보다 17% 성장 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8027</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8027</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_ec1d82e16071d81779a86e02fc3a8922_72859_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[G마켓  옥션이 꼽은 올해 쇼핑 키워드 팸잼 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7998</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7998</guid>
-            <pubDate>Thu, 06 Jan 2022 07:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[`가족(Family)+재미(Zam)를 합성한 `팸잼(Fam-Zam)` 코로나19로 가족 결집력 높아져...프리미엄 가전홈쿡 소비 나를 위한 재미 `욜로` 너머 가족과 함께 즐길 수 있는 소비 늘어    G마켓과 옥션이 올해 온라인 쇼핑키워드를 `팸잼(Fam-Zam)` ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16414527134814.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[아이언소스, 모바일 광고 네트워크 '탭조이' 인수 완료 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8028</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8028</guid>
+            <pubDate>Wed, 12 Jan 2022 04:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[GfK “2021년 글로벌 기술 소비재 시장, 전년보다 17% 성장” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[G마켓 · 옥션이 꼽은 올해 쇼핑 키워드 '팸잼' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7998</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7998</guid>
-            <pubDate>Thu, 06 Jan 2022 07:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네이버 디스플레이 광고를 집행할 때, 몇개월 후에 집행할 광고를 미리 구매할 수 있다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 12 Jan 2022 03:20:29 GMT</pubDate>
+            <pubDate>Wed, 12 Jan 2022 04:23:57 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버 디스플레이 광고를 집행할 때, 몇개월 후에 집행할 광고를 미리 구매할 수 있다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
