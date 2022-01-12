@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-12T04:24:06.897Z</updated>
+    <updated>2022-01-12T05:18:47.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56841</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56841"/>
-        <updated>2021-12-20T06:21:15.262Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년 타임캡슐 📅]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38098</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38098"/>
         <updated>2022-01-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[유리나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56841</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56841"/>
+        <updated>2021-12-20T06:21:15.262Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마케팅밈] 거절하게 만드는 마케터 유형 5가지]]></title>
