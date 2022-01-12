@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 22:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 23:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1월 13일 마케팅 뉴스클리핑] 인스타 피드, 업로드 시간 상관없이 편집 가능해진다 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8029</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8029</guid>
+            <pubDate>Thu, 13 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 인스타 피드, 업로드 시간 상관없이 편집 가능해진다  인스타그램 게시물 배치가 올린 시간과 관계 없이 자유로워진다. 지금까지 인스타그램 프로필은 업로드 시간에 따라 순서대로 게시물이 배치되고 이를 옮기는 것은 불가 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c5d475c7af6c8e1530d206d5f6ed3481_28603_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이언소스, 모바일 광고 네트워크 탭조이 인수 완료]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8028</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 07 Jan 2022 08:52:00 GMT</pubDate>
             <content:encoded><![CDATA[2022년이 시작됐다. 2022년의 마케팅은 어떤 모습을 보일까? 지난 2년 동안 코로나19로 인해 많은 마케터들은 효율에 집중했다. 코로나의 위기를 서서히 극복하고 광고산업이 활기를 띰에 따라2022년은 예전과 다를 것으로 예측되고 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[1월 7일 마케팅 뉴스클리핑] 하나로 다 되는 슈퍼앱 뜬다 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7999</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7999</guid>
-            <pubDate>Fri, 07 Jan 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 하나로 다 되는 `슈퍼앱` 뜬다  아이디 하나로 검색과 쇼핑, 송금, 결제까지 다 되는 슈퍼앱이 내년에도 주목받을 예정이다. 이미 슈퍼앱으로 평가받고 있는 네이버와 카카오톡은 서비스를 고도화할 예정이고, 야놀자와 여기 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_ec1d82e16071d81779a86e02fc3a8922_72859_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

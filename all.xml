@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 22:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 23:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[좌이리]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[1월 13일 마케팅 뉴스클리핑] 인스타 피드, 업로드 시간 상관없이 편집 가능해진다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8029</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8029</guid>
+            <pubDate>Thu, 13 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 인스타 피드, 업로드 시간 상관없이 편집 가능해진다  인스타그램 게시물 배치가 올린 시간과 관계 없이 자유로워진다. 지금까지 인스타그램 프로필은 업로드 시간에 따라 순서대로 게시물이 배치되고 이를 옮기는 것은 불가 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c5d475c7af6c8e1530d206d5f6ed3481_28603_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아이언소스, 모바일 광고 네트워크 탭조이 인수 완료 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8028</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8028</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[1월 7일 마케팅 뉴스클리핑] 하나로 다 되는 슈퍼앱 뜬다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7999</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7999</guid>
-            <pubDate>Fri, 07 Jan 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 하나로 다 되는 `슈퍼앱` 뜬다  아이디 하나로 검색과 쇼핑, 송금, 결제까지 다 되는 슈퍼앱이 내년에도 주목받을 예정이다. 이미 슈퍼앱으로 평가받고 있는 네이버와 카카오톡은 서비스를 고도화할 예정이고, 야놀자와 여기 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_ec1d82e16071d81779a86e02fc3a8922_72859_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[1월 13일 마케팅 뉴스클리핑] 인스타 피드, 업로드 시간 상관없이 편집 가능해진다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8029</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8029</guid>
+            <pubDate>Wed, 12 Jan 2022 23:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아이언소스, 모바일 광고 네트워크 '탭조이' 인수 완료 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[1월 7일 마케팅 뉴스클리핑] 하나로 다 되는 '슈퍼앱' 뜬다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-7999</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-7999</guid>
-            <pubDate>Fri, 07 Jan 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[다음 이미지에서 설명하고 있는 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Wed, 12 Jan 2022 23:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 이미지에서 설명하고 있는 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/436c6457aa661bfd3dc582dfe6e11718_16414706208191.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1341_1" value="1" class="AB-radio" id="PQ_BD5826_1341_1_0"><label for="PQ_BD5826_1341_1_0" id="label_PQ_BD5826_1341_1_0">(A) 슈퍼앱</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1341_1" value="2" class="AB-radio" id="PQ_BD5826_1341_1_1"><label for="PQ_BD5826_1341_1_1" id="label_PQ_BD5826_1341_1_1">(B) 올인원앱</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1341_1" value="3" class="AB-radio" id="PQ_BD5826_1341_1_2"><label for="PQ_BD5826_1341_1_2" id="label_PQ_BD5826_1341_1_2">(C) 메가앱</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1341_1" value="4" class="AB-radio" id="PQ_BD5826_1341_1_3"><label for="PQ_BD5826_1341_1_3" id="label_PQ_BD5826_1341_1_3">(D) 유니앱</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 달라지는 일자리 정책 핵심 8가지 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
