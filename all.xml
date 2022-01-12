@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 06:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 07:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -245,18 +245,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[1+1과 무료배송만 입점하는 네이버 신규 쇼핑판 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56880</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56880</guid>
-            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[흥하는 인스타그램의 비밀 9가지 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56954</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56954</guid>
             <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김매니저]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1+1과 무료배송만 입점하는 네이버 신규 쇼핑판 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56880</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56880</guid>
+            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[생일이에용! (아이보스 ─ 인기글)]]></title>
@@ -308,6 +308,13 @@
             <content:encoded><![CDATA[탁구공]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[블로그 글쓰기 1% 비밀(체류시간 5분 만들기) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56962</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56962</guid>
+            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[해적보물선]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[추천] 50년 동안 검증된 팔리는 상세페이지 원리 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56877</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56877</guid>
@@ -322,11 +329,11 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블로그 글쓰기 1% 비밀(체류시간 5분 만들기) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56962</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56962</guid>
-            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[해적보물선]]></content:encoded>
+            <title><![CDATA[아묻따 저장 필수! 피와 살이 되는 마케팅 필수 참고 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56996</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56996</guid>
+            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[재비]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[새해맞이 '새로운 마케팅'을 위한 3가지 팁 (아이보스 ─ 인기글)]]></title>
@@ -334,13 +341,6 @@
             <guid>https://www.i-boss.co.kr/ab-74668-2525</guid>
             <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아드리엘]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아묻따 저장 필수! 피와 살이 되는 마케팅 필수 참고 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56996</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56996</guid>
-            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[재비]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카카오뷰 수익도 장난 아니네요~ (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[네이버 디스플레이 광고를 집행할 때, 몇개월 후에 집행할 광고를 미리 구매할 수 있다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 12 Jan 2022 06:22:34 GMT</pubDate>
+            <pubDate>Wed, 12 Jan 2022 07:17:45 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버 디스플레이 광고를 집행할 때, 몇개월 후에 집행할 광고를 미리 구매할 수 있다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
