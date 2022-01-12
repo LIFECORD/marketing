@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 14:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 15:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,18 +182,18 @@
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년에는 어떤 광고에 집중하실 예정이세요? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56900</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56900</guid>
-            <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022년 타임캡슐 📅 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38098</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38098</guid>
             <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[유리나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년에는 어떤 광고에 집중하실 예정이세요? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56900</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56900</guid>
+            <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발 (아이보스 ─ 인기글)]]></title>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-7999</guid>
             <pubDate>Fri, 07 Jan 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네이버 디스플레이 광고를 집행할 때, 몇개월 후에 집행할 광고를 미리 구매할 수 있다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 12 Jan 2022 14:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->네이버 디스플레이 광고를 집행할 때, 몇개월 후에 집행할 광고를 미리 구매할 수 있다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1340_1" value="1" class="AB-radio" id="PQ_BD5826_1340_1_0"><label for="PQ_BD5826_1340_1_0" id="label_PQ_BD5826_1340_1_0">(A) O</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1340_1" value="2" class="AB-radio" id="PQ_BD5826_1340_1_1"><label for="PQ_BD5826_1340_1_1" id="label_PQ_BD5826_1340_1_1">(B) X</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 달라지는 일자리 정책 핵심 8가지 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

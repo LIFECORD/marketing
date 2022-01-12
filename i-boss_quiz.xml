@@ -2,20 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-5826</id>
     <title>아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈</title>
-    <updated>2022-01-12T14:17:33.197Z</updated>
+    <updated>2022-01-12T15:19:32.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[네이버 디스플레이 광고를 집행할 때, 몇개월 후에 집행할 광고를 미리 구매할 수 있다.]]></title>
-        <id>https://www.i-boss.co.kr/ab-5826</id>
-        <link href="https://www.i-boss.co.kr/ab-5826"/>
-        <updated>2022-01-12T14:17:24.381Z</updated>
-        <content type="html"><![CDATA[<tbody><tr>
-				<td><!--1-->네이버 디스플레이 광고를 집행할 때, 몇개월 후에 집행할 광고를 미리 구매할 수 있다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1340_1" value="1" class="AB-radio" id="PQ_BD5826_1340_1_0"><label for="PQ_BD5826_1340_1_0" id="label_PQ_BD5826_1340_1_0">(A) O</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1340_1" value="2" class="AB-radio" id="PQ_BD5826_1340_1_1"><label for="PQ_BD5826_1340_1_1" id="label_PQ_BD5826_1340_1_1">(B) X</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content>
-    </entry>
 </feed>
