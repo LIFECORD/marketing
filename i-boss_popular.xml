@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-12T07:17:53.915Z</updated>
+    <updated>2022-01-12T08:22:21.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -146,6 +146,13 @@
         <content type="html"><![CDATA[김이서]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[아묻따 저장 필수! 피와 살이 되는 마케팅 필수 참고 ..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56996</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56996"/>
+        <updated>2022-01-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[재비]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[객단가 30만원의 제품을 팔면서 느낀 점]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56961</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56961"/>
@@ -193,13 +200,6 @@
         <link href="https://www.i-boss.co.kr/ab-2973-431"/>
         <updated>2021-12-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[당첨대쓔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아묻따 저장 필수! 피와 살이 되는 마케팅 필수 참고 ..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56996</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56996"/>
-        <updated>2022-01-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[재비]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[새해맞이 '새로운 마케팅'을 위한 3가지 팁]]></title>
