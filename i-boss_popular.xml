@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-13T01:02:22.232Z</updated>
+    <updated>2022-01-13T02:16:04.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -132,13 +132,6 @@
         <content type="html"><![CDATA[렐라뿅]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[50가지 리스트로 정리해본 온라인 마케팅 순서도]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56910</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56910"/>
-        <updated>2022-12-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[baljunso]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[객단가 30만원의 제품을 팔면서 느낀 점]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56961</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56961"/>
@@ -153,11 +146,11 @@
         <content type="html"><![CDATA[재비]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아마존, 쿠팡의 성공공식을 마케팅에 대입해보기]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56886</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56886"/>
-        <updated>2021-12-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[우뇌]]></content>
+        <title type="html"><![CDATA[50가지 리스트로 정리해본 온라인 마케팅 순서도]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56910</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56910"/>
+        <updated>2022-12-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[baljunso]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[블로그 글쓰기 1% 비밀(체류시간 5분 만들기)]]></title>
@@ -165,6 +158,13 @@
         <link href="https://www.i-boss.co.kr/ab-6141-56962"/>
         <updated>2022-01-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[해적보물선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아마존, 쿠팡의 성공공식을 마케팅에 대입해보기]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56886</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56886"/>
+        <updated>2021-12-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[우뇌]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리..]]></title>

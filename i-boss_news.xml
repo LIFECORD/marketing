@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-01-13T01:02:22.237Z</updated>
+    <updated>2022-01-13T02:16:04.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오징어게임'과 한국 광고]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8033</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8033"/>
+        <updated>2022-01-13T02:15:42.436Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[해외광고특선] 세계 최고의 좀비 광고. Dead Island Trailer]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8032</id>
@@ -207,12 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-8004"/>
         <updated>2022-01-07T02:41:08.331Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원더맨 톰슨, CES 2022에서 메타버스 플랫폼 공개]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8003</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8003"/>
-        <updated>2022-01-07T02:41:08.339Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>

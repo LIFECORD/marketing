@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 01:02:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 02:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -266,13 +266,6 @@
             <content:encoded><![CDATA[렐라뿅]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[50가지 리스트로 정리해본 온라인 마케팅 순서도 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56910</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56910</guid>
-            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[baljunso]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[객단가 30만원의 제품을 팔면서 느낀 점 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56961</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56961</guid>
@@ -287,11 +280,11 @@
             <content:encoded><![CDATA[재비]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아마존, 쿠팡의 성공공식을 마케팅에 대입해보기 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56886</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56886</guid>
-            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[우뇌]]></content:encoded>
+            <title><![CDATA[50가지 리스트로 정리해본 온라인 마케팅 순서도 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56910</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56910</guid>
+            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[baljunso]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[블로그 글쓰기 1% 비밀(체류시간 5분 만들기) (아이보스 ─ 인기글)]]></title>
@@ -299,6 +292,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56962</guid>
             <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[해적보물선]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아마존, 쿠팡의 성공공식을 마케팅에 대입해보기 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56886</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56886</guid>
+            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마감되쓔] 금요일이라 선착순 10분에게 1인당1217 리.. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56940</guid>
             <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오징어게임과 한국 광고 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8033</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8033</guid>
+            <pubDate>Thu, 13 Jan 2022 11:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[K-팝ㆍK-콘텐츠ㆍK-컬처. 근래 들어 부쩍 한국의 음악과 드라마ㆍ영화가 주목을받으며 K-00라는 용어가 자주 등장한다(막상 미국에서는 K-00라는 표현을 잘 쓰지않는다. 그나마 쓰이는 건 K-Pop 정도이고, 그마저도 아주 대중적인 표 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_45fe5ccc702a3e6a614f999f3c02c87b_2511_6.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[해외광고특선] 세계 최고의 좀비 광고. Dead Island Trailer (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,32 +590,31 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16415224014971.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[원더맨 톰슨, CES 2022에서 메타버스 플랫폼 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8003</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8003</guid>
-            <pubDate>Fri, 07 Jan 2022 10:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[라스베가스에서 CES 2022가 열리고 있다. 코로나 재확산에 따라 주요 기업들이 빠졌지만, 그래도 미래를 선도하는 다양한 제품과 기술이 선보이고 있다. 그러다 보니 오프라인이 아니어도 디지털 방식으로 참석하는 사람들도 나 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA['오징어게임'과 한국 광고 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8033</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8033</guid>
+            <pubDate>Thu, 13 Jan 2022 02:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[해외광고특선] 세계 최고의 좀비 광고. Dead Island Trailer (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8032</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8032</guid>
-            <pubDate>Thu, 13 Jan 2022 01:02:00 GMT</pubDate>
+            <pubDate>Thu, 13 Jan 2022 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[트렌드모니터] ‘뉴스 채널’로 자리매김한 ‘포탈사이트’, 언론인가? 뉴스 중개사이트인가? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8031</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8031</guid>
-            <pubDate>Thu, 13 Jan 2022 01:02:00 GMT</pubDate>
+            <pubDate>Thu, 13 Jan 2022 08:55:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[신중년들은 온라인 자사 몰에서 명품을 구매한다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8030</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8030</guid>
-            <pubDate>Thu, 13 Jan 2022 01:02:00 GMT</pubDate>
+            <pubDate>Thu, 13 Jan 2022 08:54:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[원더맨 톰슨, CES 2022에서 메타버스 플랫폼 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8003</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8003</guid>
-            <pubDate>Fri, 07 Jan 2022 10:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지에서 설명하고 있는 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 13 Jan 2022 01:02:13 GMT</pubDate>
+            <pubDate>Thu, 13 Jan 2022 02:15:55 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 설명하고 있는 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/436c6457aa661bfd3dc582dfe6e11718_16414706208191.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

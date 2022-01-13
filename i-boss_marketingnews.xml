@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 01:02:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 02:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오징어게임과 한국 광고]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8033</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8033</guid>
+            <pubDate>Thu, 13 Jan 2022 11:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[K-팝ㆍK-콘텐츠ㆍK-컬처. 근래 들어 부쩍 한국의 음악과 드라마ㆍ영화가 주목을받으며 K-00라는 용어가 자주 등장한다(막상 미국에서는 K-00라는 표현을 잘 쓰지않는다. 그나마 쓰이는 건 K-Pop 정도이고, 그마저도 아주 대중적인 표 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_45fe5ccc702a3e6a614f999f3c02c87b_2511_6.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[해외광고특선] 세계 최고의 좀비 광고. Dead Island Trailer]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8032</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 07 Jan 2022 11:26:00 GMT</pubDate>
             <content:encoded><![CDATA[애플 운영체제(iOS) 이용자 대상   트위터가 `트윗 테이크(Tweet Takes)` 기능을 새롭게 도입하기 위해 준비 중이라고 7일 밝혔다.  트윗 테이크는 기존 텍스트 위주의 트윗 대신, 비디오로 반응을 전달하는 방식이다. 트위터는 현재  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16415224014971.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원더맨 톰슨, CES 2022에서 메타버스 플랫폼 공개]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8003</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8003</guid>
-            <pubDate>Fri, 07 Jan 2022 10:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[라스베가스에서 CES 2022가 열리고 있다. 코로나 재확산에 따라 주요 기업들이 빠졌지만, 그래도 미래를 선도하는 다양한 제품과 기술이 선보이고 있다. 그러다 보니 오프라인이 아니어도 디지털 방식으로 참석하는 사람들도 나 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
