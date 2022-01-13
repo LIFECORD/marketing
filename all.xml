@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 23:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 01:02:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,18 +182,18 @@
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년 타임캡슐 📅 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38098</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38098</guid>
-            <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[유리나]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022년에는 어떤 광고에 집중하실 예정이세요? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56900</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56900</guid>
             <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 타임캡슐 📅 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38098</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38098</guid>
+            <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발 (아이보스 ─ 인기글)]]></title>
@@ -273,13 +273,6 @@
             <content:encoded><![CDATA[baljunso]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아묻따 저장 필수! 피와 살이 되는 마케팅 필수 참고 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56996</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56996</guid>
-            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[재비]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[객단가 30만원의 제품을 팔면서 느낀 점 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56961</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56961</guid>
@@ -287,11 +280,11 @@
             <content:encoded><![CDATA[진민우]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[무신사로 살펴본 브랜드 마케팅 캠페인의 핵심요소 5.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-74668-2503</link>
-            <guid>https://www.i-boss.co.kr/ab-74668-2503</guid>
-            <pubDate>Wed, 14 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김이서]]></content:encoded>
+            <title><![CDATA[아묻따 저장 필수! 피와 살이 되는 마케팅 필수 참고 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56996</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56996</guid>
+            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[재비]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아마존, 쿠팡의 성공공식을 마케팅에 대입해보기 (아이보스 ─ 인기글)]]></title>
@@ -322,6 +315,13 @@
             <content:encoded><![CDATA[탁구공]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[새해맞이 '새로운 마케팅'을 위한 3가지 팁 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-74668-2525</link>
+            <guid>https://www.i-boss.co.kr/ab-74668-2525</guid>
+            <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아드리엘]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[추천] 50년 동안 검증된 팔리는 상세페이지 원리 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56877</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56877</guid>
@@ -336,18 +336,42 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[새해맞이 '새로운 마케팅'을 위한 3가지 팁 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-74668-2525</link>
-            <guid>https://www.i-boss.co.kr/ab-74668-2525</guid>
-            <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아드리엘]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[카카오뷰 수익도 장난 아니네요~ (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38058</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38058</guid>
             <pubDate>Wed, 28 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[좌이리]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑몰 4가지 상황별 GFA통한 매출 N% 상승 전략 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56940</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56940</guid>
+            <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[근육돌이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[해외광고특선] 세계 최고의 좀비 광고. Dead Island Trailer (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8032</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8032</guid>
+            <pubDate>Thu, 13 Jan 2022 09:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 새해 처음으로 쓰게되는 칼럼으로 독자 여러분들께 어떤 작품을 보여드릴까 고민을 하다가, 선정하게 된 건 바로 이 광고. 좀비물을 좋아하십니까? 수 많은 매니아층을 확보하고 있고, 영화, 액션, 드라마 등 모든 미디어 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[트렌드모니터] 뉴스 채널로 자리매김한 포탈사이트, 언론인가? 뉴스 중개사이트인가? (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8031</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8031</guid>
+            <pubDate>Thu, 13 Jan 2022 08:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[시장조사전문기업 엠브레인 트렌드모니터가 포탈사이트 뉴스 이용 경험이 있는 전국 만 19세~59세 성인 남녀 1,000명을 대상으로 포탈사이트 뉴스 소비 및 뉴스 댓글 관련 인식 조사를 실시한 결과, 대부분 기존 미디어 채널보다 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[신중년들은 온라인 자사 몰에서 명품을 구매한다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8030</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8030</guid>
+            <pubDate>Thu, 13 Jan 2022 08:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)가 50세 이상 신중년을 대상으로 조사한 결과,명품 앱 이용률은 44.34%로 나타났다.임팩트피플스는에이풀(Aful)을 통해 2021년 12월 7일부터 21일까지 50세 이상 300명을 대상으로 조사했다.  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[1월 13일 마케팅 뉴스클리핑] 인스타 피드, 업로드 시간 상관없이 편집 가능해진다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -566,34 +590,31 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[베스트바이, 인하우스 광고 비즈니스 론칭 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8002</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8002</guid>
-            <pubDate>Fri, 07 Jan 2022 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[베스트바이(BestBuy)는 인하우스 미디어 회사인 베스트바이 애즈(BestBuy Ads)를 론칭, 미디어 사업에 뛰어들었다. 이로써 베스트바이도 아마존, 알버트슨, 월마트, 타깃 등 인하우스 광고 비즈니스를 구축한 경쟁사와 합류했다. 소매 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[해외광고특선] 세계 최고의 좀비 광고. Dead Island Trailer (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8032</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8032</guid>
+            <pubDate>Thu, 13 Jan 2022 01:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 사람들은 스마트 스피커를 언제 사용할까? (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8001</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8001</guid>
-            <pubDate>Fri, 07 Jan 2022 08:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[스마트 스피커의 보급이 늘어나고 있지만, 활용에 대해서는 여러 이야기가 있다. 잘 사용하고 있다는 의견이 있는 반면, 장식품으로 전락했다는 의견도 있다. 그럼에도 스마트 스피커 활용은 늘고 있는 것은 추세인 듯 하다. 그 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[트렌드모니터] ‘뉴스 채널’로 자리매김한 ‘포탈사이트’, 언론인가? 뉴스 중개사이트인가? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8031</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8031</guid>
+            <pubDate>Thu, 13 Jan 2022 01:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년 마케터의 다섯 가지 우선 과제 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8000</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8000</guid>
-            <pubDate>Fri, 07 Jan 2022 08:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022년이 시작됐다. 2022년의 마케팅은 어떤 모습을 보일까? 지난 2년 동안 코로나19로 인해 많은 마케터들은 효율에 집중했다. 코로나의 위기를 서서히 극복하고 광고산업이 활기를 띰에 따라2022년은 예전과 다를 것으로 예측되고 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[신중년들은 온라인 자사 몰에서 명품을 구매한다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8030</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8030</guid>
+            <pubDate>Thu, 13 Jan 2022 01:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[1월 13일 마케팅 뉴스클리핑] 인스타 피드, 업로드 시간 상관없이 편집 가능해진다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8029</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8029</guid>
-            <pubDate>Wed, 12 Jan 2022 23:18:14 GMT</pubDate>
+            <pubDate>Thu, 13 Jan 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -779,31 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[베스트바이, 인하우스 광고 비즈니스 론칭 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8002</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8002</guid>
-            <pubDate>Fri, 07 Jan 2022 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 사람들은 스마트 스피커를 언제 사용할까? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8001</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8001</guid>
-            <pubDate>Fri, 07 Jan 2022 08:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 마케터의 다섯 가지 우선 과제 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8000</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8000</guid>
-            <pubDate>Fri, 07 Jan 2022 08:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지에서 설명하고 있는 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 12 Jan 2022 23:18:28 GMT</pubDate>
+            <pubDate>Thu, 13 Jan 2022 01:02:13 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 설명하고 있는 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/436c6457aa661bfd3dc582dfe6e11718_16414706208191.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
