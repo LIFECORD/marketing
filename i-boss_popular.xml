@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-13T03:20:38.625Z</updated>
+    <updated>2022-01-13T04:24:28.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[사각사각그림사이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년에는 어떤 광고에 집중하실 예정이세요?]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56900</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56900"/>
-        <updated>2021-12-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년 타임캡슐 📅]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38098</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38098"/>
         <updated>2022-01-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[유리나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년에는 어떤 광고에 집중하실 예정이세요?]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56900</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56900"/>
+        <updated>2021-12-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발]]></title>
@@ -209,10 +209,10 @@
         <content type="html"><![CDATA[좌이리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쇼핑몰 4가지 상황별 GFA통한 매출 N% 상승 전략]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56940</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56940"/>
-        <updated>2022-01-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[근육돌이]]></content>
+        <title type="html"><![CDATA[굳이 마케팅 자격증 딴다면? 어떤게 좋을까요?]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38109</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38109"/>
+        <updated>2022-01-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[rdg]]></content>
     </entry>
 </feed>

@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 03:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 04:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 업체가 리뷰를 이끌어내는 방법 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/834181-%EC%9D%B4_%EC%97%85%EC%B2%B4%EA%B0%80_%EB%A6%AC%EB%B7%B0%EB%A5%BC_%EC%9D%B4%EB%81%8C%EC%96%B4%EB%82%B4%EB%8A%94_%EB%B0%A9%EB%B2%95/</link>
+            <guid>https://qletter.i-boss.co.kr/view/834181-%EC%9D%B4_%EC%97%85%EC%B2%B4%EA%B0%80_%EB%A6%AC%EB%B7%B0%EB%A5%BC_%EC%9D%B4%EB%81%8C%EC%96%B4%EB%82%B4%EB%8A%94_%EB%B0%A9%EB%B2%95/</guid>
+            <pubDate>Thu, 13 Jan 2022 04:23:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/834181-이_업체가_리뷰를_이끌어내는_방법/">
+						<div class="thumb"><img src="/images/qletter_834181.png"></div>
+						<p><strong>이 업체가 리뷰를 이끌어내는 방법</strong>2022.01.13</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_834181.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[3년 만에 또 내린다! 💳 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/827878-3%EB%85%84_%EB%A7%8C%EC%97%90_%EB%98%90_%EB%82%B4%EB%A6%B0%EB%8B%A4/</link>
@@ -129,17 +140,6 @@
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_786631.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[브랜드를 만드는 것이 어려워요 😢 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/782627-%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%A5%BC_%EB%A7%8C%EB%93%9C%EB%8A%94_%EA%B2%83%EC%9D%B4_%EC%96%B4%EB%A0%A4%EC%9B%8C%EC%9A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/782627-%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%A5%BC_%EB%A7%8C%EB%93%9C%EB%8A%94_%EA%B2%83%EC%9D%B4_%EC%96%B4%EB%A0%A4%EC%9B%8C%EC%9A%94/</guid>
-            <pubDate>Fri, 24 Dec 2021 06:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/782627-브랜드를_만드는_것이_어려워요/">
-						<div class="thumb"><img src="/images/qletter_782627.png"></div>
-						<p><strong>브랜드를 만드는 것이 어려워요 😢</strong>2021.12.02</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_782627.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[페이스북 UTM은 제발 제발 제발 이렇게 박으세요. 부.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56908</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56908</guid>
@@ -182,18 +182,18 @@
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년에는 어떤 광고에 집중하실 예정이세요? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56900</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56900</guid>
-            <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022년 타임캡슐 📅 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38098</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38098</guid>
             <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[유리나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년에는 어떤 광고에 집중하실 예정이세요? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56900</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56900</guid>
+            <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발 (아이보스 ─ 인기글)]]></title>
@@ -343,11 +343,11 @@
             <content:encoded><![CDATA[좌이리]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쇼핑몰 4가지 상황별 GFA통한 매출 N% 상승 전략 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56940</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56940</guid>
-            <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[근육돌이]]></content:encoded>
+            <title><![CDATA[굳이 마케팅 자격증 딴다면? 어떤게 좋을까요? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38109</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38109</guid>
+            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[rdg]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[다음역은 을지로3가, 신한카드역입니다... 최고가 9억에 역이름 팔려 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -593,14 +593,14 @@
             <title><![CDATA[다음역은 을지로3가, 신한카드역입니다... 최고가 9억에 역이름 팔려 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8035</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8035</guid>
-            <pubDate>Thu, 13 Jan 2022 03:20:16 GMT</pubDate>
+            <pubDate>Thu, 13 Jan 2022 00:13:00 GMT</pubDate>
             <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[무신사, 지난해 거래액 2조3000억원...전년 대비 90%↑ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8034</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8034</guid>
-            <pubDate>Thu, 13 Jan 2022 03:20:16 GMT</pubDate>
+            <pubDate>Thu, 13 Jan 2022 11:28:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 이미지에서 설명하고 있는 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 13 Jan 2022 03:20:29 GMT</pubDate>
+            <pubDate>Thu, 13 Jan 2022 04:24:19 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 설명하고 있는 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/436c6457aa661bfd3dc582dfe6e11718_16414706208191.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
