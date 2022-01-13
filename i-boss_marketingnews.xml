@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 22:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 23:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1월 14일 마케팅 뉴스클리핑] 토스 원앱전략 통했다... 뱅킹 앱 사용자 수 1위 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8037</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8037</guid>
+            <pubDate>Fri, 14 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 토스 `원앱전략` 통했다... 뱅킹 앱 사용자 수 1위  토스가 지난해 국내 뱅킹 앱 MAU 1위를 거머쥐었다. 지난해 12월 토스의 사용자 수는 1,397만 명으로 1위에 올랐고, 2위를 차지한 카카오뱅크는 1,317만 명이었다. 하나의 앱에서 간 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d0a49689188fa1f79fffc1059c3a510b_26408_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새해 결심 잊지 말아요... 건강 습관 응원하는 마케팅 활발]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8036</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8009</guid>
             <pubDate>Sun, 09 Jan 2022 09:16:00 GMT</pubDate>
             <content:encoded><![CDATA[세계 소셜 커머스 산업은 2021년 4,920억 달러에서 2025년 1조 2,000억 달러로 기존 전자상거래보다 3배 이상 빠르게 성장할 것으로 전망된다는 새로운 액센츄어 보고서]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 미디어 최대 이슈, 통합 미디어 계획/구매, 측정]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8008</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8008</guid>
-            <pubDate>Sun, 09 Jan 2022 09:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[미디어 구매 및 기획 플랫폼인 미디어오션(Mediaocean)이 최근 발표한  보고서에서 미디어 판매 및 구매 임원 대다수가 올해 플랫폼 간 통합 미디어 이슈가 가장 큰 변화를 계속 주도할 것으로 나타났다. 보고서에 따르면, 조사에  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
