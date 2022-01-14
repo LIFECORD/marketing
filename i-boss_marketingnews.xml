@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 02:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 03:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위메프, 메타쇼핑D2C 전략 확대한다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8045</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8045</guid>
+            <pubDate>Fri, 14 Jan 2022 11:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[소셜커머스로 시작한 위메프 새로운 도전나서 검색 AI 기술에 휴먼 큐레이션 더한 메타쇼핑 선언 브랜드사 자사몰 연동시킨 D2C 채널 확대...쇼핑 콘텐츠 늘려 소비자 확보    위메프가  이커머스 시장에서 지분 확대를 위한 카드 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16421280409204.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이언소스, 더 강력해진 애드 익스체인지 공개... 앱 경제 전반의 성장에서 핵심적인 역할 주도할 것]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8044</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8016</guid>
             <pubDate>Tue, 11 Jan 2022 08:38:00 GMT</pubDate>
             <content:encoded><![CDATA[꽤 오래 전부터 이야기가 많이 되고 있지만, 진전이 느린 것이 있다. 바로 스마트홈. 바로 홈 오토메이션, 홈 IoT, 스마트홈 등 용어는 조금씩 달라졌지만, 통신이나 가전, 건설 회사들이 꾸준히 추진해왔다. 그런데 아직까지 만족 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[신중년 SPA 최애 브랜드는 유니클로와 자라]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8015</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8015</guid>
-            <pubDate>Tue, 11 Jan 2022 08:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)는 에이풀(Aful)을 통해 10월 18일부터 12월 31일까지 50세 이상 365명을 대상으로 조사한 결과, 선호하는 1위 SPA 브랜드는 유니클로가 26.58%로 나타났다. 자라(ZARA)가 25.48%, 무신사 스탠다드 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

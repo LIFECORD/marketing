@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 02:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 03:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,11 +343,19 @@
             <content:encoded><![CDATA[탁구공]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오뷰 수익도 장난 아니네요~ (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38058</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38058</guid>
-            <pubDate>Wed, 28 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[좌이리]]></content:encoded>
+            <title><![CDATA[리뷰를 모으기 위한 기업들의 노력 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56985</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56985</guid>
+            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[위메프, 메타쇼핑D2C 전략 확대한다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8045</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8045</guid>
+            <pubDate>Fri, 14 Jan 2022 11:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[소셜커머스로 시작한 위메프 새로운 도전나서 검색 AI 기술에 휴먼 큐레이션 더한 메타쇼핑 선언 브랜드사 자사몰 연동시킨 D2C 채널 확대...쇼핑 콘텐츠 늘려 소비자 확보    위메프가  이커머스 시장에서 지분 확대를 위한 카드 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16421280409204.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이언소스, 더 강력해진 애드 익스체인지 공개... 앱 경제 전반의 성장에서 핵심적인 역할 주도할 것 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[신중년 SPA 최애 브랜드는 유니클로와 자라 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8015</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8015</guid>
-            <pubDate>Tue, 11 Jan 2022 08:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)는 에이풀(Aful)을 통해 10월 18일부터 12월 31일까지 50세 이상 365명을 대상으로 조사한 결과, 선호하는 1위 SPA 브랜드는 유니클로가 26.58%로 나타났다. 자라(ZARA)가 25.48%, 무신사 스탠다드 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[위메프, 메타쇼핑·D2C 전략 확대한다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8045</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8045</guid>
+            <pubDate>Fri, 14 Jan 2022 03:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아이언소스, 더 강력해진 애드 익스체인지 공개... 앱 경제 전반의 성장에서 핵심적인 역할 주도할 것 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신중년 SPA 최애 브랜드는 '유니클로'와 '자라' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8015</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8015</guid>
-            <pubDate>Tue, 11 Jan 2022 08:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[인스타그램 탐색 탭에 광고를 게재하려는 경우에 선택할 수 없는 광고 목표는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 14 Jan 2022 02:14:01 GMT</pubDate>
+            <pubDate>Fri, 14 Jan 2022 03:20:22 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->인스타그램 탐색 탭에 광고를 게재하려는 경우에 선택할 수 없는 광고 목표는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
