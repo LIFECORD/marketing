@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 23:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 00:58:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -245,13 +245,6 @@
             <content:encoded><![CDATA[김매니저]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[보스님의 취향을 콕 집어주는 핀셋 마케팅 📌 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56816</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56816</guid>
-            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[1+1과 무료배송만 입점하는 네이버 신규 쇼핑판 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56880</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56880</guid>
@@ -348,6 +341,37 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56990</guid>
             <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카카오뷰 수익도 장난 아니네요~ (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38058</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38058</guid>
+            <pubDate>Wed, 28 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[좌이리]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[해외 크리에이티브] 태양 전지판, 완전히 일반 창문처럼 보이다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8049</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8049</guid>
+            <pubDate>Sat, 15 Jan 2022 09:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[에너지에서도 탄소 중립이 화두다. 화석 에너지 대신 재생 에너지, 친환경 에너지를 채택하고 있다. 그 중에서도 태양광 에너지는 가장 많이 활용되고 있다. 그런데 태양광 발전을 생각하면, 제일 먼저 검정색 패널이 떠오른다.  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[비디오 광고는 덜 형식적이고 더 네이티브해진다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8048</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8048</guid>
+            <pubDate>Sat, 15 Jan 2022 09:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[소셜 비디오 광고는 이제 유입 경로전체에 걸쳐 이익을 창출할 수 있다. 광고주는 2022년에 더 많은 네이티브 비디오 광고를 개발하고, 크리에이터 비디오를 유료 광고로 홍보하고, ISR에 더 많이 투자하고, 소셜 플랫폼에서 여전 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[신중년이 온라인에서 의류를 구매하는 곳은? (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8047</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8047</guid>
+            <pubDate>Sat, 15 Jan 2022 09:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)가 에이풀(Aful)을 통해 2021년 12월 6일부터 20일까지 50세 이상 460명을 대상으로 조사한 결과 최근 6개월 내 의류 구매를 위해 이용한 모바일 앱 종류를 묻는 질문(N=460, 복수 응답)에는  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[위메프, 메타쇼핑D2C 전략 확대한다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -566,28 +590,25 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[대홍기획, 지금껏 없었던 新인류, 요즘 5060 - WAVY 리포트 발간 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8018</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8018</guid>
-            <pubDate>Tue, 11 Jan 2022 09:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[대홍기획(대표이사:홍성현)이5060소비자의 특성과 잠재성을 분석한리포트를 발간했다.리포트는 새로운 마케팅 타깃을 발굴하는 대홍기획의 新시장 탐색 리포트 중 하나로 지난11월 발간된에 이어 두 번째이다. 리포트는 그간 주 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[해외 크리에이티브] 태양 전지판, 완전히 일반 창문처럼 보이다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8049</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8049</guid>
+            <pubDate>Sat, 15 Jan 2022 00:58:22 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유통업계, MZ세대 눈길 사로잡는 띠 마케팅 인기... 임인년 맞아 호랑이 활용한 신년 마케팅 나서 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8017</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8017</guid>
-            <pubDate>Tue, 11 Jan 2022 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[유통업계가2022년임인년(壬寅年)새해벽두부터호랑이를앞세운마케팅을선보이며눈길을끌고있다. 매년새해가되면업계가선보이는신년마케팅은그해를상징하는동물을앞세운띠마케팅에집중되고있다.이는캐릭터로풀어내기쉬운동 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[비디오 광고는 덜 형식적이고 더 네이티브해진다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8048</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8048</guid>
+            <pubDate>Sat, 15 Jan 2022 00:58:22 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터와 스마트홈 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8016</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8016</guid>
-            <pubDate>Tue, 11 Jan 2022 08:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[꽤 오래 전부터 이야기가 많이 되고 있지만, 진전이 느린 것이 있다. 바로 스마트홈. 바로 홈 오토메이션, 홈 IoT, 스마트홈 등 용어는 조금씩 달라졌지만, 통신이나 가전, 건설 회사들이 꾸준히 추진해왔다. 그런데 아직까지 만족 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[신중년이 온라인에서 의류를 구매하는 곳은? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8047</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8047</guid>
+            <pubDate>Sat, 15 Jan 2022 00:58:22 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[위메프, 메타쇼핑·D2C 전략 확대한다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -779,31 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[대홍기획, '지금껏 없었던 新인류, 요즘 5060 - WAVY' 리포트 발간 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8018</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8018</guid>
-            <pubDate>Tue, 11 Jan 2022 09:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유통업계, MZ세대 눈길 사로잡는 ‘띠 마케팅’ 인기... 임인년 맞아 호랑이 활용한 신년 마케팅 나서 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8017</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8017</guid>
-            <pubDate>Tue, 11 Jan 2022 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마케터와 스마트홈 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8016</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8016</guid>
-            <pubDate>Tue, 11 Jan 2022 08:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[인스타그램 탐색 탭에 광고를 게재하려는 경우에 선택할 수 없는 광고 목표는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 14 Jan 2022 23:18:49 GMT</pubDate>
+            <pubDate>Sat, 15 Jan 2022 00:58:36 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->인스타그램 탐색 탭에 광고를 게재하려는 경우에 선택할 수 없는 광고 목표는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
