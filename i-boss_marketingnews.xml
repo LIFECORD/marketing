@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 22:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 23:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1월 17일 마케팅 뉴스클리핑] 설 앞두고 달아오른 선물하기 시장 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8046</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8046</guid>
+            <pubDate>Mon, 17 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 설 앞두고 달아오른 선물하기 시장  비대면 설을 앞두고 유통사들이 자체 `선물하기` 기능에 힘을 주고 있다. 코로나19 이후 전 세대가 온라인 선물하기에 익숙해지면서 관련 시장이 폭발적으로 성장하자 소비자를 잡아 두기  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_7d88b88d6451d756c7d706e288e113fd_57628_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신중년이 국내 여행에서 가장 선호하는 항공사는 대한항공]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8054</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8025</guid>
             <pubDate>Wed, 12 Jan 2022 08:52:00 GMT</pubDate>
             <content:encoded><![CDATA[아프리카TV는 10일 아프리카TV의 자회사이자 광고 대행사인 프리비알(FreeBR)이 음성,영상광고를 넘어 디지털 마케팅으로까지 사업 영역을 확대한다고 밝혔다. 프리비알은 인터넷 라디오 미디어렙사이면서 자체 녹음 스튜디오를  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[신중년 선호 숙박업소는 호텔, 펜션, 모텔 순... 가장 선호하는 어플은 야놀자]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8024</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8024</guid>
-            <pubDate>Wed, 12 Jan 2022 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)의 에이풀(Aful)을 통한 리서치 결과(조사기간 11월 19일~12월 2일, 50세 이상, 316명), 5060 세대의 숙박 어플 이용 트렌드에서 최근 1년 이내 숙박 어플 사용 경험이 있는 신중년이 53.16%로 2 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
