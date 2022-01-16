@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-16T05:18:34.507Z</updated>
+    <updated>2022-01-16T06:21:58.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -195,18 +195,18 @@
         <content type="html"><![CDATA[좌이리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SNS 영상 광고 효과? 이거 4개만 알면 끝!!]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57006</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57006"/>
-        <updated>2022-01-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[영상팁]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[노션 마스터를 원하신다면? `된다! 하루 5분 노션 활..]]></title>
         <id>https://www.i-boss.co.kr/ab-2973-436</id>
         <link href="https://www.i-boss.co.kr/ab-2973-436"/>
         <updated>2022-01-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[당첨대쓔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SNS 영상 광고 효과? 이거 4개만 알면 끝!!]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57006</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57006"/>
+        <updated>2022-01-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[영상팁]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[굳이 마케팅 자격증 딴다면? 어떤게 좋을까요?]]></title>
