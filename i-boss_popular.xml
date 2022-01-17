@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-17T03:20:41.338Z</updated>
+    <updated>2022-01-17T04:24:11.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[우뇌]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 주목해야 할 트렌드 총정리]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56862</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56862"/>
-        <updated>2021-12-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[김매니저]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아묻따 저장 필수! 피와 살이 되는 마케팅 필수 참고 ..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56996</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56996"/>
         <updated>2022-01-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[재비]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 주목해야 할 트렌드 총정리]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56862</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56862"/>
+        <updated>2021-12-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[김매니저]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[네이버 공식 NEW 알고리즘, 발칵 뒤집힙니다(Feat. 스마..]]></title>
