@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 11:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 12:29:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[영상팁]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[한국NFT콘텐츠협회 창립총회 개최, 상생을 위한 업계 간 협업 모색 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8064</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8064</guid>
+            <pubDate>Mon, 17 Jan 2022 12:29:12 GMT</pubDate>
+            <content:encoded><![CDATA[한국NFT콘텐츠협회 창립총회가 1월 19일 그랜드 인터콘티넨탈 서울 파르나스 5층 그랜드볼룸에서 열린다. 한국NFT콘텐츠협회 창립총회는 정회원사, 업계 전문가, VIP 등이 참석 예정이며 제20대 대통령선거 더불어민주당 이재명 후 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[한국광고학회, 제29회 올해의 광고상 공모 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8062</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8062</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_45fe5ccc702a3e6a614f999f3c02c87b_2511_6.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[해외광고특선] 세계 최고의 좀비 광고. Dead Island Trailer (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8032</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8032</guid>
-            <pubDate>Thu, 13 Jan 2022 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 새해 처음으로 쓰게되는 칼럼으로 독자 여러분들께 어떤 작품을 보여드릴까 고민을 하다가, 선정하게 된 건 바로 이 광고. 좀비물을 좋아하십니까? 수 많은 매니아층을 확보하고 있고, 영화, 액션, 드라마 등 모든 미디어 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[한국NFT콘텐츠협회 창립총회 개최, 상생을 위한 업계 간 협업 모색 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8064</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8064</guid>
+            <pubDate>Mon, 17 Jan 2022 12:29:24 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국광고학회, "제29회 올해의 광고상" 공모 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[해외광고특선] 세계 최고의 좀비 광고. Dead Island Trailer (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8032</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8032</guid>
-            <pubDate>Thu, 13 Jan 2022 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 대화에서 설명하고 있는 마케팅 전략은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 17 Jan 2022 11:15:57 GMT</pubDate>
+            <pubDate>Mon, 17 Jan 2022 12:29:37 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 대화에서 설명하고 있는 마케팅 전략은 무엇일까요?<br><br><center><img src="design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/08b9555e58ba4345ce3239083949c04b_16420664603916.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

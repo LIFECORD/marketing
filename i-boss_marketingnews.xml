@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 11:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 12:29:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국NFT콘텐츠협회 창립총회 개최, 상생을 위한 업계 간 협업 모색]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8064</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8064</guid>
+            <pubDate>Mon, 17 Jan 2022 12:29:12 GMT</pubDate>
+            <content:encoded><![CDATA[한국NFT콘텐츠협회 창립총회가 1월 19일 그랜드 인터콘티넨탈 서울 파르나스 5층 그랜드볼룸에서 열린다. 한국NFT콘텐츠협회 창립총회는 정회원사, 업계 전문가, VIP 등이 참석 예정이며 제20대 대통령선거 더불어민주당 이재명 후 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[한국광고학회, 제29회 올해의 광고상 공모]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8062</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 13 Jan 2022 11:02:00 GMT</pubDate>
             <content:encoded><![CDATA[K-팝ㆍK-콘텐츠ㆍK-컬처. 근래 들어 부쩍 한국의 음악과 드라마ㆍ영화가 주목을받으며 K-00라는 용어가 자주 등장한다(막상 미국에서는 K-00라는 표현을 잘 쓰지않는다. 그나마 쓰이는 건 K-Pop 정도이고, 그마저도 아주 대중적인 표 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_45fe5ccc702a3e6a614f999f3c02c87b_2511_6.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외광고특선] 세계 최고의 좀비 광고. Dead Island Trailer]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8032</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8032</guid>
-            <pubDate>Thu, 13 Jan 2022 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 새해 처음으로 쓰게되는 칼럼으로 독자 여러분들께 어떤 작품을 보여드릴까 고민을 하다가, 선정하게 된 건 바로 이 광고. 좀비물을 좋아하십니까? 수 많은 매니아층을 확보하고 있고, 영화, 액션, 드라마 등 모든 미디어 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
