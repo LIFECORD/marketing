@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 05:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 06:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,18 +168,18 @@
             <content:encoded><![CDATA[해적보물선]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마감되었습니다] 오늘 하루 만 (12월 31일) 무료로 1인.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38074</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38074</guid>
-            <pubDate>Fri, 31 Dec 2021 09:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[놀토]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[외워두세요, 7년차 마자이너가 밝히는 상세페이지에 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56844</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56844</guid>
             <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사각사각그림사이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[마감되었습니다] 오늘 하루 만 (12월 31일) 무료로 1인.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38074</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38074</guid>
+            <pubDate>Fri, 31 Dec 2021 09:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 타임캡슐 📅 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 대화에서 설명하고 있는 마케팅 전략은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 17 Jan 2022 05:19:29 GMT</pubDate>
+            <pubDate>Mon, 17 Jan 2022 06:23:00 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 대화에서 설명하고 있는 마케팅 전략은 무엇일까요?<br><br><center><img src="design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/08b9555e58ba4345ce3239083949c04b_16420664603916.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
