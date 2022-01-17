@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 02:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 03:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국광고학회, 제29회 올해의 광고상 공모]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8062</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8062</guid>
+            <pubDate>Mon, 17 Jan 2022 11:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국광고학회(회장 안대천)는 올해로 29회를 맞는 `2021 올해의 광고상`을 1월 24일(월)까지 공모한다. 한국광고학회는 한 해 동안 집행된 광고물 중 메시지 관련성, 크리에이티브, 사회반영적 표현성, 작품의 완성도 등에서 실무적 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[CES 2022, 기술이 인간화되다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8061</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8032</guid>
             <pubDate>Thu, 13 Jan 2022 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022년 새해 처음으로 쓰게되는 칼럼으로 독자 여러분들께 어떤 작품을 보여드릴까 고민을 하다가, 선정하게 된 건 바로 이 광고. 좀비물을 좋아하십니까? 수 많은 매니아층을 확보하고 있고, 영화, 액션, 드라마 등 모든 미디어 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[트렌드모니터] 뉴스 채널로 자리매김한 포탈사이트, 언론인가? 뉴스 중개사이트인가?]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8031</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8031</guid>
-            <pubDate>Thu, 13 Jan 2022 08:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[시장조사전문기업 엠브레인 트렌드모니터가 포탈사이트 뉴스 이용 경험이 있는 전국 만 19세~59세 성인 남녀 1,000명을 대상으로 포탈사이트 뉴스 소비 및 뉴스 댓글 관련 인식 조사를 실시한 결과, 대부분 기존 미디어 채널보다 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
