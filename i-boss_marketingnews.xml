@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 17:27:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 23:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1월 18일 마케팅 뉴스클리핑] 페북보다 자주 보는 당근 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8063</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8063</guid>
+            <pubDate>Tue, 18 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 모바일 다음뉴스 개편 또 연기 일부 기능 개선 미비  카카오가 다음 뉴스 개편을 또 연기했다. 카카오는 지난 14일 오후 언론사들에 모바일 다음 개편 시점이 17일 오전 1시로 확정됐다고 공지했다. 그러나 16일 다시 메일을  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_9369cf6626649880ba1990109db0f545_16424109501413.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국NFT콘텐츠협회 창립총회 개최, 상생을 위한 업계 간 협업 모색]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8064</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 13 Jan 2022 11:28:00 GMT</pubDate>
             <content:encoded><![CDATA[무신사29CM스타일쉐어솔드아웃 등 무신사가 운영하는 서비스 거래액 2조 돌파 전년 대비 거래액 90% 이상 늘어나    무신사가 지난해 온라인 패션 플랫폼 거래액 총합이 전년 대비 90% 늘어난 2조3000억원을 기록했다고 13일 밝혔다.  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16420409233195.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오징어게임과 한국 광고]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8033</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8033</guid>
-            <pubDate>Thu, 13 Jan 2022 11:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[K-팝ㆍK-콘텐츠ㆍK-컬처. 근래 들어 부쩍 한국의 음악과 드라마ㆍ영화가 주목을받으며 K-00라는 용어가 자주 등장한다(막상 미국에서는 K-00라는 표현을 잘 쓰지않는다. 그나마 쓰이는 건 K-Pop 정도이고, 그마저도 아주 대중적인 표 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_45fe5ccc702a3e6a614f999f3c02c87b_2511_6.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
