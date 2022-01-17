@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 01:00:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 02:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[계속되는 택배 파업, 업계의 대안은? 🤔]]></title>
+            <link>https://qletter.i-boss.co.kr/view/836666-%EA%B3%84%EC%86%8D%EB%90%98%EB%8A%94_%ED%83%9D%EB%B0%B0_%ED%8C%8C%EC%97%85_%EC%97%85%EA%B3%84%EC%9D%98_%EB%8C%80%EC%95%88%EC%9D%80/</link>
+            <guid>https://qletter.i-boss.co.kr/view/836666-%EA%B3%84%EC%86%8D%EB%90%98%EB%8A%94_%ED%83%9D%EB%B0%B0_%ED%8C%8C%EC%97%85_%EC%97%85%EA%B3%84%EC%9D%98_%EB%8C%80%EC%95%88%EC%9D%80/</guid>
+            <pubDate>Mon, 17 Jan 2022 02:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/836666-계속되는_택배_파업_업계의_대안은/">
+						<div class="thumb"><img src="/images/qletter_836666.png"></div>
+						<p><strong>계속되는 택배 파업, 업계의 대안은? 🤔</strong>2022.01.17</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_836666.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이 업체가 리뷰를 이끌어내는 방법]]></title>
             <link>https://qletter.i-boss.co.kr/view/834181-%EC%9D%B4_%EC%97%85%EC%B2%B4%EA%B0%80_%EB%A6%AC%EB%B7%B0%EB%A5%BC_%EC%9D%B4%EB%81%8C%EC%96%B4%EB%82%B4%EB%8A%94_%EB%B0%A9%EB%B2%95/</link>
@@ -127,17 +138,6 @@
 						<p><strong> 메타버스가 어려운 보스님께 ❤</strong>2021.12.09</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_791045.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년의 마지막 마케팅 퀴즈 👋]]></title>
-            <link>https://qletter.i-boss.co.kr/view/786631-2021%EB%85%84%EC%9D%98_%EB%A7%88%EC%A7%80%EB%A7%89_%EB%A7%88%EC%BC%80%ED%8C%85_%ED%80%B4%EC%A6%88/</link>
-            <guid>https://qletter.i-boss.co.kr/view/786631-2021%EB%85%84%EC%9D%98_%EB%A7%88%EC%A7%80%EB%A7%89_%EB%A7%88%EC%BC%80%ED%8C%85_%ED%80%B4%EC%A6%88/</guid>
-            <pubDate>Fri, 24 Dec 2021 06:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/786631-2021년의_마지막_마케팅_퀴즈/">
-						<div class="thumb"><img src="/images/qletter_786631.png"></div>
-						<p><strong>2021년의 마지막 마케팅 퀴즈 👋</strong>2021.12.06</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_786631.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
