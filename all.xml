@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 08:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 09:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,13 +287,6 @@
             <content:encoded><![CDATA[아드리엘]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022ver. 스마트스토어로 테크트리 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56990</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56990</guid>
-            <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[노션 마스터를 원하신다면? `된다! 하루 5분 노션 활.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-436</link>
             <guid>https://www.i-boss.co.kr/ab-2973-436</guid>
@@ -306,6 +299,13 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38168</guid>
             <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[체르시]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022ver. 스마트스토어로 테크트리 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56990</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56990</guid>
+            <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[블로그 글쓰기 1% 비밀(체류시간 5분 만들기) (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[아이보스가 신규 마케팅 강의를 출시했습니다. 다음 중 신규 론칭된 강의가 아닌 것은 무엇일까요?(hint: 마케팅 소식 전해주는 뉴스 클리핑에서 힌트 얻기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 18 Jan 2022 08:23:01 GMT</pubDate>
+            <pubDate>Tue, 18 Jan 2022 09:19:00 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->아이보스가 신규 마케팅 강의를 출시했습니다. 다음 중 신규 론칭된 강의가 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8021" target="_blank">마케팅 소식 전해주는 뉴스 클리핑에서 힌트 얻기!</a>)</span></td>
 			</tr>
