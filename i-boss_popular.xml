@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-18T01:01:44.676Z</updated>
+    <updated>2022-01-18T02:14:55.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리뷰를 모으기 위한 기업들의 노력]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56985</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56985"/>
-        <updated>2022-01-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[매출 2배 올린 대표이미지 노하우]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56896</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56896"/>
         <updated>2022-12-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[둥근마을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리뷰를 모으기 위한 기업들의 노력]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56985</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56985"/>
+        <updated>2022-01-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[흥하는 인스타그램의 비밀 9가지]]></title>
@@ -167,18 +167,18 @@
         <content type="html"><![CDATA[해적보물선]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아마존, 쿠팡의 성공공식을 마케팅에 대입해보기]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56886</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56886"/>
-        <updated>2021-12-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[우뇌]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[노션 마스터를 원하신다면? `된다! 하루 5분 노션 활..]]></title>
         <id>https://www.i-boss.co.kr/ab-2973-436</id>
         <link href="https://www.i-boss.co.kr/ab-2973-436"/>
         <updated>2022-01-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[당첨대쓔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아마존, 쿠팡의 성공공식을 마케팅에 대입해보기]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56886</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56886"/>
+        <updated>2021-12-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[우뇌]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[추천] 50년 동안 검증된 팔리는 상세페이지 원리]]></title>
