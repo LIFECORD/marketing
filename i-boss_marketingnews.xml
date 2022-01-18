@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 22:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 23:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1월 19일 마케팅 뉴스클리핑] 뉴스, 포털유튜브로 본다는 비율 더 높아졌다 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8071</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8071</guid>
+            <pubDate>Wed, 19 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 뉴스, 포털유튜브로 본다는 비율 더 높아졌다  지난해 포털과 동영상 플랫폼을 통해 뉴스를 접하는 비율이 더욱 높아진 것으로 조사됐다. 유튜브 등에 대해선 이제 뉴스 매체로서 공고한 위치를 점하기 시작했다는 평가다. 코 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a03605a4f84b8f0fb9c7b343b079b285_30864_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글갑질방지법 덕분...네이버, 국내 최초로 게임팟에 외부결제 도입]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8072</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8042</guid>
             <pubDate>Fri, 14 Jan 2022 08:54:00 GMT</pubDate>
             <content:encoded><![CDATA[TBWA 하쿠호도는 닛산의 프로파일럿 2.0 반자율주행 시스템에서 영감을 받아, 스스로 경로를 파악해 홀로 찾아가는 프로파일럿 골프볼을 제작했습니다. 목적지까지 미리 정해진 경로를 따라 가는 이 골프볼은 선수들이 퍼트를 할 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[어도비 스톡, 2022년 크리에이티브 트렌드 낙관주의와 반항심]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8041</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8041</guid>
-            <pubDate>Fri, 14 Jan 2022 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[사람이 향하는 시각은 종종 그들의 심리 상태를 반영한다. 팬덱믹 하에서 2년이 지난 지금 우리 삶의 많은 요소가 바뀌었다. 1~2년 전, 브랜드는 팬데믹과 이와 관련된 사회적 거리두기, 마스크 요구 사항 및 기타 행동 변화에 신 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

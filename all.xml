@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 22:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 23:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[마케터허브]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[1월 19일 마케팅 뉴스클리핑] 뉴스, 포털유튜브로 본다는 비율 더 높아졌다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8071</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8071</guid>
+            <pubDate>Wed, 19 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 뉴스, 포털유튜브로 본다는 비율 더 높아졌다  지난해 포털과 동영상 플랫폼을 통해 뉴스를 접하는 비율이 더욱 높아진 것으로 조사됐다. 유튜브 등에 대해선 이제 뉴스 매체로서 공고한 위치를 점하기 시작했다는 평가다. 코 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a03605a4f84b8f0fb9c7b343b079b285_30864_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[구글갑질방지법 덕분...네이버, 국내 최초로 게임팟에 외부결제 도입 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8072</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8072</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[어도비 스톡, 2022년 크리에이티브 트렌드 낙관주의와 반항심 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8041</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8041</guid>
-            <pubDate>Fri, 14 Jan 2022 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[사람이 향하는 시각은 종종 그들의 심리 상태를 반영한다. 팬덱믹 하에서 2년이 지난 지금 우리 삶의 많은 요소가 바뀌었다. 1~2년 전, 브랜드는 팬데믹과 이와 관련된 사회적 거리두기, 마스크 요구 사항 및 기타 행동 변화에 신 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[1월 19일 마케팅 뉴스클리핑] 뉴스, 포털·유튜브로 본다는 비율 더 높아졌다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8071</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8071</guid>
+            <pubDate>Tue, 18 Jan 2022 23:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[“‘구글갑질방지법’ 덕분”...네이버, 국내 최초로 게임팟에 ‘외부결제’ 도입 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[어도비 스톡, 2022년 크리에이티브 트렌드 "낙관주의와 반항심" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8041</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8041</guid>
-            <pubDate>Fri, 14 Jan 2022 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[다음 중, 유저 설문조사를 통해 광고 성과를 측정하고 인사이트를 제공하는 유튜브 서비스의 이름은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Tue, 18 Jan 2022 23:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 중, 유저 설문조사를 통해 광고 성과를 측정하고 인사이트를 제공하는 유튜브 서비스의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1345_1" value="1" class="AB-radio" id="PQ_BD5826_1345_1_0"><label for="PQ_BD5826_1345_1_0" id="label_PQ_BD5826_1345_1_0">(A) 구글 애즈 서베이(GAS)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1345_1" value="2" class="AB-radio" id="PQ_BD5826_1345_1_1"><label for="PQ_BD5826_1345_1_1" id="label_PQ_BD5826_1345_1_1">(B) 브랜드 리프트 서베이(BLS)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1345_1" value="3" class="AB-radio" id="PQ_BD5826_1345_1_2"><label for="PQ_BD5826_1345_1_2" id="label_PQ_BD5826_1345_1_2">(C) 비디오 오디언스 서베이(VAS)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1345_1" value="4" class="AB-radio" id="PQ_BD5826_1345_1_3"><label for="PQ_BD5826_1345_1_3" id="label_PQ_BD5826_1345_1_3">(D) 타겟 인사이트 서베이(TIS)</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인 55만명 손실보상 500만원 선지급…설 전 대다수에 지급 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
