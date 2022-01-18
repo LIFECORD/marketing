@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 11:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 12:29:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[원제]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[구글갑질방지법 덕분...네이버, 국내 최초로 게임팟에 외부결제 도입 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8072</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8072</guid>
+            <pubDate>Tue, 18 Jan 2022 12:29:04 GMT</pubDate>
+            <content:encoded><![CDATA[이른바 구글갑질방지법으로 불리는 전기통신사업법 개정에 따라네이버클라우드가 게임 전용 통합 매니지먼트 서비스인 게임팟(GAMEPOT)에 외부결제 서비스를 연동한다. 외부결제 모듈과 게임 서비스를 연동하는 국내 첫 사례다. ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[MZ세대가 가장 많이 사용하는 전문몰 앱은? (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8070</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8070</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[ISG Index, 2021년 아태 IT비즈니스 서비스 시장, 4분기 둔화에도 최고치 경신 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8040</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8040</guid>
-            <pubDate>Fri, 14 Jan 2022 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[세계적인기술 연구자문 기업 인포메이션 서비스 그룹(Information Services Group, 이하 ISG)(나스닥: III)이 발표한 최신 보고서에 따르면 2021년 아태 지역 IT비즈니스 서비스 시장 규모가 4분기 클라우드 인프라 서비스 시장 둔화에도 불 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[“‘구글갑질방지법’ 덕분”...네이버, 국내 최초로 게임팟에 ‘외부결제’ 도입 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8072</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8072</guid>
+            <pubDate>Tue, 18 Jan 2022 12:29:17 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MZ세대가 가장 많이 사용하는 '전문몰' 앱은? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ISG Index, "2021년 아태 IT·비즈니스 서비스 시장, 4분기 둔화에도 최고치 경신" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8040</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8040</guid>
-            <pubDate>Fri, 14 Jan 2022 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[아이보스가 신규 마케팅 강의를 출시했습니다. 다음 중 신규 론칭된 강의가 아닌 것은 무엇일까요?(hint: 마케팅 소식 전해주는 뉴스 클리핑에서 힌트 얻기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 18 Jan 2022 11:15:43 GMT</pubDate>
+            <pubDate>Tue, 18 Jan 2022 12:29:30 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->아이보스가 신규 마케팅 강의를 출시했습니다. 다음 중 신규 론칭된 강의가 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8021" target="_blank">마케팅 소식 전해주는 뉴스 클리핑에서 힌트 얻기!</a>)</span></td>
 			</tr>
