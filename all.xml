@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 14:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 15:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,13 @@
             <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[디자이너 필독! 작업 속도 올리고 싶다면 알아두세요.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57034</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57034</guid>
+            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[원제]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[카카오뷰 수익도 장난 아니네요~ (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38058</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38058</guid>
@@ -341,13 +348,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56887</guid>
             <pubDate>Tue, 27 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케터허브]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[디자이너 필독! 작업 속도 올리고 싶다면 알아두세요.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57034</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57034</guid>
-            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[원제]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구글갑질방지법 덕분...네이버, 국내 최초로 게임팟에 외부결제 도입 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8041</guid>
             <pubDate>Fri, 14 Jan 2022 08:53:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아이보스가 신규 마케팅 강의를 출시했습니다. 다음 중 신규 론칭된 강의가 아닌 것은 무엇일까요?(hint: 마케팅 소식 전해주는 뉴스 클리핑에서 힌트 얻기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 18 Jan 2022 14:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->아이보스가 신규 마케팅 강의를 출시했습니다. 다음 중 신규 론칭된 강의가 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8021" target="_blank">마케팅 소식 전해주는 뉴스 클리핑에서 힌트 얻기!</a>)</span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1344_1" value="1" class="AB-radio" id="PQ_BD5826_1344_1_0"><label for="PQ_BD5826_1344_1_0" id="label_PQ_BD5826_1344_1_0">(A) 마케팅 손익분석</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1344_1" value="2" class="AB-radio" id="PQ_BD5826_1344_1_1"><label for="PQ_BD5826_1344_1_1" id="label_PQ_BD5826_1344_1_1">(B) 신제품 개발 전략</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1344_1" value="3" class="AB-radio" id="PQ_BD5826_1344_1_2"><label for="PQ_BD5826_1344_1_2" id="label_PQ_BD5826_1344_1_2">(C) 전자책 출판</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1344_1" value="4" class="AB-radio" id="PQ_BD5826_1344_1_3"><label for="PQ_BD5826_1344_1_3" id="label_PQ_BD5826_1344_1_3">(D) 팬덤 마케팅 전략</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인 55만명 손실보상 500만원 선지급…설 전 대다수에 지급 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
