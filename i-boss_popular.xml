@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-18T04:24:33.063Z</updated>
+    <updated>2022-01-18T05:19:25.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -167,6 +167,13 @@
         <content type="html"><![CDATA[해적보물선]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[주접생성기 사이트 너무 웃기네욬ㅋㅋ]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38168</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38168"/>
+        <updated>2022-01-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[체르시]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[노션 마스터를 원하신다면? `된다! 하루 5분 노션 활..]]></title>
         <id>https://www.i-boss.co.kr/ab-2973-436</id>
         <link href="https://www.i-boss.co.kr/ab-2973-436"/>
@@ -179,13 +186,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-56886"/>
         <updated>2021-12-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[우뇌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주접생성기 사이트 너무 웃기네욬ㅋㅋ]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38168</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38168"/>
-        <updated>2022-01-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[체르시]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[추천] 50년 동안 검증된 팔리는 상세페이지 원리]]></title>
