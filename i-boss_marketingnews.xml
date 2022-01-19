@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 22:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 23:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1월 20일 마케팅 뉴스클리핑] CJ대한통운 파업 장기화... 배송 발목 잡힌 이커머스 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8077</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8077</guid>
+            <pubDate>Thu, 20 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. CJ대한통운 파업 장기화... 배송 발목 잡힌 이커머스  CJ대한통운 택배노조의 파업이 3주 차에 들어선 가운데, 여전히 노사 양측의 입장이 첨예하게 대립하면서 설 명절을 앞두고 배송 대란이 현실화되는 분위기다. 이에 이커머 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_447af3185b908b2ef46b2b58663df516_95821_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에이블리, 지난해 거래규모 7000억원 달성]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8076</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8048</guid>
             <pubDate>Sat, 15 Jan 2022 09:11:00 GMT</pubDate>
             <content:encoded><![CDATA[소셜 비디오 광고는 이제 유입 경로전체에 걸쳐 이익을 창출할 수 있다. 광고주는 2022년에 더 많은 네이티브 비디오 광고를 개발하고, 크리에이터 비디오를 유료 광고로 홍보하고, ISR에 더 많이 투자하고, 소셜 플랫폼에서 여전 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[신중년이 온라인에서 의류를 구매하는 곳은?]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8047</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8047</guid>
-            <pubDate>Sat, 15 Jan 2022 09:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)가 에이풀(Aful)을 통해 2021년 12월 6일부터 20일까지 50세 이상 460명을 대상으로 조사한 결과 최근 6개월 내 의류 구매를 위해 이용한 모바일 앱 종류를 묻는 질문(N=460, 복수 응답)에는  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
