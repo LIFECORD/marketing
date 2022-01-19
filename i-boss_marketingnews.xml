@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 00:54:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 01:57:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롯데멤버스도 선물하기 서비스 시작]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8075</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8075</guid>
+            <pubDate>Wed, 19 Jan 2022 10:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[엘포인트 이쿠폰 선물하기 서비스 시작 포인트로 할인받아 선물 구매, 구매 시 부족한 금액은 신용카드계좌직불 충전     롯데멤버스가 통합 멤버십 서비스 엘포인트(L.POINT) 모바일 애플리케이션에서 이(e)쿠폰 선물하기 서비스 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16425555416383.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[올해 소비 트렌드는 U.N.L.O.C.K!]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8074</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8074</guid>
+            <pubDate>Wed, 19 Jan 2022 10:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[신한카드(사장 임영진)가 2022년의 소비 트렌드 주요 키워드로 U.N.L.O.C.K(이하 언락)을 19일 제시했다. 신한카드 빅데이터연구소는 팬데믹으로 인한 여러 한계와 위기 속에서 억눌렸던 일상 회복에 대한 욕구가 강력히 표출되면서, ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[신중년, 옷은 그래도 입어 보고 사야... 남성은 가격과 성능, 여성은 디자인과 유행]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8073</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 14 Jan 2022 11:40:00 GMT</pubDate>
             <content:encoded><![CDATA[소셜커머스로 시작한 위메프 새로운 도전나서 검색 AI 기술에 휴먼 큐레이션 더한 메타쇼핑 선언 브랜드사 자사몰 연동시킨 D2C 채널 확대...쇼핑 콘텐츠 늘려 소비자 확보    위메프가  이커머스 시장에서 지분 확대를 위한 카드 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16421280409204.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이언소스, 더 강력해진 애드 익스체인지 공개... 앱 경제 전반의 성장에서 핵심적인 역할 주도할 것]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8044</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8044</guid>
-            <pubDate>Fri, 14 Jan 2022 09:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource, NYSE:IS)는 금일 더욱 다양한 기능으로 새로워진아이언소스 익스체인지(ironSource Exchange,이하iSX)의 기능 확장을 공식 발표했다. 시장에서 가장 성숙한 인앱 광고 거래소 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[AD & Celeb] 꼭 필요한 필라테스 강사, 모델이 되겠습니다 김수빈]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8043</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8043</guid>
-            <pubDate>Fri, 14 Jan 2022 08:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[보이는 것 보다 보이지 않는 것이 더 중요하고 핵심인 경우가 많다. 필라테스 강사인 김수빈은 자신의 몸을 잘 알기 위해서는 호흡에 집중하고 자신의 몸에 집중할 것을 강조한다. 그는 촬영에 임해서도 자신에 집중하고 표현하 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
