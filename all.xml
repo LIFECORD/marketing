@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 14:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 15:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8047</guid>
             <pubDate>Sat, 15 Jan 2022 09:09:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다음 중, 유저 설문조사를 통해 광고 성과를 측정하고 인사이트를 제공하는 유튜브 서비스의 이름은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 19 Jan 2022 14:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->다음 중, 유저 설문조사를 통해 광고 성과를 측정하고 인사이트를 제공하는 유튜브 서비스의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1345_1" value="1" class="AB-radio" id="PQ_BD5826_1345_1_0"><label for="PQ_BD5826_1345_1_0" id="label_PQ_BD5826_1345_1_0">(A) 구글 애즈 서베이(GAS)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1345_1" value="2" class="AB-radio" id="PQ_BD5826_1345_1_1"><label for="PQ_BD5826_1345_1_1" id="label_PQ_BD5826_1345_1_1">(B) 브랜드 리프트 서베이(BLS)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1345_1" value="3" class="AB-radio" id="PQ_BD5826_1345_1_2"><label for="PQ_BD5826_1345_1_2" id="label_PQ_BD5826_1345_1_2">(C) 비디오 오디언스 서베이(VAS)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1345_1" value="4" class="AB-radio" id="PQ_BD5826_1345_1_3"><label for="PQ_BD5826_1345_1_3" id="label_PQ_BD5826_1345_1_3">(D) 타겟 인사이트 서베이(TIS)</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인 55만명 손실보상 500만원 선지급…설 전 대다수에 지급 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
