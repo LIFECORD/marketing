@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 23:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 00:54:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,13 +203,6 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빈 택배 보내고, 가짜 후기 쓴 업체 적발 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56841</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56841</guid>
-            <pubDate>Mon, 20 Dec 2021 06:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[카피 쓰다 막힐 때마다 꺼내 읽어요 📖 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-5637-28</link>
             <guid>https://www.i-boss.co.kr/ab-5637-28</guid>
@@ -280,18 +273,18 @@
             <content:encoded><![CDATA[baljunso]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[새해맞이 '새로운 마케팅'을 위한 3가지 팁 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-74668-2525</link>
-            <guid>https://www.i-boss.co.kr/ab-74668-2525</guid>
-            <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아드리엘]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[노션 마스터를 원하신다면? `된다! 하루 5분 노션 활.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-436</link>
             <guid>https://www.i-boss.co.kr/ab-2973-436</guid>
             <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[새해맞이 '새로운 마케팅'을 위한 3가지 팁 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-74668-2525</link>
+            <guid>https://www.i-boss.co.kr/ab-74668-2525</guid>
+            <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아드리엘]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[주접생성기 사이트 너무 웃기네욬ㅋㅋ (아이보스 ─ 인기글)]]></title>
@@ -315,6 +308,13 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[디자이너 필독! 작업 속도 올리고 싶다면 알아두세요.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57034</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57034</guid>
+            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[원제]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[아마존, 쿠팡의 성공공식을 마케팅에 대입해보기 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56886</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56886</guid>
@@ -329,13 +329,6 @@
             <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[디자이너 필독! 작업 속도 올리고 싶다면 알아두세요.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57034</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57034</guid>
-            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[원제]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[카카오뷰 수익도 장난 아니네요~ (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38058</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38058</guid>
@@ -348,6 +341,21 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56887</guid>
             <pubDate>Tue, 27 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케터허브]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[roas1000% 찍는 광고소재 이미지 공통점 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57010</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57010</guid>
+            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[인프피]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신중년, 옷은 그래도 입어 보고 사야... 남성은 가격과 성능, 여성은 디자인과 유행 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8073</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8073</guid>
+            <pubDate>Wed, 19 Jan 2022 08:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)가 5060세대 겨울철 의류 트렌드를 조사했다. 임팩트피플스가 에이풀(Aful)을 통해 2021년 12월 1일부터 2021년 12월 15일까지 50세 이상, 350명을 대상으로 조사한 결과, 50세 이상 신중년이  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[1월 19일 마케팅 뉴스클리핑] 뉴스, 포털유튜브로 본다는 비율 더 높아졌다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,18 +590,17 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[Insight Curation] Nissan Motor Co., Ltd. ProPILOT Golf Ball (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8042</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8042</guid>
-            <pubDate>Fri, 14 Jan 2022 08:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[TBWA 하쿠호도는 닛산의 프로파일럿 2.0 반자율주행 시스템에서 영감을 받아, 스스로 경로를 파악해 홀로 찾아가는 프로파일럿 골프볼을 제작했습니다. 목적지까지 미리 정해진 경로를 따라 가는 이 골프볼은 선수들이 퍼트를 할 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[신중년, "옷은 그래도 입어 보고 사야"... 남성은 ‘가격과 성능’, 여성은 ‘디자인과 유행’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8073</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8073</guid>
+            <pubDate>Wed, 19 Jan 2022 00:53:42 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[1월 19일 마케팅 뉴스클리핑] 뉴스, 포털·유튜브로 본다는 비율 더 높아졌다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8071</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8071</guid>
-            <pubDate>Tue, 18 Jan 2022 23:15:04 GMT</pubDate>
+            <pubDate>Wed, 19 Jan 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[Insight Curation] Nissan Motor Co., Ltd. ProPILOT Golf Ball (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8042</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8042</guid>
-            <pubDate>Fri, 14 Jan 2022 08:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중, 유저 설문조사를 통해 광고 성과를 측정하고 인사이트를 제공하는 유튜브 서비스의 이름은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 18 Jan 2022 23:15:16 GMT</pubDate>
+            <pubDate>Wed, 19 Jan 2022 00:53:54 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중, 유저 설문조사를 통해 광고 성과를 측정하고 인사이트를 제공하는 유튜브 서비스의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
