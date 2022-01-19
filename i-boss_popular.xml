@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-19T06:20:29.890Z</updated>
+    <updated>2022-01-19T07:13:43.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -153,7 +153,7 @@
         <content type="html"><![CDATA[아드리엘]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022ver. 스마트스토어로 테크트리]]></title>
+        <title type="html"><![CDATA[2022ver. 스마트스토어 성공테크트리]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56990</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56990"/>
         <updated>2022-01-10T00:00:00.000Z</updated>
@@ -188,6 +188,13 @@
         <content type="html"><![CDATA[햅삐햅삐]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[폰트 저작권 위반으로 100만원 내라구요?? +) 찐 상업..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57044</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57044"/>
+        <updated>2022-01-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[휴이언니]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[roas1000% 찍는 광고소재 이미지 공통점]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57010</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57010"/>
@@ -207,12 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-6141-56887"/>
         <updated>2022-12-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[마케터허브]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[굳이 마케팅 자격증 딴다면? 어떤게 좋을까요?]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38109</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38109"/>
-        <updated>2022-01-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[rdg]]></content>
     </entry>
 </feed>
