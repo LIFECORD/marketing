@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 01:57:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 02:30:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[rdg]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[에이블리, 지난해 거래규모 7000억원 달성 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8076</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8076</guid>
+            <pubDate>Wed, 19 Jan 2022 11:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[뷰티, 라이프 등 개별 카테고리 성장세    온라인 패션 플랫폼 에이블리 지난해 거래액이 7000억원을 넘긴 것으로 집계됐다.  에이블리코퍼레이션은 에이블리 단일 애플리케이션으로 2021년 거래액 7000억원을 달성했다고 18일 밝혔 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16425585213114.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[롯데멤버스도 선물하기 서비스 시작 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8075</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8075</guid>
@@ -582,25 +590,24 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[위메프, 메타쇼핑D2C 전략 확대한다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8045</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8045</guid>
-            <pubDate>Fri, 14 Jan 2022 11:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[소셜커머스로 시작한 위메프 새로운 도전나서 검색 AI 기술에 휴먼 큐레이션 더한 메타쇼핑 선언 브랜드사 자사몰 연동시킨 D2C 채널 확대...쇼핑 콘텐츠 늘려 소비자 확보    위메프가  이커머스 시장에서 지분 확대를 위한 카드 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16421280409204.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[에이블리, 지난해 거래규모 7000억원 달성 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8076</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8076</guid>
+            <pubDate>Wed, 19 Jan 2022 02:30:21 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[롯데멤버스도 선물하기 서비스 시작 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8075</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8075</guid>
-            <pubDate>Wed, 19 Jan 2022 01:57:27 GMT</pubDate>
+            <pubDate>Wed, 19 Jan 2022 10:25:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[올해 소비 트렌드는 ‘U.N.L.O.C.K’! (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8074</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8074</guid>
-            <pubDate>Wed, 19 Jan 2022 01:57:27 GMT</pubDate>
+            <pubDate>Wed, 19 Jan 2022 10:01:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[위메프, 메타쇼핑·D2C 전략 확대한다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8045</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8045</guid>
-            <pubDate>Fri, 14 Jan 2022 11:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중, 유저 설문조사를 통해 광고 성과를 측정하고 인사이트를 제공하는 유튜브 서비스의 이름은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 19 Jan 2022 01:57:37 GMT</pubDate>
+            <pubDate>Wed, 19 Jan 2022 02:30:34 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중, 유저 설문조사를 통해 광고 성과를 측정하고 인사이트를 제공하는 유튜브 서비스의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
