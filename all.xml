@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 06:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 07:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[마케터허브]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[Book] 그 회사의 브랜딩 : 처음부터 잘난 브랜드는 없다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8088</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8088</guid>
+            <pubDate>Thu, 20 Jan 2022 07:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[언니 없이 하지마. 이 홍보 문구는 많은 사람의 뇌리에 강남언니라는 브랜드를 확실히 각인시켰다. 지금은 미용의료 관련 정보 하면 가장 먼저 떠오르는 플랫폼이지만, 직원조차 강남언니라는 말을 밖으로 내보이기 꺼리던 시 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[CJ홈쇼핑, 황금알 보험판매 접는다 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8087</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8087</guid>
@@ -582,18 +590,17 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[해외 크리에이티브] 감정을 표현하는 LED 안면 마스크 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8057</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8057</guid>
-            <pubDate>Mon, 17 Jan 2022 08:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19가 발병하면서 필수품인 마스크. 마스크를 벗을 수 있을 것이라는 희망이 생기면, 바로 변종이 생겨 마스크를 놓지 못하게 하고 있다. 이런 상황 속에서도사람들은 마스크와 관련한 다양한 크리에이티브를 선보였다. 마 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[Book] 그 회사의 브랜딩 : 처음부터 잘난 브랜드는 없다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8088</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8088</guid>
+            <pubDate>Thu, 20 Jan 2022 07:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[CJ홈쇼핑, '황금알' 보험판매 접는다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8087</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8087</guid>
-            <pubDate>Thu, 20 Jan 2022 06:20:05 GMT</pubDate>
+            <pubDate>Thu, 20 Jan 2022 06:19:51 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[해외 크리에이티브] 감정을 표현하는 LED 안면 마스크 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8057</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8057</guid>
-            <pubDate>Mon, 17 Jan 2022 08:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 조건을 보고 알 수 있는 '보스 가글'의 CPS는 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 20 Jan 2022 06:20:17 GMT</pubDate>
+            <pubDate>Thu, 20 Jan 2022 07:16:15 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 조건을 보고 알 수 있는 '보스 가글'의 CPS는 얼마일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/08b9555e58ba4345ce3239083949c04b_16420668547485.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

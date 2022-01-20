@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-01-20T06:20:27.334Z</updated>
+    <updated>2022-01-20T07:16:24.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Book] 그 회사의 브랜딩 : 처음부터 잘난 브랜드는 없다]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8088</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8088"/>
+        <updated>2022-01-20T07:16:03.497Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CJ홈쇼핑, '황금알' 보험판매 접는다]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8087</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-8058</id>
         <link href="https://www.i-boss.co.kr/ab-2877-8058"/>
         <updated>2022-01-17T01:00:29.613Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[해외 크리에이티브] 감정을 표현하는 LED 안면 마스크]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8057</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8057"/>
-        <updated>2022-01-17T01:00:29.614Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
