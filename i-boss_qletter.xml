@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 23:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 01:06:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자사몰, 뭐로 만드나요?]]></title>
+            <link>https://qletter.i-boss.co.kr/view/842097-%EC%9E%90%EC%82%AC%EB%AA%B0_%EB%AD%90%EB%A1%9C_%EB%A7%8C%EB%93%9C%EB%82%98%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/842097-%EC%9E%90%EC%82%AC%EB%AA%B0_%EB%AD%90%EB%A1%9C_%EB%A7%8C%EB%93%9C%EB%82%98%EC%9A%94/</guid>
+            <pubDate>Thu, 20 Jan 2022 01:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/842097-자사몰_뭐로_만드나요/">
+						<div class="thumb"><img src="/images/qletter_842097.png"></div>
+						<p><strong>자사몰, 뭐로 만드나요?</strong>2022.01.20</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_842097.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[계속되는 택배 파업, 업계의 대안은? 🤔]]></title>
             <link>https://qletter.i-boss.co.kr/view/836666-%EA%B3%84%EC%86%8D%EB%90%98%EB%8A%94_%ED%83%9D%EB%B0%B0_%ED%8C%8C%EC%97%85_%EC%97%85%EA%B3%84%EC%9D%98_%EB%8C%80%EC%95%88%EC%9D%80/</link>
@@ -127,17 +138,6 @@
 						<p><strong> 네이버의 새로운 검색, 에어서치</strong>2021.12.13</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_794279.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타버스가 어려운 보스님께 ❤]]></title>
-            <link>https://qletter.i-boss.co.kr/view/791045-%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4%EA%B0%80_%EC%96%B4%EB%A0%A4%EC%9A%B4_%EB%B3%B4%EC%8A%A4%EB%8B%98%EA%BB%98/</link>
-            <guid>https://qletter.i-boss.co.kr/view/791045-%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4%EA%B0%80_%EC%96%B4%EB%A0%A4%EC%9A%B4_%EB%B3%B4%EC%8A%A4%EB%8B%98%EA%BB%98/</guid>
-            <pubDate>Fri, 24 Dec 2021 06:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/791045-메타버스가_어려운_보스님께/">
-						<div class="thumb"><img src="/images/qletter_791045.png"></div>
-						<p><strong> 메타버스가 어려운 보스님께 ❤</strong>2021.12.09</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_791045.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
