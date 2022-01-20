@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 22:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 23:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1월 21일 마케팅 뉴스클리핑] 인스타그램, 크리에이터 구독 시범 운영 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8090</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8090</guid>
+            <pubDate>Fri, 21 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 인스타그램, 크리에이터 `구독` 시범 운영  인스타그램이 미국 내 소수 인플루언서를 대상으로 크리에이터 구독 기능을 시범 운영한다. 시범 운영에 참여하는 크리에이터는 라이브 방송과 스토리를 유료화할 수 있다. 구독자 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_130d37c284b637783d249e2c649c78b1_71364_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국트렌드마이크로, 더욱 광범위해진 공격 접점 및 위협 증가에 대응할 통합 사이버 보안 플랫폼 필수]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8089</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8061</guid>
             <pubDate>Mon, 17 Jan 2022 08:47:00 GMT</pubDate>
             <content:encoded><![CDATA[당초CES 2022는 완전한 오프라인콘퍼런스로의 복귀로 준비했다. 그러나 오미크론으로 인해구글, 마이크로소프트, 아마존, 메타, 틱톡, 핀터레스트, 트위터, IBM, 인텔, 프록터&amp;갬블, GM, BMW, 메르세데스 벤츠 등은 참가를 수정하거나 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외 크리에이티브] 5천명의 사람들이 징글의 단서를 이용해 스웨덴 맥도날드의 비밀 번호로 전화를 걸고 있다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8060</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8060</guid>
-            <pubDate>Mon, 17 Jan 2022 08:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[맥도날드 징글은 세계에서 가장 유명한 멜로디 중 하나다. 많은 사람들이 모르는 것은 전화기의 키패드에서 잘 알려진 징글을 연주할 수 있다는 것이다. 맥도날드의 최근 캠페인은 사람들이 골든 넘버를 찾고 맥도날드에서 독 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
