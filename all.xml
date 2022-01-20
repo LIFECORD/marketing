@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 05:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 06:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -259,18 +259,18 @@
             <content:encoded><![CDATA[원제]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[노션 마스터를 원하신다면? `된다! 하루 5분 노션 활.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-436</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-436</guid>
-            <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[추천] 50년 동안 검증된 팔리는 상세페이지 원리 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56877</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56877</guid>
             <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[햅삐햅삐]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[노션 마스터를 원하신다면? `된다! 하루 5분 노션 활.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-436</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-436</guid>
+            <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[주접생성기 사이트 너무 웃기네욬ㅋㅋ (아이보스 ─ 인기글)]]></title>
@@ -280,18 +280,18 @@
             <content:encoded><![CDATA[체르시]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[생일이에용! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38015</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38015</guid>
-            <pubDate>Wed, 22 Dec 2021 07:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[렐라뿅]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022ver. 스마트스토어 성공테크트리 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56990</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56990</guid>
             <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[생일이에용! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38015</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38015</guid>
+            <pubDate>Wed, 22 Dec 2021 07:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[렐라뿅]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[50가지 리스트로 정리해본 온라인 마케팅 순서도 (아이보스 ─ 인기글)]]></title>
@@ -308,18 +308,18 @@
             <content:encoded><![CDATA[아드리엘]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블로그 글쓰기 1% 비밀(체류시간 5분 만들기) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56962</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56962</guid>
-            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[해적보물선]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[폰트 저작권 위반으로 100만원 내라구요?? +) 찐 상업.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57044</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57044</guid>
             <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[블로그 글쓰기 1% 비밀(체류시간 5분 만들기) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56962</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56962</guid>
+            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[해적보물선]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[roas1000% 찍는 광고소재 이미지 공통점 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56887</guid>
             <pubDate>Tue, 27 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케터허브]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CJ홈쇼핑, 황금알 보험판매 접는다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8087</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8087</guid>
+            <pubDate>Thu, 20 Jan 2022 06:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[금융서비스사업팀 규모 축소 통폐합 가구 보험 가입률 81% 시장 포화 모바일판 홈쇼핑 재건축에 보험 제외   국내 1위 홈쇼핑 CJ온스타일이 보험 상품 판매를 전면 중단했다. TV 홈쇼핑이 황금알로 불리던 보험 판매를 중단하는 것 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[신인섭 칼럼] 호랑이 해의 결의 - 미국 사람 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[박재항의 反轉 커뮤니케이션] 기존 하는 일을 다르게 정의하니 반전이 일어난다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8056</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8056</guid>
-            <pubDate>Mon, 17 Jan 2022 08:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[광고회사 생활을 시작한 지 얼마 안 된 1993년 주요 광고주였던 모 식품회사에서 색다른 임무를 주었다. 자신들이 새로운 음료를 개발하고 있는데, 그 조사 과정에 광고회사에서도 참가하라는 것이었다. 같이 조사하던 일도 많고 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[CJ홈쇼핑, '황금알' 보험판매 접는다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8087</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8087</guid>
+            <pubDate>Thu, 20 Jan 2022 06:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[신인섭 칼럼] 호랑이 해의 결의 - 미국 사람 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[박재항의 反轉 커뮤니케이션] 기존 하는 일을 다르게 정의하니 반전이 일어난다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8056</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8056</guid>
-            <pubDate>Mon, 17 Jan 2022 08:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 조건을 보고 알 수 있는 '보스 가글'의 CPS는 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 20 Jan 2022 05:16:17 GMT</pubDate>
+            <pubDate>Thu, 20 Jan 2022 06:20:17 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 조건을 보고 알 수 있는 '보스 가글'의 CPS는 얼마일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/08b9555e58ba4345ce3239083949c04b_16420668547485.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

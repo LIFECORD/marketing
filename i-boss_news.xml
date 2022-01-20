@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-01-20T05:16:26.636Z</updated>
+    <updated>2022-01-20T06:20:27.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CJ홈쇼핑, '황금알' 보험판매 접는다]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8087</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8087"/>
+        <updated>2022-01-20T06:20:05.235Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[신인섭 칼럼] 호랑이 해의 결의 - 미국 사람]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8086</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-8057</id>
         <link href="https://www.i-boss.co.kr/ab-2877-8057"/>
         <updated>2022-01-17T01:00:29.614Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박재항의 反轉 커뮤니케이션] 기존 하는 일을 다르게 정의하니 반전이 일어난다]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8056</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8056"/>
-        <updated>2022-01-17T01:00:29.622Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
