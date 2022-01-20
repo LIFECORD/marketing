@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 07:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 08:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국트렌드마이크로, 더욱 광범위해진 공격 접점 및 위협 증가에 대응할 통합 사이버 보안 플랫폼 필수]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8089</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8089</guid>
+            <pubDate>Thu, 20 Jan 2022 08:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 사이버 보안 기업 트렌드마이크로(한국 지사장 김진광)는COVID-19이후 더욱 광범위해진 보안 공격 접점 및 보안 위협 증가에 대응하기 위해서는XDR에 연계된 통합적인 보안 플랫폼이 필수적이라고2022년 전략 발표 기자간담 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[Book] 그 회사의 브랜딩 : 처음부터 잘난 브랜드는 없다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8088</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8060</guid>
             <pubDate>Mon, 17 Jan 2022 08:45:00 GMT</pubDate>
             <content:encoded><![CDATA[맥도날드 징글은 세계에서 가장 유명한 멜로디 중 하나다. 많은 사람들이 모르는 것은 전화기의 키패드에서 잘 알려진 징글을 연주할 수 있다는 것이다. 맥도날드의 최근 캠페인은 사람들이 골든 넘버를 찾고 맥도날드에서 독 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 수면에 가장 큰 영향을 미치는 소셜 미디어 앱은?]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8058</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8058</guid>
-            <pubDate>Mon, 17 Jan 2022 08:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[아마도 대부분의 사람들이 자기 전까지 휴대폰을 사용할 것이다. 일과 후 긴장을 풀기 위해, 내일을 준비하기 위해, 또는 잠이 오지 않아서... 다양한 이유로 휴대폰을 사용한다. 그런데 이러한 행동은 수면에 도움이 되지 않는 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
