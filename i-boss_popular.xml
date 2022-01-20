@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-20T04:21:36.651Z</updated>
+    <updated>2022-01-20T05:16:26.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -125,11 +125,25 @@
         <content type="html"><![CDATA[원제]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[노션 마스터를 원하신다면? `된다! 하루 5분 노션 활..]]></title>
+        <id>https://www.i-boss.co.kr/ab-2973-436</id>
+        <link href="https://www.i-boss.co.kr/ab-2973-436"/>
+        <updated>2022-01-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[당첨대쓔]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[추천] 50년 동안 검증된 팔리는 상세페이지 원리]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56877</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56877"/>
         <updated>2022-12-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[햅삐햅삐]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주접생성기 사이트 너무 웃기네욬ㅋㅋ]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38168</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38168"/>
+        <updated>2022-01-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[체르시]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[생일이에용!]]></title>
@@ -139,20 +153,6 @@
         <content type="html"><![CDATA[렐라뿅]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[50가지 리스트로 정리해본 온라인 마케팅 순서도]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56910</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56910"/>
-        <updated>2022-12-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[baljunso]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노션 마스터를 원하신다면? `된다! 하루 5분 노션 활..]]></title>
-        <id>https://www.i-boss.co.kr/ab-2973-436</id>
-        <link href="https://www.i-boss.co.kr/ab-2973-436"/>
-        <updated>2022-01-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[당첨대쓔]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022ver. 스마트스토어 성공테크트리]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56990</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56990"/>
@@ -160,11 +160,11 @@
         <content type="html"><![CDATA[둥근마을]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주접생성기 사이트 너무 웃기네욬ㅋㅋ]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38168</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38168"/>
-        <updated>2022-01-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[체르시]]></content>
+        <title type="html"><![CDATA[50가지 리스트로 정리해본 온라인 마케팅 순서도]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56910</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56910"/>
+        <updated>2022-12-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[baljunso]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[새해맞이 '새로운 마케팅'을 위한 3가지 팁]]></title>
