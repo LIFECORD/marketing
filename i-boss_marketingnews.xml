@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 02:01:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 02:37:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틱톡, 인스타 이어 구독 테스트 진행]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8096</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8096</guid>
+            <pubDate>Fri, 21 Jan 2022 11:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[인플루언서, 일부 콘텐츠 유료화...제한적으로 시범 운영  미국 IT매체 디인포메이션, 엔가젯 등 외신은 20일(현지시간) 틱톡이 유료 구독 기능을 제한적으로 시범 운영한다고 보도했다.  인스타그램은 전날 크리에이터가 라이브 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버 인플루언서, 콘텐츠 큐레이션 기능 공개]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8095</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8095</guid>
+            <pubDate>Fri, 21 Jan 2022 11:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[`인플루언서 토픽` 기능 선봬... 콘텐츠 재구성인플루언서 검색 외에 마이구독, 주제판 등 네이버 메인으로 노출 확대   네이버가 인플루언서(창작자) 새 창작 활동을 지원하는 콘텐츠 큐레이션 기능 `인플루언서 토픽`을 선보였 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_1642731437788.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이언소스, 2022년 게임 업계에서 주목해야 할 6가지 트렌드 선정]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8094</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8067</guid>
             <pubDate>Tue, 18 Jan 2022 09:03:00 GMT</pubDate>
             <content:encoded><![CDATA[이노션 월드와이드(대표이사 이용우, 이하 이노션)는 코로나19 이후에도 주요 기업과 해외 광고주 대응 등 비대면 PT가 일상화, 보편화될 것으로 예상됨에 따라 첨단 화상 PT시설인 스튜디오 V를 오픈했다고 18일 밝혔다. 이번에  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT SEOUL 2022 1월 19일 개최... K-콘텐츠와 NFT 산업의 현재와 미래 조망]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8066</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8066</guid>
-            <pubDate>Tue, 18 Jan 2022 08:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[가 1월 19일 그랜드 인터콘티넨탈 서울 파르나스 5층 그랜드볼룸에서 열린다. 는 대한민국 콘텐츠, 디지털 자산화의 시작이라는 주제로 폭발적으로 성장하고 있는 NFT 시장의 현재와 미래를 조망하고 NFT를 활용하는 메타버스와의 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 선한 영향력을 끼치는 광고를 만드는 광고쟁이가 되겠습니다 오수빈]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8065</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8065</guid>
-            <pubDate>Tue, 18 Jan 2022 08:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[어릴 때부터 만들기 좋아하고 그리기 좋아하던 아이는자연스럽게 디자인을 전공했다. 그 아이는 사람의 마음을 움직이고 행동까지 이끌어 내는 광고의 매력에 흠뻑 빠졌다. 실패하고 깨지더라도 광고 공모전에 출품했고, 성과 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
