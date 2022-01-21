@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 00:54:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 02:01:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이언소스, 2022년 게임 업계에서 주목해야 할 6가지 트렌드 선정]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8094</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8094</guid>
+            <pubDate>Fri, 21 Jan 2022 10:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource)는지난 해 게임 업계의 주요 인사이트를 분석하여2022년 게임 업계에서6가지 주목해야 할 트렌드를 꼽았다. IPO(기업상장)에서iOS 14업데이트,헤드라인을 떠들썩하게 장 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[한국PR협회, 한류의 중심 K드라마를 주제로 PR토크 개최]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8093</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 18 Jan 2022 08:41:00 GMT</pubDate>
             <content:encoded><![CDATA[어릴 때부터 만들기 좋아하고 그리기 좋아하던 아이는자연스럽게 디자인을 전공했다. 그 아이는 사람의 마음을 움직이고 행동까지 이끌어 내는 광고의 매력에 흠뻑 빠졌다. 실패하고 깨지더라도 광고 공모전에 출품했고, 성과 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[1월 18일 마케팅 뉴스클리핑] 페북보다 자주 보는 당근 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8063</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8063</guid>
-            <pubDate>Tue, 18 Jan 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 모바일 다음뉴스 개편 또 연기 일부 기능 개선 미비  카카오가 다음 뉴스 개편을 또 연기했다. 카카오는 지난 14일 오후 언론사들에 모바일 다음 개편 시점이 17일 오전 1시로 확정됐다고 공지했다. 그러나 16일 다시 메일을  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_9369cf6626649880ba1990109db0f545_16424109501413.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

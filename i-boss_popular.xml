@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-21T00:54:59.047Z</updated>
+    <updated>2022-01-21T02:01:02.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -132,6 +132,13 @@
         <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[폰트 저작권 위반으로 100만원 내라구요?? +) 찐 상업..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57044</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57044"/>
+        <updated>2022-01-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[휴이언니]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[주접생성기 사이트 너무 웃기네욬ㅋㅋ]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38168</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38168"/>
@@ -158,13 +165,6 @@
         <link href="https://www.i-boss.co.kr/ab-74668-2525"/>
         <updated>2022-01-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아드리엘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폰트 저작권 위반으로 100만원 내라구요?? +) 찐 상업..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57044</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57044"/>
-        <updated>2022-01-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[휴이언니]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[블로그 글쓰기 1% 비밀(체류시간 5분 만들기)]]></title>
