@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 08:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 09:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NFT SEOUL 2022 19일 성황리 개최, NFT 산업 전반에 걸친 이슈 점검하는 시간 가져]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8099</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8099</guid>
+            <pubDate>Fri, 21 Jan 2022 09:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[19일 NFT SEOUL 2022가 서울 삼성동 그랜드 인터콘티넨탈 서울 파르나스 5층 그랜드볼룸에서 성황리에 개막했다. NFT SEOUL 2022는 NFT와 메타버스 등 아트미술, 콘텐츠산업, 블록체인 및 디지털금융 산업 간의 협력관계를 모색하고 최신  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[TV뗀다... 신세계TV쇼핑, 신세계라이브쇼핑으로 변경]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8098</link>
@@ -56,7 +64,7 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[마케팅터들이 인플루언서 마케팅을 위해 틱톡으로 눈을 돌린다]]></title>
+            <title><![CDATA[마케터들이 인플루언서 마케팅을 위해 틱톡으로 눈을 돌린다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8091</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8091</guid>
             <pubDate>Fri, 21 Jan 2022 08:54:00 GMT</pubDate>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 18 Jan 2022 09:50:00 GMT</pubDate>
             <content:encoded><![CDATA[세계적인 시장조사 회사인 유로모니터 인터내셔널(Euromonitor International, 이하 유로모니터)은 17일(현지 시각) 글로벌 소비자 트렌드 10가지(Top 10 Global Consumer Trends 2022)를 발표했다. 유로모니터가 매년 발간하는 글로벌 소비자 트렌 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 ESG 트렌드는 환경]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8068</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8068</guid>
-            <pubDate>Tue, 18 Jan 2022 09:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근ESG가우리사회의주요화두로급부상하면서,2021년국민들의ESG에대한관심도전년에비해큰폭으로증가한것으로조사됐다. 18일종합커뮤니케이션그룹KPR(사장김주호)부설KPR디지털커뮤니케이션연구소가최근매스미디어와SNS(트위터 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_42924f6f0e8a8b762e22a12832791342_97057_6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
