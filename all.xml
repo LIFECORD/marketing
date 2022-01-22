@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 23:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 00:54:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -166,13 +166,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38074</guid>
             <pubDate>Fri, 31 Dec 2021 09:19:18 GMT</pubDate>
             <content:encoded><![CDATA[놀토]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[마케팅밈] 거절하게 만드는 마케터 유형 5가지 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38017</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38017</guid>
-            <pubDate>Thu, 23 Dec 2021 08:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 타임캡슐 📅 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +341,29 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38109</guid>
             <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[rdg]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[SW] 제가 지향하는 제품에 가치를 붙이는 광고기법 `.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56970</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56970</guid>
+            <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[상원1]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[해외 크리이에이티브] 안호이저부시, 진화된 로고와 시각적 아이덴티티로 리브랜딩 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8101</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8101</guid>
+            <pubDate>Sat, 22 Jan 2022 09:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[버드와이저, 버드 라이트, 부쉬, 조니 애플시드 등 미국 최대 맥주회사가 성장하는 `비욘드 비어` 포트폴리오를 반영한 고급스러운 리브랜딩을발표했다. 가장 눈에 띄는 점은 이 회사의 맥주와 보리의 `코너스톤`을 나타낼 뿐만  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인포그래픽] 웹을 지배하는 인터넷 기업은? (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8100</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8100</guid>
+            <pubDate>Sat, 22 Jan 2022 09:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[인터넷은 이제 공기와 같다. 없으면 안되는 것. 그런데 초기 인터넷의 모습을 기억하는 사람들은 얼마나 될까? 모뎀으로 접속하고, 웹의 픽셀화된 이미지는 잊혀지고 있다. 비주얼 캐피털리스트는 컴스코어(ComScore)의 미국 멀티 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[NFT SEOUL 2022 19일 성황리 개최, NFT 산업 전반에 걸친 이슈 점검하는 시간 가져 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -574,20 +590,18 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[MZ세대가 가장 많이 사용하는 전문몰 앱은? (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8070</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8070</guid>
-            <pubDate>Tue, 18 Jan 2022 10:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[사용자 순으로는 에이블리, 지그재그, 브랜디, 올리브영, 아이디어스, 무신사, 오늘의집 실행횟수 순으로는 에이블리, 지그재그, 아이디어스, 무신사, 오늘의집, 브랜디, 올리브영   앱/리테일 분석 서비스 와이즈앱리테일굿즈가 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_6cb4f02f6f833b30bf4643e0871c3744_7613_1.png" length="0" type="image/png"/>
+            <title><![CDATA[[해외 크리이에이티브] 안호이저부시, 진화된 로고와 시각적 아이덴티티로 리브랜딩 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8101</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8101</guid>
+            <pubDate>Sat, 22 Jan 2022 00:54:05 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유로모니터, TOP 10 글로벌 소비자 트렌드 2022 발간 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8069</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8069</guid>
-            <pubDate>Tue, 18 Jan 2022 09:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[세계적인 시장조사 회사인 유로모니터 인터내셔널(Euromonitor International, 이하 유로모니터)은 17일(현지 시각) 글로벌 소비자 트렌드 10가지(Top 10 Global Consumer Trends 2022)를 발표했다. 유로모니터가 매년 발간하는 글로벌 소비자 트렌 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[인포그래픽] 웹을 지배하는 인터넷 기업은? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8100</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8100</guid>
+            <pubDate>Sat, 22 Jan 2022 00:54:05 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘NFT SEOUL 2022’ 19일 성황리 개최, NFT 산업 전반에 걸친 이슈 점검하는 시간 가져 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[MZ세대가 가장 많이 사용하는 '전문몰' 앱은? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8070</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8070</guid>
-            <pubDate>Tue, 18 Jan 2022 10:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유로모니터, ‘TOP 10 글로벌 소비자 트렌드 2022’ 발간 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8069</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8069</guid>
-            <pubDate>Tue, 18 Jan 2022 09:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[최근 인스타그램이 '에디트 그리드(Edit Grid)'라는 서비스를 도입하기 위해 작업 중이라고 밝혔습니다. 다음 중 이 서비스의 기능으로 올바른 것은 무엇일까요?(hint: 1/13 뉴스클리핑 엿보고 정답 맞추기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 21 Jan 2022 23:16:43 GMT</pubDate>
+            <pubDate>Sat, 22 Jan 2022 00:54:17 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 인스타그램이 '에디트 그리드(Edit Grid)'라는 서비스를 도입하기 위해 작업 중이라고 밝혔습니다. 다음 중 이 서비스의 기능으로 올바른 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8029" target="_blank">1/13 뉴스클리핑 엿보고 정답 맞추기!</a>)</span></td>
 			</tr>
