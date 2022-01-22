@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 22:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 23:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,22 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[미국 광고시장 10개월 연속 확대, 2021년 12월 급감 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8103</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8103</guid>
+            <pubDate>Sun, 23 Jan 2022 08:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 12월 광고비는10개월 연속 증가했지만 최근 몇 달 사이 증가 속도가 눈에 띄게 둔화됐다. 미디어포스트가 미국 스탠더드 미디어 인덱스(SMI) 애드마켓 트래커를 분석한 결과, 21년 12월 총광고비는2020년 12월에 비해 1.4% 증가 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인포그래픽] 넷플릭스, 신규 가입자 감소를 막지 못하다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8102</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8102</guid>
+            <pubDate>Sun, 23 Jan 2022 08:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 팬데믹의 초기 단계에서 엄청난 증가세를 보인 후, 넷플릭스의 순 유료 가입자 증가는 2021년에 타격을 받았다.2020년 4분기 비교하면, 신규 가입자수는 2021년 4분기는전 세계적으로 828만 명에 그쳤다.이는 앞서 넷플릭스 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[[해외 크리이에이티브] 안호이저부시, 진화된 로고와 시각적 아이덴티티로 리브랜딩 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8101</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8101</guid>
@@ -574,20 +590,18 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[1월 19일 마케팅 뉴스클리핑] 뉴스, 포털유튜브로 본다는 비율 더 높아졌다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8071</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8071</guid>
-            <pubDate>Wed, 19 Jan 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 뉴스, 포털유튜브로 본다는 비율 더 높아졌다  지난해 포털과 동영상 플랫폼을 통해 뉴스를 접하는 비율이 더욱 높아진 것으로 조사됐다. 유튜브 등에 대해선 이제 뉴스 매체로서 공고한 위치를 점하기 시작했다는 평가다. 코 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a03605a4f84b8f0fb9c7b343b079b285_30864_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[미국 광고시장 10개월 연속 확대, 2021년 12월 급감 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8103</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8103</guid>
+            <pubDate>Sat, 22 Jan 2022 23:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[구글갑질방지법 덕분...네이버, 국내 최초로 게임팟에 외부결제 도입 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8072</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8072</guid>
-            <pubDate>Tue, 18 Jan 2022 12:29:04 GMT</pubDate>
-            <content:encoded><![CDATA[이른바 구글갑질방지법으로 불리는 전기통신사업법 개정에 따라네이버클라우드가 게임 전용 통합 매니지먼트 서비스인 게임팟(GAMEPOT)에 외부결제 서비스를 연동한다. 외부결제 모듈과 게임 서비스를 연동하는 국내 첫 사례다. ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[인포그래픽] 넷플릭스, 신규 가입자 감소를 막지 못하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8102</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8102</guid>
+            <pubDate>Sat, 22 Jan 2022 23:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[해외 크리이에이티브] 안호이저부시, 진화된 로고와 시각적 아이덴티티로 리브랜딩 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -786,18 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[1월 19일 마케팅 뉴스클리핑] 뉴스, 포털·유튜브로 본다는 비율 더 높아졌다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8071</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8071</guid>
-            <pubDate>Wed, 19 Jan 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“‘구글갑질방지법’ 덕분”...네이버, 국내 최초로 게임팟에 ‘외부결제’ 도입 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8072</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8072</guid>
-            <pubDate>Tue, 18 Jan 2022 12:29:04 GMT</pubDate>
-            <content:encoded><![CDATA[놀토]]></content:encoded>
+            <title><![CDATA[최근 인스타그램이 '에디트 그리드(Edit Grid)'라는 서비스를 도입하기 위해 작업 중이라고 밝혔습니다. 다음 중 이 서비스의 기능으로 올바른 것은 무엇일까요?(hint: 1/13 뉴스클리핑 엿보고 정답 맞추기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Sat, 22 Jan 2022 23:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->최근 인스타그램이 '에디트 그리드(Edit Grid)'라는 서비스를 도입하기 위해 작업 중이라고 밝혔습니다. 다음 중 이 서비스의 기능으로 올바른 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8029" target="_blank">1/13 뉴스클리핑 엿보고 정답 맞추기!</a>)</span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1347_1" value="1" class="AB-radio" id="PQ_BD5826_1347_1_0"><label for="PQ_BD5826_1347_1_0" id="label_PQ_BD5826_1347_1_0">(A) 좋아요 수를 숨길 수 있는 기능</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1347_1" value="2" class="AB-radio" id="PQ_BD5826_1347_1_1"><label for="PQ_BD5826_1347_1_1" id="label_PQ_BD5826_1347_1_1">(B) 인플루언서에게 유료 후원할 수 있는 기능</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1347_1" value="3" class="AB-radio" id="PQ_BD5826_1347_1_2"><label for="PQ_BD5826_1347_1_2" id="label_PQ_BD5826_1347_1_2">(C) 피드를 원하는 대로 재배치·편집할 수 있는 기능</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1347_1" value="4" class="AB-radio" id="PQ_BD5826_1347_1_3"><label for="PQ_BD5826_1347_1_3" id="label_PQ_BD5826_1347_1_3">(D) 피드의 게시물을 원하는 사람에게만 노출하는 기능</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시, 소상공인 50만명에 현금 100만원씩 준다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
