@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 00:54:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 01:56:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,13 +182,6 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카피 쓰다 막힐 때마다 꺼내 읽어요 📖 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-5637-28</link>
-            <guid>https://www.i-boss.co.kr/ab-5637-28</guid>
-            <pubDate>Thu, 23 Dec 2021 12:28:03 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[리뷰를 모으기 위한 기업들의 노력 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56985</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56985</guid>
@@ -348,6 +341,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56970</guid>
             <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[상원1]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우뇌가 떠먹여주는 성과개선 노하우 3가지 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57069</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57069</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[교육매니저]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[해외 크리이에이티브] 안호이저부시, 진화된 로고와 시각적 아이덴티티로 리브랜딩 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -593,14 +593,14 @@
             <title><![CDATA[[해외 크리이에이티브] 안호이저부시, 진화된 로고와 시각적 아이덴티티로 리브랜딩 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8101</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8101</guid>
-            <pubDate>Sat, 22 Jan 2022 00:54:05 GMT</pubDate>
+            <pubDate>Sat, 22 Jan 2022 09:25:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 웹을 지배하는 인터넷 기업은? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8100</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8100</guid>
-            <pubDate>Sat, 22 Jan 2022 00:54:05 GMT</pubDate>
+            <pubDate>Sat, 22 Jan 2022 09:25:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[최근 인스타그램이 '에디트 그리드(Edit Grid)'라는 서비스를 도입하기 위해 작업 중이라고 밝혔습니다. 다음 중 이 서비스의 기능으로 올바른 것은 무엇일까요?(hint: 1/13 뉴스클리핑 엿보고 정답 맞추기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 22 Jan 2022 00:54:17 GMT</pubDate>
+            <pubDate>Sat, 22 Jan 2022 01:55:56 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 인스타그램이 '에디트 그리드(Edit Grid)'라는 서비스를 도입하기 위해 작업 중이라고 밝혔습니다. 다음 중 이 서비스의 기능으로 올바른 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8029" target="_blank">1/13 뉴스클리핑 엿보고 정답 맞추기!</a>)</span></td>
 			</tr>
