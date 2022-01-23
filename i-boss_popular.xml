@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-23T12:25:49.989Z</updated>
+    <updated>2022-01-23T13:18:38.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -195,6 +195,13 @@
         <content type="html"><![CDATA[교육매니저]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[쇼핑몰, 무슨 솔루션으로 만들었나요? (feat. 설문조사..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57064</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57064"/>
+        <updated>2022-01-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[굳이 마케팅 자격증 딴다면? 어떤게 좋을까요?]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38109</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38109"/>
@@ -207,12 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-6141-56970"/>
         <updated>2022-01-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[상원1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼핑몰, 무슨 솔루션으로 만들었나요? (feat. 설문조사..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57064</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57064"/>
-        <updated>2022-01-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
 </feed>
