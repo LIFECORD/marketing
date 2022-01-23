@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 13:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 14:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,18 +238,18 @@
             <content:encoded><![CDATA[진민우]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022ver. 스마트스토어 성공테크트리 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56990</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56990</guid>
-            <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[폰트 저작권 위반으로 100만원 내라구요?? +) 찐 상업.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57044</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57044</guid>
             <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022ver. 스마트스토어 성공테크트리 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56990</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56990</guid>
+            <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[새해맞이 '새로운 마케팅'을 위한 3가지 팁 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[최근 인스타그램이 '에디트 그리드(Edit Grid)'라는 서비스를 도입하기 위해 작업 중이라고 밝혔습니다. 다음 중 이 서비스의 기능으로 올바른 것은 무엇일까요?(hint: 1/13 뉴스클리핑 엿보고 정답 맞추기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 23 Jan 2022 13:18:28 GMT</pubDate>
+            <pubDate>Sun, 23 Jan 2022 14:16:35 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 인스타그램이 '에디트 그리드(Edit Grid)'라는 서비스를 도입하기 위해 작업 중이라고 밝혔습니다. 다음 중 이 서비스의 기능으로 올바른 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8029" target="_blank">1/13 뉴스클리핑 엿보고 정답 맞추기!</a>)</span></td>
 			</tr>
