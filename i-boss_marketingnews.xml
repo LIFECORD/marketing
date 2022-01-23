@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 22:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 23:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1월 24일 마케팅 뉴스클리핑] 네이버, 인플루언서 콘텐츠 노출 확대한다 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8097</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8097</guid>
+            <pubDate>Mon, 24 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버, 인플루언서 콘텐츠 노출 확대한다  네이버가 인플루언서 콘텐츠 노출 영역을 메인 화면으로 확대한다. 네이버는 인플루언서들의 콘텐츠 큐레이션 기능 `인플루언서 토픽`을 지난 19일부터 선보였다. 인플루언서 토픽 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_af4069172a79e4aeb87e8cee80ea390c_70229_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마인크래프트, 로블록스 및 포트나이트 게임 트렌드가 브랜드에 미치는 영향]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8106</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 20 Jan 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. CJ대한통운 파업 장기화... 배송 발목 잡힌 이커머스  CJ대한통운 택배노조의 파업이 3주 차에 들어선 가운데, 여전히 노사 양측의 입장이 첨예하게 대립하면서 설 명절을 앞두고 배송 대란이 현실화되는 분위기다. 이에 이커머 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_447af3185b908b2ef46b2b58663df516_95821_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이블리, 지난해 거래규모 7000억원 달성]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8076</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8076</guid>
-            <pubDate>Wed, 19 Jan 2022 11:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[뷰티, 라이프 등 개별 카테고리 성장세    온라인 패션 플랫폼 에이블리 지난해 거래액이 7000억원을 넘긴 것으로 집계됐다.  에이블리코퍼레이션은 에이블리 단일 애플리케이션으로 2021년 거래액 7000억원을 달성했다고 18일 밝혔 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16425585213114.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
