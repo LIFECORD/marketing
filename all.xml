@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 00:55:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 02:05:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쓰레기도 줍고, 관심도 얻고 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/844568-%EC%93%B0%EB%A0%88%EA%B8%B0%EB%8F%84_%EC%A4%8D%EA%B3%A0_%EA%B4%80%EC%8B%AC%EB%8F%84_%EC%96%BB%EA%B3%A0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/844568-%EC%93%B0%EB%A0%88%EA%B8%B0%EB%8F%84_%EC%A4%8D%EA%B3%A0_%EA%B4%80%EC%8B%AC%EB%8F%84_%EC%96%BB%EA%B3%A0/</guid>
+            <pubDate>Mon, 24 Jan 2022 02:04:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/844568-쓰레기도_줍고_관심도_얻고/">
+						<div class="thumb"><img src="/images/qletter_844568.png"></div>
+						<p><strong>쓰레기도 줍고, 관심도 얻고</strong>2022.01.24</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_844568.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[자사몰, 뭐로 만드나요? (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/842097-%EC%9E%90%EC%82%AC%EB%AA%B0_%EB%AD%90%EB%A1%9C_%EB%A7%8C%EB%93%9C%EB%82%98%EC%9A%94/</link>
@@ -127,17 +138,6 @@
 						<p><strong>고객 취향을 저격하는 마케팅 사례</strong>2021.12.16</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_800275.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버의 새로운 검색, 에어서치 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/794279-%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9D%98_%EC%83%88%EB%A1%9C%EC%9A%B4_%EA%B2%80%EC%83%89_%EC%97%90%EC%96%B4%EC%84%9C%EC%B9%98/</link>
-            <guid>https://qletter.i-boss.co.kr/view/794279-%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9D%98_%EC%83%88%EB%A1%9C%EC%9A%B4_%EA%B2%80%EC%83%89_%EC%97%90%EC%96%B4%EC%84%9C%EC%B9%98/</guid>
-            <pubDate>Fri, 24 Dec 2021 06:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/794279-네이버의_새로운_검색_에어서치/">
-						<div class="thumb"><img src="/images/qletter_794279.png"></div>
-						<p><strong> 네이버의 새로운 검색, 에어서치</strong>2021.12.13</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_794279.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[아묻따 저장 필수! 피와 살이 되는 마케팅 필수 참고 .. (아이보스 ─ 인기글)]]></title>
@@ -301,6 +301,13 @@
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[쇼핑몰, 무슨 솔루션으로 만들었나요? (feat. 설문조사.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57064</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57064</guid>
+            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[카카오뷰 수익도 장난 아니네요~ (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38058</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38058</guid>
@@ -315,11 +322,11 @@
             <content:encoded><![CDATA[마케터허브]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쇼핑몰, 무슨 솔루션으로 만들었나요? (feat. 설문조사.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57064</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57064</guid>
-            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
+            <title><![CDATA[우뇌가 떠먹여주는 성과개선 노하우 3가지 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57069</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57069</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[교육매니저]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SNS 영상 광고 효과? 이거 4개만 알면 끝!! (아이보스 ─ 인기글)]]></title>
@@ -327,13 +334,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57006</guid>
             <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[영상팁]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우뇌가 떠먹여주는 성과개선 노하우 3가지 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57069</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57069</guid>
-            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[교육매니저]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[굳이 마케팅 자격증 딴다면? 어떤게 좋을까요? (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56970</guid>
             <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[상원1]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡, 2022 뷰티 브렌드 키워드 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8109</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8109</guid>
+            <pubDate>Mon, 24 Jan 2022 10:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[빅데이이터로 분석한 올해의 뷰티 트렌드 키워드 `R.E.A.L.M.E` 라이프스타일에 맞춤 고객경험 제공    쿠팡이 자체 빅데이터를 기반으로 올해 뷰티 제품 소비 패턴을 예측한 2022 뷰티 트렌드 키워드를 24일 발표했다.    최근 유행에 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_1642988090842.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금까지 슈퍼볼 LVI 광고는 어떻게 진행되고 있을까? (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,25 +590,24 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[트렌드모니터] 사회가 불안할수록 운세나 점을 보려는 사람들이 많아져... 스마트폰 운세 앱 가장 많이 이용 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8079</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8079</guid>
-            <pubDate>Thu, 20 Jan 2022 08:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[시장조사전문기업 엠브레인 트렌드모니터가 전국 만 19세~59세 성인 남녀 1,000명을 대상으로 새해 계획 및 운세 서비스 관련 인식 조사를 실시한 결과, 올해도 어김 없이 새해를 맞아 새로운 마음으로 계획과 목표를 세우는 사람 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[쿠팡, 2022 뷰티 브렌드 키워드 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8109</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8109</guid>
+            <pubDate>Mon, 24 Jan 2022 02:05:28 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지금까지 슈퍼볼 LVI 광고는 어떻게 진행되고 있을까? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8108</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8108</guid>
-            <pubDate>Mon, 24 Jan 2022 00:55:07 GMT</pubDate>
+            <pubDate>Mon, 24 Jan 2022 08:48:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코카콜라, 슈퍼볼과 베이징 동계 올림픽 캠페인 진행하지 않을 듯 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8107</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8107</guid>
-            <pubDate>Mon, 24 Jan 2022 00:55:07 GMT</pubDate>
+            <pubDate>Mon, 24 Jan 2022 08:47:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[트렌드모니터] 사회가 불안할수록 운세나 점을 보려는 사람들이 많아져... ‘스마트폰 운세 앱' 가장 많이 이용 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8079</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8079</guid>
-            <pubDate>Thu, 20 Jan 2022 08:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지에서 설명하고 있는 트렌드는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 24 Jan 2022 00:55:19 GMT</pubDate>
+            <pubDate>Mon, 24 Jan 2022 02:05:39 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 설명하고 있는 트렌드는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/92efc6813fed5baa40aca71e15b0b3cb_16426537162287.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

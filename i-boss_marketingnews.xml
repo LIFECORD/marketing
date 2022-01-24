@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 00:55:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 02:05:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡, 2022 뷰티 브렌드 키워드 공개]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8109</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8109</guid>
+            <pubDate>Mon, 24 Jan 2022 10:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[빅데이이터로 분석한 올해의 뷰티 트렌드 키워드 `R.E.A.L.M.E` 라이프스타일에 맞춤 고객경험 제공    쿠팡이 자체 빅데이터를 기반으로 올해 뷰티 제품 소비 패턴을 예측한 2022 뷰티 트렌드 키워드를 24일 발표했다.    최근 유행에 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_1642988090842.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금까지 슈퍼볼 LVI 광고는 어떻게 진행되고 있을까?]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8108</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8080</guid>
             <pubDate>Thu, 20 Jan 2022 08:49:00 GMT</pubDate>
             <content:encoded><![CDATA[한국 아마존 글로벌셀링(Amazon Global Selling)은 연례 컨퍼런스인 2022 아마존 셀러 컨퍼런스: 브랜드의 미래를 19일부터 20일까지 이틀간 개최했다. 이번 온라인 컨퍼런스에서 아마존 글로벌셀링은 한국 셀러의 글로벌 입지 확장을  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[트렌드모니터] 사회가 불안할수록 운세나 점을 보려는 사람들이 많아져... 스마트폰 운세 앱 가장 많이 이용]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8079</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8079</guid>
-            <pubDate>Thu, 20 Jan 2022 08:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[시장조사전문기업 엠브레인 트렌드모니터가 전국 만 19세~59세 성인 남녀 1,000명을 대상으로 새해 계획 및 운세 서비스 관련 인식 조사를 실시한 결과, 올해도 어김 없이 새해를 맞아 새로운 마음으로 계획과 목표를 세우는 사람 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

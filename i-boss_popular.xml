@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-24T00:55:27.850Z</updated>
+    <updated>2022-01-24T02:05:47.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -167,6 +167,13 @@
         <content type="html"><![CDATA[근육돌이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[쇼핑몰, 무슨 솔루션으로 만들었나요? (feat. 설문조사..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57064</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57064"/>
+        <updated>2022-01-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[카카오뷰 수익도 장난 아니네요~]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38058</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38058"/>
@@ -181,11 +188,11 @@
         <content type="html"><![CDATA[마케터허브]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쇼핑몰, 무슨 솔루션으로 만들었나요? (feat. 설문조사..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57064</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57064"/>
-        <updated>2022-01-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
+        <title type="html"><![CDATA[우뇌가 떠먹여주는 성과개선 노하우 3가지]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57069</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57069"/>
+        <updated>2022-01-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[교육매니저]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SNS 영상 광고 효과? 이거 4개만 알면 끝!!]]></title>
@@ -193,13 +200,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57006"/>
         <updated>2022-01-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[영상팁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우뇌가 떠먹여주는 성과개선 노하우 3가지]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57069</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57069"/>
-        <updated>2022-01-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[교육매니저]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[굳이 마케팅 자격증 딴다면? 어떤게 좋을까요?]]></title>
