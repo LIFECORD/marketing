@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 02:05:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 03:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오, 방송광고시장 노린다 SBS미디어랩 지분 매물 내놔]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8110</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8110</guid>
+            <pubDate>Mon, 24 Jan 2022 11:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[카카오가 방송사광고대행사(미디어랩) 지분을 매각하고 연간 2조5000억원대에 달하는 방송광고 대행시장 진출을 추진한다. 현행법상 미디어랩 지분을 보유한 사업자는 방송광고 사업을 할 수 없다. 지분매각에 성공하면 기존 모 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡, 2022 뷰티 브렌드 키워드 공개]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8109</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8081</guid>
             <pubDate>Thu, 20 Jan 2022 08:50:00 GMT</pubDate>
             <content:encoded><![CDATA[기업들은 이제 전 세계적으로 가장 신뢰받는 기관이 되었고, 정부와 언론에 대한 신뢰가 전 세계와 미국 모두에서 무너지고 있기 때문에 사회의 문제를 해결하기 위한 공백을 메울 수밖에 없다. PR회사인 에델만신뢰지수 보고 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[아마존 글로벌셀링, 한국 셀러의 글로벌 브랜드 성장 위한 2022년 비즈니스 전략 발표]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8080</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8080</guid>
-            <pubDate>Thu, 20 Jan 2022 08:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국 아마존 글로벌셀링(Amazon Global Selling)은 연례 컨퍼런스인 2022 아마존 셀러 컨퍼런스: 브랜드의 미래를 19일부터 20일까지 이틀간 개최했다. 이번 온라인 컨퍼런스에서 아마존 글로벌셀링은 한국 셀러의 글로벌 입지 확장을  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
