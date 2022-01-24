@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 05:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 06:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,18 +294,18 @@
             <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쇼핑몰 4가지 상황별 GFA통한 매출 N% 상승 전략 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56940</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56940</guid>
-            <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[근육돌이]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[쇼핑몰, 무슨 솔루션으로 만들었나요? (feat. 설문조사.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57064</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57064</guid>
             <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑몰 4가지 상황별 GFA통한 매출 N% 상승 전략 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56940</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56940</guid>
+            <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[근육돌이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카카오뷰 수익도 장난 아니네요~ (아이보스 ─ 인기글)]]></title>
@@ -336,18 +336,18 @@
             <content:encoded><![CDATA[영상팁]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[월 1,000만 원 벌기 위해 반드시 해야 하는 일 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57071</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57071</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[굳이 마케팅 자격증 딴다면? 어떤게 좋을까요? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38109</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38109</guid>
             <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[rdg]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[SW] 제가 지향하는 제품에 가치를 붙이는 광고기법 `.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56970</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56970</guid>
-            <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[상원1]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카카오, 방송광고시장 노린다 SBS미디어랩 지분 매물 내놔 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 이미지에서 설명하고 있는 트렌드는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 24 Jan 2022 05:15:36 GMT</pubDate>
+            <pubDate>Mon, 24 Jan 2022 06:23:03 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 설명하고 있는 트렌드는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/92efc6813fed5baa40aca71e15b0b3cb_16426537162287.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
