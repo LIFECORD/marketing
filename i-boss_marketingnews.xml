@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 22:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 23:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1월 25일 마케팅 뉴스클리핑] 네이버 인플루언서 토픽, 크리에이터들은 글쎄 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8111</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8111</guid>
+            <pubDate>Tue, 25 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버 `인플루언서 토픽`, 크리에이터들은 `글쎄`  네이버가 카카오의 `뷰` 대항마로 `인플루언서 토픽`을 선보였다. 큐레이션이 콘텐츠 창작자들의 새로운 수익 창구가 되면서 경쟁력 있는 창작자들을 붙잡기 위함으로 보인 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_45d33ebc0c7d4caae08cc1d1a3223022_61370_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오, 방송광고시장 노린다 SBS미디어랩 지분 매물 내놔]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8110</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8082</guid>
             <pubDate>Thu, 20 Jan 2022 09:15:00 GMT</pubDate>
             <content:encoded><![CDATA[글로벌크리에이티브플랫폼셔터스톡(Shutterstock)이2022년크리에이티브트렌드리포트(Creative Trends Report)를발표했다.올해리포트는전세계셔터스톡이용자의검색데이터를바탕으로시간과공간이라는테마아래2022년크리에이티브프로젝 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[에델만, 불신의 악순환 발견, 기업과 브랜드에 부담]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8081</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8081</guid>
-            <pubDate>Thu, 20 Jan 2022 08:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[기업들은 이제 전 세계적으로 가장 신뢰받는 기관이 되었고, 정부와 언론에 대한 신뢰가 전 세계와 미국 모두에서 무너지고 있기 때문에 사회의 문제를 해결하기 위한 공백을 메울 수밖에 없다. PR회사인 에델만신뢰지수 보고 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
