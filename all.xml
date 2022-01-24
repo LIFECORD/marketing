@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 09:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 10:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,13 +287,6 @@
             <content:encoded><![CDATA[해적보물선]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아마존, 쿠팡의 성공공식을 마케팅에 대입해보기 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56886</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56886</guid>
-            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[우뇌]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[쇼핑몰, 무슨 솔루션으로 만들었나요? (feat. 설문조사.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57064</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57064</guid>
@@ -301,11 +294,25 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[아마존, 쿠팡의 성공공식을 마케팅에 대입해보기 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56886</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56886</guid>
+            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[쇼핑몰 4가지 상황별 GFA통한 매출 N% 상승 전략 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56940</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56940</guid>
             <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우뇌가 떠먹여주는 성과개선 노하우 3가지 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57069</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57069</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[교육매니저]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카카오뷰 수익도 장난 아니네요~ (아이보스 ─ 인기글)]]></title>
@@ -320,13 +327,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56887</guid>
             <pubDate>Tue, 27 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케터허브]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우뇌가 떠먹여주는 성과개선 노하우 3가지 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57069</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57069</guid>
-            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[교육매니저]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SNS 영상 광고 효과? 이거 4개만 알면 끝!! (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 이미지에서 설명하고 있는 트렌드는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 24 Jan 2022 09:16:30 GMT</pubDate>
+            <pubDate>Mon, 24 Jan 2022 10:18:24 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 설명하고 있는 트렌드는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/92efc6813fed5baa40aca71e15b0b3cb_16426537162287.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
