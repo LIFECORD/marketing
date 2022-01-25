@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 14:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 15:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8087</guid>
             <pubDate>Thu, 20 Jan 2022 06:19:51 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다음 중, 페이스북 상품을 활용한 디지털 마케팅에서 높은 수준의 전문성을 보이는 사람에게 부여하는 페이스북 공식 인증·자격증의 이름은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 25 Jan 2022 14:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->다음 중, 페이스북 상품을 활용한 디지털 마케팅에서 높은 수준의 전문성을 보이는 사람에게 부여하는 페이스북 공식 인증·자격증의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1349_1" value="1" class="AB-radio" id="PQ_BD5826_1349_1_0"><label for="PQ_BD5826_1349_1_0" id="label_PQ_BD5826_1349_1_0">(A) FBIQ</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1349_1" value="2" class="AB-radio" id="PQ_BD5826_1349_1_1"><label for="PQ_BD5826_1349_1_1" id="label_PQ_BD5826_1349_1_1">(B) 스포트라이트</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1349_1" value="3" class="AB-radio" id="PQ_BD5826_1349_1_2"><label for="PQ_BD5826_1349_1_2" id="label_PQ_BD5826_1349_1_2">(C) 페이스북 익스퍼트</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1349_1" value="4" class="AB-radio" id="PQ_BD5826_1349_1_3"><label for="PQ_BD5826_1349_1_3" id="label_PQ_BD5826_1349_1_3">(D) 블루프린트</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시, 소상공인 50만명에 현금 100만원씩 준다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
