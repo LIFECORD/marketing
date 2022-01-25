@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 07:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 08:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -266,18 +266,18 @@
             <content:encoded><![CDATA[체르시]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[50가지 리스트로 정리해본 온라인 마케팅 순서도 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56910</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56910</guid>
-            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[baljunso]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[쇼핑몰, 무슨 솔루션으로 만들었나요? (feat. 설문조사.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57064</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57064</guid>
             <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[50가지 리스트로 정리해본 온라인 마케팅 순서도 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56910</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56910</guid>
+            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[baljunso]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[roas1000% 찍는 광고소재 이미지 공통점 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38109</guid>
             <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[rdg]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5개 OTT 한 곳에서 검색... SK브로드밴드, 플레이제트 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8117</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8117</guid>
+            <pubDate>Tue, 25 Jan 2022 08:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[리모콘 형태 새 미디어 플랫폼 선봬   SK브로드밴드가 각종 OTT와 스트리밍 채널, 게임, 노래방 등을 모두 즐길 수 있는 올인원 플레이박스 플레이제트(PlayZ)를 25일 선보였다.  OTT 포털을 통해 웨이브, 티빙, 왓챠, 아마존프라임비 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[스타일쉐어, 60억 규모 파트너 지원 프로그램 가동 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[신인섭 칼럼] 호랑이 해의 결의 - 미국 사람 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8086</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8086</guid>
-            <pubDate>Thu, 20 Jan 2022 11:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[작년 11월 2-11일 사이에 미국에서 새해 결의를 한 399명에게물어 보았더니 다음과 같은 대답이 나왔다. 운동을 많이 하겠다(48%)더 건강한 음식을 먹겠다(44%)체중을 줄이겠다(41%)가족 친구와 더 많은 시간을 보내겠다(34%)더 경제적 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[5개 OTT 한 곳에서 검색... SK브로드밴드, 플레이제트 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8117</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8117</guid>
+            <pubDate>Tue, 25 Jan 2022 08:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스타일쉐어, 60억 규모 파트너 지원 프로그램 가동 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[신인섭 칼럼] 호랑이 해의 결의 - 미국 사람 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8086</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8086</guid>
-            <pubDate>Thu, 20 Jan 2022 11:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중, 페이스북 상품을 활용한 디지털 마케팅에서 높은 수준의 전문성을 보이는 사람에게 부여하는 페이스북 공식 인증·자격증의 이름은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 25 Jan 2022 07:16:31 GMT</pubDate>
+            <pubDate>Tue, 25 Jan 2022 08:21:28 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중, 페이스북 상품을 활용한 디지털 마케팅에서 높은 수준의 전문성을 보이는 사람에게 부여하는 페이스북 공식 인증·자격증의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

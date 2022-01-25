@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 07:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 08:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5개 OTT 한 곳에서 검색... SK브로드밴드, 플레이제트 출시]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8117</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8117</guid>
+            <pubDate>Tue, 25 Jan 2022 08:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[리모콘 형태 새 미디어 플랫폼 선봬   SK브로드밴드가 각종 OTT와 스트리밍 채널, 게임, 노래방 등을 모두 즐길 수 있는 올인원 플레이박스 플레이제트(PlayZ)를 25일 선보였다.  OTT 포털을 통해 웨이브, 티빙, 왓챠, 아마존프라임비 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[스타일쉐어, 60억 규모 파트너 지원 프로그램 가동]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8115</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8087</guid>
             <pubDate>Thu, 20 Jan 2022 06:19:51 GMT</pubDate>
             <content:encoded><![CDATA[금융서비스사업팀 규모 축소 통폐합 가구 보험 가입률 81% 시장 포화 모바일판 홈쇼핑 재건축에 보험 제외   국내 1위 홈쇼핑 CJ온스타일이 보험 상품 판매를 전면 중단했다. TV 홈쇼핑이 황금알로 불리던 보험 판매를 중단하는 것 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[신인섭 칼럼] 호랑이 해의 결의 - 미국 사람]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8086</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8086</guid>
-            <pubDate>Thu, 20 Jan 2022 11:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[작년 11월 2-11일 사이에 미국에서 새해 결의를 한 399명에게물어 보았더니 다음과 같은 대답이 나왔다. 운동을 많이 하겠다(48%)더 건강한 음식을 먹겠다(44%)체중을 줄이겠다(41%)가족 친구와 더 많은 시간을 보내겠다(34%)더 경제적 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
