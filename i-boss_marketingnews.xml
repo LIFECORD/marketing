@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 01:02:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 02:33:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타일쉐어, 60억 규모 파트너 지원 프로그램 가동]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8115</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8115</guid>
+            <pubDate>Tue, 25 Jan 2022 10:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 패션 플랫폼 스타일쉐어가 파트너 브랜드들과 동반성장을 위해 60억 규모 지원 프로젝트를 추진한다고 25일 밝혔다.  스타일쉐어 파트너 지원 프로젝트는 각 파트너사 성장 단계와 브랜드 색깔에 맞춰 회사가 보유한 미 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16430746085043.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국인 스마트폰 사용자의 37% 중고거래 앱 이용]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8114</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8086</guid>
             <pubDate>Thu, 20 Jan 2022 11:20:00 GMT</pubDate>
             <content:encoded><![CDATA[작년 11월 2-11일 사이에 미국에서 새해 결의를 한 399명에게물어 보았더니 다음과 같은 대답이 나왔다. 운동을 많이 하겠다(48%)더 건강한 음식을 먹겠다(44%)체중을 줄이겠다(41%)가족 친구와 더 많은 시간을 보내겠다(34%)더 경제적 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[정수기 소비 방식, 코로나19 여파로 렌털 서비스에서 직접 구매로 변화]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8085</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8085</guid>
-            <pubDate>Thu, 20 Jan 2022 10:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[신종 코로나바이러스 감염증(코로나19)의 여파가 정수기에도 영향을 끼친 것으로 분석된다.기존에는 정수기를 렌털 서비스를 이용해 소비하는 고객들이 대부분이었지만 최근 필터를 소비자가 직접 관리하는 자가관리형 제품이 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

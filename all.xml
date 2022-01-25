@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 01:02:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 02:33:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,6 +224,13 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[폰트 저작권 위반으로 100만원 내라구요?? +) 찐 상업.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57044</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57044</guid>
+            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[휴이언니]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[노션 마스터를 원하신다면? `된다! 하루 5분 노션 활.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-436</link>
             <guid>https://www.i-boss.co.kr/ab-2973-436</guid>
@@ -236,13 +243,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56961</guid>
             <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[진민우]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[폰트 저작권 위반으로 100만원 내라구요?? +) 찐 상업.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57044</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57044</guid>
-            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022ver. 스마트스토어 성공테크트리 (아이보스 ─ 인기글)]]></title>
@@ -280,18 +280,18 @@
             <content:encoded><![CDATA[인프피]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블로그 글쓰기 1% 비밀(체류시간 5분 만들기) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56962</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56962</guid>
-            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[해적보물선]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[쇼핑몰, 무슨 솔루션으로 만들었나요? (feat. 설문조사.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57064</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57064</guid>
             <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[블로그 글쓰기 1% 비밀(체류시간 5분 만들기) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56962</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56962</guid>
+            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[해적보물선]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아마존, 쿠팡의 성공공식을 마케팅에 대입해보기 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38109</guid>
             <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[rdg]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스타일쉐어, 60억 규모 파트너 지원 프로그램 가동 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8115</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8115</guid>
+            <pubDate>Tue, 25 Jan 2022 10:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 패션 플랫폼 스타일쉐어가 파트너 브랜드들과 동반성장을 위해 60억 규모 지원 프로젝트를 추진한다고 25일 밝혔다.  스타일쉐어 파트너 지원 프로젝트는 각 파트너사 성장 단계와 브랜드 색깔에 맞춰 회사가 보유한 미 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16430746085043.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국인 스마트폰 사용자의 37% 중고거래 앱 이용 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,32 +590,31 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[정수기 소비 방식, 코로나19 여파로 렌털 서비스에서 직접 구매로 변화 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8085</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8085</guid>
-            <pubDate>Thu, 20 Jan 2022 10:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[신종 코로나바이러스 감염증(코로나19)의 여파가 정수기에도 영향을 끼친 것으로 분석된다.기존에는 정수기를 렌털 서비스를 이용해 소비하는 고객들이 대부분이었지만 최근 필터를 소비자가 직접 관리하는 자가관리형 제품이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[스타일쉐어, 60억 규모 파트너 지원 프로그램 가동 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8115</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8115</guid>
+            <pubDate>Tue, 25 Jan 2022 02:33:19 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국인 스마트폰 사용자의 37% 중고거래 앱 이용 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8114</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8114</guid>
-            <pubDate>Tue, 25 Jan 2022 01:02:16 GMT</pubDate>
+            <pubDate>Tue, 25 Jan 2022 09:48:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[“전세계 인플루언서 검색을 한 눈에!” NPR, 글로벌 인플루언서 플랫폼 ‘태거’ 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8113</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8113</guid>
-            <pubDate>Tue, 25 Jan 2022 01:02:16 GMT</pubDate>
+            <pubDate>Tue, 25 Jan 2022 09:37:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] "보여줄 게 많은 펜타클, 열심히 알리겠습니다" 펜타클 김나현, 신혜린 매니저 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8112</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8112</guid>
-            <pubDate>Tue, 25 Jan 2022 01:02:16 GMT</pubDate>
+            <pubDate>Tue, 25 Jan 2022 09:09:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정수기 소비 방식, 코로나19 여파로 렌털 서비스에서 직접 구매로 변화 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8085</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8085</guid>
-            <pubDate>Thu, 20 Jan 2022 10:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중, 페이스북 상품을 활용한 디지털 마케팅에서 높은 수준의 전문성을 보이는 사람에게 부여하는 페이스북 공식 인증·자격증의 이름은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 25 Jan 2022 01:02:29 GMT</pubDate>
+            <pubDate>Tue, 25 Jan 2022 02:33:30 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중, 페이스북 상품을 활용한 디지털 마케팅에서 높은 수준의 전문성을 보이는 사람에게 부여하는 페이스북 공식 인증·자격증의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
