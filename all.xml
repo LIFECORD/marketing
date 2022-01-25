@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 23:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 01:02:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,18 +168,18 @@
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년 타임캡슐 📅 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38098</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38098</guid>
-            <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[유리나]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022년에는 어떤 광고에 집중하실 예정이세요? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56900</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56900</guid>
             <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 타임캡슐 📅 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38098</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38098</guid>
+            <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[리뷰를 모으기 위한 기업들의 노력 (아이보스 ─ 인기글)]]></title>
@@ -266,18 +266,18 @@
             <content:encoded><![CDATA[체르시]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[roas1000% 찍는 광고소재 이미지 공통점 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57010</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57010</guid>
-            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[인프피]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[50가지 리스트로 정리해본 온라인 마케팅 순서도 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56910</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56910</guid>
             <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[baljunso]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[roas1000% 찍는 광고소재 이미지 공통점 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57010</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57010</guid>
+            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[인프피]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[블로그 글쓰기 1% 비밀(체류시간 5분 만들기) (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,30 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38109</guid>
             <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[rdg]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한국인 스마트폰 사용자의 37% 중고거래 앱 이용 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8114</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8114</guid>
+            <pubDate>Tue, 25 Jan 2022 09:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난달에 중고거래 앱을 1번 이상 사용한 사람이 1,775만 명, 한국인 스마트폰 사용자의 37% 작년 한 해 동안 중고거래 앱 사용자 24% 증가 중고거래 앱 사용자수는 당근마켓, 번개장터, 중고나라 순     작년 한 해 중고거래 앱 시장 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_f246aa5daa708a0b32b8aa5deb9f589b_67331_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[전세계 인플루언서 검색을 한 눈에! NPR, 글로벌 인플루언서 플랫폼 태거 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8113</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8113</guid>
+            <pubDate>Tue, 25 Jan 2022 09:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[전세계의 인플루언서를 검색하고 이들을 활용한 마케팅 캠페인을 한곳에서 집행할 수 있는 글로벌 플랫폼 서비스가 한국에 상륙했다. 홍보회사NPR(www.nprcom.co.kr ,대표 윤영준)은 미국의 소셜미디어 관련 스타트업 태거미디어(www ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_25c3f6f8137b856750ac660457881d04_25158_6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 보여줄 게 많은 펜타클, 열심히 알리겠습니다 펜타클 김나현, 신혜린 매니저 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8112</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8112</guid>
+            <pubDate>Tue, 25 Jan 2022 09:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[`중이 제 머리를 깍지 못한다`는 말이 있다. 광고회사가 하는 자사의 홍보가딱 그렇다. 아마도 광고회사가 너무 겸손해서 그런 것 아닐까? 그런데 이제 광고회사도 홍보가필수다. 가만히 있으면 누구도 알아주지 않다. 치열한 경 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[1월 25일 마케팅 뉴스클리핑] 네이버 인플루언서 토픽, 크리에이터들은 글쎄 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -566,34 +590,31 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[알리바바 다모 아카데미, 10대 주요기술 동향 예측 발표 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8084</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8084</guid>
-            <pubDate>Thu, 20 Jan 2022 10:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[알리바바 그룹의 글로벌 연구 이니셔티브인 알리바바 다모 아카데미(이하 다모)는2022년 기술 산업의 주요 동향 예측을 공개했다.다모는 이번 발표를 통해 향후2-5년 간 혁신을 가속화하고 경제사회 전반에 영향을 미칠 것으로  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[한국인 스마트폰 사용자의 37% 중고거래 앱 이용 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8114</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8114</guid>
+            <pubDate>Tue, 25 Jan 2022 01:02:16 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[레드햇 2022 글로벌 기술 전망 보고서 발표 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8083</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8083</guid>
-            <pubDate>Thu, 20 Jan 2022 10:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 오픈소스 솔루션 선도기업 레드햇은 2022글로벌 기술 전망 보고서를 발표했다. IT리더 및 의사 결정권자1,341명을 대상으로2021년6월부터8월에 진행한 설문조사에 기반한 이번 보고서는 클라우드 현황 및 클라우드 전략 IT최 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[“전세계 인플루언서 검색을 한 눈에!” NPR, 글로벌 인플루언서 플랫폼 ‘태거’ 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8113</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8113</guid>
+            <pubDate>Tue, 25 Jan 2022 01:02:16 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[셔터스톡, 2022 크리에이티브 트렌드 발표 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8082</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8082</guid>
-            <pubDate>Thu, 20 Jan 2022 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌크리에이티브플랫폼셔터스톡(Shutterstock)이2022년크리에이티브트렌드리포트(Creative Trends Report)를발표했다.올해리포트는전세계셔터스톡이용자의검색데이터를바탕으로시간과공간이라는테마아래2022년크리에이티브프로젝 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[인터뷰] "보여줄 게 많은 펜타클, 열심히 알리겠습니다" 펜타클 김나현, 신혜린 매니저 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8112</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8112</guid>
+            <pubDate>Tue, 25 Jan 2022 01:02:16 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[1월 25일 마케팅 뉴스클리핑] 네이버 '인플루언서 토픽', 크리에이터들은 '글쎄' 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8111</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8111</guid>
-            <pubDate>Mon, 24 Jan 2022 23:16:38 GMT</pubDate>
+            <pubDate>Tue, 25 Jan 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -779,31 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[알리바바 다모 아카데미, ‘10대 주요기술 동향 예측’ 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8084</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8084</guid>
-            <pubDate>Thu, 20 Jan 2022 10:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[레드햇 '2022 글로벌 기술 전망 보고서' 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8083</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8083</guid>
-            <pubDate>Thu, 20 Jan 2022 10:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[셔터스톡, 2022 크리에이티브 트렌드 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8082</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8082</guid>
-            <pubDate>Thu, 20 Jan 2022 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중, 페이스북 상품을 활용한 디지털 마케팅에서 높은 수준의 전문성을 보이는 사람에게 부여하는 페이스북 공식 인증·자격증의 이름은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 24 Jan 2022 23:16:51 GMT</pubDate>
+            <pubDate>Tue, 25 Jan 2022 01:02:29 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중, 페이스북 상품을 활용한 디지털 마케팅에서 높은 수준의 전문성을 보이는 사람에게 부여하는 페이스북 공식 인증·자격증의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
