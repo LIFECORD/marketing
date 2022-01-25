@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 22:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 23:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -259,18 +259,18 @@
             <content:encoded><![CDATA[아드리엘]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[주접생성기 사이트 너무 웃기네욬ㅋㅋ (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38168</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38168</guid>
-            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[체르시]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[쇼핑몰, 무슨 솔루션으로 만들었나요? (feat. 설문조사.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57064</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57064</guid>
             <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[주접생성기 사이트 너무 웃기네욬ㅋㅋ (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38168</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38168</guid>
+            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[체르시]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[50가지 리스트로 정리해본 온라인 마케팅 순서도 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38197</guid>
             <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[stylenjh]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[1월 26일 마케팅 뉴스클리핑] 설 앞두고 라방에서 김 판매한 가상인간 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8116</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8116</guid>
+            <pubDate>Wed, 26 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 설 앞두고 라방에서 김 판매한 가상인간  가상인간이 실시간으로 중계되는 네이버 쇼핑라이브에서 쇼호스트가 돼 김을 팔아 화제다. 가상인간 `리아`가 그 주인공인데 `리아`는 실제 사람과 분간하기 어려울 만큼 자연스러운  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_87edc27a055c7dc1c923edcbdce14e77_50400_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[5개 OTT 한 곳에서 검색... SK브로드밴드, 플레이제트 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[CJ홈쇼핑, 황금알 보험판매 접는다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8087</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8087</guid>
-            <pubDate>Thu, 20 Jan 2022 06:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[금융서비스사업팀 규모 축소 통폐합 가구 보험 가입률 81% 시장 포화 모바일판 홈쇼핑 재건축에 보험 제외   국내 1위 홈쇼핑 CJ온스타일이 보험 상품 판매를 전면 중단했다. TV 홈쇼핑이 황금알로 불리던 보험 판매를 중단하는 것 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[1월 26일 마케팅 뉴스클리핑] 설 앞두고 라방에서 김 판매한 가상인간 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8116</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8116</guid>
+            <pubDate>Tue, 25 Jan 2022 23:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5개 OTT 한 곳에서 검색... SK브로드밴드, 플레이제트 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[CJ홈쇼핑, '황금알' 보험판매 접는다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8087</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8087</guid>
-            <pubDate>Thu, 20 Jan 2022 06:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[다음 중 인스타그램 인증 배지를 신청하기 위한 조건으로 올바르지 않은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Tue, 25 Jan 2022 23:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 중 인스타그램 인증 배지를 신청하기 위한 조건으로 올바르지 않은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1350_1" value="1" class="AB-radio" id="PQ_BD5826_1350_1_0"><label for="PQ_BD5826_1350_1_0" id="label_PQ_BD5826_1350_1_0">(A) 사람 또는 비즈니스당 하나의 계정만 인증받을 수 있다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1350_1" value="2" class="AB-radio" id="PQ_BD5826_1350_1_1"><label for="PQ_BD5826_1350_1_1" id="label_PQ_BD5826_1350_1_1">(B) 계정은 전체 공개 상태여야 한다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1350_1" value="3" class="AB-radio" id="PQ_BD5826_1350_1_2"><label for="PQ_BD5826_1350_1_2" id="label_PQ_BD5826_1350_1_2">(C) 프로필에 다른 소셜 미디어 서비스로 이동하는 '추가하기' 링크를 포함할 수 없다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1350_1" value="4" class="AB-radio" id="PQ_BD5826_1350_1_3"><label for="PQ_BD5826_1350_1_3" id="label_PQ_BD5826_1350_1_3">(D) 게시물이 업로드 되어있는 계정은 인증 배지를 신청할 수 없다</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시, 소상공인 50만명에 현금 100만원씩 준다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

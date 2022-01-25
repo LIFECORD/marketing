@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 22:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 23:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1월 26일 마케팅 뉴스클리핑] 설 앞두고 라방에서 김 판매한 가상인간 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8116</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8116</guid>
+            <pubDate>Wed, 26 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 설 앞두고 라방에서 김 판매한 가상인간  가상인간이 실시간으로 중계되는 네이버 쇼핑라이브에서 쇼호스트가 돼 김을 팔아 화제다. 가상인간 `리아`가 그 주인공인데 `리아`는 실제 사람과 분간하기 어려울 만큼 자연스러운  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_87edc27a055c7dc1c923edcbdce14e77_50400_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[5개 OTT 한 곳에서 검색... SK브로드밴드, 플레이제트 출시]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8117</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8088</guid>
             <pubDate>Thu, 20 Jan 2022 07:15:52 GMT</pubDate>
             <content:encoded><![CDATA[언니 없이 하지마. 이 홍보 문구는 많은 사람의 뇌리에 강남언니라는 브랜드를 확실히 각인시켰다. 지금은 미용의료 관련 정보 하면 가장 먼저 떠오르는 플랫폼이지만, 직원조차 강남언니라는 말을 밖으로 내보이기 꺼리던 시 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ홈쇼핑, 황금알 보험판매 접는다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8087</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8087</guid>
-            <pubDate>Thu, 20 Jan 2022 06:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[금융서비스사업팀 규모 축소 통폐합 가구 보험 가입률 81% 시장 포화 모바일판 홈쇼핑 재건축에 보험 제외   국내 1위 홈쇼핑 CJ온스타일이 보험 상품 판매를 전면 중단했다. TV 홈쇼핑이 황금알로 불리던 보험 판매를 중단하는 것 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
