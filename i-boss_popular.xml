@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-26T16:26:26.479Z</updated>
+    <updated>2022-01-26T18:20:27.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -146,18 +146,18 @@
         <content type="html"><![CDATA[인프피]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쇼핑몰 4가지 상황별 GFA통한 매출 N% 상승 전략]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56940</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56940"/>
-        <updated>2022-01-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[근육돌이]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[우뇌가 떠먹여주는 성과개선 노하우 3가지]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57069</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57069"/>
         <updated>2022-01-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[교육매니저]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쇼핑몰 4가지 상황별 GFA통한 매출 N% 상승 전략]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56940</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56940"/>
+        <updated>2022-01-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[근육돌이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SNS 영상 광고 효과? 이거 4개만 알면 끝!!]]></title>
