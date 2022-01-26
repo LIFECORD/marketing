@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-26T12:26:17.207Z</updated>
+    <updated>2022-01-26T13:20:21.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-56908"/>
         <updated>2021-12-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[우뇌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 공식 NEW 알고리즘, 발칵 뒤집힙니다(Feat. 스마..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56894</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56894"/>
-        <updated>2021-12-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[해적보물선]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마감되었습니다] 오늘 하루 만 (12월 31일) 무료로 1인..]]></title>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-6141-56972"/>
         <updated>2022-01-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[unick]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스마트스토어로 월 1000만원 찍고 난 후 달라진 점]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38079</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38079"/>
+        <updated>2022-12-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[억장이문어찜]]></content>
     </entry>
 </feed>
