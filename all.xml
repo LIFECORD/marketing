@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 22:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 23:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[1월 27일 마케팅 뉴스클리핑] 카카오, 다음 모바일 첫 화면에 카카오 뷰 도입 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8124</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8124</guid>
+            <pubDate>Thu, 27 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 카카오, 다음 모바일 첫 화면에 `카카오 뷰` 도입  카카오는 콘텐츠 큐레이션 서비스 `카카오 뷰`가 Daum 모바일 첫 화면에 자리를 잡았다고 밝혔다. 카카오는 구독형 콘텐츠 서비스로의 전환이라는 큰 방향 아래 다음 서비스 개 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_f3f576d8b32591a91ab291c15b79fa78_95826_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[네이버 뉴스, 인위적으로 손 못 대알고리즘 검토위 결과 발표 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8126</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8126</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[틱톡, 인스타 이어 구독 테스트 진행 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8096</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8096</guid>
-            <pubDate>Fri, 21 Jan 2022 11:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[인플루언서, 일부 콘텐츠 유료화...제한적으로 시범 운영  미국 IT매체 디인포메이션, 엔가젯 등 외신은 20일(현지시간) 틱톡이 유료 구독 기능을 제한적으로 시범 운영한다고 보도했다.  인스타그램은 전날 크리에이터가 라이브 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[1월 27일 마케팅 뉴스클리핑] 카카오, 다음 모바일 첫 화면에 '카카오 뷰' 도입 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8124</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8124</guid>
+            <pubDate>Wed, 26 Jan 2022 23:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["네이버 뉴스, 인위적으로 손 못 대"…알고리즘 검토위 결과 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[틱톡, 인스타 이어 '구독' 테스트 진행 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8096</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8096</guid>
-            <pubDate>Fri, 21 Jan 2022 11:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[다음 이미지의 이보숙 씨와 같은 사람을 이르는 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Wed, 26 Jan 2022 23:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 이미지의 이보숙 씨와 같은 사람을 이르는 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/92efc6813fed5baa40aca71e15b0b3cb_16426545793675.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1351_1" value="1" class="AB-radio" id="PQ_BD5826_1351_1_0"><label for="PQ_BD5826_1351_1_0" id="label_PQ_BD5826_1351_1_0">(A) 하비워커 (Hobby Worker)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1351_1" value="2" class="AB-radio" id="PQ_BD5826_1351_1_1"><label for="PQ_BD5826_1351_1_1" id="label_PQ_BD5826_1351_1_1">(B) 하비프로피터 (Hobby Profiter)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1351_1" value="3" class="AB-radio" id="PQ_BD5826_1351_1_2"><label for="PQ_BD5826_1351_1_2" id="label_PQ_BD5826_1351_1_2">(C) 하비프러너 (Hobby Preneur)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1351_1" value="4" class="AB-radio" id="PQ_BD5826_1351_1_3"><label for="PQ_BD5826_1351_1_3" id="label_PQ_BD5826_1351_1_3">(D) 하비파운더 (Hobby Founder)</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시, 소상공인 50만명에 현금 100만원씩 준다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
