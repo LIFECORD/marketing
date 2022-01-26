@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 01:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 02:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,18 +287,18 @@
             <content:encoded><![CDATA[해적보물선]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쇼핑몰 4가지 상황별 GFA통한 매출 N% 상승 전략 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56940</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56940</guid>
-            <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[근육돌이]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[월 1,000만 원 벌기 위해 반드시 해야 하는 일 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57071</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57071</guid>
             <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑몰 4가지 상황별 GFA통한 매출 N% 상승 전략 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56940</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56940</guid>
+            <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[근육돌이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우뇌가 떠먹여주는 성과개선 노하우 3가지 (아이보스 ─ 인기글)]]></title>
@@ -593,35 +593,35 @@
             <title><![CDATA[트위터, 전 세계에서 K-POP 관련 트윗 78억 건 발생 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8122</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8122</guid>
-            <pubDate>Wed, 26 Jan 2022 01:00:51 GMT</pubDate>
+            <pubDate>Wed, 26 Jan 2022 09:25:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[호프만에이전시코리아, 하이브리드 워크 도입... 업무는 버추얼 공간에서, 직원 경험은 오피스에서 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8121</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8121</guid>
-            <pubDate>Wed, 26 Jan 2022 01:00:51 GMT</pubDate>
+            <pubDate>Wed, 26 Jan 2022 09:11:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[신인섭 칼럼] 광고의 PURPOSE란 무엇인가? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8120</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8120</guid>
-            <pubDate>Wed, 26 Jan 2022 01:00:51 GMT</pubDate>
+            <pubDate>Wed, 26 Jan 2022 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] "소비자의 공감은 캠페인의 진정성에 있습니다" 박동준 현대차 책임매니저 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8119</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8119</guid>
-            <pubDate>Wed, 26 Jan 2022 01:00:51 GMT</pubDate>
+            <pubDate>Wed, 26 Jan 2022 08:48:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[한국갤럽] 2022년 1월 한국인이 좋아하는 TV프로그램 1위 : 신사와 아가씨, 3개월째 1위 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8118</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8118</guid>
-            <pubDate>Wed, 26 Jan 2022 01:00:51 GMT</pubDate>
+            <pubDate>Wed, 26 Jan 2022 08:46:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 인스타그램 인증 배지를 신청하기 위한 조건으로 올바르지 않은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 26 Jan 2022 01:01:08 GMT</pubDate>
+            <pubDate>Wed, 26 Jan 2022 02:10:23 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 인스타그램 인증 배지를 신청하기 위한 조건으로 올바르지 않은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
