@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 21:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 22:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,18 +182,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[디자이너 필독! 작업 속도 올리고 싶다면 알아두세요.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57034</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57034</guid>
-            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[원제]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[월 1,000만 원 벌기 위해 반드시 해야 하는 일 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57071</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57071</guid>
             <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[디자이너 필독! 작업 속도 올리고 싶다면 알아두세요.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57034</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57034</guid>
+            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[원제]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[흥하는 인스타그램의 비밀 9가지 (아이보스 ─ 인기글)]]></title>
