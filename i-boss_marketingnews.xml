@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 10:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 11:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KAI] 2월 광고시장, 전 매체 광고비 증가 기대]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8125</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8125</guid>
+            <pubDate>Wed, 26 Jan 2022 11:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송광고진흥공사(코바코, 사장 이백만)가 2022년 2월의 광고경기를 전망하는 광고경기전망지수(KAI ; Korea Advertising Index)를103.0으로 발표했다. 통계청 국가승인통계인 광고경기전망지수(KAI)는 매월 국내 570여개 광고주에게 다 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[코리아센터, 모든 언어로 쇼핑몰 해외진출 지원]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8123</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Jan 2022 11:17:00 GMT</pubDate>
             <content:encoded><![CDATA[`인플루언서 토픽` 기능 선봬... 콘텐츠 재구성인플루언서 검색 외에 마이구독, 주제판 등 네이버 메인으로 노출 확대   네이버가 인플루언서(창작자) 새 창작 활동을 지원하는 콘텐츠 큐레이션 기능 `인플루언서 토픽`을 선보였 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_1642731437788.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이언소스, 2022년 게임 업계에서 주목해야 할 6가지 트렌드 선정]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8094</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8094</guid>
-            <pubDate>Fri, 21 Jan 2022 10:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource)는지난 해 게임 업계의 주요 인사이트를 분석하여2022년 게임 업계에서6가지 주목해야 할 트렌드를 꼽았다. IPO(기업상장)에서iOS 14업데이트,헤드라인을 떠들썩하게 장 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

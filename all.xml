@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 10:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 11:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[unick]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[KAI] 2월 광고시장, 전 매체 광고비 증가 기대 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8125</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8125</guid>
+            <pubDate>Wed, 26 Jan 2022 11:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송광고진흥공사(코바코, 사장 이백만)가 2022년 2월의 광고경기를 전망하는 광고경기전망지수(KAI ; Korea Advertising Index)를103.0으로 발표했다. 통계청 국가승인통계인 광고경기전망지수(KAI)는 매월 국내 570여개 광고주에게 다 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[코리아센터, 모든 언어로 쇼핑몰 해외진출 지원 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8123</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8123</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_1642731437788.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아이언소스, 2022년 게임 업계에서 주목해야 할 6가지 트렌드 선정 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8094</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8094</guid>
-            <pubDate>Fri, 21 Jan 2022 10:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource)는지난 해 게임 업계의 주요 인사이트를 분석하여2022년 게임 업계에서6가지 주목해야 할 트렌드를 꼽았다. IPO(기업상장)에서iOS 14업데이트,헤드라인을 떠들썩하게 장 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[KAI] 2월 광고시장, 전 매체 광고비 증가 기대 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8125</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8125</guid>
+            <pubDate>Wed, 26 Jan 2022 11:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코리아센터, 모든 언어로 쇼핑몰 해외진출 지원 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이언소스, '2022년 게임 업계에서 주목해야 할 6가지 트렌드' 선정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8094</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8094</guid>
-            <pubDate>Fri, 21 Jan 2022 10:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 인스타그램 인증 배지를 신청하기 위한 조건으로 올바르지 않은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 26 Jan 2022 10:19:10 GMT</pubDate>
+            <pubDate>Wed, 26 Jan 2022 11:15:43 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 인스타그램 인증 배지를 신청하기 위한 조건으로 올바르지 않은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
