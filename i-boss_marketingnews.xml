@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 06:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 07:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코리아센터, 모든 언어로 쇼핑몰 해외진출 지원]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8123</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8123</guid>
+            <pubDate>Wed, 26 Jan 2022 07:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[영어, 일어, 중어, 대만어 4개 언어에서 모든 언어 지원    코리아센터가 쇼핑몰 해외 진출 지원 솔루션 메이크글로벌을 통해 전세계 모든 언어로 쇼핑몰 창업과 해외 진출을 지원한다고 26일 밝혔다.  메이크글로벌은 해외에 진 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16431812299659.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트위터, 전 세계에서 K-POP 관련 트윗 78억 건 발생]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8122</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8094</guid>
             <pubDate>Fri, 21 Jan 2022 10:05:00 GMT</pubDate>
             <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource)는지난 해 게임 업계의 주요 인사이트를 분석하여2022년 게임 업계에서6가지 주목해야 할 트렌드를 꼽았다. IPO(기업상장)에서iOS 14업데이트,헤드라인을 떠들썩하게 장 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[한국PR협회, 한류의 중심 K드라마를 주제로 PR토크 개최]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8093</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8093</guid>
-            <pubDate>Fri, 21 Jan 2022 09:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국PR협회(회장 김주호)는1월24일 오후7시,김영섭 타이거 스튜디오 대표와 최지해OBS아나운서가 전세계를 홀린K드라마의 힘,어디서 오는가?를 주제로PR피플 토크(People Talk)여덟 번째 행사를 진행한다고 밝혔다. 이번PR피플 토크에 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
