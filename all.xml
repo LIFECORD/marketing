@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 11:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 12:26:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,18 +203,18 @@
             <content:encoded><![CDATA[원제]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[흥하는 인스타그램의 비밀 9가지 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56954</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56954</guid>
-            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김매니저]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[월 1,000만 원 벌기 위해 반드시 해야 하는 일 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57071</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57071</guid>
             <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[흥하는 인스타그램의 비밀 9가지 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56954</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56954</guid>
+            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김매니저]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[폰트 저작권 위반으로 100만원 내라구요?? +) 찐 상업.. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56972</guid>
             <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[unick]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네이버 뉴스, 인위적으로 손 못 대알고리즘 검토위 결과 발표 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8126</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8126</guid>
+            <pubDate>Wed, 26 Jan 2022 12:25:44 GMT</pubDate>
+            <content:encoded><![CDATA[네이버 뉴스 알고리즘에 인간 편집자가 인위적으로 개입할 수 있는 가능성이 발견되지 않았다는 검토 결과가 나왔다. 특정 언론사를 이념성향에 따라 우대하는 정치적 편향도 드러나지 않은 것으로 나타났다.  26일 네이버는 이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[KAI] 2월 광고시장, 전 매체 광고비 증가 기대 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,18 +590,17 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[네이버 인플루언서, 콘텐츠 큐레이션 기능 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8095</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8095</guid>
-            <pubDate>Fri, 21 Jan 2022 11:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[`인플루언서 토픽` 기능 선봬... 콘텐츠 재구성인플루언서 검색 외에 마이구독, 주제판 등 네이버 메인으로 노출 확대   네이버가 인플루언서(창작자) 새 창작 활동을 지원하는 콘텐츠 큐레이션 기능 `인플루언서 토픽`을 선보였 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_1642731437788.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["네이버 뉴스, 인위적으로 손 못 대"…알고리즘 검토위 결과 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8126</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8126</guid>
+            <pubDate>Wed, 26 Jan 2022 12:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[KAI] 2월 광고시장, 전 매체 광고비 증가 기대 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8125</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8125</guid>
-            <pubDate>Wed, 26 Jan 2022 11:15:33 GMT</pubDate>
+            <pubDate>Wed, 26 Jan 2022 11:15:22 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버 인플루언서, 콘텐츠 큐레이션 기능 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8095</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8095</guid>
-            <pubDate>Fri, 21 Jan 2022 11:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 인스타그램 인증 배지를 신청하기 위한 조건으로 올바르지 않은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 26 Jan 2022 11:15:43 GMT</pubDate>
+            <pubDate>Wed, 26 Jan 2022 12:26:08 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 인스타그램 인증 배지를 신청하기 위한 조건으로 올바르지 않은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 11:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 12:26:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 뉴스, 인위적으로 손 못 대알고리즘 검토위 결과 발표]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8126</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8126</guid>
+            <pubDate>Wed, 26 Jan 2022 12:25:44 GMT</pubDate>
+            <content:encoded><![CDATA[네이버 뉴스 알고리즘에 인간 편집자가 인위적으로 개입할 수 있는 가능성이 발견되지 않았다는 검토 결과가 나왔다. 특정 언론사를 이념성향에 따라 우대하는 정치적 편향도 드러나지 않은 것으로 나타났다.  26일 네이버는 이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[KAI] 2월 광고시장, 전 매체 광고비 증가 기대]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8125</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Jan 2022 11:19:00 GMT</pubDate>
             <content:encoded><![CDATA[인플루언서, 일부 콘텐츠 유료화...제한적으로 시범 운영  미국 IT매체 디인포메이션, 엔가젯 등 외신은 20일(현지시간) 틱톡이 유료 구독 기능을 제한적으로 시범 운영한다고 보도했다.  인스타그램은 전날 크리에이터가 라이브 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 인플루언서, 콘텐츠 큐레이션 기능 공개]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8095</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8095</guid>
-            <pubDate>Fri, 21 Jan 2022 11:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[`인플루언서 토픽` 기능 선봬... 콘텐츠 재구성인플루언서 검색 외에 마이구독, 주제판 등 네이버 메인으로 노출 확대   네이버가 인플루언서(창작자) 새 창작 활동을 지원하는 콘텐츠 큐레이션 기능 `인플루언서 토픽`을 선보였 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_1642731437788.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

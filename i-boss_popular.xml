@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-26T11:15:52.078Z</updated>
+    <updated>2022-01-26T12:26:17.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[원제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[흥하는 인스타그램의 비밀 9가지]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56954</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56954"/>
-        <updated>2022-01-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[김매니저]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[월 1,000만 원 벌기 위해 반드시 해야 하는 일]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57071</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57071"/>
         <updated>2022-01-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[둥근마을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[흥하는 인스타그램의 비밀 9가지]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56954</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56954"/>
+        <updated>2022-01-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[김매니저]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[폰트 저작권 위반으로 100만원 내라구요?? +) 찐 상업..]]></title>
