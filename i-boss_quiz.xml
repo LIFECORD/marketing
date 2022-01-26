@@ -2,20 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-5826</id>
     <title>아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈</title>
-    <updated>2022-01-26T14:16:38.874Z</updated>
+    <updated>2022-01-26T16:26:26.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[다음 중 인스타그램 인증 배지를 신청하기 위한 조건으로 올바르지 않은 것은 무엇일까요?]]></title>
-        <id>https://www.i-boss.co.kr/ab-5826</id>
-        <link href="https://www.i-boss.co.kr/ab-5826"/>
-        <updated>2022-01-26T14:16:28.363Z</updated>
-        <content type="html"><![CDATA[<tbody><tr>
-				<td><!--1-->다음 중 인스타그램 인증 배지를 신청하기 위한 조건으로 올바르지 않은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1350_1" value="1" class="AB-radio" id="PQ_BD5826_1350_1_0"><label for="PQ_BD5826_1350_1_0" id="label_PQ_BD5826_1350_1_0">(A) 사람 또는 비즈니스당 하나의 계정만 인증받을 수 있다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1350_1" value="2" class="AB-radio" id="PQ_BD5826_1350_1_1"><label for="PQ_BD5826_1350_1_1" id="label_PQ_BD5826_1350_1_1">(B) 계정은 전체 공개 상태여야 한다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1350_1" value="3" class="AB-radio" id="PQ_BD5826_1350_1_2"><label for="PQ_BD5826_1350_1_2" id="label_PQ_BD5826_1350_1_2">(C) 프로필에 다른 소셜 미디어 서비스로 이동하는 '추가하기' 링크를 포함할 수 없다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1350_1" value="4" class="AB-radio" id="PQ_BD5826_1350_1_3"><label for="PQ_BD5826_1350_1_3" id="label_PQ_BD5826_1350_1_3">(D) 게시물이 업로드 되어있는 계정은 인증 배지를 신청할 수 없다</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content>
-    </entry>
 </feed>

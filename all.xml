@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 14:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 16:26:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,13 +182,6 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[매출 2배 올린 대표이미지 노하우 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56896</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56896</guid>
-            <pubDate>Tue, 27 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[디자이너 필독! 작업 속도 올리고 싶다면 알아두세요.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57034</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57034</guid>
@@ -348,6 +341,13 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38079</guid>
             <pubDate>Sat, 31 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[억장이문어찜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[비용 인상에 파업까지, 엎친데 덮친 격 📦 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57009</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57009</guid>
+            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버 뉴스, 인위적으로 손 못 대알고리즘 검토위 결과 발표 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8096</guid>
             <pubDate>Fri, 21 Jan 2022 11:19:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다음 중 인스타그램 인증 배지를 신청하기 위한 조건으로 올바르지 않은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 26 Jan 2022 14:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->다음 중 인스타그램 인증 배지를 신청하기 위한 조건으로 올바르지 않은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1350_1" value="1" class="AB-radio" id="PQ_BD5826_1350_1_0"><label for="PQ_BD5826_1350_1_0" id="label_PQ_BD5826_1350_1_0">(A) 사람 또는 비즈니스당 하나의 계정만 인증받을 수 있다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1350_1" value="2" class="AB-radio" id="PQ_BD5826_1350_1_1"><label for="PQ_BD5826_1350_1_1" id="label_PQ_BD5826_1350_1_1">(B) 계정은 전체 공개 상태여야 한다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1350_1" value="3" class="AB-radio" id="PQ_BD5826_1350_1_2"><label for="PQ_BD5826_1350_1_2" id="label_PQ_BD5826_1350_1_2">(C) 프로필에 다른 소셜 미디어 서비스로 이동하는 '추가하기' 링크를 포함할 수 없다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1350_1" value="4" class="AB-radio" id="PQ_BD5826_1350_1_3"><label for="PQ_BD5826_1350_1_3" id="label_PQ_BD5826_1350_1_3">(D) 게시물이 업로드 되어있는 계정은 인증 배지를 신청할 수 없다</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시, 소상공인 50만명에 현금 100만원씩 준다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
