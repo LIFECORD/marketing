@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 23:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 01:01:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,13 +210,6 @@
             <content:encoded><![CDATA[김매니저]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[1+1과 무료배송만 입점하는 네이버 신규 쇼핑판 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56880</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56880</guid>
-            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 마케터의 일상 - 2 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38157</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38157</guid>
@@ -301,6 +294,13 @@
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[월 1,000만 원 벌기 위해 반드시 해야 하는 일 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57071</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57071</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[우뇌가 떠먹여주는 성과개선 노하우 3가지 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57069</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57069</guid>
@@ -313,13 +313,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38058</guid>
             <pubDate>Wed, 28 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[좌이리]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[월 1,000만 원 벌기 위해 반드시 해야 하는 일 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57071</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57071</guid>
-            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SNS 영상 광고 효과? 이거 4개만 알면 끝!! (아이보스 ─ 인기글)]]></title>
@@ -348,6 +341,53 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38197</guid>
             <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[stylenjh]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케터의 패션아이템 트렌드파악 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56972</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56972</guid>
+            <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[unick]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트위터, 전 세계에서 K-POP 관련 트윗 78억 건 발생 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8122</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8122</guid>
+            <pubDate>Wed, 26 Jan 2022 09:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 전 세계 트위터에서 78억 건이 넘는 K-POP 관련 트윗이 발생했다. 2020년 67억 트윗 대비 약 16% 높은 수치로, 자체 최고 트윗량을 다시 한번 갱신했다. 특히 K콘텐츠 열풍이 불었던 2021년에는 K-POP 뮤직에 국한됐던 글로벌 팬덤 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[호프만에이전시코리아, 하이브리드 워크 도입... 업무는 버추얼 공간에서, 직원 경험은 오피스에서 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8121</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8121</guid>
+            <pubDate>Wed, 26 Jan 2022 09:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[실리콘밸리에본사를둔테크놀로지전문커뮤니케이션기업호프만에이전시코리아가뉴노멀시대에걸맞는조직으로변화를위해하이브리드(hybrid)근무를도입한다. 하이브리드근무는구성원들이자유롭게재택근무(Work From Home)와오피스 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[신인섭 칼럼] 광고의 PURPOSE란 무엇인가? (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8120</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8120</guid>
+            <pubDate>Wed, 26 Jan 2022 09:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국적과 종교를 떠나 마틴 루터 킹 목사를 모르는 사람은 드물 것이다. 1929년 1월 15일에 미국 조지아주 애틀랜타에서 태어나, 1968년 4월 4일 백인 극렬 인종차별주의자 총에 맞아 사망했다. 애틀랜타는 1886년코카콜라가 태어난 곳 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 소비자의 공감은 캠페인의 진정성에 있습니다 박동준 현대차 책임매니저 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8119</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8119</guid>
+            <pubDate>Wed, 26 Jan 2022 08:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[현대차그룹은 2015년부터 인간을 위하는 미래 신기술의 사회적 활용을 담아내는 신기술 빅 아이디어 캠페인 영상을 제작해 국내외에서 공감과 호평을 끌어내고 있다. 때문에 올해에는 어떤 신기술이 우리 사회에 도움을 줄까 하 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[한국갤럽] 2022년 1월 한국인이 좋아하는 TV프로그램 1위 : 신사와 아가씨, 3개월째 1위 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8118</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8118</guid>
+            <pubDate>Wed, 26 Jan 2022 08:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국갤럽이 2022년 1월 18~20일 전국 만 18세 이상 1,002명에게 요즘 가장 즐겨보는 TV프로그램을 물은 결과(2개까지 자유응답), KBS2 주말 드라마신사와 아가씨가 선호도 6.5%로 3개월 연속 1위 를 차지했다. 초반에는 통상의 주말극보다 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[1월 26일 마케팅 뉴스클리핑] 설 앞두고 라방에서 김 판매한 가상인간 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -550,50 +590,45 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 디지털은 PR의 가치를 근본적으로 구현하는 커뮤니케이션 플랫폼입니다 김은용 전무 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8092</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8092</guid>
-            <pubDate>Fri, 21 Jan 2022 08:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[`광고 캠페인을 PR회사가 진행한다고?` `퍼포먼스 마케팅도 PR회사가 한대!` 전통적인 광고회사, 디지털 광고회사, PR회사의 영역을 구분할 수 있을까? 이제는 쉽지 않다. 이제 광고 커뮤케이션은 영역의 구분없는 경쟁의 장이 됐 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[트위터, 전 세계에서 K-POP 관련 트윗 78억 건 발생 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8122</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8122</guid>
+            <pubDate>Wed, 26 Jan 2022 01:00:51 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터들이 인플루언서 마케팅을 위해 틱톡으로 눈을 돌린다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8091</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8091</guid>
-            <pubDate>Fri, 21 Jan 2022 08:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[2020년 초부터 틱톡이 신기함에서소셜미디어의 주축으로 변모하면서 인플루언서 마케팅을 위한틱톡에 대한 미국 마케터의 관심이급증했다. 이마케터에 따르면, 2020년 미국 마케터 중 인플루언서 마케팅에 틱톡을 활용한 비율은 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[호프만에이전시코리아, 하이브리드 워크 도입... 업무는 버추얼 공간에서, 직원 경험은 오피스에서 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8121</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8121</guid>
+            <pubDate>Wed, 26 Jan 2022 01:00:51 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[1월 21일 마케팅 뉴스클리핑] 인스타그램, 크리에이터 구독 시범 운영 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8090</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8090</guid>
-            <pubDate>Fri, 21 Jan 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 인스타그램, 크리에이터 `구독` 시범 운영  인스타그램이 미국 내 소수 인플루언서를 대상으로 크리에이터 구독 기능을 시범 운영한다. 시범 운영에 참여하는 크리에이터는 라이브 방송과 스토리를 유료화할 수 있다. 구독자 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_130d37c284b637783d249e2c649c78b1_71364_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[신인섭 칼럼] 광고의 PURPOSE란 무엇인가? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8120</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8120</guid>
+            <pubDate>Wed, 26 Jan 2022 01:00:51 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국트렌드마이크로, 더욱 광범위해진 공격 접점 및 위협 증가에 대응할 통합 사이버 보안 플랫폼 필수 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8089</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8089</guid>
-            <pubDate>Thu, 20 Jan 2022 08:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 사이버 보안 기업 트렌드마이크로(한국 지사장 김진광)는COVID-19이후 더욱 광범위해진 보안 공격 접점 및 보안 위협 증가에 대응하기 위해서는XDR에 연계된 통합적인 보안 플랫폼이 필수적이라고2022년 전략 발표 기자간담 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[인터뷰] "소비자의 공감은 캠페인의 진정성에 있습니다" 박동준 현대차 책임매니저 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8119</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8119</guid>
+            <pubDate>Wed, 26 Jan 2022 01:00:51 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[Book] 그 회사의 브랜딩 : 처음부터 잘난 브랜드는 없다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8088</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8088</guid>
-            <pubDate>Thu, 20 Jan 2022 07:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[언니 없이 하지마. 이 홍보 문구는 많은 사람의 뇌리에 강남언니라는 브랜드를 확실히 각인시켰다. 지금은 미용의료 관련 정보 하면 가장 먼저 떠오르는 플랫폼이지만, 직원조차 강남언니라는 말을 밖으로 내보이기 꺼리던 시 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[한국갤럽] 2022년 1월 한국인이 좋아하는 TV프로그램 1위 : 신사와 아가씨, 3개월째 1위 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8118</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8118</guid>
+            <pubDate>Wed, 26 Jan 2022 01:00:51 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[1월 26일 마케팅 뉴스클리핑] 설 앞두고 라방에서 김 판매한 가상인간 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8116</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8116</guid>
-            <pubDate>Tue, 25 Jan 2022 23:18:10 GMT</pubDate>
+            <pubDate>Wed, 26 Jan 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -765,45 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] "디지털은 PR의 가치를 근본적으로 구현하는 커뮤니케이션 플랫폼입니다" 김은용 전무 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8092</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8092</guid>
-            <pubDate>Fri, 21 Jan 2022 08:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마케터들이 인플루언서 마케팅을 위해 틱톡으로 눈을 돌린다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8091</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8091</guid>
-            <pubDate>Fri, 21 Jan 2022 08:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[1월 21일 마케팅 뉴스클리핑] 인스타그램, 크리에이터 '구독' 시범 운영 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8090</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8090</guid>
-            <pubDate>Fri, 21 Jan 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국트렌드마이크로, 더욱 광범위해진 공격 접점 및 위협 증가에 대응할 통합 사이버 보안 플랫폼 필수 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8089</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8089</guid>
-            <pubDate>Thu, 20 Jan 2022 08:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[Book] 그 회사의 브랜딩 : 처음부터 잘난 브랜드는 없다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8088</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8088</guid>
-            <pubDate>Thu, 20 Jan 2022 07:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 인스타그램 인증 배지를 신청하기 위한 조건으로 올바르지 않은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 25 Jan 2022 23:18:34 GMT</pubDate>
+            <pubDate>Wed, 26 Jan 2022 01:01:08 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 인스타그램 인증 배지를 신청하기 위한 조건으로 올바르지 않은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
