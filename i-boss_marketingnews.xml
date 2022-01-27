@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 07:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 08:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버카카오페이 영세중소사업자 수수료 인하... 최대 0.2~0.3%p]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8134</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8134</guid>
+            <pubDate>Thu, 27 Jan 2022 08:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[오늘(26일) 네이버파이낸셜과 카카오페이는 오는 31일부터 온라인 영세사업자에 대해 0.3%p, 중소사업자에는 0.1~0.2%p 수수료를 낮추겠다고 밝혔습니다.   이번 조치로 네이버페이 수수료는 0.2%p 내려갑니다. 중소 사업자는 규모에  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[제 목소리 어때요? 가상인간 로지, 선을 넘는 인터뷰 진행]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8133</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8105</guid>
             <pubDate>Sun, 23 Jan 2022 08:17:00 GMT</pubDate>
             <content:encoded><![CDATA[비주얼 캐피털리스트]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 미국광고비, 2020년 대비 18%, 2019년 대비 9% 급증]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8104</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8104</guid>
-            <pubDate>Sun, 23 Jan 2022 08:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[미국 애드마켓 트래커의 스탠다드 미디어 인덱스(이하 SMI)분석에 따르면, 미국 광고시장은 2020-21년 경기 침체에서 완전히 회복되었으며 2021년 총광고비는2020년 대비 18%, 2019년 대비 9% 증가했다. SMI는 미디어포스트와 협력으로광 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
