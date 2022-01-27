@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 02:00:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 02:36:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,18 +182,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[월 1,000만 원 벌기 위해 반드시 해야 하는 일 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57071</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57071</guid>
-            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[디자이너 필독! 작업 속도 올리고 싶다면 알아두세요.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57034</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57034</guid>
             <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[원제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[월 1,000만 원 벌기 위해 반드시 해야 하는 일 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57071</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57071</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[흥하는 인스타그램의 비밀 9가지 (아이보스 ─ 인기글)]]></title>
@@ -245,18 +245,18 @@
             <content:encoded><![CDATA[아드리엘]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쇼핑몰, 무슨 솔루션으로 만들었나요? (feat. 설문조사.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57064</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57064</guid>
-            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[50가지 리스트로 정리해본 온라인 마케팅 순서도 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56910</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56910</guid>
             <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[baljunso]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑몰, 무슨 솔루션으로 만들었나요? (feat. 설문조사.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57064</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57064</guid>
+            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[블로그 글쓰기 1% 비밀(체류시간 5분 만들기) (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57009</guid>
             <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[집콕 설 연휴, 사람들은 어떤 앱을 쓸까? (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8131</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8131</guid>
+            <pubDate>Thu, 27 Jan 2022 11:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[음력으로 새해를 기념하는 나라들에게 설 명절은 큰 의미를 지닌다.앱 개발의 관점에서 설 연휴 유저 데이터를 분석하여 어떤 종류의 앱이 인기가 많을지 파악하는 것은 유의미한 결과를 가져올 것이다. 보건복지부는 지난1월14 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[AD & Celeb] 운동하는 재활의학과 전문의 이종민입니다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 넷플릭스, 신규 가입자 감소를 막지 못하다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8102</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8102</guid>
-            <pubDate>Sun, 23 Jan 2022 08:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 팬데믹의 초기 단계에서 엄청난 증가세를 보인 후, 넷플릭스의 순 유료 가입자 증가는 2021년에 타격을 받았다.2020년 4분기 비교하면, 신규 가입자수는 2021년 4분기는전 세계적으로 828만 명에 그쳤다.이는 앞서 넷플릭스 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[집콕 설 연휴, 사람들은 어떤 앱을 쓸까? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8131</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8131</guid>
+            <pubDate>Thu, 27 Jan 2022 02:36:22 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[AD & Celeb] 운동하는 재활의학과 전문의 이종민입니다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 넷플릭스, 신규 가입자 감소를 막지 못하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8102</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8102</guid>
-            <pubDate>Sun, 23 Jan 2022 08:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지의 이보숙 씨와 같은 사람을 이르는 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 27 Jan 2022 02:00:31 GMT</pubDate>
+            <pubDate>Thu, 27 Jan 2022 02:36:33 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지의 이보숙 씨와 같은 사람을 이르는 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/92efc6813fed5baa40aca71e15b0b3cb_16426545793675.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

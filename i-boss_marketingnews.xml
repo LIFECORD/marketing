@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 02:00:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 02:36:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[집콕 설 연휴, 사람들은 어떤 앱을 쓸까?]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8131</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8131</guid>
+            <pubDate>Thu, 27 Jan 2022 11:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[음력으로 새해를 기념하는 나라들에게 설 명절은 큰 의미를 지닌다.앱 개발의 관점에서 설 연휴 유저 데이터를 분석하여 어떤 종류의 앱이 인기가 많을지 파악하는 것은 유의미한 결과를 가져올 것이다. 보건복지부는 지난1월14 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[AD & Celeb] 운동하는 재활의학과 전문의 이종민입니다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8130</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8103</guid>
             <pubDate>Sun, 23 Jan 2022 08:15:00 GMT</pubDate>
             <content:encoded><![CDATA[미국의 12월 광고비는10개월 연속 증가했지만 최근 몇 달 사이 증가 속도가 눈에 띄게 둔화됐다. 미디어포스트가 미국 스탠더드 미디어 인덱스(SMI) 애드마켓 트래커를 분석한 결과, 21년 12월 총광고비는2020년 12월에 비해 1.4% 증가 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 넷플릭스, 신규 가입자 감소를 막지 못하다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8102</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8102</guid>
-            <pubDate>Sun, 23 Jan 2022 08:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 팬데믹의 초기 단계에서 엄청난 증가세를 보인 후, 넷플릭스의 순 유료 가입자 증가는 2021년에 타격을 받았다.2020년 4분기 비교하면, 신규 가입자수는 2021년 4분기는전 세계적으로 828만 명에 그쳤다.이는 앞서 넷플릭스 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
