@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 02:36:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 03:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -245,18 +245,18 @@
             <content:encoded><![CDATA[아드리엘]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[50가지 리스트로 정리해본 온라인 마케팅 순서도 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56910</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56910</guid>
-            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[baljunso]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[쇼핑몰, 무슨 솔루션으로 만들었나요? (feat. 설문조사.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57064</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57064</guid>
             <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[50가지 리스트로 정리해본 온라인 마케팅 순서도 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56910</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56910</guid>
+            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[baljunso]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[블로그 글쓰기 1% 비밀(체류시간 5분 만들기) (아이보스 ─ 인기글)]]></title>
@@ -593,7 +593,7 @@
             <title><![CDATA[집콕 설 연휴, 사람들은 어떤 앱을 쓸까? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8131</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8131</guid>
-            <pubDate>Thu, 27 Jan 2022 02:36:22 GMT</pubDate>
+            <pubDate>Thu, 27 Jan 2022 11:06:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 이미지의 이보숙 씨와 같은 사람을 이르는 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 27 Jan 2022 02:36:33 GMT</pubDate>
+            <pubDate>Thu, 27 Jan 2022 03:17:43 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지의 이보숙 씨와 같은 사람을 이르는 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/92efc6813fed5baa40aca71e15b0b3cb_16426545793675.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
