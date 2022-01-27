@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-27T21:14:58.525Z</updated>
+    <updated>2022-01-27T22:16:23.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[해적보물선]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주접생성기 사이트 너무 웃기네욬ㅋㅋ]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38168</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38168"/>
-        <updated>2022-01-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[체르시]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[마케팅밈] 마케터 MBTI ~J와 P~]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38253</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38253"/>
         <updated>2022-01-27T05:15:39.087Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주접생성기 사이트 너무 웃기네욬ㅋㅋ]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38168</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38168"/>
+        <updated>2022-01-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[체르시]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[roas1000% 찍는 광고소재 이미지 공통점]]></title>
