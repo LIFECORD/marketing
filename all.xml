@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 09:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 10:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,18 +280,18 @@
             <content:encoded><![CDATA[인프피]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우뇌가 떠먹여주는 성과개선 노하우 3가지 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57069</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57069</guid>
-            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[교육매니저]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 마케터 MBTI ~J와 P~ (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38253</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38253</guid>
             <pubDate>Thu, 27 Jan 2022 05:15:39 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우뇌가 떠먹여주는 성과개선 노하우 3가지 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57069</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57069</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[교육매니저]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쇼핑몰 4가지 상황별 GFA통한 매출 N% 상승 전략 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 이미지의 이보숙 씨와 같은 사람을 이르는 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 27 Jan 2022 09:17:50 GMT</pubDate>
+            <pubDate>Thu, 27 Jan 2022 10:18:16 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지의 이보숙 씨와 같은 사람을 이르는 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/92efc6813fed5baa40aca71e15b0b3cb_16426545793675.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
