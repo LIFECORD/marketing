@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 06:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 07:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,18 +308,18 @@
             <content:encoded><![CDATA[좌이리]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아무리 관리업체라 해도, 너무하지 않나요? 다들 이.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38197</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38197</guid>
-            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[stylenjh]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 마케터 MBTI ~J와 P~ (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38253</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38253</guid>
             <pubDate>Thu, 27 Jan 2022 05:15:39 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아무리 관리업체라 해도, 너무하지 않나요? 다들 이.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38197</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38197</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[stylenjh]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[굳이 마케팅 자격증 딴다면? 어떤게 좋을까요? (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38079</guid>
             <pubDate>Sat, 31 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[억장이문어찜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제 목소리 어때요? 가상인간 로지, 선을 넘는 인터뷰 진행 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8133</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8133</guid>
+            <pubDate>Thu, 27 Jan 2022 07:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[가상 인간 모델 로지가 이번엔 유튜브 MC로 변신해 처음으로 대중에 목소리를 공개했다. 신한라이프에서 유튜브에 공개한 선을 넘는 인터뷰 영상에서 로지는 연예인 홍석천, 신한라이프 ESG(환경사회지배 구조) 자문대사인 최재 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[집콕 설 연휴, 사람들은 어떤 앱을 쓸까? (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[미국 광고시장 10개월 연속 확대, 2021년 12월 급감 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8103</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8103</guid>
-            <pubDate>Sun, 23 Jan 2022 08:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 12월 광고비는10개월 연속 증가했지만 최근 몇 달 사이 증가 속도가 눈에 띄게 둔화됐다. 미디어포스트가 미국 스탠더드 미디어 인덱스(SMI) 애드마켓 트래커를 분석한 결과, 21년 12월 총광고비는2020년 12월에 비해 1.4% 증가 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA["제 목소리 어때요?" 가상인간 로지, ‘선을 넘는 인터뷰’ 진행 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8133</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8133</guid>
+            <pubDate>Thu, 27 Jan 2022 07:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[집콕 설 연휴, 사람들은 어떤 앱을 쓸까? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미국 광고시장 10개월 연속 확대, 2021년 12월 급감 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8103</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8103</guid>
-            <pubDate>Sun, 23 Jan 2022 08:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지의 이보숙 씨와 같은 사람을 이르는 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 27 Jan 2022 06:21:21 GMT</pubDate>
+            <pubDate>Thu, 27 Jan 2022 07:16:33 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지의 이보숙 씨와 같은 사람을 이르는 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/92efc6813fed5baa40aca71e15b0b3cb_16426545793675.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

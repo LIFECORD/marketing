@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 06:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 07:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제 목소리 어때요? 가상인간 로지, 선을 넘는 인터뷰 진행]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8133</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8133</guid>
+            <pubDate>Thu, 27 Jan 2022 07:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[가상 인간 모델 로지가 이번엔 유튜브 MC로 변신해 처음으로 대중에 목소리를 공개했다. 신한라이프에서 유튜브에 공개한 선을 넘는 인터뷰 영상에서 로지는 연예인 홍석천, 신한라이프 ESG(환경사회지배 구조) 자문대사인 최재 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[집콕 설 연휴, 사람들은 어떤 앱을 쓸까?]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8131</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8104</guid>
             <pubDate>Sun, 23 Jan 2022 08:16:00 GMT</pubDate>
             <content:encoded><![CDATA[미국 애드마켓 트래커의 스탠다드 미디어 인덱스(이하 SMI)분석에 따르면, 미국 광고시장은 2020-21년 경기 침체에서 완전히 회복되었으며 2021년 총광고비는2020년 대비 18%, 2019년 대비 9% 증가했다. SMI는 미디어포스트와 협력으로광 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 광고시장 10개월 연속 확대, 2021년 12월 급감]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8103</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8103</guid>
-            <pubDate>Sun, 23 Jan 2022 08:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 12월 광고비는10개월 연속 증가했지만 최근 몇 달 사이 증가 속도가 눈에 띄게 둔화됐다. 미디어포스트가 미국 스탠더드 미디어 인덱스(SMI) 애드마켓 트래커를 분석한 결과, 21년 12월 총광고비는2020년 12월에 비해 1.4% 증가 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
