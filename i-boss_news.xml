@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-01-27T22:16:23.931Z</updated>
+    <updated>2022-01-27T23:17:57.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[1월 28일 마케팅 뉴스클리핑] 마케팅도 AI 챗으로... 네이버쇼핑, '솔루션마켓' 베타 오픈 외]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8132</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8132"/>
+        <updated>2022-01-27T23:17:38.558Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버·카카오페이 영세중소사업자 수수료 인하... 최대 0.2~0.3%p↓]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8134</id>
@@ -205,13 +212,6 @@
         <title type="html"><![CDATA[마인크래프트, 로블록스 및 포트나이트 게임 트렌드가 브랜드에 미치는 영향]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8106</id>
         <link href="https://www.i-boss.co.kr/ab-2877-8106"/>
-        <updated>2022-01-23T00:56:50.543Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인포그래픽] 2021년 암호화폐 실적]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8105</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8105"/>
         <updated>2022-01-23T00:56:50.543Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>

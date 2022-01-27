@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 22:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 23:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1월 28일 마케팅 뉴스클리핑] 마케팅도 AI 챗으로... 네이버쇼핑, 솔루션마켓 베타 오픈 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8132</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8132</guid>
+            <pubDate>Fri, 28 Jan 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 마케팅도 AI 챗으로... 네이버쇼핑, `솔루션마켓` 베타 오픈  네이버쇼핑이 스마트스토어 입점한 중소상공인 판매자들을 대상으로 커머스 솔루션 마켓 서비스를 베타 오픈했다고 밝혔다. 상품 관리부터 마케팅, 주문결제, 배송 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_642e7fcbad1fe974f7bd49952c77b76d_14869_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버카카오페이 영세중소사업자 수수료 인하... 최대 0.2~0.3%p]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8134</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8106</guid>
             <pubDate>Sun, 23 Jan 2022 08:18:00 GMT</pubDate>
             <content:encoded><![CDATA[메타버스는 의심할 여지 없이 2021년 최고의 기술 유행어 중 하나였다. 많은 세계 최대 기업들이 참여하고 심지어 장기적인 전략을 완전히 변경함에 따라 2022년은 메타버스 개발로 가득 찬 한 해가 될 것으로 예상된다. 여기서 우 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 2021년 암호화폐 실적]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8105</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8105</guid>
-            <pubDate>Sun, 23 Jan 2022 08:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[비주얼 캐피털리스트]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
