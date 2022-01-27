@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 04:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 05:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,13 @@
             <content:encoded><![CDATA[상원1]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[마케팅밈] 마케터 MBTI ~J와 P~ (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38253</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38253</guid>
+            <pubDate>Thu, 27 Jan 2022 05:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[마케터의 패션아이템 트렌드파악 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56972</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56972</guid>
@@ -341,13 +348,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38079</guid>
             <pubDate>Sat, 31 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[억장이문어찜]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[비용 인상에 파업까지, 엎친데 덮친 격 📦 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57009</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57009</guid>
-            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[집콕 설 연휴, 사람들은 어떤 앱을 쓸까? (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 이미지의 이보숙 씨와 같은 사람을 이르는 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 27 Jan 2022 04:21:37 GMT</pubDate>
+            <pubDate>Thu, 27 Jan 2022 05:16:12 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지의 이보숙 씨와 같은 사람을 이르는 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/92efc6813fed5baa40aca71e15b0b3cb_16426545793675.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
