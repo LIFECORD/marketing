@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 08:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 10:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -301,18 +301,18 @@
             <content:encoded><![CDATA[다니엘신]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아무리 관리업체라 해도, 너무하지 않나요? 다들 이.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38197</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38197</guid>
-            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[stylenjh]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케터에게 필요한 기획 습관 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-5637-29</link>
             <guid>https://www.i-boss.co.kr/ab-5637-29</guid>
             <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아무리 관리업체라 해도, 너무하지 않나요? 다들 이.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38197</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38197</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[stylenjh]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[굳이 마케팅 자격증 딴다면? 어떤게 좋을까요? (아이보스 ─ 인기글)]]></title>
@@ -593,14 +593,14 @@
             <title><![CDATA[한진, 업계 최초로 물류 테마관 '메타버스' 구축 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8142</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8142</guid>
-            <pubDate>Fri, 28 Jan 2022 08:22:31 GMT</pubDate>
+            <pubDate>Fri, 28 Jan 2022 08:22:21 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구관이 명관, 외식계 '시그니처 메뉴' 집중 마케팅 '활활' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8141</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8141</guid>
-            <pubDate>Fri, 28 Jan 2022 08:22:31 GMT</pubDate>
+            <pubDate>Fri, 28 Jan 2022 08:22:21 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[한 조사 결과에 따르면, 97.2%의 소비자가 구매 전 ○○를 확인한다고 답했습니다. 빈칸에 들어갈 말로 알맞은 것은 무엇일까요?(hint: 큐레터의 레퍼런스 보고 정답 유추하기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 28 Jan 2022 08:22:42 GMT</pubDate>
+            <pubDate>Fri, 28 Jan 2022 10:19:41 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->한 조사 결과에 따르면, 97.2%의 소비자가 구매 전 ○○를 확인한다고 답했습니다. 빈칸에 들어갈 말로 알맞은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-56985" target="_blank">큐레터의 레퍼런스 보고 정답 유추하기!</a>)</span></td>
 			</tr>
