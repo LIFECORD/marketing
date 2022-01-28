@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 05:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 06:21:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수제 맥주의 변신, 도대체 어디까지?]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8140</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8140</guid>
+            <pubDate>Fri, 28 Jan 2022 06:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[[ 매드타임스 이정민 대학생 기자]편의점에서 최근 핫하게 떠오르고 있는 수제맥주. 곰표에서의 콜라보 및 수제맥주가 크게 인기상품이 되면서 너도나도 수제맥주 시장에 뛰어들고 있다. 게다가 MZ세대들이 기존의 경계나 틀에 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d06eba8b2ad7ade4cdcaeec21ba91520_65016_6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청년마케터, 2022년 청년인이 선정한 우수 직무 커뮤니티로 선정]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8139</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 25 Jan 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 네이버 `인플루언서 토픽`, 크리에이터들은 `글쎄`  네이버가 카카오의 `뷰` 대항마로 `인플루언서 토픽`을 선보였다. 큐레이션이 콘텐츠 창작자들의 새로운 수익 창구가 되면서 경쟁력 있는 창작자들을 붙잡기 위함으로 보인 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_45d33ebc0c7d4caae08cc1d1a3223022_61370_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 방송광고시장 노린다 SBS미디어랩 지분 매물 내놔]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8110</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8110</guid>
-            <pubDate>Mon, 24 Jan 2022 11:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[카카오가 방송사광고대행사(미디어랩) 지분을 매각하고 연간 2조5000억원대에 달하는 방송광고 대행시장 진출을 추진한다. 현행법상 미디어랩 지분을 보유한 사업자는 방송광고 사업을 할 수 없다. 지분매각에 성공하면 기존 모 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

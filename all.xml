@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 05:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 06:21:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,18 +231,18 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[새해맞이 '새로운 마케팅'을 위한 3가지 팁 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-74668-2525</link>
-            <guid>https://www.i-boss.co.kr/ab-74668-2525</guid>
-            <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아드리엘]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 마케터 MBTI ~J와 P~ (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38253</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38253</guid>
             <pubDate>Thu, 27 Jan 2022 05:15:39 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[새해맞이 '새로운 마케팅'을 위한 3가지 팁 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-74668-2525</link>
+            <guid>https://www.i-boss.co.kr/ab-74668-2525</guid>
+            <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아드리엘]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쇼핑몰, 무슨 솔루션으로 만들었나요? (feat. 설문조사.. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57009</guid>
             <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[수제 맥주의 변신, 도대체 어디까지? (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8140</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8140</guid>
+            <pubDate>Fri, 28 Jan 2022 06:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[[ 매드타임스 이정민 대학생 기자]편의점에서 최근 핫하게 떠오르고 있는 수제맥주. 곰표에서의 콜라보 및 수제맥주가 크게 인기상품이 되면서 너도나도 수제맥주 시장에 뛰어들고 있다. 게다가 MZ세대들이 기존의 경계나 틀에 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d06eba8b2ad7ade4cdcaeec21ba91520_65016_6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[청년마케터, 2022년 청년인이 선정한 우수 직무 커뮤니티로 선정 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_45d33ebc0c7d4caae08cc1d1a3223022_61370_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카카오, 방송광고시장 노린다 SBS미디어랩 지분 매물 내놔 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8110</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8110</guid>
-            <pubDate>Mon, 24 Jan 2022 11:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[카카오가 방송사광고대행사(미디어랩) 지분을 매각하고 연간 2조5000억원대에 달하는 방송광고 대행시장 진출을 추진한다. 현행법상 미디어랩 지분을 보유한 사업자는 방송광고 사업을 할 수 없다. 지분매각에 성공하면 기존 모 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[수제 맥주의 변신, 도대체 어디까지? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8140</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8140</guid>
+            <pubDate>Fri, 28 Jan 2022 06:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[청년마케터, 2022년 청년인이 선정한 우수 직무 커뮤니티로 선정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오, 방송광고시장 노린다… SBS미디어랩 지분 매물 내놔 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8110</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8110</guid>
-            <pubDate>Mon, 24 Jan 2022 11:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[유리나]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[한 조사 결과에 따르면, 97.2%의 소비자가 구매 전 ○○를 확인한다고 답했습니다. 빈칸에 들어갈 말로 알맞은 것은 무엇일까요?(hint: 큐레터의 레퍼런스 보고 정답 유추하기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 28 Jan 2022 05:17:24 GMT</pubDate>
+            <pubDate>Fri, 28 Jan 2022 06:21:00 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->한 조사 결과에 따르면, 97.2%의 소비자가 구매 전 ○○를 확인한다고 답했습니다. 빈칸에 들어갈 말로 알맞은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-56985" target="_blank">큐레터의 레퍼런스 보고 정답 유추하기!</a>)</span></td>
 			</tr>
