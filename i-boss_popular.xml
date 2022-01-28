@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-28T06:21:09.840Z</updated>
+    <updated>2022-01-28T07:16:12.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -174,6 +174,13 @@
         <content type="html"><![CDATA[stylenjh]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[마케터에게 필요한 기획 습관]]></title>
+        <id>https://www.i-boss.co.kr/ab-5637-29</id>
+        <link href="https://www.i-boss.co.kr/ab-5637-29"/>
+        <updated>2022-01-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[굳이 마케팅 자격증 딴다면? 어떤게 좋을까요?]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38109</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38109"/>
@@ -186,13 +193,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-56970"/>
         <updated>2022-01-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[상원1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마케터에게 필요한 기획 습관]]></title>
-        <id>https://www.i-boss.co.kr/ab-5637-29</id>
-        <link href="https://www.i-boss.co.kr/ab-5637-29"/>
-        <updated>2022-01-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 SNS 인기 콘텐츠 9가지 주제]]></title>
