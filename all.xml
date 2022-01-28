@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 02:39:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 04:21:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,18 +231,18 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쇼핑몰, 무슨 솔루션으로 만들었나요? (feat. 설문조사.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57064</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57064</guid>
-            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[새해맞이 '새로운 마케팅'을 위한 3가지 팁 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-74668-2525</link>
             <guid>https://www.i-boss.co.kr/ab-74668-2525</guid>
             <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아드리엘]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑몰, 무슨 솔루션으로 만들었나요? (feat. 설문조사.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57064</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57064</guid>
+            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 마케터 MBTI ~J와 P~ (아이보스 ─ 인기글)]]></title>
@@ -294,18 +294,18 @@
             <content:encoded><![CDATA[영상팁]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아무리 관리업체라 해도, 너무하지 않나요? 다들 이.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38197</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38197</guid>
-            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[stylenjh]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[초보 블로거들에게 필요한 사이트 공유 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57076</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57076</guid>
             <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다니엘신]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아무리 관리업체라 해도, 너무하지 않나요? 다들 이.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38197</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38197</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[stylenjh]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[굳이 마케팅 자격증 딴다면? 어떤게 좋을까요? (아이보스 ─ 인기글)]]></title>
@@ -329,18 +329,18 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터의 패션아이템 트렌드파악 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56972</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56972</guid>
-            <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[unick]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케터에게 필요한 기획 습관 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-5637-29</link>
             <guid>https://www.i-boss.co.kr/ab-5637-29</guid>
             <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케터의 패션아이템 트렌드파악 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56972</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56972</guid>
+            <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[unick]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[비용 인상에 파업까지, 엎친데 덮친 격 📦 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[한 조사 결과에 따르면, 97.2%의 소비자가 구매 전 ○○를 확인한다고 답했습니다. 빈칸에 들어갈 말로 알맞은 것은 무엇일까요?(hint: 큐레터의 레퍼런스 보고 정답 유추하기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 28 Jan 2022 02:39:23 GMT</pubDate>
+            <pubDate>Fri, 28 Jan 2022 04:21:31 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->한 조사 결과에 따르면, 97.2%의 소비자가 구매 전 ○○를 확인한다고 답했습니다. 빈칸에 들어갈 말로 알맞은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-56985" target="_blank">큐레터의 레퍼런스 보고 정답 유추하기!</a>)</span></td>
 			</tr>
