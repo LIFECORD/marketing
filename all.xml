@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 07:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 08:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,22 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[한진, 업계 최초로 물류 테마관 메타버스 구축 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8142</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8142</guid>
+            <pubDate>Fri, 28 Jan 2022 08:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[한진은 업계 최초로 가상 물류 공간을 구현한 메타버스(3차원 가상 세계)를 구축한다고 28일 밝혔다.  ㈜한진은 메타버스 구축을 위해 전날 디지털 통합 마케팅 기업인 ㈜모티브 아이디어스와 업무협약을 체결했다. 두 회사는 협 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[구관이 명관, 외식계 시그니처 메뉴 집중 마케팅 활활 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8141</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8141</guid>
+            <pubDate>Fri, 28 Jan 2022 08:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[외식업계가 브랜드의 상징인 시그니처 메뉴에 집중하는 마케팅을 속속 전개하고 있다. 브랜드만의 맛과 감성, 이야기를 함축하고 있는 시그니처 메뉴를 한층 공격적으로 조명함으로써, 소비에 있어 개성이나 특징 등 고유 가치 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[수제 맥주의 변신, 도대체 어디까지? (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8140</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8140</guid>
@@ -574,20 +590,18 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_25c3f6f8137b856750ac660457881d04_25158_6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 보여줄 게 많은 펜타클, 열심히 알리겠습니다 펜타클 김나현, 신혜린 매니저 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8112</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8112</guid>
-            <pubDate>Tue, 25 Jan 2022 09:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[`중이 제 머리를 깍지 못한다`는 말이 있다. 광고회사가 하는 자사의 홍보가딱 그렇다. 아마도 광고회사가 너무 겸손해서 그런 것 아닐까? 그런데 이제 광고회사도 홍보가필수다. 가만히 있으면 누구도 알아주지 않다. 치열한 경 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[한진, 업계 최초로 물류 테마관 '메타버스' 구축 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8142</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8142</guid>
+            <pubDate>Fri, 28 Jan 2022 08:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[1월 25일 마케팅 뉴스클리핑] 네이버 인플루언서 토픽, 크리에이터들은 글쎄 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8111</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8111</guid>
-            <pubDate>Tue, 25 Jan 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 네이버 `인플루언서 토픽`, 크리에이터들은 `글쎄`  네이버가 카카오의 `뷰` 대항마로 `인플루언서 토픽`을 선보였다. 큐레이션이 콘텐츠 창작자들의 새로운 수익 창구가 되면서 경쟁력 있는 창작자들을 붙잡기 위함으로 보인 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_45d33ebc0c7d4caae08cc1d1a3223022_61370_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[구관이 명관, 외식계 '시그니처 메뉴' 집중 마케팅 '활활' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8141</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8141</guid>
+            <pubDate>Fri, 28 Jan 2022 08:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[수제 맥주의 변신, 도대체 어디까지? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] "보여줄 게 많은 펜타클, 열심히 알리겠습니다" 펜타클 김나현, 신혜린 매니저 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8112</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8112</guid>
-            <pubDate>Tue, 25 Jan 2022 09:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[1월 25일 마케팅 뉴스클리핑] 네이버 '인플루언서 토픽', 크리에이터들은 '글쎄' 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8111</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8111</guid>
-            <pubDate>Tue, 25 Jan 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[한 조사 결과에 따르면, 97.2%의 소비자가 구매 전 ○○를 확인한다고 답했습니다. 빈칸에 들어갈 말로 알맞은 것은 무엇일까요?(hint: 큐레터의 레퍼런스 보고 정답 유추하기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 28 Jan 2022 07:16:03 GMT</pubDate>
+            <pubDate>Fri, 28 Jan 2022 08:22:42 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->한 조사 결과에 따르면, 97.2%의 소비자가 구매 전 ○○를 확인한다고 답했습니다. 빈칸에 들어갈 말로 알맞은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-56985" target="_blank">큐레터의 레퍼런스 보고 정답 유추하기!</a>)</span></td>
 			</tr>
