@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 03:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 04:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[억장이문어찜]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[지구와 화성 사이에 위치한 신선함의 별, 식물성 도산 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8145</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8145</guid>
+            <pubDate>Sat, 29 Jan 2022 00:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 해 4월부터 특이한 콘셉트로 주목받는 카페가 있다. 바로 강남구 도산공원 인근에 위치한 식물성 도산이다. 이곳의 외관은 여느 카페와 다를 것이 없어 보이지만 스마트팜 기업인 엔씽의 브랜드 쇼룸의 기능을 하는 카페이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[메타버스의 의미를 이해하는 브랜드는 18%에 불과하다 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8144</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8144</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[스타일쉐어, 60억 규모 파트너 지원 프로그램 가동 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8115</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8115</guid>
-            <pubDate>Tue, 25 Jan 2022 10:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 패션 플랫폼 스타일쉐어가 파트너 브랜드들과 동반성장을 위해 60억 규모 지원 프로젝트를 추진한다고 25일 밝혔다.  스타일쉐어 파트너 지원 프로젝트는 각 파트너사 성장 단계와 브랜드 색깔에 맞춰 회사가 보유한 미 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16430746085043.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘지구와 화성 사이에 위치한 신선함의 별’, 식물성 도산 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8145</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8145</guid>
+            <pubDate>Sat, 29 Jan 2022 04:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[메타버스의 의미를 이해하는 브랜드는 18%에 불과하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스타일쉐어, 60억 규모 파트너 지원 프로그램 가동 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8115</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8115</guid>
-            <pubDate>Tue, 25 Jan 2022 10:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[한 조사 결과에 따르면, 97.2%의 소비자가 구매 전 ○○를 확인한다고 답했습니다. 빈칸에 들어갈 말로 알맞은 것은 무엇일까요?(hint: 큐레터의 레퍼런스 보고 정답 유추하기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 29 Jan 2022 03:17:01 GMT</pubDate>
+            <pubDate>Sat, 29 Jan 2022 04:21:06 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->한 조사 결과에 따르면, 97.2%의 소비자가 구매 전 ○○를 확인한다고 답했습니다. 빈칸에 들어갈 말로 알맞은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-56985" target="_blank">큐레터의 레퍼런스 보고 정답 유추하기!</a>)</span></td>
 			</tr>
