@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 10:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 11:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[한 조사 결과에 따르면, 97.2%의 소비자가 구매 전 ○○를 확인한다고 답했습니다. 빈칸에 들어갈 말로 알맞은 것은 무엇일까요?(hint: 큐레터의 레퍼런스 보고 정답 유추하기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 29 Jan 2022 10:17:37 GMT</pubDate>
+            <pubDate>Sat, 29 Jan 2022 11:15:09 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->한 조사 결과에 따르면, 97.2%의 소비자가 구매 전 ○○를 확인한다고 답했습니다. 빈칸에 들어갈 말로 알맞은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-56985" target="_blank">큐레터의 레퍼런스 보고 정답 유추하기!</a>)</span></td>
 			</tr>
