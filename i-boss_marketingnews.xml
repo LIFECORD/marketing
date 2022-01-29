@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 23:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 00:53:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타버스의 의미를 이해하는 브랜드는 18%에 불과하다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8144</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8144</guid>
+            <pubDate>Sat, 29 Jan 2022 09:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[ListenFirst가 발표한 `2022 소셜 미디어 마케팅 트렌드` 보고서에 따르면 진행 중인 감염병에도 불구하고 브랜드는 마케팅 채널로서 소셜 미디어에 그 어느 때보다 많은 노력을 기울이고 있다. 응답자의 55%는 팬데믹 기간 동안 브랜 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[IMF, 2022년 세계 경제 성장률 전망치 하향 조정... 증가하는 케이스 로드, 중단된 회복 및 높은 인플레이션]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8143</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8143</guid>
+            <pubDate>Sat, 29 Jan 2022 09:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[국제통화기금(IMF)이 세계경제 성장률 전망치를 0.5%포인트 인하했다. IMF의 세계경제전망에 따르면, 올해 세계 국내총생산(GDP)이 2021년 10월 전망치(4.9%)보다 낮은 4.4% 성장할 것으로 전망하고 있다. 보고서에따르면, 오미크론의 급 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[한진, 업계 최초로 물류 테마관 메타버스 구축]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8142</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 25 Jan 2022 10:37:00 GMT</pubDate>
             <content:encoded><![CDATA[온라인 패션 플랫폼 스타일쉐어가 파트너 브랜드들과 동반성장을 위해 60억 규모 지원 프로젝트를 추진한다고 25일 밝혔다.  스타일쉐어 파트너 지원 프로젝트는 각 파트너사 성장 단계와 브랜드 색깔에 맞춰 회사가 보유한 미 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16430746085043.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국인 스마트폰 사용자의 37% 중고거래 앱 이용]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8114</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8114</guid>
-            <pubDate>Tue, 25 Jan 2022 09:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난달에 중고거래 앱을 1번 이상 사용한 사람이 1,775만 명, 한국인 스마트폰 사용자의 37% 작년 한 해 동안 중고거래 앱 사용자 24% 증가 중고거래 앱 사용자수는 당근마켓, 번개장터, 중고나라 순     작년 한 해 중고거래 앱 시장 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_f246aa5daa708a0b32b8aa5deb9f589b_67331_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전세계 인플루언서 검색을 한 눈에! NPR, 글로벌 인플루언서 플랫폼 태거 출시]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8113</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8113</guid>
-            <pubDate>Tue, 25 Jan 2022 09:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[전세계의 인플루언서를 검색하고 이들을 활용한 마케팅 캠페인을 한곳에서 집행할 수 있는 글로벌 플랫폼 서비스가 한국에 상륙했다. 홍보회사NPR(www.nprcom.co.kr ,대표 윤영준)은 미국의 소셜미디어 관련 스타트업 태거미디어(www ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_25c3f6f8137b856750ac660457881d04_25158_6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

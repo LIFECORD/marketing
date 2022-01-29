@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-01-28T23:17:50.748Z</updated>
+    <updated>2022-01-29T00:53:02.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38074"/>
         <updated>2021-12-31T09:19:18.470Z</updated>
         <content type="html"><![CDATA[놀토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년에는 어떤 광고에 집중하실 예정이세요?]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56900</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56900"/>
-        <updated>2021-12-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 타임캡슐 📅]]></title>
@@ -90,18 +83,18 @@
         <content type="html"><![CDATA[진민우]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022ver. 스마트스토어 성공테크트리]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56990</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56990"/>
-        <updated>2022-01-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[둥근마을]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[마케팅밈] 마케터 MBTI ~J와 P~]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38253</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38253"/>
         <updated>2022-01-27T05:15:39.087Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022ver. 스마트스토어 성공테크트리]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56990</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56990"/>
+        <updated>2022-01-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[둥근마을]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[새해맞이 '새로운 마케팅'을 위한 3가지 팁]]></title>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57009"/>
         <updated>2022-01-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스마트스토어로 월 1000만원 찍고 난 후 달라진 점]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38079</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38079"/>
+        <updated>2022-12-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[억장이문어찜]]></content>
     </entry>
 </feed>
