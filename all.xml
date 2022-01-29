@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 04:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 05:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[억장이문어찜]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[코바코, 지역 소상공인 광고 확대... 방송광고 제작과 송출에 177개사 지원, 전년보다 30% 늘려 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8146</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8146</guid>
+            <pubDate>Sat, 29 Jan 2022 05:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코, 사장 이백만)가 2022년 지역밀착형 방송광고 활성화 기반구축사업을 실시한다. 지역밀착형 방송광고 활성화 기반구축 사업은 코바코가 방송통신위원회와 함께 소상공인의 성장과 지역 방송 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[지구와 화성 사이에 위치한 신선함의 별, 식물성 도산 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8145</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8145</guid>
@@ -582,18 +590,17 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_87edc27a055c7dc1c923edcbdce14e77_50400_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[5개 OTT 한 곳에서 검색... SK브로드밴드, 플레이제트 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8117</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8117</guid>
-            <pubDate>Tue, 25 Jan 2022 08:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[리모콘 형태 새 미디어 플랫폼 선봬   SK브로드밴드가 각종 OTT와 스트리밍 채널, 게임, 노래방 등을 모두 즐길 수 있는 올인원 플레이박스 플레이제트(PlayZ)를 25일 선보였다.  OTT 포털을 통해 웨이브, 티빙, 왓챠, 아마존프라임비 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[코바코, 지역 소상공인 광고 확대... 방송광고 제작과 송출에 177개사 지원, 전년보다 30% 늘려 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8146</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8146</guid>
+            <pubDate>Sat, 29 Jan 2022 05:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘지구와 화성 사이에 위치한 신선함의 별’, 식물성 도산 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8145</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8145</guid>
-            <pubDate>Sat, 29 Jan 2022 04:20:55 GMT</pubDate>
+            <pubDate>Sat, 29 Jan 2022 00:56:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[5개 OTT 한 곳에서 검색... SK브로드밴드, 플레이제트 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8117</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8117</guid>
-            <pubDate>Tue, 25 Jan 2022 08:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[한 조사 결과에 따르면, 97.2%의 소비자가 구매 전 ○○를 확인한다고 답했습니다. 빈칸에 들어갈 말로 알맞은 것은 무엇일까요?(hint: 큐레터의 레퍼런스 보고 정답 유추하기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 29 Jan 2022 04:21:06 GMT</pubDate>
+            <pubDate>Sat, 29 Jan 2022 05:14:48 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->한 조사 결과에 따르면, 97.2%의 소비자가 구매 전 ○○를 확인한다고 답했습니다. 빈칸에 들어갈 말로 알맞은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-56985" target="_blank">큐레터의 레퍼런스 보고 정답 유추하기!</a>)</span></td>
 			</tr>

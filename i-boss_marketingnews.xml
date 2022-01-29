@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 04:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 05:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코바코, 지역 소상공인 광고 확대... 방송광고 제작과 송출에 177개사 지원, 전년보다 30% 늘려]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8146</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8146</guid>
+            <pubDate>Sat, 29 Jan 2022 05:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코, 사장 이백만)가 2022년 지역밀착형 방송광고 활성화 기반구축사업을 실시한다. 지역밀착형 방송광고 활성화 기반구축 사업은 코바코가 방송통신위원회와 함께 소상공인의 성장과 지역 방송 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[지구와 화성 사이에 위치한 신선함의 별, 식물성 도산]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8145</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 26 Jan 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 설 앞두고 라방에서 김 판매한 가상인간  가상인간이 실시간으로 중계되는 네이버 쇼핑라이브에서 쇼호스트가 돼 김을 팔아 화제다. 가상인간 `리아`가 그 주인공인데 `리아`는 실제 사람과 분간하기 어려울 만큼 자연스러운  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_87edc27a055c7dc1c923edcbdce14e77_50400_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5개 OTT 한 곳에서 검색... SK브로드밴드, 플레이제트 출시]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8117</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8117</guid>
-            <pubDate>Tue, 25 Jan 2022 08:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[리모콘 형태 새 미디어 플랫폼 선봬   SK브로드밴드가 각종 OTT와 스트리밍 채널, 게임, 노래방 등을 모두 즐길 수 있는 올인원 플레이박스 플레이제트(PlayZ)를 25일 선보였다.  OTT 포털을 통해 웨이브, 티빙, 왓챠, 아마존프라임비 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
