@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 03:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 04:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -145,13 +145,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56996</guid>
             <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[재비]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[마감되었습니다] 오늘 하루 만 (12월 31일) 무료로 1인.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38074</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38074</guid>
-            <pubDate>Fri, 31 Dec 2021 09:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 타임캡슐 📅 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +341,13 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38079</guid>
             <pubDate>Sat, 31 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[억장이문어찜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카드사 수수료율 인하가 우리에게 미치는 영향 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56963</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56963</guid>
+            <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[설 연휴 메타버스에서 즐기세요 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -593,35 +593,35 @@
             <title><![CDATA[설 연휴 메타버스에서 즐기세요 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8151</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8151</guid>
-            <pubDate>Sun, 30 Jan 2022 03:16:30 GMT</pubDate>
+            <pubDate>Sun, 30 Jan 2022 00:13:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 인스타그램은 인피드 광고와 스토리가 수익을 올리고 있다. (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8150</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8150</guid>
-            <pubDate>Sun, 30 Jan 2022 03:16:30 GMT</pubDate>
+            <pubDate>Sun, 30 Jan 2022 00:12:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[애플, '기록적인' 광고 매출 보고, 앱스토어 '경제적 기적' 불러 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8149</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8149</guid>
-            <pubDate>Sun, 30 Jan 2022 03:16:30 GMT</pubDate>
+            <pubDate>Sun, 30 Jan 2022 00:11:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 2022년과 그 이후의 글로벌 리스크 평가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8148</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8148</guid>
-            <pubDate>Sun, 30 Jan 2022 03:16:30 GMT</pubDate>
+            <pubDate>Sun, 30 Jan 2022 00:10:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[메타버스에 대해 사람들은 얼마나 알고 있을까? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8147</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8147</guid>
-            <pubDate>Sun, 30 Jan 2022 03:16:30 GMT</pubDate>
+            <pubDate>Sun, 30 Jan 2022 00:10:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[한 조사 결과에 따르면, 97.2%의 소비자가 구매 전 ○○를 확인한다고 답했습니다. 빈칸에 들어갈 말로 알맞은 것은 무엇일까요?(hint: 큐레터의 레퍼런스 보고 정답 유추하기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 30 Jan 2022 03:16:41 GMT</pubDate>
+            <pubDate>Sun, 30 Jan 2022 04:21:08 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->한 조사 결과에 따르면, 97.2%의 소비자가 구매 전 ○○를 확인한다고 답했습니다. 빈칸에 들어갈 말로 알맞은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-56985" target="_blank">큐레터의 레퍼런스 보고 정답 유추하기!</a>)</span></td>
 			</tr>
