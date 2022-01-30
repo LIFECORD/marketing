@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 07:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 08:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,18 +336,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스마트스토어로 월 1000만원 찍고 난 후 달라진 점 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38079</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38079</guid>
-            <pubDate>Sat, 31 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[억장이문어찜]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[빵쟁이가 마케터로 이직 후 벌써 N년, 하찮은 깨달음.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57097</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57097</guid>
             <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[손맛]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카드사 수수료율 인하가 우리에게 미치는 영향 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56963</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56963</guid>
+            <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[설 연휴 메타버스에서 즐기세요 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[한 조사 결과에 따르면, 97.2%의 소비자가 구매 전 ○○를 확인한다고 답했습니다. 빈칸에 들어갈 말로 알맞은 것은 무엇일까요?(hint: 큐레터의 레퍼런스 보고 정답 유추하기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 30 Jan 2022 07:16:28 GMT</pubDate>
+            <pubDate>Sun, 30 Jan 2022 08:19:09 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->한 조사 결과에 따르면, 97.2%의 소비자가 구매 전 ○○를 확인한다고 답했습니다. 빈칸에 들어갈 말로 알맞은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-56985" target="_blank">큐레터의 레퍼런스 보고 정답 유추하기!</a>)</span></td>
 			</tr>
