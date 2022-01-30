@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-01-30T02:34:29.012Z</updated>
+    <updated>2022-01-30T03:16:50.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[설 연휴 메타버스에서 즐기세요]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8151</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8151"/>
+        <updated>2022-01-30T03:16:30.369Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인포그래픽] 인스타그램은 인피드 광고와 스토리가 수익을 올리고 있다.]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8150</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8150"/>
+        <updated>2022-01-30T03:16:30.370Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, '기록적인' 광고 매출 보고, 앱스토어 '경제적 기적' 불러]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8149</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8149"/>
+        <updated>2022-01-30T03:16:30.372Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인포그래픽] 2022년과 그 이후의 글로벌 리스크 평가]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8148</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8148"/>
+        <updated>2022-01-30T03:16:30.373Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메타버스에 대해 사람들은 얼마나 알고 있을까?]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8147</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8147"/>
+        <updated>2022-01-30T03:16:30.374Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코바코, 지역 소상공인 광고 확대... 방송광고 제작과 송출에 177개사 지원, 전년보다 30% 늘려]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8146</id>
@@ -179,40 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-8122"/>
         <updated>2022-01-26T01:00:51.285Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호프만에이전시코리아, 하이브리드 워크 도입... 업무는 버추얼 공간에서, 직원 경험은 오피스에서]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8121</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8121"/>
-        <updated>2022-01-26T01:00:51.299Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[신인섭 칼럼] 광고의 PURPOSE란 무엇인가?]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8120</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8120"/>
-        <updated>2022-01-26T01:00:51.299Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] "소비자의 공감은 캠페인의 진정성에 있습니다" 박동준 현대차 책임매니저]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8119</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8119"/>
-        <updated>2022-01-26T01:00:51.305Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한국갤럽] 2022년 1월 한국인이 좋아하는 TV프로그램 1위 : 신사와 아가씨, 3개월째 1위]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8118</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8118"/>
-        <updated>2022-01-26T01:00:51.306Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[1월 26일 마케팅 뉴스클리핑] 설 앞두고 라방에서 김 판매한 가상인간 외]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8116</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8116"/>
-        <updated>2022-01-25T23:18:10.639Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
 </feed>
