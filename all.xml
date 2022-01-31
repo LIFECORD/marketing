@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 19:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 20:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -322,6 +322,13 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[빵쟁이가 마케터로 이직 후 벌써 N년, 하찮은 깨달음.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57097</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57097</guid>
+            <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[손맛]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[마케터의 패션아이템 트렌드파악 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56972</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56972</guid>
@@ -334,13 +341,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57009</guid>
             <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빵쟁이가 마케터로 이직 후 벌써 N년, 하찮은 깨달음.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57097</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57097</guid>
-            <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[손맛]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카드사 수수료율 인하가 우리에게 미치는 영향 (아이보스 ─ 인기글)]]></title>
