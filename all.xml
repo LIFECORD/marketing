@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 17:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 18:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,18 +182,18 @@
             <content:encoded><![CDATA[김매니저]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[폰트 저작권 위반으로 100만원 내라구요?? +) 찐 상업.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57044</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57044</guid>
-            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[휴이언니]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 마케터 MBTI ~J와 P~ (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38253</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38253</guid>
             <pubDate>Thu, 27 Jan 2022 05:15:39 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[폰트 저작권 위반으로 100만원 내라구요?? +) 찐 상업.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57044</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57044</guid>
+            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[노션 마스터를 원하신다면? `된다! 하루 5분 노션 활.. (아이보스 ─ 인기글)]]></title>
