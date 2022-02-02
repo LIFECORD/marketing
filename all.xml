@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 00:58:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 02:03:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[대홍기획, 세븐일레븐 메타버스 매장 세븐일레븐 카이아섬점 연다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8162</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8162</guid>
+            <pubDate>Wed, 02 Feb 2022 10:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[대홍기획(대표이사:홍성현)이 해긴(대표이사 이영일)의 메타버스 게임 플레이투게더 내 코리아세븐(대표이사 최경호)의 가상현실 편의점 세븐일레븐 카이아섬점을 오픈한다. 3일 오픈하는 세븐일레븐 카이아섬점은 진열대부 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[삼성전자 메타버스 마이 하우스 누적 방문 횟수 400만 돌파 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8161</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8161</guid>
@@ -582,32 +590,31 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[제 목소리 어때요? 가상인간 로지, 선을 넘는 인터뷰 진행 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8133</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8133</guid>
-            <pubDate>Thu, 27 Jan 2022 07:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[가상 인간 모델 로지가 이번엔 유튜브 MC로 변신해 처음으로 대중에 목소리를 공개했다. 신한라이프에서 유튜브에 공개한 선을 넘는 인터뷰 영상에서 로지는 연예인 홍석천, 신한라이프 ESG(환경사회지배 구조) 자문대사인 최재 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[대홍기획, 세븐일레븐 메타버스 매장 ‘세븐일레븐 카이아섬점’ 연다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8162</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8162</guid>
+            <pubDate>Wed, 02 Feb 2022 02:03:11 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[삼성전자 메타버스 '마이 하우스' 누적 방문 횟수 400만 돌파 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8161</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8161</guid>
-            <pubDate>Wed, 02 Feb 2022 00:58:06 GMT</pubDate>
+            <pubDate>Wed, 02 Feb 2022 09:25:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[해외 크리에이티브] "스머프"와 "땡땡"이 여권에 등장하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8160</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8160</guid>
-            <pubDate>Wed, 02 Feb 2022 00:58:06 GMT</pubDate>
+            <pubDate>Wed, 02 Feb 2022 09:07:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[해외광고특선] 유미의 세포들의 Fire egg 버전 광고...? The Boys (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8159</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8159</guid>
-            <pubDate>Wed, 02 Feb 2022 00:58:06 GMT</pubDate>
+            <pubDate>Wed, 02 Feb 2022 09:06:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["제 목소리 어때요?" 가상인간 로지, ‘선을 넘는 인터뷰’ 진행 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8133</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8133</guid>
-            <pubDate>Thu, 27 Jan 2022 07:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[한 조사 결과에 따르면, 97.2%의 소비자가 구매 전 ○○를 확인한다고 답했습니다. 빈칸에 들어갈 말로 알맞은 것은 무엇일까요?(hint: 큐레터의 레퍼런스 보고 정답 유추하기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 02 Feb 2022 00:58:18 GMT</pubDate>
+            <pubDate>Wed, 02 Feb 2022 02:03:22 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->한 조사 결과에 따르면, 97.2%의 소비자가 구매 전 ○○를 확인한다고 답했습니다. 빈칸에 들어갈 말로 알맞은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-56985" target="_blank">큐레터의 레퍼런스 보고 정답 유추하기!</a>)</span></td>
 			</tr>
