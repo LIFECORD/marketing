@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 22:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 23:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2월 3일 마케팅 뉴스클리핑] SNS 뒷광고 1만 7천 건 적발 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8164</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8164</guid>
+            <pubDate>Thu, 03 Feb 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 공정위, SNS 속 `뒷광고` 1만 7,000건 적발  공정위가 SNS에서 협찬을 받은 사실을 알리지 않고 게시물을 올린 `뒷광고` 1만 7,000여 건을 적발했다고 밝혔다. 인스타그램 9,538건, 네이버 블로그 7,383건, 유튜브 99건 등이다. 뒷광고 게 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16438176558075.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타, 3D 아바타 인스타그램에 도입... 메타버스 첫단계]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8163</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Jan 2022 08:57:00 GMT</pubDate>
             <content:encoded><![CDATA[비디오 광고비가 증가함에 따라 전체 프로그래매틱 디스플레이 광고 비에서 비디오가 차지하는 비중이 절반을 넘을 전망이다. 이마케터에 따르면,2023년에는 미국 광고주들이 디지털 비디오프로그래매틱 광고비가선형 TV 광고 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[1월 28일 마케팅 뉴스클리핑] 마케팅도 AI 챗으로... 네이버쇼핑, 솔루션마켓 베타 오픈 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8132</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8132</guid>
-            <pubDate>Fri, 28 Jan 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 마케팅도 AI 챗으로... 네이버쇼핑, `솔루션마켓` 베타 오픈  네이버쇼핑이 스마트스토어 입점한 중소상공인 판매자들을 대상으로 커머스 솔루션 마켓 서비스를 베타 오픈했다고 밝혔다. 상품 관리부터 마케팅, 주문결제, 배송 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_642e7fcbad1fe974f7bd49952c77b76d_14869_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
