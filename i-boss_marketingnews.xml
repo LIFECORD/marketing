@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 02:03:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 03:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타, 3D 아바타 인스타그램에 도입... 메타버스 첫단계]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8163</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8163</guid>
+            <pubDate>Wed, 02 Feb 2022 00:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[메타는 인스타그램 스토리와 DM, 그리고 페이스북과 메신저에서사용자 지정 3D 아바타를 사용할 수 있게 됐다. 인스타그램의 스토리와 DM에는 3D 아바타가 신규로 도입되며 페이스북과 메신저는 기존의 2D 아바타가 3D로 업그레이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[대홍기획, 세븐일레븐 메타버스 매장 세븐일레븐 카이아섬점 연다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8162</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Jan 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 마케팅도 AI 챗으로... 네이버쇼핑, `솔루션마켓` 베타 오픈  네이버쇼핑이 스마트스토어 입점한 중소상공인 판매자들을 대상으로 커머스 솔루션 마켓 서비스를 베타 오픈했다고 밝혔다. 상품 관리부터 마케팅, 주문결제, 배송 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_642e7fcbad1fe974f7bd49952c77b76d_14869_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버카카오페이 영세중소사업자 수수료 인하... 최대 0.2~0.3%p]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8134</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8134</guid>
-            <pubDate>Thu, 27 Jan 2022 08:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[오늘(26일) 네이버파이낸셜과 카카오페이는 오는 31일부터 온라인 영세사업자에 대해 0.3%p, 중소사업자에는 0.1~0.2%p 수수료를 낮추겠다고 밝혔습니다.   이번 조치로 네이버페이 수수료는 0.2%p 내려갑니다. 중소 사업자는 규모에  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
