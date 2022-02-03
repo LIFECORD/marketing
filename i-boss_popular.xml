@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-03T01:57:21.931Z</updated>
+    <updated>2022-02-03T04:21:16.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[객단가 30만원의 제품을 팔면서 느낀 점]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56961</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56961"/>
-        <updated>2022-01-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[진민우]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022ver. 스마트스토어 성공테크트리]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56990</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56990"/>
         <updated>2022-01-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[둥근마을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[객단가 30만원의 제품을 팔면서 느낀 점]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56961</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56961"/>
+        <updated>2022-01-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[진민우]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쇼핑몰, 무슨 솔루션으로 만들었나요? (feat. 설문조사..]]></title>
@@ -132,18 +132,18 @@
         <content type="html"><![CDATA[교육매니저]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SNS 영상 광고 효과? 이거 4개만 알면 끝!!]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57006</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57006"/>
-        <updated>2022-01-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[영상팁]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[마케터에게 필요한 기획 습관]]></title>
         <id>https://www.i-boss.co.kr/ab-5637-29</id>
         <link href="https://www.i-boss.co.kr/ab-5637-29"/>
         <updated>2022-01-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SNS 영상 광고 효과? 이거 4개만 알면 끝!!]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57006</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57006"/>
+        <updated>2022-01-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[영상팁]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[초보 블로거들에게 필요한 사이트 공유]]></title>
@@ -160,18 +160,18 @@
         <content type="html"><![CDATA[stylenjh]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[굳이 마케팅 자격증 딴다면? 어떤게 좋을까요?]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38109</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38109"/>
-        <updated>2022-01-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[rdg]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[SW] 제가 지향하는 제품에 가치를 붙이는 광고기법 `..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56970</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56970"/>
         <updated>2022-01-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[상원1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[굳이 마케팅 자격증 딴다면? 어떤게 좋을까요?]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38109</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38109"/>
+        <updated>2022-01-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[rdg]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빵쟁이가 마케터로 이직 후 벌써 N년, 하찮은 깨달음..]]></title>

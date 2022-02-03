@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 01:57:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 04:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡, 강소기업과 협업해 뷰티 필수템 판매]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8170</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8170</guid>
+            <pubDate>Thu, 03 Feb 2022 11:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[고객 선호도 높은 상품 강소기업이 만들고 쿠팡이 판매하는 방식    쿠팡 뷰티데이터랩이 `내 손으로 만드는 데일리 뷰티 필수템` 캠페인을 진행한다고 3일 밝혔다. 이번 캠페인은 쿠팡의 고객 인사이트가 반영된 상품을 강소기 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16438550060603.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[무신사, 패션 콘텐츠 스냅 일반 고객에 공개]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8169</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8169</guid>
+            <pubDate>Thu, 03 Feb 2022 10:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[스태프모델무신사크루 한정했던 스냅 업로드 권한 전체 고객으로 확대  온라인 패션 플랫폼 무신사가 다양한 패션 스타일을 엿볼 수 있는 무신사 스냅(MUSINSA SNAP)을 일반 고객 대상 패션 커뮤니티로 확대해 공개한다고 3일 밝혔 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_f47679d6cdabdbd42a5afe31b0ddbeae_86054_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글 클라우드, 구글 포 스타트업 클라우드 프로그램으로 초기 스타트업 지원 확대]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8168</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8141</guid>
             <pubDate>Fri, 28 Jan 2022 08:22:21 GMT</pubDate>
             <content:encoded><![CDATA[외식업계가 브랜드의 상징인 시그니처 메뉴에 집중하는 마케팅을 속속 전개하고 있다. 브랜드만의 맛과 감성, 이야기를 함축하고 있는 시그니처 메뉴를 한층 공격적으로 조명함으로써, 소비에 있어 개성이나 특징 등 고유 가치 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[수제 맥주의 변신, 도대체 어디까지?]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8140</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8140</guid>
-            <pubDate>Fri, 28 Jan 2022 06:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[[ 매드타임스 이정민 대학생 기자]편의점에서 최근 핫하게 떠오르고 있는 수제맥주. 곰표에서의 콜라보 및 수제맥주가 크게 인기상품이 되면서 너도나도 수제맥주 시장에 뛰어들고 있다. 게다가 MZ세대들이 기존의 경계나 틀에 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d06eba8b2ad7ade4cdcaeec21ba91520_65016_6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청년마케터, 2022년 청년인이 선정한 우수 직무 커뮤니티로 선정]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8139</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8139</guid>
-            <pubDate>Fri, 28 Jan 2022 09:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[직장인 커뮤니티 청년마케터(헤드디렉터 박윤찬)가 청년단체 청년IN으로부터 2022년 우수 직무 커뮤니티로 선정됐다. 청년IN은 지난 2019년에 설립된 청년단체로 매년 청년의 날을 맞아 청년인 상을 제정해 사회 각지에서 활동한 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
