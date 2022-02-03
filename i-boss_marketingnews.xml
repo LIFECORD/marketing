@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 06:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 07:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[긍정과 희망의 아이콘 스마일리(Smiley), 50주년 기념 로고 공개]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8172</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8172</guid>
+            <pubDate>Thu, 03 Feb 2022 07:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[1972년1월1일,프랑스 언론인 플랭클린 루프라니(Franklin Loufrani)가 좋은 소식을 알리기 위해 신문 첫 면에 사용하기 시작한 희망과 긍정의 아이콘 스마일리가50주년을 맞이해 새로운 로고를 공개한다. 음악,패션,뷰티,와인,라이프스 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡, 강소기업과 협업해 뷰티 필수템 판매]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8170</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8142</guid>
             <pubDate>Fri, 28 Jan 2022 08:22:21 GMT</pubDate>
             <content:encoded><![CDATA[한진은 업계 최초로 가상 물류 공간을 구현한 메타버스(3차원 가상 세계)를 구축한다고 28일 밝혔다.  ㈜한진은 메타버스 구축을 위해 전날 디지털 통합 마케팅 기업인 ㈜모티브 아이디어스와 업무협약을 체결했다. 두 회사는 협 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[구관이 명관, 외식계 시그니처 메뉴 집중 마케팅 활활]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8141</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8141</guid>
-            <pubDate>Fri, 28 Jan 2022 08:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[외식업계가 브랜드의 상징인 시그니처 메뉴에 집중하는 마케팅을 속속 전개하고 있다. 브랜드만의 맛과 감성, 이야기를 함축하고 있는 시그니처 메뉴를 한층 공격적으로 조명함으로써, 소비에 있어 개성이나 특징 등 고유 가치 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

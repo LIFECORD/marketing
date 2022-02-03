@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 06:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 07:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,18 +168,18 @@
             <content:encoded><![CDATA[원제]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[흥하는 인스타그램의 비밀 9가지 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56954</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56954</guid>
-            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김매니저]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 마케터 MBTI ~J와 P~ (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38253</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38253</guid>
             <pubDate>Thu, 27 Jan 2022 05:15:39 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[흥하는 인스타그램의 비밀 9가지 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56954</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56954</guid>
+            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김매니저]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[폰트 저작권 위반으로 100만원 내라구요?? +) 찐 상업.. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38212</guid>
             <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[놀토]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[긍정과 희망의 아이콘 스마일리(Smiley), 50주년 기념 로고 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8172</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8172</guid>
+            <pubDate>Thu, 03 Feb 2022 07:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[1972년1월1일,프랑스 언론인 플랭클린 루프라니(Franklin Loufrani)가 좋은 소식을 알리기 위해 신문 첫 면에 사용하기 시작한 희망과 긍정의 아이콘 스마일리가50주년을 맞이해 새로운 로고를 공개한다. 음악,패션,뷰티,와인,라이프스 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[쿠팡, 강소기업과 협업해 뷰티 필수템 판매 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[구관이 명관, 외식계 시그니처 메뉴 집중 마케팅 활활 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8141</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8141</guid>
-            <pubDate>Fri, 28 Jan 2022 08:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[외식업계가 브랜드의 상징인 시그니처 메뉴에 집중하는 마케팅을 속속 전개하고 있다. 브랜드만의 맛과 감성, 이야기를 함축하고 있는 시그니처 메뉴를 한층 공격적으로 조명함으로써, 소비에 있어 개성이나 특징 등 고유 가치 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[긍정과 희망의 아이콘 스마일리(Smiley), 50주년 기념 로고 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8172</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8172</guid>
+            <pubDate>Thu, 03 Feb 2022 07:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쿠팡, 강소기업과 협업해 뷰티 필수템 판매 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[구관이 명관, 외식계 '시그니처 메뉴' 집중 마케팅 '활활' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8141</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8141</guid>
-            <pubDate>Fri, 28 Jan 2022 08:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 설명에 해당하는 세대는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 03 Feb 2022 06:20:21 GMT</pubDate>
+            <pubDate>Thu, 03 Feb 2022 07:16:27 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 설명에 해당하는 세대는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/143083e0f9faea5efcfb62d5df096045_16430908876243.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
