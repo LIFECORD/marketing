@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 22:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 23:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2월 4일 마케팅 뉴스클리핑] 페이스북, 16년 만에 이용자 첫 감소 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8171</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8171</guid>
+            <pubDate>Fri, 04 Feb 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 페이스북, 16년 만에 이용자 첫 감소  2004년 페이스북 앱이 출시된 이후 지속적인 이용자 증가세를 보였지만 지난해 처음으로 이용자가 줄어드는 경향이 나타났다. 분기 일일 이용자가 19억 3천만 명에서 19억 2천900만 명으로 줄 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1accb3f4ae927e7f0fb86a6590d32acc_37874_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[긍정과 희망의 아이콘 스마일리(Smiley), 50주년 기념 로고 공개]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8172</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8143</guid>
             <pubDate>Sat, 29 Jan 2022 09:48:00 GMT</pubDate>
             <content:encoded><![CDATA[국제통화기금(IMF)이 세계경제 성장률 전망치를 0.5%포인트 인하했다. IMF의 세계경제전망에 따르면, 올해 세계 국내총생산(GDP)이 2021년 10월 전망치(4.9%)보다 낮은 4.4% 성장할 것으로 전망하고 있다. 보고서에따르면, 오미크론의 급 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[한진, 업계 최초로 물류 테마관 메타버스 구축]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8142</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8142</guid>
-            <pubDate>Fri, 28 Jan 2022 08:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[한진은 업계 최초로 가상 물류 공간을 구현한 메타버스(3차원 가상 세계)를 구축한다고 28일 밝혔다.  ㈜한진은 메타버스 구축을 위해 전날 디지털 통합 마케팅 기업인 ㈜모티브 아이디어스와 업무협약을 체결했다. 두 회사는 협 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
