@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-04T01:51:47.859Z</updated>
+    <updated>2022-02-04T02:18:45.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -74,13 +74,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-56990"/>
         <updated>2022-01-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[둥근마을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[객단가 30만원의 제품을 팔면서 느낀 점]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56961</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56961"/>
-        <updated>2022-01-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[진민우]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쇼핑몰, 무슨 솔루션으로 만들었나요? (feat. 설문조사..]]></title>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-2973-435"/>
         <updated>2022-01-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[당첨대쓔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쉿!! 아이보스 생활기록부 생겼어요 여러분 만 알고 ..]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38212</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38212"/>
+        <updated>2022-01-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[놀토]]></content>
     </entry>
 </feed>
