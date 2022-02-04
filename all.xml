@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 22:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 23:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,6 +798,19 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8148</guid>
             <pubDate>Sun, 30 Jan 2022 00:10:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아이보스에서 2021년 보스님의 활동을 확인할 수 있는 '생활기록부'를 만들어 오픈했습니다. 보스님의 주요 활동에 따라 유형이 구분되는데, 이때 활동 유형을 구분하는 지표가 아닌 것은 무엇일까요?(hint: 보스님을 위한 오픈북! 생활기록부 공지사항 보고 오기) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Fri, 04 Feb 2022 23:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->아이보스에서 2021년 보스님의 활동을 확인할 수 있는 '생활기록부'를 만들어 오픈했습니다. 보스님의 주요 활동에 따라 유형이 구분되는데, 이때 활동 유형을 구분하는 지표가 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-74540-1027" target="_blank">보스님을 위한 오픈북! 생활기록부 공지사항 보고 오기</a>)</span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1354_1" value="1" class="AB-radio" id="PQ_BD5826_1354_1_0"><label for="PQ_BD5826_1354_1_0" id="label_PQ_BD5826_1354_1_0">(A) 아이보스 방문 횟수</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1354_1" value="2" class="AB-radio" id="PQ_BD5826_1354_1_1"><label for="PQ_BD5826_1354_1_1" id="label_PQ_BD5826_1354_1_1">(B) 게시글 작성</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1354_1" value="3" class="AB-radio" id="PQ_BD5826_1354_1_2"><label for="PQ_BD5826_1354_1_2" id="label_PQ_BD5826_1354_1_2">(C) 단톡 참여</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1354_1" value="4" class="AB-radio" id="PQ_BD5826_1354_1_3"><label for="PQ_BD5826_1354_1_3" id="label_PQ_BD5826_1354_1_3">(D) 받은 좋아요</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나 피해 소상공인 대출 5% 육박…1% 초저금리로 8.6조원 지원 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
