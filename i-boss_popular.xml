@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-04T03:15:36.630Z</updated>
+    <updated>2022-02-04T04:17:58.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[교육매니저]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SNS 영상 광고 효과? 이거 4개만 알면 끝!!]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57006</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57006"/>
-        <updated>2022-01-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[영상팁]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[초보 블로거들에게 필요한 사이트 공유]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57076</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57076"/>
         <updated>2022-01-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[다니엘신]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SNS 영상 광고 효과? 이거 4개만 알면 끝!!]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57006</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57006"/>
+        <updated>2022-01-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[영상팁]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아무리 관리업체라 해도, 너무하지 않나요? 다들 이..]]></title>
@@ -167,18 +167,18 @@
         <content type="html"><![CDATA[yoorok]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마케터의 패션아이템 트렌드파악]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-56972</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-56972"/>
-        <updated>2022-01-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[unick]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[진짜 빠르게 300만원 버는 방법]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57128</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57128"/>
         <updated>2022-01-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[둥근마을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마케터의 패션아이템 트렌드파악]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-56972</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-56972"/>
+        <updated>2022-01-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[unick]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비용 인상에 파업까지, 엎친데 덮친 격 📦]]></title>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 03:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 04:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,18 +252,18 @@
             <content:encoded><![CDATA[교육매니저]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SNS 영상 광고 효과? 이거 4개만 알면 끝!! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57006</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57006</guid>
-            <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[영상팁]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[초보 블로거들에게 필요한 사이트 공유 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57076</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57076</guid>
             <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다니엘신]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SNS 영상 광고 효과? 이거 4개만 알면 끝!! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57006</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57006</guid>
+            <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영상팁]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아무리 관리업체라 해도, 너무하지 않나요? 다들 이.. (아이보스 ─ 인기글)]]></title>
@@ -301,18 +301,18 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터의 패션아이템 트렌드파악 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56972</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56972</guid>
-            <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[unick]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[진짜 빠르게 300만원 버는 방법 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57128</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57128</guid>
             <pubDate>Fri, 28 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케터의 패션아이템 트렌드파악 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56972</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56972</guid>
+            <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[unick]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[비용 인상에 파업까지, 엎친데 덮친 격 📦 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[아이보스에서 2021년 보스님의 활동을 확인할 수 있는 '생활기록부'를 만들어 오픈했습니다. 보스님의 주요 활동에 따라 유형이 구분되는데, 이때 활동 유형을 구분하는 지표가 아닌 것은 무엇일까요?(hint: 보스님을 위한 오픈북! 생활기록부 공지사항 보고 오기) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 04 Feb 2022 03:15:27 GMT</pubDate>
+            <pubDate>Fri, 04 Feb 2022 04:17:49 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->아이보스에서 2021년 보스님의 활동을 확인할 수 있는 '생활기록부'를 만들어 오픈했습니다. 보스님의 주요 활동에 따라 유형이 구분되는데, 이때 활동 유형을 구분하는 지표가 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-74540-1027" target="_blank">보스님을 위한 오픈북! 생활기록부 공지사항 보고 오기</a>)</span></td>
 			</tr>
