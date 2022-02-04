@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 00:56:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 01:51:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -161,18 +161,18 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[디자이너 필독! 작업 속도 올리고 싶다면 알아두세요.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57034</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57034</guid>
-            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[원제]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 마케터 MBTI ~J와 P~ (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38253</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38253</guid>
             <pubDate>Thu, 27 Jan 2022 05:15:39 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[디자이너 필독! 작업 속도 올리고 싶다면 알아두세요.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57034</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57034</guid>
+            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[원제]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[폰트 저작권 위반으로 100만원 내라구요?? +) 찐 상업.. (아이보스 ─ 인기글)]]></title>
@@ -329,6 +329,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[진짜 빠르게 300만원 버는 방법 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57128</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57128</guid>
+            <pubDate>Fri, 28 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[카드사 수수료율 인하가 우리에게 미치는 영향 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56963</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56963</guid>
@@ -341,13 +348,6 @@
             <guid>https://www.i-boss.co.kr/ab-2973-435</guid>
             <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쉿!! 아이보스 생활기록부 생겼어요 여러분 만 알고 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38212</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38212</guid>
-            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[총 메달 수 기준, 노르웨이가 1위, 한국은 14위 전망... 닐슨 그레이스노트, 베이징 동계올림픽 성적 예측 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -593,28 +593,28 @@
             <title><![CDATA[“총 메달 수 기준, 노르웨이가 1위, 한국은 14위 전망”... 닐슨 그레이스노트, 베이징 동계올림픽 성적 예측 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8176</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8176</guid>
-            <pubDate>Fri, 04 Feb 2022 00:56:12 GMT</pubDate>
+            <pubDate>Fri, 04 Feb 2022 09:46:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국광고총연합회 주최, '차기 정부의 광고산업 정책 컨트롤 타워 정립 촉구' 특별세미나 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8175</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8175</guid>
-            <pubDate>Fri, 04 Feb 2022 00:56:12 GMT</pubDate>
+            <pubDate>Fri, 04 Feb 2022 09:21:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MZ세대 70%, "환경 생각해 대체육 먹겠다"... '맛'과 '식감'은 개선 과제 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8174</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8174</guid>
-            <pubDate>Fri, 04 Feb 2022 00:56:12 GMT</pubDate>
+            <pubDate>Fri, 04 Feb 2022 08:57:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[페이스북, 사용자 20억 명 돌파... 그러나 성장은 둔화 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8173</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8173</guid>
-            <pubDate>Fri, 04 Feb 2022 00:56:12 GMT</pubDate>
+            <pubDate>Fri, 04 Feb 2022 08:57:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[아이보스에서 2021년 보스님의 활동을 확인할 수 있는 '생활기록부'를 만들어 오픈했습니다. 보스님의 주요 활동에 따라 유형이 구분되는데, 이때 활동 유형을 구분하는 지표가 아닌 것은 무엇일까요?(hint: 보스님을 위한 오픈북! 생활기록부 공지사항 보고 오기) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 04 Feb 2022 00:56:22 GMT</pubDate>
+            <pubDate>Fri, 04 Feb 2022 01:51:38 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->아이보스에서 2021년 보스님의 활동을 확인할 수 있는 '생활기록부'를 만들어 오픈했습니다. 보스님의 주요 활동에 따라 유형이 구분되는데, 이때 활동 유형을 구분하는 지표가 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-74540-1027" target="_blank">보스님을 위한 오픈북! 생활기록부 공지사항 보고 오기</a>)</span></td>
 			</tr>
