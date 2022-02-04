@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 06:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 07:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 뉴욕페스티벌 국제광고상 출품작 모집]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8178</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8178</guid>
+            <pubDate>Fri, 04 Feb 2022 07:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴욕페스티벌 한국대표부인 (사)한국광고영상제작사협회(회장 김찬)에서는 2022 뉴욕페스티벌 국제광고상(2022 New York Festivals Advertising Awards) 출품작을 모집한다. 2022 뉴욕페스티벌 국제광고상은 2021년 1월 1일부터 2022년 5월 6일 사 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[총 메달 수 기준, 노르웨이가 1위, 한국은 14위 전망... 닐슨 그레이스노트, 베이징 동계올림픽 성적 예측]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8176</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8148</guid>
             <pubDate>Sun, 30 Jan 2022 00:10:00 GMT</pubDate>
             <content:encoded><![CDATA[세계적인 코로나 대유행의 시작 이후, 세계는 혼란에 빠졌다. 그리고 미국과 중국, 우크라이나와 러시아의 갈등, 계속되는 북한의 도발 등 올해는 그 어느 때보다 예측하기 힘든 상황이다. 세계경제포럼(WEF)이 최근 발간한 `글로 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[메타버스에 대해 사람들은 얼마나 알고 있을까?]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8147</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8147</guid>
-            <pubDate>Sun, 30 Jan 2022 00:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[메타버스는 1992년 SF작가 닐 스티븐슨이3D 가상 공간을 묘사하기 위해 처음 사용했다. 그 이후 조용하던 메타버스는 페이스북이 메타로 브랜드를 바꾼 2021년 10월 이후 많은 사람들과 기업들이 관심을 보이고 있다. 조사회사 입소 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
