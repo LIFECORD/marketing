@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 07:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 08:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,6 +217,13 @@
             <content:encoded><![CDATA[아드리엘]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[마케터에게 필요한 기획 습관 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-5637-29</link>
+            <guid>https://www.i-boss.co.kr/ab-5637-29</guid>
+            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[roas1000% 찍는 광고소재 이미지 공통점 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57010</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57010</guid>
@@ -229,13 +236,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38168</guid>
             <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[체르시]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마케터에게 필요한 기획 습관 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-5637-29</link>
-            <guid>https://www.i-boss.co.kr/ab-5637-29</guid>
-            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우뇌가 떠먹여주는 성과개선 노하우 3가지 (아이보스 ─ 인기글)]]></title>
@@ -593,7 +593,7 @@
             <title><![CDATA[2022 뉴욕페스티벌 국제광고상 출품작 모집 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8178</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8178</guid>
-            <pubDate>Fri, 04 Feb 2022 07:14:13 GMT</pubDate>
+            <pubDate>Fri, 04 Feb 2022 07:14:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[아이보스에서 2021년 보스님의 활동을 확인할 수 있는 '생활기록부'를 만들어 오픈했습니다. 보스님의 주요 활동에 따라 유형이 구분되는데, 이때 활동 유형을 구분하는 지표가 아닌 것은 무엇일까요?(hint: 보스님을 위한 오픈북! 생활기록부 공지사항 보고 오기) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 04 Feb 2022 07:14:27 GMT</pubDate>
+            <pubDate>Fri, 04 Feb 2022 08:16:44 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->아이보스에서 2021년 보스님의 활동을 확인할 수 있는 '생활기록부'를 만들어 오픈했습니다. 보스님의 주요 활동에 따라 유형이 구분되는데, 이때 활동 유형을 구분하는 지표가 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-74540-1027" target="_blank">보스님을 위한 오픈북! 생활기록부 공지사항 보고 오기</a>)</span></td>
 			</tr>

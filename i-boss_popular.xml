@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-04T07:14:38.398Z</updated>
+    <updated>2022-02-04T08:16:55.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -83,6 +83,13 @@
         <content type="html"><![CDATA[아드리엘]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[마케터에게 필요한 기획 습관]]></title>
+        <id>https://www.i-boss.co.kr/ab-5637-29</id>
+        <link href="https://www.i-boss.co.kr/ab-5637-29"/>
+        <updated>2022-01-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[roas1000% 찍는 광고소재 이미지 공통점]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57010</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57010"/>
@@ -95,13 +102,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38168"/>
         <updated>2022-01-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[체르시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마케터에게 필요한 기획 습관]]></title>
-        <id>https://www.i-boss.co.kr/ab-5637-29</id>
-        <link href="https://www.i-boss.co.kr/ab-5637-29"/>
-        <updated>2022-01-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우뇌가 떠먹여주는 성과개선 노하우 3가지]]></title>
