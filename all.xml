@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 23:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 00:56:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,18 +252,18 @@
             <content:encoded><![CDATA[체르시]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우뇌가 떠먹여주는 성과개선 노하우 3가지 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57069</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57069</guid>
-            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[교육매니저]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케터에게 필요한 기획 습관 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-5637-29</link>
             <guid>https://www.i-boss.co.kr/ab-5637-29</guid>
             <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우뇌가 떠먹여주는 성과개선 노하우 3가지 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57069</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57069</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[교육매니저]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SNS 영상 광고 효과? 이거 4개만 알면 끝!! (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,38 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38212</guid>
             <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[놀토]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[총 메달 수 기준, 노르웨이가 1위, 한국은 14위 전망... 닐슨 그레이스노트, 베이징 동계올림픽 성적 예측 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8176</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8176</guid>
+            <pubDate>Fri, 04 Feb 2022 09:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 미디어 정보 분석 기업 닐슨 그레이스노트(Nielsen Gracenote)가 베이징 동계올림픽 메달 순위를 예측해 발표했다.이 수치는2018년 평창 동계올림픽 이후 주요 동계 스포츠 대회 결과를 종합적으로 분석해 참가국의 금,은,동메 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[한국광고총연합회 주최, 차기 정부의 광고산업 정책 컨트롤 타워 정립 촉구 특별세미나 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8175</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8175</guid>
+            <pubDate>Fri, 04 Feb 2022 09:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[(사)한국광고총연합회(회장 김낙회)는 오는 2월 9월(수) 오후 3시, 한국광고문화회관 2층 대회의장에서차기 정부의 광고산업 진흥을위한 정책 컨트롤 타워 정립 촉구 특별세미나를 개최 한다고 밝혔다. 본 세미나는 광고홍보학회 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[MZ세대 70%, 환경 생각해 대체육 먹겠다... 맛과 식감은 개선 과제 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8174</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8174</guid>
+            <pubDate>Fri, 04 Feb 2022 08:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국의 MZ세대 10명 중 7명이 환경을 생각해 대체육으로 식탁 문화가 바뀌어야 한다고 생각하는 것으로 나타났다. 신세계푸드는 지난달 여론조사기관 엠브레인에 의뢰해 전국 2030세대 남녀 1천 명을 대상으로 대체육 인식과 관련 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[페이스북, 사용자 20억 명 돌파... 그러나 성장은 둔화 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8173</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8173</guid>
+            <pubDate>Fri, 04 Feb 2022 08:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[이마케터에 따르면, 페이스북은 2021년 전 세계 사용자 수 20억 명을 돌파했고 올해 말까지 21억 명에 이를 것으로 예상된다. 그러나 페이스북의 성장은 2021년에 급격히 감소했고, 앞으로 몇 년 동안 서서히 줄어들 것으로 보인다.  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[2월 4일 마케팅 뉴스클리핑] 페이스북, 16년 만에 이용자 첫 감소 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -558,42 +590,38 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[코바코, 지역 소상공인 광고 확대... 방송광고 제작과 송출에 177개사 지원, 전년보다 30% 늘려 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8146</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8146</guid>
-            <pubDate>Sat, 29 Jan 2022 05:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코, 사장 이백만)가 2022년 지역밀착형 방송광고 활성화 기반구축사업을 실시한다. 지역밀착형 방송광고 활성화 기반구축 사업은 코바코가 방송통신위원회와 함께 소상공인의 성장과 지역 방송 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[“총 메달 수 기준, 노르웨이가 1위, 한국은 14위 전망”... 닐슨 그레이스노트, 베이징 동계올림픽 성적 예측 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8176</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8176</guid>
+            <pubDate>Fri, 04 Feb 2022 00:56:12 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[지구와 화성 사이에 위치한 신선함의 별, 식물성 도산 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8145</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8145</guid>
-            <pubDate>Sat, 29 Jan 2022 00:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 해 4월부터 특이한 콘셉트로 주목받는 카페가 있다. 바로 강남구 도산공원 인근에 위치한 식물성 도산이다. 이곳의 외관은 여느 카페와 다를 것이 없어 보이지만 스마트팜 기업인 엔씽의 브랜드 쇼룸의 기능을 하는 카페이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[한국광고총연합회 주최, '차기 정부의 광고산업 정책 컨트롤 타워 정립 촉구' 특별세미나 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8175</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8175</guid>
+            <pubDate>Fri, 04 Feb 2022 00:56:12 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[메타버스의 의미를 이해하는 브랜드는 18%에 불과하다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8144</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8144</guid>
-            <pubDate>Sat, 29 Jan 2022 09:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[ListenFirst가 발표한 `2022 소셜 미디어 마케팅 트렌드` 보고서에 따르면 진행 중인 감염병에도 불구하고 브랜드는 마케팅 채널로서 소셜 미디어에 그 어느 때보다 많은 노력을 기울이고 있다. 응답자의 55%는 팬데믹 기간 동안 브랜 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[MZ세대 70%, "환경 생각해 대체육 먹겠다"... '맛'과 '식감'은 개선 과제 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8174</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8174</guid>
+            <pubDate>Fri, 04 Feb 2022 00:56:12 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[IMF, 2022년 세계 경제 성장률 전망치 하향 조정... 증가하는 케이스 로드, 중단된 회복 및 높은 인플레이션 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8143</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8143</guid>
-            <pubDate>Sat, 29 Jan 2022 09:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[국제통화기금(IMF)이 세계경제 성장률 전망치를 0.5%포인트 인하했다. IMF의 세계경제전망에 따르면, 올해 세계 국내총생산(GDP)이 2021년 10월 전망치(4.9%)보다 낮은 4.4% 성장할 것으로 전망하고 있다. 보고서에따르면, 오미크론의 급 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[페이스북, 사용자 20억 명 돌파... 그러나 성장은 둔화 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8173</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8173</guid>
+            <pubDate>Fri, 04 Feb 2022 00:56:12 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2월 4일 마케팅 뉴스클리핑] 페이스북, 16년 만에 이용자 첫 감소 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8171</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8171</guid>
-            <pubDate>Thu, 03 Feb 2022 23:14:34 GMT</pubDate>
+            <pubDate>Fri, 04 Feb 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -772,38 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코바코, 지역 소상공인 광고 확대... 방송광고 제작과 송출에 177개사 지원, 전년보다 30% 늘려 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8146</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8146</guid>
-            <pubDate>Sat, 29 Jan 2022 05:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘지구와 화성 사이에 위치한 신선함의 별’, 식물성 도산 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8145</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8145</guid>
-            <pubDate>Sat, 29 Jan 2022 00:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[메타버스의 의미를 이해하는 브랜드는 18%에 불과하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8144</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8144</guid>
-            <pubDate>Sat, 29 Jan 2022 09:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[IMF, 2022년 세계 경제 성장률 전망치 하향 조정... 증가하는 케이스 로드, 중단된 회복 및 높은 인플레이션 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8143</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8143</guid>
-            <pubDate>Sat, 29 Jan 2022 09:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[아이보스에서 2021년 보스님의 활동을 확인할 수 있는 '생활기록부'를 만들어 오픈했습니다. 보스님의 주요 활동에 따라 유형이 구분되는데, 이때 활동 유형을 구분하는 지표가 아닌 것은 무엇일까요?(hint: 보스님을 위한 오픈북! 생활기록부 공지사항 보고 오기) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 03 Feb 2022 23:14:44 GMT</pubDate>
+            <pubDate>Fri, 04 Feb 2022 00:56:22 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->아이보스에서 2021년 보스님의 활동을 확인할 수 있는 '생활기록부'를 만들어 오픈했습니다. 보스님의 주요 활동에 따라 유형이 구분되는데, 이때 활동 유형을 구분하는 지표가 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-74540-1027" target="_blank">보스님을 위한 오픈북! 생활기록부 공지사항 보고 오기</a>)</span></td>
 			</tr>
