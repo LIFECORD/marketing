@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-04T14:14:25.757Z</updated>
+    <updated>2022-02-04T15:15:57.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -160,6 +160,13 @@
         <content type="html"><![CDATA[yoorok]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[無사수 분 들 보고서 필요하신분들 쓰세요~]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38306</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38306"/>
+        <updated>2022-02-04T12:21:20.560Z</updated>
+        <content type="html"><![CDATA[레스뿌와]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[마케터의 패션아이템 트렌드파악]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56972</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56972"/>
@@ -172,13 +179,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57009"/>
         <updated>2022-01-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無사수 분 들 보고서 필요하신분들 쓰세요~]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38306</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38306"/>
-        <updated>2022-02-04T12:21:20.560Z</updated>
-        <content type="html"><![CDATA[레스뿌와]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카드사 수수료율 인하가 우리에게 미치는 영향]]></title>
