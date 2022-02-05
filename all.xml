@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 00:50:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 01:40:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,22 @@
             <content:encoded><![CDATA[흥미진진]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[유엔젤보이스, 이프랜드 메타버스 콘서트 UMETACON 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8182</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8182</guid>
+            <pubDate>Sat, 05 Feb 2022 10:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[재단법인 문화재단 유엔젤보이스는 메타버스 플랫폼 이프랜드에서 활동하는 최초의 그룹 메타보이즈를 결성, 2월 11일 콘서트 UMETACON을 진행한다. 유엔젤보이스는 2008년 클래식 및 크로스오버 장르의 저변 확대를 위해 설립된  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[K-AD] 삼성전자, 전세계 곳곳서 갤럭시 언팩 2022 3D 옥외광고 진행 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8181</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8181</guid>
+            <pubDate>Sat, 05 Feb 2022 09:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[미국 뉴욕 타임스스퀘어(Times Square)에서 진행 중인 3D 옥외광고 모습   삼성전자가 삼성 갤럭시 언팩 2022(Samsung Galaxy Unpacked 2022:The Epic Standard of Smartphone Experience)를 앞두고 전 세계 주요도시에서 3D 옥외광고를 진행한다. 삼성전자 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[구글, CTV 광고의 프리퀀시 설정 기능 공개... 광고 지원 CTV 가구의 92% 커버 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8180</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8180</guid>
@@ -574,33 +590,31 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[설 연휴 메타버스에서 즐기세요 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8151</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8151</guid>
-            <pubDate>Sun, 30 Jan 2022 00:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤(대표이사 사장 유영상,www.sktelecom.com)이 설 명절을 안전하고 풍성하게 즐길 수 있도록 설 연휴 기간 동안 메타버스 플랫폼 이프랜드에서 임인년 호랑이 그림전(展) 등 다양한 행사를 선보인다. SKT가 이프랜드에서 설 연 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[유엔젤보이스, 이프랜드 메타버스 콘서트 ‘UMETACON’ 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8182</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8182</guid>
+            <pubDate>Sat, 05 Feb 2022 01:40:15 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 인스타그램은 인피드 광고와 스토리가 수익을 올리고 있다. (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8150</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8150</guid>
-            <pubDate>Sun, 30 Jan 2022 00:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[인스타그램 광고 노출은 대부분 두 가지 형식으로 나뉜다. 이마케터가 인용한 퍼포먼스 마케팅 회사 Tinuiti의 미국 클라이언트 자료에 따르면, 2021년 4분기에 노출의 47.0%가 피드에서, 42.0%가 스토리에서 발생했다. 이러한 형식 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2875eefdc59d8939b08d5d851aa84cde_16020_6.png" length="0" type="image/png"/>
+            <title><![CDATA[[K-AD] 삼성전자, 전세계 곳곳서 ‘갤럭시 언팩 2022’ 3D 옥외광고 진행 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8181</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8181</guid>
+            <pubDate>Sat, 05 Feb 2022 01:40:15 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구글, CTV 광고의 프리퀀시 설정 기능 공개... 광고 지원 CTV 가구의 92% 커버 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8180</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8180</guid>
-            <pubDate>Sat, 05 Feb 2022 00:49:56 GMT</pubDate>
+            <pubDate>Sat, 05 Feb 2022 09:20:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 역대 최대 규모의 게임 회사 인수 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8179</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8179</guid>
-            <pubDate>Sat, 05 Feb 2022 00:49:56 GMT</pubDate>
+            <pubDate>Sat, 05 Feb 2022 09:19:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[설 연휴 메타버스에서 즐기세요 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8151</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8151</guid>
-            <pubDate>Sun, 30 Jan 2022 00:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 인스타그램은 인피드 광고와 스토리가 수익을 올리고 있다. (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8150</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8150</guid>
-            <pubDate>Sun, 30 Jan 2022 00:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[아이보스에서 2021년 보스님의 활동을 확인할 수 있는 '생활기록부'를 만들어 오픈했습니다. 보스님의 주요 활동에 따라 유형이 구분되는데, 이때 활동 유형을 구분하는 지표가 아닌 것은 무엇일까요?(hint: 보스님을 위한 오픈북! 생활기록부 공지사항 보고 오기) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 05 Feb 2022 00:50:08 GMT</pubDate>
+            <pubDate>Sat, 05 Feb 2022 01:40:32 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->아이보스에서 2021년 보스님의 활동을 확인할 수 있는 '생활기록부'를 만들어 오픈했습니다. 보스님의 주요 활동에 따라 유형이 구분되는데, 이때 활동 유형을 구분하는 지표가 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-74540-1027" target="_blank">보스님을 위한 오픈북! 생활기록부 공지사항 보고 오기</a>)</span></td>
 			</tr>
