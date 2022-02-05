@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-05T02:17:00.734Z</updated>
+    <updated>2022-02-05T03:15:55.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -139,6 +139,13 @@
         <content type="html"><![CDATA[stylenjh]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[無사수 분 들 보고서 필요하신분들 쓰세요~]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38306</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38306"/>
+        <updated>2022-02-04T12:21:20.560Z</updated>
+        <content type="html"><![CDATA[레스뿌와]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[SW] 제가 지향하는 제품에 가치를 붙이는 광고기법 `..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56970</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56970"/>
@@ -158,13 +165,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57014"/>
         <updated>2022-01-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[yoorok]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無사수 분 들 보고서 필요하신분들 쓰세요~]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38306</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38306"/>
-        <updated>2022-02-04T12:21:20.560Z</updated>
-        <content type="html"><![CDATA[레스뿌와]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마케터의 패션아이템 트렌드파악]]></title>
@@ -195,18 +195,18 @@
         <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쉿!! 아이보스 생활기록부 생겼어요 여러분 만 알고 ..]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38212</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38212"/>
-        <updated>2022-01-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[놀토]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[사수 없이 성장하기.]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38265</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38265"/>
         <updated>2022-01-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[규S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쉿!! 아이보스 생활기록부 생겼어요 여러분 만 알고 ..]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38212</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38212"/>
+        <updated>2022-01-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[놀토]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[상세페이지 만들 때 가장 많이 하는 실수 top3!]]></title>
