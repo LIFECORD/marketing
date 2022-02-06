@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-02-05T23:27:58.555Z</updated>
+    <updated>2022-02-06T01:05:03.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메타버스에서 로블록스 브랜드 파트너십의 다음 목표는?]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8185</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8185"/>
+        <updated>2022-02-06T01:04:42.650Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 프라이버시 규제 하에서 검색이 소셜 미디어보다 강력하다]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8184</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8184"/>
+        <updated>2022-02-06T01:04:42.652Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 광고 마케팅 업계 예측]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8183</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8183"/>
+        <updated>2022-02-06T01:04:42.654Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유엔젤보이스, 이프랜드 메타버스 콘서트 ‘UMETACON’ 개최]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8182</id>
@@ -192,27 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-8155</id>
         <link href="https://www.i-boss.co.kr/ab-2877-8155"/>
         <updated>2022-01-31T00:55:27.915Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["자사몰 구축 돕는다"… 중기부, 민간기업과 손잡고 중소기업 마케팅 지원]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8154</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8154"/>
-        <updated>2022-01-31T00:55:27.916Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인포그래픽] 소셜 미디어 사용자는 데이터 개인 정보 보호에 대해 점점 더 우려하고 있다]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8153</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8153"/>
-        <updated>2022-01-31T00:55:27.917Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 인플루언서 마케팅 트렌드]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8152</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8152"/>
-        <updated>2022-01-31T00:55:27.918Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
