@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-06T07:16:34.925Z</updated>
+    <updated>2022-02-06T08:18:34.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -188,18 +188,18 @@
         <content type="html"><![CDATA[흥미진진]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SNS를 반드시 해야 하는 이유 (퍼거슨의 트인낭)]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57114</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57114"/>
-        <updated>2022-01-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[둥근마을]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[미용실 직영점 15개, CEO가 밝히는 성공 비결]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56997</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56997"/>
         <updated>2022-01-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[류드나르]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SNS를 반드시 해야 하는 이유 (퍼거슨의 트인낭)]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57114</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57114"/>
+        <updated>2022-01-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[둥근마을]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[DMC] 2021 & 2022 퍼포먼스 마케팅 시장 동향]]></title>
