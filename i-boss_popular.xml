@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-06T04:21:30.190Z</updated>
+    <updated>2022-02-06T05:14:49.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -74,13 +74,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57064"/>
         <updated>2022-01-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해맞이 '새로운 마케팅'을 위한 3가지 팁]]></title>
-        <id>https://www.i-boss.co.kr/ab-74668-2525</id>
-        <link href="https://www.i-boss.co.kr/ab-74668-2525"/>
-        <updated>2022-01-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아드리엘]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마케터에게 필요한 기획 습관]]></title>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-3208-740"/>
         <updated>2022-01-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타트업 마케터는 만만치 않네요]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38182</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38182"/>
+        <updated>2022-01-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[이네로]]></content>
     </entry>
 </feed>
