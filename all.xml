@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 22:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 23:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[이네로]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2월 7일 마케팅 뉴스클리핑] 네이버 일등공신 스마트스토어 성장둔화 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8177</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8177</guid>
+            <pubDate>Mon, 07 Feb 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버 일등공신 `스마트스토어` 성장둔화  네이버를 `쇼핑왕국`으로 만든 스마트스토어의 성장세가 주춤하다. 스마트스토어 개수와 거래액 성장률 모두 둔화되는 형국이다. 지난해 1분기 53%에 달했던 성장률이 4분기에는 25%  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d01a3d5a262bbd693cd428d8e60fa570_37755_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[메타버스에서 로블록스 브랜드 파트너십의 다음 목표는? (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8185</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8185</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[Charlies Pick] Happy Seollal (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8155</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8155</guid>
-            <pubDate>Mon, 31 Jan 2022 09:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[세계적인 명문구단 FC바르셀로나가 한국팬들의 설 명절 연휴를 맞아 한글로 축하 메시지를 보냈다. FC바르셀로나는 페이스북과 인스타타그램 등 SNS에`새해 복 많이 받으세요`라는 한국어 인사를 게시했다. 바르셀로나의 센스 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5a7f7bb2374623bfb97395c61fde4234_94964_6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[2월 7일 마케팅 뉴스클리핑] 네이버 일등공신 '스마트스토어' 성장둔화 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8177</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8177</guid>
+            <pubDate>Sun, 06 Feb 2022 23:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[메타버스에서 로블록스 브랜드 파트너십의 다음 목표는? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[Charlie's Pick] Happy Seollal (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8155</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8155</guid>
-            <pubDate>Mon, 31 Jan 2022 09:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[네이버에서 스마트스토어에 입점한 중소상공인 판매자들을 위한 솔루션 서비스를 제공하기 위해 최근 베타 오픈한 이 플랫폼의 이름은 무엇일까요?(hint: 힌트는 못 참죠! 큐레터 10초컷 뉴스에서 정답 찾기) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Sun, 06 Feb 2022 23:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->네이버에서 스마트스토어에 입점한 중소상공인 판매자들을 위한 솔루션 서비스를 제공하기 위해 최근 베타 오픈한 이 플랫폼의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://qletter.i-boss.co.kr/view/857500" target="_blank">힌트는 못 참죠! 큐레터 10초컷 뉴스에서 정답 찾기</a>)</span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1355_1" value="1" class="AB-radio" id="PQ_BD5826_1355_1_0"><label for="PQ_BD5826_1355_1_0" id="label_PQ_BD5826_1355_1_0">(A) 비즈니스솔루션마켓</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1355_1" value="2" class="AB-radio" id="PQ_BD5826_1355_1_1"><label for="PQ_BD5826_1355_1_1" id="label_PQ_BD5826_1355_1_1">(B) 스마트솔루션스토어</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1355_1" value="3" class="AB-radio" id="PQ_BD5826_1355_1_2"><label for="PQ_BD5826_1355_1_2" id="label_PQ_BD5826_1355_1_2">(C) 커머스솔루션마켓</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1355_1" value="4" class="AB-radio" id="PQ_BD5826_1355_1_3"><label for="PQ_BD5826_1355_1_3" id="label_PQ_BD5826_1355_1_3">(D) 프라임커머스솔루션</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나 피해 소상공인 대출 5% 육박…1% 초저금리로 8.6조원 지원 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

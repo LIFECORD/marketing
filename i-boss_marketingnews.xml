@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 22:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 23:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2월 7일 마케팅 뉴스클리핑] 네이버 일등공신 스마트스토어 성장둔화 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8177</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8177</guid>
+            <pubDate>Mon, 07 Feb 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버 일등공신 `스마트스토어` 성장둔화  네이버를 `쇼핑왕국`으로 만든 스마트스토어의 성장세가 주춤하다. 스마트스토어 개수와 거래액 성장률 모두 둔화되는 형국이다. 지난해 1분기 53%에 달했던 성장률이 4분기에는 25%  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d01a3d5a262bbd693cd428d8e60fa570_37755_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타버스에서 로블록스 브랜드 파트너십의 다음 목표는?]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8185</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 01 Feb 2022 08:38:00 GMT</pubDate>
             <content:encoded><![CDATA[NFT가 급속도로 확대되면서, 자동차 업체들도 NFT 트렌드에 동참하기 시작했다. 이탈리아의 슈퍼카 람보르기니도 최초의 NFT 프로젝트를 발표했다. 그동안 소셜 미디어에 `Tothe Moon`이라는 게시물을 올려 이 사실을 암시해왔던 람 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[Charlies Pick] Happy Seollal]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8155</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8155</guid>
-            <pubDate>Mon, 31 Jan 2022 09:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[세계적인 명문구단 FC바르셀로나가 한국팬들의 설 명절 연휴를 맞아 한글로 축하 메시지를 보냈다. FC바르셀로나는 페이스북과 인스타타그램 등 SNS에`새해 복 많이 받으세요`라는 한국어 인사를 게시했다. 바르셀로나의 센스 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5a7f7bb2374623bfb97395c61fde4234_94964_6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
