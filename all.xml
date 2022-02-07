@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 00:57:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 02:00:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 마케팅 트렌드, 퀴즈로 풀어봐요 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/860163-%EC%9A%94%EC%A6%98_%EB%A7%88%EC%BC%80%ED%8C%85_%ED%8A%B8%EB%A0%8C%EB%93%9C_%ED%80%B4%EC%A6%88%EB%A1%9C_%ED%92%80%EC%96%B4%EB%B4%90%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/860163-%EC%9A%94%EC%A6%98_%EB%A7%88%EC%BC%80%ED%8C%85_%ED%8A%B8%EB%A0%8C%EB%93%9C_%ED%80%B4%EC%A6%88%EB%A1%9C_%ED%92%80%EC%96%B4%EB%B4%90%EC%9A%94/</guid>
+            <pubDate>Mon, 07 Feb 2022 01:59:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/860163-요즘_마케팅_트렌드_퀴즈로_풀어봐요/">
+						<div class="thumb"><img src="/images/qletter_860163.png"></div>
+						<p><strong>요즘 마케팅 트렌드, 퀴즈로 풀어봐요</strong>2022.02.07</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_860163.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[10만 명 유입, 구매 전환은 20... (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/857500-10%EB%A7%8C_%EB%AA%85_%EC%9C%A0%EC%9E%85_%EA%B5%AC%EB%A7%A4_%EC%A0%84%ED%99%98%EC%9D%80_20/</link>
@@ -129,17 +140,6 @@
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_811322.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[카피 쓰다 커피 원샷한 보스님께 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/808243-%EC%B9%B4%ED%94%BC_%EC%93%B0%EB%8B%A4_%EC%BB%A4%ED%94%BC_%EC%9B%90%EC%83%B7%ED%95%9C_%EB%B3%B4%EC%8A%A4%EB%8B%98%EA%BB%98/</link>
-            <guid>https://qletter.i-boss.co.kr/view/808243-%EC%B9%B4%ED%94%BC_%EC%93%B0%EB%8B%A4_%EC%BB%A4%ED%94%BC_%EC%9B%90%EC%83%B7%ED%95%9C_%EB%B3%B4%EC%8A%A4%EB%8B%98%EA%BB%98/</guid>
-            <pubDate>Fri, 24 Dec 2021 06:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/808243-카피_쓰다_커피_원샷한_보스님께/">
-						<div class="thumb"><img src="/images/qletter_808243.png"></div>
-						<p><strong> 카피 쓰다 커피 원샷한 보스님께</strong>2021.12.23</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_808243.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[아묻따 저장 필수! 피와 살이 되는 마케팅 필수 참고 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56996</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56996</guid>
@@ -147,18 +147,18 @@
             <content:encoded><![CDATA[재비]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[월 1,000만 원 벌기 위해 반드시 해야 하는 일 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57071</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57071</guid>
-            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[리뷰를 모으기 위한 기업들의 노력 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56985</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56985</guid>
             <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[월 1,000만 원 벌기 위해 반드시 해야 하는 일 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57071</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57071</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[폰트 저작권 위반으로 100만원 내라구요?? +) 찐 상업.. (아이보스 ─ 인기글)]]></title>
@@ -210,18 +210,25 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터에게 필요한 기획 습관 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-5637-29</link>
-            <guid>https://www.i-boss.co.kr/ab-5637-29</guid>
-            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[진짜 빠르게 300만원 버는 방법 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57128</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57128</guid>
             <pubDate>Fri, 28 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[無사수 분 들 보고서 필요하신분들 쓰세요~ (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38306</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38306</guid>
+            <pubDate>Fri, 04 Feb 2022 12:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[레스뿌와]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케터에게 필요한 기획 습관 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-5637-29</link>
+            <guid>https://www.i-boss.co.kr/ab-5637-29</guid>
+            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[roas1000% 찍는 광고소재 이미지 공통점 (아이보스 ─ 인기글)]]></title>
@@ -243,13 +250,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57069</guid>
             <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[교육매니저]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[無사수 분 들 보고서 필요하신분들 쓰세요~ (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38306</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38306</guid>
-            <pubDate>Fri, 04 Feb 2022 12:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[레스뿌와]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[초보 블로거들에게 필요한 사이트 공유 (아이보스 ─ 인기글)]]></title>
@@ -287,6 +287,20 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[쉿!! 아이보스 생활기록부 생겼어요 여러분 만 알고 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38212</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38212</guid>
+            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사수 없이 성장하기. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38265</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38265</guid>
+            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[규S]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[비용 인상에 파업까지, 엎친데 덮친 격 📦 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57009</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57009</guid>
@@ -301,25 +315,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[사수 없이 성장하기. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38265</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38265</guid>
-            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[규S]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쉿!! 아이보스 생활기록부 생겼어요 여러분 만 알고 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38212</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38212</guid>
-            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[놀토]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[상세페이지 만들 때 가장 많이 하는 실수 top3! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57059</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57059</guid>
             <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[흥미진진]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[DMC] 2021 & 2022 퍼포먼스 마케팅 시장 동향 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-3208-740</link>
+            <guid>https://www.i-boss.co.kr/ab-3208-740</guid>
+            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미용실 직영점 15개, CEO가 밝히는 성공 비결 (아이보스 ─ 인기글)]]></title>
@@ -336,18 +343,19 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[DMC] 2021 & 2022 퍼포먼스 마케팅 시장 동향 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-3208-740</link>
-            <guid>https://www.i-boss.co.kr/ab-3208-740</guid>
-            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[스타트업 마케터는 만만치 않네요 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38182</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38182</guid>
             <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이네로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[눈물  떨이... 코로나19에 폐업 마케팅 성행 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8190</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8190</guid>
+            <pubDate>Mon, 07 Feb 2022 10:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19로 가게 문을 닫은 자영업자가 중고 시장으로 유입되면서 폐업 마케팅이 성행하고 있다. 매도자의 곤궁한 처지와 맞물려 소비가 이뤄지는 점에서 전형적인 불경기형 감성 마케팅인 셈인데 일부는 시류를 탄 상술이라는 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[대학내일20대연구소] MZ세대, 가장 선호하는 기프티콘 선물은 식품음료 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,39 +590,38 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[해외 크리에이티브] 스머프와 땡땡이 여권에 등장하다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8160</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8160</guid>
-            <pubDate>Wed, 02 Feb 2022 09:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[여권은 우리가 여행하는 여정을 보여준다. 여권의 속지에 찍힌 도장을 보면서 여행지를 회상하기도 한다. 이제 여권은 단순히 입국과 출국에 필요한 소책자에 그치지 않는다. 여권은 그 나라 힘과 디자인 역량을보여주고 있다.  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[눈물 · 떨이... 코로나19에 '폐업 마케팅` 성행 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8190</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8190</guid>
+            <pubDate>Mon, 07 Feb 2022 01:59:49 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대학내일20대연구소] MZ세대, 가장 선호하는 기프티콘 선물은 ‘식품·음료’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8189</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8189</guid>
-            <pubDate>Mon, 07 Feb 2022 00:56:48 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 09:27:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[메타버스와 버추얼 인플루언서 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8188</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8188</guid>
-            <pubDate>Mon, 07 Feb 2022 00:56:48 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 08:58:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[MAD Pick] "현장의 해피 바이러스 주현입니다" 모델 주현 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8187</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8187</guid>
-            <pubDate>Mon, 07 Feb 2022 00:56:48 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 08:57:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서범석 교수, "전광판 광고 효과측정 모형" 개발 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8186</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8186</guid>
-            <pubDate>Mon, 07 Feb 2022 00:56:48 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 08:57:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[해외 크리에이티브] "스머프"와 "땡땡"이 여권에 등장하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8160</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8160</guid>
-            <pubDate>Wed, 02 Feb 2022 09:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네이버에서 스마트스토어에 입점한 중소상공인 판매자들을 위한 솔루션 서비스를 제공하기 위해 최근 베타 오픈한 이 플랫폼의 이름은 무엇일까요?(hint: 힌트는 못 참죠! 큐레터 10초컷 뉴스에서 정답 찾기) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 07 Feb 2022 00:56:59 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 02:00:01 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버에서 스마트스토어에 입점한 중소상공인 판매자들을 위한 솔루션 서비스를 제공하기 위해 최근 베타 오픈한 이 플랫폼의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://qletter.i-boss.co.kr/view/857500" target="_blank">힌트는 못 참죠! 큐레터 10초컷 뉴스에서 정답 찾기</a>)</span></td>
 			</tr>

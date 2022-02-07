@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-02-07T00:57:09.074Z</updated>
+    <updated>2022-02-07T02:00:10.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[눈물 · 떨이... 코로나19에 '폐업 마케팅` 성행]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8190</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8190"/>
+        <updated>2022-02-07T01:59:49.191Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대학내일20대연구소] MZ세대, 가장 선호하는 기프티콘 선물은 ‘식품·음료’]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8189</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-8161</id>
         <link href="https://www.i-boss.co.kr/ab-2877-8161"/>
         <updated>2022-02-02T00:58:06.113Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[해외 크리에이티브] "스머프"와 "땡땡"이 여권에 등장하다]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8160</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8160"/>
-        <updated>2022-02-02T00:58:06.114Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
