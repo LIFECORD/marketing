@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 05:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 06:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Book] 박은아 대구대학교 교수, 소비자행동의 심리 : 온오프라인 통합시대 출간]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8193</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8193</guid>
+            <pubDate>Mon, 07 Feb 2022 06:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[박은아 대구대학교 교수의 는소비자가 온라인과 오프라인 쇼핑에서 원하는 것이 무엇인지를 잘 알 수 있게 해주는 책이다. 코로나19는디지털 세상으로의 변화를 겪던 인류의 삶을 급격하게 바꿔놓았다. 사람 사이의 접촉이 위 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[유통업계는 지금 패꾸(패키지 꾸미기) 열풍]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8192</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8192</guid>
+            <pubDate>Mon, 07 Feb 2022 06:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[MZ세대사이에서다이어리부터신발,폴라로이드사진,휴대폰등을꾸미는별다꾸트렌드가인기다.일상에서쉽게접하고사용하는모든것을개인취향에맞춰꾸미는별다꾸트렌드의인기는남들과다른자신의취향과개성을적극적으로드러내 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2022 에피 어워드 코리아 출품 모집... 4월 15일 접수 마감]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8191</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 03 Feb 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 공정위, SNS 속 `뒷광고` 1만 7,000건 적발  공정위가 SNS에서 협찬을 받은 사실을 알리지 않고 게시물을 올린 `뒷광고` 1만 7,000여 건을 적발했다고 밝혔다. 인스타그램 9,538건, 네이버 블로그 7,383건, 유튜브 99건 등이다. 뒷광고 게 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16438176558075.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 3D 아바타 인스타그램에 도입... 메타버스 첫단계]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8163</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8163</guid>
-            <pubDate>Wed, 02 Feb 2022 00:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[메타는 인스타그램 스토리와 DM, 그리고 페이스북과 메신저에서사용자 지정 3D 아바타를 사용할 수 있게 됐다. 인스타그램의 스토리와 DM에는 3D 아바타가 신규로 도입되며 페이스북과 메신저는 기존의 2D 아바타가 3D로 업그레이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[대홍기획, 세븐일레븐 메타버스 매장 세븐일레븐 카이아섬점 연다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8162</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8162</guid>
-            <pubDate>Wed, 02 Feb 2022 10:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[대홍기획(대표이사:홍성현)이 해긴(대표이사 이영일)의 메타버스 게임 플레이투게더 내 코리아세븐(대표이사 최경호)의 가상현실 편의점 세븐일레븐 카이아섬점을 오픈한다. 3일 오픈하는 세븐일레븐 카이아섬점은 진열대부 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
