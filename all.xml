@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 11:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 12:28:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[코바코, 중소기업 방송광고 제작 지원 늘린다... 작년보다 예산 17% (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8195</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8195</guid>
+            <pubDate>Mon, 07 Feb 2022 12:27:40 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송광고진흥공사(코바코, 사장 이백만)는 2월 7일 공모를 시작으로 2022년 혁신형 중소기업 방송광고 활성화 지원사업을 시행한다. 해당 사업은 혁신형 중소기업이 TV나 라디오에 방송광고를 할 수 있도록 광고 제작비를 지 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[[Book] 박은아 대구대학교 교수, 소비자행동의 심리 : 온오프라인 통합시대 출간 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8193</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8193</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[2월 3일 마케팅 뉴스클리핑] SNS 뒷광고 1만 7천 건 적발 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8164</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8164</guid>
-            <pubDate>Thu, 03 Feb 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 공정위, SNS 속 `뒷광고` 1만 7,000건 적발  공정위가 SNS에서 협찬을 받은 사실을 알리지 않고 게시물을 올린 `뒷광고` 1만 7,000여 건을 적발했다고 밝혔다. 인스타그램 9,538건, 네이버 블로그 7,383건, 유튜브 99건 등이다. 뒷광고 게 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16438176558075.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[코바코, 중소기업 방송광고 제작 지원 늘린다... 작년보다 예산 17%↑ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8195</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8195</guid>
+            <pubDate>Mon, 07 Feb 2022 12:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[Book] 박은아 대구대학교 교수, "소비자행동의 심리 : 온오프라인 통합시대" 출간 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[2월 3일 마케팅 뉴스클리핑] SNS 뒷광고 1만 7천 건 적발 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8164</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8164</guid>
-            <pubDate>Thu, 03 Feb 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네이버에서 스마트스토어에 입점한 중소상공인 판매자들을 위한 솔루션 서비스를 제공하기 위해 최근 베타 오픈한 이 플랫폼의 이름은 무엇일까요?(hint: 힌트는 못 참죠! 큐레터 10초컷 뉴스에서 정답 찾기) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 07 Feb 2022 11:14:32 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 12:28:02 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버에서 스마트스토어에 입점한 중소상공인 판매자들을 위한 솔루션 서비스를 제공하기 위해 최근 베타 오픈한 이 플랫폼의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://qletter.i-boss.co.kr/view/857500" target="_blank">힌트는 못 참죠! 큐레터 10초컷 뉴스에서 정답 찾기</a>)</span></td>
 			</tr>

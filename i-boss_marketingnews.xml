@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 11:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 12:28:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코바코, 중소기업 방송광고 제작 지원 늘린다... 작년보다 예산 17%]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8195</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8195</guid>
+            <pubDate>Mon, 07 Feb 2022 12:27:40 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송광고진흥공사(코바코, 사장 이백만)는 2월 7일 공모를 시작으로 2022년 혁신형 중소기업 방송광고 활성화 지원사업을 시행한다. 해당 사업은 혁신형 중소기업이 TV나 라디오에 방송광고를 할 수 있도록 광고 제작비를 지 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[Book] 박은아 대구대학교 교수, 소비자행동의 심리 : 온오프라인 통합시대 출간]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8193</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 03 Feb 2022 08:43:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴욕타임스는 구독 기반 디지털 스포츠 퍼블리셔 을 5억 5000만 달러에 인수한 데 이어, 작은 규모이긴 하지만 포트폴리오에 을 추가했다고 발표했다. 워들은 SNS인 레딧의 소프트웨어 엔지니어인 조시 워들이 지난해 10월에 만든  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[2월 3일 마케팅 뉴스클리핑] SNS 뒷광고 1만 7천 건 적발 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8164</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8164</guid>
-            <pubDate>Thu, 03 Feb 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 공정위, SNS 속 `뒷광고` 1만 7,000건 적발  공정위가 SNS에서 협찬을 받은 사실을 알리지 않고 게시물을 올린 `뒷광고` 1만 7,000여 건을 적발했다고 밝혔다. 인스타그램 9,538건, 네이버 블로그 7,383건, 유튜브 99건 등이다. 뒷광고 게 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16438176558075.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
