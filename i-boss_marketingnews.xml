@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 22:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 23:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2월 8일 마케팅 뉴스클리핑] 내년 10조로 커진다는 라방... 유통가, 전문 진행자 확보 경쟁 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8194</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8194</guid>
+            <pubDate>Tue, 08 Feb 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 내년 `10조`로 커진다는 라방... 유통가, 전문 진행자 확보 경쟁  이커머스 시장의 성장과 함께 라이브커머스 시장도 급속도로 몸집을 불리고 있다. 유통업체들은 세대별 라방을 편성하거나 이커머스 채널을 통한 라방을 진행 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c668ab9a100b31e6554e1f8b93b18656_80242_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코바코, 중소기업 방송광고 제작 지원 늘린다... 작년보다 예산 17%]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8195</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8166</guid>
             <pubDate>Thu, 03 Feb 2022 08:44:00 GMT</pubDate>
             <content:encoded><![CDATA[WPP 클라이언트는 이제 인스타카트 광고 제품 오퍼링을 미리 알고플랫폼의 새로운 도구와 기능에 액세스할 수 있다. WPP와 인스타카트는 WPP가 인스타카트의 Analytics API에 액세스하는새로운 파트너십을 발표했다.CPG 카테고리에서  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕타임스, 인기 급상승 단어게임 워들 인수]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8165</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8165</guid>
-            <pubDate>Thu, 03 Feb 2022 08:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴욕타임스는 구독 기반 디지털 스포츠 퍼블리셔 을 5억 5000만 달러에 인수한 데 이어, 작은 규모이긴 하지만 포트폴리오에 을 추가했다고 발표했다. 워들은 SNS인 레딧의 소프트웨어 엔지니어인 조시 워들이 지난해 10월에 만든  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

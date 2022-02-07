@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 22:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 23:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,18 +294,18 @@
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카드사 수수료율 인하가 우리에게 미치는 영향 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56963</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56963</guid>
-            <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[사수 없이 성장하기. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38265</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38265</guid>
             <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[규S]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카드사 수수료율 인하가 우리에게 미치는 영향 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-56963</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-56963</guid>
+            <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[상세페이지 만들 때 가장 많이 하는 실수 top3! (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57073</guid>
             <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[2월 8일 마케팅 뉴스클리핑] 내년 10조로 커진다는 라방... 유통가, 전문 진행자 확보 경쟁 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8194</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8194</guid>
+            <pubDate>Tue, 08 Feb 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 내년 `10조`로 커진다는 라방... 유통가, 전문 진행자 확보 경쟁  이커머스 시장의 성장과 함께 라이브커머스 시장도 급속도로 몸집을 불리고 있다. 유통업체들은 세대별 라방을 편성하거나 이커머스 채널을 통한 라방을 진행 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c668ab9a100b31e6554e1f8b93b18656_80242_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코바코, 중소기업 방송광고 제작 지원 늘린다... 작년보다 예산 17% (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뉴욕타임스, 인기 급상승 단어게임 워들 인수 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8165</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8165</guid>
-            <pubDate>Thu, 03 Feb 2022 08:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴욕타임스는 구독 기반 디지털 스포츠 퍼블리셔 을 5억 5000만 달러에 인수한 데 이어, 작은 규모이긴 하지만 포트폴리오에 을 추가했다고 발표했다. 워들은 SNS인 레딧의 소프트웨어 엔지니어인 조시 워들이 지난해 10월에 만든  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[2월 8일 마케팅 뉴스클리핑] 내년 '10조'로 커진다는 라방... 유통가, 전문 진행자 확보 경쟁 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8194</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8194</guid>
+            <pubDate>Mon, 07 Feb 2022 23:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코바코, 중소기업 방송광고 제작 지원 늘린다... 작년보다 예산 17%↑ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뉴욕타임스, 인기 급상승 단어게임 '워들' 인수 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8165</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8165</guid>
-            <pubDate>Thu, 03 Feb 2022 08:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[인스타그램이 특정 계정에 대해 스팸 활동으로 의심된다고 판단하게 되면 나타나는 팝업의 오류 메시지는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Mon, 07 Feb 2022 23:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->인스타그램이 특정 계정에 대해 스팸 활동으로 의심된다고 판단하게 되면 나타나는 팝업의 오류 메시지는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1356_1" value="1" class="AB-radio" id="PQ_BD5826_1356_1_0"><label for="PQ_BD5826_1356_1_0" id="label_PQ_BD5826_1356_1_0">(A) 블랙 블록</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1356_1" value="2" class="AB-radio" id="PQ_BD5826_1356_1_1"><label for="PQ_BD5826_1356_1_1" id="label_PQ_BD5826_1356_1_1">(B) 블랙 팝업</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1356_1" value="3" class="AB-radio" id="PQ_BD5826_1356_1_2"><label for="PQ_BD5826_1356_1_2" id="label_PQ_BD5826_1356_1_2">(C) 스팸 스톱</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1356_1" value="4" class="AB-radio" id="PQ_BD5826_1356_1_3"><label for="PQ_BD5826_1356_1_3" id="label_PQ_BD5826_1356_1_3">(D) 액션 블록</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나 피해 소상공인 대출 5% 육박…1% 초저금리로 8.6조원 지원 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
