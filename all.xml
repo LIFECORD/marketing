@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 02:00:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 02:36:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,18 +210,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[진짜 빠르게 300만원 버는 방법 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57128</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57128</guid>
-            <pubDate>Fri, 28 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[無사수 분 들 보고서 필요하신분들 쓰세요~ (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38306</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38306</guid>
             <pubDate>Fri, 04 Feb 2022 12:21:20 GMT</pubDate>
             <content:encoded><![CDATA[레스뿌와]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[진짜 빠르게 300만원 버는 방법 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57128</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57128</guid>
+            <pubDate>Fri, 28 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케터에게 필요한 기획 습관 (아이보스 ─ 인기글)]]></title>
@@ -315,18 +315,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[상세페이지 만들 때 가장 많이 하는 실수 top3! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57059</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57059</guid>
-            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[흥미진진]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[DMC] 2021 & 2022 퍼포먼스 마케팅 시장 동향 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-3208-740</link>
             <guid>https://www.i-boss.co.kr/ab-3208-740</guid>
             <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[상세페이지 만들 때 가장 많이 하는 실수 top3! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57059</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57059</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[흥미진진]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미용실 직영점 15개, CEO가 밝히는 성공 비결 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38182</guid>
             <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이네로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 에피 어워드 코리아 출품 모집... 4월 15일 접수 마감 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8191</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8191</guid>
+            <pubDate>Mon, 07 Feb 2022 11:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[대한민국 소비자의 마음을 움직인 캠페인을 선정하는 2022 에피 어워드 코리아가 2월 7일(월)부터 오는 4월 15일(금)까지 출품 접수를 받는다. 1968년 미국에서 처음 시작된 에피 어워드(Effie Awards)는 현재 전 세계 125개 이상의 국가 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[눈물  떨이... 코로나19에 폐업 마케팅 성행 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,18 +590,17 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[삼성전자 메타버스 마이 하우스 누적 방문 횟수 400만 돌파 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8161</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8161</guid>
-            <pubDate>Wed, 02 Feb 2022 09:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 메타버스 플랫폼 제페토(ZEPETO)와 함께 지난 1월 5일 출시한 마이 하우스(My House) 서비스가 MZ세대를 중심으로 큰 인기를 끌고 있다. 마이 하우스는 삼성전자의 다양한 제품과 가구조명패브릭 등 인테리어 아이템으로 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[‘2022 에피 어워드 코리아’ 출품 모집... 4월 15일 접수 마감 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8191</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8191</guid>
+            <pubDate>Mon, 07 Feb 2022 02:36:09 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[눈물 · 떨이... 코로나19에 '폐업 마케팅` 성행 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8190</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8190</guid>
-            <pubDate>Mon, 07 Feb 2022 01:59:49 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 10:31:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[삼성전자 메타버스 '마이 하우스' 누적 방문 횟수 400만 돌파 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8161</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8161</guid>
-            <pubDate>Wed, 02 Feb 2022 09:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네이버에서 스마트스토어에 입점한 중소상공인 판매자들을 위한 솔루션 서비스를 제공하기 위해 최근 베타 오픈한 이 플랫폼의 이름은 무엇일까요?(hint: 힌트는 못 참죠! 큐레터 10초컷 뉴스에서 정답 찾기) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 07 Feb 2022 02:00:01 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 02:36:21 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버에서 스마트스토어에 입점한 중소상공인 판매자들을 위한 솔루션 서비스를 제공하기 위해 최근 베타 오픈한 이 플랫폼의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://qletter.i-boss.co.kr/view/857500" target="_blank">힌트는 못 참죠! 큐레터 10초컷 뉴스에서 정답 찾기</a>)</span></td>
 			</tr>

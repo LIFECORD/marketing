@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 02:00:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 02:36:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 에피 어워드 코리아 출품 모집... 4월 15일 접수 마감]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8191</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8191</guid>
+            <pubDate>Mon, 07 Feb 2022 11:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[대한민국 소비자의 마음을 움직인 캠페인을 선정하는 2022 에피 어워드 코리아가 2월 7일(월)부터 오는 4월 15일(금)까지 출품 접수를 받는다. 1968년 미국에서 처음 시작된 에피 어워드(Effie Awards)는 현재 전 세계 125개 이상의 국가 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[눈물  떨이... 코로나19에 폐업 마케팅 성행]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8190</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8162</guid>
             <pubDate>Wed, 02 Feb 2022 10:27:00 GMT</pubDate>
             <content:encoded><![CDATA[대홍기획(대표이사:홍성현)이 해긴(대표이사 이영일)의 메타버스 게임 플레이투게더 내 코리아세븐(대표이사 최경호)의 가상현실 편의점 세븐일레븐 카이아섬점을 오픈한다. 3일 오픈하는 세븐일레븐 카이아섬점은 진열대부 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 메타버스 마이 하우스 누적 방문 횟수 400만 돌파]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8161</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8161</guid>
-            <pubDate>Wed, 02 Feb 2022 09:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 메타버스 플랫폼 제페토(ZEPETO)와 함께 지난 1월 5일 출시한 마이 하우스(My House) 서비스가 MZ세대를 중심으로 큰 인기를 끌고 있다. 마이 하우스는 삼성전자의 다양한 제품과 가구조명패브릭 등 인테리어 아이템으로 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
