@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 22:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 23:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -301,18 +301,18 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년 SNS 인기 콘텐츠 9가지 주제 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57014</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57014</guid>
-            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[yoorok]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[쉿!! 아이보스 생활기록부 생겼어요 여러분 만 알고 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38212</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38212</guid>
             <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[놀토]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 SNS 인기 콘텐츠 9가지 주제 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57014</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57014</guid>
+            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[상세페이지 만들 때 가장 많이 하는 실수 top3! (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56997</guid>
             <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[류드나르]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[2월 9일 마케팅 뉴스클리핑] 메타, 유럽서 페북인스타 운영 중단 우려 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8199</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8199</guid>
+            <pubDate>Wed, 09 Feb 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 메타, 유럽서 페북인스타 운영 중단 우려  메타가 유럽 데이터 규정으로 인해 페이스북과 인스타그램의 유럽 내 서비스를 중단하게 될 수도 있다고 밝혔다. 메타는 EU 데이터 규제와 관련한 변동으로 페이스북과 인스타그램  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_14eb488081f6568896efcf173dedf91d_61179_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국인의 66%, 베이징 동계올림픽 관심 없어 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16438550060603.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[무신사, 패션 콘텐츠 스냅 일반 고객에 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8169</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8169</guid>
-            <pubDate>Thu, 03 Feb 2022 10:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[스태프모델무신사크루 한정했던 스냅 업로드 권한 전체 고객으로 확대  온라인 패션 플랫폼 무신사가 다양한 패션 스타일을 엿볼 수 있는 무신사 스냅(MUSINSA SNAP)을 일반 고객 대상 패션 커뮤니티로 확대해 공개한다고 3일 밝혔 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_f47679d6cdabdbd42a5afe31b0ddbeae_86054_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[2월 9일 마케팅 뉴스클리핑] 메타, 유럽서 페북·인스타 운영 중단 우려 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8199</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8199</guid>
+            <pubDate>Tue, 08 Feb 2022 23:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국인의 66%, “베이징 동계올림픽 관심 없어” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[무신사, 패션 콘텐츠 '스냅' 일반 고객에 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8169</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8169</guid>
-            <pubDate>Thu, 03 Feb 2022 10:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[다음 중 구글 애널리틱스에서 필수로 설정해야 하는 맞춤 캠페인(utm) 매개변수(parameter)가 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Tue, 08 Feb 2022 23:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 중 구글 애널리틱스에서 필수로 설정해야 하는 맞춤 캠페인(utm) 매개변수(parameter)가 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1357_1" value="1" class="AB-radio" id="PQ_BD5826_1357_1_0"><label for="PQ_BD5826_1357_1_0" id="label_PQ_BD5826_1357_1_0">(A) 키워드 (term)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1357_1" value="2" class="AB-radio" id="PQ_BD5826_1357_1_1"><label for="PQ_BD5826_1357_1_1" id="label_PQ_BD5826_1357_1_1">(B) 소스 (source)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1357_1" value="3" class="AB-radio" id="PQ_BD5826_1357_1_2"><label for="PQ_BD5826_1357_1_2" id="label_PQ_BD5826_1357_1_2">(C) 매체 (medium)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1357_1" value="4" class="AB-radio" id="PQ_BD5826_1357_1_3"><label for="PQ_BD5826_1357_1_3" id="label_PQ_BD5826_1357_1_3">(D) 캠페인 (campaign)</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나 피해 소상공인 대출 5% 육박…1% 초저금리로 8.6조원 지원 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 22:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 23:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2월 9일 마케팅 뉴스클리핑] 메타, 유럽서 페북인스타 운영 중단 우려 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8199</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8199</guid>
+            <pubDate>Wed, 09 Feb 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 메타, 유럽서 페북인스타 운영 중단 우려  메타가 유럽 데이터 규정으로 인해 페이스북과 인스타그램의 유럽 내 서비스를 중단하게 될 수도 있다고 밝혔다. 메타는 EU 데이터 규제와 관련한 변동으로 페이스북과 인스타그램  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_14eb488081f6568896efcf173dedf91d_61179_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국인의 66%, 베이징 동계올림픽 관심 없어]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8198</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 03 Feb 2022 11:23:00 GMT</pubDate>
             <content:encoded><![CDATA[고객 선호도 높은 상품 강소기업이 만들고 쿠팡이 판매하는 방식    쿠팡 뷰티데이터랩이 `내 손으로 만드는 데일리 뷰티 필수템` 캠페인을 진행한다고 3일 밝혔다. 이번 캠페인은 쿠팡의 고객 인사이트가 반영된 상품을 강소기 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16438550060603.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사, 패션 콘텐츠 스냅 일반 고객에 공개]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8169</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8169</guid>
-            <pubDate>Thu, 03 Feb 2022 10:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[스태프모델무신사크루 한정했던 스냅 업로드 권한 전체 고객으로 확대  온라인 패션 플랫폼 무신사가 다양한 패션 스타일을 엿볼 수 있는 무신사 스냅(MUSINSA SNAP)을 일반 고객 대상 패션 커뮤니티로 확대해 공개한다고 3일 밝혔 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_f47679d6cdabdbd42a5afe31b0ddbeae_86054_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
