@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 23:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 01:00:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스마트 스피커 채택 둔화에도 대화형 AI 사용 확대.. 브랜드에 기회 제공]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8196</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8196</guid>
+            <pubDate>Tue, 08 Feb 2022 08:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[소매 봇과 가상 에이전트와 같은 기술이 고객 경험을 지속적으로 개선하면서 대화형 AI는 매년 소비자의 생활에 더욱 통합되고 있다. 이마케터는올해 미국 성인 인구의 약 47%가 적어도 한 달에 한 번은 음성 비서를 이용하고, 이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[2월 8일 마케팅 뉴스클리핑] 내년 10조로 커진다는 라방... 유통가, 전문 진행자 확보 경쟁 외]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8194</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8167</guid>
             <pubDate>Thu, 03 Feb 2022 08:44:00 GMT</pubDate>
             <content:encoded><![CDATA[원더맨 톰슨 인텔리전스는 2022년에 변화하는 소비자 행동과 함께 주목해야 할 트렌드를 예측한`The Future 100: Trends and Change to Watch in 2022`를 발표했다. 이 보고서는 문화, 기술, 뷰티 등 10개 부문에서 100개의 떠오르는 트렌드를 제 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[WPP, 인스타카트와 새로운 광고 파트너십을 맺다... CPG 브랜드의 온라인 식료품 광고 가속화]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8166</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8166</guid>
-            <pubDate>Thu, 03 Feb 2022 08:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[WPP 클라이언트는 이제 인스타카트 광고 제품 오퍼링을 미리 알고플랫폼의 새로운 도구와 기능에 액세스할 수 있다. WPP와 인스타카트는 WPP가 인스타카트의 Analytics API에 액세스하는새로운 파트너십을 발표했다.CPG 카테고리에서  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
