@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 14:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 15:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8169</guid>
             <pubDate>Thu, 03 Feb 2022 10:57:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인스타그램이 특정 계정에 대해 스팸 활동으로 의심된다고 판단하게 되면 나타나는 팝업의 오류 메시지는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 08 Feb 2022 14:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->인스타그램이 특정 계정에 대해 스팸 활동으로 의심된다고 판단하게 되면 나타나는 팝업의 오류 메시지는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1356_1" value="1" class="AB-radio" id="PQ_BD5826_1356_1_0"><label for="PQ_BD5826_1356_1_0" id="label_PQ_BD5826_1356_1_0">(A) 블랙 블록</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1356_1" value="2" class="AB-radio" id="PQ_BD5826_1356_1_1"><label for="PQ_BD5826_1356_1_1" id="label_PQ_BD5826_1356_1_1">(B) 블랙 팝업</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1356_1" value="3" class="AB-radio" id="PQ_BD5826_1356_1_2"><label for="PQ_BD5826_1356_1_2" id="label_PQ_BD5826_1356_1_2">(C) 스팸 스톱</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1356_1" value="4" class="AB-radio" id="PQ_BD5826_1356_1_3"><label for="PQ_BD5826_1356_1_3" id="label_PQ_BD5826_1356_1_3">(D) 액션 블록</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나 피해 소상공인 대출 5% 육박…1% 초저금리로 8.6조원 지원 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
