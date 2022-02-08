@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 07:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 08:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,13 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[SNS를 반드시 해야 하는 이유 (퍼거슨의 트인낭) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57114</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57114</guid>
+            <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[쉿!! 아이보스 생활기록부 생겼어요 여러분 만 알고 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38212</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38212</guid>
@@ -306,13 +313,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38265</guid>
             <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[규S]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SNS를 반드시 해야 하는 이유 (퍼거슨의 트인낭) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57114</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57114</guid>
-            <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카드사 수수료율 인하가 우리에게 미치는 영향 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56997</guid>
             <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[류드나르]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한국인의 66%, 베이징 동계올림픽 관심 없어 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8198</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8198</guid>
+            <pubDate>Tue, 08 Feb 2022 08:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[개막식 한복 논란과 중국의 쇼트트랙 편파판정 등으로 논란이 되고 있는 가운데 베이징 동계올림픽에 대한 관심도가 이전과는 달리 현저히 떨어지는 것으로 나타났다. 입소스(대표 박황례)가 베이징 동계올림픽에 대한 글로벌  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[인스타그램, 휴식 알림 설정 도입... 10~30분마다 휴식 권고 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_f47679d6cdabdbd42a5afe31b0ddbeae_86054_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[구글 클라우드, 구글 포 스타트업 클라우드 프로그램으로 초기 스타트업 지원 확대 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8168</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8168</guid>
-            <pubDate>Thu, 03 Feb 2022 09:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[구글 클라우드가 비즈니스 초기 단계의 스타트업을 지원하는 구글 포 스타트업 클라우드 프로그램(Google for Startups Cloud Program)을 발표했다. 구글 클라우드는 구글 포 스타트업 클라우드 프로그램을 통해 스타트업 고객에게 구글  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[한국인의 66%, “베이징 동계올림픽 관심 없어” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8198</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8198</guid>
+            <pubDate>Tue, 08 Feb 2022 08:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인스타그램, 휴식 알림 설정 도입... 10~30분마다 휴식 권고 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[구글 클라우드, ‘구글 포 스타트업 클라우드 프로그램’으로 초기 스타트업 지원 확대 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8168</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8168</guid>
-            <pubDate>Thu, 03 Feb 2022 09:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[인스타그램이 특정 계정에 대해 스팸 활동으로 의심된다고 판단하게 되면 나타나는 팝업의 오류 메시지는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 08 Feb 2022 07:16:15 GMT</pubDate>
+            <pubDate>Tue, 08 Feb 2022 08:19:41 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->인스타그램이 특정 계정에 대해 스팸 활동으로 의심된다고 판단하게 되면 나타나는 팝업의 오류 메시지는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
