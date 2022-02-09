@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 07:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 08:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -175,18 +175,18 @@
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마케팅밈] 마케터 MBTI ~J와 P~ (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38253</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38253</guid>
-            <pubDate>Thu, 27 Jan 2022 05:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[대표님들 안 바뀔 거 알지만 한 분이라도 바뀌었으면.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38325</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38325</guid>
             <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레스뿌와]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[마케팅밈] 마케터 MBTI ~J와 P~ (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38253</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38253</guid>
+            <pubDate>Thu, 27 Jan 2022 05:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[진짜 빠르게 300만원 버는 방법 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 구글 애널리틱스에서 필수로 설정해야 하는 맞춤 캠페인(utm) 매개변수(parameter)가 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 09 Feb 2022 07:17:32 GMT</pubDate>
+            <pubDate>Wed, 09 Feb 2022 08:20:38 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 구글 애널리틱스에서 필수로 설정해야 하는 맞춤 캠페인(utm) 매개변수(parameter)가 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
