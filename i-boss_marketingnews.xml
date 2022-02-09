@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 22:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 23:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2월 10일 마케팅 뉴스클리핑] 인스타그램, 게시물 한꺼번에 지울 수 있게 한다 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8205</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8205</guid>
+            <pubDate>Thu, 10 Feb 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 인스타그램, 게시물 한꺼번에 지울 수 있게 한다  미국 외신이 인스타그램이 사용자 프로필 `내 활동`에서 게시물, 댓글, 좋아요 등을 대량으로 삭제할 수 있도록 한다고 보도했다. 이용자 프로필 `내 활동` 섹션은 과거 타임라 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_263ce3d344846cf9826aa74ce254c8f9_79986_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유튜브 경험을 개선하는 4가지 방법]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8204</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8176</guid>
             <pubDate>Fri, 04 Feb 2022 09:46:00 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 미디어 정보 분석 기업 닐슨 그레이스노트(Nielsen Gracenote)가 베이징 동계올림픽 메달 순위를 예측해 발표했다.이 수치는2018년 평창 동계올림픽 이후 주요 동계 스포츠 대회 결과를 종합적으로 분석해 참가국의 금,은,동메 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[한국광고총연합회 주최, 차기 정부의 광고산업 정책 컨트롤 타워 정립 촉구 특별세미나 개최]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8175</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8175</guid>
-            <pubDate>Fri, 04 Feb 2022 09:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[(사)한국광고총연합회(회장 김낙회)는 오는 2월 9월(수) 오후 3시, 한국광고문화회관 2층 대회의장에서차기 정부의 광고산업 진흥을위한 정책 컨트롤 타워 정립 촉구 특별세미나를 개최 한다고 밝혔다. 본 세미나는 광고홍보학회 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
