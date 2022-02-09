@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 03:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 04:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -175,18 +175,18 @@
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마케팅밈] 마케터 MBTI ~J와 P~ (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38253</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38253</guid>
-            <pubDate>Thu, 27 Jan 2022 05:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[대표님들 안 바뀔 거 알지만 한 분이라도 바뀌었으면.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38325</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38325</guid>
             <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레스뿌와]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[마케팅밈] 마케터 MBTI ~J와 P~ (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38253</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38253</guid>
+            <pubDate>Thu, 27 Jan 2022 05:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[진짜 빠르게 300만원 버는 방법 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57073</guid>
             <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인스타그램, 게시물 한꺼번에 지울 수 있게 한다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8201</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8201</guid>
+            <pubDate>Wed, 09 Feb 2022 00:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[이용자 프로필 `내 활동`서 게시물댓글좋아요 확인 후 삭제 가능   인스타그램이 게시물, 댓글 등을 대량으로 삭제할 수 있는 기능을 도입한다.  미국 IT매체 엔가젯은 8일(현지시간) 인스타그램이 사용자 프로필 `내 활동`에서 게 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스, 구독료 인상에도 1월 결제추정금액 역대 최대 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,25 +590,24 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[2월 4일 마케팅 뉴스클리핑] 페이스북, 16년 만에 이용자 첫 감소 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8171</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8171</guid>
-            <pubDate>Fri, 04 Feb 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 페이스북, 16년 만에 이용자 첫 감소  2004년 페이스북 앱이 출시된 이후 지속적인 이용자 증가세를 보였지만 지난해 처음으로 이용자가 줄어드는 경향이 나타났다. 분기 일일 이용자가 19억 3천만 명에서 19억 2천900만 명으로 줄 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1accb3f4ae927e7f0fb86a6590d32acc_37874_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[인스타그램, 게시물 한꺼번에 지울 수 있게 한다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8201</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8201</guid>
+            <pubDate>Wed, 09 Feb 2022 04:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[넷플릭스, 구독료 인상에도 1월 결제추정금액 역대 최대 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8202</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8202</guid>
-            <pubDate>Wed, 09 Feb 2022 03:18:04 GMT</pubDate>
+            <pubDate>Wed, 09 Feb 2022 11:51:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[크래프톤-네이버제트, 'NFT 메타버스 플랫폼’'구축... 합작법인도 설립 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8200</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8200</guid>
-            <pubDate>Wed, 09 Feb 2022 03:18:04 GMT</pubDate>
+            <pubDate>Wed, 09 Feb 2022 11:36:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[2월 4일 마케팅 뉴스클리핑] 페이스북, 16년 만에 이용자 첫 감소 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8171</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8171</guid>
-            <pubDate>Fri, 04 Feb 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 구글 애널리틱스에서 필수로 설정해야 하는 맞춤 캠페인(utm) 매개변수(parameter)가 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 09 Feb 2022 03:18:16 GMT</pubDate>
+            <pubDate>Wed, 09 Feb 2022 04:21:57 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 구글 애널리틱스에서 필수로 설정해야 하는 맞춤 캠페인(utm) 매개변수(parameter)가 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

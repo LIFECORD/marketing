@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 03:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 04:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스타그램, 게시물 한꺼번에 지울 수 있게 한다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8201</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8201</guid>
+            <pubDate>Wed, 09 Feb 2022 00:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[이용자 프로필 `내 활동`서 게시물댓글좋아요 확인 후 삭제 가능   인스타그램이 게시물, 댓글 등을 대량으로 삭제할 수 있는 기능을 도입한다.  미국 IT매체 엔가젯은 8일(현지시간) 인스타그램이 사용자 프로필 `내 활동`에서 게 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스, 구독료 인상에도 1월 결제추정금액 역대 최대]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8202</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 04 Feb 2022 08:57:00 GMT</pubDate>
             <content:encoded><![CDATA[이마케터에 따르면, 페이스북은 2021년 전 세계 사용자 수 20억 명을 돌파했고 올해 말까지 21억 명에 이를 것으로 예상된다. 그러나 페이스북의 성장은 2021년에 급격히 감소했고, 앞으로 몇 년 동안 서서히 줄어들 것으로 보인다.  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[2월 4일 마케팅 뉴스클리핑] 페이스북, 16년 만에 이용자 첫 감소 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8171</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8171</guid>
-            <pubDate>Fri, 04 Feb 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 페이스북, 16년 만에 이용자 첫 감소  2004년 페이스북 앱이 출시된 이후 지속적인 이용자 증가세를 보였지만 지난해 처음으로 이용자가 줄어드는 경향이 나타났다. 분기 일일 이용자가 19억 3천만 명에서 19억 2천900만 명으로 줄 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1accb3f4ae927e7f0fb86a6590d32acc_37874_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

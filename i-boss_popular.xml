@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-09T03:18:25.779Z</updated>
+    <updated>2022-02-09T04:22:06.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[휴이언니]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[마케팅밈] 마케터 MBTI ~J와 P~]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38253</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38253"/>
-        <updated>2022-01-27T05:15:39.087Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[대표님들 안 바뀔 거 알지만 한 분이라도 바뀌었으면..]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38325</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38325"/>
         <updated>2022-02-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[레스뿌와]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마케팅밈] 마케터 MBTI ~J와 P~]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38253</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38253"/>
+        <updated>2022-01-27T05:15:39.087Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[진짜 빠르게 300만원 버는 방법]]></title>
