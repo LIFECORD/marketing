@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 02:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 03:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스, 구독료 인상에도 1월 결제추정금액 역대 최대]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8202</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8202</guid>
+            <pubDate>Wed, 09 Feb 2022 11:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[유료 결제자 수는 작년 10월 대비 2% 감소했으나 요금인상효과로 결제금액은 역대 최대 지난 1월 기준 1인당 월 평균 15,651원 결제, 30대 결제자가 29%로 가장 많이 차지  앱/리테일 분석서비스 와이즈앱리테일굿즈가 11월 넷플릭스(N ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_819669ebc63f31f7fbd64398bf6cbb36_12661_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[크래프톤-네이버제트, NFT 메타버스 플랫폼구축... 합작법인도 설립]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8200</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8200</guid>
+            <pubDate>Wed, 09 Feb 2022 11:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[크래프톤과 네이버제트는 신규 웹 3.0 및 NFT(대체불가토큰) 사업 협력을 위한 업무협약(MOU)을 9일 체결했다. 양사는 모두 해외 이용자가 90% 이상인 글로벌 기업으로 이번 협약을 통해 장기적인 전략 파트너로서 메타버스, 블록체 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[2월 9일 마케팅 뉴스클리핑] 메타, 유럽서 페북인스타 운영 중단 우려 외]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8199</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 04 Feb 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 페이스북, 16년 만에 이용자 첫 감소  2004년 페이스북 앱이 출시된 이후 지속적인 이용자 증가세를 보였지만 지난해 처음으로 이용자가 줄어드는 경향이 나타났다. 분기 일일 이용자가 19억 3천만 명에서 19억 2천900만 명으로 줄 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1accb3f4ae927e7f0fb86a6590d32acc_37874_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[긍정과 희망의 아이콘 스마일리(Smiley), 50주년 기념 로고 공개]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8172</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8172</guid>
-            <pubDate>Thu, 03 Feb 2022 07:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[1972년1월1일,프랑스 언론인 플랭클린 루프라니(Franklin Loufrani)가 좋은 소식을 알리기 위해 신문 첫 면에 사용하기 시작한 희망과 긍정의 아이콘 스마일리가50주년을 맞이해 새로운 로고를 공개한다. 음악,패션,뷰티,와인,라이프스 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡, 강소기업과 협업해 뷰티 필수템 판매]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8170</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8170</guid>
-            <pubDate>Thu, 03 Feb 2022 11:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[고객 선호도 높은 상품 강소기업이 만들고 쿠팡이 판매하는 방식    쿠팡 뷰티데이터랩이 `내 손으로 만드는 데일리 뷰티 필수템` 캠페인을 진행한다고 3일 밝혔다. 이번 캠페인은 쿠팡의 고객 인사이트가 반영된 상품을 강소기 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16438550060603.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

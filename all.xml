@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 02:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 03:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,20 +182,6 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[디자이너 필독! 작업 속도 올리고 싶다면 알아두세요.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57034</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57034</guid>
-            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[원제]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[마케팅밈] 마케터의 일상 - 2 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38157</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38157</guid>
-            <pubDate>Thu, 13 Jan 2022 06:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[대표님들 안 바뀔 거 알지만 한 분이라도 바뀌었으면.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38325</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38325</guid>
@@ -208,6 +194,20 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57128</guid>
             <pubDate>Fri, 28 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[디자이너 필독! 작업 속도 올리고 싶다면 알아두세요.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57034</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57034</guid>
+            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[원제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[마케팅밈] 마케터의 일상 - 2 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38157</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38157</guid>
+            <pubDate>Thu, 13 Jan 2022 06:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[노션 마스터를 원하신다면? `된다! 하루 5분 노션 활.. (아이보스 ─ 인기글)]]></title>
@@ -315,6 +315,13 @@
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[비용 인상에 파업까지, 엎친데 덮친 격 📦 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57009</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57009</guid>
+            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[상세페이지 만들 때 가장 많이 하는 실수 top3! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57059</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57059</guid>
@@ -329,13 +336,6 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[비용 인상에 파업까지, 엎친데 덮친 격 📦 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57009</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57009</guid>
-            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[미용실 직영점 15개, CEO가 밝히는 성공 비결 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56997</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56997</guid>
@@ -348,6 +348,22 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57073</guid>
             <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스, 구독료 인상에도 1월 결제추정금액 역대 최대 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8202</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8202</guid>
+            <pubDate>Wed, 09 Feb 2022 11:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[유료 결제자 수는 작년 10월 대비 2% 감소했으나 요금인상효과로 결제금액은 역대 최대 지난 1월 기준 1인당 월 평균 15,651원 결제, 30대 결제자가 29%로 가장 많이 차지  앱/리테일 분석서비스 와이즈앱리테일굿즈가 11월 넷플릭스(N ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_819669ebc63f31f7fbd64398bf6cbb36_12661_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[크래프톤-네이버제트, NFT 메타버스 플랫폼구축... 합작법인도 설립 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8200</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8200</guid>
+            <pubDate>Wed, 09 Feb 2022 11:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[크래프톤과 네이버제트는 신규 웹 3.0 및 NFT(대체불가토큰) 사업 협력을 위한 업무협약(MOU)을 9일 체결했다. 양사는 모두 해외 이용자가 90% 이상인 글로벌 기업으로 이번 협약을 통해 장기적인 전략 파트너로서 메타버스, 블록체 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[2월 9일 마케팅 뉴스클리핑] 메타, 유럽서 페북인스타 운영 중단 우려 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -574,20 +590,18 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1accb3f4ae927e7f0fb86a6590d32acc_37874_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[긍정과 희망의 아이콘 스마일리(Smiley), 50주년 기념 로고 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8172</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8172</guid>
-            <pubDate>Thu, 03 Feb 2022 07:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[1972년1월1일,프랑스 언론인 플랭클린 루프라니(Franklin Loufrani)가 좋은 소식을 알리기 위해 신문 첫 면에 사용하기 시작한 희망과 긍정의 아이콘 스마일리가50주년을 맞이해 새로운 로고를 공개한다. 음악,패션,뷰티,와인,라이프스 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[넷플릭스, 구독료 인상에도 1월 결제추정금액 역대 최대 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8202</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8202</guid>
+            <pubDate>Wed, 09 Feb 2022 03:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쿠팡, 강소기업과 협업해 뷰티 필수템 판매 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8170</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8170</guid>
-            <pubDate>Thu, 03 Feb 2022 11:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[고객 선호도 높은 상품 강소기업이 만들고 쿠팡이 판매하는 방식    쿠팡 뷰티데이터랩이 `내 손으로 만드는 데일리 뷰티 필수템` 캠페인을 진행한다고 3일 밝혔다. 이번 캠페인은 쿠팡의 고객 인사이트가 반영된 상품을 강소기 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16438550060603.png" length="0" type="image/png"/>
+            <title><![CDATA[크래프톤-네이버제트, 'NFT 메타버스 플랫폼’'구축... 합작법인도 설립 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8200</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8200</guid>
+            <pubDate>Wed, 09 Feb 2022 03:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2월 9일 마케팅 뉴스클리핑] 메타, 유럽서 페북·인스타 운영 중단 우려 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[긍정과 희망의 아이콘 스마일리(Smiley), 50주년 기념 로고 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8172</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8172</guid>
-            <pubDate>Thu, 03 Feb 2022 07:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡, 강소기업과 협업해 뷰티 필수템 판매 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8170</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8170</guid>
-            <pubDate>Thu, 03 Feb 2022 11:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 구글 애널리틱스에서 필수로 설정해야 하는 맞춤 캠페인(utm) 매개변수(parameter)가 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 09 Feb 2022 02:10:17 GMT</pubDate>
+            <pubDate>Wed, 09 Feb 2022 03:18:16 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 구글 애널리틱스에서 필수로 설정해야 하는 맞춤 캠페인(utm) 매개변수(parameter)가 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
