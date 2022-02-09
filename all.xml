@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 23:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 01:02:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,6 +203,13 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[대표님들 안 바뀔 거 알지만 한 분이라도 바뀌었으면.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38325</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38325</guid>
+            <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[레스뿌와]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[노션 마스터를 원하신다면? `된다! 하루 5분 노션 활.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-436</link>
             <guid>https://www.i-boss.co.kr/ab-2973-436</guid>
@@ -222,13 +229,6 @@
             <guid>https://www.i-boss.co.kr/ab-5637-29</guid>
             <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대표님들 안 바뀔 거 알지만 한 분이라도 바뀌었으면.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38325</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38325</guid>
-            <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[레스뿌와]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쇼핑몰, 무슨 솔루션으로 만들었나요? (feat. 설문조사.. (아이보스 ─ 인기글)]]></title>
@@ -280,6 +280,13 @@
             <content:encoded><![CDATA[손맛]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[SNS를 반드시 해야 하는 이유 (퍼거슨의 트인낭) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57114</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57114</guid>
+            <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[아무리 관리업체라 해도, 너무하지 않나요? 다들 이.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38197</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38197</guid>
@@ -294,11 +301,11 @@
             <content:encoded><![CDATA[규S]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SNS를 반드시 해야 하는 이유 (퍼거슨의 트인낭) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57114</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57114</guid>
-            <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
+            <title><![CDATA[2022년 SNS 인기 콘텐츠 9가지 주제 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57014</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57014</guid>
+            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쉿!! 아이보스 생활기록부 생겼어요 여러분 만 알고 .. (아이보스 ─ 인기글)]]></title>
@@ -308,25 +315,11 @@
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년 SNS 인기 콘텐츠 9가지 주제 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57014</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57014</guid>
-            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[yoorok]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[상세페이지 만들 때 가장 많이 하는 실수 top3! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57059</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57059</guid>
             <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[흥미진진]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카드사 수수료율 인하가 우리에게 미치는 영향 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56963</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56963</guid>
-            <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[DMC] 2021 & 2022 퍼포먼스 마케팅 시장 동향 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +341,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-56997</guid>
             <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[류드나르]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쓰레기도 줍고, 관심도 얻고 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57073</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57073</guid>
+            <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2월 9일 마케팅 뉴스클리핑] 메타, 유럽서 페북인스타 운영 중단 우려 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -593,7 +593,7 @@
             <title><![CDATA[[2월 9일 마케팅 뉴스클리핑] 메타, 유럽서 페북·인스타 운영 중단 우려 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8199</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8199</guid>
-            <pubDate>Tue, 08 Feb 2022 23:17:40 GMT</pubDate>
+            <pubDate>Wed, 09 Feb 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 구글 애널리틱스에서 필수로 설정해야 하는 맞춤 캠페인(utm) 매개변수(parameter)가 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 08 Feb 2022 23:17:50 GMT</pubDate>
+            <pubDate>Wed, 09 Feb 2022 01:01:58 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 구글 애널리틱스에서 필수로 설정해야 하는 맞춤 캠페인(utm) 매개변수(parameter)가 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
