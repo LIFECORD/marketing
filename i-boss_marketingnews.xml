@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 04:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 05:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜브 경험을 개선하는 4가지 방법]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8204</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8204</guid>
+            <pubDate>Wed, 09 Feb 2022 05:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브는안전한인터넷의날(Safer Internet Day)을맞아시청자에게고품질의경험을제공하기 위해 업데이트를 진행했다. 이번 업데이트에서는유용한보호설정부터사용하기쉬운툴까지사용자가전반적인유튜브경험을더자유롭게관리할 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[안전한 인터넷의 날(Safe Internet Day) 관련 구글 업데이트]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8203</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8203</guid>
+            <pubDate>Wed, 09 Feb 2022 05:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[구글은온라인상에서사용자를안전하게보호하기위해노력하고있습니다. 안전한인터넷의날(Safer Internet Day)을맞아구글은온라인에서사용자를안전하게보호해줄새로운보안기능과신규파트너십에대해업데이트를 진행했다. 다음은  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[인스타그램, 게시물 한꺼번에 지울 수 있게 한다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8201</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8175</guid>
             <pubDate>Fri, 04 Feb 2022 09:21:00 GMT</pubDate>
             <content:encoded><![CDATA[(사)한국광고총연합회(회장 김낙회)는 오는 2월 9월(수) 오후 3시, 한국광고문화회관 2층 대회의장에서차기 정부의 광고산업 진흥을위한 정책 컨트롤 타워 정립 촉구 특별세미나를 개최 한다고 밝혔다. 본 세미나는 광고홍보학회 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[MZ세대 70%, 환경 생각해 대체육 먹겠다... 맛과 식감은 개선 과제]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8174</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8174</guid>
-            <pubDate>Fri, 04 Feb 2022 08:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국의 MZ세대 10명 중 7명이 환경을 생각해 대체육으로 식탁 문화가 바뀌어야 한다고 생각하는 것으로 나타났다. 신세계푸드는 지난달 여론조사기관 엠브레인에 의뢰해 전국 2030세대 남녀 1천 명을 대상으로 대체육 인식과 관련 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[페이스북, 사용자 20억 명 돌파... 그러나 성장은 둔화]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8173</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8173</guid>
-            <pubDate>Fri, 04 Feb 2022 08:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[이마케터에 따르면, 페이스북은 2021년 전 세계 사용자 수 20억 명을 돌파했고 올해 말까지 21억 명에 이를 것으로 예상된다. 그러나 페이스북의 성장은 2021년에 급격히 감소했고, 앞으로 몇 년 동안 서서히 줄어들 것으로 보인다.  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
