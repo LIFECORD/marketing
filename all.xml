@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 06:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 07:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -273,13 +273,6 @@
             <content:encoded><![CDATA[규S]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SNS를 반드시 해야 하는 이유 (퍼거슨의 트인낭) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57114</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57114</guid>
-            <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022년 SNS 인기 콘텐츠 9가지 주제 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57014</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57014</guid>
@@ -287,11 +280,25 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[SNS를 반드시 해야 하는 이유 (퍼거슨의 트인낭) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57114</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57114</guid>
+            <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[아무리 관리업체라 해도, 너무하지 않나요? 다들 이.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38197</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38197</guid>
             <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[stylenjh]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[마케팅밈] 마케터 특징 vs. 실제 내 모습 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38350</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38350</guid>
+            <pubDate>Thu, 10 Feb 2022 05:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쉿!! 아이보스 생활기록부 생겼어요 여러분 만 알고 .. (아이보스 ─ 인기글)]]></title>
@@ -313,13 +320,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57009</guid>
             <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[마케팅밈] 마케터 특징 vs. 실제 내 모습 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38350</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38350</guid>
-            <pubDate>Thu, 10 Feb 2022 05:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[상세페이지 만들 때 가장 많이 하는 실수 top3! (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38182</guid>
             <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이네로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[주요 소비층 잡는다... 화장품 업계, MZ 세대 겨냥 마케팅 열기 후끈 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8209</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8209</guid>
+            <pubDate>Thu, 10 Feb 2022 07:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[화장품 업계가 최근 화장품 주요 소비층으로 떠오른 MZ세대를 겨냥한 마케팅을 강화하고 있다. MZ세대들이 선호하는 스타들의 메이크업을 담은 화보 공개와 인기 호텔과의 협업을 통한 페키지 제안, 백화점 명품관 팝업 등 다양 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[흩어진 광고산업 정책, 컨트롤 타워 마련해야... 광고업계 한목소리 내다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,18 +590,17 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[구글, CTV 광고의 프리퀀시 설정 기능 공개... 광고 지원 CTV 가구의 92% 커버 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8180</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8180</guid>
-            <pubDate>Sat, 05 Feb 2022 09:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[검색 및 퍼포먼스마케터는 이제 CTV에서 도달 범위와 광고 빈도를 제어할 수 있다.Display &amp; Video 360의 구글 CTV 빈도 관리 솔루션을 통해 이제 마케터는 유튜브 및 기타 CTV 앱에서 사람들이 광고를 보는 횟수를 제어할 수 있다. 이것 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[주요 소비층 잡는다... 화장품 업계, MZ 세대 겨냥 마케팅 열기 '후끈' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8209</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8209</guid>
+            <pubDate>Thu, 10 Feb 2022 07:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["흩어진 광고산업 정책, 컨트롤 타워 마련해야"... 광고업계 한목소리 내다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8208</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8208</guid>
-            <pubDate>Thu, 10 Feb 2022 06:19:37 GMT</pubDate>
+            <pubDate>Thu, 10 Feb 2022 06:19:27 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[구글, CTV 광고의 프리퀀시 설정 기능 공개... 광고 지원 CTV 가구의 92% 커버 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8180</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8180</guid>
-            <pubDate>Sat, 05 Feb 2022 09:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지의 괄호 안에 들어갈 말로 알맞은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 10 Feb 2022 06:19:48 GMT</pubDate>
+            <pubDate>Thu, 10 Feb 2022 07:16:34 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지의 괄호 안에 들어갈 말로 알맞은 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/18c3a02457d86ca14d8ba15f4f6c4a98_16439392536771.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

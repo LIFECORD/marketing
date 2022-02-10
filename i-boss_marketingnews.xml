@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 06:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 07:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주요 소비층 잡는다... 화장품 업계, MZ 세대 겨냥 마케팅 열기 후끈]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8209</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8209</guid>
+            <pubDate>Thu, 10 Feb 2022 07:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[화장품 업계가 최근 화장품 주요 소비층으로 떠오른 MZ세대를 겨냥한 마케팅을 강화하고 있다. MZ세대들이 선호하는 스타들의 메이크업을 담은 화보 공개와 인기 호텔과의 협업을 통한 페키지 제안, 백화점 명품관 팝업 등 다양 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[흩어진 광고산업 정책, 컨트롤 타워 마련해야... 광고업계 한목소리 내다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8208</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8181</guid>
             <pubDate>Sat, 05 Feb 2022 09:52:00 GMT</pubDate>
             <content:encoded><![CDATA[미국 뉴욕 타임스스퀘어(Times Square)에서 진행 중인 3D 옥외광고 모습   삼성전자가 삼성 갤럭시 언팩 2022(Samsung Galaxy Unpacked 2022:The Epic Standard of Smartphone Experience)를 앞두고 전 세계 주요도시에서 3D 옥외광고를 진행한다. 삼성전자 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, CTV 광고의 프리퀀시 설정 기능 공개... 광고 지원 CTV 가구의 92% 커버]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8180</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8180</guid>
-            <pubDate>Sat, 05 Feb 2022 09:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[검색 및 퍼포먼스마케터는 이제 CTV에서 도달 범위와 광고 빈도를 제어할 수 있다.Display &amp; Video 360의 구글 CTV 빈도 관리 솔루션을 통해 이제 마케터는 유튜브 및 기타 CTV 앱에서 사람들이 광고를 보는 횟수를 제어할 수 있다. 이것 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
