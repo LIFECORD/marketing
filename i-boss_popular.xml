@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-10T10:19:35.828Z</updated>
+    <updated>2022-02-10T11:14:31.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -209,10 +209,10 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스타트업 마케터는 만만치 않네요]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38182</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38182"/>
-        <updated>2022-01-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[이네로]]></content>
+        <title type="html"><![CDATA[매출 2배, 이것만 해도 가능합니다.]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57108</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57108"/>
+        <updated>2022-01-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[언카피]]></content>
     </entry>
 </feed>
