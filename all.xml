@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 22:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 23:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[언카피]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2월 11일 마케팅 뉴스클리핑] 네이버, 광고 라인업 확대... 검색커머스 시너지 가속 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8210</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8210</guid>
+            <pubDate>Fri, 11 Feb 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버, 광고 라인업 확대... 검색커머스 시너지 가속  네이버가 광고 상품 라인업 확대를 이어간다. 검색 서비스와 커머스 사업 간 시너지를 높이려는 전략으로 읽힌다. 커머스 데이터와 AI 기술을 결합해 개인 관심사와 구매  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16444765897457.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[주요 소비층 잡는다... 화장품 업계, MZ 세대 겨냥 마케팅 열기 후끈 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8209</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8209</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[K-AD] 삼성전자, 전세계 곳곳서 갤럭시 언팩 2022 3D 옥외광고 진행 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8181</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8181</guid>
-            <pubDate>Sat, 05 Feb 2022 09:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[미국 뉴욕 타임스스퀘어(Times Square)에서 진행 중인 3D 옥외광고 모습   삼성전자가 삼성 갤럭시 언팩 2022(Samsung Galaxy Unpacked 2022:The Epic Standard of Smartphone Experience)를 앞두고 전 세계 주요도시에서 3D 옥외광고를 진행한다. 삼성전자 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[2월 11일 마케팅 뉴스클리핑] 네이버, 광고 라인업 확대... 검색·커머스 시너지 가속 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8210</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8210</guid>
+            <pubDate>Thu, 10 Feb 2022 23:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[주요 소비층 잡는다... 화장품 업계, MZ 세대 겨냥 마케팅 열기 '후끈' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[K-AD] 삼성전자, 전세계 곳곳서 ‘갤럭시 언팩 2022’ 3D 옥외광고 진행 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8181</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8181</guid>
-            <pubDate>Sat, 05 Feb 2022 09:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[다음 중, 네이버 메인 화면에서 볼 수 없는 광고 상품은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Thu, 10 Feb 2022 23:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 중, 네이버 메인 화면에서 볼 수 없는 광고 상품은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1359_1" value="1" class="AB-radio" id="PQ_BD5826_1359_1_0"><label for="PQ_BD5826_1359_1_0" id="label_PQ_BD5826_1359_1_0">(A) 빅배너</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1359_1" value="2" class="AB-radio" id="PQ_BD5826_1359_1_1"><label for="PQ_BD5826_1359_1_1" id="label_PQ_BD5826_1359_1_1">(B) 롤링보드</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1359_1" value="3" class="AB-radio" id="PQ_BD5826_1359_1_2"><label for="PQ_BD5826_1359_1_2" id="label_PQ_BD5826_1359_1_2">(C) 스페셜 DA</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1359_1" value="4" class="AB-radio" id="PQ_BD5826_1359_1_3"><label for="PQ_BD5826_1359_1_3" id="label_PQ_BD5826_1359_1_3">(D) 타임보드</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나 피해 소상공인 대출 5% 육박…1% 초저금리로 8.6조원 지원 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

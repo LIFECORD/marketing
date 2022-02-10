@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 22:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 23:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2월 11일 마케팅 뉴스클리핑] 네이버, 광고 라인업 확대... 검색커머스 시너지 가속 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8210</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8210</guid>
+            <pubDate>Fri, 11 Feb 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버, 광고 라인업 확대... 검색커머스 시너지 가속  네이버가 광고 상품 라인업 확대를 이어간다. 검색 서비스와 커머스 사업 간 시너지를 높이려는 전략으로 읽힌다. 커머스 데이터와 AI 기술을 결합해 개인 관심사와 구매  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16444765897457.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주요 소비층 잡는다... 화장품 업계, MZ 세대 겨냥 마케팅 열기 후끈]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8209</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8182</guid>
             <pubDate>Sat, 05 Feb 2022 10:02:00 GMT</pubDate>
             <content:encoded><![CDATA[재단법인 문화재단 유엔젤보이스는 메타버스 플랫폼 이프랜드에서 활동하는 최초의 그룹 메타보이즈를 결성, 2월 11일 콘서트 UMETACON을 진행한다. 유엔젤보이스는 2008년 클래식 및 크로스오버 장르의 저변 확대를 위해 설립된  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[K-AD] 삼성전자, 전세계 곳곳서 갤럭시 언팩 2022 3D 옥외광고 진행]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8181</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8181</guid>
-            <pubDate>Sat, 05 Feb 2022 09:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[미국 뉴욕 타임스스퀘어(Times Square)에서 진행 중인 3D 옥외광고 모습   삼성전자가 삼성 갤럭시 언팩 2022(Samsung Galaxy Unpacked 2022:The Epic Standard of Smartphone Experience)를 앞두고 전 세계 주요도시에서 3D 옥외광고를 진행한다. 삼성전자 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
