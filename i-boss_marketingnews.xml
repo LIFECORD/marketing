@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 01:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 02:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발렌타인데이, 데이팅 앱보다 더 인기 많은 앱은?]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8207</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8207</guid>
+            <pubDate>Thu, 10 Feb 2022 10:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[발렌타인데이가 곧 다가오고 있다. 많은 사람들은유저들이 데이팅 앱을 가장 많이 설치할 것으로 생각하기 쉽니다. 그러나글로벌 모바일 마케팅 플랫폼 애드저스트에 따르면 데이팅 앱 보다 영상 스트리밍 앱,음식 배달 앱이  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_414c20b235c992d7569fab2b19cd743c_98316_6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021년 국내 광고 시장 빠른 디지털 전환 속 역대 최고 성장률 20.4% 기록 14조 원 육박]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8206</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8179</guid>
             <pubDate>Sat, 05 Feb 2022 09:19:00 GMT</pubDate>
             <content:encoded><![CDATA[2022년 1월, 게임 업계는 잇달아 최대 규모의 인수가 진행됐다.테이크투 인터랙티브가 징가를 127억 달러에 인수하고 일주일도 되지 않아,마이크로소프트는 유명한 게임회사인 액티비전 블리자드를 690억 달러에 인수하며,게임 업 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 뉴욕페스티벌 국제광고상 출품작 모집]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8178</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8178</guid>
-            <pubDate>Fri, 04 Feb 2022 07:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴욕페스티벌 한국대표부인 (사)한국광고영상제작사협회(회장 김찬)에서는 2022 뉴욕페스티벌 국제광고상(2022 New York Festivals Advertising Awards) 출품작을 모집한다. 2022 뉴욕페스티벌 국제광고상은 2021년 1월 1일부터 2022년 5월 6일 사 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

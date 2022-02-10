@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 01:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 02:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기업이 16가지 유형별 고객을 사로잡는 방법 🌟]]></title>
+            <link>https://qletter.i-boss.co.kr/view/866274-%EA%B8%B0%EC%97%85%EC%9D%B4_16%EA%B0%80%EC%A7%80_%EC%9C%A0%ED%98%95%EB%B3%84_%EA%B3%A0%EA%B0%9D%EC%9D%84_%EC%82%AC%EB%A1%9C%EC%9E%A1%EB%8A%94_%EB%B0%A9%EB%B2%95/</link>
+            <guid>https://qletter.i-boss.co.kr/view/866274-%EA%B8%B0%EC%97%85%EC%9D%B4_16%EA%B0%80%EC%A7%80_%EC%9C%A0%ED%98%95%EB%B3%84_%EA%B3%A0%EA%B0%9D%EC%9D%84_%EC%82%AC%EB%A1%9C%EC%9E%A1%EB%8A%94_%EB%B0%A9%EB%B2%95/</guid>
+            <pubDate>Thu, 10 Feb 2022 02:02:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/866274-기업이_16가지_유형별_고객을_사로잡는_방법/">
+						<div class="thumb"><img src="/images/qletter_866274.png"></div>
+						<p><strong>기업이 16가지 유형별 고객을 사로잡는 방법 🌟</strong>2022.02.10</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_866274.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[요즘 마케팅 트렌드, 퀴즈로 풀어봐요]]></title>
             <link>https://qletter.i-boss.co.kr/view/860163-%EC%9A%94%EC%A6%98_%EB%A7%88%EC%BC%80%ED%8C%85_%ED%8A%B8%EB%A0%8C%EB%93%9C_%ED%80%B4%EC%A6%88%EB%A1%9C_%ED%92%80%EC%96%B4%EB%B4%90%EC%9A%94/</link>
@@ -127,17 +138,6 @@
 						<p><strong>2022년 광고 계획 미리보기 🧐</strong>2021.12.30</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_816530.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[1 더하기 1은 'ㅇㅃㄷ']]></title>
-            <link>https://qletter.i-boss.co.kr/view/811322-1_%EB%8D%94%ED%95%98%EA%B8%B0_1%EC%9D%80/</link>
-            <guid>https://qletter.i-boss.co.kr/view/811322-1_%EB%8D%94%ED%95%98%EA%B8%B0_1%EC%9D%80/</guid>
-            <pubDate>Mon, 27 Dec 2021 02:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/811322-1_더하기_1은/">
-						<div class="thumb"><img src="/images/qletter_811322.png"></div>
-						<p><strong> 1 더하기 1은 'ㅇㅃㄷ'</strong>2021.12.27</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_811322.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-10T01:03:14.135Z</updated>
+    <updated>2022-02-10T02:03:40.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[레스뿌와]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[대표님들 안 바뀔 거 알지만 한 분이라도 바뀌었으면..]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38325</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38325"/>
+        <updated>2022-02-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[레스뿌와]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[리뷰를 모으기 위한 기업들의 노력]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56985</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56985"/>
@@ -32,13 +39,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57071"/>
         <updated>2022-01-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[둥근마을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대표님들 안 바뀔 거 알지만 한 분이라도 바뀌었으면..]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38325</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38325"/>
-        <updated>2022-02-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[레스뿌와]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[폰트 저작권 위반으로 100만원 내라구요?? +) 찐 상업..]]></title>
@@ -195,6 +195,13 @@
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2021년, 보스님과 함께할 수 있어 행복했습니다!]]></title>
+        <id>https://www.i-boss.co.kr/ab-2973-437</id>
+        <link href="https://www.i-boss.co.kr/ab-2973-437"/>
+        <updated>2022-01-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[당첨대쓔]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[미용실 직영점 15개, CEO가 밝히는 성공 비결]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-56997</id>
         <link href="https://www.i-boss.co.kr/ab-6141-56997"/>
@@ -207,12 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57073"/>
         <updated>2022-01-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년, 보스님과 함께할 수 있어 행복했습니다!]]></title>
-        <id>https://www.i-boss.co.kr/ab-2973-437</id>
-        <link href="https://www.i-boss.co.kr/ab-2973-437"/>
-        <updated>2022-01-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
 </feed>

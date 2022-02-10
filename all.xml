@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 01:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 02:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기업이 16가지 유형별 고객을 사로잡는 방법 🌟 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/866274-%EA%B8%B0%EC%97%85%EC%9D%B4_16%EA%B0%80%EC%A7%80_%EC%9C%A0%ED%98%95%EB%B3%84_%EA%B3%A0%EA%B0%9D%EC%9D%84_%EC%82%AC%EB%A1%9C%EC%9E%A1%EB%8A%94_%EB%B0%A9%EB%B2%95/</link>
+            <guid>https://qletter.i-boss.co.kr/view/866274-%EA%B8%B0%EC%97%85%EC%9D%B4_16%EA%B0%80%EC%A7%80_%EC%9C%A0%ED%98%95%EB%B3%84_%EA%B3%A0%EA%B0%9D%EC%9D%84_%EC%82%AC%EB%A1%9C%EC%9E%A1%EB%8A%94_%EB%B0%A9%EB%B2%95/</guid>
+            <pubDate>Thu, 10 Feb 2022 02:02:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/866274-기업이_16가지_유형별_고객을_사로잡는_방법/">
+						<div class="thumb"><img src="/images/qletter_866274.png"></div>
+						<p><strong>기업이 16가지 유형별 고객을 사로잡는 방법 🌟</strong>2022.02.10</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_866274.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[요즘 마케팅 트렌드, 퀴즈로 풀어봐요 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/860163-%EC%9A%94%EC%A6%98_%EB%A7%88%EC%BC%80%ED%8C%85_%ED%8A%B8%EB%A0%8C%EB%93%9C_%ED%80%B4%EC%A6%88%EB%A1%9C_%ED%92%80%EC%96%B4%EB%B4%90%EC%9A%94/</link>
@@ -129,17 +140,6 @@
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_816530.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[1 더하기 1은 'ㅇㅃㄷ' (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/811322-1_%EB%8D%94%ED%95%98%EA%B8%B0_1%EC%9D%80/</link>
-            <guid>https://qletter.i-boss.co.kr/view/811322-1_%EB%8D%94%ED%95%98%EA%B8%B0_1%EC%9D%80/</guid>
-            <pubDate>Mon, 27 Dec 2021 02:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/811322-1_더하기_1은/">
-						<div class="thumb"><img src="/images/qletter_811322.png"></div>
-						<p><strong> 1 더하기 1은 'ㅇㅃㄷ'</strong>2021.12.27</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_811322.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[아묻따 저장 필수! 피와 살이 되는 마케팅 필수 참고 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56996</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56996</guid>
@@ -151,6 +151,13 @@
             <link>https://www.i-boss.co.kr/ab-1486505-38306</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38306</guid>
             <pubDate>Fri, 04 Feb 2022 12:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[레스뿌와]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[대표님들 안 바뀔 거 알지만 한 분이라도 바뀌었으면.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38325</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38325</guid>
+            <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레스뿌와]]></content:encoded>
         </item>
         <item>
@@ -166,13 +173,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57071</guid>
             <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대표님들 안 바뀔 거 알지만 한 분이라도 바뀌었으면.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38325</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38325</guid>
-            <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[레스뿌와]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[폰트 저작권 위반으로 100만원 내라구요?? +) 찐 상업.. (아이보스 ─ 인기글)]]></title>
@@ -329,6 +329,13 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2021년, 보스님과 함께할 수 있어 행복했습니다! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-437</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-437</guid>
+            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[미용실 직영점 15개, CEO가 밝히는 성공 비결 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-56997</link>
             <guid>https://www.i-boss.co.kr/ab-6141-56997</guid>
@@ -343,11 +350,12 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021년, 보스님과 함께할 수 있어 행복했습니다! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-437</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-437</guid>
-            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+            <title><![CDATA[발렌타인데이, 데이팅 앱보다 더 인기 많은 앱은? (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8207</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8207</guid>
+            <pubDate>Thu, 10 Feb 2022 10:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[발렌타인데이가 곧 다가오고 있다. 많은 사람들은유저들이 데이팅 앱을 가장 많이 설치할 것으로 생각하기 쉽니다. 그러나글로벌 모바일 마케팅 플랫폼 애드저스트에 따르면 데이팅 앱 보다 영상 스트리밍 앱,음식 배달 앱이  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_414c20b235c992d7569fab2b19cd743c_98316_6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021년 국내 광고 시장 빠른 디지털 전환 속 역대 최고 성장률 20.4% 기록 14조 원 육박 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,18 +590,17 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2022 뉴욕페스티벌 국제광고상 출품작 모집 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8178</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8178</guid>
-            <pubDate>Fri, 04 Feb 2022 07:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴욕페스티벌 한국대표부인 (사)한국광고영상제작사협회(회장 김찬)에서는 2022 뉴욕페스티벌 국제광고상(2022 New York Festivals Advertising Awards) 출품작을 모집한다. 2022 뉴욕페스티벌 국제광고상은 2021년 1월 1일부터 2022년 5월 6일 사 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[발렌타인데이, 데이팅 앱보다 더 인기 많은 앱은? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8207</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8207</guid>
+            <pubDate>Thu, 10 Feb 2022 02:03:15 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021년 국내 광고 시장 빠른 디지털 전환 속 역대 최고 성장률 20.4% 기록… 14조 원 육박 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8206</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8206</guid>
-            <pubDate>Thu, 10 Feb 2022 01:02:53 GMT</pubDate>
+            <pubDate>Thu, 10 Feb 2022 09:06:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 뉴욕페스티벌 국제광고상 출품작 모집 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8178</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8178</guid>
-            <pubDate>Fri, 04 Feb 2022 07:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지의 괄호 안에 들어갈 말로 알맞은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 10 Feb 2022 01:03:05 GMT</pubDate>
+            <pubDate>Thu, 10 Feb 2022 02:03:30 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지의 괄호 안에 들어갈 말로 알맞은 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/18c3a02457d86ca14d8ba15f4f6c4a98_16439392536771.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

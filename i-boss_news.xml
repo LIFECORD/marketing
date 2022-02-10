@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-02-10T01:03:14.137Z</updated>
+    <updated>2022-02-10T02:03:40.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[발렌타인데이, 데이팅 앱보다 더 인기 많은 앱은?]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8207</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8207"/>
+        <updated>2022-02-10T02:03:15.645Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021년 국내 광고 시장 빠른 디지털 전환 속 역대 최고 성장률 20.4% 기록… 14조 원 육박]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8206</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-8179</id>
         <link href="https://www.i-boss.co.kr/ab-2877-8179"/>
         <updated>2022-02-05T00:49:56.607Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 뉴욕페스티벌 국제광고상 출품작 모집]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8178</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8178"/>
-        <updated>2022-02-04T07:14:13.824Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
