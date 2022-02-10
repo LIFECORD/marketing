@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 05:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 06:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[흩어진 광고산업 정책, 컨트롤 타워 마련해야... 광고업계 한목소리 내다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8208</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8208</guid>
+            <pubDate>Thu, 10 Feb 2022 06:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[미디어 산업의 중요한 운영재원이 되는 동시에 기업의 주요 마케팅 수단으로 활용되는 등 경제적 기능 이외에 사회문화적으로 중요한 광고산업이지만, 광고 관련 법률과 정책은 여러 부처에 뿔뿔이 흩어져있다. 이에정부 차원 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[발렌타인데이, 데이팅 앱보다 더 인기 많은 앱은?]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8207</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8180</guid>
             <pubDate>Sat, 05 Feb 2022 09:20:00 GMT</pubDate>
             <content:encoded><![CDATA[검색 및 퍼포먼스마케터는 이제 CTV에서 도달 범위와 광고 빈도를 제어할 수 있다.Display &amp; Video 360의 구글 CTV 빈도 관리 솔루션을 통해 이제 마케터는 유튜브 및 기타 CTV 앱에서 사람들이 광고를 보는 횟수를 제어할 수 있다. 이것 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 역대 최대 규모의 게임 회사 인수]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8179</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8179</guid>
-            <pubDate>Sat, 05 Feb 2022 09:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 1월, 게임 업계는 잇달아 최대 규모의 인수가 진행됐다.테이크투 인터랙티브가 징가를 127억 달러에 인수하고 일주일도 되지 않아,마이크로소프트는 유명한 게임회사인 액티비전 블리자드를 690억 달러에 인수하며,게임 업 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
