@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-11T12:26:04.590Z</updated>
+    <updated>2022-02-11T13:18:53.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -160,18 +160,18 @@
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쉿!! 아이보스 생활기록부 생겼어요 여러분 만 알고 ..]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38212</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38212"/>
-        <updated>2022-01-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[놀토]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[식을 줄 모르는 인기, MBTI 마케팅 사례]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57173</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57173"/>
         <updated>2022-02-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쉿!! 아이보스 생활기록부 생겼어요 여러분 만 알고 ..]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38212</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38212"/>
+        <updated>2022-01-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[놀토]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비용 인상에 파업까지, 엎친데 덮친 격 📦]]></title>
