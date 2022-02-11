@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-11T07:15:49.249Z</updated>
+    <updated>2022-02-11T08:21:57.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -174,6 +174,13 @@
         <content type="html"><![CDATA[놀토]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[식을 줄 모르는 인기, MBTI 마케팅 사례]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57173</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57173"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[비용 인상에 파업까지, 엎친데 덮친 격 📦]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57009</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57009"/>
@@ -181,11 +188,11 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[식을 줄 모르는 인기, MBTI 마케팅 사례]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57173</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57173"/>
-        <updated>2022-02-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
+        <title type="html"><![CDATA[퍼포먼스는 지고 CRM은 뜨고 있는 이유]]></title>
+        <id>https://www.i-boss.co.kr/ab-74668-2527</id>
+        <link href="https://www.i-boss.co.kr/ab-74668-2527"/>
+        <updated>2022-01-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[다이티]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[상세페이지 만들 때 가장 많이 하는 실수 top3!]]></title>
@@ -200,13 +207,6 @@
         <link href="https://www.i-boss.co.kr/ab-2973-437"/>
         <updated>2022-01-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[당첨대쓔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼포먼스는 지고 CRM은 뜨고 있는 이유]]></title>
-        <id>https://www.i-boss.co.kr/ab-74668-2527</id>
-        <link href="https://www.i-boss.co.kr/ab-74668-2527"/>
-        <updated>2022-01-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[다이티]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쓰레기도 줍고, 관심도 얻고]]></title>
