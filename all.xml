@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 04:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 05:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,13 +329,6 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[식을 줄 모르는 인기, MBTI 마케팅 사례 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57173</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57173</guid>
-            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[퍼포먼스는 지고 CRM은 뜨고 있는 이유 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-74668-2527</link>
             <guid>https://www.i-boss.co.kr/ab-74668-2527</guid>
@@ -343,11 +336,26 @@
             <content:encoded><![CDATA[다이티]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[식을 줄 모르는 인기, MBTI 마케팅 사례 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57173</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57173</guid>
+            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[쓰레기도 줍고, 관심도 얻고 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57073</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57073</guid>
             <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[플레이디, 2022년 구글 프리미어 파트너 선정 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8214</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8214</guid>
+            <pubDate>Fri, 11 Feb 2022 05:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[KT그룹 디지털광고대행사 플레이디(대표 이준용)가 2022년 구글 프리미어 파트너로 선정됐다. 구글 프리미어 파트너는 실적, 지출, 인증 부문에서 일정 기준을 충족한 대행사 중 상위 3%에게만 부여되는 자격으로, 구글 파트너 프 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[한국 성인 33%, 해피 발렌타인데이 기념할 의향 있어 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d01a3d5a262bbd693cd428d8e60fa570_37755_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메타버스에서 로블록스 브랜드 파트너십의 다음 목표는? (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8185</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8185</guid>
-            <pubDate>Sun, 06 Feb 2022 09:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[로블록스는 메타버스에 진입하려는 브랜드들에게 중요한 발판이 되고 있다. 이제 가상 세계가 구체화되면서 브랜드들은 플랫폼으로 무엇을 더 할 수 있는지 묻고 있다. 애드에이지의 에리카 휘레스는 로블록스와 함께 했던 브 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[플레이디, 2022년 구글 프리미어 파트너 선정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8214</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8214</guid>
+            <pubDate>Fri, 11 Feb 2022 05:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국 성인 33%, “해피 발렌타인데이 기념할 의향 있어” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[메타버스에서 로블록스 브랜드 파트너십의 다음 목표는? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8185</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8185</guid>
-            <pubDate>Sun, 06 Feb 2022 09:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중, 네이버 메인 화면에서 볼 수 없는 광고 상품은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 11 Feb 2022 04:21:15 GMT</pubDate>
+            <pubDate>Fri, 11 Feb 2022 05:15:29 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중, 네이버 메인 화면에서 볼 수 없는 광고 상품은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
