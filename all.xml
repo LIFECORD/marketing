@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 13:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 14:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,13 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[퍼포먼스는 지고 CRM은 뜨고 있는 이유 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-74668-2527</link>
+            <guid>https://www.i-boss.co.kr/ab-74668-2527</guid>
+            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[다이티]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[식을 줄 모르는 인기, MBTI 마케팅 사례 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57173</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57173</guid>
@@ -313,13 +320,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57009</guid>
             <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[퍼포먼스는 지고 CRM은 뜨고 있는 이유 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-74668-2527</link>
-            <guid>https://www.i-boss.co.kr/ab-74668-2527</guid>
-            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[다이티]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[상세페이지 만들 때 가장 많이 하는 실수 top3! (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중, 네이버 메인 화면에서 볼 수 없는 광고 상품은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 11 Feb 2022 13:18:44 GMT</pubDate>
+            <pubDate>Fri, 11 Feb 2022 14:16:16 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중, 네이버 메인 화면에서 볼 수 없는 광고 상품은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
