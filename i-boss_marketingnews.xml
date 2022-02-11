@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 10:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 11:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜브, 라이브 쇼핑 출시한다...네이버카카오와 경쟁하나]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8215</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8215</guid>
+            <pubDate>Fri, 11 Feb 2022 11:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브가 올해 라이브 쇼핑(라이브 커머스) 기능을 공식 출시할 계획이다. 라이브 쇼핑은 실시간으로 시청자와 소통하면서 상품을 판매하는 방식이다.11일 유튜브에 따르면 닐 모한(Neal Mohan) 유튜브 최고제품책임자(CPO)는 2022년  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[플레이디, 2022년 구글 프리미어 파트너 선정]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8214</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 07 Feb 2022 08:57:00 GMT</pubDate>
             <content:encoded><![CDATA[코로나19로 인해 광고산업은 많은 부분에서 디지털이 가속화되고 있다. 지상파에도 어드레서블 TV광고가 도입되며, 타기팅 광고와 프로그래매틱이 가능해졌다. 이제 스크린이 있는 곳은 타기팅된 맞춤형 광고와 프로그래매틱은 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[2월 7일 마케팅 뉴스클리핑] 네이버 일등공신 스마트스토어 성장둔화 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8177</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8177</guid>
-            <pubDate>Mon, 07 Feb 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 네이버 일등공신 `스마트스토어` 성장둔화  네이버를 `쇼핑왕국`으로 만든 스마트스토어의 성장세가 주춤하다. 스마트스토어 개수와 거래액 성장률 모두 둔화되는 형국이다. 지난해 1분기 53%에 달했던 성장률이 4분기에는 25%  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d01a3d5a262bbd693cd428d8e60fa570_37755_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
