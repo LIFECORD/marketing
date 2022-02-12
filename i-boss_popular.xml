@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-12T18:19:36.386Z</updated>
+    <updated>2022-02-12T19:13:28.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[DMC] 2021 & 2022 퍼포먼스 마케팅 시장 동향]]></title>
-        <id>https://www.i-boss.co.kr/ab-3208-740</id>
-        <link href="https://www.i-boss.co.kr/ab-3208-740"/>
-        <updated>2022-01-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[퍼포먼스는 지고 CRM은 뜨고 있는 이유]]></title>
         <id>https://www.i-boss.co.kr/ab-74668-2527</id>
         <link href="https://www.i-boss.co.kr/ab-74668-2527"/>
         <updated>2022-01-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[다이티]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[DMC] 2021 & 2022 퍼포먼스 마케팅 시장 동향]]></title>
+        <id>https://www.i-boss.co.kr/ab-3208-740</id>
+        <link href="https://www.i-boss.co.kr/ab-3208-740"/>
+        <updated>2022-01-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아무리 관리업체라 해도, 너무하지 않나요? 다들 이..]]></title>
