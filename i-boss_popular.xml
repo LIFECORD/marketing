@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-12T13:17:59.680Z</updated>
+    <updated>2022-02-12T14:15:19.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[다이티]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아무리 관리업체라 해도, 너무하지 않나요? 다들 이..]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38197</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38197"/>
-        <updated>2022-01-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[stylenjh]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[식을 줄 모르는 인기, MBTI 마케팅 사례]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57173</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57173"/>
         <updated>2022-02-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아무리 관리업체라 해도, 너무하지 않나요? 다들 이..]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38197</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38197"/>
+        <updated>2022-01-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[stylenjh]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쉿!! 아이보스 생활기록부 생겼어요 여러분 만 알고 ..]]></title>
