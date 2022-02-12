@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-12T20:17:23.209Z</updated>
+    <updated>2022-02-12T21:14:50.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[다니엘신]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[식을 줄 모르는 인기, MBTI 마케팅 사례]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57173</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57173"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SNS를 반드시 해야 하는 이유 (퍼거슨의 트인낭)]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57114</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57114"/>
@@ -109,13 +116,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38265"/>
         <updated>2022-01-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[규S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[식을 줄 모르는 인기, MBTI 마케팅 사례]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57173</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57173"/>
-        <updated>2022-02-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[DMC] 2021 & 2022 퍼포먼스 마케팅 시장 동향]]></title>
