@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 07:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 08:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,13 +252,6 @@
             <content:encoded><![CDATA[규S]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아무리 관리업체라 해도, 너무하지 않나요? 다들 이.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38197</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38197</guid>
-            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[stylenjh]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[DMC] 2021 & 2022 퍼포먼스 마케팅 시장 동향 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-3208-740</link>
             <guid>https://www.i-boss.co.kr/ab-3208-740</guid>
@@ -271,6 +264,13 @@
             <guid>https://www.i-boss.co.kr/ab-74668-2527</guid>
             <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다이티]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아무리 관리업체라 해도, 너무하지 않나요? 다들 이.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38197</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38197</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[stylenjh]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[식을 줄 모르는 인기, MBTI 마케팅 사례 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중, 네이버 메인 화면에서 볼 수 없는 광고 상품은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 12 Feb 2022 07:15:41 GMT</pubDate>
+            <pubDate>Sat, 12 Feb 2022 08:20:04 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중, 네이버 메인 화면에서 볼 수 없는 광고 상품은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
