@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 01:02:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 03:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -154,13 +154,6 @@
             <content:encoded><![CDATA[레스뿌와]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[리뷰를 모으기 위한 기업들의 노력 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-56985</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-56985</guid>
-            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[월 1,000만 원 벌기 위해 반드시 해야 하는 일 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57071</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57071</guid>
@@ -217,13 +210,6 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[roas1000% 찍는 광고소재 이미지 공통점 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57010</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57010</guid>
-            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[인프피]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[주접생성기 사이트 너무 웃기네욬ㅋㅋ (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38168</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38168</guid>
@@ -252,6 +238,13 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[SNS를 반드시 해야 하는 이유 (퍼거슨의 트인낭) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57114</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57114</guid>
+            <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[빵쟁이가 마케터로 이직 후 벌써 N년, 하찮은 깨달음.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57097</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57097</guid>
@@ -264,13 +257,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38265</guid>
             <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[규S]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SNS를 반드시 해야 하는 이유 (퍼거슨의 트인낭) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57114</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57114</guid>
-            <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아무리 관리업체라 해도, 너무하지 않나요? 다들 이.. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +334,28 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38182</guid>
             <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이네로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스마트스토어 매출 2배 올려주는 핵심 3요소 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57098</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57098</guid>
+            <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정직원 2일 남겨두고 권고사직 받았네요. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38200</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38200</guid>
+            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[청천비애]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1인 광고콘텐츠 창작자 양성...21일까지 수강생 48명 모집 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8220</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8220</guid>
+            <pubDate>Sat, 12 Feb 2022 10:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[문화체육관광부(장관 황희, 이하 문체부)는 한국방송광고진흥공사(사장 이백만, 이하 코바코)와 함께 디지털 매체에 특화된 광고 제작 능력을 갖춘 인재가 광고업계에서 활동할 수 있도록 1인 광고콘텐츠 창작자를 양성한다. 이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[해외광고특선] 역시 볼보는 볼보다. The Epic Split (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,32 +590,31 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[대학내일20대연구소] MZ세대, 가장 선호하는 기프티콘 선물은 식품음료 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8189</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8189</guid>
-            <pubDate>Mon, 07 Feb 2022 09:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19로 대면 만남을 자제하는 분위기가 이어지면서, 친구 생일 선물부터 지인 경조사 선물까지 모바일교환권(기프티콘)으로 주고받는 일이 자연스러운 일상이 됐다. 유통 업계의 온라인 선물하기 시장은 5조원대 규모로 성 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[1인 광고콘텐츠 창작자 양성...21일까지 수강생 48명 모집 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8220</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8220</guid>
+            <pubDate>Sat, 12 Feb 2022 03:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[해외광고특선] 역시 볼보는 볼보다. The Epic Split (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8219</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8219</guid>
-            <pubDate>Sat, 12 Feb 2022 01:01:44 GMT</pubDate>
+            <pubDate>Sat, 12 Feb 2022 09:31:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[브랜드는 여전히 슈퍼볼 광고에 돈을 많이 쓴다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8218</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8218</guid>
-            <pubDate>Sat, 12 Feb 2022 01:01:44 GMT</pubDate>
+            <pubDate>Sat, 12 Feb 2022 09:30:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 국가별 인플레이션 전망 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8217</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8217</guid>
-            <pubDate>Sat, 12 Feb 2022 01:01:44 GMT</pubDate>
+            <pubDate>Sat, 12 Feb 2022 09:30:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[대학내일20대연구소] MZ세대, 가장 선호하는 기프티콘 선물은 ‘식품·음료’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8189</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8189</guid>
-            <pubDate>Mon, 07 Feb 2022 09:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중, 네이버 메인 화면에서 볼 수 없는 광고 상품은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 12 Feb 2022 01:01:56 GMT</pubDate>
+            <pubDate>Sat, 12 Feb 2022 03:16:41 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중, 네이버 메인 화면에서 볼 수 없는 광고 상품은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
