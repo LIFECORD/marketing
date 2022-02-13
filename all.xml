@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 23:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 01:03:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,13 +252,6 @@
             <content:encoded><![CDATA[규S]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[퍼포먼스는 지고 CRM은 뜨고 있는 이유 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-74668-2527</link>
-            <guid>https://www.i-boss.co.kr/ab-74668-2527</guid>
-            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[다이티]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[DMC] 2021 & 2022 퍼포먼스 마케팅 시장 동향 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-3208-740</link>
             <guid>https://www.i-boss.co.kr/ab-3208-740</guid>
@@ -348,6 +341,53 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38252</guid>
             <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[zuro59]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[바쁜데 디자이너가 없어?+마케터도 10분이면 디자인.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57087</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57087</guid>
+            <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[수D]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NFT가 소비자 충성도의 새로운 열쇠인가? (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8225</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8225</guid>
+            <pubDate>Sun, 13 Feb 2022 08:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[NFT가 화제가 되며, 광고 마케팅업계에서는 다양한 시도가 이뤄지고 있다. 그러나 생각보다 광고 마케팅과의 접목은 쉽지 않고, 확산 속도가 빠르지 않다.그럼에도 NFT의 기본적인 속성인 소비자에게 제품이나 서비스에 대한 독 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[맥도날드, 메타버스에서 집으로 배달하는 가상 레스토랑 오픈 예정 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8224</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8224</guid>
+            <pubDate>Sun, 13 Feb 2022 08:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[맥도날드는 대면상호작용의 느낌을 갖는 가상 레스토랑으로메타버스로 진출한다. 맥도날드가 미국 특허청에 10개의 메타버스 관련 상표를 출원했다. 상표권은NFT를 포함한 `가상 식음료 제품`과 `가상 배달을 특징으로 하는 온 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인포그래픽] 워들의 급속한 성장 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8223</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8223</guid>
+            <pubDate>Sun, 13 Feb 2022 08:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[현재 가장 화제가 되는 게임으로 단어퍼즐 게임 `워들`을 이야기한다. 워들은2021년 10월 조시 워들(Josh Wardle)이 만든 게임인데, `단어`를 뜻하는 Word와 자신의 성 Wardle을 섞어 이름을 만들었다. 이 게임은 5가지 글자를 유추하고 6 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[옴니콤, 2021년 유기적 성장률 10.2% 달성... 2022년 5~6% 성장 전망 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8222</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8222</guid>
+            <pubDate>Sun, 13 Feb 2022 08:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[옴니콤 그룹은 진행 중인 COVID-19 대유행의 또 다른 해를 통해 일하면서 4/4분기 9.5%의 유기적인 매출 성장을 기록했다. 옴니콤은3분기 연속 유기적 성장을 기록했다. 반면,2021년 연간 글로벌유기적 성장률은 10.2%로, 2020년 11.1%의  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[IPG , 2021년 유기적 순수익은 약 12% 성장... 2022년 5% 유기적 성장 목표 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8221</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8221</guid>
+            <pubDate>Sun, 13 Feb 2022 08:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[인터퍼블릭그룹은 올해 매출 성장률이 2021년보다 다소 둔화될 것으로 전망했다. IPG의 4분기 `유기적순수익(organic net revenue)`은 팬데믹 영향 등으로 20년 동기 대비5.4% 감소했지만, 21년 동기 대비 11.7% 증가했다. IPG는 1년 전체 유기 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[1인 광고콘텐츠 창작자 양성...21일까지 수강생 48명 모집 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -550,44 +590,39 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c668ab9a100b31e6554e1f8b93b18656_80242_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코바코, 중소기업 방송광고 제작 지원 늘린다... 작년보다 예산 17% (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8195</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8195</guid>
-            <pubDate>Mon, 07 Feb 2022 12:27:40 GMT</pubDate>
-            <content:encoded><![CDATA[한국방송광고진흥공사(코바코, 사장 이백만)는 2월 7일 공모를 시작으로 2022년 혁신형 중소기업 방송광고 활성화 지원사업을 시행한다. 해당 사업은 혁신형 중소기업이 TV나 라디오에 방송광고를 할 수 있도록 광고 제작비를 지 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[NFT가 소비자 충성도의 새로운 열쇠인가? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8225</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8225</guid>
+            <pubDate>Sun, 13 Feb 2022 01:03:20 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[Book] 박은아 대구대학교 교수, 소비자행동의 심리 : 온오프라인 통합시대 출간 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8193</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8193</guid>
-            <pubDate>Mon, 07 Feb 2022 06:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[박은아 대구대학교 교수의 는소비자가 온라인과 오프라인 쇼핑에서 원하는 것이 무엇인지를 잘 알 수 있게 해주는 책이다. 코로나19는디지털 세상으로의 변화를 겪던 인류의 삶을 급격하게 바꿔놓았다. 사람 사이의 접촉이 위 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[맥도날드, 메타버스에서 집으로 배달하는 '가상 레스토랑' 오픈 예정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8224</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8224</guid>
+            <pubDate>Sun, 13 Feb 2022 01:03:20 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유통업계는 지금 패꾸(패키지 꾸미기) 열풍 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8192</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8192</guid>
-            <pubDate>Mon, 07 Feb 2022 06:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[MZ세대사이에서다이어리부터신발,폴라로이드사진,휴대폰등을꾸미는별다꾸트렌드가인기다.일상에서쉽게접하고사용하는모든것을개인취향에맞춰꾸미는별다꾸트렌드의인기는남들과다른자신의취향과개성을적극적으로드러내 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[인포그래픽] 워들의 급속한 성장 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8223</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8223</guid>
+            <pubDate>Sun, 13 Feb 2022 01:03:20 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 에피 어워드 코리아 출품 모집... 4월 15일 접수 마감 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8191</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8191</guid>
-            <pubDate>Mon, 07 Feb 2022 11:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[대한민국 소비자의 마음을 움직인 캠페인을 선정하는 2022 에피 어워드 코리아가 2월 7일(월)부터 오는 4월 15일(금)까지 출품 접수를 받는다. 1968년 미국에서 처음 시작된 에피 어워드(Effie Awards)는 현재 전 세계 125개 이상의 국가 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[옴니콤, 2021년 유기적 성장률 10.2% 달성... 2022년 5~6% 성장 전망 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8222</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8222</guid>
+            <pubDate>Sun, 13 Feb 2022 01:03:20 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[눈물  떨이... 코로나19에 폐업 마케팅 성행 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8190</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8190</guid>
-            <pubDate>Mon, 07 Feb 2022 10:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19로 가게 문을 닫은 자영업자가 중고 시장으로 유입되면서 폐업 마케팅이 성행하고 있다. 매도자의 곤궁한 처지와 맞물려 소비가 이뤄지는 점에서 전형적인 불경기형 감성 마케팅인 셈인데 일부는 시류를 탄 상술이라는 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[IPG , 2021년 유기적 순수익은 약 12% 성장... 2022년 5% 유기적 성장 목표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8221</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8221</guid>
+            <pubDate>Sun, 13 Feb 2022 01:03:20 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1인 광고콘텐츠 창작자 양성...21일까지 수강생 48명 모집 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -765,45 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코바코, 중소기업 방송광고 제작 지원 늘린다... 작년보다 예산 17%↑ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8195</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8195</guid>
-            <pubDate>Mon, 07 Feb 2022 12:27:40 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[Book] 박은아 대구대학교 교수, "소비자행동의 심리 : 온오프라인 통합시대" 출간 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8193</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8193</guid>
-            <pubDate>Mon, 07 Feb 2022 06:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유통업계는 지금 ‘패꾸(패키지 꾸미기)’ 열풍 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8192</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8192</guid>
-            <pubDate>Mon, 07 Feb 2022 06:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘2022 에피 어워드 코리아’ 출품 모집... 4월 15일 접수 마감 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8191</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8191</guid>
-            <pubDate>Mon, 07 Feb 2022 11:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[눈물 · 떨이... 코로나19에 '폐업 마케팅` 성행 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8190</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8190</guid>
-            <pubDate>Mon, 07 Feb 2022 10:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중, 네이버 메인 화면에서 볼 수 없는 광고 상품은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 12 Feb 2022 23:16:42 GMT</pubDate>
+            <pubDate>Sun, 13 Feb 2022 01:03:32 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중, 네이버 메인 화면에서 볼 수 없는 광고 상품은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
