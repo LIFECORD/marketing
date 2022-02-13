@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 22:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 23:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2월 14일 마케팅 뉴스클리핑] 가상 인간 마케팅, 실제 대중들 절반은 모른다 응답 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8216</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8216</guid>
+            <pubDate>Mon, 14 Feb 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 가상 인간 마케팅, 실제 대중들 절반은 `모른다` 응답  최근 기업에서 `가상 인간 마케팅`을 치열하게 펼치는 중이다. 그러나 설문조사에 따르면 가상 인간 마케팅에 대해 절반 이상의 응답자인 50.46%는 `모른다`라고 답했다. 실 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_86fb7d681be940512485ef573a3fd2e4_51386_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NFT가 소비자 충성도의 새로운 열쇠인가?]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8225</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 08 Feb 2022 08:46:00 GMT</pubDate>
             <content:encoded><![CDATA[소매 봇과 가상 에이전트와 같은 기술이 고객 경험을 지속적으로 개선하면서 대화형 AI는 매년 소비자의 생활에 더욱 통합되고 있다. 이마케터는올해 미국 성인 인구의 약 47%가 적어도 한 달에 한 번은 음성 비서를 이용하고, 이 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[2월 8일 마케팅 뉴스클리핑] 내년 10조로 커진다는 라방... 유통가, 전문 진행자 확보 경쟁 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8194</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8194</guid>
-            <pubDate>Tue, 08 Feb 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 내년 `10조`로 커진다는 라방... 유통가, 전문 진행자 확보 경쟁  이커머스 시장의 성장과 함께 라이브커머스 시장도 급속도로 몸집을 불리고 있다. 유통업체들은 세대별 라방을 편성하거나 이커머스 채널을 통한 라방을 진행 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c668ab9a100b31e6554e1f8b93b18656_80242_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
