@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 14:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 15:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8200</guid>
             <pubDate>Wed, 09 Feb 2022 11:36:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[밸런타인데이에 집행한 광고 성과가 다음 이미지와 같을 때, ROAS는 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 14 Feb 2022 14:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->밸런타인데이에 집행한 광고 성과가 다음 이미지와 같을 때, ROAS는 얼마일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/67490c68ca0a1882dac065c7b6209dff_16444971699697.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1360_1" value="1" class="AB-radio" id="PQ_BD5826_1360_1_0"><label for="PQ_BD5826_1360_1_0" id="label_PQ_BD5826_1360_1_0">(A) 200%</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1360_1" value="2" class="AB-radio" id="PQ_BD5826_1360_1_1"><label for="PQ_BD5826_1360_1_1" id="label_PQ_BD5826_1360_1_1">(B) 300%</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1360_1" value="3" class="AB-radio" id="PQ_BD5826_1360_1_2"><label for="PQ_BD5826_1360_1_2" id="label_PQ_BD5826_1360_1_2">(C) 400%</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1360_1" value="4" class="AB-radio" id="PQ_BD5826_1360_1_3"><label for="PQ_BD5826_1360_1_3" id="label_PQ_BD5826_1360_1_3">(D) 500%</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나 피해 소상공인 대출 5% 육박…1% 초저금리로 8.6조원 지원 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

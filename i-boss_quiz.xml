@@ -2,20 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-5826</id>
     <title>아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈</title>
-    <updated>2022-02-14T14:16:31.072Z</updated>
+    <updated>2022-02-14T15:17:52.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[밸런타인데이에 집행한 광고 성과가 다음 이미지와 같을 때, ROAS는 얼마일까요?]]></title>
-        <id>https://www.i-boss.co.kr/ab-5826</id>
-        <link href="https://www.i-boss.co.kr/ab-5826"/>
-        <updated>2022-02-14T14:16:22.311Z</updated>
-        <content type="html"><![CDATA[<tbody><tr>
-				<td><!--1-->밸런타인데이에 집행한 광고 성과가 다음 이미지와 같을 때, ROAS는 얼마일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/67490c68ca0a1882dac065c7b6209dff_16444971699697.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1360_1" value="1" class="AB-radio" id="PQ_BD5826_1360_1_0"><label for="PQ_BD5826_1360_1_0" id="label_PQ_BD5826_1360_1_0">(A) 200%</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1360_1" value="2" class="AB-radio" id="PQ_BD5826_1360_1_1"><label for="PQ_BD5826_1360_1_1" id="label_PQ_BD5826_1360_1_1">(B) 300%</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1360_1" value="3" class="AB-radio" id="PQ_BD5826_1360_1_2"><label for="PQ_BD5826_1360_1_2" id="label_PQ_BD5826_1360_1_2">(C) 400%</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1360_1" value="4" class="AB-radio" id="PQ_BD5826_1360_1_3"><label for="PQ_BD5826_1360_1_3" id="label_PQ_BD5826_1360_1_3">(D) 500%</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content>
-    </entry>
 </feed>
