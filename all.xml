@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 04:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 05:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,11 +343,19 @@
             <content:encoded><![CDATA[팀ROAS]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[바쁜데 디자이너가 없어?+마케터도 10분이면 디자인.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57087</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57087</guid>
-            <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[수D]]></content:encoded>
+            <title><![CDATA[마케터가  능력치를 올리는 방법과 전문직 취급을 받.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38365</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38365</guid>
+            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Jazzy]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아이언소스, 모바일 앱 및 게임 개발자의 유저 확보 및 성장 극대화를 위한 앱 애널리틱스 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8229</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8229</guid>
+            <pubDate>Mon, 14 Feb 2022 05:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource, NYSE:IS)는 앱 및 게임 개발자들에게 유저 참여 및 실시간 운영 지원에 대한 필수적인 가시성과 모니터링을 제공하여 성장과 수익을 촉진할 수 있도록 지원하는 앱 애 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[아이지에이웍스-하이픈코퍼레이션, 데이터 사업 협력 계약 체결 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[2월 9일 마케팅 뉴스클리핑] 메타, 유럽서 페북인스타 운영 중단 우려 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8199</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8199</guid>
-            <pubDate>Wed, 09 Feb 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 메타, 유럽서 페북인스타 운영 중단 우려  메타가 유럽 데이터 규정으로 인해 페이스북과 인스타그램의 유럽 내 서비스를 중단하게 될 수도 있다고 밝혔다. 메타는 EU 데이터 규제와 관련한 변동으로 페이스북과 인스타그램  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_14eb488081f6568896efcf173dedf91d_61179_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[아이언소스, 모바일 앱 및 게임 개발자의 유저 확보 및 성장 극대화를 위한 ‘앱 애널리틱스’ 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8229</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8229</guid>
+            <pubDate>Mon, 14 Feb 2022 05:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아이지에이웍스-하이픈코퍼레이션, ‘데이터 사업 협력’ 계약 체결 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[2월 9일 마케팅 뉴스클리핑] 메타, 유럽서 페북·인스타 운영 중단 우려 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8199</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8199</guid>
-            <pubDate>Wed, 09 Feb 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[밸런타인데이에 집행한 광고 성과가 다음 이미지와 같을 때, ROAS는 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 14 Feb 2022 04:21:29 GMT</pubDate>
+            <pubDate>Mon, 14 Feb 2022 05:16:50 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->밸런타인데이에 집행한 광고 성과가 다음 이미지와 같을 때, ROAS는 얼마일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/67490c68ca0a1882dac065c7b6209dff_16444971699697.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
