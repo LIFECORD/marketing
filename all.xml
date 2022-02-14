@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 07:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 08:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,18 +287,18 @@
             <content:encoded><![CDATA[흥미진진]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쓰레기도 줍고, 관심도 얻고 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57073</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57073</guid>
-            <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[매출 2배, 이것만 해도 가능합니다. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57108</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57108</guid>
             <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[언카피]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쓰레기도 줍고, 관심도 얻고 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57073</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57073</guid>
+            <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정직원 2일 남겨두고 권고사직 받았네요. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[밸런타인데이에 집행한 광고 성과가 다음 이미지와 같을 때, ROAS는 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 14 Feb 2022 07:19:01 GMT</pubDate>
+            <pubDate>Mon, 14 Feb 2022 08:21:03 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->밸런타인데이에 집행한 광고 성과가 다음 이미지와 같을 때, ROAS는 얼마일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/67490c68ca0a1882dac065c7b6209dff_16444971699697.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
