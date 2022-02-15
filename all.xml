@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 15:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 16:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -259,18 +259,18 @@
             <content:encoded><![CDATA[손맛]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아무리 관리업체라 해도, 너무하지 않나요? 다들 이.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38197</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38197</guid>
-            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[stylenjh]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[제발 페이스북 데이터 입력, 수기로 하지마세요. (feat.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57202</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57202</guid>
             <pubDate>Tue, 15 Feb 2022 07:15:56 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아무리 관리업체라 해도, 너무하지 않나요? 다들 이.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38197</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38197</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[stylenjh]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021년, 보스님과 함께할 수 있어 행복했습니다! (아이보스 ─ 인기글)]]></title>
