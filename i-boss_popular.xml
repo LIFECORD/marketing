@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-15T12:27:43.501Z</updated>
+    <updated>2022-02-15T13:19:42.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -132,6 +132,13 @@
         <content type="html"><![CDATA[stylenjh]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[제발 페이스북 데이터 입력, 수기로 하지마세요. (feat..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57202</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57202"/>
+        <updated>2022-02-15T07:15:56.376Z</updated>
+        <content type="html"><![CDATA[우뇌]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2021년, 보스님과 함께할 수 있어 행복했습니다!]]></title>
         <id>https://www.i-boss.co.kr/ab-2973-437</id>
         <link href="https://www.i-boss.co.kr/ab-2973-437"/>
@@ -144,13 +151,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38212"/>
         <updated>2022-01-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[놀토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제발 페이스북 데이터 입력, 수기로 하지마세요. (feat..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57202</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57202"/>
-        <updated>2022-02-15T07:15:56.376Z</updated>
-        <content type="html"><![CDATA[우뇌]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비용 인상에 파업까지, 엎친데 덮친 격 📦]]></title>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 12:27:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 13:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -266,6 +266,13 @@
             <content:encoded><![CDATA[stylenjh]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[제발 페이스북 데이터 입력, 수기로 하지마세요. (feat.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57202</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57202</guid>
+            <pubDate>Tue, 15 Feb 2022 07:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2021년, 보스님과 함께할 수 있어 행복했습니다! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-437</link>
             <guid>https://www.i-boss.co.kr/ab-2973-437</guid>
@@ -278,13 +285,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38212</guid>
             <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[놀토]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제발 페이스북 데이터 입력, 수기로 하지마세요. (feat.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57202</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57202</guid>
-            <pubDate>Tue, 15 Feb 2022 07:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[비용 인상에 파업까지, 엎친데 덮친 격 📦 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 한국소비자원에서 정리한 '그린워싱'의 7가지 유형에 해당하지 않는 것은 무엇일까요?(hint: 큐레터에서 친절하게 설명한 '그린워싱' 콘텐츠 읽고 정답을 맞혀보세요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 15 Feb 2022 12:27:33 GMT</pubDate>
+            <pubDate>Tue, 15 Feb 2022 13:19:33 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 한국소비자원에서 정리한 '그린워싱'의 7가지 유형에 해당하지 않는 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57146" target="_blank">큐레터에서 친절하게 설명한 '그린워싱' 콘텐츠 읽고 정답을 맞혀보세요!</a>)</span></td>
 			</tr>
