@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-15T01:08:27.412Z</updated>
+    <updated>2022-02-15T02:33:57.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -111,6 +111,13 @@
         <content type="html"><![CDATA[규S]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[네이버, 새로운 광고상품 준비한다]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57188</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57188"/>
+        <updated>2022-02-14T14:15:47.815Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[빵쟁이가 마케터로 이직 후 벌써 N년, 하찮은 깨달음..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57097</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57097"/>
@@ -123,13 +130,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38197"/>
         <updated>2022-01-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[stylenjh]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버, 새로운 광고상품 준비한다]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57188</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57188"/>
-        <updated>2022-02-14T14:15:47.815Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쉿!! 아이보스 생활기록부 생겼어요 여러분 만 알고 ..]]></title>
@@ -188,18 +188,18 @@
         <content type="html"><![CDATA[테슬라살거야]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스타트업 마케터는 만만치 않네요]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38182</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38182"/>
-        <updated>2022-01-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[이네로]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스마트스토어 매출 2배 올려주는 핵심 3요소]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57098</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57098"/>
         <updated>2022-01-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[둥근마을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타트업 마케터는 만만치 않네요]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38182</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38182"/>
+        <updated>2022-01-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[이네로]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[은행에서 월세 입금하고  나온 뒤  조금  걷다가]]></title>

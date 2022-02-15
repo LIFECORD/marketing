@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 01:08:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 02:33:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당근마켓 간편결제 서비스 전국 확대]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8232</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8232</guid>
+            <pubDate>Tue, 15 Feb 2022 10:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[당근마켓 채팅창에서 바로 송금 가능해...간편성안전성    당근마켓이 지역 기반 간편결제 서비스 `당근페이`를 전국 서비스로 확대 오픈한다고 14일 밝혔다.   아울러 당근마켓 내 근처` 탭에 입점한 지역 상점과 생활 밀착형 서 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16448902468504.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크립토 브랜드가 슈퍼볼에서 광고하는 법]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8231</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8203</guid>
             <pubDate>Wed, 09 Feb 2022 05:15:47 GMT</pubDate>
             <content:encoded><![CDATA[구글은온라인상에서사용자를안전하게보호하기위해노력하고있습니다. 안전한인터넷의날(Safer Internet Day)을맞아구글은온라인에서사용자를안전하게보호해줄새로운보안기능과신규파트너십에대해업데이트를 진행했다. 다음은  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[인스타그램, 게시물 한꺼번에 지울 수 있게 한다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8201</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8201</guid>
-            <pubDate>Wed, 09 Feb 2022 00:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[이용자 프로필 `내 활동`서 게시물댓글좋아요 확인 후 삭제 가능   인스타그램이 게시물, 댓글 등을 대량으로 삭제할 수 있는 기능을 도입한다.  미국 IT매체 엔가젯은 8일(현지시간) 인스타그램이 사용자 프로필 `내 활동`에서 게 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
