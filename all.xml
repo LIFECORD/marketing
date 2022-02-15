@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 05:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 06:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[팀ROAS]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[메타버스, 서비스중단에 따른 소비자 피해 우려 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8235</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8235</guid>
+            <pubDate>Tue, 15 Feb 2022 06:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[과금을 유도하다 돌연 서비스를 종료하는 메타버스 플랫폼으로 인한 소비자 분쟁이 발생하고 있다.  과거 유료 콘텐츠를 제공하는 서비스는 주로 온라인게임에 국한됐으나, 최근 메타버스와 같은 가상공간을 제공하는 플랫폼 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[클린뷰티 강조한 CJ올리브영... 식약처 유해 원료 판정에는 모르쇠 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8234</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8234</guid>
@@ -582,25 +590,24 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[2월 10일 마케팅 뉴스클리핑] 인스타그램, 게시물 한꺼번에 지울 수 있게 한다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8205</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8205</guid>
-            <pubDate>Thu, 10 Feb 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 인스타그램, 게시물 한꺼번에 지울 수 있게 한다  미국 외신이 인스타그램이 사용자 프로필 `내 활동`에서 게시물, 댓글, 좋아요 등을 대량으로 삭제할 수 있도록 한다고 보도했다. 이용자 프로필 `내 활동` 섹션은 과거 타임라 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_263ce3d344846cf9826aa74ce254c8f9_79986_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[메타버스, 서비스중단에 따른 소비자 피해 우려 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8235</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8235</guid>
+            <pubDate>Tue, 15 Feb 2022 06:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['클린뷰티' 강조한 CJ올리브영... 식약처 유해 원료 판정에는 모르쇠 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8234</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8234</guid>
-            <pubDate>Tue, 15 Feb 2022 05:16:09 GMT</pubDate>
+            <pubDate>Tue, 15 Feb 2022 05:15:58 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빅토리아 시크릿, 메타버스에서 가상 란제리를 판매하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8233</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8233</guid>
-            <pubDate>Tue, 15 Feb 2022 05:16:09 GMT</pubDate>
+            <pubDate>Tue, 15 Feb 2022 05:15:58 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[2월 10일 마케팅 뉴스클리핑] 인스타그램, 게시물 한꺼번에 지울 수 있게 한다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8205</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8205</guid>
-            <pubDate>Thu, 10 Feb 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 한국소비자원에서 정리한 '그린워싱'의 7가지 유형에 해당하지 않는 것은 무엇일까요?(hint: 큐레터에서 친절하게 설명한 '그린워싱' 콘텐츠 읽고 정답을 맞혀보세요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 15 Feb 2022 05:16:20 GMT</pubDate>
+            <pubDate>Tue, 15 Feb 2022 06:20:36 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 한국소비자원에서 정리한 '그린워싱'의 7가지 유형에 해당하지 않는 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57146" target="_blank">큐레터에서 친절하게 설명한 '그린워싱' 콘텐츠 읽고 정답을 맞혀보세요!</a>)</span></td>
 			</tr>
