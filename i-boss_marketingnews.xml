@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 22:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 23:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2월 16일 마케팅 뉴스클리핑] 인스타그램, DM 없이 스토리 좋아요 표시 가능 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8236</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8236</guid>
+            <pubDate>Wed, 16 Feb 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 인스타그램, DM 없이 스토리 `좋아요` 표시 가능  인스타그램이 DM 없이 스토리에 `좋아요`를 표시할 수 있는 기능인 `프라이빗 스토리 라이크`를 추가했다. 상대방 스토리에서 메시지 입력 공간과 보내기 버튼 사이에 새롭게 생 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c01881cced0617f800b78e9d3ced4723_61236_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타버스, 서비스중단에 따른 소비자 피해 우려]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8235</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 10 Feb 2022 10:04:00 GMT</pubDate>
             <content:encoded><![CDATA[발렌타인데이가 곧 다가오고 있다. 많은 사람들은유저들이 데이팅 앱을 가장 많이 설치할 것으로 생각하기 쉽니다. 그러나글로벌 모바일 마케팅 플랫폼 애드저스트에 따르면 데이팅 앱 보다 영상 스트리밍 앱,음식 배달 앱이  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_414c20b235c992d7569fab2b19cd743c_98316_6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 국내 광고 시장 빠른 디지털 전환 속 역대 최고 성장률 20.4% 기록 14조 원 육박]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8206</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8206</guid>
-            <pubDate>Thu, 10 Feb 2022 09:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[제일기획(대표이사 사장 유정근)은 지난해(2021년) 국내 총 광고비가 전년 대비 20.4% 증가한 13조 9,889억 원으로 집계됐다고 10일 발표했다. 이는 제일기획이 1973년 총 광고비 집계를 시작한 이래 역대 최고 성장률로, 코로나19 팬데 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
