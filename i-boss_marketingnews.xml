@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 04:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 05:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클린뷰티 강조한 CJ올리브영... 식약처 유해 원료 판정에는 모르쇠]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8234</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8234</guid>
+            <pubDate>Tue, 15 Feb 2022 05:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[작년 12월 올리브영이 연간 결산 2021 어워즈&amp;페스타를 통해 라이징스타 브랜드로 선정하고 적극적으로 프로모션을 전개했던 샴푸 제품 원료가 식품의약품안전처(식약처)로부터 화장품 사용금지 판정을 받았다. 제품 원료인 1,2,4 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[빅토리아 시크릿, 메타버스에서 가상 란제리를 판매하다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8233</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8233</guid>
+            <pubDate>Tue, 15 Feb 2022 05:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[의류업체들이 메타버스에 진출하는 가운데,빅토리아 시크릿도 메타버스에 진출해서 가상 속옷을 판매할계획이다. 빅토리아 시크릿은 메타버스에서가상 상품을 판매할 의사가 있음을 보여주는 여러 가지 새로운 상표 신청서를 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[당근마켓 간편결제 서비스 전국 확대]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8232</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 10 Feb 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 인스타그램, 게시물 한꺼번에 지울 수 있게 한다  미국 외신이 인스타그램이 사용자 프로필 `내 활동`에서 게시물, 댓글, 좋아요 등을 대량으로 삭제할 수 있도록 한다고 보도했다. 이용자 프로필 `내 활동` 섹션은 과거 타임라 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_263ce3d344846cf9826aa74ce254c8f9_79986_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브 경험을 개선하는 4가지 방법]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8204</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8204</guid>
-            <pubDate>Wed, 09 Feb 2022 05:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[유튜브는안전한인터넷의날(Safer Internet Day)을맞아시청자에게고품질의경험을제공하기 위해 업데이트를 진행했다. 이번 업데이트에서는유용한보호설정부터사용하기쉬운툴까지사용자가전반적인유튜브경험을더자유롭게관리할 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[안전한 인터넷의 날(Safe Internet Day) 관련 구글 업데이트]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8203</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8203</guid>
-            <pubDate>Wed, 09 Feb 2022 05:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[구글은온라인상에서사용자를안전하게보호하기위해노력하고있습니다. 안전한인터넷의날(Safer Internet Day)을맞아구글은온라인에서사용자를안전하게보호해줄새로운보안기능과신규파트너십에대해업데이트를 진행했다. 다음은  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
