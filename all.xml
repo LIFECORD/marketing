@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 23:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 01:08:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -259,6 +259,13 @@
             <content:encoded><![CDATA[stylenjh]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[네이버, 새로운 광고상품 준비한다 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57188</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57188</guid>
+            <pubDate>Mon, 14 Feb 2022 14:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[쉿!! 아이보스 생활기록부 생겼어요 여러분 만 알고 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38212</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38212</guid>
@@ -266,18 +273,18 @@
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[비용 인상에 파업까지, 엎친데 덮친 격 📦 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57009</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57009</guid>
-            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2021년, 보스님과 함께할 수 있어 행복했습니다! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-437</link>
             <guid>https://www.i-boss.co.kr/ab-2973-437</guid>
             <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[비용 인상에 파업까지, 엎친데 덮친 격 📦 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57009</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57009</guid>
+            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[상세페이지 만들 때 가장 많이 하는 실수 top3! (아이보스 ─ 인기글)]]></title>
@@ -315,13 +322,6 @@
             <content:encoded><![CDATA[테슬라살거야]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스마트스토어 매출 2배 올려주는 핵심 3요소 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57098</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57098</guid>
-            <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[스타트업 마케터는 만만치 않네요 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38182</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38182</guid>
@@ -329,11 +329,11 @@
             <content:encoded><![CDATA[이네로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버, 새로운 광고상품 준비한다 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57188</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57188</guid>
-            <pubDate>Mon, 14 Feb 2022 14:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
+            <title><![CDATA[스마트스토어 매출 2배 올려주는 핵심 3요소 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57098</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57098</guid>
+            <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[은행에서 월세 입금하고  나온 뒤  조금  걷다가 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57157</guid>
             <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[팀ROAS]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[크립토 브랜드가 슈퍼볼에서 광고하는 법 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8231</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8231</guid>
+            <pubDate>Tue, 15 Feb 2022 08:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[올해 슈퍼볼 광고의 특징 중 하나는 암호화폐 관련브랜드의 광고다. 암호화폐 시장이 커지고 대중화되면서 크립토 브랜드들이 슈퍼볼 광고에까지 진출한 것이다. 올해는코인베이스, FTX, Crypto.com, eToro 등 총 4개 브랜드가 전국  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[2월 15일 마케팅 뉴스클리핑] 유튜브 라이브 쇼핑 출시 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,18 +590,17 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[넷플릭스, 구독료 인상에도 1월 결제추정금액 역대 최대 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8202</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8202</guid>
-            <pubDate>Wed, 09 Feb 2022 11:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[유료 결제자 수는 작년 10월 대비 2% 감소했으나 요금인상효과로 결제금액은 역대 최대 지난 1월 기준 1인당 월 평균 15,651원 결제, 30대 결제자가 29%로 가장 많이 차지  앱/리테일 분석서비스 와이즈앱리테일굿즈가 11월 넷플릭스(N ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_819669ebc63f31f7fbd64398bf6cbb36_12661_1.png" length="0" type="image/png"/>
+            <title><![CDATA[크립토 브랜드가 슈퍼볼에서 광고하는 법 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8231</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8231</guid>
+            <pubDate>Tue, 15 Feb 2022 01:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2월 15일 마케팅 뉴스클리핑] 유튜브 라이브 쇼핑 출시 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8230</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8230</guid>
-            <pubDate>Mon, 14 Feb 2022 23:16:49 GMT</pubDate>
+            <pubDate>Tue, 15 Feb 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[넷플릭스, 구독료 인상에도 1월 결제추정금액 역대 최대 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8202</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8202</guid>
-            <pubDate>Wed, 09 Feb 2022 11:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 한국소비자원에서 정리한 '그린워싱'의 7가지 유형에 해당하지 않는 것은 무엇일까요?(hint: 큐레터에서 친절하게 설명한 '그린워싱' 콘텐츠 읽고 정답을 맞혀보세요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 14 Feb 2022 23:16:59 GMT</pubDate>
+            <pubDate>Tue, 15 Feb 2022 01:08:18 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 한국소비자원에서 정리한 '그린워싱'의 7가지 유형에 해당하지 않는 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57146" target="_blank">큐레터에서 친절하게 설명한 '그린워싱' 콘텐츠 읽고 정답을 맞혀보세요!</a>)</span></td>
 			</tr>

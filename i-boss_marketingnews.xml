@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 23:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 01:08:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크립토 브랜드가 슈퍼볼에서 광고하는 법]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8231</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8231</guid>
+            <pubDate>Tue, 15 Feb 2022 08:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[올해 슈퍼볼 광고의 특징 중 하나는 암호화폐 관련브랜드의 광고다. 암호화폐 시장이 커지고 대중화되면서 크립토 브랜드들이 슈퍼볼 광고에까지 진출한 것이다. 올해는코인베이스, FTX, Crypto.com, eToro 등 총 4개 브랜드가 전국  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[2월 15일 마케팅 뉴스클리핑] 유튜브 라이브 쇼핑 출시 외]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8230</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Feb 2022 00:19:00 GMT</pubDate>
             <content:encoded><![CDATA[이용자 프로필 `내 활동`서 게시물댓글좋아요 확인 후 삭제 가능   인스타그램이 게시물, 댓글 등을 대량으로 삭제할 수 있는 기능을 도입한다.  미국 IT매체 엔가젯은 8일(현지시간) 인스타그램이 사용자 프로필 `내 활동`에서 게 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스, 구독료 인상에도 1월 결제추정금액 역대 최대]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8202</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8202</guid>
-            <pubDate>Wed, 09 Feb 2022 11:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[유료 결제자 수는 작년 10월 대비 2% 감소했으나 요금인상효과로 결제금액은 역대 최대 지난 1월 기준 1인당 월 평균 15,651원 결제, 30대 결제자가 29%로 가장 많이 차지  앱/리테일 분석서비스 와이즈앱리테일굿즈가 11월 넷플릭스(N ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_819669ebc63f31f7fbd64398bf6cbb36_12661_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

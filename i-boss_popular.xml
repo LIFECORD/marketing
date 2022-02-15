@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-14T23:17:08.766Z</updated>
+    <updated>2022-02-15T01:08:27.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -125,6 +125,13 @@
         <content type="html"><![CDATA[stylenjh]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[네이버, 새로운 광고상품 준비한다]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57188</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57188"/>
+        <updated>2022-02-14T14:15:47.815Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[쉿!! 아이보스 생활기록부 생겼어요 여러분 만 알고 ..]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38212</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38212"/>
@@ -132,18 +139,18 @@
         <content type="html"><![CDATA[놀토]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[비용 인상에 파업까지, 엎친데 덮친 격 📦]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57009</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57009"/>
-        <updated>2022-01-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021년, 보스님과 함께할 수 있어 행복했습니다!]]></title>
         <id>https://www.i-boss.co.kr/ab-2973-437</id>
         <link href="https://www.i-boss.co.kr/ab-2973-437"/>
         <updated>2022-01-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[당첨대쓔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비용 인상에 파업까지, 엎친데 덮친 격 📦]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57009</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57009"/>
+        <updated>2022-01-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[상세페이지 만들 때 가장 많이 하는 실수 top3!]]></title>
@@ -181,13 +188,6 @@
         <content type="html"><![CDATA[테슬라살거야]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스마트스토어 매출 2배 올려주는 핵심 3요소]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57098</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57098"/>
-        <updated>2022-01-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[둥근마을]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스타트업 마케터는 만만치 않네요]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38182</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38182"/>
@@ -195,11 +195,11 @@
         <content type="html"><![CDATA[이네로]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[네이버, 새로운 광고상품 준비한다]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57188</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57188"/>
-        <updated>2022-02-14T14:15:47.815Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
+        <title type="html"><![CDATA[스마트스토어 매출 2배 올려주는 핵심 3요소]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57098</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57098"/>
+        <updated>2022-01-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[둥근마을]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[은행에서 월세 입금하고  나온 뒤  조금  걷다가]]></title>
