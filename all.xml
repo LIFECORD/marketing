@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 08:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 09:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,17 +210,17 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[식을 줄 모르는 인기, MBTI 마케팅 사례 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57173</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57173</guid>
-            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네이버, 새로운 광고상품 준비한다 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57188</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57188</guid>
             <pubDate>Mon, 14 Feb 2022 14:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[식을 줄 모르는 인기, MBTI 마케팅 사례 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57173</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57173</guid>
+            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
@@ -301,18 +301,18 @@
             <content:encoded><![CDATA[언카피]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쓰레기도 줍고, 관심도 얻고 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57073</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57073</guid>
-            <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[제발 페이스북 데이터 입력, 수기로 하지마세요. (feat.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57202</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57202</guid>
             <pubDate>Tue, 15 Feb 2022 07:15:56 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쓰레기도 줍고, 관심도 얻고 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57073</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57073</guid>
+            <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정직원 2일 남겨두고 권고사직 받았네요. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 한국소비자원에서 정리한 '그린워싱'의 7가지 유형에 해당하지 않는 것은 무엇일까요?(hint: 큐레터에서 친절하게 설명한 '그린워싱' 콘텐츠 읽고 정답을 맞혀보세요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 15 Feb 2022 08:23:03 GMT</pubDate>
+            <pubDate>Tue, 15 Feb 2022 09:17:19 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 한국소비자원에서 정리한 '그린워싱'의 7가지 유형에 해당하지 않는 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57146" target="_blank">큐레터에서 친절하게 설명한 '그린워싱' 콘텐츠 읽고 정답을 맞혀보세요!</a>)</span></td>
 			</tr>
