@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 02:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 04:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,6 +231,13 @@
             <content:encoded><![CDATA[교육매니저]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[네이버, 새로운 광고상품 준비한다 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57188</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57188</guid>
+            <pubDate>Mon, 14 Feb 2022 14:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[SNS를 반드시 해야 하는 이유 (퍼거슨의 트인낭) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57114</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57114</guid>
@@ -243,13 +250,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38265</guid>
             <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[규S]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네이버, 새로운 광고상품 준비한다 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57188</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57188</guid>
-            <pubDate>Mon, 14 Feb 2022 14:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빵쟁이가 마케터로 이직 후 벌써 N년, 하찮은 깨달음.. (아이보스 ─ 인기글)]]></title>
@@ -266,18 +266,18 @@
             <content:encoded><![CDATA[stylenjh]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쉿!! 아이보스 생활기록부 생겼어요 여러분 만 알고 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38212</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38212</guid>
-            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[놀토]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2021년, 보스님과 함께할 수 있어 행복했습니다! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-437</link>
             <guid>https://www.i-boss.co.kr/ab-2973-437</guid>
             <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쉿!! 아이보스 생활기록부 생겼어요 여러분 만 알고 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38212</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38212</guid>
+            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[비용 인상에 파업까지, 엎친데 덮친 격 📦 (아이보스 ─ 인기글)]]></title>
@@ -593,7 +593,7 @@
             <title><![CDATA[당근마켓 간편결제 서비스 전국 확대 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8232</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8232</guid>
-            <pubDate>Tue, 15 Feb 2022 02:33:37 GMT</pubDate>
+            <pubDate>Tue, 15 Feb 2022 10:57:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 한국소비자원에서 정리한 '그린워싱'의 7가지 유형에 해당하지 않는 것은 무엇일까요?(hint: 큐레터에서 친절하게 설명한 '그린워싱' 콘텐츠 읽고 정답을 맞혀보세요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 15 Feb 2022 02:33:48 GMT</pubDate>
+            <pubDate>Tue, 15 Feb 2022 04:21:52 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 한국소비자원에서 정리한 '그린워싱'의 7가지 유형에 해당하지 않는 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57146" target="_blank">큐레터에서 친절하게 설명한 '그린워싱' 콘텐츠 읽고 정답을 맞혀보세요!</a>)</span></td>
 			</tr>
