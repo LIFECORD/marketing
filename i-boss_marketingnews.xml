@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 22:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 23:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2월 17일 마케팅 뉴스클리핑] 대표 메타버스는? 제페토 vs 이프랜드 엎치락뒤치락 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8242</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8242</guid>
+            <pubDate>Thu, 17 Feb 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 대표 메타버스는? 제페토 vs 이프랜드 `엎치락뒤치락`  국내 메타버스의 대표주자 네이버 제페토와 SKT의 이프랜드가 치열한 경쟁을 펼치고 있어 이목이 쏠린다. 제페토의 1월 MAU는 39만 명으로 석 달 새 10%가량 이용자를 끌어모 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c75eef6a12220546d86b2416c72dcd62_44467_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중고 거래 많은 당근마켓서도 선물하기 확산... 80% 껑충]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8244</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8215</guid>
             <pubDate>Fri, 11 Feb 2022 11:14:44 GMT</pubDate>
             <content:encoded><![CDATA[유튜브가 올해 라이브 쇼핑(라이브 커머스) 기능을 공식 출시할 계획이다. 라이브 쇼핑은 실시간으로 시청자와 소통하면서 상품을 판매하는 방식이다.11일 유튜브에 따르면 닐 모한(Neal Mohan) 유튜브 최고제품책임자(CPO)는 2022년  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[플레이디, 2022년 구글 프리미어 파트너 선정]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8214</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8214</guid>
-            <pubDate>Fri, 11 Feb 2022 05:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[KT그룹 디지털광고대행사 플레이디(대표 이준용)가 2022년 구글 프리미어 파트너로 선정됐다. 구글 프리미어 파트너는 실적, 지출, 인증 부문에서 일정 기준을 충족한 대행사 중 상위 3%에게만 부여되는 자격으로, 구글 파트너 프 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
