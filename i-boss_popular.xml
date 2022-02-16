@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-16T04:22:07.311Z</updated>
+    <updated>2022-02-16T05:15:45.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -167,6 +167,13 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[세상 어려운 카피 짜기, 이거 하나만 읽어보세요]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57060</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57060"/>
+        <updated>2022-01-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[지카츄]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[정직원 2일 남겨두고 권고사직 받았네요.]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38200</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38200"/>
@@ -186,13 +193,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38189"/>
         <updated>2022-01-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[테슬라살거야]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세상 어려운 카피 짜기, 이거 하나만 읽어보세요]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57060</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57060"/>
-        <updated>2022-01-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[지카츄]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[은행에서 월세 입금하고  나온 뒤  조금  걷다가]]></title>
