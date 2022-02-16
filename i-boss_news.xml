@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-02-15T23:18:30.445Z</updated>
+    <updated>2022-02-16T01:04:15.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소비자가 가장 좋아한 슈퍼볼 2022 광고 Top 10]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8238</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8238"/>
+        <updated>2022-02-16T01:03:53.131Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브랜드가 QR코드를 활용해서 고객과 연결하는 방법]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8237</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8237"/>
+        <updated>2022-02-16T01:03:53.132Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2월 16일 마케팅 뉴스클리핑] 인스타그램, DM 없이 스토리 '좋아요' 표시 가능 외]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8236</id>
@@ -200,19 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-8209"/>
         <updated>2022-02-10T07:16:23.360Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["흩어진 광고산업 정책, 컨트롤 타워 마련해야"... 광고업계 한목소리 내다]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8208</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8208"/>
-        <updated>2022-02-10T06:19:37.738Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발렌타인데이, 데이팅 앱보다 더 인기 많은 앱은?]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8207</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8207"/>
-        <updated>2022-02-10T02:03:15.645Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>

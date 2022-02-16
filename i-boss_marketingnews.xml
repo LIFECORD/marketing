@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 23:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 01:04:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소비자가 가장 좋아한 슈퍼볼 2022 광고 Top 10]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8238</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8238</guid>
+            <pubDate>Wed, 16 Feb 2022 08:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼볼 2022가 끝나고, 다양한 매체와 광고 전문가들이 슈퍼볼 광고에 대한 평가에 나섰다. 그 중iSpot.tv의 광고 분석 서비스인 Ace Metrix는 소비자 500명으로 구성된 패널을 통해 광고의 호감도 등을 조사, 발표한다. 이번 조사에서  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[브랜드가 QR코드를 활용해서 고객과 연결하는 방법]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8237</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8237</guid>
+            <pubDate>Wed, 16 Feb 2022 08:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[식당이나 카페, 영화관에 들어갈 때, 이제 자연스럽게 QR코드를 찍는다. 이번 슈퍼볼에서 코인베이스는 QR코드가 둥둥 떠다니는 광고를 제작, 내보냈다. QR코드는 이제 완전히 우리 옆에 왔다. 팬데믹이QR코드를 더욱 필수적이고  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[2월 16일 마케팅 뉴스클리핑] 인스타그램, DM 없이 스토리 좋아요 표시 가능 외]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8236</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 10 Feb 2022 07:16:11 GMT</pubDate>
             <content:encoded><![CDATA[화장품 업계가 최근 화장품 주요 소비층으로 떠오른 MZ세대를 겨냥한 마케팅을 강화하고 있다. MZ세대들이 선호하는 스타들의 메이크업을 담은 화보 공개와 인기 호텔과의 협업을 통한 페키지 제안, 백화점 명품관 팝업 등 다양 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[흩어진 광고산업 정책, 컨트롤 타워 마련해야... 광고업계 한목소리 내다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8208</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8208</guid>
-            <pubDate>Thu, 10 Feb 2022 06:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[미디어 산업의 중요한 운영재원이 되는 동시에 기업의 주요 마케팅 수단으로 활용되는 등 경제적 기능 이외에 사회문화적으로 중요한 광고산업이지만, 광고 관련 법률과 정책은 여러 부처에 뿔뿔이 흩어져있다. 이에정부 차원 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[발렌타인데이, 데이팅 앱보다 더 인기 많은 앱은?]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8207</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8207</guid>
-            <pubDate>Thu, 10 Feb 2022 10:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[발렌타인데이가 곧 다가오고 있다. 많은 사람들은유저들이 데이팅 앱을 가장 많이 설치할 것으로 생각하기 쉽니다. 그러나글로벌 모바일 마케팅 플랫폼 애드저스트에 따르면 데이팅 앱 보다 영상 스트리밍 앱,음식 배달 앱이  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_414c20b235c992d7569fab2b19cd743c_98316_6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
