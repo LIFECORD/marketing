@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 01:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 02:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,13 +329,6 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스타트업 마케터는 만만치 않네요 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38182</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38182</guid>
-            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이네로]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[은행에서 월세 입금하고  나온 뒤  조금  걷다가 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38252</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38252</guid>
@@ -348,6 +341,37 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57157</guid>
             <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[팀ROAS]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세상 어려운 카피 짜기, 이거 하나만 읽어보세요 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57060</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57060</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지카츄]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[프로그래매틱 인앱 광고, 브랜드 친근도를 높이고 고객 인게이지먼트를 유도하는 데 큰 도움 되고 있어 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8241</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8241</guid>
+            <pubDate>Wed, 16 Feb 2022 10:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[프로그래매틱 광고 분야의 혁신을 이끌고 있는 SSP 기업으로서, 고객들이 디지털 광고를 통해 우수한 성과를 얻을 수 있도록 지원하는 퍼브매틱(PubMatic, Inc./Nasdaq: PUBM)은 오늘 자사가 포레스터 컨설팅 (Forrester Consulting)에 의뢰하 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[한국인이 온라인에서 가장 많이 구매하는 전자제품은? 노트북 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8240</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8240</guid>
+            <pubDate>Wed, 16 Feb 2022 10:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[가장 많이 구매한 전자제품은 노트북, 모니터, 청소기, 세탁기/건조기, 냉장고, TV 순 신학기 준비 영향으로 노트북, 모니터, 태블릿 등 IT 분야 전자제품 상위권 랭크     앱/리테일 분석서비스 와이즈앱리테일굿즈가 한국인이  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_1644973837059.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[건강도 맛있게 챙기자! 유통업계, 헬시 플레저 트렌드 겨냥한 신제품 눈길 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8239</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8239</guid>
+            <pubDate>Wed, 16 Feb 2022 10:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 새해는헬시플레저(Healthy Pleasure)트렌드가빠르게확산되고있다.헬시플레저는건강도편리하고즐겁게관리하자는의미다. 헬시플레저트렌드는장기화되고있는코로나19와더불어자기관리에높은관심을보이는MZ세대증가가맞물리 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[소비자가 가장 좋아한 슈퍼볼 2022 광고 Top 10 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -566,41 +590,38 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_3d4ac6f530e285a066e2e9005d62e561_11304_6.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[트렌드모니터] 백신 접종과 방역 패스의 필요성에 의문을 제기하는 목소리가 높아져 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8211</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8211</guid>
-            <pubDate>Fri, 11 Feb 2022 08:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[대부분 스스로는 방역 수칙을 매우 잘 지키고 있다고 평가해, 전체 78.2% 꼭 필요하지 않은 외출은 자제해  다만 전체 74.1%가 주변에 코로나 방역 수칙을 소홀히 하는 사람들이 점점 많아지고 있다고 느끼는 모습  먼저 대부분의  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[프로그래매틱 인앱 광고, 브랜드 친근도를 높이고 고객 인게이지먼트를 유도하는 데 큰 도움 되고 있어 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8241</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8241</guid>
+            <pubDate>Wed, 16 Feb 2022 02:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[2월 11일 마케팅 뉴스클리핑] 네이버, 광고 라인업 확대... 검색커머스 시너지 가속 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8210</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8210</guid>
-            <pubDate>Fri, 11 Feb 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 네이버, 광고 라인업 확대... 검색커머스 시너지 가속  네이버가 광고 상품 라인업 확대를 이어간다. 검색 서비스와 커머스 사업 간 시너지를 높이려는 전략으로 읽힌다. 커머스 데이터와 AI 기술을 결합해 개인 관심사와 구매  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16444765897457.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[한국인이 온라인에서 가장 많이 구매하는 전자제품은? '노트북' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8240</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8240</guid>
+            <pubDate>Wed, 16 Feb 2022 02:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[주요 소비층 잡는다... 화장품 업계, MZ 세대 겨냥 마케팅 열기 후끈 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8209</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8209</guid>
-            <pubDate>Thu, 10 Feb 2022 07:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[화장품 업계가 최근 화장품 주요 소비층으로 떠오른 MZ세대를 겨냥한 마케팅을 강화하고 있다. MZ세대들이 선호하는 스타들의 메이크업을 담은 화보 공개와 인기 호텔과의 협업을 통한 페키지 제안, 백화점 명품관 팝업 등 다양 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA["건강도 맛있게 챙기자!" 유통업계, ‘헬시 플레저’ 트렌드 겨냥한 신제품 눈길 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8239</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8239</guid>
+            <pubDate>Wed, 16 Feb 2022 02:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소비자가 가장 좋아한 슈퍼볼 2022 광고 Top 10 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8238</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8238</guid>
-            <pubDate>Wed, 16 Feb 2022 01:03:53 GMT</pubDate>
+            <pubDate>Wed, 16 Feb 2022 08:58:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[브랜드가 QR코드를 활용해서 고객과 연결하는 방법 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8237</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8237</guid>
-            <pubDate>Wed, 16 Feb 2022 01:03:53 GMT</pubDate>
+            <pubDate>Wed, 16 Feb 2022 08:57:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -779,36 +800,15 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[트렌드모니터] '백신 접종'과 '방역 패스'의 필요성에 의문을 제기하는 목소리가 높아져 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8211</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8211</guid>
-            <pubDate>Fri, 11 Feb 2022 08:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2월 11일 마케팅 뉴스클리핑] 네이버, 광고 라인업 확대... 검색·커머스 시너지 가속 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8210</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8210</guid>
-            <pubDate>Fri, 11 Feb 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[주요 소비층 잡는다... 화장품 업계, MZ 세대 겨냥 마케팅 열기 '후끈' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8209</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8209</guid>
-            <pubDate>Thu, 10 Feb 2022 07:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Google Ads에서 유튜브 검색결과와 관련 동영상 옆, 유튜브 모바일 홈페이지 등 사용자가 콘텐츠를 검색하는 위치에 게재되는 동영상 광고는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 16 Feb 2022 01:04:06 GMT</pubDate>
+            <pubDate>Wed, 16 Feb 2022 02:11:50 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->Google Ads에서 유튜브 검색결과와 관련 동영상 옆, 유튜브 모바일 홈페이지 등 사용자가 콘텐츠를 검색하는 위치에 게재되는 동영상 광고는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
 			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1362_1" value="1" class="AB-radio" id="PQ_BD5826_1362_1_0"><label for="PQ_BD5826_1362_1_0" id="label_PQ_BD5826_1362_1_0">(A) 마스트헤드 광고</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1362_1" value="2" class="AB-radio" id="PQ_BD5826_1362_1_1"><label for="PQ_BD5826_1362_1_1" id="label_PQ_BD5826_1362_1_1">(B) 인스트림 광고</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1362_1" value="3" class="AB-radio" id="PQ_BD5826_1362_1_2"><label for="PQ_BD5826_1362_1_2" id="label_PQ_BD5826_1362_1_2">(C) 아웃스트림 광고</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1362_1" value="4" class="AB-radio" id="PQ_BD5826_1362_1_3"><label for="PQ_BD5826_1362_1_3" id="label_PQ_BD5826_1362_1_3">(D) 동영상 디스커버리 광고</label></td></tr></tbody></table></td>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1362_1" value="1" class="AB-radio" id="PQ_BD5826_1362_1_0"><label for="PQ_BD5826_1362_1_0" id="label_PQ_BD5826_1362_1_0">(A) 마스트헤드 광고</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1362_1" value="2" class="AB-radio" id="PQ_BD5826_1362_1_1"><label for="PQ_BD5826_1362_1_1" id="label_PQ_BD5826_1362_1_1">(B) 인스트림 광고</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1362_1" value="3" class="AB-radio" id="PQ_BD5826_1362_1_2"><label for="PQ_BD5826_1362_1_2" id="label_PQ_BD5826_1362_1_2">(C) 아웃스트림 광고</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1362_1" value="4" class="AB-radio" id="PQ_BD5826_1362_1_3"><label for="PQ_BD5826_1362_1_3" id="label_PQ_BD5826_1362_1_3">(D) 인피드 동영상 광고</label></td></tr></tbody></table></td>
 			</tr>
 		</tbody>]]></content:encoded>
         </item>
