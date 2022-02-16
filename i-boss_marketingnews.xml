@@ -4,11 +4,19 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 08:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 09:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[더 트레이드 데스크, 오픈패스 출시... 프리미엄급 퍼블리셔 인벤토리에 직접 액세스 가능]]></title>
+            <title><![CDATA[중고 거래 많은 당근마켓서도 선물하기 확산... 80% 껑충]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8244</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8244</guid>
+            <pubDate>Wed, 16 Feb 2022 09:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[2020년 시작한 당근마켓 내 선물하기 판매량...지난해 판매량 전년 대비 80% 증가 전체 품목 170여개...3000~3만원대까지 저렴한 가격대 특징 당근마켓 수익화사업 성장 동력될까   당근마켓 내 선물하기 판매량이 전년 대비 80%가량  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[더 트레이드 데스크, 광고주가 프리미엄  퍼블리셔  광고 인벤토리에 직접 액세스하는 오픈패스 출시]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8243</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8243</guid>
             <pubDate>Wed, 16 Feb 2022 08:19:13 GMT</pubDate>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8214</guid>
             <pubDate>Fri, 11 Feb 2022 05:15:00 GMT</pubDate>
             <content:encoded><![CDATA[KT그룹 디지털광고대행사 플레이디(대표 이준용)가 2022년 구글 프리미어 파트너로 선정됐다. 구글 프리미어 파트너는 실적, 지출, 인증 부문에서 일정 기준을 충족한 대행사 중 상위 3%에게만 부여되는 자격으로, 구글 파트너 프 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 성인 33%, 해피 발렌타인데이 기념할 의향 있어]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8213</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8213</guid>
-            <pubDate>Fri, 11 Feb 2022 09:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[세계인의 55%, 한국인의 33%가 발렌타인데이를 기념할 의향이 있다고 입소스가 발표했다. 입소스(대표 박황례)가 28개국 성인 1만 9987명을 대상으로 발렌타인데이 견해 조사를 실시한 결과,2월 14일 발렌타인데이를 기념할 의향이  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
