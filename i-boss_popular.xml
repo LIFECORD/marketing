@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-16T20:17:58.750Z</updated>
+    <updated>2022-02-16T21:16:18.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -188,18 +188,18 @@
         <content type="html"><![CDATA[지카츄]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정직원 2일 남겨두고 권고사직 받았네요.]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38200</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38200"/>
-        <updated>2022-01-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[청천비애]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스마트스토어 매출 2배 올려주는 핵심 3요소]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57098</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57098"/>
         <updated>2022-01-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[둥근마을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정직원 2일 남겨두고 권고사직 받았네요.]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38200</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38200"/>
+        <updated>2022-01-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[청천비애]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[요즘 새롭게 배우는 기술]]></title>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 20:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 21:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -322,18 +322,18 @@
             <content:encoded><![CDATA[지카츄]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정직원 2일 남겨두고 권고사직 받았네요. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38200</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38200</guid>
-            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[청천비애]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[스마트스토어 매출 2배 올려주는 핵심 3요소 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57098</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57098</guid>
             <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정직원 2일 남겨두고 권고사직 받았네요. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38200</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38200</guid>
+            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[청천비애]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[요즘 새롭게 배우는 기술 (아이보스 ─ 인기글)]]></title>
