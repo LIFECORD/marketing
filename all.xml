@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 05:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 06:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -273,18 +273,18 @@
             <content:encoded><![CDATA[stylenjh]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쉿!! 아이보스 생활기록부 생겼어요 여러분 만 알고 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38212</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38212</guid>
-            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[놀토]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케팅 레퍼런스 영상 똑똑하게 찾는 법, 유튜브 숨.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57193</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57193</guid>
             <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[재비]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쉿!! 아이보스 생활기록부 생겼어요 여러분 만 알고 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38212</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38212</guid>
+            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[상세페이지 만들 때 가장 많이 하는 실수 top3! (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57157</guid>
             <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[팀ROAS]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[방통위, 방송광고 예외적 금지... 네거티브 규제로 전환 추진 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8253</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8253</guid>
+            <pubDate>Thu, 17 Feb 2022 06:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[방송통신위원회(위원장 한상혁, 이하 방통위)는 방송광고 네거티브 규제 체계 전환 등 방송광고 제도개선 추진`방안 등에 대해 밝혔다. 현행 방송법 규제체계는열거된 방송광고 유형만 허용하고 있어 그 내용이 복잡하고 형식 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[GS25 x 크리에이터 렌지, 메타버스 플랫폼 전용 아이템 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[맥도날드, 메타버스에서 집으로 배달하는 가상 레스토랑 오픈 예정 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8224</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8224</guid>
-            <pubDate>Sun, 13 Feb 2022 08:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[맥도날드는 대면상호작용의 느낌을 갖는 가상 레스토랑으로메타버스로 진출한다. 맥도날드가 미국 특허청에 10개의 메타버스 관련 상표를 출원했다. 상표권은NFT를 포함한 `가상 식음료 제품`과 `가상 배달을 특징으로 하는 온 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[방통위, 방송광고 '예외적 금지'... 네거티브 규제로 전환 추진 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8253</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8253</guid>
+            <pubDate>Thu, 17 Feb 2022 06:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[GS25 x 크리에이터 렌지, 메타버스 플랫폼 전용 아이템 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[맥도날드, 메타버스에서 집으로 배달하는 '가상 레스토랑' 오픈 예정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8224</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8224</guid>
-            <pubDate>Sun, 13 Feb 2022 08:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지의 ★★브랜드와 같이 내 고객을 만들고 이를 장기간 유지하려고 할 때 쓰이는 마케팅 전략을 뜻하는 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 17 Feb 2022 05:15:33 GMT</pubDate>
+            <pubDate>Thu, 17 Feb 2022 06:21:23 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지의 ★★브랜드와 같이 내 고객을 만들고 이를 장기간 유지하려고 할 때 쓰이는 마케팅 전략을 뜻하는 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/67490c68ca0a1882dac065c7b6209dff_1644497840371.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

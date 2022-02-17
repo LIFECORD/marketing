@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 05:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 06:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방통위, 방송광고 예외적 금지... 네거티브 규제로 전환 추진]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8253</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8253</guid>
+            <pubDate>Thu, 17 Feb 2022 06:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[방송통신위원회(위원장 한상혁, 이하 방통위)는 방송광고 네거티브 규제 체계 전환 등 방송광고 제도개선 추진`방안 등에 대해 밝혔다. 현행 방송법 규제체계는열거된 방송광고 유형만 허용하고 있어 그 내용이 복잡하고 형식 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[GS25 x 크리에이터 렌지, 메타버스 플랫폼 전용 아이템 출시]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8252</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8225</guid>
             <pubDate>Sun, 13 Feb 2022 08:55:00 GMT</pubDate>
             <content:encoded><![CDATA[NFT가 화제가 되며, 광고 마케팅업계에서는 다양한 시도가 이뤄지고 있다. 그러나 생각보다 광고 마케팅과의 접목은 쉽지 않고, 확산 속도가 빠르지 않다.그럼에도 NFT의 기본적인 속성인 소비자에게 제품이나 서비스에 대한 독 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[맥도날드, 메타버스에서 집으로 배달하는 가상 레스토랑 오픈 예정]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8224</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8224</guid>
-            <pubDate>Sun, 13 Feb 2022 08:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[맥도날드는 대면상호작용의 느낌을 갖는 가상 레스토랑으로메타버스로 진출한다. 맥도날드가 미국 특허청에 10개의 메타버스 관련 상표를 출원했다. 상표권은NFT를 포함한 `가상 식음료 제품`과 `가상 배달을 특징으로 하는 온 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
