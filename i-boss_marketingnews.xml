@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 06:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 07:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MZ의 순간을 담다, 셀프 즉석 사진 부스]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8255</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8255</guid>
+            <pubDate>Thu, 17 Feb 2022 07:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[최근 길거리를 돌아다니면 즉석 사진 부스, 셀프 사진관을 흔히 볼 수 있다. 특히 강남, 홍대와 같은 곳의 경우 한 브랜드의 체인이 몇 개 씩 위치해있다. 포토이즘, 포토시그니처, 인생네컷, 하루필름, 셀픽스 등 다양한 셀프 즉 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[방통위, 방송광고 예외적 금지... 네거티브 규제로 전환 추진]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8253</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 14 Feb 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 가상 인간 마케팅, 실제 대중들 절반은 `모른다` 응답  최근 기업에서 `가상 인간 마케팅`을 치열하게 펼치는 중이다. 그러나 설문조사에 따르면 가상 인간 마케팅에 대해 절반 이상의 응답자인 50.46%는 `모른다`라고 답했다. 실 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_86fb7d681be940512485ef573a3fd2e4_51386_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT가 소비자 충성도의 새로운 열쇠인가?]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8225</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8225</guid>
-            <pubDate>Sun, 13 Feb 2022 08:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[NFT가 화제가 되며, 광고 마케팅업계에서는 다양한 시도가 이뤄지고 있다. 그러나 생각보다 광고 마케팅과의 접목은 쉽지 않고, 확산 속도가 빠르지 않다.그럼에도 NFT의 기본적인 속성인 소비자에게 제품이나 서비스에 대한 독 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
