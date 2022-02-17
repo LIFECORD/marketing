@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 22:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 23:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2월 18일 마케팅 뉴스클리핑] 구글도 앱 추적 제한... 맞춤형 광고 사라지나 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8254</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8254</guid>
+            <pubDate>Fri, 18 Feb 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 구글도 앱 추적 제한... 맞춤형 광고 사라지나  애플에 이어 구글도 안드로이드폰 사용자들의 개인정보 보호를 강화하기로 결정했다. 이용자 정보와 앱 사용 내역 등을 추적하는 것을 제한하는 것이 골자다. 이로써 페이스북  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_25c06d74bc30ae8afba32421274eac74_76346_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MZ의 순간을 담다, 셀프 즉석 사진 부스]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8255</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 14 Feb 2022 08:37:00 GMT</pubDate>
             <content:encoded><![CDATA[2021년은 위드 코로나 상황 속에도 광고업계 경쟁 PT 시장은 선방한 해였다. 코로나 이전보다도 오히려 기업들이 광고 마케팅 비용을 비용이 아닌 적극적인 투자의 개념으로 인식하는 것에 기인한 것으로 보인다. 2020년 대비 경쟁 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[2월 14일 마케팅 뉴스클리핑] 가상 인간 마케팅, 실제 대중들 절반은 모른다 응답 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8216</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8216</guid>
-            <pubDate>Mon, 14 Feb 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 가상 인간 마케팅, 실제 대중들 절반은 `모른다` 응답  최근 기업에서 `가상 인간 마케팅`을 치열하게 펼치는 중이다. 그러나 설문조사에 따르면 가상 인간 마케팅에 대해 절반 이상의 응답자인 50.46%는 `모른다`라고 답했다. 실 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_86fb7d681be940512485ef573a3fd2e4_51386_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
