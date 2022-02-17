@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 01:55:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 02:26:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GS25 x 크리에이터 렌지, 메타버스 플랫폼 전용 아이템 출시]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8252</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8252</guid>
+            <pubDate>Thu, 17 Feb 2022 11:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[GS리테일이 운영하는 편의점 GS25가 메타버스 제페토의 탑 크리에이터 렌지와 협업을 통해 GS25 전용 아이템을 판매한다고 17일 밝혔다. GS25는 17일 역삼동 GS타워에서 메타버스 플랫폼에서 차별화 상품 판매를 위한 GS25X렌지 아이템 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[닐슨미디어코리아, 국내 주요 기업들의 디지털 캠페인에 DAR 서비스 시작]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8251</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8224</guid>
             <pubDate>Sun, 13 Feb 2022 08:54:00 GMT</pubDate>
             <content:encoded><![CDATA[맥도날드는 대면상호작용의 느낌을 갖는 가상 레스토랑으로메타버스로 진출한다. 맥도날드가 미국 특허청에 10개의 메타버스 관련 상표를 출원했다. 상표권은NFT를 포함한 `가상 식음료 제품`과 `가상 배달을 특징으로 하는 온 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 워들의 급속한 성장]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8223</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8223</guid>
-            <pubDate>Sun, 13 Feb 2022 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[현재 가장 화제가 되는 게임으로 단어퍼즐 게임 `워들`을 이야기한다. 워들은2021년 10월 조시 워들(Josh Wardle)이 만든 게임인데, `단어`를 뜻하는 Word와 자신의 성 Wardle을 섞어 이름을 만들었다. 이 게임은 5가지 글자를 유추하고 6 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

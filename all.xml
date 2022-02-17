@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 01:55:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 02:26:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[팀ROAS]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[GS25 x 크리에이터 렌지, 메타버스 플랫폼 전용 아이템 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8252</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8252</guid>
+            <pubDate>Thu, 17 Feb 2022 11:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[GS리테일이 운영하는 편의점 GS25가 메타버스 제페토의 탑 크리에이터 렌지와 협업을 통해 GS25 전용 아이템을 판매한다고 17일 밝혔다. GS25는 17일 역삼동 GS타워에서 메타버스 플랫폼에서 차별화 상품 판매를 위한 GS25X렌지 아이템 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[닐슨미디어코리아, 국내 주요 기업들의 디지털 캠페인에 DAR 서비스 시작 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8251</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8251</guid>
@@ -582,25 +590,24 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 워들의 급속한 성장 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8223</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8223</guid>
-            <pubDate>Sun, 13 Feb 2022 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[현재 가장 화제가 되는 게임으로 단어퍼즐 게임 `워들`을 이야기한다. 워들은2021년 10월 조시 워들(Josh Wardle)이 만든 게임인데, `단어`를 뜻하는 Word와 자신의 성 Wardle을 섞어 이름을 만들었다. 이 게임은 5가지 글자를 유추하고 6 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[GS25 x 크리에이터 렌지, 메타버스 플랫폼 전용 아이템 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8252</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8252</guid>
+            <pubDate>Thu, 17 Feb 2022 02:26:27 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[닐슨미디어코리아, 국내 주요 기업들의 디지털 캠페인에 DAR 서비스 시작 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8251</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8251</guid>
-            <pubDate>Thu, 17 Feb 2022 01:55:34 GMT</pubDate>
+            <pubDate>Thu, 17 Feb 2022 10:53:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스포티파이, 팟캐스트 마케팅사 인수 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8250</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8250</guid>
-            <pubDate>Thu, 17 Feb 2022 01:55:34 GMT</pubDate>
+            <pubDate>Thu, 17 Feb 2022 10:42:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 워들의 급속한 성장 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8223</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8223</guid>
-            <pubDate>Sun, 13 Feb 2022 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지의 ★★브랜드와 같이 내 고객을 만들고 이를 장기간 유지하려고 할 때 쓰이는 마케팅 전략을 뜻하는 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 17 Feb 2022 01:55:47 GMT</pubDate>
+            <pubDate>Thu, 17 Feb 2022 02:26:39 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지의 ★★브랜드와 같이 내 고객을 만들고 이를 장기간 유지하려고 할 때 쓰이는 마케팅 전략을 뜻하는 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/67490c68ca0a1882dac065c7b6209dff_1644497840371.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
