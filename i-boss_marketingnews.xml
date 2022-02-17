@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 00:57:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 01:55:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[닐슨미디어코리아, 국내 주요 기업들의 디지털 캠페인에 DAR 서비스 시작]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8251</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8251</guid>
+            <pubDate>Thu, 17 Feb 2022 10:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 미디어 정보 분석 기업 닐슨미디어코리아(대표 조선국)는 국내 주요 기업들의 디지털 캠페인에 글로벌 디지털광고시청률 지표인DAR (Digital Ad Ratings)서비스를 공식적으로 시작한다. DAR은지난해닐슨미디어코리아를통해한 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[스포티파이, 팟캐스트 마케팅사 인수]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8250</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8250</guid>
+            <pubDate>Thu, 17 Feb 2022 10:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[팟캐스트 광고 기능 확대    스포티파이가 팟캐스트 마케팅 업체 팟사이츠(Podsights)와 차터블(Chartable)을 인수하며 팟캐스트 광고 기능을 확대한다.  스포티파이는 16일(현지시간) 자사 뉴스룸에서 팟사이츠와 차터블 인수를 추진 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16450621709601.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애드저스트, 마케터를 위한 100만 앱 유저 달성 방법 가이드 1편: 앱스토어 최적화와 유저 획득 발간]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8249</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8223</guid>
             <pubDate>Sun, 13 Feb 2022 08:53:00 GMT</pubDate>
             <content:encoded><![CDATA[현재 가장 화제가 되는 게임으로 단어퍼즐 게임 `워들`을 이야기한다. 워들은2021년 10월 조시 워들(Josh Wardle)이 만든 게임인데, `단어`를 뜻하는 Word와 자신의 성 Wardle을 섞어 이름을 만들었다. 이 게임은 5가지 글자를 유추하고 6 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[옴니콤, 2021년 유기적 성장률 10.2% 달성... 2022년 5~6% 성장 전망]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8222</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8222</guid>
-            <pubDate>Sun, 13 Feb 2022 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[옴니콤 그룹은 진행 중인 COVID-19 대유행의 또 다른 해를 통해 일하면서 4/4분기 9.5%의 유기적인 매출 성장을 기록했다. 옴니콤은3분기 연속 유기적 성장을 기록했다. 반면,2021년 연간 글로벌유기적 성장률은 10.2%로, 2020년 11.1%의  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[IPG , 2021년 유기적 순수익은 약 12% 성장... 2022년 5% 유기적 성장 목표]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8221</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8221</guid>
-            <pubDate>Sun, 13 Feb 2022 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[인터퍼블릭그룹은 올해 매출 성장률이 2021년보다 다소 둔화될 것으로 전망했다. IPG의 4분기 `유기적순수익(organic net revenue)`은 팬데믹 영향 등으로 20년 동기 대비5.4% 감소했지만, 21년 동기 대비 11.7% 증가했다. IPG는 1년 전체 유기 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

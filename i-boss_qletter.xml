@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 00:57:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 01:55:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[큐레터 님이 라방에 접속하셨습니다!]]></title>
+            <link>https://qletter.i-boss.co.kr/view/875647-%ED%81%90%EB%A0%88%ED%84%B0_%EB%8B%98%EC%9D%B4_%EB%9D%BC%EB%B0%A9%EC%97%90_%EC%A0%91%EC%86%8D%ED%95%98%EC%85%A8%EC%8A%B5%EB%8B%88%EB%8B%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/875647-%ED%81%90%EB%A0%88%ED%84%B0_%EB%8B%98%EC%9D%B4_%EB%9D%BC%EB%B0%A9%EC%97%90_%EC%A0%91%EC%86%8D%ED%95%98%EC%85%A8%EC%8A%B5%EB%8B%88%EB%8B%A4/</guid>
+            <pubDate>Thu, 17 Feb 2022 01:54:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/875647-큐레터_님이_라방에_접속하셨습니다/">
+						<div class="thumb"><img src="/images/qletter_875647.png"></div>
+						<p><strong>큐레터 님이 라방에 접속하셨습니다!</strong>2022.02.17</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_875647.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버, 새 광고 상품을 준비중?]]></title>
             <link>https://qletter.i-boss.co.kr/view/871058-%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%83%88_%EA%B4%91%EA%B3%A0_%EC%83%81%ED%92%88%EC%9D%84_%EC%A4%80%EB%B9%84%EC%A4%91/</link>
@@ -127,17 +138,6 @@
 						<p><strong> 밋밋한 상품의 상페 기획 때문에 고민이에요</strong>2022.01.06</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_824534.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[내 마케팅 트렌드 점수는?]]></title>
-            <link>https://qletter.i-boss.co.kr/view/820728-%EB%82%B4_%EB%A7%88%EC%BC%80%ED%8C%85_%ED%8A%B8%EB%A0%8C%EB%93%9C_%EC%A0%90%EC%88%98%EB%8A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/820728-%EB%82%B4_%EB%A7%88%EC%BC%80%ED%8C%85_%ED%8A%B8%EB%A0%8C%EB%93%9C_%EC%A0%90%EC%88%98%EB%8A%94/</guid>
-            <pubDate>Mon, 03 Jan 2022 04:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/820728-내_마케팅_트렌드_점수는/">
-						<div class="thumb"><img src="/images/qletter_820728.png"></div>
-						<p><strong>내 마케팅 트렌드 점수는?</strong>2022.01.03</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_820728.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

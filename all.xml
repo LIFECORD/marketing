@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 00:57:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 01:55:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[큐레터 님이 라방에 접속하셨습니다! (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/875647-%ED%81%90%EB%A0%88%ED%84%B0_%EB%8B%98%EC%9D%B4_%EB%9D%BC%EB%B0%A9%EC%97%90_%EC%A0%91%EC%86%8D%ED%95%98%EC%85%A8%EC%8A%B5%EB%8B%88%EB%8B%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/875647-%ED%81%90%EB%A0%88%ED%84%B0_%EB%8B%98%EC%9D%B4_%EB%9D%BC%EB%B0%A9%EC%97%90_%EC%A0%91%EC%86%8D%ED%95%98%EC%85%A8%EC%8A%B5%EB%8B%88%EB%8B%A4/</guid>
+            <pubDate>Thu, 17 Feb 2022 01:54:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/875647-큐레터_님이_라방에_접속하셨습니다/">
+						<div class="thumb"><img src="/images/qletter_875647.png"></div>
+						<p><strong>큐레터 님이 라방에 접속하셨습니다!</strong>2022.02.17</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_875647.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버, 새 광고 상품을 준비중? (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/871058-%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%83%88_%EA%B4%91%EA%B3%A0_%EC%83%81%ED%92%88%EC%9D%84_%EC%A4%80%EB%B9%84%EC%A4%91/</link>
@@ -129,17 +140,6 @@
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_824534.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[내 마케팅 트렌드 점수는? (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/820728-%EB%82%B4_%EB%A7%88%EC%BC%80%ED%8C%85_%ED%8A%B8%EB%A0%8C%EB%93%9C_%EC%A0%90%EC%88%98%EB%8A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/820728-%EB%82%B4_%EB%A7%88%EC%BC%80%ED%8C%85_%ED%8A%B8%EB%A0%8C%EB%93%9C_%EC%A0%90%EC%88%98%EB%8A%94/</guid>
-            <pubDate>Mon, 03 Jan 2022 04:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/820728-내_마케팅_트렌드_점수는/">
-						<div class="thumb"><img src="/images/qletter_820728.png"></div>
-						<p><strong>내 마케팅 트렌드 점수는?</strong>2022.01.03</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_820728.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[無사수 분 들 보고서 필요하신분들 쓰세요~ (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38306</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38306</guid>
@@ -159,13 +159,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57071</guid>
             <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[폰트 저작권 위반으로 100만원 내라구요?? +) 찐 상업.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57044</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57044</guid>
-            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 마케터 MBTI ~J와 P~ (아이보스 ─ 인기글)]]></title>
@@ -266,18 +259,18 @@
             <content:encoded><![CDATA[손맛]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아무리 관리업체라 해도, 너무하지 않나요? 다들 이.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38197</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38197</guid>
-            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[stylenjh]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2021년, 보스님과 함께할 수 있어 행복했습니다! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-437</link>
             <guid>https://www.i-boss.co.kr/ab-2973-437</guid>
             <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아무리 관리업체라 해도, 너무하지 않나요? 다들 이.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38197</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38197</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[stylenjh]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쉿!! 아이보스 생활기록부 생겼어요 여러분 만 알고 .. (아이보스 ─ 인기글)]]></title>
@@ -287,18 +280,18 @@
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[상세페이지 만들 때 가장 많이 하는 실수 top3! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57059</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57059</guid>
-            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[흥미진진]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케팅 레퍼런스 영상 똑똑하게 찾는 법, 유튜브 숨.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57193</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57193</guid>
             <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[재비]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[상세페이지 만들 때 가장 많이 하는 실수 top3! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57059</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57059</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[흥미진진]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[매출 2배, 이것만 해도 가능합니다. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +341,29 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38189</guid>
             <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[테슬라살거야]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[매출 1도 문제 없는 대표님은 절대 클릭하지 마세요. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57157</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57157</guid>
+            <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[팀ROAS]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[닐슨미디어코리아, 국내 주요 기업들의 디지털 캠페인에 DAR 서비스 시작 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8251</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8251</guid>
+            <pubDate>Thu, 17 Feb 2022 10:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 미디어 정보 분석 기업 닐슨미디어코리아(대표 조선국)는 국내 주요 기업들의 디지털 캠페인에 글로벌 디지털광고시청률 지표인DAR (Digital Ad Ratings)서비스를 공식적으로 시작한다. DAR은지난해닐슨미디어코리아를통해한 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[스포티파이, 팟캐스트 마케팅사 인수 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8250</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8250</guid>
+            <pubDate>Thu, 17 Feb 2022 10:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[팟캐스트 광고 기능 확대    스포티파이가 팟캐스트 마케팅 업체 팟사이츠(Podsights)와 차터블(Chartable)을 인수하며 팟캐스트 광고 기능을 확대한다.  스포티파이는 16일(현지시간) 자사 뉴스룸에서 팟사이츠와 차터블 인수를 추진 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16450621709601.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[애드저스트, 마케터를 위한 100만 앱 유저 달성 방법 가이드 1편: 앱스토어 최적화와 유저 획득 발간 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -574,54 +590,52 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[옴니콤, 2021년 유기적 성장률 10.2% 달성... 2022년 5~6% 성장 전망 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8222</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8222</guid>
-            <pubDate>Sun, 13 Feb 2022 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[옴니콤 그룹은 진행 중인 COVID-19 대유행의 또 다른 해를 통해 일하면서 4/4분기 9.5%의 유기적인 매출 성장을 기록했다. 옴니콤은3분기 연속 유기적 성장을 기록했다. 반면,2021년 연간 글로벌유기적 성장률은 10.2%로, 2020년 11.1%의  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[닐슨미디어코리아, 국내 주요 기업들의 디지털 캠페인에 DAR 서비스 시작 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8251</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8251</guid>
+            <pubDate>Thu, 17 Feb 2022 01:55:34 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[IPG , 2021년 유기적 순수익은 약 12% 성장... 2022년 5% 유기적 성장 목표 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8221</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8221</guid>
-            <pubDate>Sun, 13 Feb 2022 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[인터퍼블릭그룹은 올해 매출 성장률이 2021년보다 다소 둔화될 것으로 전망했다. IPG의 4분기 `유기적순수익(organic net revenue)`은 팬데믹 영향 등으로 20년 동기 대비5.4% 감소했지만, 21년 동기 대비 11.7% 증가했다. IPG는 1년 전체 유기 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[스포티파이, 팟캐스트 마케팅사 인수 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8250</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8250</guid>
+            <pubDate>Thu, 17 Feb 2022 01:55:34 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[애드저스트, 마케터를 위한 “100만 앱 유저 달성 방법 가이드 1편: 앱스토어 최적화와 유저 획득” 발간 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8249</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8249</guid>
-            <pubDate>Thu, 17 Feb 2022 00:57:07 GMT</pubDate>
+            <pubDate>Thu, 17 Feb 2022 09:50:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Goodbye ViacomCBS!... ViacomCBS, 사명을 파라마운트로 변경하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8248</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8248</guid>
-            <pubDate>Thu, 17 Feb 2022 00:57:07 GMT</pubDate>
+            <pubDate>Thu, 17 Feb 2022 08:40:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[앱애니, "data.ai"로 사명 변경... AI 기반 통합 데이터 기업으로 변 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8247</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8247</guid>
-            <pubDate>Thu, 17 Feb 2022 00:57:07 GMT</pubDate>
+            <pubDate>Thu, 17 Feb 2022 08:39:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년에 알아야 할 10가지 구글 검색 통계 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8246</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8246</guid>
-            <pubDate>Thu, 17 Feb 2022 00:57:07 GMT</pubDate>
+            <pubDate>Thu, 17 Feb 2022 08:38:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[트렌드모니터] 코로나19로 일상이 된‘집콕’문화, 층간소음 분쟁 늘어난 진짜 이유 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8245</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8245</guid>
-            <pubDate>Thu, 17 Feb 2022 00:57:07 GMT</pubDate>
+            <pubDate>Thu, 17 Feb 2022 08:38:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[옴니콤, 2021년 유기적 성장률 10.2% 달성... 2022년 5~6% 성장 전망 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8222</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8222</guid>
-            <pubDate>Sun, 13 Feb 2022 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[IPG , 2021년 유기적 순수익은 약 12% 성장... 2022년 5% 유기적 성장 목표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8221</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8221</guid>
-            <pubDate>Sun, 13 Feb 2022 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지의 ★★브랜드와 같이 내 고객을 만들고 이를 장기간 유지하려고 할 때 쓰이는 마케팅 전략을 뜻하는 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 17 Feb 2022 00:57:18 GMT</pubDate>
+            <pubDate>Thu, 17 Feb 2022 01:55:47 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지의 ★★브랜드와 같이 내 고객을 만들고 이를 장기간 유지하려고 할 때 쓰이는 마케팅 전략을 뜻하는 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/67490c68ca0a1882dac065c7b6209dff_1644497840371.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
