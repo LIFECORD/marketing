@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 14:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 15:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8216</guid>
             <pubDate>Mon, 14 Feb 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다음 이미지의 ★★브랜드와 같이 내 고객을 만들고 이를 장기간 유지하려고 할 때 쓰이는 마케팅 전략을 뜻하는 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 17 Feb 2022 14:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->다음 이미지의 ★★브랜드와 같이 내 고객을 만들고 이를 장기간 유지하려고 할 때 쓰이는 마케팅 전략을 뜻하는 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/67490c68ca0a1882dac065c7b6209dff_1644497840371.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1363_1" value="1" class="AB-radio" id="PQ_BD5826_1363_1_0"><label for="PQ_BD5826_1363_1_0" id="label_PQ_BD5826_1363_1_0">(A) 버즈 마케팅</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1363_1" value="2" class="AB-radio" id="PQ_BD5826_1363_1_1"><label for="PQ_BD5826_1363_1_1" id="label_PQ_BD5826_1363_1_1">(B) CRM 마케팅</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1363_1" value="3" class="AB-radio" id="PQ_BD5826_1363_1_2"><label for="PQ_BD5826_1363_1_2" id="label_PQ_BD5826_1363_1_2">(C) RFID 마케팅</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1363_1" value="4" class="AB-radio" id="PQ_BD5826_1363_1_3"><label for="PQ_BD5826_1363_1_3" id="label_PQ_BD5826_1363_1_3">(D) 스프레드 마케팅</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시, 임차 소상공인에 현금 100만원 지원한다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
