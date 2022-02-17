@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-17T07:17:55.452Z</updated>
+    <updated>2022-02-17T08:20:07.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -181,18 +181,18 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정직원 2일 남겨두고 권고사직 받았네요.]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38200</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38200"/>
-        <updated>2022-01-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[청천비애]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[`블로그체험단 효과 없는 이유가 이거였어?` 체험단 ..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57212</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57212"/>
         <updated>2022-02-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[용서할게이츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정직원 2일 남겨두고 권고사직 받았네요.]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38200</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38200"/>
+        <updated>2022-01-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[청천비애]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스마트스토어 매출 2배 올려주는 핵심 3요소]]></title>
@@ -202,17 +202,17 @@
         <content type="html"><![CDATA[둥근마을]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[요즘 새롭게 배우는 기술]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38189</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38189"/>
-        <updated>2022-01-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[테슬라살거야]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[매출 1도 문제 없는 대표님은 절대 클릭하지 마세요.]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57157</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57157"/>
         <updated>2022-02-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[팀ROAS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[은행에서 월세 입금하고  나온 뒤  조금  걷다가]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38252</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38252"/>
+        <updated>2022-01-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[zuro59]]></content>
     </entry>
 </feed>
