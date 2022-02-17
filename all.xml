@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 09:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 10:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,6 +217,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[일머리 없는 사람 특징(머리가 나빠서가 아니다) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38415</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38415</guid>
+            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리유님]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[초보 블로거들에게 필요한 사이트 공유 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57076</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57076</guid>
@@ -229,13 +236,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57069</guid>
             <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[교육매니저]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일머리 없는 사람 특징(머리가 나빠서가 아니다) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38415</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38415</guid>
-            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[리유님]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SNS를 반드시 해야 하는 이유 (퍼거슨의 트인낭) (아이보스 ─ 인기글)]]></title>
@@ -294,18 +294,18 @@
             <content:encoded><![CDATA[흥미진진]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[매출 2배, 이것만 해도 가능합니다. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57108</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57108</guid>
-            <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[언카피]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[세상 어려운 카피 짜기, 이거 하나만 읽어보세요 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57060</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57060</guid>
             <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[지카츄]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[매출 2배, 이것만 해도 가능합니다. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57108</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57108</guid>
+            <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[언카피]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쓰레기도 줍고, 관심도 얻고 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 이미지의 ★★브랜드와 같이 내 고객을 만들고 이를 장기간 유지하려고 할 때 쓰이는 마케팅 전략을 뜻하는 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 17 Feb 2022 09:17:43 GMT</pubDate>
+            <pubDate>Thu, 17 Feb 2022 10:19:00 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지의 ★★브랜드와 같이 내 고객을 만들고 이를 장기간 유지하려고 할 때 쓰이는 마케팅 전략을 뜻하는 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/67490c68ca0a1882dac065c7b6209dff_1644497840371.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
