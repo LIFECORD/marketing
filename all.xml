@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 04:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 05:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,18 +182,18 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터에게 필요한 기획 습관 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-5637-29</link>
-            <guid>https://www.i-boss.co.kr/ab-5637-29</guid>
-            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[제발 페이스북 데이터 입력, 수기로 하지마세요. (feat.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57202</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57202</guid>
             <pubDate>Tue, 15 Feb 2022 07:15:56 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케터에게 필요한 기획 습관 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-5637-29</link>
+            <guid>https://www.i-boss.co.kr/ab-5637-29</guid>
+            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쇼핑몰, 무슨 솔루션으로 만들었나요? (feat. 설문조사.. (아이보스 ─ 인기글)]]></title>
@@ -315,6 +315,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[정직원 2일 남겨두고 권고사직 받았네요. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38200</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38200</guid>
+            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[청천비애]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[`블로그체험단 효과 없는 이유가 이거였어?` 체험단 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57212</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57212</guid>
@@ -327,13 +334,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57098</guid>
             <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정직원 2일 남겨두고 권고사직 받았네요. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38200</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38200</guid>
-            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[청천비애]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[요즘 새롭게 배우는 기술 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 이미지의 ★★브랜드와 같이 내 고객을 만들고 이를 장기간 유지하려고 할 때 쓰이는 마케팅 전략을 뜻하는 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 17 Feb 2022 04:21:57 GMT</pubDate>
+            <pubDate>Thu, 17 Feb 2022 05:15:33 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지의 ★★브랜드와 같이 내 고객을 만들고 이를 장기간 유지하려고 할 때 쓰이는 마케팅 전략을 뜻하는 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/67490c68ca0a1882dac065c7b6209dff_1644497840371.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
