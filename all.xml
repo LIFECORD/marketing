@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 14:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 15:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,13 +152,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38325</guid>
             <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레스뿌와]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[월 1,000만 원 벌기 위해 반드시 해야 하는 일 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57071</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57071</guid>
-            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제발 페이스북 데이터 입력, 수기로 하지마세요. (feat.. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +341,13 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38427</guid>
             <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[식자재중개플렛폼]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[검색의도란 무엇이고 왜 알아야 하는가 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57170</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57170</guid>
+            <pubDate>Wed, 09 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케톨로지]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[유튜브, 가짜뉴스 차단 대책 마련한다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8235</guid>
             <pubDate>Tue, 15 Feb 2022 06:20:08 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인스타그램은 이용자의 안전을 위한 기능을 지속적으로 업데이트하고 있습니다. 다음 중 이용자의 안전을 위해 인스타그램이 도입한 기능이 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 18 Feb 2022 14:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->인스타그램은 이용자의 안전을 위한 기능을 지속적으로 업데이트하고 있습니다. 다음 중 이용자의 안전을 위해 인스타그램이 도입한 기능이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1364_1" value="1" class="AB-radio" id="PQ_BD5826_1364_1_0"><label for="PQ_BD5826_1364_1_0" id="label_PQ_BD5826_1364_1_0">(A) 만 16세 미만 신규 가입자 계정을 기본 '비공개'로 설정하는 기능</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1364_1" value="2" class="AB-radio" id="PQ_BD5826_1364_1_1"><label for="PQ_BD5826_1364_1_1" id="label_PQ_BD5826_1364_1_1">(B) 일정 시간 이상 사용하면 '휴식'을 취하라는 알림을 설정할 수 있는 기능</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1364_1" value="3" class="AB-radio" id="PQ_BD5826_1364_1_2"><label for="PQ_BD5826_1364_1_2" id="label_PQ_BD5826_1364_1_2">(C) 해킹을 막기 위한 로그인 '3단계 인증' 기능</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1364_1" value="4" class="AB-radio" id="PQ_BD5826_1364_1_3"><label for="PQ_BD5826_1364_1_3" id="label_PQ_BD5826_1364_1_3">(D) 게시물의 '좋아요' 수를 숨길 수 있는 기능</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시, 임차 소상공인에 현금 100만원 지원한다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
