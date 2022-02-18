@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-18T10:19:49.202Z</updated>
+    <updated>2022-02-18T11:14:41.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[둥근마을]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[마케팅밈] 마케터 특징 vs. 실제 내 모습]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38350</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38350"/>
-        <updated>2022-02-10T05:19:30.557Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[제발 페이스북 데이터 입력, 수기로 하지마세요. (feat..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57202</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57202"/>
         <updated>2022-02-15T07:15:56.376Z</updated>
         <content type="html"><![CDATA[우뇌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마케팅밈] 마케터 특징 vs. 실제 내 모습]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38350</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38350"/>
+        <updated>2022-02-10T05:19:30.557Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마케팅밈] 마케터 MBTI ~J와 P~]]></title>
