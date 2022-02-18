@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 01:07:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 03:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜브, 가짜뉴스 차단 대책 마련한다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8264</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8264</guid>
+            <pubDate>Fri, 18 Feb 2022 10:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브가 가짜뉴스 유포를 막기 위해 문제시 되는 영상을 차단하는 방안을 고려 중이다.17일(현지시간) IT전문매체 에 따르면 닐 모한 유튜브 최고제품책임자(CPO)는 블로그를 통해 오보 확산 방지는 유튜브가 직면한 최대 과제  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버, 프리미엄콘텐츠 정식 출시... 유료 창작자 저변 확대]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8263</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8263</guid>
+            <pubDate>Fri, 18 Feb 2022 10:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[베타 테스트 기간 총 거래액 4.8억월 1000만원 돌파한 채널도 등장   네이버가 유료 콘텐츠 플랫폼 프리미엄콘텐츠를 정식으로 오픈했다. 경쟁력 있는 콘텐츠만 있다면 누구나 수익을 창출할 수 있는 오픈 플랫폼으로 확장한다.   ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_26fd60b8b54562864c5c5b0a000b0a8a_96748_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[옷을 통해 느끼는 일상의 즐거움... 유니클로, 2022 Spring/Summer 라이프웨어 매거진 발간]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8262</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8235</guid>
             <pubDate>Tue, 15 Feb 2022 06:20:08 GMT</pubDate>
             <content:encoded><![CDATA[과금을 유도하다 돌연 서비스를 종료하는 메타버스 플랫폼으로 인한 소비자 분쟁이 발생하고 있다.  과거 유료 콘텐츠를 제공하는 서비스는 주로 온라인게임에 국한됐으나, 최근 메타버스와 같은 가상공간을 제공하는 플랫폼 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[클린뷰티 강조한 CJ올리브영... 식약처 유해 원료 판정에는 모르쇠]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8234</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8234</guid>
-            <pubDate>Tue, 15 Feb 2022 05:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[작년 12월 올리브영이 연간 결산 2021 어워즈&amp;페스타를 통해 라이징스타 브랜드로 선정하고 적극적으로 프로모션을 전개했던 샴푸 제품 원료가 식품의약품안전처(식약처)로부터 화장품 사용금지 판정을 받았다. 제품 원료인 1,2,4 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[빅토리아 시크릿, 메타버스에서 가상 란제리를 판매하다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8233</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8233</guid>
-            <pubDate>Tue, 15 Feb 2022 05:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[의류업체들이 메타버스에 진출하는 가운데,빅토리아 시크릿도 메타버스에 진출해서 가상 속옷을 판매할계획이다. 빅토리아 시크릿은 메타버스에서가상 상품을 판매할 의사가 있음을 보여주는 여러 가지 새로운 상표 신청서를 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
