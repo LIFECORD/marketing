@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-18T09:17:48.194Z</updated>
+    <updated>2022-02-18T10:19:49.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -62,17 +62,17 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쇼핑몰, 무슨 솔루션으로 만들었나요? (feat. 설문조사..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57064</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57064"/>
-        <updated>2022-01-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[네이버, 새로운 광고상품 준비한다]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57188</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57188"/>
         <updated>2022-02-14T14:15:47.815Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쇼핑몰, 무슨 솔루션으로 만들었나요? (feat. 설문조사..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57064</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57064"/>
+        <updated>2022-01-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
@@ -95,13 +95,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57076"/>
         <updated>2022-01-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[다니엘신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우뇌가 떠먹여주는 성과개선 노하우 3가지]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57069</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57069"/>
-        <updated>2022-01-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[교육매니저]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SNS를 반드시 해야 하는 이유 (퍼거슨의 트인낭)]]></title>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38365"/>
         <updated>2022-02-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[Jazzy]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마케팅에 대해 모른 어떤  오너의 하소연]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38427</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38427"/>
+        <updated>2022-02-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[식자재중개플렛폼]]></content>
     </entry>
 </feed>
