@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-19T01:06:12.147Z</updated>
+    <updated>2022-02-19T02:05:53.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -132,13 +132,6 @@
         <content type="html"><![CDATA[용서할게이츠]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정직원 2일 남겨두고 권고사직 받았네요.]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38200</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38200"/>
-        <updated>2022-01-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[청천비애]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[매출 2배, 이것만 해도 가능합니다.]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57108</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57108"/>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57209"/>
         <updated>2022-02-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[리유]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혹시 저와 같은 피해 입으신분 있나요? 참다참다.. 써..]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38321</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38321"/>
+        <updated>2022-02-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[윤묘]]></content>
     </entry>
 </feed>
