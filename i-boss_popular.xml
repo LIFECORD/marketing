@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-19T08:19:55.230Z</updated>
+    <updated>2022-02-19T09:18:06.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -74,13 +74,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57173"/>
         <updated>2022-02-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초보 블로거들에게 필요한 사이트 공유]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57076</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57076"/>
-        <updated>2022-01-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[다니엘신]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SNS를 반드시 해야 하는 이유 (퍼거슨의 트인낭)]]></title>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-2973-439"/>
         <updated>2022-01-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[당첨대쓔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[초보마케터]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38396</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38396"/>
+        <updated>2022-02-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[마뇨리따]]></content>
     </entry>
 </feed>
