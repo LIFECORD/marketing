@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 11:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 12:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,18 +238,18 @@
             <content:encoded><![CDATA[손맛]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쉿!! 아이보스 생활기록부 생겼어요 여러분 만 알고 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38212</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38212</guid>
-            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[놀토]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[`블로그체험단 효과 없는 이유가 이거였어?` 체험단 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57212</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57212</guid>
             <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[용서할게이츠]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쉿!! 아이보스 생활기록부 생겼어요 여러분 만 알고 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38212</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38212</guid>
+            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[매출 2배, 이것만 해도 가능합니다. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[인스타그램은 이용자의 안전을 위한 기능을 지속적으로 업데이트하고 있습니다. 다음 중 이용자의 안전을 위해 인스타그램이 도입한 기능이 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 19 Feb 2022 11:15:02 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 12:25:47 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->인스타그램은 이용자의 안전을 위한 기능을 지속적으로 업데이트하고 있습니다. 다음 중 이용자의 안전을 위해 인스타그램이 도입한 기능이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
