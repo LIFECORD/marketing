@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 22:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 23:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -189,18 +189,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[일머리 없는 사람 특징(머리가 나빠서가 아니다) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38415</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38415</guid>
-            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[리유님]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네이버, 새로운 광고상품 준비한다 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57188</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57188</guid>
             <pubDate>Mon, 14 Feb 2022 14:15:47 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일머리 없는 사람 특징(머리가 나빠서가 아니다) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38415</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38415</guid>
+            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리유님]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[식을 줄 모르는 인기, MBTI 마케팅 사례 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38356</guid>
             <pubDate>Wed, 09 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케터1995]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[2월 21일 마케팅 뉴스클리핑] 네이버, 유료 창작자 키우는 프리미엄 콘텐츠 개방 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8265</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8265</guid>
+            <pubDate>Mon, 21 Feb 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버, 유료 창작자 키우는 `프리미엄 콘텐츠` 개방  네이버가 프리미엄 콘텐츠를 정식 오픈, 누구나 수익을 창출할 수 있는 오픈 플랫폼으로 확장한다. 네이버는 지난해 5월 베타 출시한 후 현재 200개 이상 채널이 개설됐다 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_9e43790294e7066efc83a1a382493db5_1588_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코카콜라, 우주를 맛보고 느낄 수 있는 스타라이트 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c75eef6a12220546d86b2416c72dcd62_44467_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[중고 거래 많은 당근마켓서도 선물하기 확산... 80% 껑충 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8244</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8244</guid>
-            <pubDate>Wed, 16 Feb 2022 09:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[2020년 시작한 당근마켓 내 선물하기 판매량...지난해 판매량 전년 대비 80% 증가 전체 품목 170여개...3000~3만원대까지 저렴한 가격대 특징 당근마켓 수익화사업 성장 동력될까   당근마켓 내 선물하기 판매량이 전년 대비 80%가량  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[2월 21일 마케팅 뉴스클리핑] 네이버, 유료 창작자 키우는 '프리미엄 콘텐츠' 개방 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8265</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8265</guid>
+            <pubDate>Sun, 20 Feb 2022 23:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코카콜라, "우주"를 맛보고 느낄 수 있는 "스타라이트" 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[중고 거래 많은 당근마켓서도 선물하기 확산... 80% 껑충 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8244</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8244</guid>
-            <pubDate>Wed, 16 Feb 2022 09:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[다음 중 이미지에서 설명하는 세대와 거리가 먼 단어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Sun, 20 Feb 2022 23:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 중 이미지에서 설명하는 세대와 거리가 먼 단어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/895e61480370228ef8cd264f3742239d_16451492577638.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1365_1" value="1" class="AB-radio" id="PQ_BD5826_1365_1_0"><label for="PQ_BD5826_1365_1_0" id="label_PQ_BD5826_1365_1_0">(A) 욜드 세대</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1365_1" value="2" class="AB-radio" id="PQ_BD5826_1365_1_1"><label for="PQ_BD5826_1365_1_1" id="label_PQ_BD5826_1365_1_1">(B) 액티브 시니어</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1365_1" value="3" class="AB-radio" id="PQ_BD5826_1365_1_2"><label for="PQ_BD5826_1365_1_2" id="label_PQ_BD5826_1365_1_2">(C) 에코 세대</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1365_1" value="4" class="AB-radio" id="PQ_BD5826_1365_1_3"><label for="PQ_BD5826_1365_1_3" id="label_PQ_BD5826_1365_1_3">(D) 오팔 세대</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시, 임차 소상공인에 현금 100만원 지원한다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

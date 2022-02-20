@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-20T22:17:27.475Z</updated>
+    <updated>2022-02-20T23:18:12.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일머리 없는 사람 특징(머리가 나빠서가 아니다)]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38415</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38415"/>
-        <updated>2022-02-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[리유님]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[네이버, 새로운 광고상품 준비한다]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57188</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57188"/>
         <updated>2022-02-14T14:15:47.815Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일머리 없는 사람 특징(머리가 나빠서가 아니다)]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38415</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38415"/>
+        <updated>2022-02-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[리유님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[식을 줄 모르는 인기, MBTI 마케팅 사례]]></title>
