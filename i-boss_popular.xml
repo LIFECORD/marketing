@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-21T02:04:06.379Z</updated>
+    <updated>2022-02-21T03:18:58.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -181,18 +181,18 @@
         <content type="html"><![CDATA[마케톨로지]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[방탄소년단(BTS)이 성공한 진짜 이유는?(재미로 봐주..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57209</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57209"/>
-        <updated>2022-02-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[리유]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[혹시 저와 같은 피해 입으신분 있나요? 참다참다.. 써..]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38321</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38321"/>
         <updated>2022-02-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[윤묘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단(BTS)이 성공한 진짜 이유는?(재미로 봐주..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57209</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57209"/>
+        <updated>2022-02-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[리유]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[당첨자 발표] 2022년 1월 응모 이벤트]]></title>
