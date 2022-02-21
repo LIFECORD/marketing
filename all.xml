@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 01:00:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 02:04:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갈 곳을 잃은 맞춤형 광고 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/879017-%EA%B0%88_%EA%B3%B3%EC%9D%84_%EC%9E%83%EC%9D%80_%EB%A7%9E%EC%B6%A4%ED%98%95_%EA%B4%91%EA%B3%A0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/879017-%EA%B0%88_%EA%B3%B3%EC%9D%84_%EC%9E%83%EC%9D%80_%EB%A7%9E%EC%B6%A4%ED%98%95_%EA%B4%91%EA%B3%A0/</guid>
+            <pubDate>Mon, 21 Feb 2022 02:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/879017-갈_곳을_잃은_맞춤형_광고/">
+						<div class="thumb"><img src="/images/qletter_879017.png"></div>
+						<p><strong>갈 곳을 잃은 맞춤형 광고</strong>2022.02.21</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_879017.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[큐레터 님이 라방에 접속하셨습니다! (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/875647-%ED%81%90%EB%A0%88%ED%84%B0_%EB%8B%98%EC%9D%B4_%EB%9D%BC%EB%B0%A9%EC%97%90_%EC%A0%91%EC%86%8D%ED%95%98%EC%85%A8%EC%8A%B5%EB%8B%88%EB%8B%A4/</link>
@@ -129,17 +140,6 @@
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_827878.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[밋밋한 상품의 상페 기획 때문에 고민이에요 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/824534-%EB%B0%8B%EB%B0%8B%ED%95%9C_%EC%83%81%ED%92%88%EC%9D%98_%EC%83%81%ED%8E%98_%EA%B8%B0%ED%9A%8D_%EB%95%8C%EB%AC%B8%EC%97%90_%EA%B3%A0%EB%AF%BC%EC%9D%B4%EC%97%90%EC%9A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/824534-%EB%B0%8B%EB%B0%8B%ED%95%9C_%EC%83%81%ED%92%88%EC%9D%98_%EC%83%81%ED%8E%98_%EA%B8%B0%ED%9A%8D_%EB%95%8C%EB%AC%B8%EC%97%90_%EA%B3%A0%EB%AF%BC%EC%9D%B4%EC%97%90%EC%9A%94/</guid>
-            <pubDate>Thu, 06 Jan 2022 01:04:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/824534-밋밋한_상품의_상페_기획_때문에_고민이에요/">
-						<div class="thumb"><img src="/images/qletter_824534.png"></div>
-						<p><strong> 밋밋한 상품의 상페 기획 때문에 고민이에요</strong>2022.01.06</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_824534.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[無사수 분 들 보고서 필요하신분들 쓰세요~ (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38306</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38306</guid>
@@ -182,17 +182,17 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터에게 필요한 기획 습관 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-5637-29</link>
-            <guid>https://www.i-boss.co.kr/ab-5637-29</guid>
-            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네이버, 새로운 광고상품 준비한다 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57188</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57188</guid>
             <pubDate>Mon, 14 Feb 2022 14:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케터에게 필요한 기획 습관 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-5637-29</link>
+            <guid>https://www.i-boss.co.kr/ab-5637-29</guid>
+            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
@@ -593,28 +593,28 @@
             <title><![CDATA[대홍기획, 육아 휴직 후 직장 복귀를 앞둔 워킹맘 소비력을 분석한 "원더 이어" 리포트 발간 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8277</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8277</guid>
-            <pubDate>Mon, 21 Feb 2022 00:59:55 GMT</pubDate>
+            <pubDate>Mon, 21 Feb 2022 09:37:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[온라인 쇼핑, '식품' 카테고리 리뷰 작성 경향성 가장 높아 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8276</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8276</guid>
-            <pubDate>Mon, 21 Feb 2022 00:59:55 GMT</pubDate>
+            <pubDate>Mon, 21 Feb 2022 09:21:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[기업용 메시징 플랫폼 슬랙, 한국 첫 웨비나 ‘Slack Tour 2022 Korea’ 23일 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8275</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8275</guid>
-            <pubDate>Mon, 21 Feb 2022 00:59:55 GMT</pubDate>
+            <pubDate>Mon, 21 Feb 2022 09:13:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[해외 크리에이티브] 버버리와 The Face, 마커스 래시포드는 아이들을 위한 벽화를 만들다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8274</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8274</guid>
-            <pubDate>Mon, 21 Feb 2022 00:59:55 GMT</pubDate>
+            <pubDate>Mon, 21 Feb 2022 08:44:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 이미지에서 설명하는 세대와 거리가 먼 단어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 21 Feb 2022 01:00:06 GMT</pubDate>
+            <pubDate>Mon, 21 Feb 2022 02:03:56 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 이미지에서 설명하는 세대와 거리가 먼 단어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/895e61480370228ef8cd264f3742239d_16451492577638.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
