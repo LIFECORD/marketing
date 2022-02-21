@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 06:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 07:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -266,18 +266,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[매출 1도 문제 없는 대표님은 절대 클릭하지 마세요. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57157</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57157</guid>
-            <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[팀ROAS]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케팅에 대해 모른 어떤  오너의 하소연 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38427</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38427</guid>
             <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[식자재중개플렛폼]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[매출 1도 문제 없는 대표님은 절대 클릭하지 마세요. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57157</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57157</guid>
+            <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[팀ROAS]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[바쁜데 디자이너가 없어?+마케터도 10분이면 디자인.. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 이미지에서 설명하는 세대와 거리가 먼 단어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 21 Feb 2022 06:23:52 GMT</pubDate>
+            <pubDate>Mon, 21 Feb 2022 07:17:25 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 이미지에서 설명하는 세대와 거리가 먼 단어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/895e61480370228ef8cd264f3742239d_16451492577638.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
