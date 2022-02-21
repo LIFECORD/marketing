@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 22:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 23:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2월 22일 마케팅 뉴스클리핑] 합격자 수 1위 과장광고 에듀윌에 공정위 2.8억 과징금 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8278</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8278</guid>
+            <pubDate>Tue, 22 Feb 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. `합격자 수 1위` 과장광고 에듀윌에 공정위 2.8억 과징금  공정위는 표시광고법을 위반한 에듀윌에 시정명령과 함께 과징금 2억 8,600만 원을 부과하기로 결정했다고 밝혔다. 공정위 조사 결과 `합격자 수 1위`는 지난 2016년과 2017 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_f471492257c1ec8d003be2ddd8088412_58842_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대홍기획, 육아 휴직 후 직장 복귀를 앞둔 워킹맘 소비력을 분석한 원더 이어 리포트 발간]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8277</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8249</guid>
             <pubDate>Thu, 17 Feb 2022 09:50:00 GMT</pubDate>
             <content:encoded><![CDATA[모바일 마케팅 애널리틱스 플랫폼 애드저스트(Adjust)가17일 성장을 목표로 하는 앱 마케터를 위한 100만 앱 유저 달성 방법:궁극의 가이드1편을 발간했다. Adjust는 본 가이드를 통해 앱 성공에 필수적인 앱스토어 최적화(ASO)와 유료 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[Goodbye ViacomCBS!... ViacomCBS, 사명을 파라마운트로 변경하다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8248</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8248</guid>
-            <pubDate>Thu, 17 Feb 2022 08:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[ViacomCBS는회사명을 파라마운트(Paramount)로 2월 16일자로 변경한다.브랜드 변경은스트리밍의 주요 업체가 되려는 회사의 목표에 집중하기 위한 것이다. 밥 배키시 CEO는투자자 행사에서`스트리밍을 미래를 위한 지속 가능한 비즈니 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
