@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 14:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 15:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8248</guid>
             <pubDate>Thu, 17 Feb 2022 08:40:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다음 중 이미지에서 설명하는 세대와 거리가 먼 단어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 21 Feb 2022 14:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->다음 중 이미지에서 설명하는 세대와 거리가 먼 단어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/895e61480370228ef8cd264f3742239d_16451492577638.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1365_1" value="1" class="AB-radio" id="PQ_BD5826_1365_1_0"><label for="PQ_BD5826_1365_1_0" id="label_PQ_BD5826_1365_1_0">(A) 욜드 세대</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1365_1" value="2" class="AB-radio" id="PQ_BD5826_1365_1_1"><label for="PQ_BD5826_1365_1_1" id="label_PQ_BD5826_1365_1_1">(B) 액티브 시니어</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1365_1" value="3" class="AB-radio" id="PQ_BD5826_1365_1_2"><label for="PQ_BD5826_1365_1_2" id="label_PQ_BD5826_1365_1_2">(C) 에코 세대</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1365_1" value="4" class="AB-radio" id="PQ_BD5826_1365_1_3"><label for="PQ_BD5826_1365_1_3" id="label_PQ_BD5826_1365_1_3">(D) 오팔 세대</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시, 임차 소상공인에 현금 100만원 지원한다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
