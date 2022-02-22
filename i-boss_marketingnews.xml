@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 04:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 05:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아시아 최대 디지털 마케팅 엑스포 애드아시아 서울 2023 조직위원회 출범식 열려]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8287</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8287</guid>
+            <pubDate>Tue, 22 Feb 2022 05:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[(사)한국광고총연합회(회장 김낙회)는 2월 22일(화) 오전 10시 디지털 대전환 시대, 아시아 최대 마케터와 크리에이터들의 축제이자 디지털 플랫폼 및 IT애드테크, 빅데이터 등 디지털 기술기업과 스타트업의 비즈니스 교류의 장 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[ACE Talk] 각 시장에 대한 RELEVANCE를 찾아내는 것이 중요합니다 McCann Korea 김성중 대표]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8286</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8258</guid>
             <pubDate>Fri, 18 Feb 2022 08:45:00 GMT</pubDate>
             <content:encoded><![CDATA[세계적인 게임 개발사인 에픽게임즈가 디지털 창작 생태계에 대한 지난해 성과공유와 올해 기술 분야를 예상하는 리얼타임 종합: 메타버스와 2022년 트렌드를 공개했다. 에픽게임즈는 메타버스가 리얼타임 3D 기술을 토대로 인 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[덴츠, 2021년 예상을 뛰어넘는 13% 성장... 기술, 혁신 M&A에 20억 달러 이상 배정]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8257</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8257</guid>
-            <pubDate>Fri, 18 Feb 2022 08:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[덴츠는 작년4분기 14.2% 성장하며 2021년 한 해 동안 13.1%의 유기적 성장을 기록했다. 덴츠의가장 큰 성장 동력은 고객의 비즈니스 혁신 노력을 돕는 것이었다.덴츠는 이 부문의 역량을 확대하기 위해 3년(2022~24년) 동안 21억 ~ 26억  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
