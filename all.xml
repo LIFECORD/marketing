@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 08:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 09:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,18 +217,18 @@
             <content:encoded><![CDATA[재비]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빵쟁이가 마케터로 이직 후 벌써 N년, 하찮은 깨달음.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57097</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57097</guid>
-            <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[손맛]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케팅에 대해 모른 어떤  오너의 하소연 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38427</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38427</guid>
             <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[식자재중개플렛폼]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[빵쟁이가 마케터로 이직 후 벌써 N년, 하찮은 깨달음.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57097</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57097</guid>
+            <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[손맛]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SNS를 반드시 해야 하는 이유 (퍼거슨의 트인낭) (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[최근 인스타그램이 '프라이빗 스토리 라이크' 기능을 추가했습니다. 이 기능에 대한 설명으로 옳은 것은 무엇일까요?(hint: 2/16 뉴스클리핑에 정답이 숨어있어요~) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 22 Feb 2022 08:21:32 GMT</pubDate>
+            <pubDate>Tue, 22 Feb 2022 09:17:18 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 인스타그램이 '프라이빗 스토리 라이크' 기능을 추가했습니다. 이 기능에 대한 설명으로 옳은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8236" target="_blank">2/16 뉴스클리핑에 정답이 숨어있어요~</a>)</span></td>
 			</tr>
