@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 22:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 23:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2월 23일 마케팅 뉴스클리핑] 네이버, 라방선물하기 버티컬 커머스 서비스 더 키운다 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8288</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8288</guid>
+            <pubDate>Wed, 23 Feb 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버, 라방선물하기 버티컬 커머스 서비스 더 키운다  국내 이커머스 시장 성장이 둔화된 가운데, 이커머스 플랫폼 간 경쟁은 한층 더 격화될 것으로 예상된다. 이러한 상황에서 네이버는 올해 스마트스토어를 중심으로 라 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_125cca90c37493b7573291f589f5ac50_42834_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아시아 최대 디지털 마케팅 엑스포 애드아시아 서울 2023 조직위원회 출범식 열려]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8287</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Feb 2022 08:47:00 GMT</pubDate>
             <content:encoded><![CDATA[광고 모델 및 인플루언서의 영역은 넓어지고 다양해졌다. 전문적인 모델을 비롯, 배우, 가수, 엔터테이너, 문화예술인, 전문직 종사자는 물론, 일반인들도 모델과 인플루언서로 활동하고 있다. 매드타임스는피팅 모델, 피트니스 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0ad1ec4b6fc26a40b0e8f4d21d09cad2_89208_6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에픽게임즈, 디지털 창작 생태계 2021년 주요 성과와 2022년 트렌드 공개]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8258</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8258</guid>
-            <pubDate>Fri, 18 Feb 2022 08:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[세계적인 게임 개발사인 에픽게임즈가 디지털 창작 생태계에 대한 지난해 성과공유와 올해 기술 분야를 예상하는 리얼타임 종합: 메타버스와 2022년 트렌드를 공개했다. 에픽게임즈는 메타버스가 리얼타임 3D 기술을 토대로 인 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
