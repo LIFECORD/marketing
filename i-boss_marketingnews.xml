@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 02:05:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 03:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[ACE Talk] 각 시장에 대한 RELEVANCE를 찾아내는 것이 중요합니다 McCann Korea 김성중 대표]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8286</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8286</guid>
+            <pubDate>Tue, 22 Feb 2022 11:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국광고학회(회장 안대천 인하대 교수)는 지난 2월 18일 광고계 대표기업 CEO대담 프로그램 ACE Talk 아홉 번째 시간으로 McCann Korea 김성중 대표와 한국외대 김유경 교수와의 대담을 진행했다. 김성중 대표는 31년의 광고 커리어 중  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[한국PR협회, 메타버스 시대, 우리의 역할을 주제로 PR 피플 토크 개최]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8285</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8257</guid>
             <pubDate>Fri, 18 Feb 2022 08:44:00 GMT</pubDate>
             <content:encoded><![CDATA[덴츠는 작년4분기 14.2% 성장하며 2021년 한 해 동안 13.1%의 유기적 성장을 기록했다. 덴츠의가장 큰 성장 동력은 고객의 비즈니스 혁신 노력을 돕는 것이었다.덴츠는 이 부문의 역량을 확대하기 위해 3년(2022~24년) 동안 21억 ~ 26억  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[신중년도 가치 소비 나선다... 친환경 패션 구매 의향 75.9%]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8256</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8256</guid>
-            <pubDate>Fri, 18 Feb 2022 08:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[우리나라 신중년이친환경 패션을 구매할 의향이 75.9%에 이르는 것으로 조사됐다. 시니어 소셜벤처 임팩트피플스(대표 신철호)가 2021년 9월 2일부터 9월 9일까지 50세 이상, 238명을 대상으로 신중년의 친환경 패션 트렌드를 조사한 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
