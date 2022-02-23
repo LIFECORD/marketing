@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-22T23:18:20.020Z</updated>
+    <updated>2022-02-23T01:07:57.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마케팅 레퍼런스 영상 똑똑하게 찾는 법, 유튜브 숨..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57193</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57193"/>
-        <updated>2022-02-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[재비]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[마케팅에 대해 모른 어떤  오너의 하소연]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38427</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38427"/>
         <updated>2022-02-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[식자재중개플렛폼]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마케팅 레퍼런스 영상 똑똑하게 찾는 법, 유튜브 숨..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57193</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57193"/>
+        <updated>2022-02-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[재비]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빵쟁이가 마케터로 이직 후 벌써 N년, 하찮은 깨달음..]]></title>
@@ -132,13 +132,6 @@
         <content type="html"><![CDATA[둥근마을]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쓰레기도 줍고, 관심도 얻고]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57073</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57073"/>
-        <updated>2022-01-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[바쁜데 디자이너가 없어?+마케터도 10분이면 디자인..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57087</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57087"/>
@@ -174,6 +167,13 @@
         <content type="html"><![CDATA[Jazzy]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[시간 아끼실 대표님이 알면 좋은 사이트 7개]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57243</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57243"/>
+        <updated>2022-02-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[인프피]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[검색의도란 무엇이고 왜 알아야 하는가]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57170</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57170"/>
@@ -202,17 +202,17 @@
         <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[초보마케터]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38396</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38396"/>
-        <updated>2022-02-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[마뇨리따]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[애플처럼 구글도 '맞춤형 광고' 위한 앱 추적 막는다]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57230</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57230"/>
         <updated>2022-02-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[초보마케터]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38396</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38396"/>
+        <updated>2022-02-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[마뇨리따]]></content>
     </entry>
 </feed>
