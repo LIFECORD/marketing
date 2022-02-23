@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-23T01:07:57.401Z</updated>
+    <updated>2022-02-23T02:35:05.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -146,6 +146,13 @@
         <content type="html"><![CDATA[팀ROAS]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[시간 아끼실 대표님이 알면 좋은 사이트 7개]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57243</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57243"/>
+        <updated>2022-02-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[인프피]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[스마트스토어 매출 2배 올려주는 핵심 3요소]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57098</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57098"/>
@@ -165,13 +172,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38365"/>
         <updated>2022-02-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[Jazzy]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시간 아끼실 대표님이 알면 좋은 사이트 7개]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57243</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57243"/>
-        <updated>2022-02-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[인프피]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[검색의도란 무엇이고 왜 알아야 하는가]]></title>

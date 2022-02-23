@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 01:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 02:35:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글 X 네이버웹툰 X 한국콘텐츠진흥원, K-웹툰 게임화 및 해외진출 지원 위해 손잡다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8292</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8292</guid>
+            <pubDate>Wed, 23 Feb 2022 11:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[구글플레이와 네이버웹툰,한국콘텐츠진흥원이 한국 중소 개발사의 네이버웹툰IP기반 게임 개발을 지원하기 위해 힘을 모은다.구글은 네이버웹툰,한국콘텐츠진흥원과 함께 판교 네이버웹툰 사옥에서 열린 협약식에서 글로벌  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[Global Creative] 노잼 도시? 유잼 로컬스토리!]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8291</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Feb 2022 10:13:00 GMT</pubDate>
             <content:encoded><![CDATA[베타 테스트 기간 총 거래액 4.8억월 1000만원 돌파한 채널도 등장   네이버가 유료 콘텐츠 플랫폼 프리미엄콘텐츠를 정식으로 오픈했다. 경쟁력 있는 콘텐츠만 있다면 누구나 수익을 창출할 수 있는 오픈 플랫폼으로 확장한다.   ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_26fd60b8b54562864c5c5b0a000b0a8a_96748_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[옷을 통해 느끼는 일상의 즐거움... 유니클로, 2022 Spring/Summer 라이프웨어 매거진 발간]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8262</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8262</guid>
-            <pubDate>Fri, 18 Feb 2022 09:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 패션 브랜드 유니클로(UNIQLO)가 옷을 입는 즐거움(Joys of Clothing)을 테마로 2022 SS 시즌 라이프웨어 매거진을 발간했다. 라이프웨어 매거진은 옷을 통해 모든 사람들의 일상을 보다 풍요롭고 편안하게 만들고자 하는 유니 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
