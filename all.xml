@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 08:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 09:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,18 +224,18 @@
             <content:encoded><![CDATA[재비]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빵쟁이가 마케터로 이직 후 벌써 N년, 하찮은 깨달음.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57097</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57097</guid>
-            <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[손맛]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[`블로그체험단 효과 없는 이유가 이거였어?` 체험단 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57212</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57212</guid>
             <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[용서할게이츠]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[빵쟁이가 마케터로 이직 후 벌써 N년, 하찮은 깨달음.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57097</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57097</guid>
+            <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[손맛]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SNS를 반드시 해야 하는 이유 (퍼거슨의 트인낭) (아이보스 ─ 인기글)]]></title>
@@ -245,18 +245,18 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[사수 없이 성장하기. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38265</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38265</guid>
-            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[규S]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[시간 아끼실 대표님이 알면 좋은 사이트 7개 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57243</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57243</guid>
             <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[인프피]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사수 없이 성장하기. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38265</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38265</guid>
+            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[규S]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[매출 2배, 이것만 해도 가능합니다. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[새로운 기술이나 상품이 출시된 다음, 대중화되기 전까지 수요가 정체되거나 후퇴되어 단절이 일어나는 현상을 일컫는 말은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 23 Feb 2022 08:20:41 GMT</pubDate>
+            <pubDate>Wed, 23 Feb 2022 09:15:25 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->새로운 기술이나 상품이 출시된 다음, 대중화되기 전까지 수요가 정체되거나 후퇴되어 단절이 일어나는 현상을 일컫는 말은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
