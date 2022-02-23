@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 22:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 23:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,18 +224,18 @@
             <content:encoded><![CDATA[식자재중개플렛폼]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[`블로그체험단 효과 없는 이유가 이거였어?` 체험단 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57212</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57212</guid>
-            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[용서할게이츠]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[시간 아끼실 대표님이 알면 좋은 사이트 7개 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57243</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57243</guid>
             <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[인프피]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[`블로그체험단 효과 없는 이유가 이거였어?` 체험단 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57212</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57212</guid>
+            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[용서할게이츠]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빵쟁이가 마케터로 이직 후 벌써 N년, 하찮은 깨달음.. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38396</guid>
             <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마뇨리따]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[2월 24일 마케팅 뉴스클리핑] 메타, 숏폼 페이스북 릴스 공식 출시 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8293</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8293</guid>
+            <pubDate>Thu, 24 Feb 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 메타, 숏폼 `페이스북 릴스` 공식 출시  메타가 페이스북 앱에서 숏폼 기능 `릴스`를 공식 출시한다. 페이스북은 이미 피드에서 릴스 기능을 시범 적용해왔다. 이번 공식 출시로 페이스북 릴스는 150여 개국에 도입된다. 페이스 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_aa4146bccb104eb5f9eacc377d1b8312_54941_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NHN AD 마케팅 솔루션 more로 고객사 매출 최대 33억원 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[해외 크리에이티브] 다운증후군 여성이 빅토리아 시크릿 모델이 되다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8266</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8266</guid>
-            <pubDate>Sat, 19 Feb 2022 09:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[빅토리아 시크릿의 변화가 확실히 눈에 띄고 있다. 빅토리아 시크릿은수십 년 동안 쌓아온 섹시 이미지에서 벗어나체형, 크기, 배경의 여성을 위한 란제리 제작에 집중하겠다고 발표했다. 그 일환으로 작년 처음으로 축구 선수 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[2월 24일 마케팅 뉴스클리핑] 메타, 숏폼 '페이스북 릴스' 공식 출시 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8293</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8293</guid>
+            <pubDate>Wed, 23 Feb 2022 23:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NHN AD 마케팅 솔루션 ‘more’로 고객사 매출 최대 33억원↑ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[해외 크리에이티브] 다운증후군 여성이 빅토리아 시크릿 모델이 되다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8266</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8266</guid>
-            <pubDate>Sat, 19 Feb 2022 09:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[다음 대화의 빈칸에 들어갈 말로 올바른 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Wed, 23 Feb 2022 23:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 대화의 빈칸에 들어갈 말로 올바른 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/895e61480370228ef8cd264f3742239d_16451517728946.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1368_1" value="1" class="AB-radio" id="PQ_BD5826_1368_1_0"><label for="PQ_BD5826_1368_1_0" id="label_PQ_BD5826_1368_1_0">(A)〈head〉태그 바로 뒤</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1368_1" value="2" class="AB-radio" id="PQ_BD5826_1368_1_1"><label for="PQ_BD5826_1368_1_1" id="label_PQ_BD5826_1368_1_1">(B)〈/head〉태그 바로 앞</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1368_1" value="3" class="AB-radio" id="PQ_BD5826_1368_1_2"><label for="PQ_BD5826_1368_1_2" id="label_PQ_BD5826_1368_1_2">(C)〈body〉태그 바로 뒤</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1368_1" value="4" class="AB-radio" id="PQ_BD5826_1368_1_3"><label for="PQ_BD5826_1368_1_3" id="label_PQ_BD5826_1368_1_3">(D)〈/body〉태그 바로 앞</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[행안부, 영업제한 소상공인 지방세 납기 연장·징수유예 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

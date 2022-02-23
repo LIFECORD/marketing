@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 22:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 23:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2월 24일 마케팅 뉴스클리핑] 메타, 숏폼 페이스북 릴스 공식 출시 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8293</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8293</guid>
+            <pubDate>Thu, 24 Feb 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 메타, 숏폼 `페이스북 릴스` 공식 출시  메타가 페이스북 앱에서 숏폼 기능 `릴스`를 공식 출시한다. 페이스북은 이미 피드에서 릴스 기능을 시범 적용해왔다. 이번 공식 출시로 페이스북 릴스는 150여 개국에 도입된다. 페이스 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_aa4146bccb104eb5f9eacc377d1b8312_54941_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NHN AD 마케팅 솔루션 more로 고객사 매출 최대 33억원]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8295</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8267</guid>
             <pubDate>Sat, 19 Feb 2022 09:33:00 GMT</pubDate>
             <content:encoded><![CDATA[미국 애드마켓 트래커에 따르면, 올해 1월 광고비가 전년 동월 대비19.2% 급증,미국 광고 시장에서 코로나 이후 11개월 연속 성장했다. 특히 지난 8월 이후 둔화되던 미국 광고시장이 급격한 성장으로 전환됐다. 애드마켓 트래커는 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외 크리에이티브] 다운증후군 여성이 빅토리아 시크릿 모델이 되다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8266</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8266</guid>
-            <pubDate>Sat, 19 Feb 2022 09:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[빅토리아 시크릿의 변화가 확실히 눈에 띄고 있다. 빅토리아 시크릿은수십 년 동안 쌓아온 섹시 이미지에서 벗어나체형, 크기, 배경의 여성을 위한 란제리 제작에 집중하겠다고 발표했다. 그 일환으로 작년 처음으로 축구 선수 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
