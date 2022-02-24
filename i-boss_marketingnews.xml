@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 07:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 08:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KPR, 제19회 KPR 대학생 PR 아이디어 공모전 시상]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8303</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8303</guid>
+            <pubDate>Thu, 24 Feb 2022 08:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[종합 커뮤니케이션 그룹KPR(사장 김주호)이 제19회KPR대학생PR아이디어 공모전의 수상자를 발표했다.영예의 대상은 경희대 이성민,성균관대 유도희,성신여대 이신영,연세대 이지호 학생 팀이 수상했다. KPR공모전은 총 상금1,200만 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[스마일리, 캐롤리나 헤레라 등 50 여개 브랜드와의 콜렉터스 에디션 공개]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8301</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 21 Feb 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 네이버, 유료 창작자 키우는 `프리미엄 콘텐츠` 개방  네이버가 프리미엄 콘텐츠를 정식 오픈, 누구나 수익을 창출할 수 있는 오픈 플랫폼으로 확장한다. 네이버는 지난해 5월 베타 출시한 후 현재 200개 이상 채널이 개설됐다 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_9e43790294e7066efc83a1a382493db5_1588_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코카콜라, 우주를 맛보고 느낄 수 있는 스타라이트 출시]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8273</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8273</guid>
-            <pubDate>Sun, 20 Feb 2022 09:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[우주는어떤 느낌, 냄새, 맛이 날까? 코카콜라는 이러한 질문에 새로운 한정판 음료인 `스타라이트(Starlight)`로 대답했다. 코카콜라는 한정판 실험적인 맛과 수반되는 디지털 및 실제 경험을 지속적으로 소개하는 새로운 Coca-Cola Cr ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

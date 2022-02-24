@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 07:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 08:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,6 +252,13 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[우리가 돈이 없지 열정이 없냐 (to. 가난한 회사의 마.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-5637-30</link>
+            <guid>https://www.i-boss.co.kr/ab-5637-30</guid>
+            <pubDate>Thu, 24 Feb 2022 04:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[매출 2배, 이것만 해도 가능합니다. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57108</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57108</guid>
@@ -266,11 +273,11 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우리가 돈이 없지 열정이 없냐 (to. 가난한 회사의 마.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-5637-30</link>
-            <guid>https://www.i-boss.co.kr/ab-5637-30</guid>
-            <pubDate>Thu, 24 Feb 2022 04:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
+            <title><![CDATA[[마케팅밈] 연말정산하는 마케터 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38485</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38485</guid>
+            <pubDate>Thu, 24 Feb 2022 05:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[매출 1도 문제 없는 대표님은 절대 클릭하지 마세요. (아이보스 ─ 인기글)]]></title>
@@ -280,18 +287,11 @@
             <content:encoded><![CDATA[팀ROAS]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마케팅밈] 연말정산하는 마케터 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38485</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38485</guid>
-            <pubDate>Thu, 24 Feb 2022 05:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[은행에서 월세 입금하고  나온 뒤  조금  걷다가 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38252</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38252</guid>
-            <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[zuro59]]></content:encoded>
+            <title><![CDATA[마케터가  능력치를 올리는 방법과 전문직 취급을 받.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38365</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38365</guid>
+            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Jazzy]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[애플처럼 구글도 '맞춤형 광고' 위한 앱 추적 막는다 (아이보스 ─ 인기글)]]></title>
@@ -301,11 +301,11 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터가  능력치를 올리는 방법과 전문직 취급을 받.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38365</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38365</guid>
-            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Jazzy]]></content:encoded>
+            <title><![CDATA[은행에서 월세 입금하고  나온 뒤  조금  걷다가 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38252</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38252</guid>
+            <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[zuro59]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[검색의도란 무엇이고 왜 알아야 하는가 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38396</guid>
             <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마뇨리따]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KPR, 제19회 KPR 대학생 PR 아이디어 공모전 시상 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8303</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8303</guid>
+            <pubDate>Thu, 24 Feb 2022 08:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[종합 커뮤니케이션 그룹KPR(사장 김주호)이 제19회KPR대학생PR아이디어 공모전의 수상자를 발표했다.영예의 대상은 경희대 이성민,성균관대 유도희,성신여대 이신영,연세대 이지호 학생 팀이 수상했다. KPR공모전은 총 상금1,200만 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[스마일리, 캐롤리나 헤레라 등 50 여개 브랜드와의 콜렉터스 에디션 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,18 +590,17 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_9e43790294e7066efc83a1a382493db5_1588_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코카콜라, 우주를 맛보고 느낄 수 있는 스타라이트 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8273</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8273</guid>
-            <pubDate>Sun, 20 Feb 2022 09:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[우주는어떤 느낌, 냄새, 맛이 날까? 코카콜라는 이러한 질문에 새로운 한정판 음료인 `스타라이트(Starlight)`로 대답했다. 코카콜라는 한정판 실험적인 맛과 수반되는 디지털 및 실제 경험을 지속적으로 소개하는 새로운 Coca-Cola Cr ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[KPR, ‘제19회 KPR 대학생 PR 아이디어 공모전’ 시상 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8303</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8303</guid>
+            <pubDate>Thu, 24 Feb 2022 08:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스마일리, 캐롤리나 헤레라 등 50 여개 브랜드와의 ‘콜렉터스 에디션’ 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8301</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8301</guid>
-            <pubDate>Thu, 24 Feb 2022 07:16:22 GMT</pubDate>
+            <pubDate>Thu, 24 Feb 2022 07:16:12 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코카콜라, "우주"를 맛보고 느낄 수 있는 "스타라이트" 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8273</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8273</guid>
-            <pubDate>Sun, 20 Feb 2022 09:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 대화의 빈칸에 들어갈 말로 올바른 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 24 Feb 2022 07:16:33 GMT</pubDate>
+            <pubDate>Thu, 24 Feb 2022 08:20:26 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 대화의 빈칸에 들어갈 말로 올바른 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/895e61480370228ef8cd264f3742239d_16451517728946.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

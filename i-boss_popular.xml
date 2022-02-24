@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-24T07:16:42.766Z</updated>
+    <updated>2022-02-24T08:20:34.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -118,6 +118,13 @@
         <content type="html"><![CDATA[둥근마을]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[우리가 돈이 없지 열정이 없냐 (to. 가난한 회사의 마..]]></title>
+        <id>https://www.i-boss.co.kr/ab-5637-30</id>
+        <link href="https://www.i-boss.co.kr/ab-5637-30"/>
+        <updated>2022-02-24T04:23:46.923Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[매출 2배, 이것만 해도 가능합니다.]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57108</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57108"/>
@@ -132,11 +139,11 @@
         <content type="html"><![CDATA[둥근마을]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리가 돈이 없지 열정이 없냐 (to. 가난한 회사의 마..]]></title>
-        <id>https://www.i-boss.co.kr/ab-5637-30</id>
-        <link href="https://www.i-boss.co.kr/ab-5637-30"/>
-        <updated>2022-02-24T04:23:46.923Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
+        <title type="html"><![CDATA[[마케팅밈] 연말정산하는 마케터]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38485</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38485"/>
+        <updated>2022-02-24T05:15:43.630Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[매출 1도 문제 없는 대표님은 절대 클릭하지 마세요.]]></title>
@@ -146,18 +153,11 @@
         <content type="html"><![CDATA[팀ROAS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[마케팅밈] 연말정산하는 마케터]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38485</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38485"/>
-        <updated>2022-02-24T05:15:43.630Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은행에서 월세 입금하고  나온 뒤  조금  걷다가]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38252</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38252"/>
-        <updated>2022-01-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[zuro59]]></content>
+        <title type="html"><![CDATA[마케터가  능력치를 올리는 방법과 전문직 취급을 받..]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38365</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38365"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Jazzy]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플처럼 구글도 '맞춤형 광고' 위한 앱 추적 막는다]]></title>
@@ -167,11 +167,11 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마케터가  능력치를 올리는 방법과 전문직 취급을 받..]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38365</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38365"/>
-        <updated>2022-02-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Jazzy]]></content>
+        <title type="html"><![CDATA[은행에서 월세 입금하고  나온 뒤  조금  걷다가]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38252</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38252"/>
+        <updated>2022-01-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[zuro59]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[검색의도란 무엇이고 왜 알아야 하는가]]></title>
