@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 01:04:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 02:37:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -189,18 +189,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버, 새로운 광고상품 준비한다 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57188</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57188</guid>
-            <pubDate>Mon, 14 Feb 2022 14:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[일머리 없는 사람 특징(머리가 나빠서가 아니다) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38415</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38415</guid>
             <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[리유님]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네이버, 새로운 광고상품 준비한다 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57188</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57188</guid>
+            <pubDate>Mon, 14 Feb 2022 14:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[식을 줄 모르는 인기, MBTI 마케팅 사례 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,22 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38396</guid>
             <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마뇨리따]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[버드뷰 화해, AI가 나한테 꼭 필요한 리뷰만 찾아준다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8299</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8299</guid>
+            <pubDate>Thu, 24 Feb 2022 11:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[버드뷰(대표 이웅)가 운영하는 뷰티 앱 화해는 사용자에게 필요한 핵심 리뷰만 요약해 보여주는 `리뷰 토픽` 기능을 오픈했다고 24일 밝혔다.  리뷰 토픽은 화해 앱 내 600만 건 이상의 화장품 리뷰를 AI가 분석해 사용자가 찾는  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16456691624914.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[앱러빈, 사이버보안업체 HUMAN과 전략적 파트너십 체결 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8298</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8298</guid>
+            <pubDate>Thu, 24 Feb 2022 11:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅 소프트웨어 선도 기업 앱러빈 (AppLovin Corporation (NASDAQ: APP))과 사이버보안 글로벌 리더인HUMAN Security, Inc.(구White Ops)이앱러빈의 수익화 및 마케팅 소프트웨어 솔루션에 트래픽 품질 보호 기능을 제공하기 위한 파트너십을  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[KT 기가지니, 신중년이 선호하는 AI 스피커 1위... 선호 기능은 음성명령, 노인 돌봄에는 긴급 SOS (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -574,33 +590,31 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2021년 가장 빠르게 성장한 브랜드 Top 20 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8270</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8270</guid>
-            <pubDate>Sun, 20 Feb 2022 09:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[인터브랜드는 `Best Global Brands` 보고서를 발표했다. 이 보고서에 따르면, 테슬라가지난 한 해 동안 가장 빠르게 성장한 브랜드로 선정됐다. 테슬라는인터브랜드가 선정한 최고의 글로벌 브랜드 조사에서 순위가 급상승했고, 브랜 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[버드뷰 화해, AI가 나한테 꼭 필요한 리뷰만 찾아준다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8299</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8299</guid>
+            <pubDate>Thu, 24 Feb 2022 02:36:37 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케팅&광고 대학생 연합 동아리 MADLeap 매드립 창단... 3월 6일까지 신입부원 모집 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8269</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8269</guid>
-            <pubDate>Sat, 19 Feb 2022 09:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅과 광고에 관심이 많은 대학생들이 모여 탄생한 대학생 연합 동아리 MADLeap 매드립에서 신입 부원을 모집한다. 코로나19 장기화라는 어려운 시기에 대학생들이 힘을 합쳐 동아리를 만들어냈다는 점에서 주목할만하다. MADLe ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[앱러빈, 사이버보안업체 HUMAN과 전략적 파트너십 체결 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8298</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8298</guid>
+            <pubDate>Thu, 24 Feb 2022 02:36:37 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KT 기가지니, 신중년이 선호하는 AI 스피커 1위... 선호 기능은 음성명령, 노인 돌봄에는 긴급 SOS (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8297</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8297</guid>
-            <pubDate>Thu, 24 Feb 2022 01:04:32 GMT</pubDate>
+            <pubDate>Thu, 24 Feb 2022 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[트렌드모니터] 코로나19가 바꾼 가족의 풍경, "명절 스트레스 줄고, 마음의 거리는 더 멀어져" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8296</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8296</guid>
-            <pubDate>Thu, 24 Feb 2022 01:04:32 GMT</pubDate>
+            <pubDate>Thu, 24 Feb 2022 08:59:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021년 가장 빠르게 성장한 브랜드 Top 20 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8270</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8270</guid>
-            <pubDate>Sun, 20 Feb 2022 09:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마케팅&광고 대학생 연합 동아리 “MADLeap 매드립” 창단... 3월 6일까지 신입부원 모집 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8269</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8269</guid>
-            <pubDate>Sat, 19 Feb 2022 09:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 대화의 빈칸에 들어갈 말로 올바른 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 24 Feb 2022 01:04:44 GMT</pubDate>
+            <pubDate>Thu, 24 Feb 2022 02:36:51 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 대화의 빈칸에 들어갈 말로 올바른 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/895e61480370228ef8cd264f3742239d_16451517728946.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
