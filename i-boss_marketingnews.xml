@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 05:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 07:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스마일리, 캐롤리나 헤레라 등 50 여개 브랜드와의 콜렉터스 에디션 공개]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8301</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8301</guid>
+            <pubDate>Thu, 24 Feb 2022 07:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[올해로50주년을 맞이한 긍정과 희망의 아이콘 스마일리(Smiley)가 전 세계50개 이상의 브랜드와 컬래버레이션을 진행한 스마일리 콜렉터스 에디션을24일 공개했다. 이번 콜렉터스 에디션은 라프 시몬스(Raf Simons),팜 엔젤스(Palm Angel ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[최선목 한화 사장, 제14대 한국광고주협회장 선임]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8300</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 20 Feb 2022 09:29:00 GMT</pubDate>
             <content:encoded><![CDATA[우주는어떤 느낌, 냄새, 맛이 날까? 코카콜라는 이러한 질문에 새로운 한정판 음료인 `스타라이트(Starlight)`로 대답했다. 코카콜라는 한정판 실험적인 맛과 수반되는 디지털 및 실제 경험을 지속적으로 소개하는 새로운 Coca-Cola Cr ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 광고회사 패밀리 트리]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8272</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8272</guid>
-            <pubDate>Sun, 20 Feb 2022 09:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[출처 R3   광고 및 에이전시 매니지먼트 컨설턴트 R3가 세계 마케팅 에이전시 생태계를 보여주는 글로벌 `Agency Family Tree`2022년 판을 발간했다. 올해에는 세계 주요 지주회사뿐 아니라,컨설팅 회사와 S4, 에델만, 브랜드테크(옛 You &amp;  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a099973322c3a2c9483ae32899e56e7c_27793_6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 05:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 07:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,18 +203,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[식을 줄 모르는 인기, MBTI 마케팅 사례 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57173</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57173</guid>
-            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[시간 아끼실 대표님이 알면 좋은 사이트 7개 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57243</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57243</guid>
             <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[인프피]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[식을 줄 모르는 인기, MBTI 마케팅 사례 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57173</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57173</guid>
+            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케팅에 대해 모른 어떤  오너의 하소연 (아이보스 ─ 인기글)]]></title>
@@ -238,18 +238,18 @@
             <content:encoded><![CDATA[용서할게이츠]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SNS를 반드시 해야 하는 이유 (퍼거슨의 트인낭) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57114</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57114</guid>
-            <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[사수 없이 성장하기. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38265</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38265</guid>
             <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[규S]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SNS를 반드시 해야 하는 이유 (퍼거슨의 트인낭) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57114</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57114</guid>
+            <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[매출 2배, 이것만 해도 가능합니다. (아이보스 ─ 인기글)]]></title>
@@ -266,11 +266,25 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[우리가 돈이 없지 열정이 없냐 (to. 가난한 회사의 마.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-5637-30</link>
+            <guid>https://www.i-boss.co.kr/ab-5637-30</guid>
+            <pubDate>Thu, 24 Feb 2022 04:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[매출 1도 문제 없는 대표님은 절대 클릭하지 마세요. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57157</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57157</guid>
             <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[팀ROAS]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[마케팅밈] 연말정산하는 마케터 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38485</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38485</guid>
+            <pubDate>Thu, 24 Feb 2022 05:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[은행에서 월세 입금하고  나온 뒤  조금  걷다가 (아이보스 ─ 인기글)]]></title>
@@ -329,13 +343,6 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우리가 돈이 없지 열정이 없냐 (to. 가난한 회사의 마.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-5637-30</link>
-            <guid>https://www.i-boss.co.kr/ab-5637-30</guid>
-            <pubDate>Thu, 24 Feb 2022 04:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[초보마케터 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38396</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38396</guid>
@@ -343,11 +350,12 @@
             <content:encoded><![CDATA[마뇨리따]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마케팅밈] 연말정산하는 마케터 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38485</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38485</guid>
-            <pubDate>Thu, 24 Feb 2022 05:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[스마일리, 캐롤리나 헤레라 등 50 여개 브랜드와의 콜렉터스 에디션 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8301</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8301</guid>
+            <pubDate>Thu, 24 Feb 2022 07:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[올해로50주년을 맞이한 긍정과 희망의 아이콘 스마일리(Smiley)가 전 세계50개 이상의 브랜드와 컬래버레이션을 진행한 스마일리 콜렉터스 에디션을24일 공개했다. 이번 콜렉터스 에디션은 라프 시몬스(Raf Simons),팜 엔젤스(Palm Angel ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[최선목 한화 사장, 제14대 한국광고주협회장 선임 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2022년 광고회사 패밀리 트리 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8272</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8272</guid>
-            <pubDate>Sun, 20 Feb 2022 09:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[출처 R3   광고 및 에이전시 매니지먼트 컨설턴트 R3가 세계 마케팅 에이전시 생태계를 보여주는 글로벌 `Agency Family Tree`2022년 판을 발간했다. 올해에는 세계 주요 지주회사뿐 아니라,컨설팅 회사와 S4, 에델만, 브랜드테크(옛 You &amp;  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a099973322c3a2c9483ae32899e56e7c_27793_6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[스마일리, 캐롤리나 헤레라 등 50 여개 브랜드와의 ‘콜렉터스 에디션’ 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8301</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8301</guid>
+            <pubDate>Thu, 24 Feb 2022 07:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[최선목 한화 사장, 제14대 한국광고주협회장 선임 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년 광고회사 패밀리 트리 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8272</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8272</guid>
-            <pubDate>Sun, 20 Feb 2022 09:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 대화의 빈칸에 들어갈 말로 올바른 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 24 Feb 2022 05:16:18 GMT</pubDate>
+            <pubDate>Thu, 24 Feb 2022 07:16:33 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 대화의 빈칸에 들어갈 말로 올바른 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/895e61480370228ef8cd264f3742239d_16451517728946.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
