@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 02:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 03:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최선목 한화 사장, 제14대 한국광고주협회장 선임]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8300</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8300</guid>
+            <pubDate>Thu, 24 Feb 2022 11:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국광고주협회는 2022년 2월 24일(목) 11시 30분 플라자호텔에서 제34회 정기총회를 개최하고, 제14대 신임 회장에 최선목 전 한화 커뮤니케이션위원회 사장, 상근부회장에 노승만 전 삼성물산 부사장을 선임했다. 최선목 회장은  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[버드뷰 화해, AI가 나한테 꼭 필요한 리뷰만 찾아준다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8299</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 20 Feb 2022 09:28:00 GMT</pubDate>
             <content:encoded><![CDATA[출처 R3   광고 및 에이전시 매니지먼트 컨설턴트 R3가 세계 마케팅 에이전시 생태계를 보여주는 글로벌 `Agency Family Tree`2022년 판을 발간했다. 올해에는 세계 주요 지주회사뿐 아니라,컨설팅 회사와 S4, 에델만, 브랜드테크(옛 You &amp;  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a099973322c3a2c9483ae32899e56e7c_27793_6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[월마트, 광고 사업 130% 성장한 21억 달러 기록]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8271</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8271</guid>
-            <pubDate>Sun, 20 Feb 2022 09:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[실적 발표에 따르면,월마트의 광고 사업은 월마트가 마케팅 기술 스택을 확장함에 따라 작년에 130% 성장한 21억 달러의 수익을 올렸다. 월마트가 처음으로 실적 보고서에서 광고 재무를 분류했다. 미국에서 월마트 커넥트(Walmart  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

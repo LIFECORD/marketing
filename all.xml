@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 02:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 03:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,6 +210,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[시간 아끼실 대표님이 알면 좋은 사이트 7개 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57243</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57243</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[인프피]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[마케팅 레퍼런스 영상 똑똑하게 찾는 법, 유튜브 숨.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57193</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57193</guid>
@@ -224,25 +231,11 @@
             <content:encoded><![CDATA[식자재중개플렛폼]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시간 아끼실 대표님이 알면 좋은 사이트 7개 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57243</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57243</guid>
-            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[인프피]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[`블로그체험단 효과 없는 이유가 이거였어?` 체험단 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57212</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57212</guid>
             <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[용서할게이츠]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빵쟁이가 마케터로 이직 후 벌써 N년, 하찮은 깨달음.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57097</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57097</guid>
-            <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[손맛]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SNS를 반드시 해야 하는 이유 (퍼거슨의 트인낭) (아이보스 ─ 인기글)]]></title>
@@ -294,18 +287,18 @@
             <content:encoded><![CDATA[zuro59]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터가  능력치를 올리는 방법과 전문직 취급을 받.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38365</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38365</guid>
-            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Jazzy]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[애플처럼 구글도 '맞춤형 광고' 위한 앱 추적 막는다 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57230</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57230</guid>
             <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케터가  능력치를 올리는 방법과 전문직 취급을 받.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38365</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38365</guid>
+            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Jazzy]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[검색의도란 무엇이고 왜 알아야 하는가 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +341,21 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38396</guid>
             <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마뇨리따]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[입사 4개월차 인하우스 마케팅 신입 고민입니다. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38356</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38356</guid>
+            <pubDate>Wed, 09 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케터1995]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[최선목 한화 사장, 제14대 한국광고주협회장 선임 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8300</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8300</guid>
+            <pubDate>Thu, 24 Feb 2022 11:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국광고주협회는 2022년 2월 24일(목) 11시 30분 플라자호텔에서 제34회 정기총회를 개최하고, 제14대 신임 회장에 최선목 전 한화 커뮤니케이션위원회 사장, 상근부회장에 노승만 전 삼성물산 부사장을 선임했다. 최선목 회장은  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[버드뷰 화해, AI가 나한테 꼭 필요한 리뷰만 찾아준다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,25 +590,24 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a099973322c3a2c9483ae32899e56e7c_27793_6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[월마트, 광고 사업 130% 성장한 21억 달러 기록 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8271</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8271</guid>
-            <pubDate>Sun, 20 Feb 2022 09:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[실적 발표에 따르면,월마트의 광고 사업은 월마트가 마케팅 기술 스택을 확장함에 따라 작년에 130% 성장한 21억 달러의 수익을 올렸다. 월마트가 처음으로 실적 보고서에서 광고 재무를 분류했다. 미국에서 월마트 커넥트(Walmart  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[최선목 한화 사장, 제14대 한국광고주협회장 선임 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8300</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8300</guid>
+            <pubDate>Thu, 24 Feb 2022 03:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[버드뷰 화해, AI가 나한테 꼭 필요한 리뷰만 찾아준다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8299</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8299</guid>
-            <pubDate>Thu, 24 Feb 2022 02:36:37 GMT</pubDate>
+            <pubDate>Thu, 24 Feb 2022 11:19:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[앱러빈, 사이버보안업체 HUMAN과 전략적 파트너십 체결 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8298</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8298</guid>
-            <pubDate>Thu, 24 Feb 2022 02:36:37 GMT</pubDate>
+            <pubDate>Thu, 24 Feb 2022 11:12:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[월마트, 광고 사업 130% 성장한 21억 달러 기록 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8271</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8271</guid>
-            <pubDate>Sun, 20 Feb 2022 09:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 대화의 빈칸에 들어갈 말로 올바른 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 24 Feb 2022 02:36:51 GMT</pubDate>
+            <pubDate>Thu, 24 Feb 2022 03:16:51 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 대화의 빈칸에 들어갈 말로 올바른 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/895e61480370228ef8cd264f3742239d_16451517728946.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
