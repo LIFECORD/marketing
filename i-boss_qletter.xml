@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 23:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 01:04:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가난한 회사의 마케터로 살아남기]]></title>
+            <link>https://qletter.i-boss.co.kr/view/885281-%EA%B0%80%EB%82%9C%ED%95%9C_%ED%9A%8C%EC%82%AC%EC%9D%98_%EB%A7%88%EC%BC%80%ED%84%B0%EB%A1%9C_%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/885281-%EA%B0%80%EB%82%9C%ED%95%9C_%ED%9A%8C%EC%82%AC%EC%9D%98_%EB%A7%88%EC%BC%80%ED%84%B0%EB%A1%9C_%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0/</guid>
+            <pubDate>Thu, 24 Feb 2022 01:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/885281-가난한_회사의_마케터로_살아남기/">
+						<div class="thumb"><img src="/images/qletter_885281.png"></div>
+						<p><strong>가난한 회사의 마케터로 살아남기</strong>2022.02.24</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_885281.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[갈 곳을 잃은 맞춤형 광고]]></title>
             <link>https://qletter.i-boss.co.kr/view/879017-%EA%B0%88_%EA%B3%B3%EC%9D%84_%EC%9E%83%EC%9D%80_%EB%A7%9E%EC%B6%A4%ED%98%95_%EA%B4%91%EA%B3%A0/</link>
@@ -127,17 +138,6 @@
 						<p><strong>이 업체가 리뷰를 이끌어내는 방법</strong>2022.01.13</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_834181.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[3년 만에 또 내린다! 💳]]></title>
-            <link>https://qletter.i-boss.co.kr/view/827878-3%EB%85%84_%EB%A7%8C%EC%97%90_%EB%98%90_%EB%82%B4%EB%A6%B0%EB%8B%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/827878-3%EB%85%84_%EB%A7%8C%EC%97%90_%EB%98%90_%EB%82%B4%EB%A6%B0%EB%8B%A4/</guid>
-            <pubDate>Mon, 10 Jan 2022 02:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/827878-3년_만에_또_내린다/">
-						<div class="thumb"><img src="/images/qletter_827878.png"></div>
-						<p><strong>3년 만에 또 내린다! 💳</strong>2022.01.10</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_827878.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

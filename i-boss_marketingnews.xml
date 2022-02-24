@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 23:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 01:04:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT 기가지니, 신중년이 선호하는 AI 스피커 1위... 선호 기능은 음성명령, 노인 돌봄에는 긴급 SOS]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8297</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8297</guid>
+            <pubDate>Thu, 24 Feb 2022 09:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)가에이풀(Aful)을 통해 2022년 1월 6일부터 1월 20일까지 50세 이상, 483명을 대상으로 신중년의 AI 스피커 이용 조사를 한 결과, 31.7%의 신중년이 AI 스피커 이용 경험이 있다고 답했다. 2021 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[트렌드모니터] 코로나19가 바꾼 가족의 풍경, 명절 스트레스 줄고, 마음의 거리는 더 멀어져]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8296</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8296</guid>
+            <pubDate>Thu, 24 Feb 2022 08:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[설날 연휴는 재충전을 위한 휴식기간(66.5%(2020)  71.2%(2021)  73.5%(2022))이라는 응답이 이전 조사 대비 증가세를 보였으며 설 연휴 기간은 휴식, 여가 활동을 할 수 있고, 가족과 함께 할 수 있는 기간이라는 인식이 뚜렷했다. 실제로 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[2월 24일 마케팅 뉴스클리핑] 메타, 숏폼 페이스북 릴스 공식 출시 외]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8293</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8269</guid>
             <pubDate>Sat, 19 Feb 2022 09:35:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅과 광고에 관심이 많은 대학생들이 모여 탄생한 대학생 연합 동아리 MADLeap 매드립에서 신입 부원을 모집한다. 코로나19 장기화라는 어려운 시기에 대학생들이 힘을 합쳐 동아리를 만들어냈다는 점에서 주목할만하다. MADLe ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 사랑받은 슈퍼볼 광고와 마케터에게 주는 교훈]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8268</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8268</guid>
-            <pubDate>Sat, 19 Feb 2022 09:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[매년슈퍼볼은마케터와 크리에이터에게진정한 경쟁의 장을 열어준다. 단 몇시간 동안 많은 브랜드가 광고를 내보내고 더 많은 조회수, 리드, 수익을 얻기 위해 수백만 달러를 지출한다. 엄청난 비용을 들인 많은 광고가 나왔음 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[1월 미국 광고시장 19% 급증... 11개월 연속 증가]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8267</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8267</guid>
-            <pubDate>Sat, 19 Feb 2022 09:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[미국 애드마켓 트래커에 따르면, 올해 1월 광고비가 전년 동월 대비19.2% 급증,미국 광고 시장에서 코로나 이후 11개월 연속 성장했다. 특히 지난 8월 이후 둔화되던 미국 광고시장이 급격한 성장으로 전환됐다. 애드마켓 트래커는 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

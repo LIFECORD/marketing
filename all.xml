@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 23:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 01:04:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가난한 회사의 마케터로 살아남기 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/885281-%EA%B0%80%EB%82%9C%ED%95%9C_%ED%9A%8C%EC%82%AC%EC%9D%98_%EB%A7%88%EC%BC%80%ED%84%B0%EB%A1%9C_%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/885281-%EA%B0%80%EB%82%9C%ED%95%9C_%ED%9A%8C%EC%82%AC%EC%9D%98_%EB%A7%88%EC%BC%80%ED%84%B0%EB%A1%9C_%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0/</guid>
+            <pubDate>Thu, 24 Feb 2022 01:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/885281-가난한_회사의_마케터로_살아남기/">
+						<div class="thumb"><img src="/images/qletter_885281.png"></div>
+						<p><strong>가난한 회사의 마케터로 살아남기</strong>2022.02.24</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_885281.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[갈 곳을 잃은 맞춤형 광고 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/879017-%EA%B0%88_%EA%B3%B3%EC%9D%84_%EC%9E%83%EC%9D%80_%EB%A7%9E%EC%B6%A4%ED%98%95_%EA%B4%91%EA%B3%A0/</link>
@@ -127,17 +138,6 @@
 						<p><strong>이 업체가 리뷰를 이끌어내는 방법</strong>2022.01.13</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_834181.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[3년 만에 또 내린다! 💳 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/827878-3%EB%85%84_%EB%A7%8C%EC%97%90_%EB%98%90_%EB%82%B4%EB%A6%B0%EB%8B%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/827878-3%EB%85%84_%EB%A7%8C%EC%97%90_%EB%98%90_%EB%82%B4%EB%A6%B0%EB%8B%A4/</guid>
-            <pubDate>Mon, 10 Jan 2022 02:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/827878-3년_만에_또_내린다/">
-						<div class="thumb"><img src="/images/qletter_827878.png"></div>
-						<p><strong>3년 만에 또 내린다! 💳</strong>2022.01.10</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_827878.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[無사수 분 들 보고서 필요하신분들 쓰세요~ (아이보스 ─ 인기글)]]></title>
@@ -301,6 +301,13 @@
             <content:encoded><![CDATA[Jazzy]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[애플처럼 구글도 '맞춤형 광고' 위한 앱 추적 막는다 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57230</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57230</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[검색의도란 무엇이고 왜 알아야 하는가 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57170</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57170</guid>
@@ -336,18 +343,27 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[애플처럼 구글도 '맞춤형 광고' 위한 앱 추적 막는다 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57230</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57230</guid>
-            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[초보마케터 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38396</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38396</guid>
             <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마뇨리따]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KT 기가지니, 신중년이 선호하는 AI 스피커 1위... 선호 기능은 음성명령, 노인 돌봄에는 긴급 SOS (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8297</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8297</guid>
+            <pubDate>Thu, 24 Feb 2022 09:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)가에이풀(Aful)을 통해 2022년 1월 6일부터 1월 20일까지 50세 이상, 483명을 대상으로 신중년의 AI 스피커 이용 조사를 한 결과, 31.7%의 신중년이 AI 스피커 이용 경험이 있다고 답했다. 2021 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[트렌드모니터] 코로나19가 바꾼 가족의 풍경, 명절 스트레스 줄고, 마음의 거리는 더 멀어져 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8296</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8296</guid>
+            <pubDate>Thu, 24 Feb 2022 08:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[설날 연휴는 재충전을 위한 휴식기간(66.5%(2020)  71.2%(2021)  73.5%(2022))이라는 응답이 이전 조사 대비 증가세를 보였으며 설 연휴 기간은 휴식, 여가 활동을 할 수 있고, 가족과 함께 할 수 있는 기간이라는 인식이 뚜렷했다. 실제로 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[2월 24일 마케팅 뉴스클리핑] 메타, 숏폼 페이스북 릴스 공식 출시 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -574,26 +590,24 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2022년 사랑받은 슈퍼볼 광고와 마케터에게 주는 교훈 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8268</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8268</guid>
-            <pubDate>Sat, 19 Feb 2022 09:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[매년슈퍼볼은마케터와 크리에이터에게진정한 경쟁의 장을 열어준다. 단 몇시간 동안 많은 브랜드가 광고를 내보내고 더 많은 조회수, 리드, 수익을 얻기 위해 수백만 달러를 지출한다. 엄청난 비용을 들인 많은 광고가 나왔음 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[KT 기가지니, 신중년이 선호하는 AI 스피커 1위... 선호 기능은 음성명령, 노인 돌봄에는 긴급 SOS (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8297</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8297</guid>
+            <pubDate>Thu, 24 Feb 2022 01:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[1월 미국 광고시장 19% 급증... 11개월 연속 증가 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8267</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8267</guid>
-            <pubDate>Sat, 19 Feb 2022 09:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[미국 애드마켓 트래커에 따르면, 올해 1월 광고비가 전년 동월 대비19.2% 급증,미국 광고 시장에서 코로나 이후 11개월 연속 성장했다. 특히 지난 8월 이후 둔화되던 미국 광고시장이 급격한 성장으로 전환됐다. 애드마켓 트래커는 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[트렌드모니터] 코로나19가 바꾼 가족의 풍경, "명절 스트레스 줄고, 마음의 거리는 더 멀어져" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8296</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8296</guid>
+            <pubDate>Thu, 24 Feb 2022 01:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2월 24일 마케팅 뉴스클리핑] 메타, 숏폼 '페이스북 릴스' 공식 출시 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8293</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8293</guid>
-            <pubDate>Wed, 23 Feb 2022 23:18:31 GMT</pubDate>
+            <pubDate>Thu, 24 Feb 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년 사랑받은 슈퍼볼 광고와 마케터에게 주는 교훈 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8268</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8268</guid>
-            <pubDate>Sat, 19 Feb 2022 09:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1월 미국 광고시장 19% 급증... 11개월 연속 증가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8267</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8267</guid>
-            <pubDate>Sat, 19 Feb 2022 09:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 대화의 빈칸에 들어갈 말로 올바른 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 23 Feb 2022 23:18:43 GMT</pubDate>
+            <pubDate>Thu, 24 Feb 2022 01:04:44 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 대화의 빈칸에 들어갈 말로 올바른 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/895e61480370228ef8cd264f3742239d_16451517728946.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
