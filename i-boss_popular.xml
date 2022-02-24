@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-24T13:22:10.303Z</updated>
+    <updated>2022-02-24T15:19:06.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[용서할게이츠]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사수 없이 성장하기.]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38265</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38265"/>
-        <updated>2022-01-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[규S]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[우리가 돈이 없지 열정이 없냐 (to. 가난한 회사의 마..]]></title>
         <id>https://www.i-boss.co.kr/ab-5637-30</id>
         <link href="https://www.i-boss.co.kr/ab-5637-30"/>
         <updated>2022-02-24T04:23:46.923Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사수 없이 성장하기.]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38265</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38265"/>
+        <updated>2022-01-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[규S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SNS를 반드시 해야 하는 이유 (퍼거슨의 트인낭)]]></title>
@@ -167,13 +167,6 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[은행에서 월세 입금하고  나온 뒤  조금  걷다가]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38252</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38252"/>
-        <updated>2022-01-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[zuro59]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[검색의도란 무엇이고 왜 알아야 하는가]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57170</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57170"/>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38396"/>
         <updated>2022-02-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[마뇨리따]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4000억 부자가 사업을 키운 방법]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57253</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57253"/>
+        <updated>2022-02-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[둥근마을]]></content>
     </entry>
 </feed>
