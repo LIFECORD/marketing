@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 01:05:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 02:35:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이언소스, 개발자가 실시간으로 세그먼트 수익화 전략을 최적화할 수 있는 다이나믹 세그먼트 출시]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8309</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8309</guid>
+            <pubDate>Fri, 25 Feb 2022 10:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource, NYSE:IS)는 자사 미디에이션 솔루션레벨플레이(LevelPlay)에서 다이나믹 세그먼트를 지원한다고 오늘 공식적으로 발표했다. 새롭게 출시된 다이나믹 세그먼트 기능은 앱 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[미디어에 대한 소비자 지출 가속화... 2021년 6.7% 증가한 2조 1400억 달러]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8308</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8280</guid>
             <pubDate>Tue, 22 Feb 2022 08:49:00 GMT</pubDate>
             <content:encoded><![CDATA[신년을 맞아 웹 3.0에 대한 관심이 뜨겁다. 아직 실체 없는 개념에가깝지만 사용자가 주권을 갖는 개인 맞춤형 웹이라는 점에서화두를 열어도 될 법하다. 지금의 온라인은 일방적 정보 서비스였던 웹 1.0과 소셜 미디어로 대변되 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 전문가한테 맡겨라 대한민국 최초 프리랜서 마켓, 크몽 팀]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8279</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8279</guid>
-            <pubDate>Tue, 22 Feb 2022 08:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[프리랜서와 고객을 연결하는 중개 플랫폼 서비스를 제공하는 프리랜서 플랫폼 크몽이 크몽까지 내 능력이라는 슬로건을 내세운 신규 캠페인을 선보였다. 일반 회사에서 근무하는 직장인들의 스토리와 소상공인들의고충을 담 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
