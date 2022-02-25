@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-25T08:21:32.155Z</updated>
+    <updated>2022-02-25T11:14:49.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -132,13 +132,6 @@
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[매출 2배, 이것만 해도 가능합니다.]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57108</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57108"/>
-        <updated>2022-01-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[언카피]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[돈 1만원도 안쓰고 매출 & 재구매 2배 올리는 방법]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57184</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57184"/>
@@ -188,18 +181,18 @@
         <content type="html"><![CDATA[윤묘]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[방탄소년단(BTS)이 성공한 진짜 이유는?(재미로 봐주..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57209</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57209"/>
-        <updated>2022-02-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[리유]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[일잘러가 되고 싶다면? `된다! 최반장의 실무 엑셀 wit..]]></title>
         <id>https://www.i-boss.co.kr/ab-2973-442</id>
         <link href="https://www.i-boss.co.kr/ab-2973-442"/>
         <updated>2022-02-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[당첨대쓔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단(BTS)이 성공한 진짜 이유는?(재미로 봐주..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57209</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57209"/>
+        <updated>2022-02-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[리유]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4000억 부자가 사업을 키운 방법]]></title>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38396"/>
         <updated>2022-02-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[마뇨리따]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제 나이 서른. 마케팅 일을 시작할 수 있을까요?]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38461</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38461"/>
+        <updated>2022-02-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[SBSbiz]]></content>
     </entry>
 </feed>
