@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 06:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 07:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,18 +210,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[식을 줄 모르는 인기, MBTI 마케팅 사례 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57173</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57173</guid>
-            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케팅에 대해 모른 어떤  오너의 하소연 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38427</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38427</guid>
             <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[식자재중개플렛폼]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[식을 줄 모르는 인기, MBTI 마케팅 사례 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57173</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57173</guid>
+            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케팅 레퍼런스 영상 똑똑하게 찾는 법, 유튜브 숨.. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[네이버의 라이브커머스 '쇼핑라이브'를 진행하기 위한 조건으로 올바른 것은 무엇일까요?(hint: 큐레터의 리뷰에서 힌트를 발견해보세요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 25 Feb 2022 06:21:44 GMT</pubDate>
+            <pubDate>Fri, 25 Feb 2022 07:16:45 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버의 라이브커머스 '쇼핑라이브'를 진행하기 위한 조건으로 올바른 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57217" target="_blank">큐레터의 리뷰에서 힌트를 발견해보세요!</a>)</span></td>
 			</tr>
