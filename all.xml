@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 14:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 17:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8284</guid>
             <pubDate>Tue, 22 Feb 2022 10:15:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네이버의 라이브커머스 '쇼핑라이브'를 진행하기 위한 조건으로 올바른 것은 무엇일까요?(hint: 큐레터의 리뷰에서 힌트를 발견해보세요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 26 Feb 2022 14:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->네이버의 라이브커머스 '쇼핑라이브'를 진행하기 위한 조건으로 올바른 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57217" target="_blank">큐레터의 리뷰에서 힌트를 발견해보세요!</a>)</span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1369_1" value="1" class="AB-radio" id="PQ_BD5826_1369_1_0"><label for="PQ_BD5826_1369_1_0" id="label_PQ_BD5826_1369_1_0">(A) 스마트스토어 씨앗등급 이상</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1369_1" value="2" class="AB-radio" id="PQ_BD5826_1369_1_1"><label for="PQ_BD5826_1369_1_1" id="label_PQ_BD5826_1369_1_1">(B) 스마트스토어 새싹등급 이상</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1369_1" value="3" class="AB-radio" id="PQ_BD5826_1369_1_2"><label for="PQ_BD5826_1369_1_2" id="label_PQ_BD5826_1369_1_2">(C) 스마트스토어 파워등급 이상</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1369_1" value="4" class="AB-radio" id="PQ_BD5826_1369_1_3"><label for="PQ_BD5826_1369_1_3" id="label_PQ_BD5826_1369_1_3">(D) 스마트스토어 판매자라면 등급제한 없음</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[행안부, 영업제한 소상공인 지방세 납기 연장·징수유예 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
