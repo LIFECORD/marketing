@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 22:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 01:03:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -161,13 +161,6 @@
             <content:encoded><![CDATA[레스뿌와]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마케팅밈] 마케터 MBTI ~J와 P~ (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38253</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38253</guid>
-            <pubDate>Thu, 27 Jan 2022 05:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 마케터 특징 vs. 실제 내 모습 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38350</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38350</guid>
@@ -187,13 +180,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57128</guid>
             <pubDate>Fri, 28 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마케터에게 필요한 기획 습관 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-5637-29</link>
-            <guid>https://www.i-boss.co.kr/ab-5637-29</guid>
-            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일머리 없는 사람 특징(머리가 나빠서가 아니다) (아이보스 ─ 인기글)]]></title>
@@ -245,18 +231,18 @@
             <content:encoded><![CDATA[용서할게이츠]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[사수 없이 성장하기. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38265</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38265</guid>
-            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[규S]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 연말정산하는 마케터 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38485</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38485</guid>
             <pubDate>Thu, 24 Feb 2022 05:15:43 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사수 없이 성장하기. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38265</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38265</guid>
+            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[규S]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[돈 1만원도 안쓰고 매출 & 재구매 2배 올리는 방법 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +334,52 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38356</guid>
             <pubDate>Wed, 09 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케터1995]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[깜놀 햇네요............아이보스 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38285</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38285</guid>
+            <pubDate>Sun, 30 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[식자재중개플렛폼]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연봉 동결 됐습니다.. 현재 상황 이직이 맞는지 봐주.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38399</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38399</guid>
+            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[니타안]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[KAI] 훈풍부는 3월 광고시장... 신학기봄시즌 광고 캠페인 활발 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8314</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8314</guid>
+            <pubDate>Sat, 26 Feb 2022 09:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코, 사장 이백만)가 2022년 3월의 광고경기를 전망하는 광고경기전망지수(KAI ;Korea Advertising Index)를 107.7로 발표했다. 통계청 국가승인통계인 광고경기전망지수(KAI)는 매월 국내 560여 개 광고주에 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[그룹M, 공급 측면 기술 기반 시장 공개: 미디어 구매 투명성과 효율성 제고 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8313</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8313</guid>
+            <pubDate>Sat, 26 Feb 2022 09:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[그룹M은 미디어 구매 투명성과 효율성을 높일 통합 프로그램 마켓플레이스인 그룹M 프리미엄 마켓플레이스의 도입을 발표했다. 매그나이트 및 퍼브매틱과의 글로벌 파트너십 계약을 통해 지원되는 그룹M 프리미엄 마켓플레이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인포그래픽] 적어도 명목상 메타버스인 앱이 많아지고 있다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8312</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8312</guid>
+            <pubDate>Sat, 26 Feb 2022 09:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[페이스북이 메타(Meta)로 이름을 바꾼 이후, 모바일 앱들은 적어도 서류상에서 메타버스(Metaverse)에 권리를 주장하기 위해안간힘을 쓰고 있다. 메타로 리브랜딩 다음 달인 11월에는 전 세계 29개 앱이 이름이나 설명에 `메타버스`를 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[트렌드모니터] 코로나19로 얼어붙은 마음을 녹이다... 2022 베이징 동계 올림픽 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8311</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8311</guid>
+            <pubDate>Sat, 26 Feb 2022 09:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[2018 평창 동계 올림픽에 비해 전반적인 관심 줄어들어... 다만 2022 베이징 동계 올림픽 시청 경험은 90.2%로 높게 나타나  2022 베이징 동계 올림픽에 대한 전반적인 관심도는 56.1%였고, 2018 평창 동계 올림픽보다 관심이 줄어들었다 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[아이언소스, 개발자가 실시간으로 세그먼트 수익화 전략을 최적화할 수 있는 다이나믹 세그먼트 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -558,36 +590,32 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1e46e49db650440683a8cf78815d0053_15709_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[닐슨, 더 트레이드 데스크와 개방형 인터넷 위한 파트너십 체결 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8283</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8283</guid>
-            <pubDate>Tue, 22 Feb 2022 10:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 미디어 정보 분석 기업 닐슨(Nielsen)이 애드테크 기업 더 트레이드 데스크(The Trade Desk)와 개방형 인터넷 측정의ID분석 강화를 위한 전략적 파트너십을 체결했다고22일 밝혔다. 프랑스와 이탈리아,영국을 시작으로,올해4월  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[KAI] 훈풍부는 3월 광고시장... 신학기·봄시즌 광고 캠페인 활발 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8314</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8314</guid>
+            <pubDate>Sat, 26 Feb 2022 01:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[식음료 앱 시장, 사용자 2800만... 사용자 수 1위는 배달의민족 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8282</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8282</guid>
-            <pubDate>Tue, 22 Feb 2022 09:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 모바일 빅데이터 플랫폼 기업 아이지에이웍스가 자사의 데이터 분석 솔루션모바일인덱스를 통해분석 리포트를 발표했다.분석 기간은2021년1월1일부터2022년1월1일까지로,일평균4000만 모바일 기기의20억건 데이터(안드 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[그룹M, 공급 측면 기술 기반 시장 공개: 미디어 구매 투명성과 효율성 제고 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8313</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8313</guid>
+            <pubDate>Sat, 26 Feb 2022 01:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년 달라지는 광고 관련 규제와 이슈 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8281</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8281</guid>
-            <pubDate>Tue, 22 Feb 2022 08:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[방통위, 유료방송시장 채널계약 및콘텐츠 공급 절차 등에 관한가이드라인 개정  방송통신위원회가 자유롭고 공정한 유료방송 채널거래 질서 정착을 유도하기 위해 유료방송시장 채널계약 및 콘텐츠 공급 절차 등에 관한 가이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[인포그래픽] 적어도 명목상 "메타버스"인 앱이 많아지고 있다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8312</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8312</guid>
+            <pubDate>Sat, 26 Feb 2022 01:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[메타 콘텐츠, 플랫폼이 되다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8280</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8280</guid>
-            <pubDate>Tue, 22 Feb 2022 08:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[신년을 맞아 웹 3.0에 대한 관심이 뜨겁다. 아직 실체 없는 개념에가깝지만 사용자가 주권을 갖는 개인 맞춤형 웹이라는 점에서화두를 열어도 될 법하다. 지금의 온라인은 일방적 정보 서비스였던 웹 1.0과 소셜 미디어로 대변되 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[트렌드모니터] 코로나19로 얼어붙은 마음을 녹이다... 2022 베이징 동계 올림픽 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8311</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8311</guid>
+            <pubDate>Sat, 26 Feb 2022 01:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아이언소스, 개발자가 실시간으로 세그먼트 수익화 전략을 최적화할 수 있는 ‘다이나믹 세그먼트’ 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -772,32 +800,17 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[닐슨, 더 트레이드 데스크와 개방형 인터넷 위한 파트너십 체결 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8283</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8283</guid>
-            <pubDate>Tue, 22 Feb 2022 10:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[식음료 앱 시장, 사용자 ‘2800만... 사용자 수 1위는 ‘배달의민족’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8282</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8282</guid>
-            <pubDate>Tue, 22 Feb 2022 09:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 달라지는 광고 관련 규제와 이슈 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8281</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8281</guid>
-            <pubDate>Tue, 22 Feb 2022 08:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[메타 콘텐츠, 플랫폼이 되다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8280</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8280</guid>
-            <pubDate>Tue, 22 Feb 2022 08:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[네이버의 라이브커머스 '쇼핑라이브'를 진행하기 위한 조건으로 올바른 것은 무엇일까요?(hint: 큐레터의 리뷰에서 힌트를 발견해보세요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Sat, 26 Feb 2022 01:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->네이버의 라이브커머스 '쇼핑라이브'를 진행하기 위한 조건으로 올바른 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57217" target="_blank">큐레터의 리뷰에서 힌트를 발견해보세요!</a>)</span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1369_1" value="1" class="AB-radio" id="PQ_BD5826_1369_1_0"><label for="PQ_BD5826_1369_1_0" id="label_PQ_BD5826_1369_1_0">(A) 스마트스토어 씨앗등급 이상</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1369_1" value="2" class="AB-radio" id="PQ_BD5826_1369_1_1"><label for="PQ_BD5826_1369_1_1" id="label_PQ_BD5826_1369_1_1">(B) 스마트스토어 새싹등급 이상</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1369_1" value="3" class="AB-radio" id="PQ_BD5826_1369_1_2"><label for="PQ_BD5826_1369_1_2" id="label_PQ_BD5826_1369_1_2">(C) 스마트스토어 파워등급 이상</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1369_1" value="4" class="AB-radio" id="PQ_BD5826_1369_1_3"><label for="PQ_BD5826_1369_1_3" id="label_PQ_BD5826_1369_1_3">(D) 스마트스토어 판매자라면 등급제한 없음</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[행안부, 영업제한 소상공인 지방세 납기 연장·징수유예 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
