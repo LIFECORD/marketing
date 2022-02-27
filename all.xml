@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 08:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 14:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -175,13 +175,6 @@
             <content:encoded><![CDATA[인프피]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[진짜 빠르게 300만원 버는 방법 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57128</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57128</guid>
-            <pubDate>Fri, 28 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[일머리 없는 사람 특징(머리가 나빠서가 아니다) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38415</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38415</guid>
@@ -210,18 +203,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케팅 레퍼런스 영상 똑똑하게 찾는 법, 유튜브 숨.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57193</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57193</guid>
-            <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[재비]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[우리가 돈이 없지 열정이 없냐 (to. 가난한 회사의 마.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-5637-30</link>
             <guid>https://www.i-boss.co.kr/ab-5637-30</guid>
             <pubDate>Thu, 24 Feb 2022 04:23:46 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케팅 레퍼런스 영상 똑똑하게 찾는 법, 유튜브 숨.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57193</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57193</guid>
+            <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[재비]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 연말정산하는 마케터 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +341,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57164</guid>
             <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케팅판을 여행하는 돈없는 마케터를 위한 안내서 5.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38372</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38372</guid>
+            <pubDate>Fri, 11 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[DV360]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[Media Insight] 2021년 광고 시장 결산과 2022년 전망 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[네이버의 라이브커머스 '쇼핑라이브'를 진행하기 위한 조건으로 올바른 것은 무엇일까요?(hint: 큐레터의 리뷰에서 힌트를 발견해보세요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 27 Feb 2022 08:19:51 GMT</pubDate>
+            <pubDate>Sun, 27 Feb 2022 14:16:33 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버의 라이브커머스 '쇼핑라이브'를 진행하기 위한 조건으로 올바른 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57217" target="_blank">큐레터의 리뷰에서 힌트를 발견해보세요!</a>)</span></td>
 			</tr>
