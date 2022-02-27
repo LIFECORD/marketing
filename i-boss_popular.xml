@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-27T19:14:16.420Z</updated>
+    <updated>2022-02-27T22:17:06.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -188,6 +188,13 @@
         <content type="html"><![CDATA[마케터1995]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[신입 시절 회고하기 (긴글 주의)]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38504</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38504"/>
+        <updated>2022-02-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[규S]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[깜놀 햇네요............아이보스]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38285</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38285"/>
@@ -207,12 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57164"/>
         <updated>2022-02-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[둥근마을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맛의고수 프리미엄 수제 꿀호떡 3팩 + 씨앗호떡 3팩]]></title>
-        <id>https://www.i-boss.co.kr/ab-2825-493</id>
-        <link href="https://www.i-boss.co.kr/ab-2825-493"/>
-        <updated>2022-02-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
 </feed>

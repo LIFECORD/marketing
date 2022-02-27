@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 19:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 22:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -322,6 +322,13 @@
             <content:encoded><![CDATA[마케터1995]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[신입 시절 회고하기 (긴글 주의) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38504</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38504</guid>
+            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[규S]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[깜놀 햇네요............아이보스 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38285</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38285</guid>
@@ -341,13 +348,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57164</guid>
             <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[맛의고수 프리미엄 수제 꿀호떡 3팩 + 씨앗호떡 3팩 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2825-493</link>
-            <guid>https://www.i-boss.co.kr/ab-2825-493</guid>
-            <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[Media Insight] 2021년 광고 시장 결산과 2022년 전망 (아이보스 ─ 마케팅 뉴스)]]></title>
