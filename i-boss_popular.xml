@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-02-28T19:14:32.708Z</updated>
+    <updated>2022-02-28T20:19:39.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -111,6 +111,13 @@
         <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[4000억 부자가 사업을 키운 방법]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57253</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57253"/>
+        <updated>2022-02-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[둥근마을]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[매출 1도 문제 없는 대표님은 절대 클릭하지 마세요.]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57157</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57157"/>
@@ -123,13 +130,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57230"/>
         <updated>2022-02-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4000억 부자가 사업을 키운 방법]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57253</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57253"/>
-        <updated>2022-02-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[둥근마을]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마케터가  능력치를 올리는 방법과 전문직 취급을 받..]]></title>
