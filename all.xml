@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 22:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 01:04:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콘텐츠 플랫폼을 바라보는 같지만 다른 시각 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/888919-%EC%BD%98%ED%85%90%EC%B8%A0_%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%84_%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94_%EA%B0%99%EC%A7%80%EB%A7%8C_%EB%8B%A4%EB%A5%B8_%EC%8B%9C%EA%B0%81/</link>
+            <guid>https://qletter.i-boss.co.kr/view/888919-%EC%BD%98%ED%85%90%EC%B8%A0_%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%84_%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94_%EA%B0%99%EC%A7%80%EB%A7%8C_%EB%8B%A4%EB%A5%B8_%EC%8B%9C%EA%B0%81/</guid>
+            <pubDate>Mon, 28 Feb 2022 01:03:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/888919-콘텐츠_플랫폼을_바라보는_같지만_다른_시각/">
+						<div class="thumb"><img src="/images/qletter_888919.png"></div>
+						<p><strong>콘텐츠 플랫폼을 바라보는 같지만 다른 시각</strong>2022.02.28</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_888919.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[가난한 회사의 마케터로 살아남기 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/885281-%EA%B0%80%EB%82%9C%ED%95%9C_%ED%9A%8C%EC%82%AC%EC%9D%98_%EB%A7%88%EC%BC%80%ED%84%B0%EB%A1%9C_%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0/</link>
@@ -127,17 +138,6 @@
 						<p><strong>계속되는 택배 파업, 업계의 대안은? 🤔</strong>2022.01.17</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_836666.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이 업체가 리뷰를 이끌어내는 방법 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/834181-%EC%9D%B4_%EC%97%85%EC%B2%B4%EA%B0%80_%EB%A6%AC%EB%B7%B0%EB%A5%BC_%EC%9D%B4%EB%81%8C%EC%96%B4%EB%82%B4%EB%8A%94_%EB%B0%A9%EB%B2%95/</link>
-            <guid>https://qletter.i-boss.co.kr/view/834181-%EC%9D%B4_%EC%97%85%EC%B2%B4%EA%B0%80_%EB%A6%AC%EB%B7%B0%EB%A5%BC_%EC%9D%B4%EB%81%8C%EC%96%B4%EB%82%B4%EB%8A%94_%EB%B0%A9%EB%B2%95/</guid>
-            <pubDate>Thu, 13 Jan 2022 04:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/834181-이_업체가_리뷰를_이끌어내는_방법/">
-						<div class="thumb"><img src="/images/qletter_834181.png"></div>
-						<p><strong>이 업체가 리뷰를 이끌어내는 방법</strong>2022.01.13</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_834181.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[無사수 분 들 보고서 필요하신분들 쓰세요~ (아이보스 ─ 인기글)]]></title>
@@ -315,18 +315,18 @@
             <content:encoded><![CDATA[SBSbiz]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[입사 4개월차 인하우스 마케팅 신입 고민입니다. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38356</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38356</guid>
-            <pubDate>Wed, 09 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케터1995]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[신입 시절 회고하기 (긴글 주의) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38504</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38504</guid>
             <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[규S]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[입사 4개월차 인하우스 마케팅 신입 고민입니다. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38356</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38356</guid>
+            <pubDate>Wed, 09 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케터1995]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[깜놀 햇네요............아이보스 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,46 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57164</guid>
             <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[청년마케터, 임인년 첫 월간모임... 데이터 시각화의 중요성 전해 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8322</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8322</guid>
+            <pubDate>Mon, 28 Feb 2022 09:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 26일직장인 커뮤니티 청년마케터(헤드디렉터 박윤찬)가 마케터 및 광고업계 재직자를 대상으로 임인년 첫 번째 청년마케터 월간모임 세미나를 개최하였다. 이날 강연은 마케터를 위한 데이터 시각화와 스토리텔링이라는  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[MAD Pick] 카멜레온처럼 다채로운 색을 가진 모델이 되고 싶습니다, 모델 조주미 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8321</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8321</guid>
+            <pubDate>Mon, 28 Feb 2022 08:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[광고 모델 및 인플루언서의 영역은 넓어지고 다양해졌다. 전문적인 모델을 비롯, 배우, 가수, 엔터테이너, 문화예술인, 전문직 종사자는 물론, 일반인들도 모델과 인플루언서로 활동하고 있다. 매드타임스는피팅 모델, 피트니스 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인포그래픽] 소셜 미디어 콘텐츠 캘린더: 팔로워와 공유할 게시물 24종류 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8320</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8320</guid>
+            <pubDate>Mon, 28 Feb 2022 08:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[비즈니스를 성장시키기 위해 소셜 미디어는 필수가 되고 있다. 그렇지만 어떻게 사용할지 모르거나, 콘텐츠 아이디어가 부족하거나, 팔로워와 잘 어울리는 콘텐츠 유형을 모르는 경우가 많다. Conversion Minded는 소셜 미디어에 게 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[Tip!] 큐레이션된 콘텐츠를 잘 활용하기 위한 8가지 팁 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8319</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8319</guid>
+            <pubDate>Mon, 28 Feb 2022 08:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[콘텐츠 큐레이션은 업계를 연결하고, 전문 지식과 지식을 선보이며, 청중을 참여시키고 활성화하는 등 광범위한 디지털 마케팅 접근 방식에 핵심적인 역할을 할 수 있다. 큐레이션을 잘 사용하면, 다양한 브랜딩 이점을 얻을 수 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[2월 28일 마케팅 뉴스클리핑] 페이스북, 우크라이나 이용자 프로필 잠금 기능 도입 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8310</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8310</guid>
+            <pubDate>Mon, 28 Feb 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 페이스북, 우크라이나 이용자 `프로필 잠금` 기능 도입  페이스북이 우크라이나 이용자를 위한 `프로필 잠금` 기능을 도입했다. 친구가 아니면 프로필 사진을 다운로드하거나 공유하지 못하게 하고, 타임라인을 못 보게 하는  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e45ddb2ae66bae3516e2b42df848f199_97628_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Media Insight] 2021년 광고 시장 결산과 2022년 전망 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -550,44 +590,39 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[구글 X 네이버웹툰 X 한국콘텐츠진흥원, K-웹툰 게임화 및 해외진출 지원 위해 손잡다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8292</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8292</guid>
-            <pubDate>Wed, 23 Feb 2022 11:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[구글플레이와 네이버웹툰,한국콘텐츠진흥원이 한국 중소 개발사의 네이버웹툰IP기반 게임 개발을 지원하기 위해 힘을 모은다.구글은 네이버웹툰,한국콘텐츠진흥원과 함께 판교 네이버웹툰 사옥에서 열린 협약식에서 글로벌  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[청년마케터, 임인년 첫 월간모임... "데이터 시각화의 중요성" 전해 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8322</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8322</guid>
+            <pubDate>Mon, 28 Feb 2022 01:04:01 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[Global Creative] 노잼 도시? 유잼 로컬스토리! (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8291</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8291</guid>
-            <pubDate>Wed, 23 Feb 2022 09:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[저는 이름에 관심이 많습니다. 그래서인지 고속도로나 국도를 지나다 흥미로운 마을 이름을 보면 그곳엔 어떤 사람들이 살까상상을 하곤 합니다. 금토분기점 인근 지역민들은 일, 월, 화, 수, 목요일에는 기분이 어떨까, 일주일  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[MAD Pick] "카멜레온처럼 다채로운 색을 가진 모델이 되고 싶습니다", 모델 조주미 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8321</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8321</guid>
+            <pubDate>Mon, 28 Feb 2022 01:04:01 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 언어가 죽어가는 곳 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8290</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8290</guid>
-            <pubDate>Wed, 23 Feb 2022 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[2월 21일은 유네스코가 정한 `국제모국어의 날(International Mother Language Day)이다. 언어와 문화의 다양성, 다언어주의, 그리고 각각의모국어를 존중하자는 뜻에서1999년11월 17일에 지정됐다.1952년2월 21일동파키스탄(현재방글라데시) ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[인포그래픽] 소셜 미디어 콘텐츠 캘린더: 팔로워와 공유할 게시물 24종류 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8320</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8320</guid>
+            <pubDate>Mon, 28 Feb 2022 01:04:01 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[일상의 소소한 필요성을 찾아내는 미디어커머스모델 일오오오 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8289</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8289</guid>
-            <pubDate>Wed, 23 Feb 2022 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 일오오오입니다. 일오오오는 15세부터 55세에 걸친 모든 세대의 일상 속 작은 불편함을 해결하고 일상 속에 스며들겠다라는 포부로 시작한 라이프스타일 브랜드입니다. 브랜드 운영 초기부터 브랜드 네임에 대해 많 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[Tip!] 큐레이션된 콘텐츠를 잘 활용하기 위한 8가지 팁 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8319</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8319</guid>
+            <pubDate>Mon, 28 Feb 2022 01:04:01 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[2월 23일 마케팅 뉴스클리핑] 네이버, 라방선물하기 버티컬 커머스 서비스 더 키운다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8288</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8288</guid>
-            <pubDate>Wed, 23 Feb 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 네이버, 라방선물하기 버티컬 커머스 서비스 더 키운다  국내 이커머스 시장 성장이 둔화된 가운데, 이커머스 플랫폼 간 경쟁은 한층 더 격화될 것으로 예상된다. 이러한 상황에서 네이버는 올해 스마트스토어를 중심으로 라 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_125cca90c37493b7573291f589f5ac50_42834_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[2월 28일 마케팅 뉴스클리핑] 페이스북, 우크라이나 이용자 '프로필 잠금' 기능 도입 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8310</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8310</guid>
+            <pubDate>Mon, 28 Feb 2022 01:04:01 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[Media Insight] 2021년 광고 시장 결산과 2022년 전망 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -765,39 +800,17 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[구글 X 네이버웹툰 X 한국콘텐츠진흥원, K-웹툰 게임화 및 해외진출 지원 위해 손잡다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8292</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8292</guid>
-            <pubDate>Wed, 23 Feb 2022 11:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[Global Creative] 노잼 도시? 유잼 로컬스토리! (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8291</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8291</guid>
-            <pubDate>Wed, 23 Feb 2022 09:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 언어가 죽어가는 곳 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8290</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8290</guid>
-            <pubDate>Wed, 23 Feb 2022 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일상의 소소한 필요성을 찾아내는 미디어커머스모델 ‘일오오오’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8289</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8289</guid>
-            <pubDate>Wed, 23 Feb 2022 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2월 23일 마케팅 뉴스클리핑] 네이버, 라방·선물하기 버티컬 커머스 서비스 더 키운다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8288</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8288</guid>
-            <pubDate>Wed, 23 Feb 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[다음 중 이미지에서 설명하는 트렌드와 관련이 없는 단어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Mon, 28 Feb 2022 01:04:12 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 중 이미지에서 설명하는 트렌드와 관련이 없는 단어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/ac4524c6c4e6fbc56833210aa6c84d80_16456952399295.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1370_1" value="1" class="AB-radio" id="PQ_BD5826_1370_1_0"><label for="PQ_BD5826_1370_1_0" id="label_PQ_BD5826_1370_1_0">(A) 릴스</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1370_1" value="2" class="AB-radio" id="PQ_BD5826_1370_1_1"><label for="PQ_BD5826_1370_1_1" id="label_PQ_BD5826_1370_1_1">(B) 패스트 래프</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1370_1" value="3" class="AB-radio" id="PQ_BD5826_1370_1_2"><label for="PQ_BD5826_1370_1_2" id="label_PQ_BD5826_1370_1_2">(C) 쇼츠</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1370_1" value="4" class="AB-radio" id="PQ_BD5826_1370_1_3"><label for="PQ_BD5826_1370_1_3" id="label_PQ_BD5826_1370_1_3">(D) 하이라이트</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[행안부, 영업제한 소상공인 지방세 납기 연장·징수유예 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
