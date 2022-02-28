@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 02:34:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 03:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,13 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[일잘러가 되고 싶다면? `된다! 최반장의 실무 엑셀 wit.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-442</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-442</guid>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[애플처럼 구글도 '맞춤형 광고' 위한 앱 추적 막는다 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57230</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57230</guid>
@@ -250,13 +257,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57157</guid>
             <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[팀ROAS]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일잘러가 되고 싶다면? `된다! 최반장의 실무 엑셀 wit.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-442</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-442</guid>
-            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케터가  능력치를 올리는 방법과 전문직 취급을 받.. (아이보스 ─ 인기글)]]></title>
@@ -301,18 +301,18 @@
             <content:encoded><![CDATA[리유]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[신입 시절 회고하기 (긴글 주의) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38504</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38504</guid>
+            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[규S]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[초보마케터 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38396</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38396</guid>
             <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마뇨리따]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제 나이 서른. 마케팅 일을 시작할 수 있을까요? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38461</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38461</guid>
-            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[SBSbiz]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[필독 해킹 블로그 업자 또 나타났습니다 조심들 하세.. (아이보스 ─ 인기글)]]></title>
@@ -322,11 +322,11 @@
             <content:encoded><![CDATA[싸다싸]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신입 시절 회고하기 (긴글 주의) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38504</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38504</guid>
-            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[규S]]></content:encoded>
+            <title><![CDATA[제 나이 서른. 마케팅 일을 시작할 수 있을까요? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38461</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38461</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[SBSbiz]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[입사 4개월차 인하우스 마케팅 신입 고민입니다. (아이보스 ─ 인기글)]]></title>
@@ -593,14 +593,14 @@
             <title><![CDATA[부산국제광고제, ‘MAD’를 테마로 8월 25일 하이브리드 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8324</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8324</guid>
-            <pubDate>Mon, 28 Feb 2022 02:34:06 GMT</pubDate>
+            <pubDate>Mon, 28 Feb 2022 10:59:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구글플레이, ‘창구 프로그램 4기’ 개발사 모집... 국내 중소 개발사 성장과 해외 진출 지원 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8323</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8323</guid>
-            <pubDate>Mon, 28 Feb 2022 02:34:06 GMT</pubDate>
+            <pubDate>Mon, 28 Feb 2022 10:31:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 이미지에서 설명하는 트렌드와 관련이 없는 단어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 02:34:17 GMT</pubDate>
+            <pubDate>Mon, 28 Feb 2022 03:19:07 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 이미지에서 설명하는 트렌드와 관련이 없는 단어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/ac4524c6c4e6fbc56833210aa6c84d80_16456952399295.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
