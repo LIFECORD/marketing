@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 10:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 11:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -259,18 +259,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터가  능력치를 올리는 방법과 전문직 취급을 받.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38365</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38365</guid>
-            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Jazzy]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[4000억 부자가 사업을 키운 방법 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57253</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57253</guid>
             <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케터가  능력치를 올리는 방법과 전문직 취급을 받.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38365</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38365</guid>
+            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Jazzy]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[검색의도란 무엇이고 왜 알아야 하는가 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 이미지에서 설명하는 트렌드와 관련이 없는 단어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 10:20:10 GMT</pubDate>
+            <pubDate>Mon, 28 Feb 2022 11:15:48 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 이미지에서 설명하는 트렌드와 관련이 없는 단어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/ac4524c6c4e6fbc56833210aa6c84d80_16456952399295.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
