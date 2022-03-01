@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-02-28T23:18:27.606Z</updated>
+    <updated>2022-03-01T01:12:39.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메이트, "‘(주)메이트 인디펜던스"로 새롭게 출발하다]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8327</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8327"/>
+        <updated>2022-03-01T01:12:20.138Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코바코, 광고·마케팅 벤처펀드에 50억원 출자]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8326</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8326"/>
+        <updated>2022-03-01T01:12:20.143Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산국제광고제, ‘MAD’를 테마로 8월 25일 하이브리드 개최]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8324</id>
@@ -200,19 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-8297"/>
         <updated>2022-02-24T01:04:32.922Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[트렌드모니터] 코로나19가 바꾼 가족의 풍경, "명절 스트레스 줄고, 마음의 거리는 더 멀어져"]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8296</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8296"/>
-        <updated>2022-02-24T01:04:32.922Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2월 24일 마케팅 뉴스클리핑] 메타, 숏폼 '페이스북 릴스' 공식 출시 외]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8293</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8293"/>
-        <updated>2022-02-23T23:18:31.158Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
 </feed>

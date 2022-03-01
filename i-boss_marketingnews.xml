@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 23:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 01:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메이트, (주)메이트 인디펜던스로 새롭게 출발하다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8327</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8327</guid>
+            <pubDate>Tue, 01 Mar 2022 09:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[창립 22주년을 맞은 광고회사 메이트(대표 정호영)가 법인명을(주)메이트 인디펜던스로 변경하고새로운 CI를 28일 공개했다. 메이트는 전 임직원이 참가한 `New CI 선포식`에서 법인명을 (주)메이트 커뮤니케이션즈에서 (주)메이트  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[코바코, 광고마케팅 벤처펀드에 50억원 출자]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8326</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8326</guid>
+            <pubDate>Tue, 01 Mar 2022 09:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코, 사장 이백만)는 국내 최초로 공공부문이 주도하는 광고마케팅 벤처펀드 조성에 참여한다. 코바코는 지난해 12월 방송통신위원회, 중소벤처기업부, 한국벤처투자와 중소벤처기업의 판로 및  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[부산국제광고제, MAD를 테마로 8월 25일 하이브리드 개최]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8324</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 24 Feb 2022 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)가에이풀(Aful)을 통해 2022년 1월 6일부터 1월 20일까지 50세 이상, 483명을 대상으로 신중년의 AI 스피커 이용 조사를 한 결과, 31.7%의 신중년이 AI 스피커 이용 경험이 있다고 답했다. 2021 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[트렌드모니터] 코로나19가 바꾼 가족의 풍경, 명절 스트레스 줄고, 마음의 거리는 더 멀어져]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8296</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8296</guid>
-            <pubDate>Thu, 24 Feb 2022 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[설날 연휴는 재충전을 위한 휴식기간(66.5%(2020)  71.2%(2021)  73.5%(2022))이라는 응답이 이전 조사 대비 증가세를 보였으며 설 연휴 기간은 휴식, 여가 활동을 할 수 있고, 가족과 함께 할 수 있는 기간이라는 인식이 뚜렷했다. 실제로 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[2월 24일 마케팅 뉴스클리핑] 메타, 숏폼 페이스북 릴스 공식 출시 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8293</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8293</guid>
-            <pubDate>Thu, 24 Feb 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 메타, 숏폼 `페이스북 릴스` 공식 출시  메타가 페이스북 앱에서 숏폼 기능 `릴스`를 공식 출시한다. 페이스북은 이미 피드에서 릴스 기능을 시범 적용해왔다. 이번 공식 출시로 페이스북 릴스는 150여 개국에 도입된다. 페이스 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_aa4146bccb104eb5f9eacc377d1b8312_54941_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
