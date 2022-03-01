@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 01:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 03:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,18 +238,18 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[일잘러가 되고 싶다면? `된다! 최반장의 실무 엑셀 wit.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-442</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-442</guid>
-            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[4000억 부자가 사업을 키운 방법 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57253</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57253</guid>
             <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일잘러가 되고 싶다면? `된다! 최반장의 실무 엑셀 wit.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-442</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-442</guid>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[매출 1도 문제 없는 대표님은 절대 클릭하지 마세요. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-2825-493</guid>
             <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어도비, 디지털 마케팅 플랫폼에 개인화 고객 참여 지원 기능 추가 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8328</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8328</guid>
+            <pubDate>Tue, 01 Mar 2022 10:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[어도비는 브랜드가 마케팅에서 실시간 고객 인사이트를 활용하도록지원하는 어도비 저니 옵티마이저(Adobe Journey Optimizer)의새로운 모바일 기능을 28일 발표했다. 어도비 익스피리언스 플랫폼(Adobe Experience Platform)기반의 이 기능 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[메이트, (주)메이트 인디펜던스로 새롭게 출발하다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,25 +590,24 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[KT 기가지니, 신중년이 선호하는 AI 스피커 1위... 선호 기능은 음성명령, 노인 돌봄에는 긴급 SOS (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8297</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8297</guid>
-            <pubDate>Thu, 24 Feb 2022 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)가에이풀(Aful)을 통해 2022년 1월 6일부터 1월 20일까지 50세 이상, 483명을 대상으로 신중년의 AI 스피커 이용 조사를 한 결과, 31.7%의 신중년이 AI 스피커 이용 경험이 있다고 답했다. 2021 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[어도비, 디지털 마케팅 플랫폼에 개인화 고객 참여 지원 기능 추가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8328</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8328</guid>
+            <pubDate>Tue, 01 Mar 2022 03:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[메이트, "‘(주)메이트 인디펜던스"로 새롭게 출발하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8327</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8327</guid>
-            <pubDate>Tue, 01 Mar 2022 01:12:20 GMT</pubDate>
+            <pubDate>Tue, 01 Mar 2022 09:29:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코바코, 광고·마케팅 벤처펀드에 50억원 출자 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8326</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8326</guid>
-            <pubDate>Tue, 01 Mar 2022 01:12:20 GMT</pubDate>
+            <pubDate>Tue, 01 Mar 2022 09:28:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[KT 기가지니, 신중년이 선호하는 AI 스피커 1위... 선호 기능은 음성명령, 노인 돌봄에는 긴급 SOS (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8297</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8297</guid>
-            <pubDate>Thu, 24 Feb 2022 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 이미지에서 설명하는 트렌드와 관련이 없는 단어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 01 Mar 2022 01:12:30 GMT</pubDate>
+            <pubDate>Tue, 01 Mar 2022 03:21:21 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 이미지에서 설명하는 트렌드와 관련이 없는 단어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/ac4524c6c4e6fbc56833210aa6c84d80_16456952399295.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
