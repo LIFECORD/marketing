@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-03-01T23:18:52.100Z</updated>
+    <updated>2022-03-02T02:43:36.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신선식품 전문몰 '마켓컬리', '오아시스마켓' 전년 동월 대비 결제금액 및 앱 사용자수 상승]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8331</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8331"/>
+        <updated>2022-03-02T02:43:14.878Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021년 일본 총광고비 기록, 6조 7998억엔... 처음으로 인터넷 광고비가 4대 매체 총계를 웃돌아]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8330</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8330"/>
+        <updated>2022-03-02T02:43:14.878Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[해외 크리에이티브] 구찌와 아디다스의 미친 만남]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8329</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8329"/>
+        <updated>2022-03-02T02:43:14.879Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[3월 2일 마케팅 뉴스클리핑] 적에서 동지 된 구글-네이버, 콘텐츠·페이 전방위 협력 외]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8325</id>
@@ -193,26 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-8303"/>
         <updated>2022-02-24T08:20:15.666Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스마일리, 캐롤리나 헤레라 등 50 여개 브랜드와의 ‘콜렉터스 에디션’ 공개]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8301</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8301"/>
-        <updated>2022-02-24T07:16:22.545Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최선목 한화 사장, 제14대 한국광고주협회장 선임]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8300</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8300"/>
-        <updated>2022-02-24T03:16:41.071Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버드뷰 화해, AI가 나한테 꼭 필요한 리뷰만 찾아준다]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8299</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8299"/>
-        <updated>2022-02-24T02:36:37.960Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
 </feed>

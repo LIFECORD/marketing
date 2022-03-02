@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 23:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 02:43:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,18 +238,18 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[일잘러가 되고 싶다면? `된다! 최반장의 실무 엑셀 wit.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-442</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-442</guid>
-            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[4000억 부자가 사업을 키운 방법 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57253</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57253</guid>
             <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일잘러가 되고 싶다면? `된다! 최반장의 실무 엑셀 wit.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-442</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-442</guid>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[애플처럼 구글도 '맞춤형 광고' 위한 앱 추적 막는다 (아이보스 ─ 인기글)]]></title>
@@ -336,6 +336,13 @@
             <content:encoded><![CDATA[마케터1995]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[스마트스토어라는게 연구중인데 상당히 재미있네요. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38464</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38464</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[연봉 동결 됐습니다.. 현재 상황 이직이 맞는지 봐주.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38399</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38399</guid>
@@ -343,11 +350,28 @@
             <content:encoded><![CDATA[니타안]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[맛의고수 프리미엄 수제 꿀호떡 3팩 + 씨앗호떡 3팩 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2825-493</link>
-            <guid>https://www.i-boss.co.kr/ab-2825-493</guid>
-            <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+            <title><![CDATA[신선식품 전문몰 마켓컬리, 오아시스마켓 전년 동월 대비 결제금액 및 앱 사용자수 상승 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8331</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8331</guid>
+            <pubDate>Wed, 02 Mar 2022 10:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[결제추정금액, 전년 동월 대비 마켓컬리 37%, 오아시스마켓 22% 증가 앱 사용자수 역시 전년 동월 대비 마켓컬리 50%, 오아시스마켓 52% 증가   앱/리테일 분석 서비스 와이즈앱리테일굿즈가 새벽배송을 제공하는 대표적인 신선식품 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5c381256f62d690652d1a74f4c2c45e2_30478_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2021년 일본 총광고비 기록, 6조 7998억엔... 처음으로 인터넷 광고비가 4대 매체 총계를 웃돌아 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8330</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8330</guid>
+            <pubDate>Wed, 02 Mar 2022 08:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 일본 총광고비는 전년대비 110.4%,6조 7,998억엔으로 나타났다. 일본의 총 광고비와 매체별업종별 광고비를 추정한 `2021년 일본의 광고비`를 발표한 덴츠에 따르면, 2021년 일본의 총 광고비는 2020년부터 이어지는 신형 코로나  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_446e4a15bc780617599bb7bfc242c9cd_83886_6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[해외 크리에이티브] 구찌와 아디다스의 미친 만남 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8329</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8329</guid>
+            <pubDate>Wed, 02 Mar 2022 08:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠와 패션에서 많은 사람들이 아디다스와 구찌를 힙한 브랜드로 꼽는다. 그래서 다양한 컬래버레이션으로 유명한 구찌가 아디다스와 컬래버레이션을 하기를 기대하는 사람도 상당히 많다. 이미지에 대한 설명을 입력해주 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[3월 2일 마케팅 뉴스클리핑] 적에서 동지 된 구글-네이버, 콘텐츠페이 전방위 협력 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -566,34 +590,31 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[스마일리, 캐롤리나 헤레라 등 50 여개 브랜드와의 콜렉터스 에디션 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8301</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8301</guid>
-            <pubDate>Thu, 24 Feb 2022 07:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[올해로50주년을 맞이한 긍정과 희망의 아이콘 스마일리(Smiley)가 전 세계50개 이상의 브랜드와 컬래버레이션을 진행한 스마일리 콜렉터스 에디션을24일 공개했다. 이번 콜렉터스 에디션은 라프 시몬스(Raf Simons),팜 엔젤스(Palm Angel ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[신선식품 전문몰 '마켓컬리', '오아시스마켓' 전년 동월 대비 결제금액 및 앱 사용자수 상승 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8331</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8331</guid>
+            <pubDate>Wed, 02 Mar 2022 02:43:14 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[최선목 한화 사장, 제14대 한국광고주협회장 선임 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8300</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8300</guid>
-            <pubDate>Thu, 24 Feb 2022 11:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국광고주협회는 2022년 2월 24일(목) 11시 30분 플라자호텔에서 제34회 정기총회를 개최하고, 제14대 신임 회장에 최선목 전 한화 커뮤니케이션위원회 사장, 상근부회장에 노승만 전 삼성물산 부사장을 선임했다. 최선목 회장은  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[2021년 일본 총광고비 기록, 6조 7998억엔... 처음으로 인터넷 광고비가 4대 매체 총계를 웃돌아 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8330</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8330</guid>
+            <pubDate>Wed, 02 Mar 2022 02:43:14 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[버드뷰 화해, AI가 나한테 꼭 필요한 리뷰만 찾아준다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8299</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8299</guid>
-            <pubDate>Thu, 24 Feb 2022 11:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[버드뷰(대표 이웅)가 운영하는 뷰티 앱 화해는 사용자에게 필요한 핵심 리뷰만 요약해 보여주는 `리뷰 토픽` 기능을 오픈했다고 24일 밝혔다.  리뷰 토픽은 화해 앱 내 600만 건 이상의 화장품 리뷰를 AI가 분석해 사용자가 찾는  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16456691624914.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[해외 크리에이티브] 구찌와 아디다스의 미친 만남 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8329</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8329</guid>
+            <pubDate>Wed, 02 Mar 2022 02:43:14 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[3월 2일 마케팅 뉴스클리핑] 적에서 동지 된 구글-네이버, 콘텐츠·페이 전방위 협력 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8325</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8325</guid>
-            <pubDate>Tue, 01 Mar 2022 23:18:30 GMT</pubDate>
+            <pubDate>Wed, 02 Mar 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -779,31 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스마일리, 캐롤리나 헤레라 등 50 여개 브랜드와의 ‘콜렉터스 에디션’ 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8301</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8301</guid>
-            <pubDate>Thu, 24 Feb 2022 07:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최선목 한화 사장, 제14대 한국광고주협회장 선임 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8300</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8300</guid>
-            <pubDate>Thu, 24 Feb 2022 11:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[버드뷰 화해, AI가 나한테 꼭 필요한 리뷰만 찾아준다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8299</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8299</guid>
-            <pubDate>Thu, 24 Feb 2022 11:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 인스타그램 컬렉션 광고 형식에 대한 설명으로 바른 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 01 Mar 2022 23:18:42 GMT</pubDate>
+            <pubDate>Wed, 02 Mar 2022 02:43:27 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 인스타그램 컬렉션 광고 형식에 대한 설명으로 바른 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
