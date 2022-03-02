@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 22:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 23:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[3월 3일 마케팅 뉴스클리핑] 포켓몬빵 찾는 3040 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8334</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8334</guid>
+            <pubDate>Thu, 03 Mar 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 포켓몬빵 찾는 3040  90년대 출시돼 수집 열풍을 불러일으킨 포켓몬스터 빵이 재출시되면서 밀레니얼 세대 사이에서 인기를 얻고 있다. 이처럼  제과업체들이 소비자 요구를 반영해 단종시켰던 제품을 재출시하는 사례가 늘고  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c94fea8c73623f11273a508e3b688541_78204_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KPR x 타파크로스, 구독기반 콘텐츠 플랫폼 KPR 인사이트 트리 론칭]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8333</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8305</guid>
             <pubDate>Fri, 25 Feb 2022 08:37:00 GMT</pubDate>
             <content:encoded><![CDATA[본격화된 4차 산업 혁명으로의 전환, 이를 가속화한 코로나19의 영향으로 인해 불확실성과 변화가 일상인 시대가 되었다. 비즈니스, 소비자의 역할, 행동 양식 등의 가파른 변화의 흐름 속에서 기업들의 생존을위해서 비즈니스  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 엑스라지픽처스, 광고와 드라마 두 마리 토끼 다 잡다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8304</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8304</guid>
-            <pubDate>Fri, 25 Feb 2022 08:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[유수의 광고 및 영상 콘텐츠를 제작해 광고업계에서 이름을 알리고 있는 엑스라지픽처스 서준범 감독/대표가티빙(Tiving) 오리지널 콘텐츠 내과 박원장 드라마 연출 및 극본을 맡았다. 평소 그가 광고에서 보여줬던 특유의유머코 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
