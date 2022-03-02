@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 04:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 05:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -322,18 +322,18 @@
             <content:encoded><![CDATA[마뇨리따]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제 나이 서른. 마케팅 일을 시작할 수 있을까요? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38461</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38461</guid>
-            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[SBSbiz]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[스마트스토어라는게 연구중인데 상당히 재미있네요. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38464</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38464</guid>
             <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제 나이 서른. 마케팅 일을 시작할 수 있을까요? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38461</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38461</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[SBSbiz]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[입사 4개월차 인하우스 마케팅 신입 고민입니다. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38399</guid>
             <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[니타안]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KPR x 타파크로스, 구독기반 콘텐츠 플랫폼 KPR 인사이트 트리 론칭 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8333</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8333</guid>
+            <pubDate>Wed, 02 Mar 2022 05:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[KPR인사이트 트리 공식 오픈 기념식 (왼쪽부터 김주호KPR사장,오른쪽 김용학 타파크로스 대표)     종합커뮤니케이션그룹KPR(사장 김주호)이 빅데이터 미닝 사이언스(meaning science)랩 타파크로스(대표 김용학)와 함께 유료 콘텐츠 구 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[띠부띠부씰이 돌아왔다... 유통업계 재출시 열풍 후끈 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,18 +590,17 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[2월 25일 마케팅 뉴스클리핑] 누구나 입점 가능해진 프리미엄 콘텐츠, 언론은 이탈? 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8302</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8302</guid>
-            <pubDate>Fri, 25 Feb 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 누구나 입점 가능해진 `프리미엄 콘텐츠`, 언론은 이탈?  네이버의 콘텐츠 유료 구독 서비스인 프리미엄 콘텐츠가 정식 오픈했지만, 입점사들의 만족도가 기대를 밑돌고 있다. 특히 초창기 영입했던 언론을 중심으로 이탈 논 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8511a261e01c5a707b79fdb2aff0ffd6_4163_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[KPR x 타파크로스, 구독기반 콘텐츠 플랫폼 ‘KPR 인사이트 트리’ 론칭 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8333</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8333</guid>
+            <pubDate>Wed, 02 Mar 2022 05:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[띠부띠부씰이 돌아왔다... 유통업계 재출시 열풍 후끈 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8332</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8332</guid>
-            <pubDate>Wed, 02 Mar 2022 04:22:22 GMT</pubDate>
+            <pubDate>Wed, 02 Mar 2022 00:38:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[2월 25일 마케팅 뉴스클리핑] 누구나 입점 가능해진 '프리미엄 콘텐츠', 언론은 이탈? 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8302</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8302</guid>
-            <pubDate>Fri, 25 Feb 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 인스타그램 컬렉션 광고 형식에 대한 설명으로 바른 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 02 Mar 2022 04:22:34 GMT</pubDate>
+            <pubDate>Wed, 02 Mar 2022 05:16:57 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 인스타그램 컬렉션 광고 형식에 대한 설명으로 바른 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
