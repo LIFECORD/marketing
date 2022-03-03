@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 05:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 06:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -266,18 +266,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터가  능력치를 올리는 방법과 전문직 취급을 받.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38365</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38365</guid>
-            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Jazzy]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[스마트스토어 10일만에 주문건 100건 넘겼습니다. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38524</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38524</guid>
             <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케터가  능력치를 올리는 방법과 전문직 취급을 받.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38365</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38365</guid>
+            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Jazzy]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[검색의도란 무엇이고 왜 알아야 하는가 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 이미지에서 설명하는 '이 마케팅' 기법은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 03 Mar 2022 05:16:52 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2022 06:22:01 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 설명하는 '이 마케팅' 기법은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/ac4524c6c4e6fbc56833210aa6c84d80_16456956010791.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
