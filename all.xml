@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 22:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 23:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[마케터1995]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[3월 4일 마케팅 뉴스클리핑] 쿠팡, 지난해 매출 22조 원 돌파... 창사 이래 최대 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8339</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8339</guid>
+            <pubDate>Fri, 04 Mar 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 쿠팡, 지난해 매출 22조 원 돌파... 창사 이래 최대  쿠팡은 지난해 매출액이 전년 대비 54% 증가한 22조 2,257억 원을 기록했다고 공시했다. 2010년 쿠팡 창사 이래 최고 매출이다. 다만 1조 8,627억 원의 영업적자를 냈다. 덕평 물류 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_b27a3402f7005cbf7f8260190e8b3566_79069_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[디지털 시대의 마케팅 트렌드는?... HS애드, 핵심 키워드 발표 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8338</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8338</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[아이언소스, 개발자가 실시간으로 세그먼트 수익화 전략을 최적화할 수 있는 다이나믹 세그먼트 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8309</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8309</guid>
-            <pubDate>Fri, 25 Feb 2022 10:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource, NYSE:IS)는 자사 미디에이션 솔루션레벨플레이(LevelPlay)에서 다이나믹 세그먼트를 지원한다고 오늘 공식적으로 발표했다. 새롭게 출시된 다이나믹 세그먼트 기능은 앱 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[3월 4일 마케팅 뉴스클리핑] 쿠팡, 지난해 매출 22조 원 돌파... 창사 이래 최대 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8339</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8339</guid>
+            <pubDate>Thu, 03 Mar 2022 23:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[디지털 시대의 마케팅 트렌드는?... HS애드, 핵심 키워드 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이언소스, 개발자가 실시간으로 세그먼트 수익화 전략을 최적화할 수 있는 ‘다이나믹 세그먼트’ 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8309</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8309</guid>
-            <pubDate>Fri, 25 Feb 2022 10:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[최근 당근마켓이 지역 광고비 과금 방식을 노출당 과금 방식에서 클릭당 과금 방식으로 변경했습니다. 다음 중 '클릭당 과금 방식'에 해당하는 보기는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Thu, 03 Mar 2022 23:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->최근 당근마켓이 지역 광고비 과금 방식을 노출당 과금 방식에서 클릭당 과금 방식으로 변경했습니다. 다음 중 '클릭당 과금 방식'에 해당하는 보기는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1373_1" value="1" class="AB-radio" id="PQ_BD5826_1373_1_0"><label for="PQ_BD5826_1373_1_0" id="label_PQ_BD5826_1373_1_0">(A) CPC</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1373_1" value="2" class="AB-radio" id="PQ_BD5826_1373_1_1"><label for="PQ_BD5826_1373_1_1" id="label_PQ_BD5826_1373_1_1">(B) CPP</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1373_1" value="3" class="AB-radio" id="PQ_BD5826_1373_1_2"><label for="PQ_BD5826_1373_1_2" id="label_PQ_BD5826_1373_1_2">(C) CPM</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1373_1" value="4" class="AB-radio" id="PQ_BD5826_1373_1_3"><label for="PQ_BD5826_1373_1_3" id="label_PQ_BD5826_1373_1_3">(D) CPV</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일상회복 특별융자, 매출감소 비교기간 2배로 확대한다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
