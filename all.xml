@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 23:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 01:08:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,6 +308,13 @@
             <content:encoded><![CDATA[싸다싸]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[스마트스토어 10일만에 주문건 100건 넘겼습니다. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38524</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38524</guid>
+            <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[신입 시절 회고하기 (긴글 주의) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38504</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38504</guid>
@@ -343,11 +350,20 @@
             <content:encoded><![CDATA[마케터1995]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연봉 동결 됐습니다.. 현재 상황 이직이 맞는지 봐주.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38399</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38399</guid>
-            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[니타안]]></content:encoded>
+            <title><![CDATA[스프레드 시트 악몽에서 탈출하다 아이지에이웍스 CDP 디파이너리, 데이터하우스 기능 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8336</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8336</guid>
+            <pubDate>Thu, 03 Mar 2022 08:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[간단한 클릭 몇번으로 기업의 데이터드리븐 의사 결정을 가속화할 수 있는 길이 열린다. 빅데이터 플랫폼 기업 아이지에이웍스(대표 마국성)가 자사CDP(고객데이터플랫폼, Customer Data Platform) `디파이너리`에 기업의 데이터 사일 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[data.ai 코리아, 2022년 모바일 현황 웨비나: 최신 트렌드로 성장세에 올라타기 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8335</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8335</guid>
+            <pubDate>Thu, 03 Mar 2022 08:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[data.ai는`2022년 모바일 현황 웨비나: 최신 트렌드로 성장세에 올라타기`를 3월 8일 개최한다. 모바일 시장은 코로나 장기화로 인한 사용습관이 변경되며 전례없는 성장을 달성하며 글로벌 모바일 앱 개발자 및 퍼블리셔에게 많은  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[3월 3일 마케팅 뉴스클리핑] 포켓몬빵 찾는 3040 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -574,26 +590,24 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_6004fc795aa3dcb3b53264893da330b1_84142_6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세계 최초의 NFT 자동판매기, 뉴욕에 설치되다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8306</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8306</guid>
-            <pubDate>Fri, 25 Feb 2022 08:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[NFT가 인기를 얻고 있지만, 일반인들이 쉽게 접근할 수 없다는 단점이 있다. 사고 싶어도 쉽고 편하게 살 수 없다는 것. 그런데맨하탄에 있는 존 스트리트 29번지에가면 과자나 음료수를 사는 것 만큼 편하게 NFT를 살 수 있다. 솔 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_de5dfd88ef84c111a7507c01088e83ea_82488_6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["스프레드 시트 악몽에서 탈출하다" 아이지에이웍스 CDP 디파이너리, ‘데이터하우스’ 기능 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8336</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8336</guid>
+            <pubDate>Thu, 03 Mar 2022 01:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년 주목해야 하는 마케팅 트렌드 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8305</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8305</guid>
-            <pubDate>Fri, 25 Feb 2022 08:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[본격화된 4차 산업 혁명으로의 전환, 이를 가속화한 코로나19의 영향으로 인해 불확실성과 변화가 일상인 시대가 되었다. 비즈니스, 소비자의 역할, 행동 양식 등의 가파른 변화의 흐름 속에서 기업들의 생존을위해서 비즈니스  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[data.ai 코리아, "2022년 모바일 현황 웨비나: 최신 트렌드로 성장세에 올라타기" 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8335</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8335</guid>
+            <pubDate>Thu, 03 Mar 2022 01:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[3월 3일 마케팅 뉴스클리핑] 포켓몬빵 찾는 3040 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8334</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8334</guid>
-            <pubDate>Wed, 02 Mar 2022 23:18:19 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세계 최초의 NFT 자동판매기, 뉴욕에 설치되다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8306</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8306</guid>
-            <pubDate>Fri, 25 Feb 2022 08:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 주목해야 하는 마케팅 트렌드 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8305</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8305</guid>
-            <pubDate>Fri, 25 Feb 2022 08:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지에서 설명하는 '이 마케팅' 기법은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 02 Mar 2022 23:18:32 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2022 01:08:18 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 설명하는 '이 마케팅' 기법은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/ac4524c6c4e6fbc56833210aa6c84d80_16456956010791.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

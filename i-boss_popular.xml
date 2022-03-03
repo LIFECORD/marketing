@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-03-02T23:18:41.548Z</updated>
+    <updated>2022-03-03T01:08:27.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -174,6 +174,13 @@
         <content type="html"><![CDATA[싸다싸]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[스마트스토어 10일만에 주문건 100건 넘겼습니다.]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38524</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38524"/>
+        <updated>2022-03-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[마케팅플랜]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[신입 시절 회고하기 (긴글 주의)]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38504</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38504"/>
@@ -207,12 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38356"/>
         <updated>2022-02-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[마케터1995]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연봉 동결 됐습니다.. 현재 상황 이직이 맞는지 봐주..]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38399</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38399"/>
-        <updated>2022-02-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[니타안]]></content>
     </entry>
 </feed>
