@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 03:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 05:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보스님, 제 의견이 무시당하는 이유가 뭘까요?]]></title>
+            <link>https://qletter.i-boss.co.kr/view/894068-%EB%B3%B4%EC%8A%A4%EB%8B%98_%EC%A0%9C_%EC%9D%98%EA%B2%AC%EC%9D%B4_%EB%AC%B4%EC%8B%9C%EB%8B%B9%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0%EA%B0%80_%EB%AD%98%EA%B9%8C%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/894068-%EB%B3%B4%EC%8A%A4%EB%8B%98_%EC%A0%9C_%EC%9D%98%EA%B2%AC%EC%9D%B4_%EB%AC%B4%EC%8B%9C%EB%8B%B9%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0%EA%B0%80_%EB%AD%98%EA%B9%8C%EC%9A%94/</guid>
+            <pubDate>Thu, 03 Mar 2022 05:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/894068-보스님_제_의견이_무시당하는_이유가_뭘까요/">
+						<div class="thumb"><img src="/images/qletter_894068.png"></div>
+						<p><strong>보스님, 제 의견이 무시당하는 이유가 뭘까요?</strong>2022.03.03</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_894068.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[콘텐츠 플랫폼을 바라보는 같지만 다른 시각]]></title>
             <link>https://qletter.i-boss.co.kr/view/888919-%EC%BD%98%ED%85%90%EC%B8%A0_%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%84_%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94_%EA%B0%99%EC%A7%80%EB%A7%8C_%EB%8B%A4%EB%A5%B8_%EC%8B%9C%EA%B0%81/</link>
@@ -127,17 +138,6 @@
 						<p><strong>자사몰, 뭐로 만드나요?</strong>2022.01.20</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_842097.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[계속되는 택배 파업, 업계의 대안은? 🤔]]></title>
-            <link>https://qletter.i-boss.co.kr/view/836666-%EA%B3%84%EC%86%8D%EB%90%98%EB%8A%94_%ED%83%9D%EB%B0%B0_%ED%8C%8C%EC%97%85_%EC%97%85%EA%B3%84%EC%9D%98_%EB%8C%80%EC%95%88%EC%9D%80/</link>
-            <guid>https://qletter.i-boss.co.kr/view/836666-%EA%B3%84%EC%86%8D%EB%90%98%EB%8A%94_%ED%83%9D%EB%B0%B0_%ED%8C%8C%EC%97%85_%EC%97%85%EA%B3%84%EC%9D%98_%EB%8C%80%EC%95%88%EC%9D%80/</guid>
-            <pubDate>Mon, 17 Jan 2022 02:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/836666-계속되는_택배_파업_업계의_대안은/">
-						<div class="thumb"><img src="/images/qletter_836666.png"></div>
-						<p><strong>계속되는 택배 파업, 업계의 대안은? 🤔</strong>2022.01.17</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_836666.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
