@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 07:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 08:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디지털 시대의 마케팅 트렌드는?... HS애드, 핵심 키워드 발표]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8338</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8338</guid>
+            <pubDate>Thu, 03 Mar 2022 08:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[HS애드는 디지털 시대의 마케팅 트렌드로 5가지 핵심 키워드 꼽았다고 3일 밝혔다.  이번에 선정된 핵심 키워드는 또 하나의 확장현실(XR) 커머스 모델의 탈중심화 N 커머스 브랜드 플랫폼을 활용한 셀프 데이터 서비스 ESG(환경사 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_ced332f847a0a5c74557c711d1eb3f76_73317_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배달의민족, 지난해 4050세대 주문 비중 증가]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8337</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8309</guid>
             <pubDate>Fri, 25 Feb 2022 10:27:00 GMT</pubDate>
             <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource, NYSE:IS)는 자사 미디에이션 솔루션레벨플레이(LevelPlay)에서 다이나믹 세그먼트를 지원한다고 오늘 공식적으로 발표했다. 새롭게 출시된 다이나믹 세그먼트 기능은 앱 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[미디어에 대한 소비자 지출 가속화... 2021년 6.7% 증가한 2조 1400억 달러]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8308</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8308</guid>
-            <pubDate>Fri, 25 Feb 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[PQ미디어의 `미디어에 대한 글로벌 소비자 지출 전망(Global Consumer Spending on Media Forecast)` 보고서에 따르면, 미디어 콘텐츠와 기술에 대한 전 세계 소비자 지출은 2021년 6.7% 증가해 2년 연속 2조 1390억 달러로 급증했다. 이는 5년 만에 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

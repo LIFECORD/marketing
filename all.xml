@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 07:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 08:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[마케터1995]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[디지털 시대의 마케팅 트렌드는?... HS애드, 핵심 키워드 발표 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8338</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8338</guid>
+            <pubDate>Thu, 03 Mar 2022 08:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[HS애드는 디지털 시대의 마케팅 트렌드로 5가지 핵심 키워드 꼽았다고 3일 밝혔다.  이번에 선정된 핵심 키워드는 또 하나의 확장현실(XR) 커머스 모델의 탈중심화 N 커머스 브랜드 플랫폼을 활용한 셀프 데이터 서비스 ESG(환경사 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_ced332f847a0a5c74557c711d1eb3f76_73317_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[배달의민족, 지난해 4050세대 주문 비중 증가 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8337</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8337</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[미디어에 대한 소비자 지출 가속화... 2021년 6.7% 증가한 2조 1400억 달러 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8308</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8308</guid>
-            <pubDate>Fri, 25 Feb 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[PQ미디어의 `미디어에 대한 글로벌 소비자 지출 전망(Global Consumer Spending on Media Forecast)` 보고서에 따르면, 미디어 콘텐츠와 기술에 대한 전 세계 소비자 지출은 2021년 6.7% 증가해 2년 연속 2조 1390억 달러로 급증했다. 이는 5년 만에 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[디지털 시대의 마케팅 트렌드는?... HS애드, 핵심 키워드 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8338</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8338</guid>
+            <pubDate>Thu, 03 Mar 2022 08:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[배달의민족, 지난해 4050세대 주문 비중 증가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미디어에 대한 소비자 지출 가속화... 2021년 6.7% 증가한 2조 1400억 달러 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8308</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8308</guid>
-            <pubDate>Fri, 25 Feb 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지에서 설명하는 '이 마케팅' 기법은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 03 Mar 2022 07:17:35 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2022 08:20:53 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 설명하는 '이 마케팅' 기법은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/ac4524c6c4e6fbc56833210aa6c84d80_16456956010791.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
