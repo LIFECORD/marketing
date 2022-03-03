@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 01:08:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 02:43:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배달의민족, 지난해 4050세대 주문 비중 증가]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8337</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8337</guid>
+            <pubDate>Thu, 03 Mar 2022 10:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[배달의민족 주문 데이터 분석한 `배민트렌드 2022` 출시  배달앱 배달의민족에서 중장년층인 4050세대 주문이 차지하는 비중이 늘어난 것으로 나타났다.   배달의민족 운영사 우아한형제들은 지난해 1월부터 12월까지 주문 데이터 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_bd51eca7c1f544ee84b695ec24d36e5e_7391_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스프레드 시트 악몽에서 탈출하다 아이지에이웍스 CDP 디파이너리, 데이터하우스 기능 출시]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8336</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 25 Feb 2022 08:39:00 GMT</pubDate>
             <content:encoded><![CDATA[PQ미디어의 `미디어에 대한 글로벌 소비자 지출 전망(Global Consumer Spending on Media Forecast)` 보고서에 따르면, 미디어 콘텐츠와 기술에 대한 전 세계 소비자 지출은 2021년 6.7% 증가해 2년 연속 2조 1390억 달러로 급증했다. 이는 5년 만에 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외 크리에이티브] 탄산없는 콜라가 더 맛있다? 펩시, 크리미한 콜라를 론칭하다.]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8307</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8307</guid>
-            <pubDate>Fri, 25 Feb 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[콜라는 100년이 넘게 존재해왔다. 맛이나 포장은 계속 변했지만, 한가지 변함이 없는 것이 있다. 바로 톡 쏘는 맛과 탄산 거품. 입 안에서 퍼지는 차가운탄산이야말로 콜라는 마시는 이유 아닐까 싶다. 요즘 미지근한 소주가 유 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_6004fc795aa3dcb3b53264893da330b1_84142_6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

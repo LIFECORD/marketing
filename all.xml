@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 01:08:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 02:43:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -273,6 +273,13 @@
             <content:encoded><![CDATA[Jazzy]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[스마트스토어 10일만에 주문건 100건 넘겼습니다. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38524</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38524</guid>
+            <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[검색의도란 무엇이고 왜 알아야 하는가 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57170</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57170</guid>
@@ -308,11 +315,11 @@
             <content:encoded><![CDATA[싸다싸]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스마트스토어 10일만에 주문건 100건 넘겼습니다. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38524</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38524</guid>
-            <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+            <title><![CDATA[초보마케터 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38396</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38396</guid>
+            <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마뇨리따]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[신입 시절 회고하기 (긴글 주의) (아이보스 ─ 인기글)]]></title>
@@ -329,13 +336,6 @@
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[초보마케터 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38396</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38396</guid>
-            <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마뇨리따]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[제 나이 서른. 마케팅 일을 시작할 수 있을까요? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38461</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38461</guid>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38356</guid>
             <pubDate>Wed, 09 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케터1995]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[배달의민족, 지난해 4050세대 주문 비중 증가 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8337</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8337</guid>
+            <pubDate>Thu, 03 Mar 2022 10:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[배달의민족 주문 데이터 분석한 `배민트렌드 2022` 출시  배달앱 배달의민족에서 중장년층인 4050세대 주문이 차지하는 비중이 늘어난 것으로 나타났다.   배달의민족 운영사 우아한형제들은 지난해 1월부터 12월까지 주문 데이터 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_bd51eca7c1f544ee84b695ec24d36e5e_7391_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스프레드 시트 악몽에서 탈출하다 아이지에이웍스 CDP 디파이너리, 데이터하우스 기능 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,25 +590,24 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[해외 크리에이티브] 탄산없는 콜라가 더 맛있다? 펩시, 크리미한 콜라를 론칭하다. (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8307</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8307</guid>
-            <pubDate>Fri, 25 Feb 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[콜라는 100년이 넘게 존재해왔다. 맛이나 포장은 계속 변했지만, 한가지 변함이 없는 것이 있다. 바로 톡 쏘는 맛과 탄산 거품. 입 안에서 퍼지는 차가운탄산이야말로 콜라는 마시는 이유 아닐까 싶다. 요즘 미지근한 소주가 유 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_6004fc795aa3dcb3b53264893da330b1_84142_6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[배달의민족, 지난해 4050세대 주문 비중 증가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8337</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8337</guid>
+            <pubDate>Thu, 03 Mar 2022 02:43:19 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["스프레드 시트 악몽에서 탈출하다" 아이지에이웍스 CDP 디파이너리, ‘데이터하우스’ 기능 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8336</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8336</guid>
-            <pubDate>Thu, 03 Mar 2022 01:08:05 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2022 08:56:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[data.ai 코리아, "2022년 모바일 현황 웨비나: 최신 트렌드로 성장세에 올라타기" 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8335</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8335</guid>
-            <pubDate>Thu, 03 Mar 2022 01:08:05 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2022 08:39:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[해외 크리에이티브] "탄산없는 콜라가 더 맛있다?" 펩시, 크리미한 콜라를 론칭하다. (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8307</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8307</guid>
-            <pubDate>Fri, 25 Feb 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지에서 설명하는 '이 마케팅' 기법은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 03 Mar 2022 01:08:18 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2022 02:43:30 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 설명하는 '이 마케팅' 기법은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/ac4524c6c4e6fbc56833210aa6c84d80_16456956010791.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
