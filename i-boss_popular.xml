@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-03-04T04:22:43.270Z</updated>
+    <updated>2022-03-04T05:17:46.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -125,6 +125,13 @@
         <content type="html"><![CDATA[마케팅플랜]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[애플처럼 구글도 '맞춤형 광고' 위한 앱 추적 막는다]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57230</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57230"/>
+        <updated>2022-02-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[매출 1도 문제 없는 대표님은 절대 클릭하지 마세요.]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57157</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57157"/>
@@ -132,11 +139,11 @@
         <content type="html"><![CDATA[팀ROAS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플처럼 구글도 '맞춤형 광고' 위한 앱 추적 막는다]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57230</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57230"/>
-        <updated>2022-02-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
+        <title type="html"><![CDATA[광고 소재 기획은 해야겠고 머리는 안 굴러갈 때?]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57274</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57274"/>
+        <updated>2022-02-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[수D]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마케터가  능력치를 올리는 방법과 전문직 취급을 받..]]></title>
@@ -158,13 +165,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38472"/>
         <updated>2022-02-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[히야아아아앗]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광고 소재 기획은 해야겠고 머리는 안 굴러갈 때?]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57274</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57274"/>
-        <updated>2022-02-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[수D]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신입 시절 회고하기 (긴글 주의)]]></title>
