@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 11:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 12:29:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,18 +224,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[`블로그체험단 효과 없는 이유가 이거였어?` 체험단 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57212</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57212</guid>
-            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[용서할게이츠]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[일잘러가 되고 싶다면? `된다! 최반장의 실무 엑셀 wit.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-442</link>
             <guid>https://www.i-boss.co.kr/ab-2973-442</guid>
             <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[`블로그체험단 효과 없는 이유가 이거였어?` 체험단 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57212</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57212</guid>
+            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[용서할게이츠]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[광고 소재 기획은 해야겠고 머리는 안 굴러갈 때? (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[최근 당근마켓이 지역 광고비 과금 방식을 노출당 과금 방식에서 클릭당 과금 방식으로 변경했습니다. 다음 중 '클릭당 과금 방식'에 해당하는 보기는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 04 Mar 2022 11:15:41 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2022 12:29:01 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 당근마켓이 지역 광고비 과금 방식을 노출당 과금 방식에서 클릭당 과금 방식으로 변경했습니다. 다음 중 '클릭당 과금 방식'에 해당하는 보기는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
