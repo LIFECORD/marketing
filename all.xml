@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 01:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 02:45:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,13 @@
             <content:encoded><![CDATA[히야아아아앗]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[광고 소재 기획은 해야겠고 머리는 안 굴러갈 때? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57274</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57274</guid>
+            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[수D]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[신입 시절 회고하기 (긴글 주의) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38504</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38504</guid>
@@ -329,13 +336,6 @@
             <content:encoded><![CDATA[마뇨리따]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[광고 소재 기획은 해야겠고 머리는 안 굴러갈 때? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57274</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57274</guid>
-            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[수D]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[스마트스토어라는게 연구중인데 상당히 재미있네요. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38464</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38464</guid>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38461</guid>
             <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[SBSbiz]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[10대부터 20대까지 신학기 준비 온라인에서 한 번에... 에이블리, 개학룩, 문구류 검색량 급증 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8344</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8344</guid>
+            <pubDate>Fri, 04 Mar 2022 10:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[에이블리코퍼레이션(대표 강석훈)의 스타일 커머스 플랫폼,에이블리는 새 학기가 시작되면서 교복 아이템과 캠퍼스에 어울리는 개강룩 관련 상품 수요가 급증했다고4일 밝혔다. 에이블리2월 소비자 앱 이용 현황 분석 결과,등 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2021년 글로벌 게임 앱 설치, iOS 6% 감소 및 안드로이드 22% 증가 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,39 +590,38 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[덴츠, 소비자 행동과 브랜드의 반응을 형성할 4가지 트렌드 제시 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8315</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8315</guid>
-            <pubDate>Sun, 27 Feb 2022 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[사람들이 새로운 일상의 삶에 적응해나가고 있다. 소비자의 행동 역시 기존과는 다른 모습을 보일 것이다. 덴츠는 덴츠컨슈머 비전 2030에서 향후 10년 동안 소비자 행동에 영향을 미칠 4가지 중요한 주제를 인식했다. 이러한 주 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[10대부터 20대까지 신학기 준비 온라인에서 한 번에... 에이블리, "개학룩, 문구류" 검색량 급증 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8344</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8344</guid>
+            <pubDate>Fri, 04 Mar 2022 02:44:38 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021년 글로벌 게임 앱 설치, iOS 6% 감소 및 안드로이드 22% 증가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8343</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8343</guid>
-            <pubDate>Fri, 04 Mar 2022 01:12:44 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2022 09:34:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[디지털 만으로 Z세대 소비자를 잡을 수 없다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8342</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8342</guid>
-            <pubDate>Fri, 04 Mar 2022 01:12:44 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2022 08:54:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소비자에게 연관성 높은 브랜드는? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8341</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8341</guid>
-            <pubDate>Fri, 04 Mar 2022 01:12:44 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2022 08:53:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[리프트오프 x 애드저스트, "MZ세대를 사로잡는 소셜 앱 마케팅 가이드 2022" 웨비나 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8340</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8340</guid>
-            <pubDate>Fri, 04 Mar 2022 01:12:44 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2022 08:53:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[덴츠, 소비자 행동과 브랜드의 반응을 형성할 4가지 트렌드 제시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8315</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8315</guid>
-            <pubDate>Sun, 27 Feb 2022 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[최근 당근마켓이 지역 광고비 과금 방식을 노출당 과금 방식에서 클릭당 과금 방식으로 변경했습니다. 다음 중 '클릭당 과금 방식'에 해당하는 보기는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 04 Mar 2022 01:12:56 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2022 02:44:51 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 당근마켓이 지역 광고비 과금 방식을 노출당 과금 방식에서 클릭당 과금 방식으로 변경했습니다. 다음 중 '클릭당 과금 방식'에 해당하는 보기는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

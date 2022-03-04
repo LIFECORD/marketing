@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 01:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 02:45:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10대부터 20대까지 신학기 준비 온라인에서 한 번에... 에이블리, 개학룩, 문구류 검색량 급증]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8344</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8344</guid>
+            <pubDate>Fri, 04 Mar 2022 10:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[에이블리코퍼레이션(대표 강석훈)의 스타일 커머스 플랫폼,에이블리는 새 학기가 시작되면서 교복 아이템과 캠퍼스에 어울리는 개강룩 관련 상품 수요가 급증했다고4일 밝혔다. 에이블리2월 소비자 앱 이용 현황 분석 결과,등 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2021년 글로벌 게임 앱 설치, iOS 6% 감소 및 안드로이드 22% 증가]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8343</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8316</guid>
             <pubDate>Sun, 27 Feb 2022 08:47:00 GMT</pubDate>
             <content:encoded><![CDATA[숏폼 동영상이 인기를 끌면서 가장 각광받는 앱은 `틱톡`이다. 미국과 중국의 분쟁 속에서도 영향력은 점점 커져가고 있다. 당연히 틱톡이 미국 숏폼 동영상 플랫폼 중 1위라고 생각한다. 그런데 조사 결과, 틱톡은 `3위`에 그친  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[덴츠, 소비자 행동과 브랜드의 반응을 형성할 4가지 트렌드 제시]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8315</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8315</guid>
-            <pubDate>Sun, 27 Feb 2022 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[사람들이 새로운 일상의 삶에 적응해나가고 있다. 소비자의 행동 역시 기존과는 다른 모습을 보일 것이다. 덴츠는 덴츠컨슈머 비전 2030에서 향후 10년 동안 소비자 행동에 영향을 미칠 4가지 중요한 주제를 인식했다. 이러한 주 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
