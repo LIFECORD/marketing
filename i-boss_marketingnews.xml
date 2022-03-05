@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 23:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 01:07:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트렌드모니터] 급변하는 국제 정세 속 현 정부 외교정책에 대한 신뢰도 낮아... 반중 한미관계 중시 두드러져]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8346</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8346</guid>
+            <pubDate>Sat, 05 Mar 2022 09:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[예로부터 한반도는 지정학적 위치로 인해 강대국 사이에서 긴밀한 생존 전략을 요구해왔다.최근 미중 사이 패권 갈등이 가속화되면서 우리 정부의 외교 전략은 더욱 중요해지고 있으며,보다 복잡한 외교 시험대에 올라있다 해 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[10대부터 20대까지 신학기 준비 온라인에서 한 번에... 에이블리, 개학룩, 문구류 검색량 급증]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8344</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8317</guid>
             <pubDate>Sun, 27 Feb 2022 08:47:00 GMT</pubDate>
             <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 과학기술정보통신부(장관 임혜숙), 온라인광고분쟁조정위원회(위원장 최승원)와 2021 온라인광고 분쟁조정 사례집 및 온라인광고 계약안내서를 발간했다. KISA는 온라인광고 대행 계약으로 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 틱톡이 미국에서 숏폼 동영상 1위 플랫폼이 아니다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8316</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8316</guid>
-            <pubDate>Sun, 27 Feb 2022 08:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[숏폼 동영상이 인기를 끌면서 가장 각광받는 앱은 `틱톡`이다. 미국과 중국의 분쟁 속에서도 영향력은 점점 커져가고 있다. 당연히 틱톡이 미국 숏폼 동영상 플랫폼 중 1위라고 생각한다. 그런데 조사 결과, 틱톡은 `3위`에 그친  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
