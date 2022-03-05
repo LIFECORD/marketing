@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 05:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 06:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기업의 사회적 책임에 대한 소비자의 높은 기대도]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8348</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8348</guid>
+            <pubDate>Sat, 05 Mar 2022 06:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[러시아의 우크라이나 침공 이후, 러시아와의 사업을 중단하는 글로벌 기업들이 늘고 있다. 애플 은자사 모든 제품의 판매를 중단하고, 결제 서비스인 애플페이 사용도 제한했다.나이키 와델 역시 러시아 내 상품 판매를 중단했 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[방통위 방송광고 제작비 지원 받은 중소기업, 작년 매출 12.9% 및 고용 7.7% 증가]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8347</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 28 Feb 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 페이스북, 우크라이나 이용자 `프로필 잠금` 기능 도입  페이스북이 우크라이나 이용자를 위한 `프로필 잠금` 기능을 도입했다. 친구가 아니면 프로필 사진을 다운로드하거나 공유하지 못하게 하고, 타임라인을 못 보게 하는  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e45ddb2ae66bae3516e2b42df848f199_97628_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Media Insight] 2021년 광고 시장 결산과 2022년 전망]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8318</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8318</guid>
-            <pubDate>Sun, 27 Feb 2022 08:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[코로나 팬데믹 2년 후,광고 시장에는 무슨 일이 있었나  코로나 팬데믹 선언 후 약 2년이 지났다. 코로나 발생 이후 경제 역성장과 소비 심리의 위축, 기업의 마케팅 활동 축소로 광고 시장은 수많은 위기를 겪었고, 결국 20년에는 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
