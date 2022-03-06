@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 22:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 23:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[3월 7일 마케팅 뉴스클리핑] 쿠팡 유료회원 900만 명... 한국판 아마존 프라임 꿈꾼다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8345</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8345</guid>
+            <pubDate>Mon, 07 Mar 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 쿠팡 유료회원 900만 명... 한국판 `아마존 프라임` 꿈꾼다  이커머스 역사상 처음으로 `매출 20조`를 돌파한 쿠팡이 유료 멤버십 `와우`로 `록인 효과`를 노린다. 쿠팡의 지난해 말 기준 와우 멤버십 회원 수는 900만 명에 이른다.  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5a649efc8a1f1544e41cac8ed56fe64b_10295_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년 타이포그래피 트렌드]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8352</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 28 Feb 2022 10:31:00 GMT</pubDate>
             <content:encoded><![CDATA[구글플레이가 창구 프로그램4기 개발사를 모집한다고28일 밝혔다.창업과 구글플레이의 각각 앞자(창+구)를 따온 창구 프로그램은 구글과 중소벤처기업부,창업진흥원이 함께하는 국내 중소 개발사 성장지원 프로그램이다. 한국 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_364861bf08dd7350bc00aa0f023368bc_93299_6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청년마케터, 임인년 첫 월간모임... 데이터 시각화의 중요성 전해]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8322</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8322</guid>
-            <pubDate>Mon, 28 Feb 2022 09:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 26일직장인 커뮤니티 청년마케터(헤드디렉터 박윤찬)가 마케터 및 광고업계 재직자를 대상으로 임인년 첫 번째 청년마케터 월간모임 세미나를 개최하였다. 이날 강연은 마케터를 위한 데이터 시각화와 스토리텔링이라는  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

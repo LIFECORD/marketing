@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 22:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 23:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[3월 7일 마케팅 뉴스클리핑] 쿠팡 유료회원 900만 명... 한국판 아마존 프라임 꿈꾼다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8345</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8345</guid>
+            <pubDate>Mon, 07 Mar 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 쿠팡 유료회원 900만 명... 한국판 `아마존 프라임` 꿈꾼다  이커머스 역사상 처음으로 `매출 20조`를 돌파한 쿠팡이 유료 멤버십 `와우`로 `록인 효과`를 노린다. 쿠팡의 지난해 말 기준 와우 멤버십 회원 수는 900만 명에 이른다.  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5a649efc8a1f1544e41cac8ed56fe64b_10295_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022년 타이포그래피 트렌드 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8352</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8352</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_364861bf08dd7350bc00aa0f023368bc_93299_6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[청년마케터, 임인년 첫 월간모임... 데이터 시각화의 중요성 전해 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8322</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8322</guid>
-            <pubDate>Mon, 28 Feb 2022 09:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 26일직장인 커뮤니티 청년마케터(헤드디렉터 박윤찬)가 마케터 및 광고업계 재직자를 대상으로 임인년 첫 번째 청년마케터 월간모임 세미나를 개최하였다. 이날 강연은 마케터를 위한 데이터 시각화와 스토리텔링이라는  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[3월 7일 마케팅 뉴스클리핑] 쿠팡 유료회원 900만 명... 한국판 '아마존 프라임' 꿈꾼다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8345</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8345</guid>
+            <pubDate>Sun, 06 Mar 2022 23:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 타이포그래피 트렌드 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[청년마케터, 임인년 첫 월간모임... "데이터 시각화의 중요성" 전해 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8322</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8322</guid>
-            <pubDate>Mon, 28 Feb 2022 09:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[다음 보기 중 정보통신망법에 의한 카카오 알림톡 발송 정책에 위반되지 않는 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Sun, 06 Mar 2022 23:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 보기 중 정보통신망법에 의한 카카오 알림톡 발송 정책에 위반되지 않는 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1374_1" value="1" class="AB-radio" id="PQ_BD5826_1374_1_0"><label for="PQ_BD5826_1374_1_0" id="label_PQ_BD5826_1374_1_0">(A) 보스님, 만족도 설문하시고 1,000포인트 받아가세요. www.설문링크.com</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1374_1" value="2" class="AB-radio" id="PQ_BD5826_1374_1_1"><label for="PQ_BD5826_1374_1_1" id="label_PQ_BD5826_1374_1_1">(B) 보스님, 구매하신 OOO 주문이 완료되었습니다.</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1374_1" value="3" class="AB-radio" id="PQ_BD5826_1374_1_2"><label for="PQ_BD5826_1374_1_2" id="label_PQ_BD5826_1374_1_2">(C) 보스님, OO상품 1+1 50,000원 입니다. 수신을 원치 않으시면 상단 '알림톡차단' 버튼을 눌러주세요.</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1374_1" value="4" class="AB-radio" id="PQ_BD5826_1374_1_3"><label for="PQ_BD5826_1374_1_3" id="label_PQ_BD5826_1374_1_3">(D) 보스님에게만 드리는 1만원 할인 쿠폰! 쿠폰 유효기간 : 00년 00월 00일</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일상회복 특별융자, 매출감소 비교기간 2배로 확대한다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
