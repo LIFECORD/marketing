@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 13:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 14:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -266,18 +266,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[매출 1도 문제 없는 대표님은 절대 클릭하지 마세요. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57157</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57157</guid>
-            <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[팀ROAS]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[지금까지 모은 마케팅 개꿀팁 유용한 사이트 모음!!(8.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57310</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57310</guid>
             <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[리유]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[매출 1도 문제 없는 대표님은 절대 클릭하지 마세요. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57157</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57157</guid>
+            <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[팀ROAS]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[신입 시절 회고하기 (긴글 주의) (아이보스 ─ 인기글)]]></title>
@@ -329,18 +329,18 @@
             <content:encoded><![CDATA[리유]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[초보마케터 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38396</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38396</guid>
-            <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마뇨리따]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[잘 키운 SNS로 수익과 브랜딩을 한 번에! `SNS로 돈 벌.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-445</link>
             <guid>https://www.i-boss.co.kr/ab-2973-445</guid>
             <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[초보마케터 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38396</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38396</guid>
+            <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마뇨리따]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[신규 스마트스토어 어제 저녁부터 광고 시작했습니.. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[최근 당근마켓이 지역 광고비 과금 방식을 노출당 과금 방식에서 클릭당 과금 방식으로 변경했습니다. 다음 중 '클릭당 과금 방식'에 해당하는 보기는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 06 Mar 2022 13:21:50 GMT</pubDate>
+            <pubDate>Sun, 06 Mar 2022 14:16:13 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 당근마켓이 지역 광고비 과금 방식을 노출당 과금 방식에서 클릭당 과금 방식으로 변경했습니다. 다음 중 '클릭당 과금 방식'에 해당하는 보기는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
