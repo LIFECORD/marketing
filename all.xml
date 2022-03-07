@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 22:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 23:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[리유]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[3월 8일 마케팅 뉴스클리핑] 코바코, 국내 첫 AI 광고 지원 아이작 서비스 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8358</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8358</guid>
+            <pubDate>Tue, 08 Mar 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 코바코, 국내 첫 AI 광고 지원 `아이작` 서비스  코바코는 국내 최초로 AI 기반 광고 창작 지원 시스템 `아이작` 서비스를 선보였다. `아이작`은 광고 콘텐츠 데이터와 AI 영상인식이 융합된 기술로 메타데이터 50만 건이 축적된  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1afe49ea06894017729e8beb084f78ab_90791_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[코바코, 아이작 서비스 론칭 AI빅데이터로 손쉽게 광고 제작 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8361</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8361</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[신선식품 전문몰 마켓컬리, 오아시스마켓 전년 동월 대비 결제금액 및 앱 사용자수 상승 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8331</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8331</guid>
-            <pubDate>Wed, 02 Mar 2022 10:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[결제추정금액, 전년 동월 대비 마켓컬리 37%, 오아시스마켓 22% 증가 앱 사용자수 역시 전년 동월 대비 마켓컬리 50%, 오아시스마켓 52% 증가   앱/리테일 분석 서비스 와이즈앱리테일굿즈가 새벽배송을 제공하는 대표적인 신선식품 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5c381256f62d690652d1a74f4c2c45e2_30478_1.png" length="0" type="image/png"/>
+            <title><![CDATA[[3월 8일 마케팅 뉴스클리핑] 코바코, 국내 첫 AI 광고 지원 '아이작' 서비스 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8358</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8358</guid>
+            <pubDate>Mon, 07 Mar 2022 23:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코바코, '아이작' 서비스 론칭… AI‧빅데이터로 손쉽게 광고 제작 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신선식품 전문몰 '마켓컬리', '오아시스마켓' 전년 동월 대비 결제금액 및 앱 사용자수 상승 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8331</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8331</guid>
-            <pubDate>Wed, 02 Mar 2022 10:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[최근 틱톡이 지원하는 최대 동영상 길이를 ○분까지 늘릴 계획을 밝혔습니다. 빈칸에 들어갈 숫자는 얼마일까요?(hint: 힌트? 오히려 좋아! 3/3 뉴스클리핑 보러 가기) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Mon, 07 Mar 2022 23:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->최근 틱톡이 지원하는 최대 동영상 길이를 ○분까지 늘릴 계획을 밝혔습니다. 빈칸에 들어갈 숫자는 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8334" target="_blank">힌트? 오히려 좋아! 3/3 뉴스클리핑 보러 가기</a>)</span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1375_1" value="1" class="AB-radio" id="PQ_BD5826_1375_1_0"><label for="PQ_BD5826_1375_1_0" id="label_PQ_BD5826_1375_1_0">(A) 3</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1375_1" value="2" class="AB-radio" id="PQ_BD5826_1375_1_1"><label for="PQ_BD5826_1375_1_1" id="label_PQ_BD5826_1375_1_1">(B) 5</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1375_1" value="3" class="AB-radio" id="PQ_BD5826_1375_1_2"><label for="PQ_BD5826_1375_1_2" id="label_PQ_BD5826_1375_1_2">(C) 8</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1375_1" value="4" class="AB-radio" id="PQ_BD5826_1375_1_3"><label for="PQ_BD5826_1375_1_3" id="label_PQ_BD5826_1375_1_3">(D) 10</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일상회복 특별융자, 매출감소 비교기간 2배로 확대한다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

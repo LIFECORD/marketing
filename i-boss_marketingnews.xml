@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 22:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 23:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[3월 8일 마케팅 뉴스클리핑] 코바코, 국내 첫 AI 광고 지원 아이작 서비스 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8358</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8358</guid>
+            <pubDate>Tue, 08 Mar 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 코바코, 국내 첫 AI 광고 지원 `아이작` 서비스  코바코는 국내 최초로 AI 기반 광고 창작 지원 시스템 `아이작` 서비스를 선보였다. `아이작`은 광고 콘텐츠 데이터와 AI 영상인식이 융합된 기술로 메타데이터 50만 건이 축적된  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1afe49ea06894017729e8beb084f78ab_90791_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코바코, 아이작 서비스 론칭 AI빅데이터로 손쉽게 광고 제작]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8361</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 02 Mar 2022 00:38:00 GMT</pubDate>
             <content:encoded><![CDATA[식품유통업계에 상품 재출시 바람이 분다. 오래 전 인기를 끌다 생산이 중단된 상품을 다시 선보여 소비자 향수를 자극하는 마케팅이 이어진다.  SPC삼립은 소비자 의견을 반영해 올해 2월 23일 포켓몬빵 재출시를 결정했다. 돌아 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[신선식품 전문몰 마켓컬리, 오아시스마켓 전년 동월 대비 결제금액 및 앱 사용자수 상승]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8331</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8331</guid>
-            <pubDate>Wed, 02 Mar 2022 10:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[결제추정금액, 전년 동월 대비 마켓컬리 37%, 오아시스마켓 22% 증가 앱 사용자수 역시 전년 동월 대비 마켓컬리 50%, 오아시스마켓 52% 증가   앱/리테일 분석 서비스 와이즈앱리테일굿즈가 새벽배송을 제공하는 대표적인 신선식품 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5c381256f62d690652d1a74f4c2c45e2_30478_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
