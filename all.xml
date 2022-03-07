@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 01:06:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 02:39:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,17 +238,17 @@
             <content:encoded><![CDATA[용서할게이츠]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[4000억 부자가 사업을 키운 방법 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57253</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57253</guid>
-            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[돈 1만원도 안쓰고 매출 & 재구매 2배 올리는 방법 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57184</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57184</guid>
             <pubDate>Fri, 11 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[4000억 부자가 사업을 키운 방법 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57253</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57253</guid>
+            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
@@ -308,6 +308,13 @@
             <content:encoded><![CDATA[히야아아아앗]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[잘 키운 SNS로 수익과 브랜딩을 한 번에! `SNS로 돈 벌.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-445</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-445</guid>
+            <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[필독 해킹 블로그 업자 또 나타났습니다 조심들 하세.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38502</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38502</guid>
@@ -327,13 +334,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57209</guid>
             <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[리유]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[잘 키운 SNS로 수익과 브랜딩을 한 번에! `SNS로 돈 벌.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-445</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-445</guid>
-            <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[초보마케터 (아이보스 ─ 인기글)]]></title>
@@ -593,35 +593,35 @@
             <title><![CDATA[BC카드, 크립토닷컴 · Visa와 글로벌 디지털 결제 협업 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8357</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8357</guid>
-            <pubDate>Mon, 07 Mar 2022 01:06:36 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 09:39:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이노션, 아태지역 최대 광고제 ‘올해의 에이전시’ 선정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8356</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8356</guid>
-            <pubDate>Mon, 07 Mar 2022 01:06:36 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 09:15:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아이디엇, 대기업 인수합병 모두 거절하고 "이노레드"와 손 잡았다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8355</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8355</guid>
-            <pubDate>Mon, 07 Mar 2022 01:06:36 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 08:53:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 소셜 플랫폼의 여성 임원 비율 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8354</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8354</guid>
-            <pubDate>Mon, 07 Mar 2022 01:06:36 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 08:51:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[해외 크리에이티브] 코카콜라, 일본에 페트병 없는 자판기 도입 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8353</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8353</guid>
-            <pubDate>Mon, 07 Mar 2022 01:06:36 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 08:48:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 보기 중 정보통신망법에 의한 카카오 알림톡 발송 정책에 위반되지 않는 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 07 Mar 2022 01:06:47 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 02:39:28 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 보기 중 정보통신망법에 의한 카카오 알림톡 발송 정책에 위반되지 않는 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

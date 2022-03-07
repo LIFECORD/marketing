@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-03-07T01:06:56.185Z</updated>
+    <updated>2022-03-07T02:39:36.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -104,17 +104,17 @@
         <content type="html"><![CDATA[용서할게이츠]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4000억 부자가 사업을 키운 방법]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57253</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57253"/>
-        <updated>2022-02-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[둥근마을]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[돈 1만원도 안쓰고 매출 & 재구매 2배 올리는 방법]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57184</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57184"/>
         <updated>2022-02-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[둥근마을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4000억 부자가 사업을 키운 방법]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57253</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57253"/>
+        <updated>2022-02-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[둥근마을]]></content>
     </entry>
     <entry>
@@ -174,6 +174,13 @@
         <content type="html"><![CDATA[히야아아아앗]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[잘 키운 SNS로 수익과 브랜딩을 한 번에! `SNS로 돈 벌..]]></title>
+        <id>https://www.i-boss.co.kr/ab-2973-445</id>
+        <link href="https://www.i-boss.co.kr/ab-2973-445"/>
+        <updated>2022-03-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[당첨대쓔]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[필독 해킹 블로그 업자 또 나타났습니다 조심들 하세..]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38502</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38502"/>
@@ -193,13 +200,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57209"/>
         <updated>2022-02-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[리유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잘 키운 SNS로 수익과 브랜딩을 한 번에! `SNS로 돈 벌..]]></title>
-        <id>https://www.i-boss.co.kr/ab-2973-445</id>
-        <link href="https://www.i-boss.co.kr/ab-2973-445"/>
-        <updated>2022-03-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[초보마케터]]></title>
