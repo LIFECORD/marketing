@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 10:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 11:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[마뇨리따]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[코바코, 아이작 서비스 론칭 AI빅데이터로 손쉽게 광고 제작 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8361</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8361</guid>
+            <pubDate>Mon, 07 Mar 2022 11:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[아이작 서비스 시작 화면   인공지능(AI)이 광고 제작을 돕는 시대가 왔다. AI로 광고 영상 속 데이터를 인식하고, 광고 제작의 밑그림인 스토리보드도AI가 지원해줄 수 있게 됐다. 한국방송광고진흥공사(이하 코바코, 사장 이백만 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[광고커뮤니케이션 업계 여성 리더 및 CEO 특별 좌담회, 트위터 블루룸 진행 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8360</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8360</guid>
@@ -582,25 +590,24 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5c381256f62d690652d1a74f4c2c45e2_30478_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[2021년 일본 총광고비 기록, 6조 7998억엔... 처음으로 인터넷 광고비가 4대 매체 총계를 웃돌아 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8330</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8330</guid>
-            <pubDate>Wed, 02 Mar 2022 08:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 일본 총광고비는 전년대비 110.4%,6조 7,998억엔으로 나타났다. 일본의 총 광고비와 매체별업종별 광고비를 추정한 `2021년 일본의 광고비`를 발표한 덴츠에 따르면, 2021년 일본의 총 광고비는 2020년부터 이어지는 신형 코로나  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_446e4a15bc780617599bb7bfc242c9cd_83886_6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[코바코, '아이작' 서비스 론칭… AI‧빅데이터로 손쉽게 광고 제작 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8361</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8361</guid>
+            <pubDate>Mon, 07 Mar 2022 11:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["광고커뮤니케이션 업계 여성 리더 및 CEO" 특별 좌담회, 트위터 블루룸 진행 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8360</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8360</guid>
-            <pubDate>Mon, 07 Mar 2022 10:22:12 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 10:21:59 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MZ의 신종 재테크, 운동화에서 명품까지 ‘리셀 테크’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8359</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8359</guid>
-            <pubDate>Mon, 07 Mar 2022 10:22:12 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 10:21:59 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021년 일본 총광고비 기록, 6조 7998억엔... 처음으로 인터넷 광고비가 4대 매체 총계를 웃돌아 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8330</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8330</guid>
-            <pubDate>Wed, 02 Mar 2022 08:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 보기 중 정보통신망법에 의한 카카오 알림톡 발송 정책에 위반되지 않는 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 07 Mar 2022 10:22:25 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 11:15:35 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 보기 중 정보통신망법에 의한 카카오 알림톡 발송 정책에 위반되지 않는 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

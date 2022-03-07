@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 10:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 11:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코바코, 아이작 서비스 론칭 AI빅데이터로 손쉽게 광고 제작]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8361</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8361</guid>
+            <pubDate>Mon, 07 Mar 2022 11:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[아이작 서비스 시작 화면   인공지능(AI)이 광고 제작을 돕는 시대가 왔다. AI로 광고 영상 속 데이터를 인식하고, 광고 제작의 밑그림인 스토리보드도AI가 지원해줄 수 있게 됐다. 한국방송광고진흥공사(이하 코바코, 사장 이백만 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[광고커뮤니케이션 업계 여성 리더 및 CEO 특별 좌담회, 트위터 블루룸 진행]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8360</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 02 Mar 2022 10:09:00 GMT</pubDate>
             <content:encoded><![CDATA[결제추정금액, 전년 동월 대비 마켓컬리 37%, 오아시스마켓 22% 증가 앱 사용자수 역시 전년 동월 대비 마켓컬리 50%, 오아시스마켓 52% 증가   앱/리테일 분석 서비스 와이즈앱리테일굿즈가 새벽배송을 제공하는 대표적인 신선식품 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5c381256f62d690652d1a74f4c2c45e2_30478_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 일본 총광고비 기록, 6조 7998억엔... 처음으로 인터넷 광고비가 4대 매체 총계를 웃돌아]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8330</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8330</guid>
-            <pubDate>Wed, 02 Mar 2022 08:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 일본 총광고비는 전년대비 110.4%,6조 7,998억엔으로 나타났다. 일본의 총 광고비와 매체별업종별 광고비를 추정한 `2021년 일본의 광고비`를 발표한 덴츠에 따르면, 2021년 일본의 총 광고비는 2020년부터 이어지는 신형 코로나  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_446e4a15bc780617599bb7bfc242c9cd_83886_6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
