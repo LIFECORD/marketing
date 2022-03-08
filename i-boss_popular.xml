@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-03-08T01:04:49.971Z</updated>
+    <updated>2022-03-08T02:36:24.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일잘러가 되고 싶다면? `된다! 최반장의 실무 엑셀 wit..]]></title>
-        <id>https://www.i-boss.co.kr/ab-2973-442</id>
-        <link href="https://www.i-boss.co.kr/ab-2973-442"/>
-        <updated>2022-02-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[당첨대쓔]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[광고 소재 기획은 해야겠고 머리는 안 굴러갈 때?]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57274</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57274"/>
         <updated>2022-02-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[수D]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일잘러가 되고 싶다면? `된다! 최반장의 실무 엑셀 wit..]]></title>
+        <id>https://www.i-boss.co.kr/ab-2973-442</id>
+        <link href="https://www.i-boss.co.kr/ab-2973-442"/>
+        <updated>2022-02-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[`블로그체험단 효과 없는 이유가 이거였어?` 체험단 ..]]></title>
@@ -146,18 +146,18 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[잘 키운 SNS로 수익과 브랜딩을 한 번에! `SNS로 돈 벌..]]></title>
-        <id>https://www.i-boss.co.kr/ab-2973-445</id>
-        <link href="https://www.i-boss.co.kr/ab-2973-445"/>
-        <updated>2022-03-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[당첨대쓔]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[고객 관점 컨텐츠 만들기 (올라운더식 컨텐츠제작법)]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57331</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57331"/>
         <updated>2022-03-07T12:28:28.679Z</updated>
         <content type="html"><![CDATA[올라운더마케팅]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잘 키운 SNS로 수익과 브랜딩을 한 번에! `SNS로 돈 벌..]]></title>
+        <id>https://www.i-boss.co.kr/ab-2973-445</id>
+        <link href="https://www.i-boss.co.kr/ab-2973-445"/>
+        <updated>2022-03-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이 세상 최고의 마케팅 전략을 알려드립니다]]></title>

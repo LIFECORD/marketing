@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 01:04:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 02:36:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,18 +224,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[일잘러가 되고 싶다면? `된다! 최반장의 실무 엑셀 wit.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-442</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-442</guid>
-            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[광고 소재 기획은 해야겠고 머리는 안 굴러갈 때? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57274</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57274</guid>
             <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[수D]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일잘러가 되고 싶다면? `된다! 최반장의 실무 엑셀 wit.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-442</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-442</guid>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[`블로그체험단 효과 없는 이유가 이거였어?` 체험단 .. (아이보스 ─ 인기글)]]></title>
@@ -280,18 +280,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[잘 키운 SNS로 수익과 브랜딩을 한 번에! `SNS로 돈 벌.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-445</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-445</guid>
-            <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[고객 관점 컨텐츠 만들기 (올라운더식 컨텐츠제작법) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57331</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57331</guid>
             <pubDate>Mon, 07 Mar 2022 12:28:28 GMT</pubDate>
             <content:encoded><![CDATA[올라운더마케팅]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잘 키운 SNS로 수익과 브랜딩을 한 번에! `SNS로 돈 벌.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-445</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-445</guid>
+            <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이 세상 최고의 마케팅 전략을 알려드립니다 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57209</guid>
             <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[리유]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소비자가 온라인에서 가장 많이 구매한 헤어관리기 브랜드는? 다이슨 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8365</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8365</guid>
+            <pubDate>Tue, 08 Mar 2022 10:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[자신의 개성을 표현하기 위한 수단인 헤어관리기 전달 대비 14% 구매금액  가장 많이 구매한 헤어관리기 브랜드 다이슨&gt;JMW&gt;LG 프라엘&gt;유닉스&gt;비달사순   코로나19 장기화로 인해 마스크 착용이 일상화되면서, 마스크로 가려지지  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16467020002985.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[트위터, 세계 여성의 날 맞아 해시태그 캠페인 #OwnIt 전개... 세계를, 시작을, 무엇이든 #가져봐! (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,32 +590,31 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[data.ai 코리아, 2022년 모바일 현황 웨비나: 최신 트렌드로 성장세에 올라타기 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8335</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8335</guid>
-            <pubDate>Thu, 03 Mar 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[data.ai는`2022년 모바일 현황 웨비나: 최신 트렌드로 성장세에 올라타기`를 3월 8일 개최한다. 모바일 시장은 코로나 장기화로 인한 사용습관이 변경되며 전례없는 성장을 달성하며 글로벌 모바일 앱 개발자 및 퍼블리셔에게 많은  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[소비자가 온라인에서 가장 많이 구매한 헤어관리기 브랜드는? '다이슨' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8365</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8365</guid>
+            <pubDate>Tue, 08 Mar 2022 02:36:01 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[트위터, ‘세계 여성의 날’ 맞아 해시태그 캠페인 #OwnIt 전개... “세계를, 시작을, 무엇이든 #가져봐!” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8364</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8364</guid>
-            <pubDate>Tue, 08 Mar 2022 01:04:29 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2022 09:24:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 옥외광고 시장규모 3조 765억 원… 전년 대비 12.5% 감소 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8363</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8363</guid>
-            <pubDate>Tue, 08 Mar 2022 01:04:29 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2022 08:40:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[브랜드 66%가 2021년에 크리에이터 마케팅에 더 많은 비용을 지출했다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8362</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8362</guid>
-            <pubDate>Tue, 08 Mar 2022 01:04:29 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2022 08:40:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[data.ai 코리아, "2022년 모바일 현황 웨비나: 최신 트렌드로 성장세에 올라타기" 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8335</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8335</guid>
-            <pubDate>Thu, 03 Mar 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[최근 틱톡이 지원하는 최대 동영상 길이를 ○분까지 늘릴 계획을 밝혔습니다. 빈칸에 들어갈 숫자는 얼마일까요?(hint: 힌트? 오히려 좋아! 3/3 뉴스클리핑 보러 가기) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 08 Mar 2022 01:04:40 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2022 02:36:15 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 틱톡이 지원하는 최대 동영상 길이를 ○분까지 늘릴 계획을 밝혔습니다. 빈칸에 들어갈 숫자는 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8334" target="_blank">힌트? 오히려 좋아! 3/3 뉴스클리핑 보러 가기</a>)</span></td>
 			</tr>
