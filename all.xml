@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 06:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 07:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -175,18 +175,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우리가 돈이 없지 열정이 없냐 (to. 가난한 회사의 마.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-5637-30</link>
-            <guid>https://www.i-boss.co.kr/ab-5637-30</guid>
-            <pubDate>Thu, 24 Feb 2022 04:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[지금까지 모은 마케팅 개꿀팁 유용한 사이트 모음!!(8.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57310</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57310</guid>
             <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[리유]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우리가 돈이 없지 열정이 없냐 (to. 가난한 회사의 마.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-5637-30</link>
+            <guid>https://www.i-boss.co.kr/ab-5637-30</guid>
+            <pubDate>Thu, 24 Feb 2022 04:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케팅 레퍼런스 영상 똑똑하게 찾는 법, 유튜브 숨.. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[최근 틱톡이 지원하는 최대 동영상 길이를 ○분까지 늘릴 계획을 밝혔습니다. 빈칸에 들어갈 숫자는 얼마일까요?(hint: 힌트? 오히려 좋아! 3/3 뉴스클리핑 보러 가기) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 09 Mar 2022 06:22:29 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2022 07:17:47 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 틱톡이 지원하는 최대 동영상 길이를 ○분까지 늘릴 계획을 밝혔습니다. 빈칸에 들어갈 숫자는 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8334" target="_blank">힌트? 오히려 좋아! 3/3 뉴스클리핑 보러 가기</a>)</span></td>
 			</tr>
