@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 22:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 23:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[3월 10일 마케팅 뉴스클리핑] 인플루언서 등용문으로 떠오른 무신사스타일쉐어오늘의집 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8366</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8366</guid>
+            <pubDate>Thu, 10 Mar 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. `인플루언서 등용문`으로 떠오른 무신사스타일쉐어오늘의집  무신사, 스타일쉐어, 오늘의 집 등 버티컬 커머스가 MZ세대의 `인플루언서 등용문`으로 자리 잡고 있다. 특정 주제에 관여도가 높은 고객층이 한 곳에 모여 있어,  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_6c89bfdfc5c6e7b1ee76d13bc38d7514_81616_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인포그래픽] 새로운 오리지널 콘텐츠는 새로운 가입자와 새로운 비용을 의미한다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8368</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 04 Mar 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 쿠팡, 지난해 매출 22조 원 돌파... 창사 이래 최대  쿠팡은 지난해 매출액이 전년 대비 54% 증가한 22조 2,257억 원을 기록했다고 공시했다. 2010년 쿠팡 창사 이래 최고 매출이다. 다만 1조 8,627억 원의 영업적자를 냈다. 덕평 물류 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_b27a3402f7005cbf7f8260190e8b3566_79069_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디지털 시대의 마케팅 트렌드는?... HS애드, 핵심 키워드 발표]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8338</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8338</guid>
-            <pubDate>Thu, 03 Mar 2022 08:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[HS애드는 디지털 시대의 마케팅 트렌드로 5가지 핵심 키워드 꼽았다고 3일 밝혔다.  이번에 선정된 핵심 키워드는 또 하나의 확장현실(XR) 커머스 모델의 탈중심화 N 커머스 브랜드 플랫폼을 활용한 셀프 데이터 서비스 ESG(환경사 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_ced332f847a0a5c74557c711d1eb3f76_73317_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
