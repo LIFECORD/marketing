@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 23:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 01:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,13 +329,6 @@
             <content:encoded><![CDATA[히야아아아앗]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[혹시 저와 같은 피해 입으신분 있나요? 참다참다.. 써.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38321</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38321</guid>
-            <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤묘]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[필독 해킹 블로그 업자 또 나타났습니다 조심들 하세.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38502</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38502</guid>
@@ -348,6 +341,29 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57209</guid>
             <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[리유]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[초보마케터 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38396</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38396</guid>
+            <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마뇨리따]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[인포그래픽] 새로운 오리지널 콘텐츠는 새로운 가입자와 새로운 비용을 의미한다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8368</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8368</guid>
+            <pubDate>Wed, 09 Mar 2022 09:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[미국 주요 스트리밍 서비스인 넷플릭스, 아마존 프라임 비디오, 훌루, 애플TV+는2021년 구독자를 유치하고 유지하기 위해 경쟁하면서 오리지널콘텐츠에 111억 5천만 달러를 지출하여 사상 최대를 기록했다고 이마케터는 보도했다. ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인포그래픽] 훌륭한 비즈니스 웹사이트의 구조 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8367</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8367</guid>
+            <pubDate>Wed, 09 Mar 2022 09:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[대부분의 잠재 고객은웹 사이트를 방문한다. 또한 웹 사이트는 소셜 미디어를 비롯한 다양한 채널의 탱크가 되기도 한다. 따라서 방문자에게 자신감을 심어주고 그들이 찾고 있는 정보를 찾을 수 있도록 도와주고 시선을 사로 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[소비자가 온라인에서 가장 많이 구매한 헤어관리기 브랜드는? 다이슨 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -574,20 +590,18 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_ced332f847a0a5c74557c711d1eb3f76_73317_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[배달의민족, 지난해 4050세대 주문 비중 증가 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8337</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8337</guid>
-            <pubDate>Thu, 03 Mar 2022 10:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[배달의민족 주문 데이터 분석한 `배민트렌드 2022` 출시  배달앱 배달의민족에서 중장년층인 4050세대 주문이 차지하는 비중이 늘어난 것으로 나타났다.   배달의민족 운영사 우아한형제들은 지난해 1월부터 12월까지 주문 데이터 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_bd51eca7c1f544ee84b695ec24d36e5e_7391_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[인포그래픽] 새로운 오리지널 콘텐츠는 새로운 가입자와 새로운 비용을 의미한다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8368</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8368</guid>
+            <pubDate>Wed, 09 Mar 2022 01:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스프레드 시트 악몽에서 탈출하다 아이지에이웍스 CDP 디파이너리, 데이터하우스 기능 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8336</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8336</guid>
-            <pubDate>Thu, 03 Mar 2022 08:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[간단한 클릭 몇번으로 기업의 데이터드리븐 의사 결정을 가속화할 수 있는 길이 열린다. 빅데이터 플랫폼 기업 아이지에이웍스(대표 마국성)가 자사CDP(고객데이터플랫폼, Customer Data Platform) `디파이너리`에 기업의 데이터 사일 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[인포그래픽] 훌륭한 비즈니스 웹사이트의 구조 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8367</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8367</guid>
+            <pubDate>Wed, 09 Mar 2022 01:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소비자가 온라인에서 가장 많이 구매한 헤어관리기 브랜드는? '다이슨' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[배달의민족, 지난해 4050세대 주문 비중 증가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8337</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8337</guid>
-            <pubDate>Thu, 03 Mar 2022 10:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["스프레드 시트 악몽에서 탈출하다" 아이지에이웍스 CDP 디파이너리, ‘데이터하우스’ 기능 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8336</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8336</guid>
-            <pubDate>Thu, 03 Mar 2022 08:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[최근 틱톡이 지원하는 최대 동영상 길이를 ○분까지 늘릴 계획을 밝혔습니다. 빈칸에 들어갈 숫자는 얼마일까요?(hint: 힌트? 오히려 좋아! 3/3 뉴스클리핑 보러 가기) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 08 Mar 2022 23:21:42 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2022 01:10:19 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 틱톡이 지원하는 최대 동영상 길이를 ○분까지 늘릴 계획을 밝혔습니다. 빈칸에 들어갈 숫자는 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8334" target="_blank">힌트? 오히려 좋아! 3/3 뉴스클리핑 보러 가기</a>)</span></td>
 			</tr>

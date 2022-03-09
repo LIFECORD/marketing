@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 23:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 01:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인포그래픽] 새로운 오리지널 콘텐츠는 새로운 가입자와 새로운 비용을 의미한다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8368</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8368</guid>
+            <pubDate>Wed, 09 Mar 2022 09:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[미국 주요 스트리밍 서비스인 넷플릭스, 아마존 프라임 비디오, 훌루, 애플TV+는2021년 구독자를 유치하고 유지하기 위해 경쟁하면서 오리지널콘텐츠에 111억 5천만 달러를 지출하여 사상 최대를 기록했다고 이마케터는 보도했다. ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인포그래픽] 훌륭한 비즈니스 웹사이트의 구조]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8367</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8367</guid>
+            <pubDate>Wed, 09 Mar 2022 09:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[대부분의 잠재 고객은웹 사이트를 방문한다. 또한 웹 사이트는 소셜 미디어를 비롯한 다양한 채널의 탱크가 되기도 한다. 따라서 방문자에게 자신감을 심어주고 그들이 찾고 있는 정보를 찾을 수 있도록 도와주고 시선을 사로 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[소비자가 온라인에서 가장 많이 구매한 헤어관리기 브랜드는? 다이슨]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8365</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 03 Mar 2022 08:20:23 GMT</pubDate>
             <content:encoded><![CDATA[HS애드는 디지털 시대의 마케팅 트렌드로 5가지 핵심 키워드 꼽았다고 3일 밝혔다.  이번에 선정된 핵심 키워드는 또 하나의 확장현실(XR) 커머스 모델의 탈중심화 N 커머스 브랜드 플랫폼을 활용한 셀프 데이터 서비스 ESG(환경사 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_ced332f847a0a5c74557c711d1eb3f76_73317_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배달의민족, 지난해 4050세대 주문 비중 증가]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8337</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8337</guid>
-            <pubDate>Thu, 03 Mar 2022 10:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[배달의민족 주문 데이터 분석한 `배민트렌드 2022` 출시  배달앱 배달의민족에서 중장년층인 4050세대 주문이 차지하는 비중이 늘어난 것으로 나타났다.   배달의민족 운영사 우아한형제들은 지난해 1월부터 12월까지 주문 데이터 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_bd51eca7c1f544ee84b695ec24d36e5e_7391_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스프레드 시트 악몽에서 탈출하다 아이지에이웍스 CDP 디파이너리, 데이터하우스 기능 출시]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8336</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8336</guid>
-            <pubDate>Thu, 03 Mar 2022 08:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[간단한 클릭 몇번으로 기업의 데이터드리븐 의사 결정을 가속화할 수 있는 길이 열린다. 빅데이터 플랫폼 기업 아이지에이웍스(대표 마국성)가 자사CDP(고객데이터플랫폼, Customer Data Platform) `디파이너리`에 기업의 데이터 사일 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
