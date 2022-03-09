@@ -2,20 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-5826</id>
     <title>아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈</title>
-    <updated>2022-03-09T14:17:19.416Z</updated>
+    <updated>2022-03-09T15:20:45.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[최근 틱톡이 지원하는 최대 동영상 길이를 ○분까지 늘릴 계획을 밝혔습니다. 빈칸에 들어갈 숫자는 얼마일까요?(hint: 힌트? 오히려 좋아! 3/3 뉴스클리핑 보러 가기)]]></title>
-        <id>https://www.i-boss.co.kr/ab-5826</id>
-        <link href="https://www.i-boss.co.kr/ab-5826"/>
-        <updated>2022-03-09T14:17:10.865Z</updated>
-        <content type="html"><![CDATA[<tbody><tr>
-				<td><!--1-->최근 틱톡이 지원하는 최대 동영상 길이를 ○분까지 늘릴 계획을 밝혔습니다. 빈칸에 들어갈 숫자는 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8334" target="_blank">힌트? 오히려 좋아! 3/3 뉴스클리핑 보러 가기</a>)</span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1375_1" value="1" class="AB-radio" id="PQ_BD5826_1375_1_0"><label for="PQ_BD5826_1375_1_0" id="label_PQ_BD5826_1375_1_0">(A) 3</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1375_1" value="2" class="AB-radio" id="PQ_BD5826_1375_1_1"><label for="PQ_BD5826_1375_1_1" id="label_PQ_BD5826_1375_1_1">(B) 5</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1375_1" value="3" class="AB-radio" id="PQ_BD5826_1375_1_2"><label for="PQ_BD5826_1375_1_2" id="label_PQ_BD5826_1375_1_2">(C) 8</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1375_1" value="4" class="AB-radio" id="PQ_BD5826_1375_1_3"><label for="PQ_BD5826_1375_1_3" id="label_PQ_BD5826_1375_1_3">(D) 10</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content>
-    </entry>
 </feed>

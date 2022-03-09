@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 14:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 15:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,13 +252,6 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[4000억 부자가 사업을 키운 방법 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57253</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57253</guid>
-            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[고객 관점 컨텐츠 만들기 (올라운더식 컨텐츠제작법) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57331</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57331</guid>
@@ -266,11 +259,11 @@
             <content:encoded><![CDATA[올라운더마케팅]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[애플처럼 구글도 '맞춤형 광고' 위한 앱 추적 막는다 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57230</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57230</guid>
-            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
+            <title><![CDATA[4000억 부자가 사업을 키운 방법 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57253</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57253</guid>
+            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[잘 키운 SNS로 수익과 브랜딩을 한 번에! `SNS로 돈 벌.. (아이보스 ─ 인기글)]]></title>
@@ -278,6 +271,13 @@
             <guid>https://www.i-boss.co.kr/ab-2973-445</guid>
             <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[애플처럼 구글도 '맞춤형 광고' 위한 앱 추적 막는다 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57230</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57230</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이 세상 최고의 마케팅 전략을 알려드립니다 (아이보스 ─ 인기글)]]></title>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8338</guid>
             <pubDate>Thu, 03 Mar 2022 08:20:23 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최근 틱톡이 지원하는 최대 동영상 길이를 ○분까지 늘릴 계획을 밝혔습니다. 빈칸에 들어갈 숫자는 얼마일까요?(hint: 힌트? 오히려 좋아! 3/3 뉴스클리핑 보러 가기) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 09 Mar 2022 14:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->최근 틱톡이 지원하는 최대 동영상 길이를 ○분까지 늘릴 계획을 밝혔습니다. 빈칸에 들어갈 숫자는 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8334" target="_blank">힌트? 오히려 좋아! 3/3 뉴스클리핑 보러 가기</a>)</span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1375_1" value="1" class="AB-radio" id="PQ_BD5826_1375_1_0"><label for="PQ_BD5826_1375_1_0" id="label_PQ_BD5826_1375_1_0">(A) 3</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1375_1" value="2" class="AB-radio" id="PQ_BD5826_1375_1_1"><label for="PQ_BD5826_1375_1_1" id="label_PQ_BD5826_1375_1_1">(B) 5</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1375_1" value="3" class="AB-radio" id="PQ_BD5826_1375_1_2"><label for="PQ_BD5826_1375_1_2" id="label_PQ_BD5826_1375_1_2">(C) 8</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1375_1" value="4" class="AB-radio" id="PQ_BD5826_1375_1_3"><label for="PQ_BD5826_1375_1_3" id="label_PQ_BD5826_1375_1_3">(D) 10</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일상회복 특별융자, 매출감소 비교기간 2배로 확대한다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
