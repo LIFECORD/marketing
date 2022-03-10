@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-03-09T23:20:39.403Z</updated>
+    <updated>2022-03-10T02:48:01.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[틱톡, 음악 배포 플랫폼 사운드온 출시]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8372</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8372"/>
+        <updated>2022-03-10T02:47:41.367Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데이터 인사이트 마케팅] 2022년 2월 국내 모바일 게임 사용자 수 지난해 1월 대비 9.4% 감소]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8371</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8371"/>
+        <updated>2022-03-10T02:47:41.368Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앱러빈 종합 솔루션 ‘MAX’, 모펍 인수 후 더욱 강력해져]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8370</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8370"/>
+        <updated>2022-03-10T02:47:41.369Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스트리밍 서비스가 빠르게 분기 및 번들링되고 있다.]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8369</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8369"/>
+        <updated>2022-03-10T02:47:41.369Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[3월 10일 마케팅 뉴스클리핑] '인플루언서 등용문'으로 떠오른 무신사·스타일쉐어·오늘의집 외]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8366</id>
@@ -186,33 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-8343"/>
         <updated>2022-03-04T01:12:44.546Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디지털 만으로 Z세대 소비자를 잡을 수 없다]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8342</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8342"/>
-        <updated>2022-03-04T01:12:44.547Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소비자에게 연관성 높은 브랜드는?]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8341</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8341"/>
-        <updated>2022-03-04T01:12:44.547Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리프트오프 x 애드저스트, "MZ세대를 사로잡는 소셜 앱 마케팅 가이드 2022" 웨비나 개최]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8340</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8340"/>
-        <updated>2022-03-04T01:12:44.551Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[3월 4일 마케팅 뉴스클리핑] 쿠팡, 지난해 매출 22조 원 돌파... 창사 이래 최대 외]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8339</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8339"/>
-        <updated>2022-03-03T23:18:37.813Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
 </feed>

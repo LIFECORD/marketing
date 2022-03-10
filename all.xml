@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 23:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 02:48:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클라이언트가 원하는 대행사는? (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/902615-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EA%B0%80_%EC%9B%90%ED%95%98%EB%8A%94_%EB%8C%80%ED%96%89%EC%82%AC%EB%8A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/902615-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EA%B0%80_%EC%9B%90%ED%95%98%EB%8A%94_%EB%8C%80%ED%96%89%EC%82%AC%EB%8A%94/</guid>
+            <pubDate>Thu, 10 Mar 2022 02:47:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/902615-클라이언트가_원하는_대행사는/">
+						<div class="thumb"><img src="/images/qletter_902615.png"></div>
+						<p><strong>클라이언트가 원하는 대행사는?</strong>2022.03.10</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_902615.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[무신사와 크림의 데스매치, 지면 끝난다 💣 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/897710-%EB%AC%B4%EC%8B%A0%EC%82%AC%EC%99%80_%ED%81%AC%EB%A6%BC%EC%9D%98_%EB%8D%B0%EC%8A%A4%EB%A7%A4%EC%B9%98_%EC%A7%80%EB%A9%B4_%EB%81%9D%EB%82%9C%EB%8B%A4/</link>
@@ -129,17 +140,6 @@
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_850952.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[쓰레기도 줍고, 관심도 얻고 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/844568-%EC%93%B0%EB%A0%88%EA%B8%B0%EB%8F%84_%EC%A4%8D%EA%B3%A0_%EA%B4%80%EC%8B%AC%EB%8F%84_%EC%96%BB%EA%B3%A0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/844568-%EC%93%B0%EB%A0%88%EA%B8%B0%EB%8F%84_%EC%A4%8D%EA%B3%A0_%EA%B4%80%EC%8B%AC%EB%8F%84_%EC%96%BB%EA%B3%A0/</guid>
-            <pubDate>Mon, 24 Jan 2022 02:04:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/844568-쓰레기도_줍고_관심도_얻고/">
-						<div class="thumb"><img src="/images/qletter_844568.png"></div>
-						<p><strong>쓰레기도 줍고, 관심도 얻고</strong>2022.01.24</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_844568.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[제발 페이스북 데이터 입력, 수기로 하지마세요. (feat.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57202</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57202</guid>
@@ -238,6 +238,13 @@
             <content:encoded><![CDATA[용서할게이츠]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[고객 관점 컨텐츠 만들기 (올라운더식 컨텐츠제작법) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57331</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57331</guid>
+            <pubDate>Mon, 07 Mar 2022 12:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[올라운더마케팅]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[스마트스토어 10일만에 주문건 100건 넘겼습니다. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38524</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38524</guid>
@@ -250,13 +257,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57184</guid>
             <pubDate>Fri, 11 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고객 관점 컨텐츠 만들기 (올라운더식 컨텐츠제작법) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57331</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57331</guid>
-            <pubDate>Mon, 07 Mar 2022 12:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[올라운더마케팅]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[4000억 부자가 사업을 키운 방법 (아이보스 ─ 인기글)]]></title>
@@ -287,6 +287,13 @@
             <content:encoded><![CDATA[리유]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[검색의도란 무엇이고 왜 알아야 하는가 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57170</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57170</guid>
+            <pubDate>Wed, 09 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케톨로지]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[신입 시절 회고하기 (긴글 주의) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38504</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38504</guid>
@@ -299,13 +306,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38365</guid>
             <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[Jazzy]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[검색의도란 무엇이고 왜 알아야 하는가 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57170</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57170</guid>
-            <pubDate>Wed, 09 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케톨로지]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1명씩 실종,,, (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,38 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38494</guid>
             <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[틱톡, 음악 배포 플랫폼 사운드온 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8372</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8372</guid>
+            <pubDate>Thu, 10 Mar 2022 11:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[로열티 100% 보장...첫해 거래 수수료 면제  틱톡(TikTok)은 크리에이터를 위한 위한 음악 배포 및 마케팅 플랫폼 사운드온(SoundOn)을 선보였다고 9일(현지시간) 씨넷 등 외신이 보도했다.   보도에 따르면 사운드온을 통한 음악 배포  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[데이터 인사이트 마케팅] 2022년 2월 국내 모바일 게임 사용자 수 지난해 1월 대비 9.4% 감소 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8371</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8371</guid>
+            <pubDate>Thu, 10 Mar 2022 10:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최대 모바일 빅데이터 플랫폼 기업 아이지에이웍스가 자사의 데이터 분석 솔루션모바일인덱스를 통해리포트를 발표했다.분석 기간은2021년1월1일부터2022년2월28일까지로,일평균4000만 모바일 기기의20억건 데이터(안드로이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[앱러빈 종합 솔루션 MAX, 모펍 인수 후 더욱 강력해져 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8370</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8370</guid>
+            <pubDate>Thu, 10 Mar 2022 09:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[앱러빈(AppLovin)은 작년 모펍(MoPub) 인수 후 새로워진MAX가 개발자들로부터 강력하고 효율적인 수익화 솔루션이라는 긍정적인 피드백을 받고 있다고10일 밝혔다. 모펍 주요 기능들이 통합된MAX는 수익화 플랫폼의 기능은 물론 기존  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[스트리밍 서비스가 빠르게 분기 및 번들링되고 있다. (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8369</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8369</guid>
+            <pubDate>Thu, 10 Mar 2022 08:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[스트리밍 서비스는 팬데믹을 타고 계속 확장하면서, 경쟁이 치열해지고 있다. OTT 플랫폼은 자신만의 오리지널 콘텐츠 제작에박차를 가하면서 가입자 확보에 힘을 쏟고 있다. 그러나 구독 비용의 증가와 다양한 콘텐츠에 대한  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[3월 10일 마케팅 뉴스클리핑] 인플루언서 등용문으로 떠오른 무신사스타일쉐어오늘의집 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -558,42 +590,38 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_ab95bea15adc98e023c938a3dc32c676_1413_6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[디지털 만으로 Z세대 소비자를 잡을 수 없다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8342</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8342</guid>
-            <pubDate>Fri, 04 Mar 2022 08:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[팬데믹은 소비자의 디지털 습관을 강화했다. 그러나 디지털에 익숙한 디지털로 살아온 사람들에게는 갑자기 붐비는 디지털 생태계에서 오히려 까다로운 소비자가 되고 있다. 이마케터는 높은 디지털 기대치는 젊은 세대의 일 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[틱톡, 음악 배포 플랫폼 사운드온 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8372</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8372</guid>
+            <pubDate>Thu, 10 Mar 2022 02:47:41 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[소비자에게 연관성 높은 브랜드는? (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8341</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8341</guid>
-            <pubDate>Fri, 04 Mar 2022 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[성장컨설턴트 프로핏(Prophet)은 미국 내 13,500여 명을 대상으로 조사, 2022년 인지도 1위 등 연간 브랜드 연관성 인덱스(Brand Relevance Index)를 발표했다. 올해는 27개 카테고리에서293개 기업이 인덱스에 올랐다.]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_7f0a4cb6504f2fdcd0e40a31983c7f18_87446_6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[데이터 인사이트 마케팅] 2022년 2월 국내 모바일 게임 사용자 수 지난해 1월 대비 9.4% 감소 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8371</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8371</guid>
+            <pubDate>Thu, 10 Mar 2022 02:47:41 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[리프트오프 x 애드저스트, MZ세대를 사로잡는 소셜 앱 마케팅 가이드 2022 웨비나 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8340</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8340</guid>
-            <pubDate>Fri, 04 Mar 2022 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[리프트오프와 애드저스트는`MZ세대를 사로잡는 소셜 앱 마케팅 가이드 2022`를 주제로3월 16일 (수) 웨비나를 개최한다. 소셜 앱 시장은 코로나 사태를 기점으로 지난해 전 세계 무려40억 달러의 규모에 다다랐다. 특히 주 유저인 MZ ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[앱러빈 종합 솔루션 ‘MAX’, 모펍 인수 후 더욱 강력해져 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8370</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8370</guid>
+            <pubDate>Thu, 10 Mar 2022 02:47:41 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[3월 4일 마케팅 뉴스클리핑] 쿠팡, 지난해 매출 22조 원 돌파... 창사 이래 최대 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8339</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8339</guid>
-            <pubDate>Fri, 04 Mar 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 쿠팡, 지난해 매출 22조 원 돌파... 창사 이래 최대  쿠팡은 지난해 매출액이 전년 대비 54% 증가한 22조 2,257억 원을 기록했다고 공시했다. 2010년 쿠팡 창사 이래 최고 매출이다. 다만 1조 8,627억 원의 영업적자를 냈다. 덕평 물류 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_b27a3402f7005cbf7f8260190e8b3566_79069_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[스트리밍 서비스가 빠르게 분기 및 번들링되고 있다. (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8369</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8369</guid>
+            <pubDate>Thu, 10 Mar 2022 02:47:41 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[3월 10일 마케팅 뉴스클리핑] '인플루언서 등용문'으로 떠오른 무신사·스타일쉐어·오늘의집 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8366</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8366</guid>
-            <pubDate>Wed, 09 Mar 2022 23:20:17 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -772,38 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[디지털 만으로 Z세대 소비자를 잡을 수 없다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8342</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8342</guid>
-            <pubDate>Fri, 04 Mar 2022 08:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소비자에게 연관성 높은 브랜드는? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8341</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8341</guid>
-            <pubDate>Fri, 04 Mar 2022 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[리프트오프 x 애드저스트, "MZ세대를 사로잡는 소셜 앱 마케팅 가이드 2022" 웨비나 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8340</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8340</guid>
-            <pubDate>Fri, 04 Mar 2022 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[3월 4일 마케팅 뉴스클리핑] 쿠팡, 지난해 매출 22조 원 돌파... 창사 이래 최대 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8339</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8339</guid>
-            <pubDate>Fri, 04 Mar 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지처럼 소비자가 제품을 구입한 후 그것과 어울리는 다른 제품까지 계속해서 구입하게 되는 현상을 일컫는 단어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 09 Mar 2022 23:20:30 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2022 02:47:52 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지처럼 소비자가 제품을 구입한 후 그것과 어울리는 다른 제품까지 계속해서 구입하게 되는 현상을 일컫는 단어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/9e8e189ccba6a07596c88f06239866f3_16462967582844.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
