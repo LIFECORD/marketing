@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 22:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 23:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,18 +280,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이 세상 최고의 마케팅 전략을 알려드립니다 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57280</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57280</guid>
-            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[리유]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 마케터 해골물 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38572</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38572</guid>
             <pubDate>Thu, 10 Mar 2022 07:16:32 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이 세상 최고의 마케팅 전략을 알려드립니다 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57280</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57280</guid>
+            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리유]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[검색의도란 무엇이고 왜 알아야 하는가 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38396</guid>
             <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마뇨리따]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[3월 11일 마케팅 뉴스클리핑] 이용자 데이터 추적 거부율 90%, 타깃광고 수익 낮췄다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8374</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8374</guid>
+            <pubDate>Fri, 11 Mar 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 이용자 데이터 추적 거부율 90%, 타깃광고 수익 낮췄다  이용자 동의를 받아야만 앱 개발사들이 이용자 데이터를 수집할 수 있는 `앱 추적 투명성` 기능이 확대되면서 이용자 데이터를 바탕으로 타깃 광고 기능을 제공해 온 플 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2addf5ea6340bd2817c63692f3077230_40487_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방통위, 인앱결제 강제 금지 시행령 개정 마무리위법행위 판단기준 마련 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[10대부터 20대까지 신학기 준비 온라인에서 한 번에... 에이블리, 개학룩, 문구류 검색량 급증 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8344</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8344</guid>
-            <pubDate>Fri, 04 Mar 2022 10:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[에이블리코퍼레이션(대표 강석훈)의 스타일 커머스 플랫폼,에이블리는 새 학기가 시작되면서 교복 아이템과 캠퍼스에 어울리는 개강룩 관련 상품 수요가 급증했다고4일 밝혔다. 에이블리2월 소비자 앱 이용 현황 분석 결과,등 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[3월 11일 마케팅 뉴스클리핑] 이용자 데이터 추적 거부율 90%, 타깃광고 수익 낮췄다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8374</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8374</guid>
+            <pubDate>Thu, 10 Mar 2022 23:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[방통위, ‘인앱결제 강제 금지’ 시행령 개정 마무리…위법행위 판단기준 마련 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[10대부터 20대까지 신학기 준비 온라인에서 한 번에... 에이블리, "개학룩, 문구류" 검색량 급증 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8344</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8344</guid>
-            <pubDate>Fri, 04 Mar 2022 10:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[오는 4월, 카카오가 카카오톡 오픈채팅방의 음성서비스를 신규 출시할 예정이라고 합니다. 카카오 오픈채팅방 내에서 이용자들이 자유롭게 음성으로 대화할 수 있는 이 서비스의 이름은 무엇일까요?(hint: 3/2 뉴스클리핑에서 힌트 줍줍~!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Thu, 10 Mar 2022 23:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->오는 4월, 카카오가 카카오톡 오픈채팅방의 음성서비스를 신규 출시할 예정이라고 합니다. 카카오 오픈채팅방 내에서 이용자들이 자유롭게 음성으로 대화할 수 있는 이 서비스의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8325" target="_blank">3/2 뉴스클리핑에서 힌트 줍줍~!</a>)</span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1377_1" value="1" class="AB-radio" id="PQ_BD5826_1377_1_0"><label for="PQ_BD5826_1377_1_0" id="label_PQ_BD5826_1377_1_0">(A) 오디오룸</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1377_1" value="2" class="AB-radio" id="PQ_BD5826_1377_1_1"><label for="PQ_BD5826_1377_1_1" id="label_PQ_BD5826_1377_1_1">(B) 보이스룸</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1377_1" value="3" class="AB-radio" id="PQ_BD5826_1377_1_2"><label for="PQ_BD5826_1377_1_2" id="label_PQ_BD5826_1377_1_2">(C) 음</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1377_1" value="4" class="AB-radio" id="PQ_BD5826_1377_1_3"><label for="PQ_BD5826_1377_1_3" id="label_PQ_BD5826_1377_1_3">(D) 스페이스</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일상회복 특별융자, 매출감소 비교기간 2배로 확대한다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
