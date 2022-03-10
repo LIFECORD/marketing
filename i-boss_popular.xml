@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-03-10T18:21:14.557Z</updated>
+    <updated>2022-03-10T19:14:49.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -153,13 +153,6 @@
         <content type="html"><![CDATA[리유]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[검색의도란 무엇이고 왜 알아야 하는가]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57170</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57170"/>
-        <updated>2022-02-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[마케톨로지]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[마케팅밈] 마케터 해골물]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38572</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38572"/>
@@ -167,11 +160,25 @@
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[검색의도란 무엇이고 왜 알아야 하는가]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57170</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57170"/>
+        <updated>2022-02-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[마케톨로지]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[신입 시절 회고하기 (긴글 주의)]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38504</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38504"/>
         <updated>2022-02-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[규S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1명씩 실종,,,]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38472</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38472"/>
+        <updated>2022-02-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[히야아아아앗]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마케터가  능력치를 올리는 방법과 전문직 취급을 받..]]></title>
@@ -186,13 +193,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57278"/>
         <updated>2022-02-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1명씩 실종,,,]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38472</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38472"/>
-        <updated>2022-02-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[히야아아아앗]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[필독 해킹 블로그 업자 또 나타났습니다 조심들 하세..]]></title>
