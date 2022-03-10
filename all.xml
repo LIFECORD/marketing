@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 14:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 15:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,13 @@
             <content:encoded><![CDATA[마케톨로지]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[마케팅밈] 마케터 해골물 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38572</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38572</guid>
+            <pubDate>Thu, 10 Mar 2022 07:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[신입 시절 회고하기 (긴글 주의) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38504</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38504</guid>
@@ -306,13 +313,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38365</guid>
             <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[Jazzy]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[마케팅밈] 마케터 해골물 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38572</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38572</guid>
-            <pubDate>Thu, 10 Mar 2022 07:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[무신사 vs 크림, 목숨 건 짝퉁 공방 (아이보스 ─ 인기글)]]></title>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8344</guid>
             <pubDate>Fri, 04 Mar 2022 10:24:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다음 이미지처럼 소비자가 제품을 구입한 후 그것과 어울리는 다른 제품까지 계속해서 구입하게 되는 현상을 일컫는 단어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 14:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->다음 이미지처럼 소비자가 제품을 구입한 후 그것과 어울리는 다른 제품까지 계속해서 구입하게 되는 현상을 일컫는 단어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/9e8e189ccba6a07596c88f06239866f3_16462967582844.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1376_1" value="1" class="AB-radio" id="PQ_BD5826_1376_1_0"><label for="PQ_BD5826_1376_1_0" id="label_PQ_BD5826_1376_1_0">(A) 디드로 효과</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1376_1" value="2" class="AB-radio" id="PQ_BD5826_1376_1_1"><label for="PQ_BD5826_1376_1_1" id="label_PQ_BD5826_1376_1_1">(B) 바넘 효과</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1376_1" value="3" class="AB-radio" id="PQ_BD5826_1376_1_2"><label for="PQ_BD5826_1376_1_2" id="label_PQ_BD5826_1376_1_2">(C) 자물쇠 효과</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1376_1" value="4" class="AB-radio" id="PQ_BD5826_1376_1_3"><label for="PQ_BD5826_1376_1_3" id="label_PQ_BD5826_1376_1_3">(D) 밴드왜건 효과</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일상회복 특별융자, 매출감소 비교기간 2배로 확대한다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
