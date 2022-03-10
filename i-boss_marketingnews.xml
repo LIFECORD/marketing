@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 07:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 08:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방통위, 인앱결제 강제 금지 시행령 개정 마무리위법행위 판단기준 마련]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8373</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8373</guid>
+            <pubDate>Thu, 10 Mar 2022 08:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[방송통신위원회는 애플리케이션(앱)마켓 사업자의 인앱결제 강제 행위를 금지하는 전기통신사업법 시행령 개정안이 지난 8일 국무회의에서 의결된 후, 구체적인 금지행위 판단을 위한 기준을 마련했다고 10일 밝혔다.   앱 마켓 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[틱톡, 음악 배포 플랫폼 사운드온 출시]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8372</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 04 Mar 2022 10:24:00 GMT</pubDate>
             <content:encoded><![CDATA[에이블리코퍼레이션(대표 강석훈)의 스타일 커머스 플랫폼,에이블리는 새 학기가 시작되면서 교복 아이템과 캠퍼스에 어울리는 개강룩 관련 상품 수요가 급증했다고4일 밝혔다. 에이블리2월 소비자 앱 이용 현황 분석 결과,등 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 글로벌 게임 앱 설치, iOS 6% 감소 및 안드로이드 22% 증가]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8343</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8343</guid>
-            <pubDate>Fri, 04 Mar 2022 09:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 마케팅 성과 측정 플랫폼앱스플라이어가게임 앱 마케팅 현황: 2022년 에디션을 발간하며, 2021년 애플의ATT도입으로 인해 변화된 게임 앱 환경 및 새로운 개인정보 보호 시대에 마케터들이 알아야 하는 인사이트를 공유했 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_ab95bea15adc98e023c938a3dc32c676_1413_6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
