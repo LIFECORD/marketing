@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-03-10T23:19:02.532Z</updated>
+    <updated>2022-03-11T01:11:25.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Z세대가 선호하는 콘텐츠 주제는 ‘게임’과 ‘일상(V-log)’]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8377</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8377"/>
+        <updated>2022-03-11T01:11:03.495Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Account Action] 아쉬운 2월 경쟁 PT, 분위기 다운?]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8376</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8376"/>
+        <updated>2022-03-11T01:11:03.496Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[트렌드모니터] 어떠한 이유라도 용납할 수 없는 '데이트 폭력', 법적 처벌의 강화를 요구하는 목소리 높아]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8375</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8375"/>
+        <updated>2022-03-11T01:11:03.496Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[3월 11일 마케팅 뉴스클리핑] 이용자 데이터 추적 거부율 90%, 타깃광고 수익 낮췄다 외]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8374</id>
@@ -192,27 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-8349</id>
         <link href="https://www.i-boss.co.kr/ab-2877-8349"/>
         <updated>2022-03-06T02:39:08.929Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기업의 사회적 책임에 대한 소비자의 높은 기대도]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8348</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8348"/>
-        <updated>2022-03-05T06:21:01.191Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방통위 방송광고 제작비 지원 받은 중소기업, 작년 매출 12.9% 및 고용 7.7% 증가]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8347</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8347"/>
-        <updated>2022-03-05T02:37:54.426Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[트렌드모니터] 급변하는 국제 정세 속 현 정부 외교정책에 대한 신뢰도 낮아... 반중 한미관계 중시 두드러져]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8346</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8346"/>
-        <updated>2022-03-05T01:06:43.706Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
