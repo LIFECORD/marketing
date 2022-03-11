@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 04:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 05:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,18 +336,18 @@
             <content:encoded><![CDATA[싸다싸]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방탄소년단(BTS)이 성공한 진짜 이유는?(재미로 봐주.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57209</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57209</guid>
-            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[리유]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케터가 마케팅 핵심 이해하는 지식 40부작 시리즈 [.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57315</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57315</guid>
             <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단(BTS)이 성공한 진짜 이유는?(재미로 봐주.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57209</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57209</guid>
+            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리유]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대가 선호하는 콘텐츠 주제는 게임과 일상(V-log) (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[오는 4월, 카카오가 카카오톡 오픈채팅방의 음성서비스를 신규 출시할 예정이라고 합니다. 카카오 오픈채팅방 내에서 이용자들이 자유롭게 음성으로 대화할 수 있는 이 서비스의 이름은 무엇일까요?(hint: 3/2 뉴스클리핑에서 힌트 줍줍~!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 11 Mar 2022 04:24:24 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2022 05:17:19 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->오는 4월, 카카오가 카카오톡 오픈채팅방의 음성서비스를 신규 출시할 예정이라고 합니다. 카카오 오픈채팅방 내에서 이용자들이 자유롭게 음성으로 대화할 수 있는 이 서비스의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8325" target="_blank">3/2 뉴스클리핑에서 힌트 줍줍~!</a>)</span></td>
 			</tr>
