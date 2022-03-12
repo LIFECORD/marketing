@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-03-12T04:23:58.540Z</updated>
+    <updated>2022-03-12T05:16:13.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -167,13 +167,6 @@
         <content type="html"><![CDATA[히야아아아앗]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마케터가  능력치를 올리는 방법과 전문직 취급을 받..]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38365</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38365"/>
-        <updated>2022-02-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Jazzy]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[마케터가 마케팅 핵심 이해하는 지식 40부작 시리즈 [..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57315</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57315"/>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38396"/>
         <updated>2022-02-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[마뇨리따]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신규 스마트스토어 어제 저녁부터 광고 시작했습니..]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38494</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38494"/>
+        <updated>2022-02-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[마케팅플랜]]></content>
     </entry>
 </feed>
