@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 22:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 23:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[3월 14일 마케팅 뉴스클리핑] 네이버 신사업 고속성장, 광고 매출 추월했다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8378</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8378</guid>
+            <pubDate>Mon, 14 Mar 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버 신사업 고속성장, 광고 매출 추월했다  네이버의 주력사업인 검색광고디스플레이 광고가 전사 매출에서 차지하는 비중이 처음으로 절반 아래로 떨어졌다. 지난해 광고 매출이 10% 이상 늘었음에도 비중이 하락한 것은  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_6799e867501f81f1d5e6918e7f480832_27770_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[옴니콤, 글로벌 디지털 트랜스포메이션 역량 확장을 위해 TA Digital 인수 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8382</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8382</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[3월 7일 마케팅 뉴스클리핑] 쿠팡 유료회원 900만 명... 한국판 아마존 프라임 꿈꾼다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8345</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8345</guid>
-            <pubDate>Mon, 07 Mar 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 쿠팡 유료회원 900만 명... 한국판 `아마존 프라임` 꿈꾼다  이커머스 역사상 처음으로 `매출 20조`를 돌파한 쿠팡이 유료 멤버십 `와우`로 `록인 효과`를 노린다. 쿠팡의 지난해 말 기준 와우 멤버십 회원 수는 900만 명에 이른다.  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5a649efc8a1f1544e41cac8ed56fe64b_10295_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[3월 14일 마케팅 뉴스클리핑] 네이버 신사업 고속성장, 광고 매출 추월했다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8378</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8378</guid>
+            <pubDate>Sun, 13 Mar 2022 23:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[옴니콤, 글로벌 디지털 트랜스포메이션 역량 확장을 위해 TA Digital 인수 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[3월 7일 마케팅 뉴스클리핑] 쿠팡 유료회원 900만 명... 한국판 '아마존 프라임' 꿈꾼다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8345</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8345</guid>
-            <pubDate>Mon, 07 Mar 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[다음 이미지에서 설명하고 있는 '이것'은 '묘하게 만족스러운 비디오'라는 의미를 갖고 있습니다. 요즘 광고업계에서 주목하고 있는 트렌드인 이것의 이름은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Sun, 13 Mar 2022 23:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 이미지에서 설명하고 있는 '이것'은 '묘하게 만족스러운 비디오'라는 의미를 갖고 있습니다. 요즘 광고업계에서 주목하고 있는 트렌드인 이것의 이름은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/d3c79938b79f4b09d4bb6d541946f3c5_16469020793419.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1378_1" value="1" class="AB-radio" id="PQ_BD5826_1378_1_0"><label for="PQ_BD5826_1378_1_0" id="label_PQ_BD5826_1378_1_0">(A) VSMR</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1378_1" value="2" class="AB-radio" id="PQ_BD5826_1378_1_1"><label for="PQ_BD5826_1378_1_1" id="label_PQ_BD5826_1378_1_1">(B) VLOG</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1378_1" value="3" class="AB-radio" id="PQ_BD5826_1378_1_2"><label for="PQ_BD5826_1378_1_2" id="label_PQ_BD5826_1378_1_2">(C) OSV</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1378_1" value="4" class="AB-radio" id="PQ_BD5826_1378_1_3"><label for="PQ_BD5826_1378_1_3" id="label_PQ_BD5826_1378_1_3">(D) UGC</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일상회복 특별융자, 매출감소 비교기간 2배로 확대한다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

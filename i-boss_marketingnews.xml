@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 22:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 23:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[3월 14일 마케팅 뉴스클리핑] 네이버 신사업 고속성장, 광고 매출 추월했다 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8378</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8378</guid>
+            <pubDate>Mon, 14 Mar 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버 신사업 고속성장, 광고 매출 추월했다  네이버의 주력사업인 검색광고디스플레이 광고가 전사 매출에서 차지하는 비중이 처음으로 절반 아래로 떨어졌다. 지난해 광고 매출이 10% 이상 늘었음에도 비중이 하락한 것은  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_6799e867501f81f1d5e6918e7f480832_27770_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[옴니콤, 글로벌 디지털 트랜스포메이션 역량 확장을 위해 TA Digital 인수]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8382</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 07 Mar 2022 08:48:00 GMT</pubDate>
             <content:encoded><![CDATA[쓰레기 중에서 가장 문제가 되고 있는 것은 플라스틱 쓰레기다. 플라스틱 쓰레기를 줄이고, 재활용하기 위해 많은 노력을 기울이고 있다. 일본에서는 아예 페트 병이 없는 자판기가 등장했다. 코카콜라 재팬은 `Bon Aqua Water Bar`라 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[3월 7일 마케팅 뉴스클리핑] 쿠팡 유료회원 900만 명... 한국판 아마존 프라임 꿈꾼다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8345</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8345</guid>
-            <pubDate>Mon, 07 Mar 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 쿠팡 유료회원 900만 명... 한국판 `아마존 프라임` 꿈꾼다  이커머스 역사상 처음으로 `매출 20조`를 돌파한 쿠팡이 유료 멤버십 `와우`로 `록인 효과`를 노린다. 쿠팡의 지난해 말 기준 와우 멤버십 회원 수는 900만 명에 이른다.  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5a649efc8a1f1544e41cac8ed56fe64b_10295_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
