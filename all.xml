@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 14:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 15:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,6 +224,13 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[잘 키운 SNS로 수익과 브랜딩을 한 번에! `SNS로 돈 벌.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-445</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-445</guid>
+            <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[`블로그체험단 효과 없는 이유가 이거였어?` 체험단 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57212</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57212</guid>
@@ -243,13 +250,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38524</guid>
             <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[잘 키운 SNS로 수익과 브랜딩을 한 번에! `SNS로 돈 벌.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-445</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-445</guid>
-            <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[4000억 부자가 사업을 키운 방법 (아이보스 ─ 인기글)]]></title>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8345</guid>
             <pubDate>Mon, 07 Mar 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오는 4월, 카카오가 카카오톡 오픈채팅방의 음성서비스를 신규 출시할 예정이라고 합니다. 카카오 오픈채팅방 내에서 이용자들이 자유롭게 음성으로 대화할 수 있는 이 서비스의 이름은 무엇일까요?(hint: 3/2 뉴스클리핑에서 힌트 줍줍~!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 13 Mar 2022 14:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->오는 4월, 카카오가 카카오톡 오픈채팅방의 음성서비스를 신규 출시할 예정이라고 합니다. 카카오 오픈채팅방 내에서 이용자들이 자유롭게 음성으로 대화할 수 있는 이 서비스의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8325" target="_blank">3/2 뉴스클리핑에서 힌트 줍줍~!</a>)</span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1377_1" value="1" class="AB-radio" id="PQ_BD5826_1377_1_0"><label for="PQ_BD5826_1377_1_0" id="label_PQ_BD5826_1377_1_0">(A) 오디오룸</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1377_1" value="2" class="AB-radio" id="PQ_BD5826_1377_1_1"><label for="PQ_BD5826_1377_1_1" id="label_PQ_BD5826_1377_1_1">(B) 보이스룸</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1377_1" value="3" class="AB-radio" id="PQ_BD5826_1377_1_2"><label for="PQ_BD5826_1377_1_2" id="label_PQ_BD5826_1377_1_2">(C) 음</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1377_1" value="4" class="AB-radio" id="PQ_BD5826_1377_1_3"><label for="PQ_BD5826_1377_1_3" id="label_PQ_BD5826_1377_1_3">(D) 스페이스</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일상회복 특별융자, 매출감소 비교기간 2배로 확대한다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
