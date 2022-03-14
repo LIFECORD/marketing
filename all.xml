@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 02:43:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 03:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -189,18 +189,18 @@
             <content:encoded><![CDATA[식자재중개플렛폼]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[고객 관점 컨텐츠 만들기 (올라운더식 컨텐츠제작법) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57331</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57331</guid>
-            <pubDate>Mon, 07 Mar 2022 12:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[올라운더마케팅]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케팅 레퍼런스 영상 똑똑하게 찾는 법, 유튜브 숨.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57193</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57193</guid>
             <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[재비]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고객 관점 컨텐츠 만들기 (올라운더식 컨텐츠제작법) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57331</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57331</guid>
+            <pubDate>Mon, 07 Mar 2022 12:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[올라운더마케팅]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[광고 소재 기획은 해야겠고 머리는 안 굴러갈 때? (아이보스 ─ 인기글)]]></title>
@@ -224,6 +224,13 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[스마트스토어 10일만에 주문건 100건 넘겼습니다. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38524</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38524</guid>
+            <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[마케팅밈] 마케터 해골물 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38572</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38572</guid>
@@ -243,13 +250,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57212</guid>
             <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[용서할게이츠]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스마트스토어 10일만에 주문건 100건 넘겼습니다. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38524</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38524</guid>
-            <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[4000억 부자가 사업을 키운 방법 (아이보스 ─ 인기글)]]></title>
@@ -593,42 +593,42 @@
             <title><![CDATA[카페24, 사이트 디자인 27만개로 확대... 최신 트렌드 반영 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8388</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8388</guid>
-            <pubDate>Mon, 14 Mar 2022 02:43:08 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2022 10:54:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[BAT, 구글 4대 딥러닝 기술 제휴사 '알티비하우스'와 전략적 파트너십 체결 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8387</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8387</guid>
-            <pubDate>Mon, 14 Mar 2022 02:43:08 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2022 10:08:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[몰로코, 2022년 대규모 인재 채용... 파격적인 직원 복지제도 제공 및 강화 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8386</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8386</guid>
-            <pubDate>Mon, 14 Mar 2022 02:43:08 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2022 09:22:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이성호 디스트릭트 대표, 미국 'SXSW 2022'에서 실감 콘텐츠 기술 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8385</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8385</guid>
-            <pubDate>Mon, 14 Mar 2022 02:43:08 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2022 08:50:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[디즈니플러스, 2022년 말에 광고 지원 상품 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8384</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8384</guid>
-            <pubDate>Mon, 14 Mar 2022 02:43:08 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2022 08:49:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국광고학회, 'ACE' Talk 마지막 시리즈 : 다트미디어 박천성 대표 대담 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8383</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8383</guid>
-            <pubDate>Mon, 14 Mar 2022 02:43:08 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2022 08:48:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 이미지에서 설명하고 있는 '이것'은 '묘하게 만족스러운 비디오'라는 의미를 갖고 있습니다. 요즘 광고업계에서 주목하고 있는 트렌드인 이것의 이름은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 14 Mar 2022 02:43:20 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2022 03:24:29 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 설명하고 있는 '이것'은 '묘하게 만족스러운 비디오'라는 의미를 갖고 있습니다. 요즘 광고업계에서 주목하고 있는 트렌드인 이것의 이름은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/d3c79938b79f4b09d4bb6d541946f3c5_16469020793419.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
