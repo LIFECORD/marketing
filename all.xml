@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 22:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 23:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[3월 15일 마케팅 뉴스클리핑] PG업계, 이커머스 카드수수료 대폭 인상 반대 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8391</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8391</guid>
+            <pubDate>Tue, 15 Mar 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. PG업계, 이커머스 카드수수료 대폭 인상 반대  중소 마트업계에 이어 PG사 단체가 신용카드사의 가맹점 수수료 인상에 반발하고 나섰다. 8개 PG사로 구성된 PG협회는 최근 7개 카드사에 수수료 인상안을 수용할 수 없다는 의견을 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_f63baaee6d8004c1110267297249eab7_77589_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한국광고학회, 제29회 올해의 광고상 수상작 발표 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8390</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8390</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[3월 8일 마케팅 뉴스클리핑] 코바코, 국내 첫 AI 광고 지원 아이작 서비스 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8358</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8358</guid>
-            <pubDate>Tue, 08 Mar 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 코바코, 국내 첫 AI 광고 지원 `아이작` 서비스  코바코는 국내 최초로 AI 기반 광고 창작 지원 시스템 `아이작` 서비스를 선보였다. `아이작`은 광고 콘텐츠 데이터와 AI 영상인식이 융합된 기술로 메타데이터 50만 건이 축적된  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1afe49ea06894017729e8beb084f78ab_90791_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[3월 15일 마케팅 뉴스클리핑] PG업계, 이커머스 카드수수료 대폭 인상 반대 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8391</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8391</guid>
+            <pubDate>Mon, 14 Mar 2022 23:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국광고학회, 제29회 올해의 광고상 수상작 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[3월 8일 마케팅 뉴스클리핑] 코바코, 국내 첫 AI 광고 지원 '아이작' 서비스 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8358</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8358</guid>
-            <pubDate>Tue, 08 Mar 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[다음 중 카카오비즈보드에 대한 설명으로 옳지 않은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Mon, 14 Mar 2022 23:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 중 카카오비즈보드에 대한 설명으로 옳지 않은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1379_1" value="1" class="AB-radio" id="PQ_BD5826_1379_1_0"><label for="PQ_BD5826_1379_1_0" id="label_PQ_BD5826_1379_1_0">(A) 카카오톡 뿐만 아니라 다음앱, 다음웹툰에도 노출될 수 있다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1379_1" value="2" class="AB-radio" id="PQ_BD5826_1379_1_1"><label for="PQ_BD5826_1379_1_1" id="label_PQ_BD5826_1379_1_1">(B) 카카오 채널의 챗봇을 랜딩페이지로 설정할 수 있다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1379_1" value="3" class="AB-radio" id="PQ_BD5826_1379_1_2"><label for="PQ_BD5826_1379_1_2" id="label_PQ_BD5826_1379_1_2">(C) 도달 목적의 캠페인에서는 맞춤타겟을 제공하지 않는다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1379_1" value="4" class="AB-radio" id="PQ_BD5826_1379_1_3"><label for="PQ_BD5826_1379_1_3" id="label_PQ_BD5826_1379_1_3">(D) 방문 목적의 캠페인에서는 수동입찰 방식만 선택할 수 있다</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일상회복 특별융자, 매출감소 비교기간 2배로 확대한다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
