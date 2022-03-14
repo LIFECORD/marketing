@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 07:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 09:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,18 +217,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[일잘러가 되고 싶다면? `된다! 최반장의 실무 엑셀 wit.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-442</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-442</guid>
-            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 마케터 해골물 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38572</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38572</guid>
             <pubDate>Thu, 10 Mar 2022 07:16:32 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일잘러가 되고 싶다면? `된다! 최반장의 실무 엑셀 wit.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-442</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-442</guid>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[잘 키운 SNS로 수익과 브랜딩을 한 번에! `SNS로 돈 벌.. (아이보스 ─ 인기글)]]></title>
@@ -294,18 +294,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신입 시절 회고하기 (긴글 주의) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38504</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38504</guid>
-            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[규S]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022ver. 무료폰트 추천! (디자이너 pick) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57321</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57321</guid>
             <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신입 시절 회고하기 (긴글 주의) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38504</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38504</guid>
+            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[규S]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[방탄소년단(BTS)이 성공한 진짜 이유는?(재미로 봐주.. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,22 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38494</guid>
             <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한국광고학회, 제29회 올해의 광고상 수상작 발표 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8390</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8390</guid>
+            <pubDate>Mon, 14 Mar 2022 09:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[한국광고학회(회장 안대천)는 제29회 올해의 광고상 수상작을 발표했다. 대한민국 광고 관련 학회를 대표하는 한국광고학회는 1993년 이래로 한 해 동안 집행된 우수한 광고 캠페인을 선정하여 소개함으로써 대한민국 광고 발전 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[애드리치, 오뚜기 점자 컵라면 라디오광고 올해의 광고상 대상 수상 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8389</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8389</guid>
+            <pubDate>Mon, 14 Mar 2022 09:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[애드리치(대표 은명희)가 제작한 오뚜기 점자 컵라면 라디오 광고가한국광고학회(회장 안대천)가 주최하는 `제29회 올해의 광고상`에서 라디오 부문 `대상`을 수상했다. 애드리치는비장애인에게는 더없이 편리한 컵라면이시각  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[카페24, 사이트 디자인 27만개로 확대... 최신 트렌드 반영 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -574,20 +590,18 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1afe49ea06894017729e8beb084f78ab_90791_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코바코, 아이작 서비스 론칭 AI빅데이터로 손쉽게 광고 제작 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8361</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8361</guid>
-            <pubDate>Mon, 07 Mar 2022 11:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[아이작 서비스 시작 화면   인공지능(AI)이 광고 제작을 돕는 시대가 왔다. AI로 광고 영상 속 데이터를 인식하고, 광고 제작의 밑그림인 스토리보드도AI가 지원해줄 수 있게 됐다. 한국방송광고진흥공사(이하 코바코, 사장 이백만 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[한국광고학회, 제29회 올해의 광고상 수상작 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8390</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8390</guid>
+            <pubDate>Mon, 14 Mar 2022 09:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[광고커뮤니케이션 업계 여성 리더 및 CEO 특별 좌담회, 트위터 블루룸 진행 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8360</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8360</guid>
-            <pubDate>Mon, 07 Mar 2022 10:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[매드타임스는 한국광고총연합회(회장 김낙회)와 함께 `광고커뮤니케이션 업계 여성 리더와 CEO`라는 주제로 여성의 날 특별 좌담회를 3월 8일 오후 7시 트위터코리아 블루룸 라이브를통해 진행한다. 이번 좌담회에는 트위터 글 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[애드리치, 오뚜기 점자 컵라면 라디오광고 “올해의 광고상” 대상 수상 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8389</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8389</guid>
+            <pubDate>Mon, 14 Mar 2022 09:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카페24, 사이트 디자인 27만개로 확대... 최신 트렌드 반영 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코바코, '아이작' 서비스 론칭… AI‧빅데이터로 손쉽게 광고 제작 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8361</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8361</guid>
-            <pubDate>Mon, 07 Mar 2022 11:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["광고커뮤니케이션 업계 여성 리더 및 CEO" 특별 좌담회, 트위터 블루룸 진행 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8360</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8360</guid>
-            <pubDate>Mon, 07 Mar 2022 10:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지에서 설명하고 있는 '이것'은 '묘하게 만족스러운 비디오'라는 의미를 갖고 있습니다. 요즘 광고업계에서 주목하고 있는 트렌드인 이것의 이름은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 14 Mar 2022 07:18:29 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2022 09:18:21 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 설명하고 있는 '이것'은 '묘하게 만족스러운 비디오'라는 의미를 갖고 있습니다. 요즘 광고업계에서 주목하고 있는 트렌드인 이것의 이름은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/d3c79938b79f4b09d4bb6d541946f3c5_16469020793419.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

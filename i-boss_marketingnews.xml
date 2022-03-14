@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 07:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 09:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국광고학회, 제29회 올해의 광고상 수상작 발표]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8390</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8390</guid>
+            <pubDate>Mon, 14 Mar 2022 09:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[한국광고학회(회장 안대천)는 제29회 올해의 광고상 수상작을 발표했다. 대한민국 광고 관련 학회를 대표하는 한국광고학회는 1993년 이래로 한 해 동안 집행된 우수한 광고 캠페인을 선정하여 소개함으로써 대한민국 광고 발전 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[애드리치, 오뚜기 점자 컵라면 라디오광고 올해의 광고상 대상 수상]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8389</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8389</guid>
+            <pubDate>Mon, 14 Mar 2022 09:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[애드리치(대표 은명희)가 제작한 오뚜기 점자 컵라면 라디오 광고가한국광고학회(회장 안대천)가 주최하는 `제29회 올해의 광고상`에서 라디오 부문 `대상`을 수상했다. 애드리치는비장애인에게는 더없이 편리한 컵라면이시각  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[카페24, 사이트 디자인 27만개로 확대... 최신 트렌드 반영]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8388</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 08 Mar 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 코바코, 국내 첫 AI 광고 지원 `아이작` 서비스  코바코는 국내 최초로 AI 기반 광고 창작 지원 시스템 `아이작` 서비스를 선보였다. `아이작`은 광고 콘텐츠 데이터와 AI 영상인식이 융합된 기술로 메타데이터 50만 건이 축적된  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1afe49ea06894017729e8beb084f78ab_90791_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코바코, 아이작 서비스 론칭 AI빅데이터로 손쉽게 광고 제작]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8361</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8361</guid>
-            <pubDate>Mon, 07 Mar 2022 11:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[아이작 서비스 시작 화면   인공지능(AI)이 광고 제작을 돕는 시대가 왔다. AI로 광고 영상 속 데이터를 인식하고, 광고 제작의 밑그림인 스토리보드도AI가 지원해줄 수 있게 됐다. 한국방송광고진흥공사(이하 코바코, 사장 이백만 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[광고커뮤니케이션 업계 여성 리더 및 CEO 특별 좌담회, 트위터 블루룸 진행]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8360</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8360</guid>
-            <pubDate>Mon, 07 Mar 2022 10:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[매드타임스는 한국광고총연합회(회장 김낙회)와 함께 `광고커뮤니케이션 업계 여성 리더와 CEO`라는 주제로 여성의 날 특별 좌담회를 3월 8일 오후 7시 트위터코리아 블루룸 라이브를통해 진행한다. 이번 좌담회에는 트위터 글 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
