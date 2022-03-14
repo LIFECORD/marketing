@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 14:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 15:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8358</guid>
             <pubDate>Tue, 08 Mar 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다음 이미지에서 설명하고 있는 '이것'은 '묘하게 만족스러운 비디오'라는 의미를 갖고 있습니다. 요즘 광고업계에서 주목하고 있는 트렌드인 이것의 이름은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 14 Mar 2022 14:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->다음 이미지에서 설명하고 있는 '이것'은 '묘하게 만족스러운 비디오'라는 의미를 갖고 있습니다. 요즘 광고업계에서 주목하고 있는 트렌드인 이것의 이름은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/d3c79938b79f4b09d4bb6d541946f3c5_16469020793419.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1378_1" value="1" class="AB-radio" id="PQ_BD5826_1378_1_0"><label for="PQ_BD5826_1378_1_0" id="label_PQ_BD5826_1378_1_0">(A) VSMR</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1378_1" value="2" class="AB-radio" id="PQ_BD5826_1378_1_1"><label for="PQ_BD5826_1378_1_1" id="label_PQ_BD5826_1378_1_1">(B) VLOG</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1378_1" value="3" class="AB-radio" id="PQ_BD5826_1378_1_2"><label for="PQ_BD5826_1378_1_2" id="label_PQ_BD5826_1378_1_2">(C) OSV</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1378_1" value="4" class="AB-radio" id="PQ_BD5826_1378_1_3"><label for="PQ_BD5826_1378_1_3" id="label_PQ_BD5826_1378_1_3">(D) UGC</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일상회복 특별융자, 매출감소 비교기간 2배로 확대한다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
