@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 23:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 02:43:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -189,18 +189,18 @@
             <content:encoded><![CDATA[식자재중개플렛폼]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케팅 레퍼런스 영상 똑똑하게 찾는 법, 유튜브 숨.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57193</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57193</guid>
-            <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[재비]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[고객 관점 컨텐츠 만들기 (올라운더식 컨텐츠제작법) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57331</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57331</guid>
             <pubDate>Mon, 07 Mar 2022 12:28:28 GMT</pubDate>
             <content:encoded><![CDATA[올라운더마케팅]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케팅 레퍼런스 영상 똑똑하게 찾는 법, 유튜브 숨.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57193</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57193</guid>
+            <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[재비]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[광고 소재 기획은 해야겠고 머리는 안 굴러갈 때? (아이보스 ─ 인기글)]]></title>
@@ -273,6 +273,13 @@
             <content:encoded><![CDATA[리유]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[1명씩 실종,,, (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38472</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38472</guid>
+            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[히야아아아앗]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[무신사 vs 크림, 목숨 건 짝퉁 공방 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57278</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57278</guid>
@@ -287,13 +294,6 @@
             <content:encoded><![CDATA[규S]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[1명씩 실종,,, (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38472</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38472</guid>
-            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[히야아아아앗]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케터가 마케팅 핵심 이해하는 지식 40부작 시리즈 [.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57315</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57315</guid>
@@ -306,13 +306,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57321</guid>
             <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[필독 해킹 블로그 업자 또 나타났습니다 조심들 하세.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38502</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38502</guid>
-            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[싸다싸]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[방탄소년단(BTS)이 성공한 진짜 이유는?(재미로 봐주.. (아이보스 ─ 인기글)]]></title>
@@ -336,6 +329,13 @@
             <content:encoded><![CDATA[마뇨리따]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[필독 해킹 블로그 업자 또 나타났습니다 조심들 하세.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38502</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38502</guid>
+            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[싸다싸]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[신규 스마트스토어 어제 저녁부터 광고 시작했습니.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38494</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38494</guid>
@@ -348,6 +348,54 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38464</guid>
             <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카페24, 사이트 디자인 27만개로 확대... 최신 트렌드 반영 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8388</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8388</guid>
+            <pubDate>Mon, 14 Mar 2022 10:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[최적의 사이트 디자인 간편히 찾아 즉각 반영  글로벌 전자상거래 플랫폼 카페24(대표 이재석)는 누구나 온라인 비즈니스를 쉽고 빠르게 성장시킬 수 있도록 사이트 디자인 수와 다양한 디자인 지원 서비스를 대폭 확대해 제공 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_098fc8bc9a526d892e572363a9b62415_8496_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BAT, 구글 4대 딥러닝 기술 제휴사 알티비하우스와 전략적 파트너십 체결 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8387</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8387</guid>
+            <pubDate>Mon, 14 Mar 2022 10:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[종합 브랜드 에이전시 BAT(대표 박준규, 법인명 아키타입컴퍼니)는 글로벌 애드테크 기업 `알티비하우스`와 보다 정확한 광고 마케팅을 위한 전략적 파트너십을 체결했다고 14일 밝혔다. 알티비하우스는 전 세계 80개국 이상 국가 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[몰로코, 2022년 대규모 인재 채용... 파격적인 직원 복지제도 제공 및 강화 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8386</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8386</guid>
+            <pubDate>Mon, 14 Mar 2022 09:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌AI테크 기업 몰로코(Moloco,대표 안익진)가 올해 기존 재직자 수를 뛰어넘는 대규모 상시 인재 채용을 진행한다. 몰로코는 매년 지속적으로100%이상의 성장률을 기록했으며,순 매출액은 연 기준1억 달러(약1,205억 원)을 돌파 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[이성호 디스트릭트 대표, 미국 SXSW 2022에서 실감 콘텐츠 기술 발표 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8385</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8385</guid>
+            <pubDate>Mon, 14 Mar 2022 08:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[기술이 산업현장 사이의 장벽을 허물고, 분열됐던 것을 연결해 새로운 가치를 창출하고 있다. 특히 예술과 디자인에서 몰입형 기술의 눈부신 발전과 활용도가 높아지면서 우리 경험의 경계가 넓어지고 있다. 그렇다면 몰입형  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[디즈니플러스, 2022년 말에 광고 지원 상품 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8384</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8384</guid>
+            <pubDate>Mon, 14 Mar 2022 08:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니플러스는 2022년 말 미국을 시작으로 2023년 해외 진출을 목표로 광고가 없는 옵션 외에 광고 지원 구독 서비스를도입, 소비자에게 더 많은 선택권과 통제권을 제공한다고 밝혔다. 디즈니 미디어 및 엔터테인먼트 유통회장 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[한국광고학회, ACE Talk 마지막 시리즈 : 다트미디어 박천성 대표 대담 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8383</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8383</guid>
+            <pubDate>Mon, 14 Mar 2022 08:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국광고학회(회장 안대천, 인하대학교 교수)는 마지막 ACE TalkACE를 3월 17일(목) 오후 2시에 진행한다. 이번에는 다트미디어의 박천성 대표가 함께 한다. 중앙대 조정식 교수의 사회로 진행되는 이번 대담에서는2007년 창입 이후  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[3월 14일 마케팅 뉴스클리핑] 네이버 신사업 고속성장, 광고 매출 추월했다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -542,58 +590,52 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[MZ의 신종 재테크, 운동화에서 명품까지 리셀 테크 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8359</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8359</guid>
-            <pubDate>Mon, 07 Mar 2022 10:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[중고거래 시장이 점점 확대되면서 단순히 중고거래가 아닌 한정판 제품이나 고가의 희소 상품을 사고파는 리셀이 증가하고 있다. 리셀 테크란 희소성 있는 제품을 이전에 샀던 금액보다 더 비싸게 판매하여 수익을 창출하는 재 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[카페24, 사이트 디자인 27만개로 확대... 최신 트렌드 반영 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8388</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8388</guid>
+            <pubDate>Mon, 14 Mar 2022 02:43:08 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BC카드, 크립토닷컴  Visa와 글로벌 디지털 결제 협업 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8357</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8357</guid>
-            <pubDate>Mon, 07 Mar 2022 09:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[BC카드가 글로벌 디지털 금융 파트너십 확장에 나선다.새로운 사업 기회를 발굴함과 동시에 고객에게 혁신적인 디지털 금융 경험을 제공하기 위해서다. BC카드(대표이사 사장 최원석)는 지난4일(현지시간)싱가포르 크립토닷컴HQ ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[BAT, 구글 4대 딥러닝 기술 제휴사 '알티비하우스'와 전략적 파트너십 체결 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8387</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8387</guid>
+            <pubDate>Mon, 14 Mar 2022 02:43:08 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이노션, 아태지역 최대 광고제 올해의 에이전시 선정 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8356</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8356</guid>
-            <pubDate>Mon, 07 Mar 2022 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[이노션 월드와이드(대표이사 이용우, 이하 이노션)는 아시아 태평양 지역 최고 권위의 광고제 2022 스파이크스 아시아(Spikes Asia)에서 올해의 에이전시로 선정됐다고 7일 밝혔다. 한국 본사를 기준으로 올해의 에이전시를 받은 건  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[몰로코, 2022년 대규모 인재 채용... 파격적인 직원 복지제도 제공 및 강화 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8386</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8386</guid>
+            <pubDate>Mon, 14 Mar 2022 02:43:08 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이디엇, 대기업 인수합병 모두 거절하고 이노레드와 손 잡았다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8355</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8355</guid>
-            <pubDate>Mon, 07 Mar 2022 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근, 국내 광고산업 내 인수합병 및 상장을 목표로 한 재무적 투자 소식이 연이어 나오고 있다. 이러한 트렌드 속 크리에이티브 광고회사 아이디엇은 지난 2월, 이노레드로부터 이례적인 형태의 전략적 투자를 유치했다고 밝혔 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[이성호 디스트릭트 대표, 미국 'SXSW 2022'에서 실감 콘텐츠 기술 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8385</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8385</guid>
+            <pubDate>Mon, 14 Mar 2022 02:43:08 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 소셜 플랫폼의 여성 임원 비율 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8354</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8354</guid>
-            <pubDate>Mon, 07 Mar 2022 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근 경영진과 이사회에서 여성 임원이증가하고 있다. 실제로 2021년에는 포춘 500대 기업 목록에 여성 CEO가 사상 최고치를 기록했다. 그러나 이러한 고위직에서 여성이 증가했음에도 불구하고, 현재 미국 기업의 7%만이 성 균형 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[디즈니플러스, 2022년 말에 광고 지원 상품 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8384</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8384</guid>
+            <pubDate>Mon, 14 Mar 2022 02:43:08 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[해외 크리에이티브] 코카콜라, 일본에 페트병 없는 자판기 도입 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8353</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8353</guid>
-            <pubDate>Mon, 07 Mar 2022 08:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[쓰레기 중에서 가장 문제가 되고 있는 것은 플라스틱 쓰레기다. 플라스틱 쓰레기를 줄이고, 재활용하기 위해 많은 노력을 기울이고 있다. 일본에서는 아예 페트 병이 없는 자판기가 등장했다. 코카콜라 재팬은 `Bon Aqua Water Bar`라 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[한국광고학회, 'ACE' Talk 마지막 시리즈 : 다트미디어 박천성 대표 대담 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8383</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8383</guid>
+            <pubDate>Mon, 14 Mar 2022 02:43:08 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[3월 14일 마케팅 뉴스클리핑] 네이버 신사업 고속성장, 광고 매출 추월했다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8378</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8378</guid>
-            <pubDate>Sun, 13 Mar 2022 23:18:53 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -758,52 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[MZ의 신종 재테크, 운동화에서 명품까지 ‘리셀 테크’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8359</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8359</guid>
-            <pubDate>Mon, 07 Mar 2022 10:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BC카드, 크립토닷컴 · Visa와 글로벌 디지털 결제 협업 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8357</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8357</guid>
-            <pubDate>Mon, 07 Mar 2022 09:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이노션, 아태지역 최대 광고제 ‘올해의 에이전시’ 선정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8356</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8356</guid>
-            <pubDate>Mon, 07 Mar 2022 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아이디엇, 대기업 인수합병 모두 거절하고 "이노레드"와 손 잡았다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8355</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8355</guid>
-            <pubDate>Mon, 07 Mar 2022 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 소셜 플랫폼의 여성 임원 비율 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8354</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8354</guid>
-            <pubDate>Mon, 07 Mar 2022 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[해외 크리에이티브] 코카콜라, 일본에 페트병 없는 자판기 도입 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8353</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8353</guid>
-            <pubDate>Mon, 07 Mar 2022 08:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지에서 설명하고 있는 '이것'은 '묘하게 만족스러운 비디오'라는 의미를 갖고 있습니다. 요즘 광고업계에서 주목하고 있는 트렌드인 이것의 이름은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 13 Mar 2022 23:19:04 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2022 02:43:20 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 설명하고 있는 '이것'은 '묘하게 만족스러운 비디오'라는 의미를 갖고 있습니다. 요즘 광고업계에서 주목하고 있는 트렌드인 이것의 이름은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/d3c79938b79f4b09d4bb6d541946f3c5_16469020793419.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
