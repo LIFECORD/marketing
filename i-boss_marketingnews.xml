@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 04:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 05:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중진공, 중소벤처기업 2천곳 온라인 수출 서비스 지원]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8397</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8397</guid>
+            <pubDate>Tue, 15 Mar 2022 05:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[중소벤처기업진흥공단은 올해 `온라인수출플랫폼 지원사업`을 통해 중소벤처기업 2천 곳에 온라인 수출에 필요한 서비스를 지원한다고 15일 밝혔다.  중진공이 운영하는 온라인 수출 플랫폼 `고비즈코리아` 입점, 온라인 수출마 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e94a04b79aa23ed85669ff0c91a70d74_6428_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[IPG, 러시아에서 사업 중단]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8396</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 10 Mar 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. `인플루언서 등용문`으로 떠오른 무신사스타일쉐어오늘의집  무신사, 스타일쉐어, 오늘의 집 등 버티컬 커머스가 MZ세대의 `인플루언서 등용문`으로 자리 잡고 있다. 특정 주제에 관여도가 높은 고객층이 한 곳에 모여 있어,  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_6c89bfdfc5c6e7b1ee76d13bc38d7514_81616_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 새로운 오리지널 콘텐츠는 새로운 가입자와 새로운 비용을 의미한다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8368</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8368</guid>
-            <pubDate>Wed, 09 Mar 2022 09:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[미국 주요 스트리밍 서비스인 넷플릭스, 아마존 프라임 비디오, 훌루, 애플TV+는2021년 구독자를 유치하고 유지하기 위해 경쟁하면서 오리지널콘텐츠에 111억 5천만 달러를 지출하여 사상 최대를 기록했다고 이마케터는 보도했다. ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
