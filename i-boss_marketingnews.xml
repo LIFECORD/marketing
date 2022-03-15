@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 01:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 02:42:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IPG, 러시아에서 사업 중단]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8396</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8396</guid>
+            <pubDate>Tue, 15 Mar 2022 10:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[인터퍼블릭그룹(IPG)는 러시아에서 모든 사업을 중단한다고 발표했다. WPP와 액센츄어에 이은 사업 중단 발표다. 필립 크라코프스키 IPG CEO는 링크드인 게시물에서 침략이 시작되자마자 `우리는 즉각 모든 국제 제재를 적용하고  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나19 재택치료의 영향, 전체 비대면 의료 서비스 앱 사용자수 한달 만에 161% 증가]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8395</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8395</guid>
+            <pubDate>Tue, 15 Mar 2022 10:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 비대면 의료 서비스 앱을 1번 이상 사용한 사람 150만 명, 전달 대비 160 % 비대면 의료 서비스 앱 사용자수는 닥터나우, 올라케어, 굿닥 순   앱/리테일 분석 서비스 와이즈앱리테일굿즈가 한국인이 최근 많이 사용하고 있 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_1647307987252.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이노션, 미주지역 미디어 대행사 캔버스 월드와이드 지분 100% 인수]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8394</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 09 Mar 2022 09:35:00 GMT</pubDate>
             <content:encoded><![CDATA[미국 주요 스트리밍 서비스인 넷플릭스, 아마존 프라임 비디오, 훌루, 애플TV+는2021년 구독자를 유치하고 유지하기 위해 경쟁하면서 오리지널콘텐츠에 111억 5천만 달러를 지출하여 사상 최대를 기록했다고 이마케터는 보도했다. ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 훌륭한 비즈니스 웹사이트의 구조]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8367</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8367</guid>
-            <pubDate>Wed, 09 Mar 2022 09:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[대부분의 잠재 고객은웹 사이트를 방문한다. 또한 웹 사이트는 소셜 미디어를 비롯한 다양한 채널의 탱크가 되기도 한다. 따라서 방문자에게 자신감을 심어주고 그들이 찾고 있는 정보를 찾을 수 있도록 도와주고 시선을 사로 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[소비자가 온라인에서 가장 많이 구매한 헤어관리기 브랜드는? 다이슨]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8365</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8365</guid>
-            <pubDate>Tue, 08 Mar 2022 10:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[자신의 개성을 표현하기 위한 수단인 헤어관리기 전달 대비 14% 구매금액  가장 많이 구매한 헤어관리기 브랜드 다이슨&gt;JMW&gt;LG 프라엘&gt;유닉스&gt;비달사순   코로나19 장기화로 인해 마스크 착용이 일상화되면서, 마스크로 가려지지  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16467020002985.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-03-15T01:11:22.993Z</updated>
+    <updated>2022-03-15T02:42:24.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[IPG, 러시아에서 사업 중단]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8396</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8396"/>
+        <updated>2022-03-15T02:42:03.600Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19 재택치료의 영향, 전체 비대면 의료 서비스 앱 사용자수 한달 만에 161% 증가]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8395</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8395"/>
+        <updated>2022-03-15T02:42:03.602Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이노션, 미주지역 미디어 대행사 '캔버스 월드와이드' 지분 100% 인수]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8394</id>
@@ -200,19 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-8368"/>
         <updated>2022-03-09T01:10:07.432Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인포그래픽] 훌륭한 비즈니스 웹사이트의 구조]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8367</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8367"/>
-        <updated>2022-03-09T01:10:07.435Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소비자가 온라인에서 가장 많이 구매한 헤어관리기 브랜드는? '다이슨']]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8365</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8365"/>
-        <updated>2022-03-08T02:36:01.680Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
 </feed>
