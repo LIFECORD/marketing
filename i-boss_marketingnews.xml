@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 06:24:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 07:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 광고정책 컨트롤타워, 광고진흥법 시급하다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8398</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8398</guid>
+            <pubDate>Tue, 15 Mar 2022 07:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[새 정부가 기다려지는 건 미래 먹거리에 대한 기대 때문이다. 그런 차원에서 광고업계도 새 정부에 대한 기대가 크다. 광고산업은 디지털 혁신이 새로운 먹거리다. 광고산업이 세계 제2위의 문화 강국으로 도약하고 디지털 혁신 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[중진공, 중소벤처기업 2천곳 온라인 수출 서비스 지원]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8397</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 10 Mar 2022 08:28:00 GMT</pubDate>
             <content:encoded><![CDATA[스트리밍 서비스는 팬데믹을 타고 계속 확장하면서, 경쟁이 치열해지고 있다. OTT 플랫폼은 자신만의 오리지널 콘텐츠 제작에박차를 가하면서 가입자 확보에 힘을 쏟고 있다. 그러나 구독 비용의 증가와 다양한 콘텐츠에 대한  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[3월 10일 마케팅 뉴스클리핑] 인플루언서 등용문으로 떠오른 무신사스타일쉐어오늘의집 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8366</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8366</guid>
-            <pubDate>Thu, 10 Mar 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. `인플루언서 등용문`으로 떠오른 무신사스타일쉐어오늘의집  무신사, 스타일쉐어, 오늘의 집 등 버티컬 커머스가 MZ세대의 `인플루언서 등용문`으로 자리 잡고 있다. 특정 주제에 관여도가 높은 고객층이 한 곳에 모여 있어,  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_6c89bfdfc5c6e7b1ee76d13bc38d7514_81616_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
