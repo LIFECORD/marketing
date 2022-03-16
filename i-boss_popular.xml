@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-03-16T14:19:28.116Z</updated>
+    <updated>2022-03-16T15:21:07.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[제발 페이스북 데이터 입력, 수기로 하지마세요. (feat..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57202</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57202"/>
-        <updated>2022-02-15T07:15:56.376Z</updated>
-        <content type="html"><![CDATA[우뇌]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[지금까지 모은 마케팅 개꿀팁 유용한 사이트 모음!!(8..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57310</id>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57345"/>
         <updated>2022-03-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제 나이 서른. 마케팅 일을 시작할 수 있을까요?]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38461</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38461"/>
+        <updated>2022-02-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[SBSbiz]]></content>
     </entry>
 </feed>

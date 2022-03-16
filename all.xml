@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 14:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 15:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -138,13 +138,6 @@
 						<p><strong>10만 명 유입, 구매 전환은 20...</strong>2022.02.03</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_857500.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[제발 페이스북 데이터 입력, 수기로 하지마세요. (feat.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57202</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57202</guid>
-            <pubDate>Tue, 15 Feb 2022 07:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지금까지 모은 마케팅 개꿀팁 유용한 사이트 모음!!(8.. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +341,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57345</guid>
             <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제 나이 서른. 마케팅 일을 시작할 수 있을까요? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38461</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38461</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[SBSbiz]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[퍼블리시스도 러시아에서 철수하다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8379</guid>
             <pubDate>Sun, 13 Mar 2022 08:46:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[페이스북 광고에서 '예상 타겟 규모'는 광고를 만드는 동안 광고주가 선택하는 타게팅 및 광고 노출 위치 기준을 충족하는 사람 수를 예측한 값입니다. 이 값을 측정할 때 고려되지 않는 요소는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 16 Mar 2022 14:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->페이스북 광고에서 '예상 타겟 규모'는 광고를 만드는 동안 광고주가 선택하는 타게팅 및 광고 노출 위치 기준을 충족하는 사람 수를 예측한 값입니다. 이 값을 측정할 때 고려되지 않는 요소는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1380_1" value="1" class="AB-radio" id="PQ_BD5826_1380_1_0"><label for="PQ_BD5826_1380_1_0" id="label_PQ_BD5826_1380_1_0">(A) 광고 일 예산</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1380_1" value="2" class="AB-radio" id="PQ_BD5826_1380_1_1"><label for="PQ_BD5826_1380_1_1" id="label_PQ_BD5826_1380_1_1">(B) 최근 30일간 Facebook에서 광고가 노출된 사람 수</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1380_1" value="3" class="AB-radio" id="PQ_BD5826_1380_1_2"><label for="PQ_BD5826_1380_1_2" id="label_PQ_BD5826_1380_1_2">(C) 사람들이 Facebook에서 반응을 보인 콘텐츠</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1380_1" value="4" class="AB-radio" id="PQ_BD5826_1380_1_3"><label for="PQ_BD5826_1380_1_3" id="label_PQ_BD5826_1380_1_3">(D) 사람들이 광고를 보는 위치</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부-회사, “근로자 10만 명에 휴가비 지원"…소상공인 대표도 가능 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
