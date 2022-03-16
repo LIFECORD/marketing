@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 03:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 04:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누구나 펀딩하는 시대... 와디즈, 심사제도 간소화]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8404</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8404</guid>
+            <pubDate>Wed, 16 Mar 2022 04:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[심사 절차 간편화하고 사후 모니터링 체제 강화  누구나 자신만의 아이디어를 쉽고 간편하게 펀딩으로 선보일 수 있도록 중개 플랫폼의 심사 절차가 대폭 간소화된다.  라이프디자인 펀딩플랫폼 와디즈(대표 신혜성)는 스타트 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_07cbac94e66c10c2138ffe1fd2dac301_94654_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[온라인 쇼핑몰 리빙 카테고리, 나를 표현하는 페르소나 소비 두드러져]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8403</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 11 Mar 2022 08:51:00 GMT</pubDate>
             <content:encoded><![CDATA[시장조사전문기업 엠브레인 트렌드모니터가 연애 경험이 있는 전국 만 19세~59세 성인 남녀 1,000명을 대상으로 데이트 폭력 관련 인식 조사를 실시한 결과, 이유여하를 막론하고 어떤 형태의 데이트 폭력도 용납될 수 없다는 인 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[3월 11일 마케팅 뉴스클리핑] 이용자 데이터 추적 거부율 90%, 타깃광고 수익 낮췄다 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8374</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8374</guid>
-            <pubDate>Fri, 11 Mar 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 이용자 데이터 추적 거부율 90%, 타깃광고 수익 낮췄다  이용자 동의를 받아야만 앱 개발사들이 이용자 데이터를 수집할 수 있는 `앱 추적 투명성` 기능이 확대되면서 이용자 데이터를 바탕으로 타깃 광고 기능을 제공해 온 플 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2addf5ea6340bd2817c63692f3077230_40487_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

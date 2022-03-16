@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 03:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 04:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -259,6 +259,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[무신사 vs 크림, 목숨 건 짝퉁 공방 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57278</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57278</guid>
+            <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[마케터가 마케팅 핵심 이해하는 지식 40부작 시리즈 [.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57315</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57315</guid>
@@ -273,11 +280,11 @@
             <content:encoded><![CDATA[리유]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[무신사 vs 크림, 목숨 건 짝퉁 공방 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57278</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57278</guid>
-            <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
+            <title><![CDATA[신입 시절 회고하기 (긴글 주의) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38504</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38504</guid>
+            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[규S]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022ver. 무료폰트 추천! (디자이너 pick) (아이보스 ─ 인기글)]]></title>
@@ -287,25 +294,11 @@
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신입 시절 회고하기 (긴글 주의) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38504</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38504</guid>
-            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[규S]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[1명씩 실종,,, (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38472</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38472</guid>
             <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[히야아아아앗]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단(BTS)이 성공한 진짜 이유는?(재미로 봐주.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57209</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57209</guid>
-            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[리유]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[초보마케터 (아이보스 ─ 인기글)]]></title>
@@ -315,18 +308,18 @@
             <content:encoded><![CDATA[마뇨리따]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[방탄소년단(BTS)이 성공한 진짜 이유는?(재미로 봐주.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57209</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57209</guid>
+            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리유]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[필독 해킹 블로그 업자 또 나타났습니다 조심들 하세.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38502</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38502</guid>
             <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[싸다싸]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스마트스토어 어느 정도는 이해가 되었습니다. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38579</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38579</guid>
-            <pubDate>Tue, 08 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[신규 스마트스토어 어제 저녁부터 광고 시작했습니.. (아이보스 ─ 인기글)]]></title>
@@ -343,11 +336,26 @@
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[스마트스토어 어느 정도는 이해가 되었습니다. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38579</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38579</guid>
+            <pubDate>Tue, 08 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[아묻따 '반품'은 이제 그만 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57360</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57360</guid>
             <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[누구나 펀딩하는 시대... 와디즈, 심사제도 간소화 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8404</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8404</guid>
+            <pubDate>Wed, 16 Mar 2022 04:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[심사 절차 간편화하고 사후 모니터링 체제 강화  누구나 자신만의 아이디어를 쉽고 간편하게 펀딩으로 선보일 수 있도록 중개 플랫폼의 심사 절차가 대폭 간소화된다.  라이프디자인 펀딩플랫폼 와디즈(대표 신혜성)는 스타트 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_07cbac94e66c10c2138ffe1fd2dac301_94654_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[온라인 쇼핑몰 리빙 카테고리, 나를 표현하는 페르소나 소비 두드러져 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,46 +590,45 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[3월 11일 마케팅 뉴스클리핑] 이용자 데이터 추적 거부율 90%, 타깃광고 수익 낮췄다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8374</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8374</guid>
-            <pubDate>Fri, 11 Mar 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 이용자 데이터 추적 거부율 90%, 타깃광고 수익 낮췄다  이용자 동의를 받아야만 앱 개발사들이 이용자 데이터를 수집할 수 있는 `앱 추적 투명성` 기능이 확대되면서 이용자 데이터를 바탕으로 타깃 광고 기능을 제공해 온 플 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2addf5ea6340bd2817c63692f3077230_40487_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[누구나 펀딩하는 시대... 와디즈, 심사제도 간소화 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8404</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8404</guid>
+            <pubDate>Wed, 16 Mar 2022 04:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[온라인 쇼핑몰 리빙 카테고리, “나를 표현하는 ‘페르소나’ 소비 두드러져” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8403</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8403</guid>
-            <pubDate>Wed, 16 Mar 2022 03:21:21 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2022 09:27:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아이지에이웍스, 원스톱 디지털 전환 서비스 ‘통합 마케팅 클라우드’ 론칭 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8402</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8402</guid>
-            <pubDate>Wed, 16 Mar 2022 03:21:21 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2022 08:51:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[옴니콤, 광고회사 중 최초로 NBC유니버설 '클린룸'과 통합 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8401</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8401</guid>
-            <pubDate>Wed, 16 Mar 2022 03:21:21 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2022 08:36:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[글로벌 컨텍스트 광고 시장, 2026년까지 3351억 달러에 도달 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8400</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8400</guid>
-            <pubDate>Wed, 16 Mar 2022 03:21:21 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2022 08:35:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[3월 16일 마케팅 뉴스클리핑] 네이버, MZ세대 CEO '최수연' 시대 연다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8399</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8399</guid>
-            <pubDate>Wed, 16 Mar 2022 03:21:21 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[3월 11일 마케팅 뉴스클리핑] 이용자 데이터 추적 거부율 90%, 타깃광고 수익 낮췄다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8374</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8374</guid>
-            <pubDate>Fri, 11 Mar 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[페이스북 광고에서 '예상 타겟 규모'는 광고를 만드는 동안 광고주가 선택하는 타게팅 및 광고 노출 위치 기준을 충족하는 사람 수를 예측한 값입니다. 이 값을 측정할 때 고려되지 않는 요소는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 16 Mar 2022 03:21:34 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2022 04:22:59 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->페이스북 광고에서 '예상 타겟 규모'는 광고를 만드는 동안 광고주가 선택하는 타게팅 및 광고 노출 위치 기준을 충족하는 사람 수를 예측한 값입니다. 이 값을 측정할 때 고려되지 않는 요소는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
