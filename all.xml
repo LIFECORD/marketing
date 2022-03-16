@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 06:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 07:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,18 +182,18 @@
             <content:encoded><![CDATA[올라운더마케팅]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케팅에 대해 모른 어떤  오너의 하소연 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38427</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38427</guid>
-            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[식자재중개플렛폼]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[광고 소재 기획은 해야겠고 머리는 안 굴러갈 때? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57274</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57274</guid>
             <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[수D]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케팅에 대해 모른 어떤  오너의 하소연 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38427</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38427</guid>
+            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[식자재중개플렛폼]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 마케터 해골물 (아이보스 ─ 인기글)]]></title>
@@ -273,6 +273,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[신입 시절 회고하기 (긴글 주의) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38504</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38504</guid>
+            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[규S]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이 세상 최고의 마케팅 전략을 알려드립니다 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57280</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57280</guid>
@@ -285,13 +292,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57321</guid>
             <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신입 시절 회고하기 (긴글 주의) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38504</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38504</guid>
-            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[규S]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1명씩 실종,,, (아이보스 ─ 인기글)]]></title>
@@ -315,6 +315,13 @@
             <content:encoded><![CDATA[리유]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[스마트스토어라는게 연구중인데 상당히 재미있네요. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38464</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38464</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[스마트스토어 어느 정도는 이해가 되었습니다. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38579</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38579</guid>
@@ -329,13 +336,6 @@
             <content:encoded><![CDATA[싸다싸]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신규 스마트스토어 어제 저녁부터 광고 시작했습니.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38494</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38494</guid>
-            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[아묻따 '반품'은 이제 그만 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57360</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57360</guid>
@@ -343,10 +343,10 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스마트스토어라는게 연구중인데 상당히 재미있네요. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38464</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38464</guid>
-            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <title><![CDATA[신규 스마트스토어 어제 저녁부터 광고 시작했습니.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38494</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38494</guid>
+            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
@@ -593,14 +593,14 @@
             <title><![CDATA["ESG 시대, 옥외광고의 지속가능한 발전방향"... 한국광고홍보학회, 봄철 정기학술대회 특별세션 발제자 공모 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8406</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8406</guid>
-            <pubDate>Wed, 16 Mar 2022 06:23:03 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2022 06:22:49 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제임스 다이슨 어워드 2022 공모 시작 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8405</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8405</guid>
-            <pubDate>Wed, 16 Mar 2022 06:23:03 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2022 06:22:49 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[페이스북 광고에서 '예상 타겟 규모'는 광고를 만드는 동안 광고주가 선택하는 타게팅 및 광고 노출 위치 기준을 충족하는 사람 수를 예측한 값입니다. 이 값을 측정할 때 고려되지 않는 요소는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 16 Mar 2022 06:23:15 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2022 07:18:48 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->페이스북 광고에서 '예상 타겟 규모'는 광고를 만드는 동안 광고주가 선택하는 타게팅 및 광고 노출 위치 기준을 충족하는 사람 수를 예측한 값입니다. 이 값을 측정할 때 고려되지 않는 요소는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
