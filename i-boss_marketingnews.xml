@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 22:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 23:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[3월 17일 마케팅 뉴스클리핑] 여행업계 봄날 오나... 격리 면제에 해외여행 문의 쇄도 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8408</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8408</guid>
+            <pubDate>Thu, 17 Mar 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 여행업계 봄날 오나... 격리 면제에 해외여행 문의 쇄도  최근 정부가 백신을 접종한 해외 입국자 자가격리 의무를 면제하기로 결정하면서 해외여행 수요가 꿈틀대고 있다. 노랑풍선은 지난 11일부터 14일까지 홈페이지 유입량 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_47592e54ebc71a6e46a80fc9d14e4f6b_38838_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퍼블리시스도 러시아에서 철수하다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8407</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8380</guid>
             <pubDate>Sun, 13 Mar 2022 08:47:00 GMT</pubDate>
             <content:encoded><![CDATA[현재 소셜 미디어 마케팅의 핵심 중 하나는 인스타그램이다.많은 인플루언서들이 인스타그램을 자신의 플랫폼으로 선택하고 있다. 또한지속적으로 증가하는 사용자와 네트워크에서 광고하는 수백만 개의 브랜드로 인해 인스 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 2022년 마케팅 라이브 컨퍼런스 개최]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8379</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8379</guid>
-            <pubDate>Sun, 13 Mar 2022 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[구글은 구글 마케팅 라이브를 5월 24일(미국 시간) 개최한다고 발표했다. 구글에 따르면, 아직 실제 구성은 결정되지 않았지만, 코로나 제한 사항으로 대면 콘텐츠와 라이브 스트리밍 콘텐츠가 혼합되어 있다. 구글의 연례 마케 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
