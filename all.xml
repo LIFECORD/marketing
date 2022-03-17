@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 01:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 02:43:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,18 +287,18 @@
             <content:encoded><![CDATA[리유]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[1명씩 실종,,, (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38472</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38472</guid>
-            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[히야아아아앗]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[아묻따 '반품'은 이제 그만 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57360</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57360</guid>
             <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1명씩 실종,,, (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38472</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38472</guid>
+            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[히야아아아앗]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[필독 해킹 블로그 업자 또 나타났습니다 조심들 하세.. (아이보스 ─ 인기글)]]></title>
@@ -329,13 +329,6 @@
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신규 스마트스토어 어제 저녁부터 광고 시작했습니.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38494</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38494</guid>
-            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57345</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57345</guid>
@@ -343,11 +336,34 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[신규 스마트스토어 어제 저녁부터 광고 시작했습니.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38494</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38494</guid>
+            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[제 나이 서른. 마케팅 일을 시작할 수 있을까요? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38461</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38461</guid>
             <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[SBSbiz]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡, 묻지마 무료환불 중단... 수익성 개선 일환 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8414</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8414</guid>
+            <pubDate>Thu, 17 Mar 2022 11:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[무료 환불반품 유료멤버십 로켓와우의 대표적인 혜택으로 자리잡아 쿠팡의 관대한 환불반품 정책 악용하는 블랙컨슈머 증가하면서 골머리 관련 정책있었지만 처음으로 환불반품 팝업 공지 게시   쿠팡이 유료회원 대상으로 진 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[덴츠, 러시아에서 사업 중단... 소유권을 현지 파트너에게 양도 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8413</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8413</guid>
+            <pubDate>Thu, 17 Mar 2022 10:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[덴츠도 러시아에서 사업을 중단한다고 발표했다. 덴츠는 우크라이나 침공 이후 러시아에 있는 합작 투자의 소유권을 장기적인 현지 파트너에게 이전하는 과정에 있다고 발표했다. 일본계 에이전시 그룹은 러시아에서 파트너와 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[대학내일20대연구소] MZ세대 거래 경험 은행 1위는 카카오뱅크, 뒤이어 토스 인터넷 은행 강세 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -574,47 +590,45 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[디즈니플러스, 2022년 말에 광고 지원 상품 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8384</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8384</guid>
-            <pubDate>Mon, 14 Mar 2022 08:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[디즈니플러스는 2022년 말 미국을 시작으로 2023년 해외 진출을 목표로 광고가 없는 옵션 외에 광고 지원 구독 서비스를도입, 소비자에게 더 많은 선택권과 통제권을 제공한다고 밝혔다. 디즈니 미디어 및 엔터테인먼트 유통회장 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[쿠팡, '묻지마 무료환불' 중단... 수익성 개선 일환 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8414</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8414</guid>
+            <pubDate>Thu, 17 Mar 2022 02:43:19 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국광고학회, ACE Talk 마지막 시리즈 : 다트미디어 박천성 대표 대담 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8383</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8383</guid>
-            <pubDate>Mon, 14 Mar 2022 08:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국광고학회(회장 안대천, 인하대학교 교수)는 마지막 ACE TalkACE를 3월 17일(목) 오후 2시에 진행한다. 이번에는 다트미디어의 박천성 대표가 함께 한다. 중앙대 조정식 교수의 사회로 진행되는 이번 대담에서는2007년 창입 이후  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[덴츠, 러시아에서 사업 중단... 소유권을 현지 파트너에게 양도 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8413</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8413</guid>
+            <pubDate>Thu, 17 Mar 2022 02:43:19 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대학내일20대연구소] MZ세대 거래 경험 은행 1위는 카카오뱅크, 뒤이어 토스… 인터넷 은행 강세 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8412</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8412</guid>
-            <pubDate>Thu, 17 Mar 2022 01:11:29 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2022 09:38:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[칸타코리아, 디지털 영상광고 성공 전략 논하는 웨비나 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8411</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8411</guid>
-            <pubDate>Thu, 17 Mar 2022 01:11:29 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2022 09:08:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소프트스피어, 메타 콘텐츠 오픈 플랫폼 '메타브' 베타 서비스 실시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8410</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8410</guid>
-            <pubDate>Thu, 17 Mar 2022 01:11:29 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2022 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미국 유료 TV 보급률은 2023년에 50% 이하로 떨어질 것이다. (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8409</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8409</guid>
-            <pubDate>Thu, 17 Mar 2022 01:11:29 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2022 08:42:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[디즈니플러스, 2022년 말에 광고 지원 상품 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8384</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8384</guid>
-            <pubDate>Mon, 14 Mar 2022 08:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국광고학회, 'ACE' Talk 마지막 시리즈 : 다트미디어 박천성 대표 대담 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8383</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8383</guid>
-            <pubDate>Mon, 14 Mar 2022 08:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지에서 김보스 씨가 구글 애널리틱스에서 설정해야 하는 기능은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 17 Mar 2022 01:11:41 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2022 02:43:31 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 김보스 씨가 구글 애널리틱스에서 설정해야 하는 기능은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/d3c79938b79f4b09d4bb6d541946f3c5_16469034025614.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

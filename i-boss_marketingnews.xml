@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 01:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 02:43:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡, 묻지마 무료환불 중단... 수익성 개선 일환]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8414</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8414</guid>
+            <pubDate>Thu, 17 Mar 2022 11:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[무료 환불반품 유료멤버십 로켓와우의 대표적인 혜택으로 자리잡아 쿠팡의 관대한 환불반품 정책 악용하는 블랙컨슈머 증가하면서 골머리 관련 정책있었지만 처음으로 환불반품 팝업 공지 게시   쿠팡이 유료회원 대상으로 진 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[덴츠, 러시아에서 사업 중단... 소유권을 현지 파트너에게 양도]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8413</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8413</guid>
+            <pubDate>Thu, 17 Mar 2022 10:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[덴츠도 러시아에서 사업을 중단한다고 발표했다. 덴츠는 우크라이나 침공 이후 러시아에 있는 합작 투자의 소유권을 장기적인 현지 파트너에게 이전하는 과정에 있다고 발표했다. 일본계 에이전시 그룹은 러시아에서 파트너와 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[대학내일20대연구소] MZ세대 거래 경험 은행 1위는 카카오뱅크, 뒤이어 토스 인터넷 은행 강세]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8412</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8385</guid>
             <pubDate>Mon, 14 Mar 2022 08:50:00 GMT</pubDate>
             <content:encoded><![CDATA[기술이 산업현장 사이의 장벽을 허물고, 분열됐던 것을 연결해 새로운 가치를 창출하고 있다. 특히 예술과 디자인에서 몰입형 기술의 눈부신 발전과 활용도가 높아지면서 우리 경험의 경계가 넓어지고 있다. 그렇다면 몰입형  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니플러스, 2022년 말에 광고 지원 상품 출시]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8384</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8384</guid>
-            <pubDate>Mon, 14 Mar 2022 08:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[디즈니플러스는 2022년 말 미국을 시작으로 2023년 해외 진출을 목표로 광고가 없는 옵션 외에 광고 지원 구독 서비스를도입, 소비자에게 더 많은 선택권과 통제권을 제공한다고 밝혔다. 디즈니 미디어 및 엔터테인먼트 유통회장 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[한국광고학회, ACE Talk 마지막 시리즈 : 다트미디어 박천성 대표 대담 개최]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8383</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8383</guid>
-            <pubDate>Mon, 14 Mar 2022 08:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국광고학회(회장 안대천, 인하대학교 교수)는 마지막 ACE TalkACE를 3월 17일(목) 오후 2시에 진행한다. 이번에는 다트미디어의 박천성 대표가 함께 한다. 중앙대 조정식 교수의 사회로 진행되는 이번 대담에서는2007년 창입 이후  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
