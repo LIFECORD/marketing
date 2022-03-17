@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 23:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 01:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보스님의 득템력을 자극하는 마케팅]]></title>
+            <link>https://qletter.i-boss.co.kr/view/913269-%EB%B3%B4%EC%8A%A4%EB%8B%98%EC%9D%98_%EB%93%9D%ED%85%9C%EB%A0%A5%EC%9D%84_%EC%9E%90%EA%B7%B9%ED%95%98%EB%8A%94_%EB%A7%88%EC%BC%80%ED%8C%85/</link>
+            <guid>https://qletter.i-boss.co.kr/view/913269-%EB%B3%B4%EC%8A%A4%EB%8B%98%EC%9D%98_%EB%93%9D%ED%85%9C%EB%A0%A5%EC%9D%84_%EC%9E%90%EA%B7%B9%ED%95%98%EB%8A%94_%EB%A7%88%EC%BC%80%ED%8C%85/</guid>
+            <pubDate>Thu, 17 Mar 2022 01:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/913269-보스님의_득템력을_자극하는_마케팅/">
+						<div class="thumb"><img src="/images/qletter_913269.png"></div>
+						<p><strong>보스님의 득템력을 자극하는 마케팅</strong>2022.03.17</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_913269.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[무지성 반품, 멈춰 ✋]]></title>
             <link>https://qletter.i-boss.co.kr/view/906680-%EB%AC%B4%EC%A7%80%EC%84%B1_%EB%B0%98%ED%92%88_%EB%A9%88%EC%B6%B0/</link>
@@ -127,17 +138,6 @@
 						<p><strong>요즘 마케팅 트렌드, 퀴즈로 풀어봐요</strong>2022.02.07</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_860163.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[10만 명 유입, 구매 전환은 20...]]></title>
-            <link>https://qletter.i-boss.co.kr/view/857500-10%EB%A7%8C_%EB%AA%85_%EC%9C%A0%EC%9E%85_%EA%B5%AC%EB%A7%A4_%EC%A0%84%ED%99%98%EC%9D%80_20/</link>
-            <guid>https://qletter.i-boss.co.kr/view/857500-10%EB%A7%8C_%EB%AA%85_%EC%9C%A0%EC%9E%85_%EA%B5%AC%EB%A7%A4_%EC%A0%84%ED%99%98%EC%9D%80_20/</guid>
-            <pubDate>Thu, 03 Feb 2022 04:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/857500-10만_명_유입_구매_전환은_20/">
-						<div class="thumb"><img src="/images/qletter_857500.png"></div>
-						<p><strong>10만 명 유입, 구매 전환은 20...</strong>2022.02.03</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_857500.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
