@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 11:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 13:26:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -154,13 +154,6 @@
             <content:encoded><![CDATA[인프피]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[일머리 없는 사람 특징(머리가 나빠서가 아니다) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38415</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38415</guid>
-            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[리유님]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[우리가 돈이 없지 열정이 없냐 (to. 가난한 회사의 마.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-5637-30</link>
             <guid>https://www.i-boss.co.kr/ab-5637-30</guid>
@@ -196,6 +189,13 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[난 오늘도 올리브영에 100만 원을 쓴다 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57393</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57393</guid>
+            <pubDate>Thu, 17 Mar 2022 10:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[jinhorus]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[마케팅밈] 연말정산하는 마케터 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38485</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38485</guid>
@@ -222,20 +222,6 @@
             <guid>https://www.i-boss.co.kr/ab-2973-445</guid>
             <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[난 오늘도 올리브영에 100만 원을 쓴다 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57393</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57393</guid>
-            <pubDate>Thu, 17 Mar 2022 10:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[jinhorus]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[`블로그체험단 효과 없는 이유가 이거였어?` 체험단 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57212</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57212</guid>
-            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[용서할게이츠]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스마트스토어 10일만에 주문건 100건 넘겼습니다. (아이보스 ─ 인기글)]]></title>
@@ -322,18 +308,18 @@
             <content:encoded><![CDATA[히야아아아앗]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스마트스토어라는게 연구중인데 상당히 재미있네요. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38464</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38464</guid>
-            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[초보 마케터 필독, 3분 만에 A/B 테스트 이해하고 체크.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57383</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57383</guid>
             <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[재비]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스마트스토어라는게 연구중인데 상당히 재미있네요. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38464</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38464</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +334,20 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38579</guid>
             <pubDate>Tue, 08 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신규 스마트스토어 어제 저녁부터 광고 시작했습니.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38494</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38494</guid>
+            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제 나이 서른. 마케팅 일을 시작할 수 있을까요? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38461</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38461</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[SBSbiz]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아이보스와 한국정보통신진흥협회 MOU, 디지털 인재 양성한다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 이미지에서 김보스 씨가 구글 애널리틱스에서 설정해야 하는 기능은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 17 Mar 2022 11:15:33 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2022 13:25:54 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 김보스 씨가 구글 애널리틱스에서 설정해야 하는 기능은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/d3c79938b79f4b09d4bb6d541946f3c5_16469034025614.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
