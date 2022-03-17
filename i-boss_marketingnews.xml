@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 02:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 05:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[점유율 1위 넷플릭스, 만족도는 4위...1위는?]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8415</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8415</guid>
+            <pubDate>Thu, 17 Mar 2022 11:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내 온라인동영상서비스(OTT) 점유율 60%를 차지하는 넷플릭스가 이용자 만족도에서는 토종 OTT 티빙이나 왓챠, 신예 디즈니플러스에도 밀린 것으로 나타났다.  17일 시장조사기관 컨슈머인사이트 조사에 따르면, 지난해 하반기  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡, 묻지마 무료환불 중단... 수익성 개선 일환]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8414</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8386</guid>
             <pubDate>Mon, 14 Mar 2022 09:22:00 GMT</pubDate>
             <content:encoded><![CDATA[글로벌AI테크 기업 몰로코(Moloco,대표 안익진)가 올해 기존 재직자 수를 뛰어넘는 대규모 상시 인재 채용을 진행한다. 몰로코는 매년 지속적으로100%이상의 성장률을 기록했으며,순 매출액은 연 기준1억 달러(약1,205억 원)을 돌파 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[이성호 디스트릭트 대표, 미국 SXSW 2022에서 실감 콘텐츠 기술 발표]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8385</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8385</guid>
-            <pubDate>Mon, 14 Mar 2022 08:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[기술이 산업현장 사이의 장벽을 허물고, 분열됐던 것을 연결해 새로운 가치를 창출하고 있다. 특히 예술과 디자인에서 몰입형 기술의 눈부신 발전과 활용도가 높아지면서 우리 경험의 경계가 넓어지고 있다. 그렇다면 몰입형  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 02:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 05:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,18 +238,18 @@
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단골이 있는 브랜드를 만들어야 하는 이유 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57296</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57296</guid>
-            <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케터가 마케팅 핵심 이해하는 지식 40부작 시리즈 [.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57315</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57315</guid>
             <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단골이 있는 브랜드를 만들어야 하는 이유 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57296</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57296</guid>
+            <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[애플처럼 구글도 '맞춤형 광고' 위한 앱 추적 막는다 (아이보스 ─ 인기글)]]></title>
@@ -343,11 +343,19 @@
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제 나이 서른. 마케팅 일을 시작할 수 있을까요? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38461</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38461</guid>
-            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[SBSbiz]]></content:encoded>
+            <title><![CDATA[마우스 쓰지마세요, 우뇌가 알려주는 퇴근 땡기기 엑.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57386</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57386</guid>
+            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[점유율 1위 넷플릭스, 만족도는 4위...1위는? (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8415</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8415</guid>
+            <pubDate>Thu, 17 Mar 2022 11:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내 온라인동영상서비스(OTT) 점유율 60%를 차지하는 넷플릭스가 이용자 만족도에서는 토종 OTT 티빙이나 왓챠, 신예 디즈니플러스에도 밀린 것으로 나타났다.  17일 시장조사기관 컨슈머인사이트 조사에 따르면, 지난해 하반기  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[쿠팡, 묻지마 무료환불 중단... 수익성 개선 일환 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,25 +590,24 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[이성호 디스트릭트 대표, 미국 SXSW 2022에서 실감 콘텐츠 기술 발표 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8385</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8385</guid>
-            <pubDate>Mon, 14 Mar 2022 08:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[기술이 산업현장 사이의 장벽을 허물고, 분열됐던 것을 연결해 새로운 가치를 창출하고 있다. 특히 예술과 디자인에서 몰입형 기술의 눈부신 발전과 활용도가 높아지면서 우리 경험의 경계가 넓어지고 있다. 그렇다면 몰입형  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[점유율 1위 넷플릭스, 만족도는 4위...1위는? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8415</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8415</guid>
+            <pubDate>Thu, 17 Mar 2022 05:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쿠팡, '묻지마 무료환불' 중단... 수익성 개선 일환 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8414</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8414</guid>
-            <pubDate>Thu, 17 Mar 2022 02:43:19 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2022 11:26:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[덴츠, 러시아에서 사업 중단... 소유권을 현지 파트너에게 양도 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8413</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8413</guid>
-            <pubDate>Thu, 17 Mar 2022 02:43:19 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2022 10:48:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이성호 디스트릭트 대표, 미국 'SXSW 2022'에서 실감 콘텐츠 기술 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8385</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8385</guid>
-            <pubDate>Mon, 14 Mar 2022 08:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지에서 김보스 씨가 구글 애널리틱스에서 설정해야 하는 기능은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 17 Mar 2022 02:43:31 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2022 05:17:49 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 김보스 씨가 구글 애널리틱스에서 설정해야 하는 기능은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/d3c79938b79f4b09d4bb6d541946f3c5_16469034025614.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
