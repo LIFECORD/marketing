@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 13:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 16:27:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[SBSbiz]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[옴니콤, 러시아에서 철수 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8418</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8418</guid>
+            <pubDate>Thu, 17 Mar 2022 16:26:51 GMT</pubDate>
+            <content:encoded><![CDATA[옴니콤이러시아에서 철수할 것이라고 발표했다. 이로서 세계 광고계를 이끄는 대형 광고회사 그룹이 전부 러시아에서 사업을 중단하거나 신규 투자를 동결했다. 옴니콤에 따르면, 러시아의 옴니콤 광고회사를 매각할 계획이라 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[아이보스와 한국정보통신진흥협회 MOU, 디지털 인재 양성한다 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8416</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8416</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_098fc8bc9a526d892e572363a9b62415_8496_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[BAT, 구글 4대 딥러닝 기술 제휴사 알티비하우스와 전략적 파트너십 체결 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8387</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8387</guid>
-            <pubDate>Mon, 14 Mar 2022 10:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[종합 브랜드 에이전시 BAT(대표 박준규, 법인명 아키타입컴퍼니)는 글로벌 애드테크 기업 `알티비하우스`와 보다 정확한 광고 마케팅을 위한 전략적 파트너십을 체결했다고 14일 밝혔다. 알티비하우스는 전 세계 80개국 이상 국가 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[옴니콤, 러시아에서 철수 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8418</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8418</guid>
+            <pubDate>Thu, 17 Mar 2022 16:27:07 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아이보스와 한국정보통신진흥협회 MOU, 디지털 인재 양성한다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -791,26 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8388</guid>
             <pubDate>Mon, 14 Mar 2022 10:54:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BAT, 구글 4대 딥러닝 기술 제휴사 '알티비하우스'와 전략적 파트너십 체결 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8387</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8387</guid>
-            <pubDate>Mon, 14 Mar 2022 10:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다음 이미지에서 김보스 씨가 구글 애널리틱스에서 설정해야 하는 기능은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 17 Mar 2022 13:25:54 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->다음 이미지에서 김보스 씨가 구글 애널리틱스에서 설정해야 하는 기능은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/d3c79938b79f4b09d4bb6d541946f3c5_16469034025614.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1381_1" value="1" class="AB-radio" id="PQ_BD5826_1381_1_0"><label for="PQ_BD5826_1381_1_0" id="label_PQ_BD5826_1381_1_0">(A) 고급 필터</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1381_1" value="2" class="AB-radio" id="PQ_BD5826_1381_1_1"><label for="PQ_BD5826_1381_1_1" id="label_PQ_BD5826_1381_1_1">(B) 교차 도메인 추적</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1381_1" value="3" class="AB-radio" id="PQ_BD5826_1381_1_2"><label for="PQ_BD5826_1381_1_2" id="label_PQ_BD5826_1381_1_2">(C) 이벤트 추적</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1381_1" value="4" class="AB-radio" id="PQ_BD5826_1381_1_3"><label for="PQ_BD5826_1381_1_3" id="label_PQ_BD5826_1381_1_3">(D) 맞춤 측정기준</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부-회사, “근로자 10만 명에 휴가비 지원"…소상공인 대표도 가능 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
