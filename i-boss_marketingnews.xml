@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 06:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 08:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이보스와 한국정보통신진흥협회 MOU, 디지털 인재 양성한다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8416</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8416</guid>
+            <pubDate>Thu, 17 Mar 2022 08:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[아이보스는 온라인 검색광고 및 SNS광고마케터 양성을 위해 한국정보통신진흥협회와 업무협약을 체결했다. 금번 협약은 디지털 정보 시대를 이끌어 갈 수 있는 우수인력 발굴양성을 목적으로 마련되었다.  아이보스는 퍼포먼스 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[점유율 1위 넷플릭스, 만족도는 4위...1위는?]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8415</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8387</guid>
             <pubDate>Mon, 14 Mar 2022 10:08:00 GMT</pubDate>
             <content:encoded><![CDATA[종합 브랜드 에이전시 BAT(대표 박준규, 법인명 아키타입컴퍼니)는 글로벌 애드테크 기업 `알티비하우스`와 보다 정확한 광고 마케팅을 위한 전략적 파트너십을 체결했다고 14일 밝혔다. 알티비하우스는 전 세계 80개국 이상 국가 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[몰로코, 2022년 대규모 인재 채용... 파격적인 직원 복지제도 제공 및 강화]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8386</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8386</guid>
-            <pubDate>Mon, 14 Mar 2022 09:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌AI테크 기업 몰로코(Moloco,대표 안익진)가 올해 기존 재직자 수를 뛰어넘는 대규모 상시 인재 채용을 진행한다. 몰로코는 매년 지속적으로100%이상의 성장률을 기록했으며,순 매출액은 연 기준1억 달러(약1,205억 원)을 돌파 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

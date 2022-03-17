@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-03-17T06:25:42.692Z</updated>
+    <updated>2022-03-17T08:21:46.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -153,6 +153,20 @@
         <content type="html"><![CDATA[리유]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[필독 해킹 블로그 업자 또 나타났습니다 조심들 하세..]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38502</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38502"/>
+        <updated>2022-02-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싸다싸]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마우스 쓰지마세요, 우뇌가 알려주는 퇴근 땡기기 엑..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57386</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57386"/>
+        <updated>2022-03-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[우뇌]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[아묻따 '반품'은 이제 그만]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57360</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57360"/>
@@ -165,13 +179,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38472"/>
         <updated>2022-02-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[히야아아아앗]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[필독 해킹 블로그 업자 또 나타났습니다 조심들 하세..]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38502</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38502"/>
-        <updated>2022-02-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싸다싸]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스마트스토어라는게 연구중인데 상당히 재미있네요.]]></title>
@@ -195,24 +202,17 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[초보 마케터 필독, 3분 만에 A/B 테스트 이해하고 체크..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57383</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57383"/>
+        <updated>2022-03-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[재비]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[신규 스마트스토어 어제 저녁부터 광고 시작했습니..]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38494</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38494"/>
         <updated>2022-02-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[마케팅플랜]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마우스 쓰지마세요, 우뇌가 알려주는 퇴근 땡기기 엑..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57386</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57386"/>
-        <updated>2022-03-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[우뇌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 나이 서른. 마케팅 일을 시작할 수 있을까요?]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38461</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38461"/>
-        <updated>2022-02-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[SBSbiz]]></content>
     </entry>
 </feed>
