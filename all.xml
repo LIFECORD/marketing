@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 08:50:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 09:47:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,6 +252,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[초보 마케터 필독, 3분 만에 A/B 테스트 이해하고 체크.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57383</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57383</guid>
+            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[재비]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[단골이 있는 브랜드를 만들어야 하는 이유 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57296</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57296</guid>
@@ -271,13 +278,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57321</guid>
             <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[초보 마케터 필독, 3분 만에 A/B 테스트 이해하고 체크.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57383</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57383</guid>
-            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[재비]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[무신사 vs 크림, 목숨 건 짝퉁 공방 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38494</guid>
             <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아이콘차이나, 중국 더우인(抖音)을 통한 콘텐츠커머스 대행... 국내 기업 중국 진출 도와 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8424</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8424</guid>
+            <pubDate>Fri, 18 Mar 2022 09:46:48 GMT</pubDate>
+            <content:encoded><![CDATA[중국향 콘텐츠커머스 기업 아이콘차이나가2022년 더우인(抖音)을 활용해 국내 기업들의 콘텐츠커머스를 지원할 예정이다.  아이콘차이나는 국내 기업들이 중국시장에 성공적으로 진출할 수 있도록 브랜딩부터 마케팅,세일즈 등 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[아이언소스, 앱 마케팅 소프트웨어 아이언소스 루나 정식 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[트래픽이 소매 미디어 네트워크의 가장 중요한 속성이다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8393</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8393</guid>
-            <pubDate>Tue, 15 Mar 2022 08:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[소매업체들이 빠른 속도로 디지털 광고 사업에 뛰어들고 있다. 이마케터는 최초로미국 소매 미디어 네트워크 벤치마크 보고서를 발표했다. 보고서는 11개 주요 소매 미디어 네트워크에 대한 디지털 광고 구매자의 인식과 13개  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[아이콘차이나, 중국 더우인(抖音)을 통한 콘텐츠커머스 대행... 국내 기업 중국 진출 도와 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8424</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8424</guid>
+            <pubDate>Fri, 18 Mar 2022 09:47:03 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아이언소스, 앱 마케팅 소프트웨어 ‘아이언소스 루나’ 정식 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트래픽이 소매 미디어 네트워크의 가장 중요한 속성이다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8393</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8393</guid>
-            <pubDate>Tue, 15 Mar 2022 08:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[구글 Ads에서 광고를 집행할 때, 마우스 움직임에 반응하는 그래픽 효과가 있는 광고는 허용되지 않는다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 18 Mar 2022 08:50:17 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2022 09:47:17 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->구글 Ads에서 광고를 집행할 때, 마우스 움직임에 반응하는 그래픽 효과가 있는 광고는 허용되지 않는다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
