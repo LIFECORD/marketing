@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 01:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 02:45:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,13 @@
             <content:encoded><![CDATA[싸다싸]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[초보 마케터 필독, 3분 만에 A/B 테스트 이해하고 체크.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57383</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57383</guid>
+            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[재비]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[아묻따 '반품'은 이제 그만 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57360</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57360</guid>
@@ -308,18 +315,18 @@
             <content:encoded><![CDATA[히야아아아앗]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[초보 마케터 필독, 3분 만에 A/B 테스트 이해하고 체크.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57383</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57383</guid>
-            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[재비]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[스마트스토어라는게 연구중인데 상당히 재미있네요. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38464</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38464</guid>
             <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[없어서 못 사요! 구매력을 끌어 올리는 마케팅? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57384</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57384</guid>
+            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐 (아이보스 ─ 인기글)]]></title>
@@ -341,13 +348,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38494</guid>
             <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[없어서 못 사요! 구매력을 끌어 올리는 마케팅? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57384</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57384</guid>
-            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아이언소스, 앱 마케팅 소프트웨어 아이언소스 루나 정식 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -593,28 +593,28 @@
             <title><![CDATA[아이언소스, 앱 마케팅 소프트웨어 ‘아이언소스 루나’ 정식 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8422</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8422</guid>
-            <pubDate>Fri, 18 Mar 2022 01:10:58 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2022 09:33:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아마존, MGM 인수 마무리 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8421</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8421</guid>
-            <pubDate>Fri, 18 Mar 2022 01:10:58 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2022 09:24:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국 소비자, 코로나19 이후 고객서비스 문제 해결에 평균 8시간 이상 소비 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8420</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8420</guid>
-            <pubDate>Fri, 18 Mar 2022 01:10:58 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2022 08:39:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[특별기고] 팬데믹 시대, 퍼스트파티 데이터의 가치를 최대로 활용해 고객과 소통하자 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8419</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8419</guid>
-            <pubDate>Fri, 18 Mar 2022 01:10:58 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2022 08:39:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[구글 Ads에서 광고를 집행할 때, 마우스 움직임에 반응하는 그래픽 효과가 있는 광고는 허용되지 않는다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 18 Mar 2022 01:11:11 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2022 02:44:53 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->구글 Ads에서 광고를 집행할 때, 마우스 움직임에 반응하는 그래픽 효과가 있는 광고는 허용되지 않는다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
