@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 02:45:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 04:32:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,18 +182,18 @@
             <content:encoded><![CDATA[식자재중개플렛폼]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마케팅밈] 마케터 해골물 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38572</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38572</guid>
-            <pubDate>Thu, 10 Mar 2022 07:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[난 오늘도 올리브영에 100만 원을 쓴다 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57393</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57393</guid>
             <pubDate>Thu, 17 Mar 2022 10:19:42 GMT</pubDate>
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[마케팅밈] 마케터 해골물 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38572</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38572</guid>
+            <pubDate>Thu, 10 Mar 2022 07:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 연말정산하는 마케터 (아이보스 ─ 인기글)]]></title>
@@ -287,6 +287,13 @@
             <content:encoded><![CDATA[리유]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[초보 마케터 필독, 3분 만에 A/B 테스트 이해하고 체크.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57383</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57383</guid>
+            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[재비]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[필독 해킹 블로그 업자 또 나타났습니다 조심들 하세.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38502</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38502</guid>
@@ -294,11 +301,11 @@
             <content:encoded><![CDATA[싸다싸]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[초보 마케터 필독, 3분 만에 A/B 테스트 이해하고 체크.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57383</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57383</guid>
-            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[재비]]></content:encoded>
+            <title><![CDATA[없어서 못 사요! 구매력을 끌어 올리는 마케팅? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57384</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57384</guid>
+            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아묻따 '반품'은 이제 그만 (아이보스 ─ 인기글)]]></title>
@@ -320,13 +327,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38464</guid>
             <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[없어서 못 사요! 구매력을 끌어 올리는 마케팅? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57384</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57384</guid>
-            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[구글 Ads에서 광고를 집행할 때, 마우스 움직임에 반응하는 그래픽 효과가 있는 광고는 허용되지 않는다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 18 Mar 2022 02:44:53 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2022 04:32:41 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->구글 Ads에서 광고를 집행할 때, 마우스 움직임에 반응하는 그래픽 효과가 있는 광고는 허용되지 않는다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
