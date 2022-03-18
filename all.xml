@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 13:33:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 15:27:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,18 +252,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[초보 마케터 필독, 3분 만에 A/B 테스트 이해하고 체크.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57383</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57383</guid>
-            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[재비]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[없어서 못 사요! 구매력을 끌어 올리는 마케팅? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57384</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57384</guid>
             <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[초보 마케터 필독, 3분 만에 A/B 테스트 이해하고 체크.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57383</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57383</guid>
+            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[재비]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[단골이 있는 브랜드를 만들어야 하는 이유 (아이보스 ─ 인기글)]]></title>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8394</guid>
             <pubDate>Tue, 15 Mar 2022 09:01:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[구글 Ads에서 광고를 집행할 때, 마우스 움직임에 반응하는 그래픽 효과가 있는 광고는 허용되지 않는다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 18 Mar 2022 13:33:24 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->구글 Ads에서 광고를 집행할 때, 마우스 움직임에 반응하는 그래픽 효과가 있는 광고는 허용되지 않는다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1382_1" value="1" class="AB-radio" id="PQ_BD5826_1382_1_0"><label for="PQ_BD5826_1382_1_0" id="label_PQ_BD5826_1382_1_0">(A) O</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1382_1" value="2" class="AB-radio" id="PQ_BD5826_1382_1_1"><label for="PQ_BD5826_1382_1_1" id="label_PQ_BD5826_1382_1_1">(B) X</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정부-회사, “근로자 10만 명에 휴가비 지원"…소상공인 대표도 가능 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
