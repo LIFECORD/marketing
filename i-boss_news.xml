@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-03-18T23:22:04.679Z</updated>
+    <updated>2022-03-19T01:04:53.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인포그래픽] 가장 투자를 많이 받는 스타트업 부문은?]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8427</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8427"/>
+        <updated>2022-03-19T01:04:31.869Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Book] 김병희 교수 등 광고지성 16인 "디지털 시대의 광고 크리에이티브 신론" 출간]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8426</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8426"/>
+        <updated>2022-03-19T01:04:31.869Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경기콘텐츠진흥원, ‘경기 제작 프로젝트 지원사업’ 4월 11일까지 참가자 모집]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8425</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8425"/>
+        <updated>2022-03-19T01:04:31.879Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이콘차이나, 중국 더우인(抖音)을 통한 콘텐츠커머스 대행... 국내 기업 중국 진출 도와]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8424</id>
@@ -193,26 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-8397"/>
         <updated>2022-03-15T05:17:44.015Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IPG, 러시아에서 사업 중단]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8396</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8396"/>
-        <updated>2022-03-15T02:42:03.600Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 재택치료의 영향, 전체 비대면 의료 서비스 앱 사용자수 한달 만에 161% 증가]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8395</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8395"/>
-        <updated>2022-03-15T02:42:03.602Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이노션, 미주지역 미디어 대행사 '캔버스 월드와이드' 지분 100% 인수]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8394</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8394"/>
-        <updated>2022-03-15T01:11:03.009Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
