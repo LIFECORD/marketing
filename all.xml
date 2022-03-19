@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 10:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 11:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,11 +343,11 @@
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[투린이들을 위한 지침서 `돈, 뜨겁게 사랑하고 차갑.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-448</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-448</guid>
-            <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+            <title><![CDATA[제 나이 서른. 마케팅 일을 시작할 수 있을까요? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38461</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38461</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[SBSbiz]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 가장 투자를 많이 받는 스타트업 부문은? (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[구글 Ads에서 광고를 집행할 때, 마우스 움직임에 반응하는 그래픽 효과가 있는 광고는 허용되지 않는다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 19 Mar 2022 10:20:07 GMT</pubDate>
+            <pubDate>Sat, 19 Mar 2022 11:19:16 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->구글 Ads에서 광고를 집행할 때, 마우스 움직임에 반응하는 그래픽 효과가 있는 광고는 허용되지 않는다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
