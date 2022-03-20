@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 04:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 06:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인포그래픽] 2021년 세계 행복 지수]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8431</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8431</guid>
+            <pubDate>Sun, 20 Mar 2022 06:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[행복이란 무엇일까? 행복은 한 사람의 경제적 안정, 사회적 지원에 대한 인식, 개인의 자유에 대한 느낌, 그리고 그 이상을 포함한 많은 요소들에 의해 좌우된다. 유엔 산하 자문기구인 지속가능발전해법네트워크(SDSN)는 `2022 세 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[4060 신중년이 선호하는 등산용품 브랜드는 K2]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8430</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8401</guid>
             <pubDate>Wed, 16 Mar 2022 08:36:00 GMT</pubDate>
             <content:encoded><![CDATA[NBC유니버설은 옴니콤 미디어 그룹(OMG)이 NBCU 오디언스 인사이트 허브(NBCU Audience Insights Hub)인 `클린룸`과통합하는 최초의 미디어 구매 대행사로 등록했다고 발표했다. NBCU 클린룸은클라이언트와 광고회사가 소비자에 대한 자신 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 컨텍스트 광고 시장, 2026년까지 3351억 달러에 도달]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8400</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8400</guid>
-            <pubDate>Wed, 16 Mar 2022 08:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[팬데믹은 지난 2년 동안 광고 수익에 영향을 미쳤지만, 글로벌 인더스트리 애널리스트스에 의해 발표된 `Contextual Advertising - Global Market Trajectory &amp; Analytics` 보고서에 따르면, 글로벌 컨텍스트광고 시장이 올해 거의 2,000억 달러를  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
