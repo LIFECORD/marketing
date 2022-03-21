@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 01:09:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 02:52:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[K-AD] 코카콜라, 가수 비비와 함께 #더할말제로 캠페인 진행]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8436</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8436</guid>
+            <pubDate>Mon, 21 Mar 2022 10:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[코카콜라가가수비비와함께새로워진코카콜라제로의말이필요없는짜릿함을전하는#더할말제로(Zero)캠페인을진행한다. 가수비비는독특한음악을통해다양한이야기를표현하며솔직한매력으로MZ세대의인기를얻고있는싱어송라이터 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[해외광고특선] 우크라이나가 아니라 우리나라에 전쟁이 일어났더라면...? If London Were Syria]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8435</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8407</guid>
             <pubDate>Wed, 16 Mar 2022 11:15:21 GMT</pubDate>
             <content:encoded><![CDATA[퍼블리시스 그룹SA는 러시아 내 사업과 투자를 즉시 중단하고현지 광고회사 소유권을 양도함으로써 러시아를 떠날 것이라고 밝혔다. 사치앤사치, 레오 버넷, 제니스 등을 소유하고 있는 퍼블리시스 그룹은 러시아 퍼블리시스의 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[ESG 시대, 옥외광고의 지속가능한 발전방향... 한국광고홍보학회, 봄철 정기학술대회 특별세션 발제자 공모]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8406</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8406</guid>
-            <pubDate>Wed, 16 Mar 2022 06:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[한국광고홍보학회(회장 차영란)는 ESG와 옥외광고의 지속가능한 발전방향: 디지털 전환기의 옥외광고 &amp; E(환경), S(사회), G(거버넌스)를 주제로 5월 13일 ~ 14일 양양 쏠비치에서 열리는 `2022년 봄철 정기학술대회` 특별세션 발제자 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
