@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 06:28:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 07:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,18 +231,18 @@
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[없어서 못 사요! 구매력을 끌어 올리는 마케팅? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57384</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57384</guid>
-            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[초보 마케터 필독, 3분 만에 A/B 테스트 이해하고 체크.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57383</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57383</guid>
             <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[재비]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[없어서 못 사요! 구매력을 끌어 올리는 마케팅? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57384</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57384</guid>
+            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케터가 마케팅 핵심 이해하는 지식 40부작 시리즈 [.. (아이보스 ─ 인기글)]]></title>
@@ -266,11 +266,11 @@
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단골이 있는 브랜드를 만들어야 하는 이유 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57296</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57296</guid>
-            <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
+            <title><![CDATA[투린이들을 위한 지침서 `돈, 뜨겁게 사랑하고 차갑.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-448</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-448</guid>
+            <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이 세상 최고의 마케팅 전략을 알려드립니다 (아이보스 ─ 인기글)]]></title>
@@ -278,6 +278,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57280</guid>
             <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[리유]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단골이 있는 브랜드를 만들어야 하는 이유 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57296</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57296</guid>
+            <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아묻따 '반품'은 이제 그만 (아이보스 ─ 인기글)]]></title>
@@ -294,13 +301,6 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[투린이들을 위한 지침서 `돈, 뜨겁게 사랑하고 차갑.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-448</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-448</guid>
-            <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[신입 시절 회고하기 (긴글 주의) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38504</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38504</guid>
@@ -315,6 +315,13 @@
             <content:encoded><![CDATA[싸다싸]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57345</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57345</guid>
+            <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[1명씩 실종,,, (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38472</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38472</guid>
@@ -327,13 +334,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38464</guid>
             <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57345</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57345</guid>
-            <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스마트스토어 어느 정도는 이해가 되었습니다. (아이보스 ─ 인기글)]]></title>
@@ -593,21 +593,21 @@
             <title><![CDATA[메타, ‘페이스북 유니버시티’ 2기 모집 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8439</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8439</guid>
-            <pubDate>Mon, 21 Mar 2022 06:28:36 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2022 06:28:23 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KT IS, ‘타운보드TV’ 사업 인수… 디지털광고시장 본격 진출 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8438</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8438</guid>
-            <pubDate>Mon, 21 Mar 2022 06:28:36 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2022 06:28:23 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버·쿠팡, 이번엔 '럭셔리 뷰티' 꽂혔다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8437</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8437</guid>
-            <pubDate>Mon, 21 Mar 2022 06:28:36 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2022 06:28:23 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 이미지에서 설명하고 있는 '득템력' 트렌드와 관련이 없는 마케팅 전략은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 21 Mar 2022 06:28:50 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2022 07:19:45 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 설명하고 있는 '득템력' 트렌드와 관련이 없는 마케팅 전략은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/b67edcc444be19795b9616d7e897b79a_16475097136288.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
