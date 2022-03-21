@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 20:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 01:09:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스타 말고 '트위터 숍'에서 사볼까]]></title>
+            <link>https://qletter.i-boss.co.kr/view/916848-%EC%9D%B8%EC%8A%A4%ED%83%80_%EB%A7%90%EA%B3%A0_%ED%8A%B8%EC%9C%84%ED%84%B0_%EC%88%8D%EC%97%90%EC%84%9C_%EC%82%AC%EB%B3%BC%EA%B9%8C/</link>
+            <guid>https://qletter.i-boss.co.kr/view/916848-%EC%9D%B8%EC%8A%A4%ED%83%80_%EB%A7%90%EA%B3%A0_%ED%8A%B8%EC%9C%84%ED%84%B0_%EC%88%8D%EC%97%90%EC%84%9C_%EC%82%AC%EB%B3%BC%EA%B9%8C/</guid>
+            <pubDate>Mon, 21 Mar 2022 01:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/916848-인스타_말고_트위터_숍에서_사볼까/">
+						<div class="thumb"><img src="/images/qletter_916848.png"></div>
+						<p><strong> 인스타 말고 '트위터 숍'에서 사볼까</strong>2022.03.21</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_916848.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[보스님의 득템력을 자극하는 마케팅]]></title>
             <link>https://qletter.i-boss.co.kr/view/913269-%EB%B3%B4%EC%8A%A4%EB%8B%98%EC%9D%98_%EB%93%9D%ED%85%9C%EB%A0%A5%EC%9D%84_%EC%9E%90%EA%B7%B9%ED%95%98%EB%8A%94_%EB%A7%88%EC%BC%80%ED%8C%85/</link>
@@ -127,17 +138,6 @@
 						<p><strong>기업이 16가지 유형별 고객을 사로잡는 방법 🌟</strong>2022.02.10</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_866274.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 마케팅 트렌드, 퀴즈로 풀어봐요]]></title>
-            <link>https://qletter.i-boss.co.kr/view/860163-%EC%9A%94%EC%A6%98_%EB%A7%88%EC%BC%80%ED%8C%85_%ED%8A%B8%EB%A0%8C%EB%93%9C_%ED%80%B4%EC%A6%88%EB%A1%9C_%ED%92%80%EC%96%B4%EB%B4%90%EC%9A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/860163-%EC%9A%94%EC%A6%98_%EB%A7%88%EC%BC%80%ED%8C%85_%ED%8A%B8%EB%A0%8C%EB%93%9C_%ED%80%B4%EC%A6%88%EB%A1%9C_%ED%92%80%EC%96%B4%EB%B4%90%EC%9A%94/</guid>
-            <pubDate>Mon, 07 Feb 2022 01:59:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/860163-요즘_마케팅_트렌드_퀴즈로_풀어봐요/">
-						<div class="thumb"><img src="/images/qletter_860163.png"></div>
-						<p><strong>요즘 마케팅 트렌드, 퀴즈로 풀어봐요</strong>2022.02.07</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_860163.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
