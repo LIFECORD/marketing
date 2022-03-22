@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 06:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 08:25:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[SSG닷컴, 메타버스 마케팅 시동... 공모전 수상작 전시회 연다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8448</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8448</guid>
+            <pubDate>Tue, 22 Mar 2022 08:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[SSG닷컴이 NFT에 이어 메타버스 기술을 접목한 마케팅에 시동을 건다. 메타버스 플랫폼을 활용한 전시회를 열어 고객 참여를 이끌고 차별화 된 쇼핑 경험을 제공한다는 방침이다. SSG닷컴은 21일부터 27일까지 일주일 간 메타버스  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[더 트레이드 데스크, 어도비 리얼타임 고객 데이터 플랫폼과 연동 개시 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8447</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8447</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[3월 18일 마케팅 뉴스클리핑] 점유율 50% 무신사 질주... 적수가 없다 패션업계 한탄 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8417</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8417</guid>
-            <pubDate>Fri, 18 Mar 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 점유율 50% 무신사 질주... `적수가 없다` 패션업계 한탄  2020년 매출 기준으로 지그재그, 에이블리, 브랜디, W컨셉을 모두 합쳐도 무신사 매출 3,319억 원에 못 미친다. 거래액도 지난해 2조 3,000억 원을 기록한 무신사가 압도적이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_92287d1151e9a82e170270f8d15dfbca_86208_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[SSG닷컴, 메타버스 마케팅 시동... 공모전 수상작 전시회 연다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8448</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8448</guid>
+            <pubDate>Tue, 22 Mar 2022 08:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[더 트레이드 데스크, 어도비 리얼타임 고객 데이터 플랫폼과 연동 개시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[3월 18일 마케팅 뉴스클리핑] 점유율 50% 무신사 질주... '적수가 없다' 패션업계 한탄 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8417</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8417</guid>
-            <pubDate>Fri, 18 Mar 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[구글이 크롬 브라우저에서 제 3자 쿠키를 제공하지 않겠다고 밝힌 대신 그 대안으로 '이것'을 공개했습니다. 쿠키를 대신할 신기술인 '이것'의 이름은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 22 Mar 2022 06:24:58 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2022 08:25:13 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->구글이 크롬 브라우저에서 제 3자 쿠키를 제공하지 않겠다고 밝힌 대신 그 대안으로 '이것'을 공개했습니다. 쿠키를 대신할 신기술인 '이것'의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
