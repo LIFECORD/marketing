@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-03-22T01:15:21.751Z</updated>
+    <updated>2022-03-22T02:57:15.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더 트레이드 데스크, 어도비 리얼타임 고객 데이터 플랫폼과 연동 개시]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8447</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8447"/>
+        <updated>2022-03-22T02:56:53.500Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘원마일웨어부터 스트리트 캐주얼 까지’ 빅사이즈 의류 시장 성장]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8446</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8446"/>
+        <updated>2022-03-22T02:56:53.501Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[광고주협회, ‘제30회 국민이 선택한 좋은 광고상’ 수상작 발표... '신한은행'과 '11번가' 각각 대상 수상]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8445</id>
@@ -200,19 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-8417"/>
         <updated>2022-03-17T23:19:58.364Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옴니콤, 러시아에서 철수]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8418</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8418"/>
-        <updated>2022-03-17T16:27:07.519Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이보스와 한국정보통신진흥협회 MOU, 디지털 인재 양성한다]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8416</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8416"/>
-        <updated>2022-03-17T08:21:21.596Z</updated>
-        <content type="html"><![CDATA[유리나]]></content>
     </entry>
 </feed>

@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 01:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 02:57:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 트레이드 데스크, 어도비 리얼타임 고객 데이터 플랫폼과 연동 개시]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8447</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8447</guid>
+            <pubDate>Tue, 22 Mar 2022 11:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[애드테크 글로벌 리더 및 프로그래매틱 광고 전문 기업으로서 전 세계 DSP 시장을 선도하고 있는 더 트레이드 데스크 (The Trade Desk, NASDAQ: TDD)는어도비 리얼타임 고객 데이터 플랫폼 (Adobe Real-Time Customer Data Platform)과 새롭게 연동되 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[원마일웨어부터 스트리트 캐주얼 까지 빅사이즈 의류 시장 성장]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8446</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8446</guid>
+            <pubDate>Tue, 22 Mar 2022 10:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[최근 패션업계는 획일화된 미의 기준에서 벗어나 내 몸을 있는 그대로 사랑하자는 취지의 바디 포지티브(Body Positive) 트렌드가 부상하고 있다.사회가 정한 고정관념에서 벗어나 각자의 개성과 아름다움을 받아들이고 인정한다 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[광고주협회, 제30회 국민이 선택한 좋은 광고상 수상작 발표... 신한은행과 11번가 각각 대상 수상]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8445</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 18 Mar 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 점유율 50% 무신사 질주... `적수가 없다` 패션업계 한탄  2020년 매출 기준으로 지그재그, 에이블리, 브랜디, W컨셉을 모두 합쳐도 무신사 매출 3,319억 원에 못 미친다. 거래액도 지난해 2조 3,000억 원을 기록한 무신사가 압도적이 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_92287d1151e9a82e170270f8d15dfbca_86208_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옴니콤, 러시아에서 철수]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8418</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8418</guid>
-            <pubDate>Thu, 17 Mar 2022 16:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[옴니콤이러시아에서 철수할 것이라고 발표했다. 이로서 세계 광고계를 이끄는 대형 광고회사 그룹이 전부 러시아에서 사업을 중단하거나 신규 투자를 동결했다. 옴니콤에 따르면, 러시아의 옴니콤 광고회사를 매각할 계획이라 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[아이보스와 한국정보통신진흥협회 MOU, 디지털 인재 양성한다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8416</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8416</guid>
-            <pubDate>Thu, 17 Mar 2022 08:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[아이보스는 온라인 검색광고 및 SNS광고마케터 양성을 위해 한국정보통신진흥협회와 업무협약을 체결했다. 금번 협약은 디지털 정보 시대를 이끌어 갈 수 있는 우수인력 발굴양성을 목적으로 마련되었다.  아이보스는 퍼포먼스 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 01:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 02:57:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,18 +168,18 @@
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[고객 관점 컨텐츠 만들기 (올라운더식 컨텐츠제작법) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57331</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57331</guid>
-            <pubDate>Mon, 07 Mar 2022 12:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[올라운더마케팅]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[광고 소재 기획은 해야겠고 머리는 안 굴러갈 때? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57274</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57274</guid>
             <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[수D]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고객 관점 컨텐츠 만들기 (올라운더식 컨텐츠제작법) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57331</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57331</guid>
+            <pubDate>Mon, 07 Mar 2022 12:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[올라운더마케팅]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 마케터 해골물 (아이보스 ─ 인기글)]]></title>
@@ -217,18 +217,18 @@
             <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[잘 키운 SNS로 수익과 브랜딩을 한 번에! `SNS로 돈 벌.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-445</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-445</guid>
-            <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[없어서 못 사요! 구매력을 끌어 올리는 마케팅? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57384</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57384</guid>
             <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잘 키운 SNS로 수익과 브랜딩을 한 번에! `SNS로 돈 벌.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-445</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-445</guid>
+            <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[초보 마케터 필독, 3분 만에 A/B 테스트 이해하고 체크.. (아이보스 ─ 인기글)]]></title>
@@ -252,18 +252,18 @@
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이 세상 최고의 마케팅 전략을 알려드립니다 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57280</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57280</guid>
-            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[리유]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[투린이들을 위한 지침서 `돈, 뜨겁게 사랑하고 차갑.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-448</link>
             <guid>https://www.i-boss.co.kr/ab-2973-448</guid>
             <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이 세상 최고의 마케팅 전략을 알려드립니다 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57280</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57280</guid>
+            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리유]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[애플처럼 구글도 '맞춤형 광고' 위한 앱 추적 막는다 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,22 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38494</guid>
             <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[더 트레이드 데스크, 어도비 리얼타임 고객 데이터 플랫폼과 연동 개시 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8447</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8447</guid>
+            <pubDate>Tue, 22 Mar 2022 11:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[애드테크 글로벌 리더 및 프로그래매틱 광고 전문 기업으로서 전 세계 DSP 시장을 선도하고 있는 더 트레이드 데스크 (The Trade Desk, NASDAQ: TDD)는어도비 리얼타임 고객 데이터 플랫폼 (Adobe Real-Time Customer Data Platform)과 새롭게 연동되 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[원마일웨어부터 스트리트 캐주얼 까지 빅사이즈 의류 시장 성장 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8446</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8446</guid>
+            <pubDate>Tue, 22 Mar 2022 10:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[최근 패션업계는 획일화된 미의 기준에서 벗어나 내 몸을 있는 그대로 사랑하자는 취지의 바디 포지티브(Body Positive) 트렌드가 부상하고 있다.사회가 정한 고정관념에서 벗어나 각자의 개성과 아름다움을 받아들이고 인정한다 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[광고주협회, 제30회 국민이 선택한 좋은 광고상 수상작 발표... 신한은행과 11번가 각각 대상 수상 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -574,61 +590,59 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_92287d1151e9a82e170270f8d15dfbca_86208_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[옴니콤, 러시아에서 철수 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8418</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8418</guid>
-            <pubDate>Thu, 17 Mar 2022 16:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[옴니콤이러시아에서 철수할 것이라고 발표했다. 이로서 세계 광고계를 이끄는 대형 광고회사 그룹이 전부 러시아에서 사업을 중단하거나 신규 투자를 동결했다. 옴니콤에 따르면, 러시아의 옴니콤 광고회사를 매각할 계획이라 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[더 트레이드 데스크, 어도비 리얼타임 고객 데이터 플랫폼과 연동 개시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8447</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8447</guid>
+            <pubDate>Tue, 22 Mar 2022 02:56:53 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이보스와 한국정보통신진흥협회 MOU, 디지털 인재 양성한다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8416</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8416</guid>
-            <pubDate>Thu, 17 Mar 2022 08:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[아이보스는 온라인 검색광고 및 SNS광고마케터 양성을 위해 한국정보통신진흥협회와 업무협약을 체결했다. 금번 협약은 디지털 정보 시대를 이끌어 갈 수 있는 우수인력 발굴양성을 목적으로 마련되었다.  아이보스는 퍼포먼스 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[‘원마일웨어부터 스트리트 캐주얼 까지’ 빅사이즈 의류 시장 성장 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8446</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8446</guid>
+            <pubDate>Tue, 22 Mar 2022 02:56:53 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[광고주협회, ‘제30회 국민이 선택한 좋은 광고상’ 수상작 발표... '신한은행'과 '11번가' 각각 대상 수상 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8445</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8445</guid>
-            <pubDate>Tue, 22 Mar 2022 01:14:58 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2022 09:42:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[데이터 마케팅 인사이트] ‘KB국민은행 스타뱅킹’, 20대 남녀 사용자 수 급상승 순위 1위 등극 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8444</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8444</guid>
-            <pubDate>Tue, 22 Mar 2022 01:14:58 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2022 09:15:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이노션, VFX 영상 제작 스튜디오 '스튜디오레논’ 경영권 인수... 콘텐츠 리딩 기업으로 ‘진화’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8443</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8443</guid>
-            <pubDate>Tue, 22 Mar 2022 01:14:58 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2022 09:14:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] "Be Bold! 광고회사답지 않은 광고회사를 만들겠습니다" 정건영 애드쿠아 대표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8442</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8442</guid>
-            <pubDate>Tue, 22 Mar 2022 01:14:58 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2022 08:42:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[한국갤럽] 2022년 3월 한국인이 좋아하는 TV프로그램 1위 : 신사와 아가씨, 5개월째 1위 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8441</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8441</guid>
-            <pubDate>Tue, 22 Mar 2022 01:14:58 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2022 08:41:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[3월 22일 마케팅 뉴스클리핑] 네이버, 제2사옥에 라이브 커머스 스튜디오 만든다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8440</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8440</guid>
-            <pubDate>Tue, 22 Mar 2022 01:14:58 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[옴니콤, 러시아에서 철수 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8418</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8418</guid>
-            <pubDate>Thu, 17 Mar 2022 16:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아이보스와 한국정보통신진흥협회 MOU, 디지털 인재 양성한다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8416</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8416</guid>
-            <pubDate>Thu, 17 Mar 2022 08:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[유리나]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[구글이 크롬 브라우저에서 제 3자 쿠키를 제공하지 않겠다고 밝힌 대신 그 대안으로 '이것'을 공개했습니다. 쿠키를 대신할 신기술인 '이것'의 이름은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 22 Mar 2022 01:15:11 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2022 02:57:05 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->구글이 크롬 브라우저에서 제 3자 쿠키를 제공하지 않겠다고 밝힌 대신 그 대안으로 '이것'을 공개했습니다. 쿠키를 대신할 신기술인 '이것'의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
