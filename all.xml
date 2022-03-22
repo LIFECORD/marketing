@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 05:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 06:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -161,18 +161,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[난 오늘도 올리브영에 100만 원을 쓴다 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57393</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57393</guid>
-            <pubDate>Thu, 17 Mar 2022 10:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[jinhorus]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[광고 소재 기획은 해야겠고 머리는 안 굴러갈 때? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57274</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57274</guid>
             <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[수D]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[난 오늘도 올리브영에 100만 원을 쓴다 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57393</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57393</guid>
+            <pubDate>Thu, 17 Mar 2022 10:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[jinhorus]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[고객 관점 컨텐츠 만들기 (올라운더식 컨텐츠제작법) (아이보스 ─ 인기글)]]></title>
@@ -224,18 +224,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[잘 키운 SNS로 수익과 브랜딩을 한 번에! `SNS로 돈 벌.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-445</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-445</guid>
-            <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[초보 마케터 필독, 3분 만에 A/B 테스트 이해하고 체크.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57383</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57383</guid>
             <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[재비]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잘 키운 SNS로 수익과 브랜딩을 한 번에! `SNS로 돈 벌.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-445</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-445</guid>
+            <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스마트스토어 10일만에 주문건 100건 넘겼습니다. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[구글이 크롬 브라우저에서 제 3자 쿠키를 제공하지 않겠다고 밝힌 대신 그 대안으로 '이것'을 공개했습니다. 쿠키를 대신할 신기술인 '이것'의 이름은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 22 Mar 2022 05:17:54 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2022 06:24:58 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->구글이 크롬 브라우저에서 제 3자 쿠키를 제공하지 않겠다고 밝힌 대신 그 대안으로 '이것'을 공개했습니다. 쿠키를 대신할 신기술인 '이것'의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
