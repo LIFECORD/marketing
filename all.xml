@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 20:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 23:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[3월 23일 마케팅 뉴스클리핑] 배민, 배달앱 최초로 CPC 광고 상품 출시 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8449</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8449</guid>
+            <pubDate>Wed, 23 Mar 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 배민, 배달앱 최초로 `CPC` 광고 상품 출시  배달의민족이 배달 앱 플랫폼 최초로 CPC 방식의 광고 상품을 선보인다. 배달의민족은 신규 서비스 `우리가게클릭 광고` 상품 출시에 따라 배달의민족 상단 노출 광고 상품인 `오픈리 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_13685a78d002e4e39befa2c62905c70f_76466_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SSG닷컴, 메타버스 마케팅 시동... 공모전 수상작 전시회 연다 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8448</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8448</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[특별기고] 팬데믹 시대, 퍼스트파티 데이터의 가치를 최대로 활용해 고객과 소통하자 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8419</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8419</guid>
-            <pubDate>Fri, 18 Mar 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[가상의 소비자 홍길동씨는 이커머스와 온라인 음식 배달 서비스를 즐겨 이용하며, 매달 두 번 이상 온라인 구매를 한다. 그의 월평균 이커머스 주문 금액은 팬데믹이 시작된 이후 60만원가량 증가했으며, 인스타그램 등의 소셜  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[3월 23일 마케팅 뉴스클리핑] 배민, 배달앱 최초로 'CPC' 광고 상품 출시 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8449</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8449</guid>
+            <pubDate>Tue, 22 Mar 2022 23:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SSG닷컴, 메타버스 마케팅 시동... 공모전 수상작 전시회 연다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[특별기고] 팬데믹 시대, 퍼스트파티 데이터의 가치를 최대로 활용해 고객과 소통하자 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8419</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8419</guid>
-            <pubDate>Fri, 18 Mar 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[다음 중 Meta for Business 광고 시스템에서 맞춤타겟을 만들고자 할 때, 타겟 생성 시 사용할 수 있는 소스 옵션이 아닌 것은 무엇일까요?(hint: 새로 오픈한 'SNS광고마케터 1급' 샘플 문제 풀고 정답 알아내기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Tue, 22 Mar 2022 23:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 중 Meta for Business 광고 시스템에서 맞춤타겟을 만들고자 할 때, 타겟 생성 시 사용할 수 있는 소스 옵션이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-3208-767" target="_blank">새로 오픈한 'SNS광고마케터 1급' 샘플 문제 풀고 정답 알아내기!</a>)</span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1385_1" value="1" class="AB-radio" id="PQ_BD5826_1385_1_0"><label for="PQ_BD5826_1385_1_0" id="label_PQ_BD5826_1385_1_0">(A) 고객파일</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1385_1" value="2" class="AB-radio" id="PQ_BD5826_1385_1_1"><label for="PQ_BD5826_1385_1_1" id="label_PQ_BD5826_1385_1_1">(B) 오프라인 활동</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1385_1" value="3" class="AB-radio" id="PQ_BD5826_1385_1_2"><label for="PQ_BD5826_1385_1_2" id="label_PQ_BD5826_1385_1_2">(C) Meta 픽셀/SDK</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1385_1" value="4" class="AB-radio" id="PQ_BD5826_1385_1_3"><label for="PQ_BD5826_1385_1_3" id="label_PQ_BD5826_1385_1_3">(D) Meta for Business 관심사</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시, 소상공인 지킴자금 '현금 100만 원' 신청 기간 재연장 실시 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

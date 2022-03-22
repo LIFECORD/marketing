@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 20:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 23:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[3월 23일 마케팅 뉴스클리핑] 배민, 배달앱 최초로 CPC 광고 상품 출시 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8449</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8449</guid>
+            <pubDate>Wed, 23 Mar 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 배민, 배달앱 최초로 `CPC` 광고 상품 출시  배달의민족이 배달 앱 플랫폼 최초로 CPC 방식의 광고 상품을 선보인다. 배달의민족은 신규 서비스 `우리가게클릭 광고` 상품 출시에 따라 배달의민족 상단 노출 광고 상품인 `오픈리 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_13685a78d002e4e39befa2c62905c70f_76466_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SSG닷컴, 메타버스 마케팅 시동... 공모전 수상작 전시회 연다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8448</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8420</guid>
             <pubDate>Fri, 18 Mar 2022 08:39:00 GMT</pubDate>
             <content:encoded><![CDATA[더 나은 업무 환경을 제공하는 디지털 워크플로우 기업 서비스나우(ServiceNow)가 한국일본호주싱가포르 소비자를 대상으로 고객서비스(CS) 경험을 조사한 결과에 따르면, 한국인은 컴플레인 해결에 평균 8시간 이상을 사용하는 것 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[특별기고] 팬데믹 시대, 퍼스트파티 데이터의 가치를 최대로 활용해 고객과 소통하자]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8419</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8419</guid>
-            <pubDate>Fri, 18 Mar 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[가상의 소비자 홍길동씨는 이커머스와 온라인 음식 배달 서비스를 즐겨 이용하며, 매달 두 번 이상 온라인 구매를 한다. 그의 월평균 이커머스 주문 금액은 팬데믹이 시작된 이후 60만원가량 증가했으며, 인스타그램 등의 소셜  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
