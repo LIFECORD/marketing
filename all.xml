@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 23:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 01:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -266,13 +266,6 @@
             <content:encoded><![CDATA[리유]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[애플처럼 구글도 '맞춤형 광고' 위한 앱 추적 막는다 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57230</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57230</guid>
-            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022ver. 무료폰트 추천! (디자이너 pick) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57321</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57321</guid>
@@ -287,13 +280,6 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아묻따 '반품'은 이제 그만 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57360</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57360</guid>
-            <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[무신사 vs 크림, 목숨 건 짝퉁 공방 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57278</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57278</guid>
@@ -301,11 +287,11 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신입 시절 회고하기 (긴글 주의) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38504</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38504</guid>
-            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[규S]]></content:encoded>
+            <title><![CDATA[아묻따 '반품'은 이제 그만 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57360</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57360</guid>
+            <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[필독 해킹 블로그 업자 또 나타났습니다 조심들 하세.. (아이보스 ─ 인기글)]]></title>
@@ -313,6 +299,13 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38502</guid>
             <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[싸다싸]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신입 시절 회고하기 (긴글 주의) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38504</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38504</guid>
+            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[규S]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +341,37 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38579</guid>
             <pubDate>Tue, 08 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신규 스마트스토어 어제 저녁부터 광고 시작했습니.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38494</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38494</guid>
+            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[칸타코리아, 이요셉 신임 부대표 선임 디지털 전환 속 고객의 비즈니스 성장 도울 것 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8452</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8452</guid>
+            <pubDate>Wed, 23 Mar 2022 09:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[데이터 인사이트 컨설팅 기업 칸타코리아(대표 양정열)가 이요셉 전 하바스코리아 대표이사를 최고성장책임자(Chief Growth Officer, CGO)겸 부대표로 선임한다고 발표했다. 칸타코리아는 지난11월 최고고객책임자(Chief Client Officer, CCO) ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[구글의 10년된 분석 플랫폼이 사라진다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8451</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8451</guid>
+            <pubDate>Wed, 23 Mar 2022 08:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 2023년에 유니버설 애널리틱스(UA)를 단계적으로 폐지하고 구글 애널리틱스4를 채택할 것이라고 발표했다. 구글에 따르면, 2023년 7월 1일 유니버설 애널리틱스속성은 신규 조회수처리를 중지하고, 새로운 유니버설 애널리 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[SNS광고마케터 자격증 들어보셨어요? (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8450</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8450</guid>
+            <pubDate>Wed, 23 Mar 2022 08:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국정보통신진흥협회(KAIT)가 SNS광고마케터 자격증 시험을 처음으로 4월 23일 실시한다. SNS 이용 확산으로 전문적인 검증 체계 구축을 원하는 요구가 높아졌짐에 따라, 협회는 지난해 자체 설문 조사를 통해 SNS 광고 마케팅 분야 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[3월 23일 마케팅 뉴스클리핑] 배민, 배달앱 최초로 CPC 광고 상품 출시 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -566,34 +590,31 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[아이언소스, 앱 마케팅 소프트웨어 아이언소스 루나 정식 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8422</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8422</guid>
-            <pubDate>Fri, 18 Mar 2022 09:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource, NYSE: IS)는 앱 및 게임 마케터들이 앱 마케팅 사이클을 한 곳에서 제어하고 관리할 수 있도록 지원하는 앱 마케팅 소프트웨어아이언소스 루나(ironSource Luna)를 정식 출 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[칸타코리아, 이요셉 신임 부대표 선임 “디지털 전환 속 고객의 비즈니스 성장 도울 것” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8452</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8452</guid>
+            <pubDate>Wed, 23 Mar 2022 01:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아마존, MGM 인수 마무리 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8421</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8421</guid>
-            <pubDate>Fri, 18 Mar 2022 09:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[제임스 본드가 아마존 직원이 됐다. 아마존이 할리우드 역사상 가장 상징적인 영화 스튜디오 중 하나인 MGM을 인수하기 위한 85억 달러의 거래가 마무리됐다고 아마존이 발표했다. 지난 5월 처음 발표되며 시작한 인수작업이 마 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[구글의 10년된 분석 플랫폼이 사라진다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8451</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8451</guid>
+            <pubDate>Wed, 23 Mar 2022 01:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국 소비자, 코로나19 이후 고객서비스 문제 해결에 평균 8시간 이상 소비 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8420</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8420</guid>
-            <pubDate>Fri, 18 Mar 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[더 나은 업무 환경을 제공하는 디지털 워크플로우 기업 서비스나우(ServiceNow)가 한국일본호주싱가포르 소비자를 대상으로 고객서비스(CS) 경험을 조사한 결과에 따르면, 한국인은 컴플레인 해결에 평균 8시간 이상을 사용하는 것 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA['SNS광고마케터 자격증' 들어보셨어요? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8450</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8450</guid>
+            <pubDate>Wed, 23 Mar 2022 01:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[3월 23일 마케팅 뉴스클리핑] 배민, 배달앱 최초로 'CPC' 광고 상품 출시 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8449</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8449</guid>
-            <pubDate>Tue, 22 Mar 2022 23:22:19 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -779,31 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이언소스, 앱 마케팅 소프트웨어 ‘아이언소스 루나’ 정식 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8422</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8422</guid>
-            <pubDate>Fri, 18 Mar 2022 09:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아마존, MGM 인수 마무리 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8421</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8421</guid>
-            <pubDate>Fri, 18 Mar 2022 09:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국 소비자, 코로나19 이후 고객서비스 문제 해결에 평균 8시간 이상 소비 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8420</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8420</guid>
-            <pubDate>Fri, 18 Mar 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 Meta for Business 광고 시스템에서 맞춤타겟을 만들고자 할 때, 타겟 생성 시 사용할 수 있는 소스 옵션이 아닌 것은 무엇일까요?(hint: 새로 오픈한 'SNS광고마케터 1급' 샘플 문제 풀고 정답 알아내기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 22 Mar 2022 23:22:31 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2022 01:25:15 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 Meta for Business 광고 시스템에서 맞춤타겟을 만들고자 할 때, 타겟 생성 시 사용할 수 있는 소스 옵션이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-3208-767" target="_blank">새로 오픈한 'SNS광고마케터 1급' 샘플 문제 풀고 정답 알아내기!</a>)</span></td>
 			</tr>
