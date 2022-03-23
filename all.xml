@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 01:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 05:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -245,18 +245,18 @@
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터가 마케팅 핵심 이해하는 지식 40부작 시리즈 [.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57315</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57315</guid>
-            <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[근육돌이]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[투린이들을 위한 지침서 `돈, 뜨겁게 사랑하고 차갑.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-448</link>
             <guid>https://www.i-boss.co.kr/ab-2973-448</guid>
             <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케터가 마케팅 핵심 이해하는 지식 40부작 시리즈 [.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57315</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57315</guid>
+            <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[근육돌이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이 세상 최고의 마케팅 전략을 알려드립니다 (아이보스 ─ 인기글)]]></title>
@@ -315,6 +315,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[마케팅 관련 자격증은 뭐가 있나요? 2022 ver (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57397</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57397</guid>
+            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마미손]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[1명씩 실종,,, (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38472</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38472</guid>
@@ -329,13 +336,6 @@
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케팅 관련 자격증은 뭐가 있나요? 2022 ver (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57397</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57397</guid>
-            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마미손]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[스마트스토어 어느 정도는 이해가 되었습니다. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38579</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38579</guid>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38494</guid>
             <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한국정보통신진흥협회, SNS광고마케터 자격시험 4월 첫 시행 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8453</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8453</guid>
+            <pubDate>Wed, 23 Mar 2022 11:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국정보통신진흥협회(이하 협회)는 SNS 광고 분야의 전문 인재양성을 위하여 SNS광고마케터 신규자격시험을 4월 23일에 첫 시행한다고 밝혔다.      DMC 미디어의 `21년 소셜 미디어 시장 및 현황분석`에 의하면 우리나라 국민의 SNS  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_7f64e1a2e8cdd2dbf922c822742e8bf4_16480107258775.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[칸타코리아, 이요셉 신임 부대표 선임 디지털 전환 속 고객의 비즈니스 성장 도울 것 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,32 +590,31 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[아이콘차이나, 중국 더우인(抖音)을 통한 콘텐츠커머스 대행... 국내 기업 중국 진출 도와 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8424</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8424</guid>
-            <pubDate>Fri, 18 Mar 2022 09:46:48 GMT</pubDate>
-            <content:encoded><![CDATA[중국향 콘텐츠커머스 기업 아이콘차이나가2022년 더우인(抖音)을 활용해 국내 기업들의 콘텐츠커머스를 지원할 예정이다.  아이콘차이나는 국내 기업들이 중국시장에 성공적으로 진출할 수 있도록 브랜딩부터 마케팅,세일즈 등 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[한국정보통신진흥협회, SNS광고마케터 자격시험 4월 첫 시행 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8453</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8453</guid>
+            <pubDate>Wed, 23 Mar 2022 05:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[칸타코리아, 이요셉 신임 부대표 선임 “디지털 전환 속 고객의 비즈니스 성장 도울 것” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8452</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8452</guid>
-            <pubDate>Wed, 23 Mar 2022 01:25:03 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2022 09:16:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구글의 10년된 분석 플랫폼이 사라진다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8451</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8451</guid>
-            <pubDate>Wed, 23 Mar 2022 01:25:03 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2022 08:29:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['SNS광고마케터 자격증' 들어보셨어요? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8450</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8450</guid>
-            <pubDate>Wed, 23 Mar 2022 01:25:03 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2022 08:29:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이콘차이나, 중국 더우인(抖音)을 통한 콘텐츠커머스 대행... 국내 기업 중국 진출 도와 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8424</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8424</guid>
-            <pubDate>Fri, 18 Mar 2022 09:46:48 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 Meta for Business 광고 시스템에서 맞춤타겟을 만들고자 할 때, 타겟 생성 시 사용할 수 있는 소스 옵션이 아닌 것은 무엇일까요?(hint: 새로 오픈한 'SNS광고마케터 1급' 샘플 문제 풀고 정답 알아내기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 23 Mar 2022 01:25:15 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2022 05:18:23 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 Meta for Business 광고 시스템에서 맞춤타겟을 만들고자 할 때, 타겟 생성 시 사용할 수 있는 소스 옵션이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-3208-767" target="_blank">새로 오픈한 'SNS광고마케터 1급' 샘플 문제 풀고 정답 알아내기!</a>)</span></td>
 			</tr>
