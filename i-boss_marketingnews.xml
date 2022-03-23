@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 06:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 07:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[질문하면 AI가 대화하듯 답변... 네이버 지식인터랙티브 출시]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8454</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8454</guid>
+            <pubDate>Wed, 23 Mar 2022 07:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[질문 답변을 대화 형식으로... 3D증강현실(AR) 등도 활용 AI가 답하고 출처도 제공... 적용 주제군 확대 예정   네이버가 인공지능(AI)과 사람처럼 대화하듯 질문하며 원하는 정보를 검색하는 `지식인터랙티브` 서비스를 출시했다.   ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_24d9997956352bb1d423b8f7362b1243_18030_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국정보통신진흥협회, SNS광고마케터 자격시험 4월 첫 시행]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8453</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8426</guid>
             <pubDate>Sat, 19 Mar 2022 09:21:00 GMT</pubDate>
             <content:encoded><![CDATA[디지털 시대 광고 크리에이티브는 어떤 모습을 보일 것인가? 급변하는 광고 환경 속에서 쉽게 이야기할 수 없다. 그렇다고 과거의 크리에이티브로 디지털 시대를 이야기할 수 없는 것. 이런한 문제의식을 바탕으로 서원대 광고 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[경기콘텐츠진흥원, 경기 제작 프로젝트 지원사업 4월 11일까지 참가자 모집]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8425</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8425</guid>
-            <pubDate>Sat, 19 Mar 2022 09:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[경기도와 의정부시가 설립하고 경기콘텐츠진흥원(원장 민세희, 이하 경콘진)이 운영하는 북부 경기문화창조허브에서 2022년 경기 제작(메이커) 프로젝트 지원 사업 참가자를 오는 4월 11일까지 모집한다. 경기도내 경쟁력 있는  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
