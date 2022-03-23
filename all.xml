@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 12:31:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 13:27:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[업스타그램]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[한국PR협회, 베이징 올림픽을 계기로 본 올림픽과 스포츠 그리고 소통을 주제로 PR피플토크 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8456</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8456</guid>
+            <pubDate>Wed, 23 Mar 2022 13:26:43 GMT</pubDate>
+            <content:encoded><![CDATA[한국PR협회(회장 김주호)는열 번째PR피플토크를3월 24일(화) 오후 3시부터 KPR 스튜디오에서 개최한다. 이번 PR피플토크는 `베이징 올림픽을 계기로 본 올림픽과 스포츠 그리고 소통`을 주제로 올림픽 운동과 스포츠 외교에 힘써온  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[질문하면 AI가 대화하듯 답변... 네이버 지식인터랙티브 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8454</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8454</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1fb2aa7aff1b29a9611e34323bbb12a1_90979_6.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[Book] 김병희 교수 등 광고지성 16인 디지털 시대의 광고 크리에이티브 신론 출간 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8426</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8426</guid>
-            <pubDate>Sat, 19 Mar 2022 09:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 시대 광고 크리에이티브는 어떤 모습을 보일 것인가? 급변하는 광고 환경 속에서 쉽게 이야기할 수 없다. 그렇다고 과거의 크리에이티브로 디지털 시대를 이야기할 수 없는 것. 이런한 문제의식을 바탕으로 서원대 광고 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[한국PR협회, "베이징 올림픽을 계기로 본 올림픽과 스포츠 그리고 소통"을 주제로 PR피플토크 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8456</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8456</guid>
+            <pubDate>Wed, 23 Mar 2022 13:26:58 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[질문하면 AI가 대화하듯 답변... 네이버 '지식인터랙티브' 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[Book] 김병희 교수 등 광고지성 16인 "디지털 시대의 광고 크리에이티브 신론" 출간 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8426</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8426</guid>
-            <pubDate>Sat, 19 Mar 2022 09:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 Meta for Business 광고 시스템에서 맞춤타겟을 만들고자 할 때, 타겟 생성 시 사용할 수 있는 소스 옵션이 아닌 것은 무엇일까요?(hint: 새로 오픈한 'SNS광고마케터 1급' 샘플 문제 풀고 정답 알아내기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 23 Mar 2022 12:31:29 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2022 13:27:11 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 Meta for Business 광고 시스템에서 맞춤타겟을 만들고자 할 때, 타겟 생성 시 사용할 수 있는 소스 옵션이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-3208-767" target="_blank">새로 오픈한 'SNS광고마케터 1급' 샘플 문제 풀고 정답 알아내기!</a>)</span></td>
 			</tr>
