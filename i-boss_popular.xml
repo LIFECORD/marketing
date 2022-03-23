@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-03-23T07:20:07.224Z</updated>
+    <updated>2022-03-23T08:24:29.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[마케팅플랜]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[투린이들을 위한 지침서 `돈, 뜨겁게 사랑하고 차갑..]]></title>
-        <id>https://www.i-boss.co.kr/ab-2973-448</id>
-        <link href="https://www.i-boss.co.kr/ab-2973-448"/>
-        <updated>2022-03-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[당첨대쓔]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[마케터가 마케팅 핵심 이해하는 지식 40부작 시리즈 [..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57315</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57315"/>
         <updated>2022-03-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[근육돌이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투린이들을 위한 지침서 `돈, 뜨겁게 사랑하고 차갑..]]></title>
+        <id>https://www.i-boss.co.kr/ab-2973-448</id>
+        <link href="https://www.i-boss.co.kr/ab-2973-448"/>
+        <updated>2022-03-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이 세상 최고의 마케팅 전략을 알려드립니다]]></title>
@@ -209,10 +209,10 @@
         <content type="html"><![CDATA[마케팅플랜]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[좋아요가 늘어나는 유니콘 콘텐츠 만들기]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57381</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57381"/>
-        <updated>2022-03-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[업스타그램]]></content>
+        <title type="html"><![CDATA[눈 떠보니 결제하고 있다?  구매욕 자극 법 3가지]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57356</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57356"/>
+        <updated>2022-03-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[yoorok]]></content>
     </entry>
 </feed>
