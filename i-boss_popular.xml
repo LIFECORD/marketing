@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-03-23T08:24:29.907Z</updated>
+    <updated>2022-03-23T09:18:41.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[수D]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리가 돈이 없지 열정이 없냐 (to. 가난한 회사의 마..]]></title>
-        <id>https://www.i-boss.co.kr/ab-5637-30</id>
-        <link href="https://www.i-boss.co.kr/ab-5637-30"/>
-        <updated>2022-02-24T04:23:46.923Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[난 오늘도 올리브영에 100만 원을 쓴다]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57393</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57393"/>
         <updated>2022-03-17T10:19:42.050Z</updated>
         <content type="html"><![CDATA[jinhorus]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리가 돈이 없지 열정이 없냐 (to. 가난한 회사의 마..]]></title>
+        <id>https://www.i-boss.co.kr/ab-5637-30</id>
+        <link href="https://www.i-boss.co.kr/ab-5637-30"/>
+        <updated>2022-02-24T04:23:46.923Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고객 관점 컨텐츠 만들기 (올라운더식 컨텐츠제작법)]]></title>
