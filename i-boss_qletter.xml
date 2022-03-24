@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 03:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 04:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비협조적인 타 부서, 어떡하죠 😢]]></title>
+            <link>https://qletter.i-boss.co.kr/view/923610-%EB%B9%84%ED%98%91%EC%A1%B0%EC%A0%81%EC%9D%B8_%ED%83%80_%EB%B6%80%EC%84%9C_%EC%96%B4%EB%96%A1%ED%95%98%EC%A3%A0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/923610-%EB%B9%84%ED%98%91%EC%A1%B0%EC%A0%81%EC%9D%B8_%ED%83%80_%EB%B6%80%EC%84%9C_%EC%96%B4%EB%96%A1%ED%95%98%EC%A3%A0/</guid>
+            <pubDate>Thu, 24 Mar 2022 04:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/923610-비협조적인_타_부서_어떡하죠/">
+						<div class="thumb"><img src="/images/qletter_923610.png"></div>
+						<p><strong>비협조적인 타 부서, 어떡하죠 😢</strong>2022.03.24</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_923610.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인스타 말고 '트위터 숍'에서 사볼까]]></title>
             <link>https://qletter.i-boss.co.kr/view/916848-%EC%9D%B8%EC%8A%A4%ED%83%80_%EB%A7%90%EA%B3%A0_%ED%8A%B8%EC%9C%84%ED%84%B0_%EC%88%8D%EC%97%90%EC%84%9C_%EC%82%AC%EB%B3%BC%EA%B9%8C/</link>
@@ -127,17 +138,6 @@
 						<p><strong>네이버, 새 광고 상품을 준비중?</strong>2022.02.14</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_871058.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기업이 16가지 유형별 고객을 사로잡는 방법 🌟]]></title>
-            <link>https://qletter.i-boss.co.kr/view/866274-%EA%B8%B0%EC%97%85%EC%9D%B4_16%EA%B0%80%EC%A7%80_%EC%9C%A0%ED%98%95%EB%B3%84_%EA%B3%A0%EA%B0%9D%EC%9D%84_%EC%82%AC%EB%A1%9C%EC%9E%A1%EB%8A%94_%EB%B0%A9%EB%B2%95/</link>
-            <guid>https://qletter.i-boss.co.kr/view/866274-%EA%B8%B0%EC%97%85%EC%9D%B4_16%EA%B0%80%EC%A7%80_%EC%9C%A0%ED%98%95%EB%B3%84_%EA%B3%A0%EA%B0%9D%EC%9D%84_%EC%82%AC%EB%A1%9C%EC%9E%A1%EB%8A%94_%EB%B0%A9%EB%B2%95/</guid>
-            <pubDate>Thu, 10 Feb 2022 02:02:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/866274-기업이_16가지_유형별_고객을_사로잡는_방법/">
-						<div class="thumb"><img src="/images/qletter_866274.png"></div>
-						<p><strong>기업이 16가지 유형별 고객을 사로잡는 방법 🌟</strong>2022.02.10</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_866274.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 03:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 04:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비협조적인 타 부서, 어떡하죠 😢 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/923610-%EB%B9%84%ED%98%91%EC%A1%B0%EC%A0%81%EC%9D%B8_%ED%83%80_%EB%B6%80%EC%84%9C_%EC%96%B4%EB%96%A1%ED%95%98%EC%A3%A0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/923610-%EB%B9%84%ED%98%91%EC%A1%B0%EC%A0%81%EC%9D%B8_%ED%83%80_%EB%B6%80%EC%84%9C_%EC%96%B4%EB%96%A1%ED%95%98%EC%A3%A0/</guid>
+            <pubDate>Thu, 24 Mar 2022 04:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/923610-비협조적인_타_부서_어떡하죠/">
+						<div class="thumb"><img src="/images/qletter_923610.png"></div>
+						<p><strong>비협조적인 타 부서, 어떡하죠 😢</strong>2022.03.24</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_923610.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인스타 말고 '트위터 숍'에서 사볼까 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/916848-%EC%9D%B8%EC%8A%A4%ED%83%80_%EB%A7%90%EA%B3%A0_%ED%8A%B8%EC%9C%84%ED%84%B0_%EC%88%8D%EC%97%90%EC%84%9C_%EC%82%AC%EB%B3%BC%EA%B9%8C/</link>
@@ -129,17 +140,6 @@
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_871058.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[기업이 16가지 유형별 고객을 사로잡는 방법 🌟 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/866274-%EA%B8%B0%EC%97%85%EC%9D%B4_16%EA%B0%80%EC%A7%80_%EC%9C%A0%ED%98%95%EB%B3%84_%EA%B3%A0%EA%B0%9D%EC%9D%84_%EC%82%AC%EB%A1%9C%EC%9E%A1%EB%8A%94_%EB%B0%A9%EB%B2%95/</link>
-            <guid>https://qletter.i-boss.co.kr/view/866274-%EA%B8%B0%EC%97%85%EC%9D%B4_16%EA%B0%80%EC%A7%80_%EC%9C%A0%ED%98%95%EB%B3%84_%EA%B3%A0%EA%B0%9D%EC%9D%84_%EC%82%AC%EB%A1%9C%EC%9E%A1%EB%8A%94_%EB%B0%A9%EB%B2%95/</guid>
-            <pubDate>Thu, 10 Feb 2022 02:02:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/866274-기업이_16가지_유형별_고객을_사로잡는_방법/">
-						<div class="thumb"><img src="/images/qletter_866274.png"></div>
-						<p><strong>기업이 16가지 유형별 고객을 사로잡는 방법 🌟</strong>2022.02.10</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_866274.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[지금까지 모은 마케팅 개꿀팁 유용한 사이트 모음!!(8.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57310</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57310</guid>
@@ -147,18 +147,18 @@
             <content:encoded><![CDATA[리유]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[광고 소재 기획은 해야겠고 머리는 안 굴러갈 때? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57274</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57274</guid>
-            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[수D]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[난 오늘도 올리브영에 100만 원을 쓴다 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57393</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57393</guid>
             <pubDate>Thu, 17 Mar 2022 10:19:42 GMT</pubDate>
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[광고 소재 기획은 해야겠고 머리는 안 굴러갈 때? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57274</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57274</guid>
+            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[수D]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우리가 돈이 없지 열정이 없냐 (to. 가난한 회사의 마.. (아이보스 ─ 인기글)]]></title>
@@ -182,6 +182,13 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[없어서 못 사요! 구매력을 끌어 올리는 마케팅? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57384</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57384</guid>
+            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[마케팅밈] 연말정산하는 마케터 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38485</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38485</guid>
@@ -194,13 +201,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57253</guid>
             <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[없어서 못 사요! 구매력을 끌어 올리는 마케팅? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57384</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57384</guid>
-            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일잘러가 되고 싶다면? `된다! 최반장의 실무 엑셀 wit.. (아이보스 ─ 인기글)]]></title>
@@ -273,17 +273,17 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[무신사 vs 크림, 목숨 건 짝퉁 공방 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57278</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57278</guid>
-            <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[아묻따 '반품'은 이제 그만 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57360</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57360</guid>
             <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[무신사 vs 크림, 목숨 건 짝퉁 공방 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57278</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57278</guid>
+            <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
@@ -343,11 +343,11 @@
             <content:encoded><![CDATA[업스타그램]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[광고업계의 주목을 받고 있는 OSV (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57322</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57322</guid>
-            <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
+            <title><![CDATA[SNS광고마케터 1급 샘플 문제 A/B형 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-3208-767</link>
+            <guid>https://www.i-boss.co.kr/ab-3208-767</guid>
+            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[3월 24일 마케팅 뉴스클리핑] 인스타그램 제품 태그, 일반 이용자로도 확대 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 이미지에서 설명하는 트렌드 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 24 Mar 2022 03:26:24 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2022 04:24:41 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 설명하는 트렌드 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/b67edcc444be19795b9616d7e897b79a_16475103438447.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
