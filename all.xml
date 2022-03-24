@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 22:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 23:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[3월 25일 마케팅 뉴스클리핑] 쿠팡, 와우멤버십 2900원  4990원 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8457</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8457</guid>
+            <pubDate>Fri, 25 Mar 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 쿠팡, 와우멤버십 2900원  4990원  쿠팡이 신규 회원에 이어 기존 회원에 대해서도 와우 멤버십 회비를 인상한다. 6월 10일 이후 첫 결제일부터 월 2900원에서 4990원으로 가격이 변경된다. 적자에 시달리는 쿠팡은 이를 통해 연간  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_37717e802ffb4baea92f877984fbb54a_17450_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제30회 국민이 선택 좋은 광고상 시상식 개최... 대상, 문체부장관상, 좋은 광고상 등 총 35점 시상 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8458</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8458</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[덴츠, NBCU 퍼스트 파티 데이터 및 아이덴티티 플랫폼 사용 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8429</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8429</guid>
-            <pubDate>Sun, 20 Mar 2022 09:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[NBC유니버설은 덴츠 인터내셔널은 클라이언트가 데이터를 사용하여 비즈니스 목표를 달성할 수 있도록 지원하는 NBCU의 데이터 및ID 플랫폼인 NBCUnified의 첫 번째 광고회사 파트너가 될 것이라고 발표했다. 1월 5일에 처음 발표된 N ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[3월 25일 마케팅 뉴스클리핑] 쿠팡, 와우멤버십 2900원 → 4990원 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8457</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8457</guid>
+            <pubDate>Thu, 24 Mar 2022 23:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘제30회 국민이 선택 좋은 광고상’ 시상식 개최... 대상, 문체부장관상, 좋은 광고상 등 총 35점 시상 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[덴츠, NBCU 퍼스트 파티 데이터 및 아이덴티티 플랫폼 사용 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8429</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8429</guid>
-            <pubDate>Sun, 20 Mar 2022 09:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA['이것'은 개발 전문 지식 없이 누구나 접근할 수 있다는 의미를 가진 용어입니다. 최근 네이버가 '이것' AI 도구를 준비 중이라고 알려진 '이것'은 무엇일까요?(hint: 큐레터가 '이것'에 대해 알아보았어요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Thu, 24 Mar 2022 23:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->'이것'은 개발 전문 지식 없이 누구나 접근할 수 있다는 의미를 가진 용어입니다. 최근 네이버가 '이것' AI 도구를 준비 중이라고 알려진 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57402" target="_blank">큐레터가 '이것'에 대해 알아보았어요!</a>)</span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1387_1" value="1" class="AB-radio" id="PQ_BD5826_1387_1_0"><label for="PQ_BD5826_1387_1_0" id="label_PQ_BD5826_1387_1_0">(A) 코드 프리</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1387_1" value="2" class="AB-radio" id="PQ_BD5826_1387_1_1"><label for="PQ_BD5826_1387_1_1" id="label_PQ_BD5826_1387_1_1">(B) 코드 이지</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1387_1" value="3" class="AB-radio" id="PQ_BD5826_1387_1_2"><label for="PQ_BD5826_1387_1_2" id="label_PQ_BD5826_1387_1_2">(C) 노 코드</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1387_1" value="4" class="AB-radio" id="PQ_BD5826_1387_1_3"><label for="PQ_BD5826_1387_1_3" id="label_PQ_BD5826_1387_1_3">(D) 뉴 코드</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시, 소상공인 지킴자금 '현금 100만 원' 신청 기간 재연장 실시 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
