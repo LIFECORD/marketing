@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 14:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 15:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,13 +203,6 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[4000억 부자가 사업을 키운 방법 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57253</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57253</guid>
-            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[일잘러가 되고 싶다면? `된다! 최반장의 실무 엑셀 wit.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-442</link>
             <guid>https://www.i-boss.co.kr/ab-2973-442</guid>
@@ -348,6 +341,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57356</guid>
             <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[yoorok]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38684</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38684</guid>
+            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제30회 국민이 선택 좋은 광고상 시상식 개최... 대상, 문체부장관상, 좋은 광고상 등 총 35점 시상 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8429</guid>
             <pubDate>Sun, 20 Mar 2022 09:42:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다음 이미지에서 설명하는 트렌드 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 24 Mar 2022 14:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->다음 이미지에서 설명하는 트렌드 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/b67edcc444be19795b9616d7e897b79a_16475103438447.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1386_1" value="1" class="AB-radio" id="PQ_BD5826_1386_1_0"><label for="PQ_BD5826_1386_1_0" id="label_PQ_BD5826_1386_1_0">(A) 프롭테크</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1386_1" value="2" class="AB-radio" id="PQ_BD5826_1386_1_1"><label for="PQ_BD5826_1386_1_1" id="label_PQ_BD5826_1386_1_1">(B) 디테크</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1386_1" value="3" class="AB-radio" id="PQ_BD5826_1386_1_2"><label for="PQ_BD5826_1386_1_2" id="label_PQ_BD5826_1386_1_2">(C) 레그테크</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1386_1" value="4" class="AB-radio" id="PQ_BD5826_1386_1_3"><label for="PQ_BD5826_1386_1_3" id="label_PQ_BD5826_1386_1_3">(D) 핀테크</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시, 소상공인 지킴자금 '현금 100만 원' 신청 기간 재연장 실시 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
