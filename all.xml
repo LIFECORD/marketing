@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 08:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 09:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,13 +329,6 @@
             <content:encoded><![CDATA[rdg]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신규 스마트스토어 어제 저녁부터 광고 시작했습니.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38494</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38494</guid>
-            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[SNS광고마케터 1급 샘플 문제 A/B형 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-3208-767</link>
             <guid>https://www.i-boss.co.kr/ab-3208-767</guid>
@@ -343,11 +336,26 @@
             <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[신규 스마트스토어 어제 저녁부터 광고 시작했습니.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38494</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38494</guid>
+            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[눈 떠보니 결제하고 있다?  구매욕 자극 법 3가지 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57356</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57356</guid>
             <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[yoorok]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제30회 국민이 선택 좋은 광고상 시상식 개최... 대상, 문체부장관상, 좋은 광고상 등 총 35점 시상 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8458</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8458</guid>
+            <pubDate>Thu, 24 Mar 2022 09:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[한국광고주협회(회장 최선목)는 3월 24일(목) 오후 2시여의도 FKI 컨퍼런스센터 그랜드볼룸에서 제30회 국민이 선택한 좋은 광고상 시상식을 개최했다.이 날 시상식에서는 대상 및 문화체육관광부장관상,TV / 디지털 / 인쇄 / OOH /  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e3d13e40cfcb74b9515265d0f16b468c_16481117716995.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[3월 24일 마케팅 뉴스클리핑] 인스타그램 제품 태그, 일반 이용자로도 확대 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[해외 크리에이티브] 세계 최초의 가상 맥주, 하이네켄 실버에 건배! (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8428</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8428</guid>
-            <pubDate>Sun, 20 Mar 2022 09:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[가상 의류, 가상 스니커즈, 가상 향수 등 주요 브랜드들이 메타버스에서 가상 상품들을 출시하고 있다. 그렇다면 식음료도 있지 않을까? 하이네켄은 메타버스 플랫폼인 디센트럴랜드에 가장 양조장을 만들고 세계에서 최초로  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[‘제30회 국민이 선택 좋은 광고상’ 시상식 개최... 대상, 문체부장관상, 좋은 광고상 등 총 35점 시상 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8458</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8458</guid>
+            <pubDate>Thu, 24 Mar 2022 09:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[3월 24일 마케팅 뉴스클리핑] 인스타그램 '제품 태그', 일반 이용자로도 확대 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[해외 크리에이티브] 세계 최초의 가상 맥주, 하이네켄 실버에 건배! (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8428</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8428</guid>
-            <pubDate>Sun, 20 Mar 2022 09:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지에서 설명하는 트렌드 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 24 Mar 2022 08:23:30 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2022 09:18:26 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 설명하는 트렌드 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/b67edcc444be19795b9616d7e897b79a_16475103438447.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
