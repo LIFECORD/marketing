@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-03-24T04:24:50.890Z</updated>
+    <updated>2022-03-24T05:18:39.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[마우스 쓰지마세요, 우뇌가 알려주는 퇴근 땡기기 엑..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57386</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57386"/>
+        <updated>2022-03-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[우뇌]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[4000억 부자가 사업을 키운 방법]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57253</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57253"/>
@@ -74,13 +81,6 @@
         <link href="https://www.i-boss.co.kr/ab-2973-442"/>
         <updated>2022-02-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[당첨대쓔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마우스 쓰지마세요, 우뇌가 알려주는 퇴근 땡기기 엑..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57386</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57386"/>
-        <updated>2022-03-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[우뇌]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[초보 마케터 필독, 3분 만에 A/B 테스트 이해하고 체크..]]></title>
@@ -160,18 +160,18 @@
         <content type="html"><![CDATA[싸다싸]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신입 시절 회고하기 (긴글 주의)]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38504</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38504"/>
-        <updated>2022-02-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[규S]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[마케팅 관련 자격증은 뭐가 있나요? 2022 ver]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57397</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57397"/>
         <updated>2022-03-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[마미손]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신입 시절 회고하기 (긴글 주의)]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38504</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38504"/>
+        <updated>2022-02-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[규S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐]]></title>
@@ -202,17 +202,17 @@
         <content type="html"><![CDATA[yoorok]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[좋아요가 늘어나는 유니콘 콘텐츠 만들기]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57381</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57381"/>
-        <updated>2022-03-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[업스타그램]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SNS광고마케터 1급 샘플 문제 A/B형]]></title>
         <id>https://www.i-boss.co.kr/ab-3208-767</id>
         <link href="https://www.i-boss.co.kr/ab-3208-767"/>
         <updated>2022-03-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[유리나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[타부서에서  마케팅팀에 제대로 정보를 안줄 때 어떻..]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38537</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38537"/>
+        <updated>2022-03-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[rdg]]></content>
     </entry>
 </feed>

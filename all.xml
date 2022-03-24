@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 04:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 05:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,6 +196,13 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[마우스 쓰지마세요, 우뇌가 알려주는 퇴근 땡기기 엑.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57386</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57386</guid>
+            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[4000억 부자가 사업을 키운 방법 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57253</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57253</guid>
@@ -208,13 +215,6 @@
             <guid>https://www.i-boss.co.kr/ab-2973-442</guid>
             <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마우스 쓰지마세요, 우뇌가 알려주는 퇴근 땡기기 엑.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57386</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57386</guid>
-            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[초보 마케터 필독, 3분 만에 A/B 테스트 이해하고 체크.. (아이보스 ─ 인기글)]]></title>
@@ -294,18 +294,18 @@
             <content:encoded><![CDATA[싸다싸]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신입 시절 회고하기 (긴글 주의) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38504</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38504</guid>
-            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[규S]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케팅 관련 자격증은 뭐가 있나요? 2022 ver (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57397</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57397</guid>
             <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마미손]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신입 시절 회고하기 (긴글 주의) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38504</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38504</guid>
+            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[규S]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐 (아이보스 ─ 인기글)]]></title>
@@ -336,18 +336,18 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[좋아요가 늘어나는 유니콘 콘텐츠 만들기 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57381</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57381</guid>
-            <pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[업스타그램]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[SNS광고마케터 1급 샘플 문제 A/B형 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-3208-767</link>
             <guid>https://www.i-boss.co.kr/ab-3208-767</guid>
             <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[유리나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[타부서에서  마케팅팀에 제대로 정보를 안줄 때 어떻.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38537</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38537</guid>
+            <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[rdg]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[3월 24일 마케팅 뉴스클리핑] 인스타그램 제품 태그, 일반 이용자로도 확대 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 이미지에서 설명하는 트렌드 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 24 Mar 2022 04:24:41 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2022 05:18:28 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 설명하는 트렌드 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/b67edcc444be19795b9616d7e897b79a_16475103438447.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
