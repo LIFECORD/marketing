@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-03-24T10:20:16.898Z</updated>
+    <updated>2022-03-24T11:21:13.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -181,6 +181,13 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SNS광고마케터 1급 샘플 문제 A/B형]]></title>
+        <id>https://www.i-boss.co.kr/ab-3208-767</id>
+        <link href="https://www.i-boss.co.kr/ab-3208-767"/>
+        <updated>2022-03-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[유리나]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[스마트스토어 어느 정도는 이해가 되었습니다.]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38579</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38579"/>
@@ -193,13 +200,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38537"/>
         <updated>2022-03-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[rdg]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SNS광고마케터 1급 샘플 문제 A/B형]]></title>
-        <id>https://www.i-boss.co.kr/ab-3208-767</id>
-        <link href="https://www.i-boss.co.kr/ab-3208-767"/>
-        <updated>2022-03-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유리나]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신규 스마트스토어 어제 저녁부터 광고 시작했습니..]]></title>
