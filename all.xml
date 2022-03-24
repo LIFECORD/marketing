@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 06:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 08:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,18 +182,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[없어서 못 사요! 구매력을 끌어 올리는 마케팅? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57384</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57384</guid>
-            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마우스 쓰지마세요, 우뇌가 알려주는 퇴근 땡기기 엑.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57386</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57386</guid>
             <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[없어서 못 사요! 구매력을 끌어 올리는 마케팅? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57384</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57384</guid>
+            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 연말정산하는 마케터 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 이미지에서 설명하는 트렌드 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 24 Mar 2022 06:23:03 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2022 08:23:30 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 설명하는 트렌드 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/b67edcc444be19795b9616d7e897b79a_16475103438447.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
