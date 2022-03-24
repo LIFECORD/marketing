@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 22:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 02:53:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -301,13 +301,6 @@
             <content:encoded><![CDATA[규S]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57345</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57345</guid>
-            <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케팅 관련 자격증은 뭐가 있나요? 2022 ver (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57397</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57397</guid>
@@ -315,11 +308,11 @@
             <content:encoded><![CDATA[마미손]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[1명씩 실종,,, (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38472</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38472</guid>
-            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[히야아아아앗]]></content:encoded>
+            <title><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57345</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57345</guid>
+            <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스마트스토어 어느 정도는 이해가 되었습니다. (아이보스 ─ 인기글)]]></title>
@@ -350,11 +343,26 @@
             <content:encoded><![CDATA[업스타그램]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[광고업계의 주목을 받고 있는 OSV (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57322</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57322</guid>
+            <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[3월 24일 마케팅 뉴스클리핑] 인스타그램 제품 태그, 일반 이용자로도 확대 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8455</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8455</guid>
+            <pubDate>Thu, 24 Mar 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 인스타그램 `제품 태그`, 일반 이용자로도 확대  인스타그램이 일반 이용자들도 사진 속 제품 태그 기능을 확대한다. 해당 기능은 미국 전체 이용자를 대상으로 순차 확대될 예정이다. 제품 태그는 주로 크리에이터들이 협찬  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_6fd37f1cb54b785ac84671002d334b08_19560_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한국PR협회, 베이징 올림픽을 계기로 본 올림픽과 스포츠 그리고 소통을 주제로 PR피플토크 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8456</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8456</guid>
             <pubDate>Wed, 23 Mar 2022 13:26:43 GMT</pubDate>
-            <content:encoded><![CDATA[한국PR협회(회장 김주호)는열 번째PR피플토크를3월 24일(화) 오후 3시부터 KPR 스튜디오에서 개최한다. 이번 PR피플토크는 `베이징 올림픽을 계기로 본 올림픽과 스포츠 그리고 소통`을 주제로 올림픽 운동과 스포츠 외교에 힘써온  ...]]></content:encoded>
+            <content:encoded><![CDATA[한국PR협회(회장 김주호)는3월30일 오후4시,윤강로 국제스포츠외교연구원 원장과 홍문기 한세대 교수가 베이징 올림픽을 계기로 본 올림픽과 스포츠 그리고 소통을 주제로 열번째PR피플 토크(People Talk)행사를 진행한다고 밝혔다. ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 가장 투자를 많이 받는 스타트업 부문은? (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8427</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8427</guid>
-            <pubDate>Sat, 19 Mar 2022 09:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[이마케터에 따르면, 작년 미국 소프트웨어 부문 스타트업은 미국 벤처 캐피털 자금의 약 37%인1,212억 달러의 투자를 유치했다.이는 두 번째로 투자를 많이 받은 상업용 제품 및 서비스 부문의 391억 달러보다 3배 이상 많은 금액이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1fb2aa7aff1b29a9611e34323bbb12a1_90979_6.png" length="0" type="image/png"/>
+            <title><![CDATA[[3월 24일 마케팅 뉴스클리핑] 인스타그램 '제품 태그', 일반 이용자로도 확대 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8455</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8455</guid>
+            <pubDate>Thu, 24 Mar 2022 02:52:40 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국PR협회, "베이징 올림픽을 계기로 본 올림픽과 스포츠 그리고 소통"을 주제로 PR피플토크 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 가장 투자를 많이 받는 스타트업 부문은? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8427</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8427</guid>
-            <pubDate>Sat, 19 Mar 2022 09:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[다음 이미지에서 설명하는 트렌드 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Thu, 24 Mar 2022 02:52:51 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 이미지에서 설명하는 트렌드 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/b67edcc444be19795b9616d7e897b79a_16475103438447.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1386_1" value="1" class="AB-radio" id="PQ_BD5826_1386_1_0"><label for="PQ_BD5826_1386_1_0" id="label_PQ_BD5826_1386_1_0">(A) 프롭테크</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1386_1" value="2" class="AB-radio" id="PQ_BD5826_1386_1_1"><label for="PQ_BD5826_1386_1_1" id="label_PQ_BD5826_1386_1_1">(B) 디테크</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1386_1" value="3" class="AB-radio" id="PQ_BD5826_1386_1_2"><label for="PQ_BD5826_1386_1_2" id="label_PQ_BD5826_1386_1_2">(C) 레그테크</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1386_1" value="4" class="AB-radio" id="PQ_BD5826_1386_1_3"><label for="PQ_BD5826_1386_1_3" id="label_PQ_BD5826_1386_1_3">(D) 핀테크</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시, 소상공인 지킴자금 '현금 100만 원' 신청 기간 재연장 실시 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

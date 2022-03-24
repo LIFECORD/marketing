@@ -4,15 +4,23 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 22:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 02:53:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[3월 24일 마케팅 뉴스클리핑] 인스타그램 제품 태그, 일반 이용자로도 확대 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8455</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8455</guid>
+            <pubDate>Thu, 24 Mar 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 인스타그램 `제품 태그`, 일반 이용자로도 확대  인스타그램이 일반 이용자들도 사진 속 제품 태그 기능을 확대한다. 해당 기능은 미국 전체 이용자를 대상으로 순차 확대될 예정이다. 제품 태그는 주로 크리에이터들이 협찬  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_6fd37f1cb54b785ac84671002d334b08_19560_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국PR협회, 베이징 올림픽을 계기로 본 올림픽과 스포츠 그리고 소통을 주제로 PR피플토크 개최]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8456</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8456</guid>
             <pubDate>Wed, 23 Mar 2022 13:26:43 GMT</pubDate>
-            <content:encoded><![CDATA[한국PR협회(회장 김주호)는열 번째PR피플토크를3월 24일(화) 오후 3시부터 KPR 스튜디오에서 개최한다. 이번 PR피플토크는 `베이징 올림픽을 계기로 본 올림픽과 스포츠 그리고 소통`을 주제로 올림픽 운동과 스포츠 외교에 힘써온  ...]]></content:encoded>
+            <content:encoded><![CDATA[한국PR협회(회장 김주호)는3월30일 오후4시,윤강로 국제스포츠외교연구원 원장과 홍문기 한세대 교수가 베이징 올림픽을 계기로 본 올림픽과 스포츠 그리고 소통을 주제로 열번째PR피플 토크(People Talk)행사를 진행한다고 밝혔다. ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 20 Mar 2022 09:41:00 GMT</pubDate>
             <content:encoded><![CDATA[가상 의류, 가상 스니커즈, 가상 향수 등 주요 브랜드들이 메타버스에서 가상 상품들을 출시하고 있다. 그렇다면 식음료도 있지 않을까? 하이네켄은 메타버스 플랫폼인 디센트럴랜드에 가장 양조장을 만들고 세계에서 최초로  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 가장 투자를 많이 받는 스타트업 부문은?]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8427</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8427</guid>
-            <pubDate>Sat, 19 Mar 2022 09:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[이마케터에 따르면, 작년 미국 소프트웨어 부문 스타트업은 미국 벤처 캐피털 자금의 약 37%인1,212억 달러의 투자를 유치했다.이는 두 번째로 투자를 많이 받은 상업용 제품 및 서비스 부문의 391억 달러보다 3배 이상 많은 금액이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1fb2aa7aff1b29a9611e34323bbb12a1_90979_6.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
