@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 06:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 08:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KAI] 4월 광고시장, 꽃샘추위 지나 꽃 활짝 핀다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8463</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8463</guid>
+            <pubDate>Fri, 25 Mar 2022 08:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코, 사장 이백만)가 2022년 4월의 광고경기를 전망하는 광고경기전망지수(KAI ; Korea Advertising Index)를106.4로 발표했다. 통계청 국가승인통계인 광고경기전망지수(KAI)는 매월 국내 560여 개 광고주에 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[오픈서베이, 코로나19 이후 최근 2년 소비 트렌드 발표... 온라인 그리고 50대]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8462</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8434</guid>
             <pubDate>Mon, 21 Mar 2022 08:44:00 GMT</pubDate>
             <content:encoded><![CDATA[한국광고학회(회장 안대천 인하대 교수)는 지난 3월 17일 광고계 대표기업 CEO대담 프로그램 ACE Talk 마지막시간으로 다트미디어 박천성 대표와 중앙대 조정식 교수와의 대담을 진행했다. 박천성 대표의 코로나 확진으로 이번ACE Ta ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외 크리에이티브] 타임의 표지, 우크라이나 거리에서 만들다... RESILIENCE와 AGONY 우크라이나의 비하인드 스토리]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8433</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8433</guid>
-            <pubDate>Mon, 21 Mar 2022 08:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[3월 28 일자 타임(TIME)지는 우크라이나와 연대하여 `회복력(Resilience)`과`고뇌(Agony)`라는 표지를 헌정했다. 첫번째`회복력` 는 젤렌스키 우크라이나 대통형의 고향인 크리리리크(Kryvyi Rih) 마을의 5살짜리 Valeriia사진이다. 100명이 넘 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
