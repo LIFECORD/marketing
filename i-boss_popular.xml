@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-03-25T13:53:13.007Z</updated>
+    <updated>2022-03-25T14:19:19.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -146,18 +146,18 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[필독 해킹 블로그 업자 또 나타났습니다 조심들 하세..]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38502</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38502"/>
-        <updated>2022-02-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싸다싸]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38684</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38684"/>
         <updated>2022-03-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[필독 해킹 블로그 업자 또 나타났습니다 조심들 하세..]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38502</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38502"/>
+        <updated>2022-02-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싸다싸]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신입 시절 회고하기 (긴글 주의)]]></title>
