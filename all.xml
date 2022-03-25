@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 14:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 16:31:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8434</guid>
             <pubDate>Mon, 21 Mar 2022 08:44:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['이것'은 개발 전문 지식 없이 누구나 접근할 수 있다는 의미를 가진 용어입니다. 최근 네이버가 '이것' AI 도구를 준비 중이라고 알려진 '이것'은 무엇일까요?(hint: 큐레터가 '이것'에 대해 알아보았어요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 25 Mar 2022 14:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->'이것'은 개발 전문 지식 없이 누구나 접근할 수 있다는 의미를 가진 용어입니다. 최근 네이버가 '이것' AI 도구를 준비 중이라고 알려진 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57402" target="_blank">큐레터가 '이것'에 대해 알아보았어요!</a>)</span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1387_1" value="1" class="AB-radio" id="PQ_BD5826_1387_1_0"><label for="PQ_BD5826_1387_1_0" id="label_PQ_BD5826_1387_1_0">(A) 코드 프리</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1387_1" value="2" class="AB-radio" id="PQ_BD5826_1387_1_1"><label for="PQ_BD5826_1387_1_1" id="label_PQ_BD5826_1387_1_1">(B) 코드 이지</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1387_1" value="3" class="AB-radio" id="PQ_BD5826_1387_1_2"><label for="PQ_BD5826_1387_1_2" id="label_PQ_BD5826_1387_1_2">(C) 노 코드</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1387_1" value="4" class="AB-radio" id="PQ_BD5826_1387_1_3"><label for="PQ_BD5826_1387_1_3" id="label_PQ_BD5826_1387_1_3">(D) 뉴 코드</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시, 소상공인 지킴자금 '현금 100만 원' 신청 기간 재연장 실시 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
