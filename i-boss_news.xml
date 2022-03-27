@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-03-26T23:18:39.251Z</updated>
+    <updated>2022-03-27T04:27:02.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[해외 크리에이티브] 펩시와 아이홉의 달콤한 만남... 펩시 메이플 시럽 콜라 출시]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8471</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8471"/>
+        <updated>2022-03-27T04:26:41.760Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[해외 크리에이티브] 신주쿠에 거대한 3D 에어맥스가 나타나다]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8470</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8470"/>
+        <updated>2022-03-27T04:26:41.781Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페이스북, 인스타그램에서 3D 광고한다]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8469</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8469"/>
+        <updated>2022-03-27T04:26:41.782Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브리지타워 캐피털, 세계적 아트 펀드 아르테문디와 프란시스코 고야 NFT 시리즈 출시]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8468</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8468"/>
+        <updated>2022-03-27T04:26:41.783Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[버즈빌, 애드테크 리워드 기업 아바티 인수...앱 수익 극대화]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8467</id>
@@ -185,34 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-8442</id>
         <link href="https://www.i-boss.co.kr/ab-2877-8442"/>
         <updated>2022-03-22T01:14:58.643Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한국갤럽] 2022년 3월 한국인이 좋아하는 TV프로그램 1위 : 신사와 아가씨, 5개월째 1위]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8441</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8441"/>
-        <updated>2022-03-22T01:14:58.643Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[3월 22일 마케팅 뉴스클리핑] 네이버, 제2사옥에 라이브 커머스 스튜디오 만든다 외]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8440</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8440"/>
-        <updated>2022-03-22T01:14:58.644Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메타, ‘페이스북 유니버시티’ 2기 모집]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8439</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8439"/>
-        <updated>2022-03-21T06:28:36.937Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT IS, ‘타운보드TV’ 사업 인수… 디지털광고시장 본격 진출]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8438</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8438"/>
-        <updated>2022-03-21T06:28:36.938Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>

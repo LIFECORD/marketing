@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-03-26T23:18:39.248Z</updated>
+    <updated>2022-03-27T04:27:02.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38684</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38684"/>
+        <updated>2022-03-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이 세상 최고의 마케팅 전략을 알려드립니다]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57280</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57280"/>
@@ -111,13 +118,6 @@
         <content type="html"><![CDATA[휴이언니]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38684</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38684"/>
-        <updated>2022-03-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아묻따 '반품'은 이제 그만]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57360</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57360"/>
@@ -137,13 +137,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57345"/>
         <updated>2022-03-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신입 시절 회고하기 (긴글 주의)]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38504</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38504"/>
-        <updated>2022-02-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[규S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SNS광고마케터 1급 샘플 문제 A/B형]]></title>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38666"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[놀토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브랜딩을 해야 한다고 하던데 브랜딩이 도대체 뭘까..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57295</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57295"/>
+        <updated>2022-02-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[둥근마을]]></content>
     </entry>
 </feed>
