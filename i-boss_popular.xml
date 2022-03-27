@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-03-27T04:27:02.180Z</updated>
+    <updated>2022-03-27T07:17:16.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -95,13 +95,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38684"/>
         <updated>2022-03-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 세상 최고의 마케팅 전략을 알려드립니다]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57280</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57280"/>
-        <updated>2022-02-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[리유]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단골이 있는 브랜드를 만들어야 하는 이유]]></title>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57295"/>
         <updated>2022-02-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[둥근마을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2차 목표인 250개 달성했습니다.]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38562</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38562"/>
+        <updated>2022-03-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[마케팅플랜]]></content>
     </entry>
 </feed>
