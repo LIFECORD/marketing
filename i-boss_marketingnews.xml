@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 19:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 23:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[3월 28일 마케팅 뉴스클리핑] 페북과 인스타에 3D 광고한다 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8472</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8472</guid>
+            <pubDate>Mon, 28 Mar 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 페북인스타에 3D 광고한다 메타버스 확대  메타가 전자상거래 IT기업 븐타나(VNTANA)와 협력해 메타버스 사업에 속도를 낸다. 븐타나는 메타와 3D 광고 관련 협약을 체결했다고 발표했다. 이번 협약은 페이스북, 인스타그램 등  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_642a8881f1f7e4f2c4baadd086b312b6_67076_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외 크리에이티브] 펩시와 아이홉의 달콤한 만남... 펩시 메이플 시럽 콜라 출시]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8471</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8443</guid>
             <pubDate>Tue, 22 Mar 2022 09:14:00 GMT</pubDate>
             <content:encoded><![CDATA[이노션 월드와이드(대표이사 이용우, 이하 이노션)가VFX(시각적 특수효과,Visual Effects)기업의 지분을 전격 인수한다. 이노션은 VFX 영상 제작 스튜디오 기업인 ㈜스튜디오레논의 지분을 투자해 최대 주주의 지위를 확보했다고 22일 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] Be Bold! 광고회사답지 않은 광고회사를 만들겠습니다 정건영 애드쿠아 대표]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8442</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8442</guid>
-            <pubDate>Tue, 22 Mar 2022 08:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 3월 1일 애드쿠아인터렉티브는 리더십이 바뀌었다. 2000년 2월 14일 애드쿠아를 설립한 전훈철 대표가 퇴임하고, 정건영 공동대표가 단독대표로 취임했다.그동안 애드쿠아는 기존의 광고미디어 회사들이 만들어왔던 틀을 파 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
