@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 23:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 02:59:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음은 이제 종료됐'음' (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/926679-%EC%9D%8C%EC%9D%80_%EC%9D%B4%EC%A0%9C_%EC%A2%85%EB%A3%8C%EB%90%90%EC%9D%8C/</link>
+            <guid>https://qletter.i-boss.co.kr/view/926679-%EC%9D%8C%EC%9D%80_%EC%9D%B4%EC%A0%9C_%EC%A2%85%EB%A3%8C%EB%90%90%EC%9D%8C/</guid>
+            <pubDate>Mon, 28 Mar 2022 02:58:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/926679-음은_이제_종료됐음/">
+						<div class="thumb"><img src="/images/qletter_926679.png"></div>
+						<p><strong> 음은 이제 종료됐'음'</strong>2022.03.28</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_926679.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[비협조적인 타 부서, 어떡하죠 😢 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/923610-%EB%B9%84%ED%98%91%EC%A1%B0%EC%A0%81%EC%9D%B8_%ED%83%80_%EB%B6%80%EC%84%9C_%EC%96%B4%EB%96%A1%ED%95%98%EC%A3%A0/</link>
@@ -129,17 +140,6 @@
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_875647.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[네이버, 새 광고 상품을 준비중? (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/871058-%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%83%88_%EA%B4%91%EA%B3%A0_%EC%83%81%ED%92%88%EC%9D%84_%EC%A4%80%EB%B9%84%EC%A4%91/</link>
-            <guid>https://qletter.i-boss.co.kr/view/871058-%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%83%88_%EA%B4%91%EA%B3%A0_%EC%83%81%ED%92%88%EC%9D%84_%EC%A4%80%EB%B9%84%EC%A4%91/</guid>
-            <pubDate>Mon, 14 Feb 2022 04:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/871058-네이버_새_광고_상품을_준비중/">
-						<div class="thumb"><img src="/images/qletter_871058.png"></div>
-						<p><strong>네이버, 새 광고 상품을 준비중?</strong>2022.02.14</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_871058.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[지금까지 모은 마케팅 개꿀팁 유용한 사이트 모음!!(8.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57310</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57310</guid>
@@ -217,18 +217,18 @@
             <content:encoded><![CDATA[마미손]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[투린이들을 위한 지침서 `돈, 뜨겁게 사랑하고 차갑.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-448</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-448</guid>
-            <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38684</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38684</guid>
             <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[투린이들을 위한 지침서 `돈, 뜨겁게 사랑하고 차갑.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-448</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-448</guid>
+            <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[단골이 있는 브랜드를 만들어야 하는 이유 (아이보스 ─ 인기글)]]></title>
@@ -252,18 +252,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[무신사 vs 크림, 목숨 건 짝퉁 공방 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57278</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57278</guid>
-            <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[SNS광고마케터 1급 샘플 문제 A/B형 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-3208-767</link>
             <guid>https://www.i-boss.co.kr/ab-3208-767</guid>
             <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[유리나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[무신사 vs 크림, 목숨 건 짝퉁 공방 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57278</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57278</guid>
+            <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐 (아이보스 ─ 인기글)]]></title>
@@ -280,6 +280,13 @@
             <content:encoded><![CDATA[rdg]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[모다모다가 핫해진 이유, 내가 마케팅함! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57444</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57444</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[jinhorus]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[스마트스토어 어느 정도는 이해가 되었습니다. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38579</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38579</guid>
@@ -287,11 +294,11 @@
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[모다모다가 핫해진 이유, 내가 마케팅함! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57444</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57444</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[jinhorus]]></content:encoded>
+            <title><![CDATA[블로그 검색노출? 유료 정보 그냥 풉니다(삭제될 수.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57431</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57431</guid>
+            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅코치마코]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[눈 떠보니 결제하고 있다?  구매욕 자극 법 3가지 (아이보스 ─ 인기글)]]></title>
@@ -329,13 +336,6 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블로그 검색노출? 유료 정보 그냥 풉니다(삭제될 수.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57431</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57431</guid>
-            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅코치마코]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[리터없쓔 마감되쓔] 원하는 만큼 리터 드려요 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38666</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38666</guid>
@@ -348,6 +348,22 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57295</guid>
             <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유튜브에서 수천 개의 TV 프로그램을 무료로 시청할 수 있다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8474</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8474</guid>
+            <pubDate>Mon, 28 Mar 2022 08:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[미국 유튜브 사용자는 이제 유튜브에서 4천개의TV프로그램을 무료로 시청할 수 있게 됐다. 이 경우 비용은 들지 않지만, 광고를 봐야 한다. 유튜브는HBO 맥스 또는 넷플릭스와 같은 서비스에서 볼 수 있는콘텐츠와 경쟁하지 않는 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 시장과 소비자에 대한 독립적인 시각으로 성공하는 광고를 만들겠습니다 정호영 메이트 인디펜던스 대표 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8473</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8473</guid>
+            <pubDate>Mon, 28 Mar 2022 08:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[창립 22주년을 맞은 광고회사 메이트 커뮤니케이션즈가 최근 `메이트 인디펜던스`로 리브랜딩했다. 메이트는 `MATENESS`라고 하는 메이트 만의 캠페인과 크리에이티브를선보이는 중견 광고회사이다.이런메이트의 리브랜딩의 핵심 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[3월 28일 마케팅 뉴스클리핑] 페북과 인스타에 3D 광고한다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -574,26 +590,24 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[데이터 마케팅 인사이트] KB국민은행 스타뱅킹, 20대 남녀 사용자 수 급상승 순위 1위 등극 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8444</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8444</guid>
-            <pubDate>Tue, 22 Mar 2022 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 모바일 빅데이터 플랫폼 기업 아이지에이웍스가 자사의 데이터 분석 솔루션모바일인덱스를 통해분석 리포트를 발표했다.분석 기간은2021년1월1일부터2022년3월13일까지로,일평균4000만 모바일 기기의20억건 데이터(안드 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[유튜브에서 수천 개의 TV 프로그램을 무료로 시청할 수 있다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8474</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8474</guid>
+            <pubDate>Mon, 28 Mar 2022 02:59:33 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이노션, VFX 영상 제작 스튜디오 스튜디오레논 경영권 인수... 콘텐츠 리딩 기업으로 진화 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8443</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8443</guid>
-            <pubDate>Tue, 22 Mar 2022 09:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[이노션 월드와이드(대표이사 이용우, 이하 이노션)가VFX(시각적 특수효과,Visual Effects)기업의 지분을 전격 인수한다. 이노션은 VFX 영상 제작 스튜디오 기업인 ㈜스튜디오레논의 지분을 투자해 최대 주주의 지위를 확보했다고 22일 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[인터뷰] "시장과 소비자에 대한 독립적인 시각으로 성공하는 광고를 만들겠습니다" 정호영 메이트 인디펜던스 대표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8473</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8473</guid>
+            <pubDate>Mon, 28 Mar 2022 02:59:33 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[3월 28일 마케팅 뉴스클리핑] 페북과 인스타에 3D 광고한다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8472</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8472</guid>
-            <pubDate>Sun, 27 Mar 2022 23:20:07 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[데이터 마케팅 인사이트] ‘KB국민은행 스타뱅킹’, 20대 남녀 사용자 수 급상승 순위 1위 등극 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8444</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8444</guid>
-            <pubDate>Tue, 22 Mar 2022 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이노션, VFX 영상 제작 스튜디오 '스튜디오레논’ 경영권 인수... 콘텐츠 리딩 기업으로 ‘진화’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8443</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8443</guid>
-            <pubDate>Tue, 22 Mar 2022 09:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 이미지에서 설명하고 있는 동영상 제작 툴은 무엇일까요?(hint: 'SNS광고마케터 1급' 샘플 문제 풀고 정답 알아내기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 27 Mar 2022 23:20:19 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2022 02:59:45 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 이미지에서 설명하고 있는 동영상 제작 툴은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/9efc87473487ef411918c4d35031bfee_16481756244281.gif" style="width: 100%;"></center><span style="display:block;font-size:14px;color:#999;margin-bottom:20px;padding-top:10px">(hint: <a href="https://www.i-boss.co.kr/ab-3208-767" target="_blank">'SNS광고마케터 1급' 샘플 문제 풀고 정답 알아내기!</a>)</span></td>
 			</tr>

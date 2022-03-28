@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 23:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 02:59:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜브에서 수천 개의 TV 프로그램을 무료로 시청할 수 있다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8474</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8474</guid>
+            <pubDate>Mon, 28 Mar 2022 08:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[미국 유튜브 사용자는 이제 유튜브에서 4천개의TV프로그램을 무료로 시청할 수 있게 됐다. 이 경우 비용은 들지 않지만, 광고를 봐야 한다. 유튜브는HBO 맥스 또는 넷플릭스와 같은 서비스에서 볼 수 있는콘텐츠와 경쟁하지 않는 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 시장과 소비자에 대한 독립적인 시각으로 성공하는 광고를 만들겠습니다 정호영 메이트 인디펜던스 대표]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8473</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8473</guid>
+            <pubDate>Mon, 28 Mar 2022 08:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[창립 22주년을 맞은 광고회사 메이트 커뮤니케이션즈가 최근 `메이트 인디펜던스`로 리브랜딩했다. 메이트는 `MATENESS`라고 하는 메이트 만의 캠페인과 크리에이티브를선보이는 중견 광고회사이다.이런메이트의 리브랜딩의 핵심 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[3월 28일 마케팅 뉴스클리핑] 페북과 인스타에 3D 광고한다 외]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8472</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8445</guid>
             <pubDate>Tue, 22 Mar 2022 09:42:00 GMT</pubDate>
             <content:encoded><![CDATA[한국광고주협회(회장 : 최선목)는제30회 국민이 선택한 좋은 광고상 35편의 수상작을 선정하고, 3월 24일(목) 오후 2시 여의도 FKI컨퍼런스센터그랜드볼룸에서 시상식을 개최한다. 국민이 선택한 좋은 광고상은 광고주협회가 주최 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[데이터 마케팅 인사이트] KB국민은행 스타뱅킹, 20대 남녀 사용자 수 급상승 순위 1위 등극]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8444</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8444</guid>
-            <pubDate>Tue, 22 Mar 2022 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 모바일 빅데이터 플랫폼 기업 아이지에이웍스가 자사의 데이터 분석 솔루션모바일인덱스를 통해분석 리포트를 발표했다.분석 기간은2021년1월1일부터2022년3월13일까지로,일평균4000만 모바일 기기의20억건 데이터(안드 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[이노션, VFX 영상 제작 스튜디오 스튜디오레논 경영권 인수... 콘텐츠 리딩 기업으로 진화]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8443</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8443</guid>
-            <pubDate>Tue, 22 Mar 2022 09:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[이노션 월드와이드(대표이사 이용우, 이하 이노션)가VFX(시각적 특수효과,Visual Effects)기업의 지분을 전격 인수한다. 이노션은 VFX 영상 제작 스튜디오 기업인 ㈜스튜디오레논의 지분을 투자해 최대 주주의 지위를 확보했다고 22일 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

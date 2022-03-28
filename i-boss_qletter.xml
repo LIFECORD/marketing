@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 23:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 02:59:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음은 이제 종료됐'음']]></title>
+            <link>https://qletter.i-boss.co.kr/view/926679-%EC%9D%8C%EC%9D%80_%EC%9D%B4%EC%A0%9C_%EC%A2%85%EB%A3%8C%EB%90%90%EC%9D%8C/</link>
+            <guid>https://qletter.i-boss.co.kr/view/926679-%EC%9D%8C%EC%9D%80_%EC%9D%B4%EC%A0%9C_%EC%A2%85%EB%A3%8C%EB%90%90%EC%9D%8C/</guid>
+            <pubDate>Mon, 28 Mar 2022 02:58:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/926679-음은_이제_종료됐음/">
+						<div class="thumb"><img src="/images/qletter_926679.png"></div>
+						<p><strong> 음은 이제 종료됐'음'</strong>2022.03.28</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_926679.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[비협조적인 타 부서, 어떡하죠 😢]]></title>
             <link>https://qletter.i-boss.co.kr/view/923610-%EB%B9%84%ED%98%91%EC%A1%B0%EC%A0%81%EC%9D%B8_%ED%83%80_%EB%B6%80%EC%84%9C_%EC%96%B4%EB%96%A1%ED%95%98%EC%A3%A0/</link>
@@ -127,17 +138,6 @@
 						<p><strong>큐레터 님이 라방에 접속하셨습니다!</strong>2022.02.17</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_875647.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버, 새 광고 상품을 준비중?]]></title>
-            <link>https://qletter.i-boss.co.kr/view/871058-%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%83%88_%EA%B4%91%EA%B3%A0_%EC%83%81%ED%92%88%EC%9D%84_%EC%A4%80%EB%B9%84%EC%A4%91/</link>
-            <guid>https://qletter.i-boss.co.kr/view/871058-%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%83%88_%EA%B4%91%EA%B3%A0_%EC%83%81%ED%92%88%EC%9D%84_%EC%A4%80%EB%B9%84%EC%A4%91/</guid>
-            <pubDate>Mon, 14 Feb 2022 04:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/871058-네이버_새_광고_상품을_준비중/">
-						<div class="thumb"><img src="/images/qletter_871058.png"></div>
-						<p><strong>네이버, 새 광고 상품을 준비중?</strong>2022.02.14</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_871058.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
