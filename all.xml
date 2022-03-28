@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 02:59:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 04:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -273,18 +273,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[타부서에서  마케팅팀에 제대로 정보를 안줄 때 어떻.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38537</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38537</guid>
-            <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[rdg]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[모다모다가 핫해진 이유, 내가 마케팅함! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57444</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57444</guid>
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[타부서에서  마케팅팀에 제대로 정보를 안줄 때 어떻.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38537</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38537</guid>
+            <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[rdg]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스마트스토어 어느 정도는 이해가 되었습니다. (아이보스 ─ 인기글)]]></title>
@@ -593,14 +593,14 @@
             <title><![CDATA[유튜브에서 수천 개의 TV 프로그램을 무료로 시청할 수 있다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8474</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8474</guid>
-            <pubDate>Mon, 28 Mar 2022 02:59:33 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2022 08:45:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] "시장과 소비자에 대한 독립적인 시각으로 성공하는 광고를 만들겠습니다" 정호영 메이트 인디펜던스 대표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8473</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8473</guid>
-            <pubDate>Mon, 28 Mar 2022 02:59:33 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2022 08:42:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 이미지에서 설명하고 있는 동영상 제작 툴은 무엇일까요?(hint: 'SNS광고마케터 1급' 샘플 문제 풀고 정답 알아내기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 28 Mar 2022 02:59:45 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2022 04:24:34 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 이미지에서 설명하고 있는 동영상 제작 툴은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/9efc87473487ef411918c4d35031bfee_16481756244281.gif" style="width: 100%;"></center><span style="display:block;font-size:14px;color:#999;margin-bottom:20px;padding-top:10px">(hint: <a href="https://www.i-boss.co.kr/ab-3208-767" target="_blank">'SNS광고마케터 1급' 샘플 문제 풀고 정답 알아내기!</a>)</span></td>
 			</tr>
