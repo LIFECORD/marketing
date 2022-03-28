@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-03-28T11:17:40.477Z</updated>
+    <updated>2022-03-28T12:33:35.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -132,18 +132,18 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57345</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57345"/>
-        <updated>2022-03-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[모다모다가 핫해진 이유, 내가 마케팅함!]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57444</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57444"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[jinhorus]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57345</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57345"/>
+        <updated>2022-03-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[타부서에서  마케팅팀에 제대로 정보를 안줄 때 어떻..]]></title>
