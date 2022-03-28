@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 06:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 09:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,6 +196,13 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[마케팅 관련 자격증은 뭐가 있나요? 2022 ver (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57397</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57397</guid>
+            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마미손]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[마케터가 마케팅 핵심 이해하는 지식 40부작 시리즈 [.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57315</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57315</guid>
@@ -208,13 +215,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38524</guid>
             <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마케팅 관련 자격증은 뭐가 있나요? 2022 ver (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57397</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57397</guid>
-            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마미손]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38666</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[놀토]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나19 이후 매년 증가하는 메타버스 온라인 버즈량최근 1년간 10배 이상 증가 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8476</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8476</guid>
+            <pubDate>Mon, 28 Mar 2022 09:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[사회적화두로떠오른메타버스관련소셜버즈분석결과, 2020년12월이후메타버스에관한관심이급속하게증가했으며,관련버즈량역시매년증가하고있는것으로조사됐다. 28일종합커뮤니케이션그룹KPR(사장김주호)부설KPR디지털커뮤니케 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[유튜브에서 수천 개의 TV 프로그램을 무료로 시청할 수 있다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[광고주협회, 제30회 국민이 선택한 좋은 광고상 수상작 발표... 신한은행과 11번가 각각 대상 수상 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8445</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8445</guid>
-            <pubDate>Tue, 22 Mar 2022 09:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국광고주협회(회장 : 최선목)는제30회 국민이 선택한 좋은 광고상 35편의 수상작을 선정하고, 3월 24일(목) 오후 2시 여의도 FKI컨퍼런스센터그랜드볼룸에서 시상식을 개최한다. 국민이 선택한 좋은 광고상은 광고주협회가 주최 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[코로나19 이후 매년 증가하는 메타버스 온라인 버즈량…최근 1년간 10배 이상 증가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8476</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8476</guid>
+            <pubDate>Mon, 28 Mar 2022 09:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[유튜브에서 수천 개의 TV 프로그램을 무료로 시청할 수 있다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[광고주협회, ‘제30회 국민이 선택한 좋은 광고상’ 수상작 발표... '신한은행'과 '11번가' 각각 대상 수상 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8445</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8445</guid>
-            <pubDate>Tue, 22 Mar 2022 09:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 이미지에서 설명하고 있는 동영상 제작 툴은 무엇일까요?(hint: 'SNS광고마케터 1급' 샘플 문제 풀고 정답 알아내기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 28 Mar 2022 06:23:35 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2022 09:23:28 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 이미지에서 설명하고 있는 동영상 제작 툴은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/9efc87473487ef411918c4d35031bfee_16481756244281.gif" style="width: 100%;"></center><span style="display:block;font-size:14px;color:#999;margin-bottom:20px;padding-top:10px">(hint: <a href="https://www.i-boss.co.kr/ab-3208-767" target="_blank">'SNS광고마케터 1급' 샘플 문제 풀고 정답 알아내기!</a>)</span></td>
 			</tr>

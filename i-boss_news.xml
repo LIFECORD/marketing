@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-03-28T06:23:45.124Z</updated>
+    <updated>2022-03-28T09:23:37.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나19 이후 매년 증가하는 메타버스 온라인 버즈량…최근 1년간 10배 이상 증가]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8476</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8476"/>
+        <updated>2022-03-28T09:23:16.086Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유튜브에서 수천 개의 TV 프로그램을 무료로 시청할 수 있다]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8474</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-8446</id>
         <link href="https://www.i-boss.co.kr/ab-2877-8446"/>
         <updated>2022-03-22T02:56:53.501Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광고주협회, ‘제30회 국민이 선택한 좋은 광고상’ 수상작 발표... '신한은행'과 '11번가' 각각 대상 수상]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8445</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8445"/>
-        <updated>2022-03-22T01:14:58.635Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
