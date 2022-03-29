@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 22:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 23:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[3월 30일 마케팅 뉴스클리핑] 편의점 빅3의 메타버스, 거창한 마케팅과 달리 속 빈 강정 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8478</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8478</guid>
+            <pubDate>Wed, 30 Mar 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 편의점 `빅3`의 메타버스, 거창한 마케팅과 달리 속 빈 강정  국내 편의점들이 하나씩 메타버스 플랫폼에 진입하고 있다. 하지만 살 수 있는 실제 물건은 하나도 없다. 커머스 기능을 구현하지 않아서다. 메타버스 편의점이 `속 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_33cab4c72778aa019c20ed440185dfe6_98861_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대한민국역사박물관, 실감형 영상전시 광고, 세상을 향한 고백... 광고로 조명하는 근현대사]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8479</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Mar 2022 08:29:00 GMT</pubDate>
             <content:encoded><![CDATA[한국정보통신진흥협회(KAIT)가 SNS광고마케터 자격증 시험을 처음으로 4월 23일 실시한다. SNS 이용 확산으로 전문적인 검증 체계 구축을 원하는 요구가 높아졌짐에 따라, 협회는 지난해 자체 설문 조사를 통해 SNS 광고 마케팅 분야 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[3월 23일 마케팅 뉴스클리핑] 배민, 배달앱 최초로 CPC 광고 상품 출시 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8449</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8449</guid>
-            <pubDate>Wed, 23 Mar 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 배민, 배달앱 최초로 `CPC` 광고 상품 출시  배달의민족이 배달 앱 플랫폼 최초로 CPC 방식의 광고 상품을 선보인다. 배달의민족은 신규 서비스 `우리가게클릭 광고` 상품 출시에 따라 배달의민족 상단 노출 광고 상품인 `오픈리 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_13685a78d002e4e39befa2c62905c70f_76466_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
