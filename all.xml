@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 09:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 11:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -322,18 +322,18 @@
             <content:encoded><![CDATA[리유]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[선후배님들은 취미가 뭐에요? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38672</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38672</guid>
-            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[델몬트두리안]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[스마트스토어 1달이 약간 지난 시점입니다. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38681</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38681</guid>
             <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[선후배님들은 취미가 뭐에요? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38672</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38672</guid>
+            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[델몬트두리안]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[광고업계의 주목을 받고 있는 OSV (아이보스 ─ 인기글)]]></title>
@@ -343,11 +343,11 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[리터없쓔 마감되쓔] 원하는 만큼 리터 드려요 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38666</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38666</guid>
-            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[놀토]]></content:encoded>
+            <title><![CDATA[GFA 일매출 400만원, 로아스 500% 어떻게 만드는 걸까? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57423</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57423</guid>
+            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[팀ROAS]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[대한민국역사박물관, 실감형 영상전시 광고, 세상을 향한 고백... 광고로 조명하는 근현대사 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -593,7 +593,7 @@
             <title><![CDATA[대한민국역사박물관, 실감형 영상전시 '광고, 세상을 향한 고백'... 광고로 조명하는 근현대사 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8479</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8479</guid>
-            <pubDate>Tue, 29 Mar 2022 09:18:24 GMT</pubDate>
+            <pubDate>Tue, 29 Mar 2022 09:18:11 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[인스타그램이 일반 이용자에게도 '이 기능'을 확대하겠다고 밝혔습니다. 주로 크리에이터들이 홍보 게시물에서 이용했던 이 기능은 무엇일까요?(hint: 퀴즈에 힌트 한 방울~ 3/24 뉴스클리핑 보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 29 Mar 2022 09:18:37 GMT</pubDate>
+            <pubDate>Tue, 29 Mar 2022 11:33:18 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->인스타그램이 일반 이용자에게도 '이 기능'을 확대하겠다고 밝혔습니다. 주로 크리에이터들이 홍보 게시물에서 이용했던 이 기능은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8455" target="_blank">퀴즈에 힌트 한 방울~ 3/24 뉴스클리핑 보기!</a>)</span></td>
 			</tr>
