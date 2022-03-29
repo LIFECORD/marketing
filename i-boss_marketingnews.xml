@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 01:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 03:02:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이언소스, 데이터에 기반해 의사 결정할 수 있도록 업계 최초의 모바일 게임 시장성 테스트 도구 출시]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8477</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8477</guid>
+            <pubDate>Tue, 29 Mar 2022 11:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource, NYSE:IS)는 출시 전 게임 개발 방향성부터 시장 가능성 분석까지 가능한 업계 최초의 모바일 게임 앱용 시장성 테스트 도구를 정식 출시했다. 이번에 정식 론칭된 아이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[3월 29일 마케팅 뉴스클리핑] 침대 없이 월 매장 매출 1억... MZ세대 붙잡은 시몬스 마케팅 외]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8475</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8448</guid>
             <pubDate>Tue, 22 Mar 2022 08:24:45 GMT</pubDate>
             <content:encoded><![CDATA[SSG닷컴이 NFT에 이어 메타버스 기술을 접목한 마케팅에 시동을 건다. 메타버스 플랫폼을 활용한 전시회를 열어 고객 참여를 이끌고 차별화 된 쇼핑 경험을 제공한다는 방침이다. SSG닷컴은 21일부터 27일까지 일주일 간 메타버스  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[더 트레이드 데스크, 어도비 리얼타임 고객 데이터 플랫폼과 연동 개시]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8447</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8447</guid>
-            <pubDate>Tue, 22 Mar 2022 11:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[애드테크 글로벌 리더 및 프로그래매틱 광고 전문 기업으로서 전 세계 DSP 시장을 선도하고 있는 더 트레이드 데스크 (The Trade Desk, NASDAQ: TDD)는어도비 리얼타임 고객 데이터 플랫폼 (Adobe Real-Time Customer Data Platform)과 새롭게 연동되 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

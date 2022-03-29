@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-03-29T01:18:46.002Z</updated>
+    <updated>2022-03-29T03:02:28.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -104,6 +104,13 @@
         <content type="html"><![CDATA[유리나]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[아묻따 '반품'은 이제 그만]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57360</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57360"/>
+        <updated>2022-03-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[단골이 있는 브랜드를 만들어야 하는 이유]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57296</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57296"/>
@@ -116,13 +123,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57321"/>
         <updated>2022-03-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[휴이언니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아묻따 '반품'은 이제 그만]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57360</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57360"/>
-        <updated>2022-03-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[무신사 vs 크림, 목숨 건 짝퉁 공방]]></title>

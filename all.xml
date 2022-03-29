@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 01:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 03:02:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,13 @@
             <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[아묻따 '반품'은 이제 그만 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57360</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57360</guid>
+            <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[단골이 있는 브랜드를 만들어야 하는 이유 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57296</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57296</guid>
@@ -250,13 +257,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57321</guid>
             <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아묻따 '반품'은 이제 그만 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57360</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57360</guid>
-            <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[무신사 vs 크림, 목숨 건 짝퉁 공방 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38666</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[놀토]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아이언소스, 데이터에 기반해 의사 결정할 수 있도록 업계 최초의 모바일 게임 시장성 테스트 도구 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8477</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8477</guid>
+            <pubDate>Tue, 29 Mar 2022 11:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource, NYSE:IS)는 출시 전 게임 개발 방향성부터 시장 가능성 분석까지 가능한 업계 최초의 모바일 게임 앱용 시장성 테스트 도구를 정식 출시했다. 이번에 정식 론칭된 아이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[3월 29일 마케팅 뉴스클리핑] 침대 없이 월 매장 매출 1억... MZ세대 붙잡은 시몬스 마케팅 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,18 +590,17 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[더 트레이드 데스크, 어도비 리얼타임 고객 데이터 플랫폼과 연동 개시 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8447</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8447</guid>
-            <pubDate>Tue, 22 Mar 2022 11:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[애드테크 글로벌 리더 및 프로그래매틱 광고 전문 기업으로서 전 세계 DSP 시장을 선도하고 있는 더 트레이드 데스크 (The Trade Desk, NASDAQ: TDD)는어도비 리얼타임 고객 데이터 플랫폼 (Adobe Real-Time Customer Data Platform)과 새롭게 연동되 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[아이언소스, 데이터에 기반해 의사 결정할 수 있도록 업계 최초의 모바일 게임 ‘시장성 테스트 도구’ 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8477</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8477</guid>
+            <pubDate>Tue, 29 Mar 2022 03:02:07 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[3월 29일 마케팅 뉴스클리핑] 침대 없이 월 매장 매출 1억... MZ세대 붙잡은 시몬스 마케팅 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8475</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8475</guid>
-            <pubDate>Tue, 29 Mar 2022 01:18:23 GMT</pubDate>
+            <pubDate>Tue, 29 Mar 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[더 트레이드 데스크, 어도비 리얼타임 고객 데이터 플랫폼과 연동 개시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8447</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8447</guid>
-            <pubDate>Tue, 22 Mar 2022 11:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[인스타그램이 일반 이용자에게도 '이 기능'을 확대하겠다고 밝혔습니다. 주로 크리에이터들이 홍보 게시물에서 이용했던 이 기능은 무엇일까요?(hint: 퀴즈에 힌트 한 방울~ 3/24 뉴스클리핑 보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 29 Mar 2022 01:18:37 GMT</pubDate>
+            <pubDate>Tue, 29 Mar 2022 03:02:19 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->인스타그램이 일반 이용자에게도 '이 기능'을 확대하겠다고 밝혔습니다. 주로 크리에이터들이 홍보 게시물에서 이용했던 이 기능은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8455" target="_blank">퀴즈에 힌트 한 방울~ 3/24 뉴스클리핑 보기!</a>)</span></td>
 			</tr>
