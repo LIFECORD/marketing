@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-03-29T03:35:03.176Z</updated>
+    <updated>2022-03-29T07:22:09.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -125,6 +125,13 @@
         <content type="html"><![CDATA[휴이언니]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[타부서에서  마케팅팀에 제대로 정보를 안줄 때 어떻..]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38537</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38537"/>
+        <updated>2022-03-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[rdg]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[무신사 vs 크림, 목숨 건 짝퉁 공방]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57278</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57278"/>
@@ -139,25 +146,18 @@
         <content type="html"><![CDATA[jinhorus]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57345</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57345"/>
-        <updated>2022-03-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[타부서에서  마케팅팀에 제대로 정보를 안줄 때 어떻..]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38537</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38537"/>
-        <updated>2022-03-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[rdg]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[블로그 검색노출? 유료 정보 그냥 풉니다(삭제될 수..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57431</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57431"/>
         <updated>2022-03-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[마케팅코치마코]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57345</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57345"/>
+        <updated>2022-03-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스마트스토어 어느 정도는 이해가 되었습니다.]]></title>
@@ -188,18 +188,18 @@
         <content type="html"><![CDATA[리유]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스마트스토어 1달이 약간 지난 시점입니다.]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38681</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38681"/>
-        <updated>2022-03-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[마케팅플랜]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[선후배님들은 취미가 뭐에요?]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38672</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38672"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[델몬트두리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스마트스토어 1달이 약간 지난 시점입니다.]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38681</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38681"/>
+        <updated>2022-03-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[마케팅플랜]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[광고업계의 주목을 받고 있는 OSV]]></title>
