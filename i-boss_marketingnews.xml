@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 22:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 01:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[3월 29일 마케팅 뉴스클리핑] 침대 없이 월 매장 매출 1억... MZ세대 붙잡은 시몬스 마케팅 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8475</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8475</guid>
+            <pubDate>Tue, 29 Mar 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 침대 없이 월 매장 매출 1억... MZ세대 붙잡은 시몬스 마케팅  침대와 접점을 찾기 힘든 시몬스의 팝업스토어는 시몬스가 추구하는 `팬덤 마케팅`의 결정체다. 평균 교체 주기가 7년인 침대의 특성을 소비자와 브랜드 사이에 애 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e45183a790e8dd179fa4fd1212846dff_18473_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 이후 매년 증가하는 메타버스 온라인 버즈량최근 1년간 10배 이상 증가]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8476</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8447</guid>
             <pubDate>Tue, 22 Mar 2022 11:14:00 GMT</pubDate>
             <content:encoded><![CDATA[애드테크 글로벌 리더 및 프로그래매틱 광고 전문 기업으로서 전 세계 DSP 시장을 선도하고 있는 더 트레이드 데스크 (The Trade Desk, NASDAQ: TDD)는어도비 리얼타임 고객 데이터 플랫폼 (Adobe Real-Time Customer Data Platform)과 새롭게 연동되 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[원마일웨어부터 스트리트 캐주얼 까지 빅사이즈 의류 시장 성장]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8446</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8446</guid>
-            <pubDate>Tue, 22 Mar 2022 10:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근 패션업계는 획일화된 미의 기준에서 벗어나 내 몸을 있는 그대로 사랑하자는 취지의 바디 포지티브(Body Positive) 트렌드가 부상하고 있다.사회가 정한 고정관념에서 벗어나 각자의 개성과 아름다움을 받아들이고 인정한다 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
