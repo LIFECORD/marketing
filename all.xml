@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 14:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 15:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -189,18 +189,18 @@
             <content:encoded><![CDATA[재비]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[잘 키운 SNS로 수익과 브랜딩을 한 번에! `SNS로 돈 벌.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-445</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-445</guid>
-            <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케팅 관련 자격증은 뭐가 있나요? 2022 ver (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57397</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57397</guid>
             <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마미손]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잘 키운 SNS로 수익과 브랜딩을 한 번에! `SNS로 돈 벌.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-445</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-445</guid>
+            <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스마트스토어 10일만에 주문건 100건 넘겼습니다. (아이보스 ─ 인기글)]]></title>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8449</guid>
             <pubDate>Wed, 23 Mar 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인스타그램이 일반 이용자에게도 '이 기능'을 확대하겠다고 밝혔습니다. 주로 크리에이터들이 홍보 게시물에서 이용했던 이 기능은 무엇일까요?(hint: 퀴즈에 힌트 한 방울~ 3/24 뉴스클리핑 보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 29 Mar 2022 14:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->인스타그램이 일반 이용자에게도 '이 기능'을 확대하겠다고 밝혔습니다. 주로 크리에이터들이 홍보 게시물에서 이용했던 이 기능은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8455" target="_blank">퀴즈에 힌트 한 방울~ 3/24 뉴스클리핑 보기!</a>)</span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1389_1" value="1" class="AB-radio" id="PQ_BD5826_1389_1_0"><label for="PQ_BD5826_1389_1_0" id="label_PQ_BD5826_1389_1_0">(A) 릴스</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1389_1" value="2" class="AB-radio" id="PQ_BD5826_1389_1_1"><label for="PQ_BD5826_1389_1_1" id="label_PQ_BD5826_1389_1_1">(B) 유료 구독</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1389_1" value="3" class="AB-radio" id="PQ_BD5826_1389_1_2"><label for="PQ_BD5826_1389_1_2" id="label_PQ_BD5826_1389_1_2">(C) 휴식</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1389_1" value="4" class="AB-radio" id="PQ_BD5826_1389_1_3"><label for="PQ_BD5826_1389_1_3" id="label_PQ_BD5826_1389_1_3">(D) 제품 태그</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시, 소상공인 지킴자금 '현금 100만 원' 신청 기간 재연장 실시 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
