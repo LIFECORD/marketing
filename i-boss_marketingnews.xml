@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 23:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 01:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이지에이웍스-신한은행 금융 디지털전환 위한 데이터 협력 MOU 체결]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8481</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8481</guid>
+            <pubDate>Wed, 30 Mar 2022 08:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최대 빅데이터 플랫폼 기업 아이지에이웍스가 신한은행과 손을 잡고 금융데이터 분야에 진출한다. 아이지에이웍스(대표 마국성)는 신한은행과 금융 데이터 역량 강화 및 신규 사업 추진을 위한MOU를 체결했다고30일 밝혔다 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[마그나, 2022년 미국 광고 전망 1.5포인트 하향 수정... 러시아의 우크라니아 침공 영향]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8480</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8480</guid>
+            <pubDate>Wed, 30 Mar 2022 08:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[러시아의 우크라이나 침공은 광고산업에 어떤 영향을 미칠까? IPG 미디어브랜드는 러시아의 우크라이나 침공은 광고산업에거시적 영향을 미침에 따라미국의 광고 성장률 전망을 3개월 전보다 1.5%포인트 낮췄다. 마그나는 12월에 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[3월 30일 마케팅 뉴스클리핑] 편의점 빅3의 메타버스, 거창한 마케팅과 달리 속 빈 강정 외]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8478</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8452</guid>
             <pubDate>Wed, 23 Mar 2022 09:16:00 GMT</pubDate>
             <content:encoded><![CDATA[데이터 인사이트 컨설팅 기업 칸타코리아(대표 양정열)가 이요셉 전 하바스코리아 대표이사를 최고성장책임자(Chief Growth Officer, CGO)겸 부대표로 선임한다고 발표했다. 칸타코리아는 지난11월 최고고객책임자(Chief Client Officer, CCO) ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[구글의 10년된 분석 플랫폼이 사라진다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8451</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8451</guid>
-            <pubDate>Wed, 23 Mar 2022 08:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 2023년에 유니버설 애널리틱스(UA)를 단계적으로 폐지하고 구글 애널리틱스4를 채택할 것이라고 발표했다. 구글에 따르면, 2023년 7월 1일 유니버설 애널리틱스속성은 신규 조회수처리를 중지하고, 새로운 유니버설 애널리 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[SNS광고마케터 자격증 들어보셨어요?]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8450</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8450</guid>
-            <pubDate>Wed, 23 Mar 2022 08:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국정보통신진흥협회(KAIT)가 SNS광고마케터 자격증 시험을 처음으로 4월 23일 실시한다. SNS 이용 확산으로 전문적인 검증 체계 구축을 원하는 요구가 높아졌짐에 따라, 협회는 지난해 자체 설문 조사를 통해 SNS 광고 마케팅 분야 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
