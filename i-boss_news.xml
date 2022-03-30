@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-03-30T04:24:59.811Z</updated>
+    <updated>2022-03-30T06:24:17.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[무신사, 라방 '무신사 라이브' 100회 기록...평균 매출 1억2500만원]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8483</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8483"/>
+        <updated>2022-03-30T06:23:52.248Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년 현재 한국인이 가장 많이 소비한 라면 브랜드는? '농심', '오뚜기']]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8482</id>
@@ -207,12 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-8454"/>
         <updated>2022-03-23T07:19:45.140Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국정보통신진흥협회, SNS광고마케터 자격시험 4월 첫 시행]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8453</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8453"/>
-        <updated>2022-03-23T05:18:11.633Z</updated>
-        <content type="html"><![CDATA[유리나]]></content>
     </entry>
 </feed>

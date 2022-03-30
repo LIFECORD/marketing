@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 04:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 06:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무신사, 라방 무신사 라이브 100회 기록...평균 매출 1억2500만원]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8483</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8483</guid>
+            <pubDate>Wed, 30 Mar 2022 06:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 패션 스토어 무신사는 라이브 커머스 서비스 `무신사 라이브`가 100회를 맞았다고 30일 밝혔다.   무신사 라이브 방송을 100회 진행하는 동안 누적 거래액은 120억원을 돌파했다. 1시간가량 진행되는 방송당 평균 매출은 1억2 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1bae2c61cb797f760f61b3a4d07b75d8_96792_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년 현재 한국인이 가장 많이 소비한 라면 브랜드는? 농심, 오뚜기]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8482</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Mar 2022 07:19:30 GMT</pubDate>
             <content:encoded><![CDATA[질문 답변을 대화 형식으로... 3D증강현실(AR) 등도 활용 AI가 답하고 출처도 제공... 적용 주제군 확대 예정   네이버가 인공지능(AI)과 사람처럼 대화하듯 질문하며 원하는 정보를 검색하는 `지식인터랙티브` 서비스를 출시했다.   ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_24d9997956352bb1d423b8f7362b1243_18030_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국정보통신진흥협회, SNS광고마케터 자격시험 4월 첫 시행]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8453</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8453</guid>
-            <pubDate>Wed, 23 Mar 2022 11:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국정보통신진흥협회(이하 협회)는 SNS 광고 분야의 전문 인재양성을 위하여 SNS광고마케터 신규자격시험을 4월 23일에 첫 시행한다고 밝혔다.      DMC 미디어의 `21년 소셜 미디어 시장 및 현황분석`에 의하면 우리나라 국민의 SNS  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_7f64e1a2e8cdd2dbf922c822742e8bf4_16480107258775.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
