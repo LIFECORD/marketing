@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 01:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 02:58:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -266,18 +266,18 @@
             <content:encoded><![CDATA[rdg]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[무신사 vs 크림, 목숨 건 짝퉁 공방 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57278</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57278</guid>
-            <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[모다모다가 핫해진 이유, 내가 마케팅함! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57444</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57444</guid>
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[무신사 vs 크림, 목숨 건 짝퉁 공방 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57278</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57278</guid>
+            <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[블로그 검색노출? 유료 정보 그냥 풉니다(삭제될 수.. (아이보스 ─ 인기글)]]></title>
@@ -336,6 +336,13 @@
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[GFA 일매출 400만원, 로아스 500% 어떻게 만드는 걸까? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57423</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57423</guid>
+            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[팀ROAS]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[광고업계의 주목을 받고 있는 OSV (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57322</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57322</guid>
@@ -343,11 +350,12 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[GFA 일매출 400만원, 로아스 500% 어떻게 만드는 걸까? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57423</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57423</guid>
-            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[팀ROAS]]></content:encoded>
+            <title><![CDATA[2022년 현재 한국인이 가장 많이 소비한 라면 브랜드는? 농심, 오뚜기 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8482</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8482</guid>
+            <pubDate>Wed, 30 Mar 2022 10:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[올해 온라인에서 판매된 라면 브랜드 구매금액의 82%가 농심과 오뚜기 점유 온라인에서 많이 구매된 라면 제품은 `농심 신라면 120g`   지난해 세계라면협회의 발표에 따르면 한국인 1인당 라면 소비량은 연평균 75.1개인 것으로 조 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_db957e0b596e6109648205973cb8d0d3_84753_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[아이지에이웍스-신한은행 금융 디지털전환 위한 데이터 협력 MOU 체결 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,25 +590,24 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_7f64e1a2e8cdd2dbf922c822742e8bf4_16480107258775.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[칸타코리아, 이요셉 신임 부대표 선임 디지털 전환 속 고객의 비즈니스 성장 도울 것 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8452</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8452</guid>
-            <pubDate>Wed, 23 Mar 2022 09:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[데이터 인사이트 컨설팅 기업 칸타코리아(대표 양정열)가 이요셉 전 하바스코리아 대표이사를 최고성장책임자(Chief Growth Officer, CGO)겸 부대표로 선임한다고 발표했다. 칸타코리아는 지난11월 최고고객책임자(Chief Client Officer, CCO) ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[2022년 현재 한국인이 가장 많이 소비한 라면 브랜드는? '농심', '오뚜기' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8482</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8482</guid>
+            <pubDate>Wed, 30 Mar 2022 02:57:45 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아이지에이웍스-신한은행 금융 디지털전환 위한 데이터 협력 MOU 체결 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8481</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8481</guid>
-            <pubDate>Wed, 30 Mar 2022 01:17:26 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2022 08:43:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마그나, 2022년 미국 광고 전망 1.5포인트 하향 수정... 러시아의 우크라니아 침공 영향 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8480</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8480</guid>
-            <pubDate>Wed, 30 Mar 2022 01:17:26 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2022 08:43:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[칸타코리아, 이요셉 신임 부대표 선임 “디지털 전환 속 고객의 비즈니스 성장 도울 것” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8452</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8452</guid>
-            <pubDate>Wed, 23 Mar 2022 09:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네이버 스마트스토어 스타일윈도 신청 조건으로 적절한 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 30 Mar 2022 01:17:39 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2022 02:57:57 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버 스마트스토어 스타일윈도 신청 조건으로 적절한 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

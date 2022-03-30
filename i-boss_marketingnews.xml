@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 01:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 02:58:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 현재 한국인이 가장 많이 소비한 라면 브랜드는? 농심, 오뚜기]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8482</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8482</guid>
+            <pubDate>Wed, 30 Mar 2022 10:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[올해 온라인에서 판매된 라면 브랜드 구매금액의 82%가 농심과 오뚜기 점유 온라인에서 많이 구매된 라면 제품은 `농심 신라면 120g`   지난해 세계라면협회의 발표에 따르면 한국인 1인당 라면 소비량은 연평균 75.1개인 것으로 조 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_db957e0b596e6109648205973cb8d0d3_84753_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아이지에이웍스-신한은행 금융 디지털전환 위한 데이터 협력 MOU 체결]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8481</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Mar 2022 11:59:00 GMT</pubDate>
             <content:encoded><![CDATA[한국정보통신진흥협회(이하 협회)는 SNS 광고 분야의 전문 인재양성을 위하여 SNS광고마케터 신규자격시험을 4월 23일에 첫 시행한다고 밝혔다.      DMC 미디어의 `21년 소셜 미디어 시장 및 현황분석`에 의하면 우리나라 국민의 SNS  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_7f64e1a2e8cdd2dbf922c822742e8bf4_16480107258775.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칸타코리아, 이요셉 신임 부대표 선임 디지털 전환 속 고객의 비즈니스 성장 도울 것]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8452</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8452</guid>
-            <pubDate>Wed, 23 Mar 2022 09:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[데이터 인사이트 컨설팅 기업 칸타코리아(대표 양정열)가 이요셉 전 하바스코리아 대표이사를 최고성장책임자(Chief Growth Officer, CGO)겸 부대표로 선임한다고 발표했다. 칸타코리아는 지난11월 최고고객책임자(Chief Client Officer, CCO) ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
