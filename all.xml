@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 22:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 23:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,18 +231,18 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SNS광고마케터 1급 샘플 문제 A/B형 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-3208-767</link>
-            <guid>https://www.i-boss.co.kr/ab-3208-767</guid>
-            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[유리나]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[블로그 검색노출? 유료 정보 그냥 풉니다(삭제될 수.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57431</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57431</guid>
             <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅코치마코]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SNS광고마케터 1급 샘플 문제 A/B형 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-3208-767</link>
+            <guid>https://www.i-boss.co.kr/ab-3208-767</guid>
+            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아묻따 '반품'은 이제 그만 (아이보스 ─ 인기글)]]></title>
@@ -336,6 +336,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[1급 SNS광고마케터가 되어보자! `SNS광고마케터 1급` 도.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-452</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-452</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[리터없쓔 마감되쓔] 원하는 만큼 리터 드려요 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38666</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38666</guid>
@@ -343,11 +350,20 @@
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[입소문 바이럴 마케팅의 5가지 원칙 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57457</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57457</guid>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
+            <title><![CDATA[[3월 31일 마케팅 뉴스클리핑] 톱스타로 뜬 스타트업들 웃었다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8485</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8485</guid>
+            <pubDate>Thu, 31 Mar 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 톱스타로 뜬 스타트업들 웃었다  대기업의 전유물로 여겨졌던 `톱스타 광고`가 스타트업으로 확산하고 있다. 인지도를 높이고 가입자를 크게 늘릴 수 있기 때문이다. 마케팅 효과가 기대치에 미치지 못하면 비용이 막대한 부 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16486377574534.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 퍼브매틱의 기술과 광고 솔루션으로 한국의 크리에이터, 개발자, 퍼블리셔를 지원하겠습니다 정성호 퍼브매틱 한국 시장 사업개발 담당 이사 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8486</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8486</guid>
+            <pubDate>Thu, 31 Mar 2022 07:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[코로나 19 팬더믹 이후 디지털 광고와 애드테크 산업은 격변의 시기를 맞으며 폭발적으로 성장하고 있다.사람들의 이동이 줄어들고 재택근무가 보편화되면서 소비자들이 더 많은 시간을 인터넷에서 보내고 있기 때문이다. 격변 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 부산국제광고제, 글로벌 매드 아카데미 수강생 모집 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -574,20 +590,18 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e3d13e40cfcb74b9515265d0f16b468c_16481117716995.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[3월 24일 마케팅 뉴스클리핑] 인스타그램 제품 태그, 일반 이용자로도 확대 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8455</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8455</guid>
-            <pubDate>Thu, 24 Mar 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 인스타그램 `제품 태그`, 일반 이용자로도 확대  인스타그램이 일반 이용자들도 사진 속 제품 태그 기능을 확대한다. 해당 기능은 미국 전체 이용자를 대상으로 순차 확대될 예정이다. 제품 태그는 주로 크리에이터들이 협찬  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_6fd37f1cb54b785ac84671002d334b08_19560_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[3월 31일 마케팅 뉴스클리핑] 톱스타로 뜬 스타트업들 웃었다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8485</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8485</guid>
+            <pubDate>Wed, 30 Mar 2022 23:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국PR협회, 베이징 올림픽을 계기로 본 올림픽과 스포츠 그리고 소통을 주제로 PR피플토크 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8456</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8456</guid>
-            <pubDate>Wed, 23 Mar 2022 13:26:43 GMT</pubDate>
-            <content:encoded><![CDATA[한국PR협회(회장 김주호)는3월30일 오후4시,윤강로 국제스포츠외교연구원 원장과 홍문기 한세대 교수가 베이징 올림픽을 계기로 본 올림픽과 스포츠 그리고 소통을 주제로 열번째PR피플 토크(People Talk)행사를 진행한다고 밝혔다. ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[인터뷰] `퍼브매틱의 기술과 광고 솔루션으로 한국의 크리에이터, 개발자, 퍼블리셔를 지원하겠습니다` 정성호 퍼브매틱 한국 시장 사업개발 담당 이.. (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8486</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8486</guid>
+            <pubDate>Wed, 30 Mar 2022 23:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 부산국제광고제, ‘글로벌 매드 아카데미’ 수강생 모집 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -786,18 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[3월 24일 마케팅 뉴스클리핑] 인스타그램 '제품 태그', 일반 이용자로도 확대 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8455</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8455</guid>
-            <pubDate>Thu, 24 Mar 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국PR협회, "베이징 올림픽을 계기로 본 올림픽과 스포츠 그리고 소통"을 주제로 PR피플토크 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8456</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8456</guid>
-            <pubDate>Wed, 23 Mar 2022 13:26:43 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[다음 대화를 통해 알 수 있는 ROI와 ROAS는 각각 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Wed, 30 Mar 2022 23:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 대화를 통해 알 수 있는 ROI와 ROAS는 각각 얼마일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/2ee5197323693ea539d794bc1d54dbd8_16484470100728.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1391_1" value="1" class="AB-radio" id="PQ_BD5826_1391_1_0"><label for="PQ_BD5826_1391_1_0" id="label_PQ_BD5826_1391_1_0">(A) ROI=200%, ROAS=350%</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1391_1" value="2" class="AB-radio" id="PQ_BD5826_1391_1_1"><label for="PQ_BD5826_1391_1_1" id="label_PQ_BD5826_1391_1_1">(B) ROI=300%, ROAS=400%</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1391_1" value="3" class="AB-radio" id="PQ_BD5826_1391_1_2"><label for="PQ_BD5826_1391_1_2" id="label_PQ_BD5826_1391_1_2">(C) ROI=350%, ROAS=450%</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1391_1" value="4" class="AB-radio" id="PQ_BD5826_1391_1_3"><label for="PQ_BD5826_1391_1_3" id="label_PQ_BD5826_1391_1_3">(D) ROI=400%, ROAS=450%</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시, 소상공인 지킴자금 '현금 100만 원' 신청 기간 재연장 실시 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
