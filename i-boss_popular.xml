@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-03-30T02:58:07.082Z</updated>
+    <updated>2022-03-30T03:33:21.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -139,13 +139,6 @@
         <content type="html"><![CDATA[jinhorus]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무신사 vs 크림, 목숨 건 짝퉁 공방]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57278</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57278"/>
-        <updated>2022-02-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[블로그 검색노출? 유료 정보 그냥 풉니다(삭제될 수..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57431</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57431"/>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57322"/>
         <updated>2022-03-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[리터없쓔 마감되쓔] 원하는 만큼 리터 드려요]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38666</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38666"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[놀토]]></content>
     </entry>
 </feed>
