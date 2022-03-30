@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 06:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 07:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,18 +182,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[초보 마케터 필독, 3분 만에 A/B 테스트 이해하고 체크.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57383</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57383</guid>
-            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[재비]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케팅 관련 자격증은 뭐가 있나요? 2022 ver (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57397</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57397</guid>
             <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마미손]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[초보 마케터 필독, 3분 만에 A/B 테스트 이해하고 체크.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57383</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57383</guid>
+            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[재비]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[잘 키운 SNS로 수익과 브랜딩을 한 번에! `SNS로 돈 벌.. (아이보스 ─ 인기글)]]></title>
@@ -301,18 +301,18 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[좋아요가 늘어나는 유니콘 콘텐츠 만들기 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57381</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57381</guid>
-            <pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[업스타그램]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케팅 책 추천, 이럴 땐 이런 책을! - 책장공개 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57437</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57437</guid>
             <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[리유]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[좋아요가 늘어나는 유니콘 콘텐츠 만들기 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57381</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57381</guid>
+            <pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[업스타그램]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[선후배님들은 취미가 뭐에요? (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38666</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[놀토]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 부산국제광고제, 글로벌 매드 아카데미 수강생 모집 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8484</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8484</guid>
+            <pubDate>Wed, 30 Mar 2022 07:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제광고제가 글로벌 매드 아카데미(Global MAD Academy, 이하 아카데미)의 올 상반기 수강생을 모집한다. 글로벌 매드 아카데미는 글로벌 광고마케팅디지털 분야 통합 실무 교육 플랫폼으로, 지난해 첫선을 보였다. 해당 아카데 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[무신사, 라방 무신사 라이브 100회 기록...평균 매출 1억2500만원 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,18 +590,17 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[질문하면 AI가 대화하듯 답변... 네이버 지식인터랙티브 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8454</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8454</guid>
-            <pubDate>Wed, 23 Mar 2022 07:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[질문 답변을 대화 형식으로... 3D증강현실(AR) 등도 활용 AI가 답하고 출처도 제공... 적용 주제군 확대 예정   네이버가 인공지능(AI)과 사람처럼 대화하듯 질문하며 원하는 정보를 검색하는 `지식인터랙티브` 서비스를 출시했다.   ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_24d9997956352bb1d423b8f7362b1243_18030_1.png" length="0" type="image/png"/>
+            <title><![CDATA[2022 부산국제광고제, ‘글로벌 매드 아카데미’ 수강생 모집 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8484</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8484</guid>
+            <pubDate>Wed, 30 Mar 2022 07:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[무신사, 라방 '무신사 라이브' 100회 기록...평균 매출 1억2500만원 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8483</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8483</guid>
-            <pubDate>Wed, 30 Mar 2022 06:23:52 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2022 06:23:37 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[질문하면 AI가 대화하듯 답변... 네이버 '지식인터랙티브' 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8454</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8454</guid>
-            <pubDate>Wed, 23 Mar 2022 07:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네이버 스마트스토어 스타일윈도 신청 조건으로 적절한 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 30 Mar 2022 06:24:06 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2022 07:19:34 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버 스마트스토어 스타일윈도 신청 조건으로 적절한 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

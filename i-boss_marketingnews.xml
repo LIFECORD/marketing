@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 06:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 07:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 부산국제광고제, 글로벌 매드 아카데미 수강생 모집]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8484</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8484</guid>
+            <pubDate>Wed, 30 Mar 2022 07:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제광고제가 글로벌 매드 아카데미(Global MAD Academy, 이하 아카데미)의 올 상반기 수강생을 모집한다. 글로벌 매드 아카데미는 글로벌 광고마케팅디지털 분야 통합 실무 교육 플랫폼으로, 지난해 첫선을 보였다. 해당 아카데 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[무신사, 라방 무신사 라이브 100회 기록...평균 매출 1억2500만원]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8483</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Mar 2022 13:26:43 GMT</pubDate>
             <content:encoded><![CDATA[한국PR협회(회장 김주호)는3월30일 오후4시,윤강로 국제스포츠외교연구원 원장과 홍문기 한세대 교수가 베이징 올림픽을 계기로 본 올림픽과 스포츠 그리고 소통을 주제로 열번째PR피플 토크(People Talk)행사를 진행한다고 밝혔다. ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[질문하면 AI가 대화하듯 답변... 네이버 지식인터랙티브 출시]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8454</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8454</guid>
-            <pubDate>Wed, 23 Mar 2022 07:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[질문 답변을 대화 형식으로... 3D증강현실(AR) 등도 활용 AI가 답하고 출처도 제공... 적용 주제군 확대 예정   네이버가 인공지능(AI)과 사람처럼 대화하듯 질문하며 원하는 정보를 검색하는 `지식인터랙티브` 서비스를 출시했다.   ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_24d9997956352bb1d423b8f7362b1243_18030_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
