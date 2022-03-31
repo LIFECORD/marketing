@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 06:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 07:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버, 일본 라인에 AI검색상품 추천 등 쇼핑 탐색 기술 적용]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8488</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8488</guid>
+            <pubDate>Thu, 31 Mar 2022 07:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[네이버가 AI검색, 카탈로그, 상품 추천 등 쇼핑 관련 탐색 기술을 일본 라인 쇼핑 서비스에 적용하고 나섰다.   네이버는 쇼핑 관련 탐색 기술을 바탕으로 일본 내 다양한 상품 데이터를 체계화해 라인 쇼핑에 10억개에 달하는  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16487085257376.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[해외 크리에이티브] 맥도날드가 광고에서 쓰레기를 보여주는 이유는?]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8487</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 25 Mar 2022 08:38:00 GMT</pubDate>
             <content:encoded><![CDATA[매드타임스는 지난 8일한국광고총연합회와트위터코리아와 함께 `광고커뮤니케이션 업계 여성 리더와 CEO` 특별 좌담회를 진행했다. 이 특별 좌담회는 세계 여성의 날을 맞이하여 마련됐으며, 광고업계를 대표하는 여성 리더와 C ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[3월 25일 마케팅 뉴스클리핑] 쿠팡, 와우멤버십 2900원  4990원 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8457</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8457</guid>
-            <pubDate>Fri, 25 Mar 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 쿠팡, 와우멤버십 2900원  4990원  쿠팡이 신규 회원에 이어 기존 회원에 대해서도 와우 멤버십 회비를 인상한다. 6월 10일 이후 첫 결제일부터 월 2900원에서 4990원으로 가격이 변경된다. 적자에 시달리는 쿠팡은 이를 통해 연간  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_37717e802ffb4baea92f877984fbb54a_17450_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
