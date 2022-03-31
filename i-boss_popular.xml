@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-03-31T12:33:10.568Z</updated>
+    <updated>2022-03-31T13:28:51.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -74,13 +74,6 @@
         <link href="https://www.i-boss.co.kr/ab-2973-445"/>
         <updated>2022-03-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[당첨대쓔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스마트스토어 10일만에 주문건 100건 넘겼습니다.]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38524</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38524"/>
-        <updated>2022-03-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[마케팅플랜]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐]]></title>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57423"/>
         <updated>2022-03-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[팀ROAS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[광고업계의 주목을 받고 있는 OSV]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57322</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57322"/>
+        <updated>2022-03-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
 </feed>
