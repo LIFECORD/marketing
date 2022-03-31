@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 23:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 01:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MZ를 공략하는 마케팅 코드 10가지]]></title>
+            <link>https://qletter.i-boss.co.kr/view/933159-MZ%EB%A5%BC_%EA%B3%B5%EB%9E%B5%ED%95%98%EB%8A%94_%EB%A7%88%EC%BC%80%ED%8C%85_%EC%BD%94%EB%93%9C_10%EA%B0%80%EC%A7%80/</link>
+            <guid>https://qletter.i-boss.co.kr/view/933159-MZ%EB%A5%BC_%EA%B3%B5%EB%9E%B5%ED%95%98%EB%8A%94_%EB%A7%88%EC%BC%80%ED%8C%85_%EC%BD%94%EB%93%9C_10%EA%B0%80%EC%A7%80/</guid>
+            <pubDate>Thu, 31 Mar 2022 01:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/933159-MZ를_공략하는_마케팅_코드_10가지/">
+						<div class="thumb"><img src="/images/qletter_933159.png"></div>
+						<p><strong>MZ를 공략하는 마케팅 코드 10가지</strong>2022.03.31</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_933159.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[음은 이제 종료됐'음']]></title>
             <link>https://qletter.i-boss.co.kr/view/926679-%EC%9D%8C%EC%9D%80_%EC%9D%B4%EC%A0%9C_%EC%A2%85%EB%A3%8C%EB%90%90%EC%9D%8C/</link>
@@ -127,17 +138,6 @@
 						<p><strong>갈 곳을 잃은 맞춤형 광고</strong>2022.02.21</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_879017.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[큐레터 님이 라방에 접속하셨습니다!]]></title>
-            <link>https://qletter.i-boss.co.kr/view/875647-%ED%81%90%EB%A0%88%ED%84%B0_%EB%8B%98%EC%9D%B4_%EB%9D%BC%EB%B0%A9%EC%97%90_%EC%A0%91%EC%86%8D%ED%95%98%EC%85%A8%EC%8A%B5%EB%8B%88%EB%8B%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/875647-%ED%81%90%EB%A0%88%ED%84%B0_%EB%8B%98%EC%9D%B4_%EB%9D%BC%EB%B0%A9%EC%97%90_%EC%A0%91%EC%86%8D%ED%95%98%EC%85%A8%EC%8A%B5%EB%8B%88%EB%8B%A4/</guid>
-            <pubDate>Thu, 17 Feb 2022 01:54:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/875647-큐레터_님이_라방에_접속하셨습니다/">
-						<div class="thumb"><img src="/images/qletter_875647.png"></div>
-						<p><strong>큐레터 님이 라방에 접속하셨습니다!</strong>2022.02.17</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_875647.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

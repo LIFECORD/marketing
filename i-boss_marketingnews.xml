@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 23:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 01:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외 크리에이티브] 맥도날드가 광고에서 쓰레기를 보여주는 이유는?]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8487</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8487</guid>
+            <pubDate>Thu, 31 Mar 2022 09:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[쉽고 빠르고 편하게 식사할 수 있는 곳, 바로 패스트푸드다. 패스트푸드는 빠르고 편한 만큼 환경에는 도움이 되지 않는다. 매장 내외에서 식사 후에 버려지는 포장지를 쉽게 볼 수 있기 때문이다. 그래서 많은 업체들이 포장을  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[3월 31일 마케팅 뉴스클리핑] 톱스타로 뜬 스타트업들 웃었다 외]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8485</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 25 Mar 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 쿠팡, 와우멤버십 2900원  4990원  쿠팡이 신규 회원에 이어 기존 회원에 대해서도 와우 멤버십 회비를 인상한다. 6월 10일 이후 첫 결제일부터 월 2900원에서 4990원으로 가격이 변경된다. 적자에 시달리는 쿠팡은 이를 통해 연간  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_37717e802ffb4baea92f877984fbb54a_17450_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제30회 국민이 선택 좋은 광고상 시상식 개최... 대상, 문체부장관상, 좋은 광고상 등 총 35점 시상]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8458</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8458</guid>
-            <pubDate>Thu, 24 Mar 2022 09:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[한국광고주협회(회장 최선목)는 3월 24일(목) 오후 2시여의도 FKI 컨퍼런스센터 그랜드볼룸에서 제30회 국민이 선택한 좋은 광고상 시상식을 개최했다.이 날 시상식에서는 대상 및 문화체육관광부장관상,TV / 디지털 / 인쇄 / OOH /  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e3d13e40cfcb74b9515265d0f16b468c_16481117716995.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

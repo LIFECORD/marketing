@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 23:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 01:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MZ를 공략하는 마케팅 코드 10가지 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/933159-MZ%EB%A5%BC_%EA%B3%B5%EB%9E%B5%ED%95%98%EB%8A%94_%EB%A7%88%EC%BC%80%ED%8C%85_%EC%BD%94%EB%93%9C_10%EA%B0%80%EC%A7%80/</link>
+            <guid>https://qletter.i-boss.co.kr/view/933159-MZ%EB%A5%BC_%EA%B3%B5%EB%9E%B5%ED%95%98%EB%8A%94_%EB%A7%88%EC%BC%80%ED%8C%85_%EC%BD%94%EB%93%9C_10%EA%B0%80%EC%A7%80/</guid>
+            <pubDate>Thu, 31 Mar 2022 01:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/933159-MZ를_공략하는_마케팅_코드_10가지/">
+						<div class="thumb"><img src="/images/qletter_933159.png"></div>
+						<p><strong>MZ를 공략하는 마케팅 코드 10가지</strong>2022.03.31</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_933159.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[음은 이제 종료됐'음' (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/926679-%EC%9D%8C%EC%9D%80_%EC%9D%B4%EC%A0%9C_%EC%A2%85%EB%A3%8C%EB%90%90%EC%9D%8C/</link>
@@ -129,17 +140,6 @@
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_879017.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[큐레터 님이 라방에 접속하셨습니다! (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/875647-%ED%81%90%EB%A0%88%ED%84%B0_%EB%8B%98%EC%9D%B4_%EB%9D%BC%EB%B0%A9%EC%97%90_%EC%A0%91%EC%86%8D%ED%95%98%EC%85%A8%EC%8A%B5%EB%8B%88%EB%8B%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/875647-%ED%81%90%EB%A0%88%ED%84%B0_%EB%8B%98%EC%9D%B4_%EB%9D%BC%EB%B0%A9%EC%97%90_%EC%A0%91%EC%86%8D%ED%95%98%EC%85%A8%EC%8A%B5%EB%8B%88%EB%8B%A4/</guid>
-            <pubDate>Thu, 17 Feb 2022 01:54:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/875647-큐레터_님이_라방에_접속하셨습니다/">
-						<div class="thumb"><img src="/images/qletter_875647.png"></div>
-						<p><strong>큐레터 님이 라방에 접속하셨습니다!</strong>2022.02.17</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_875647.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[지금까지 모은 마케팅 개꿀팁 유용한 사이트 모음!!(8.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57310</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57310</guid>
@@ -203,18 +203,18 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스마트스토어 10일만에 주문건 100건 넘겼습니다. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38524</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38524</guid>
-            <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케터가 마케팅 핵심 이해하는 지식 40부작 시리즈 [.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57315</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57315</guid>
             <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스마트스토어 10일만에 주문건 100건 넘겼습니다. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38524</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38524</guid>
+            <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐 (아이보스 ─ 인기글)]]></title>
@@ -259,18 +259,18 @@
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[타부서에서  마케팅팀에 제대로 정보를 안줄 때 어떻.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38537</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38537</guid>
-            <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[rdg]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[모다모다가 핫해진 이유, 내가 마케팅함! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57444</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57444</guid>
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[타부서에서  마케팅팀에 제대로 정보를 안줄 때 어떻.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38537</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38537</guid>
+            <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[rdg]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐 (아이보스 ─ 인기글)]]></title>
@@ -308,6 +308,13 @@
             <content:encoded><![CDATA[업스타그램]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[1급 SNS광고마케터가 되어보자! `SNS광고마케터 1급` 도.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-452</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-452</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[스마트스토어 1달이 약간 지난 시점입니다. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38681</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38681</guid>
@@ -336,18 +343,19 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[1급 SNS광고마케터가 되어보자! `SNS광고마케터 1급` 도.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-452</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-452</guid>
-            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+            <title><![CDATA[입소문 바이럴 마케팅의 5가지 원칙 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57457</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57457</guid>
+            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[리터없쓔 마감되쓔] 원하는 만큼 리터 드려요 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38666</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38666</guid>
-            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[놀토]]></content:encoded>
+            <title><![CDATA[[해외 크리에이티브] 맥도날드가 광고에서 쓰레기를 보여주는 이유는? (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8487</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8487</guid>
+            <pubDate>Thu, 31 Mar 2022 09:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[쉽고 빠르고 편하게 식사할 수 있는 곳, 바로 패스트푸드다. 패스트푸드는 빠르고 편한 만큼 환경에는 도움이 되지 않는다. 매장 내외에서 식사 후에 버려지는 포장지를 쉽게 볼 수 있기 때문이다. 그래서 많은 업체들이 포장을  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[3월 31일 마케팅 뉴스클리핑] 톱스타로 뜬 스타트업들 웃었다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,25 +590,24 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_37717e802ffb4baea92f877984fbb54a_17450_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제30회 국민이 선택 좋은 광고상 시상식 개최... 대상, 문체부장관상, 좋은 광고상 등 총 35점 시상 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8458</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8458</guid>
-            <pubDate>Thu, 24 Mar 2022 09:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[한국광고주협회(회장 최선목)는 3월 24일(목) 오후 2시여의도 FKI 컨퍼런스센터 그랜드볼룸에서 제30회 국민이 선택한 좋은 광고상 시상식을 개최했다.이 날 시상식에서는 대상 및 문화체육관광부장관상,TV / 디지털 / 인쇄 / OOH /  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e3d13e40cfcb74b9515265d0f16b468c_16481117716995.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[해외 크리에이티브] 맥도날드가 광고에서 쓰레기를 보여주는 이유는? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8487</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8487</guid>
+            <pubDate>Thu, 31 Mar 2022 01:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[3월 31일 마케팅 뉴스클리핑] 톱스타로 뜬 스타트업들 웃었다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8485</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8485</guid>
-            <pubDate>Wed, 30 Mar 2022 23:18:22 GMT</pubDate>
+            <pubDate>Thu, 31 Mar 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] `퍼브매틱의 기술과 광고 솔루션으로 한국의 크리에이터, 개발자, 퍼블리셔를 지원하겠습니다` 정성호 퍼브매틱 한국 시장 사업개발 담당 이.. (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8486</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8486</guid>
-            <pubDate>Wed, 30 Mar 2022 23:18:22 GMT</pubDate>
+            <pubDate>Thu, 31 Mar 2022 07:57:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘제30회 국민이 선택 좋은 광고상’ 시상식 개최... 대상, 문체부장관상, 좋은 광고상 등 총 35점 시상 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8458</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8458</guid>
-            <pubDate>Thu, 24 Mar 2022 09:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 대화를 통해 알 수 있는 ROI와 ROAS는 각각 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 30 Mar 2022 23:18:35 GMT</pubDate>
+            <pubDate>Thu, 31 Mar 2022 01:16:51 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 대화를 통해 알 수 있는 ROI와 ROAS는 각각 얼마일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/2ee5197323693ea539d794bc1d54dbd8_16484470100728.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
