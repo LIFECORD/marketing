@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 22:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 23:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[4월 1일 마케팅 뉴스클리핑] 무신사, 비디오 콘텐츠 큐레이션 숏TV 론칭 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8490</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8490</guid>
+            <pubDate>Fri, 01 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 무신사, 비디오 콘텐츠 큐레이션 `숏TV` 론칭  무신사는 콘텐츠 큐레이션 서비스인 `숏TV`를 다음 달 정식으로 선보인다고 밝혔다. 10~30초 길이의 짧은 영상에서 무신사 스토어 입점 브랜드나 주요 상품 등을 이용자에게 선보이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2519b08dc6da1dad2b8609bf63540c90_56873_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애드저스트 x 앱토피아, 모바일 마케터를 위한 가상화폐 앱 가이드 2022 공개]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8489</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8461</guid>
             <pubDate>Fri, 25 Mar 2022 08:56:00 GMT</pubDate>
             <content:encoded><![CDATA[메타버스시장이급속도로성장하는가운데,대홍기획(대표이사:홍성현)은메타버스플랫폼전문기업오썸피아(대표이사:민문호)에전략적투자를진행했다.대홍기획은오썸피아가자체개발한XR디지털망원경BORA및가상관광메타버스플랫 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[에스티로더, 디센트럴랜드 메타버스 패션 위크에 유일한 뷰티 파트너로 참가]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8460</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8460</guid>
-            <pubDate>Fri, 25 Mar 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[에스티로더가 메타버스에서 개최되는 사상 첫 대규모 가상 패션 위크 디센트럴랜드 메타버스 패션 위크(Decentraland Metaverse Fashion Week)에 유일한 뷰티 브랜드로 참가할 예정이다. 에스티로더는 남다른 가상 뷰티 경험을 창출하기  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

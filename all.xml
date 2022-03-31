@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 22:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 23:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[4월 1일 마케팅 뉴스클리핑] 무신사, 비디오 콘텐츠 큐레이션 숏TV 론칭 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8490</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8490</guid>
+            <pubDate>Fri, 01 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 무신사, 비디오 콘텐츠 큐레이션 `숏TV` 론칭  무신사는 콘텐츠 큐레이션 서비스인 `숏TV`를 다음 달 정식으로 선보인다고 밝혔다. 10~30초 길이의 짧은 영상에서 무신사 스토어 입점 브랜드나 주요 상품 등을 이용자에게 선보이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2519b08dc6da1dad2b8609bf63540c90_56873_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[애드저스트 x 앱토피아, 모바일 마케터를 위한 가상화폐 앱 가이드 2022 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8489</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8489</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[에스티로더, 디센트럴랜드 메타버스 패션 위크에 유일한 뷰티 파트너로 참가 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8460</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8460</guid>
-            <pubDate>Fri, 25 Mar 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[에스티로더가 메타버스에서 개최되는 사상 첫 대규모 가상 패션 위크 디센트럴랜드 메타버스 패션 위크(Decentraland Metaverse Fashion Week)에 유일한 뷰티 브랜드로 참가할 예정이다. 에스티로더는 남다른 가상 뷰티 경험을 창출하기  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[4월 1일 마케팅 뉴스클리핑] 무신사, 비디오 콘텐츠 큐레이션 '숏TV' 론칭 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8490</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8490</guid>
+            <pubDate>Thu, 31 Mar 2022 23:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[애드저스트 x 앱토피아, 모바일 마케터를 위한 ‘가상화폐 앱 가이드 2022’ 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에스티로더, 디센트럴랜드 메타버스 패션 위크에 유일한 뷰티 파트너로 참가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8460</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8460</guid>
-            <pubDate>Fri, 25 Mar 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[앱스토어에서 사용자가 앱을 검색할 때, 검색 결과 최상단에 연관성 높은 앱을 노출시켜주는 애플의 검색광고 서비스는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Thu, 31 Mar 2022 23:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->앱스토어에서 사용자가 앱을 검색할 때, 검색 결과 최상단에 연관성 높은 앱을 노출시켜주는 애플의 검색광고 서비스는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1392_1" value="1" class="AB-radio" id="PQ_BD5826_1392_1_0"><label for="PQ_BD5826_1392_1_0" id="label_PQ_BD5826_1392_1_0">(A) 메인애드</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1392_1" value="2" class="AB-radio" id="PQ_BD5826_1392_1_1"><label for="PQ_BD5826_1392_1_1" id="label_PQ_BD5826_1392_1_1">(B) 배너애드</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1392_1" value="3" class="AB-radio" id="PQ_BD5826_1392_1_2"><label for="PQ_BD5826_1392_1_2" id="label_PQ_BD5826_1392_1_2">(C) 서치애드</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1392_1" value="4" class="AB-radio" id="PQ_BD5826_1392_1_3"><label for="PQ_BD5826_1392_1_3" id="label_PQ_BD5826_1392_1_3">(D) 팝업애드</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시, 소상공인 지킴자금 '현금 100만 원' 신청 기간 재연장 실시 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
