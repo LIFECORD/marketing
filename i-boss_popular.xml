@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-03-31T10:21:14.679Z</updated>
+    <updated>2022-03-31T11:16:16.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[마케팅코치마코]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모다모다가 핫해진 이유, 내가 마케팅함!]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57444</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57444"/>
-        <updated>2022-03-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[jinhorus]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[1급 SNS광고마케터가 되어보자! `SNS광고마케터 1급` 도..]]></title>
         <id>https://www.i-boss.co.kr/ab-2973-452</id>
         <link href="https://www.i-boss.co.kr/ab-2973-452"/>
         <updated>2022-03-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[당첨대쓔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모다모다가 핫해진 이유, 내가 마케팅함!]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57444</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57444"/>
+        <updated>2022-03-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[jinhorus]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[투린이들을 위한 지침서 `돈, 뜨겁게 사랑하고 차갑..]]></title>
