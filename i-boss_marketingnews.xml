@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 07:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 08:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애드저스트 x 앱토피아, 모바일 마케터를 위한 가상화폐 앱 가이드 2022 공개]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8489</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8489</guid>
+            <pubDate>Thu, 31 Mar 2022 08:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[모바일 마케팅 애널리틱스 플랫폼애드저스트(Adjust)와 앱 인텔리전스 회사앱토피아(Apptopia)는31일 모바일 마케터들을 위한 Adjust가상화폐 앱 가이드2022를 출간했다. 애드저스트와앱토피아의 합작으로 출시된 이번 가이드는 전세 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[네이버, 일본 라인에 AI검색상품 추천 등 쇼핑 탐색 기술 적용]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8488</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8460</guid>
             <pubDate>Fri, 25 Mar 2022 08:39:00 GMT</pubDate>
             <content:encoded><![CDATA[에스티로더가 메타버스에서 개최되는 사상 첫 대규모 가상 패션 위크 디센트럴랜드 메타버스 패션 위크(Decentraland Metaverse Fashion Week)에 유일한 뷰티 브랜드로 참가할 예정이다. 에스티로더는 남다른 가상 뷰티 경험을 창출하기  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[특별 좌담회] 리더가 되는 것을 두려워 하지 마세요 여성 리더들의 솔직당당 TALK]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8459</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8459</guid>
-            <pubDate>Fri, 25 Mar 2022 08:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[매드타임스는 지난 8일한국광고총연합회와트위터코리아와 함께 `광고커뮤니케이션 업계 여성 리더와 CEO` 특별 좌담회를 진행했다. 이 특별 좌담회는 세계 여성의 날을 맞이하여 마련됐으며, 광고업계를 대표하는 여성 리더와 C ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

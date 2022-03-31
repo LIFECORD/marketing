@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 07:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 08:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,6 +252,13 @@
             <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[1급 SNS광고마케터가 되어보자! `SNS광고마케터 1급` 도.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-452</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-452</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[아묻따 '반품'은 이제 그만 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57360</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57360</guid>
@@ -264,13 +271,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57321</guid>
             <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1급 SNS광고마케터가 되어보자! `SNS광고마케터 1급` 도.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-452</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-452</guid>
-            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[타부서에서  마케팅팀에 제대로 정보를 안줄 때 어떻.. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57322</guid>
             <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[애드저스트 x 앱토피아, 모바일 마케터를 위한 가상화폐 앱 가이드 2022 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8489</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8489</guid>
+            <pubDate>Thu, 31 Mar 2022 08:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[모바일 마케팅 애널리틱스 플랫폼애드저스트(Adjust)와 앱 인텔리전스 회사앱토피아(Apptopia)는31일 모바일 마케터들을 위한 Adjust가상화폐 앱 가이드2022를 출간했다. 애드저스트와앱토피아의 합작으로 출시된 이번 가이드는 전세 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[네이버, 일본 라인에 AI검색상품 추천 등 쇼핑 탐색 기술 적용 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,18 +590,17 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[특별 좌담회] 리더가 되는 것을 두려워 하지 마세요 여성 리더들의 솔직당당 TALK (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8459</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8459</guid>
-            <pubDate>Fri, 25 Mar 2022 08:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[매드타임스는 지난 8일한국광고총연합회와트위터코리아와 함께 `광고커뮤니케이션 업계 여성 리더와 CEO` 특별 좌담회를 진행했다. 이 특별 좌담회는 세계 여성의 날을 맞이하여 마련됐으며, 광고업계를 대표하는 여성 리더와 C ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[애드저스트 x 앱토피아, 모바일 마케터를 위한 ‘가상화폐 앱 가이드 2022’ 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8489</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8489</guid>
+            <pubDate>Thu, 31 Mar 2022 08:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버, 일본 라인에 AI검색·상품 추천 등 쇼핑 탐색 기술 적용 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8488</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8488</guid>
-            <pubDate>Thu, 31 Mar 2022 07:18:42 GMT</pubDate>
+            <pubDate>Thu, 31 Mar 2022 07:18:32 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[특별 좌담회] “리더가 되는 것을 두려워 하지 마세요” 여성 리더들의 솔직당당 TALK (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8459</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8459</guid>
-            <pubDate>Fri, 25 Mar 2022 08:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 대화를 통해 알 수 있는 ROI와 ROAS는 각각 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 31 Mar 2022 07:18:55 GMT</pubDate>
+            <pubDate>Thu, 31 Mar 2022 08:21:58 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 대화를 통해 알 수 있는 ROI와 ROAS는 각각 얼마일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/2ee5197323693ea539d794bc1d54dbd8_16484470100728.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
