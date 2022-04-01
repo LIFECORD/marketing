@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 01:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 03:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페이스북, 알고리즘 오류로 허위정보 노출 급증]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8494</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8494</guid>
+            <pubDate>Fri, 01 Apr 2022 11:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[`다운랭킹` 시스템 작동 안해최대 30% 가량 더 노출   메타가 운영하는 소셜네트워크서비스(SNS) 페이스북에서 알고리즘 오류로 잘못된 정보 노출이 급증했던 것으로 확인됐다.   더 버지는 31일(현지시간) 페이스북 뉴스피드의 소 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[닐슨, 160억 달러에 사모펀드 컨소시엄에 팔린다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8493</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8465</guid>
             <pubDate>Sat, 26 Mar 2022 09:36:00 GMT</pubDate>
             <content:encoded><![CDATA[최근 SNS 상에서 가장 핫한 곳이 있다. 바로 동대문 디자인 플라자(DDP)에서 열린 전시, 구찌 가든 아키타이프다. 신종 코로나 바이러스 팬더믹 상황에서 100주년을 맞은 구찌 전시회는 개막과 동시에 전체 예약 일정이 마감되며 화 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[트렌드모니터] 방역 중요하지만 규제 완화도 필요해... 거세지는 일상 회복 욕구]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8464</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8464</guid>
-            <pubDate>Sat, 26 Mar 2022 09:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[시장조사전문기업 엠브레인 트렌드모니터가 전국 만 19~59세 성인 남녀를 대상으로 2022 위드 코로나 이후 라이프스타일 변화에 대한 설문조사를 실시한 결과 집합 금지 등 사회적 모임 제한 조치에 대한 부정적 인식이 증가하고  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
