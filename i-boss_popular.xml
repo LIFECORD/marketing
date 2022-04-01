@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-01T07:18:36.875Z</updated>
+    <updated>2022-04-01T08:23:31.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[jinhorus]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고객 관점 컨텐츠 만들기 (올라운더식 컨텐츠제작법)]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57331</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57331"/>
-        <updated>2022-03-07T12:28:28.679Z</updated>
-        <content type="html"><![CDATA[올라운더마케팅]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[1급 SNS광고마케터가 되어보자! `SNS광고마케터 1급` 도..]]></title>
         <id>https://www.i-boss.co.kr/ab-2973-452</id>
         <link href="https://www.i-boss.co.kr/ab-2973-452"/>
         <updated>2022-03-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[당첨대쓔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고객 관점 컨텐츠 만들기 (올라운더식 컨텐츠제작법)]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57331</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57331"/>
+        <updated>2022-03-07T12:28:28.679Z</updated>
+        <content type="html"><![CDATA[올라운더마케팅]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마케팅밈] 마케터 해골물]]></title>
@@ -139,13 +139,6 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[타부서에서  마케팅팀에 제대로 정보를 안줄 때 어떻..]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38537</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38537"/>
-        <updated>2022-03-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[rdg]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57345</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57345"/>
@@ -153,18 +146,18 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[입소문 바이럴 마케팅의 5가지 원칙]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57457</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57457"/>
-        <updated>2022-03-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[둥근마을]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[영상 기획! 참고하면 좋은 사이트들!!]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57449</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57449"/>
         <updated>2022-03-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[영상팁]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[입소문 바이럴 마케팅의 5가지 원칙]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57457</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57457"/>
+        <updated>2022-03-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[둥근마을]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스마트스토어 어느 정도는 이해가 되었습니다.]]></title>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57487"/>
         <updated>2022-03-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[jinhorus]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFA 일매출 400만원, 로아스 500% 어떻게 만드는 걸까?]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57423</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57423"/>
+        <updated>2022-03-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[팀ROAS]]></content>
     </entry>
 </feed>

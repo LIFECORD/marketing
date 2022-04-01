@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 07:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 08:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -154,18 +154,18 @@
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[고객 관점 컨텐츠 만들기 (올라운더식 컨텐츠제작법) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57331</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57331</guid>
-            <pubDate>Mon, 07 Mar 2022 12:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[올라운더마케팅]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[1급 SNS광고마케터가 되어보자! `SNS광고마케터 1급` 도.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-452</link>
             <guid>https://www.i-boss.co.kr/ab-2973-452</guid>
             <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고객 관점 컨텐츠 만들기 (올라운더식 컨텐츠제작법) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57331</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57331</guid>
+            <pubDate>Mon, 07 Mar 2022 12:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[올라운더마케팅]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 마케터 해골물 (아이보스 ─ 인기글)]]></title>
@@ -273,13 +273,6 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[타부서에서  마케팅팀에 제대로 정보를 안줄 때 어떻.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38537</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38537</guid>
-            <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[rdg]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57345</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57345</guid>
@@ -287,18 +280,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[입소문 바이럴 마케팅의 5가지 원칙 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57457</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57457</guid>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[영상 기획! 참고하면 좋은 사이트들!! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57449</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57449</guid>
             <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[영상팁]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[입소문 바이럴 마케팅의 5가지 원칙 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57457</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57457</guid>
+            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스마트스토어 어느 정도는 이해가 되었습니다. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +341,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57487</guid>
             <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GFA 일매출 400만원, 로아스 500% 어떻게 만드는 걸까? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57423</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57423</guid>
+            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[팀ROAS]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[페이스북, 알고리즘 오류로 허위정보 노출 급증 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[앱스토어에서 사용자가 앱을 검색할 때, 검색 결과 최상단에 연관성 높은 앱을 노출시켜주는 애플의 검색광고 서비스는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 01 Apr 2022 07:18:26 GMT</pubDate>
+            <pubDate>Fri, 01 Apr 2022 08:23:22 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->앱스토어에서 사용자가 앱을 검색할 때, 검색 결과 최상단에 연관성 높은 앱을 노출시켜주는 애플의 검색광고 서비스는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
