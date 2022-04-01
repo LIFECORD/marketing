@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 09:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 10:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,13 @@
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[매출 15억 찍고 망한썰 그리고 배운점. 저처럼 하지 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57492</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57492</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[REBEL]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[투린이들을 위한 지침서 `돈, 뜨겁게 사랑하고 차갑.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-448</link>
             <guid>https://www.i-boss.co.kr/ab-2973-448</guid>
@@ -250,13 +257,6 @@
             <guid>https://www.i-boss.co.kr/ab-3208-767</guid>
             <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[유리나]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[매출 15억 찍고 망한썰 그리고 배운점. 저처럼 하지 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57492</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57492</guid>
-            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[REBEL]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022ver. 무료폰트 추천! (디자이너 pick) (아이보스 ─ 인기글)]]></title>
@@ -280,18 +280,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영상 기획! 참고하면 좋은 사이트들!! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57449</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57449</guid>
-            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[영상팁]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[입소문 바이럴 마케팅의 5가지 원칙 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57457</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57457</guid>
             <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[영상 기획! 참고하면 좋은 사이트들!! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57449</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57449</guid>
+            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영상팁]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스마트스토어 어느 정도는 이해가 되었습니다. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[앱스토어에서 사용자가 앱을 검색할 때, 검색 결과 최상단에 연관성 높은 앱을 노출시켜주는 애플의 검색광고 서비스는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 01 Apr 2022 09:17:52 GMT</pubDate>
+            <pubDate>Fri, 01 Apr 2022 10:21:38 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->앱스토어에서 사용자가 앱을 검색할 때, 검색 결과 최상단에 연관성 높은 앱을 노출시켜주는 애플의 검색광고 서비스는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
