@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 22:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 23:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,6 +798,19 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8465</guid>
             <pubDate>Sat, 26 Mar 2022 09:36:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[앱스토어에서 사용자가 앱을 검색할 때, 검색 결과 최상단에 연관성 높은 앱을 노출시켜주는 애플의 검색광고 서비스는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Fri, 01 Apr 2022 23:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->앱스토어에서 사용자가 앱을 검색할 때, 검색 결과 최상단에 연관성 높은 앱을 노출시켜주는 애플의 검색광고 서비스는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1392_1" value="1" class="AB-radio" id="PQ_BD5826_1392_1_0"><label for="PQ_BD5826_1392_1_0" id="label_PQ_BD5826_1392_1_0">(A) 메인애드</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1392_1" value="2" class="AB-radio" id="PQ_BD5826_1392_1_1"><label for="PQ_BD5826_1392_1_1" id="label_PQ_BD5826_1392_1_1">(B) 배너애드</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1392_1" value="3" class="AB-radio" id="PQ_BD5826_1392_1_2"><label for="PQ_BD5826_1392_1_2" id="label_PQ_BD5826_1392_1_2">(C) 서치애드</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1392_1" value="4" class="AB-radio" id="PQ_BD5826_1392_1_3"><label for="PQ_BD5826_1392_1_3" id="label_PQ_BD5826_1392_1_3">(D) 팝업애드</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시, 소상공인 지킴자금 '현금 100만 원' 신청 기간 재연장 실시 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
