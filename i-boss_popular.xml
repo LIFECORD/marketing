@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-02T10:19:32.446Z</updated>
+    <updated>2022-04-02T11:15:26.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[지금까지 모은 마케팅 개꿀팁 유용한 사이트 모음!!(8..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57310</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57310"/>
-        <updated>2022-03-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[리유]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[난 오늘도 올리브영에 100만 원을 쓴다]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57393</id>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57322"/>
         <updated>2022-03-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[리터없쓔 마감되쓔] 원하는 만큼 리터 드려요]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38666</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38666"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[놀토]]></content>
     </entry>
 </feed>
