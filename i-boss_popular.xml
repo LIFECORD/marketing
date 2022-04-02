@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-01T23:19:00.200Z</updated>
+    <updated>2022-04-02T01:17:29.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -181,18 +181,18 @@
         <content type="html"><![CDATA[yoorok]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[좋아요가 늘어나는 유니콘 콘텐츠 만들기]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57381</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57381"/>
-        <updated>2022-03-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[업스타그램]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아이유 크림으로 월 20억 매출 내다가 망한 썰]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57487</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57487"/>
         <updated>2022-03-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[jinhorus]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[좋아요가 늘어나는 유니콘 콘텐츠 만들기]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57381</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57381"/>
+        <updated>2022-03-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[업스타그램]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스마트스토어 1달이 약간 지난 시점입니다.]]></title>

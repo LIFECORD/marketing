@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 23:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 01:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -315,18 +315,18 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[좋아요가 늘어나는 유니콘 콘텐츠 만들기 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57381</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57381</guid>
-            <pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[업스타그램]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[아이유 크림으로 월 20억 매출 내다가 망한 썰 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57487</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57487</guid>
             <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[좋아요가 늘어나는 유니콘 콘텐츠 만들기 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57381</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57381</guid>
+            <pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[업스타그램]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스마트스토어 1달이 약간 지난 시점입니다. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57423</guid>
             <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[팀ROAS]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[인포그래픽] 3월에 러시아에서 가장 많이 다운로드된 앱 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8496</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8496</guid>
+            <pubDate>Sat, 02 Apr 2022 09:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2월 러시아가 우크라이나를 침공한 후, 서구 기업들이 러시아에서 서비스를 중단하고 있다. 이는 테크 쪽에서도 예외는 아니다. 그렇다면 서구 기업들의 서비스 중단이 시작된 3월, 러시아에서 다운로드된 앱은 어떤 변화 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[페이스북, 알고리즘 오류로 허위정보 노출 급증 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[명품 브랜드의 절대적 전형; 구찌 가든 아키타이프 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8465</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8465</guid>
-            <pubDate>Sat, 26 Mar 2022 09:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근 SNS 상에서 가장 핫한 곳이 있다. 바로 동대문 디자인 플라자(DDP)에서 열린 전시, 구찌 가든 아키타이프다. 신종 코로나 바이러스 팬더믹 상황에서 100주년을 맞은 구찌 전시회는 개막과 동시에 전체 예약 일정이 마감되며 화 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[인포그래픽] 3월에 러시아에서 가장 많이 다운로드된 앱 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8496</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8496</guid>
+            <pubDate>Sat, 02 Apr 2022 01:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[페이스북, 알고리즘 오류로 허위정보 노출 급증 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[명품 브랜드의 절대적 전형; 구찌 가든 아키타이프 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8465</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8465</guid>
-            <pubDate>Sat, 26 Mar 2022 09:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[앱스토어에서 사용자가 앱을 검색할 때, 검색 결과 최상단에 연관성 높은 앱을 노출시켜주는 애플의 검색광고 서비스는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 01 Apr 2022 23:18:51 GMT</pubDate>
+            <pubDate>Sat, 02 Apr 2022 01:17:20 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->앱스토어에서 사용자가 앱을 검색할 때, 검색 결과 최상단에 연관성 높은 앱을 노출시켜주는 애플의 검색광고 서비스는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
