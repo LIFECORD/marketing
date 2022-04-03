@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-03T21:16:45.161Z</updated>
+    <updated>2022-04-03T22:19:35.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[jinhorus]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[아이유 크림으로 월 20억 매출 내다가 망한 썰]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57487</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57487"/>
+        <updated>2022-03-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[jinhorus]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[투린이들을 위한 지침서 `돈, 뜨겁게 사랑하고 차갑..]]></title>
         <id>https://www.i-boss.co.kr/ab-2973-448</id>
         <link href="https://www.i-boss.co.kr/ab-2973-448"/>
@@ -102,13 +109,6 @@
         <link href="https://www.i-boss.co.kr/ab-3208-767"/>
         <updated>2022-03-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[유리나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유 크림으로 월 20억 매출 내다가 망한 썰]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57487</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57487"/>
-        <updated>2022-03-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[jinhorus]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아묻따 '반품'은 이제 그만]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[영상팁]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57345</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57345"/>
-        <updated>2022-03-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[입소문 바이럴 마케팅의 5가지 원칙]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57457</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57457"/>
         <updated>2022-03-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[둥근마을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57345</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57345"/>
+        <updated>2022-03-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스마트스토어 어느 정도는 이해가 되었습니다.]]></title>
