@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 22:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 23:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[4월 4일 마케팅 뉴스클리핑] 구글 인앱결제 정책 시행... 수수료 최고 30% 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8495</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8495</guid>
+            <pubDate>Mon, 04 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 구글 인앱결제 정책 시행... 수수료 최고 30%  인앱결제법 `꼼수 우회` 논란에도 구글이 이달부터 자사 결제정책을 강행한다. 구글플레이에 등록된 게임콘텐츠 등의 앱은 구글이 마련한 자체 결제 시스템인 `구글플레이 인앱결 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16488051681798.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[타임, 2022 가장 영향력 있는 100대 기업 선정... 한국 기업으로는 하이브와 더핑크퐁컴퍼니 선정]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8500</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 27 Mar 2022 09:33:00 GMT</pubDate>
             <content:encoded><![CDATA[출처 펩시콜라   콜라에 크리에이티브 붐이 불고 있다. 코카콜라는 우주 맛을 선보였고, 펩시는 나이트로 콜라 출시를 앞두고 있다. 이번에는 메이플 시럽콜라를 아이홉(IHOP)과 컬래버레이션해서 출시한다. 아이홉은 우리나라  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e5919ac4a18f710830ad8994dbc7a35b_35035_6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외 크리에이티브] 신주쿠에 거대한 3D 에어맥스가 나타나다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8470</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8470</guid>
-            <pubDate>Sun, 27 Mar 2022 09:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[3월 26일이 무슨 날일까? 에어맥스 데이다. 에어맥스 데이는 1987년 3월 26일 첫 선을 보인 나이키 시그니처 운동화 에어맥스의 탄생을 기념하는 날로 올해 35주년을 맞았다. 에어맥스 데이를 기념하기 위해나이키는 도쿄 신주쿠  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_7482c6903bbb20f9f64c8c17e3218b3e_43142_6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
