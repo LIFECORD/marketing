@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-04-02T23:17:51.016Z</updated>
+    <updated>2022-04-03T01:20:22.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[타임, "2022 가장 영향력 있는 100대 기업" 선정... ﻿한국 기업으로는 하이브와 더핑크퐁컴퍼니 선정]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8500</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8500"/>
+        <updated>2022-04-03T01:20:01.170Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인포그래픽] 숲은 얼마나 사라졌을까?]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8499</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8499"/>
+        <updated>2022-04-03T01:20:01.172Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 유튜브 대세는 숏무비!]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8498</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8498"/>
+        <updated>2022-04-03T01:20:01.179Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신중년, 90% 스크린 골프장 경험 있다... 선호하는 스크린 골프는 ‘골프존’, 야외 골프는 ‘스카이72cc’]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8497</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8497"/>
+        <updated>2022-04-03T01:20:01.181Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인포그래픽] 3월에 러시아에서 가장 많이 다운로드된 앱]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8496</id>
@@ -185,34 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-8470</id>
         <link href="https://www.i-boss.co.kr/ab-2877-8470"/>
         <updated>2022-03-27T04:26:41.781Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페이스북, 인스타그램에서 3D 광고한다]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8469</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8469"/>
-        <updated>2022-03-27T04:26:41.782Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브리지타워 캐피털, 세계적 아트 펀드 아르테문디와 프란시스코 고야 NFT 시리즈 출시]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8468</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8468"/>
-        <updated>2022-03-27T04:26:41.783Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버즈빌, 애드테크 리워드 기업 아바티 인수...앱 수익 극대화]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8467</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8467"/>
-        <updated>2022-03-26T05:17:09.341Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방통위, 종합편성PP 방송광고판매대행사업자 3개사 재허가 의결]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8466</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8466"/>
-        <updated>2022-03-26T05:17:09.342Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
