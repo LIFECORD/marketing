@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 23:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 01:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바이 UA👋 하이 GA4🙋‍]]></title>
+            <link>https://qletter.i-boss.co.kr/view/937199-%EB%B0%94%EC%9D%B4_UA_%ED%95%98%EC%9D%B4_GA4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/937199-%EB%B0%94%EC%9D%B4_UA_%ED%95%98%EC%9D%B4_GA4/</guid>
+            <pubDate>Mon, 04 Apr 2022 01:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/937199-바이_UA_하이_GA4/">
+						<div class="thumb"><img src="/images/qletter_937199.png"></div>
+						<p><strong>바이 UA👋 하이 GA4🙋‍</strong>2022.04.04</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_937199.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MZ를 공략하는 마케팅 코드 10가지]]></title>
             <link>https://qletter.i-boss.co.kr/view/933159-MZ%EB%A5%BC_%EA%B3%B5%EB%9E%B5%ED%95%98%EB%8A%94_%EB%A7%88%EC%BC%80%ED%8C%85_%EC%BD%94%EB%93%9C_10%EA%B0%80%EC%A7%80/</link>
@@ -127,17 +138,6 @@
 						<p><strong>가난한 회사의 마케터로 살아남기</strong>2022.02.24</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_885281.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[갈 곳을 잃은 맞춤형 광고]]></title>
-            <link>https://qletter.i-boss.co.kr/view/879017-%EA%B0%88_%EA%B3%B3%EC%9D%84_%EC%9E%83%EC%9D%80_%EB%A7%9E%EC%B6%A4%ED%98%95_%EA%B4%91%EA%B3%A0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/879017-%EA%B0%88_%EA%B3%B3%EC%9D%84_%EC%9E%83%EC%9D%80_%EB%A7%9E%EC%B6%A4%ED%98%95_%EA%B4%91%EA%B3%A0/</guid>
-            <pubDate>Mon, 21 Feb 2022 02:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/879017-갈_곳을_잃은_맞춤형_광고/">
-						<div class="thumb"><img src="/images/qletter_879017.png"></div>
-						<p><strong>갈 곳을 잃은 맞춤형 광고</strong>2022.02.21</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_879017.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
