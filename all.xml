@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 08:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 09:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,18 +196,18 @@
             <content:encoded><![CDATA[재비]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38684</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38684</guid>
-            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[아이유 크림으로 월 20억 매출 내다가 망한 썰 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57487</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57487</guid>
             <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38684</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38684</guid>
+            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[모다모다가 핫해진 이유, 내가 마케팅함! (아이보스 ─ 인기글)]]></title>
@@ -252,18 +252,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영상 기획! 참고하면 좋은 사이트들!! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57449</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57449</guid>
-            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[영상팁]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[입소문 바이럴 마케팅의 5가지 원칙 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57457</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57457</guid>
             <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[영상 기획! 참고하면 좋은 사이트들!! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57449</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57449</guid>
+            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영상팁]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐 (아이보스 ─ 인기글)]]></title>
@@ -322,18 +322,18 @@
             <content:encoded><![CDATA[팀ROAS]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[광고업계의 주목을 받고 있는 OSV (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57322</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57322</guid>
-            <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[나만 알고 싶은 무료폰트 [고딕편] (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57504</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57504</guid>
             <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[광고업계의 주목을 받고 있는 OSV (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57322</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57322</guid>
+            <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[리터없쓔 마감되쓔] 원하는 만큼 리터 드려요 (아이보스 ─ 인기글)]]></title>
@@ -593,7 +593,7 @@
             <title><![CDATA[코로나 후 2년... 숙박 지역 다양해지고, 관광지 방문 줄어 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8507</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8507</guid>
-            <pubDate>Mon, 04 Apr 2022 08:22:35 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2022 08:22:21 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[최근 토스에서 '이 서비스'를 오픈한다고 밝혔습니다. '선구매 후결제' 방식으로 신용카드를 만들기 어려운 MZ세대 사이에서 각광을 받고 있는 이 서비스는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 04 Apr 2022 08:22:48 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2022 09:19:04 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 토스에서 '이 서비스'를 오픈한다고 밝혔습니다. '선구매 후결제' 방식으로 신용카드를 만들기 어려운 MZ세대 사이에서 각광을 받고 있는 이 서비스는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
