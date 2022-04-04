@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 22:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 23:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,18 +210,18 @@
             <content:encoded><![CDATA[REBEL]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38684</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38684</guid>
-            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[모다모다가 핫해진 이유, 내가 마케팅함! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57444</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57444</guid>
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38684</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38684</guid>
+            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[블로그 검색노출? 유료 정보 그냥 풉니다(삭제될 수.. (아이보스 ─ 인기글)]]></title>
@@ -315,6 +315,13 @@
             <content:encoded><![CDATA[델몬트두리안]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[UA 잘가! GA4 어서와! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57505</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57505</guid>
+            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[GFA 일매출 400만원, 로아스 500% 어떻게 만드는 걸까? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57423</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57423</guid>
@@ -336,18 +343,19 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[UA 잘가! GA4 어서와! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57505</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57505</guid>
-            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[리터없쓔 마감되쓔] 원하는 만큼 리터 드려요 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38666</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38666</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[놀토]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[4월 5일 마케팅 뉴스클리핑] 가품 판매 논란 무신사, 에센셜 판매 중단200% 보상 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8506</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8506</guid>
+            <pubDate>Tue, 05 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 가품 판매 논란 무신사, 에센셜 판매 중단200% 보상  네이버의 리셀 플랫폼 `크림`과 가품 판매 논란을 벌여온 무신사가 문제가 된 브랜드인 `피어 오브 갓 에센셜` 제품 판매를 중단하고 200% 보상에 나선다. 무신사는 피어 오브  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_9206b7855a8b0d0d65a5064d1b69066c_64014_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나 후 2년... 숙박 지역 다양해지고, 관광지 방문 줄어 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[아이언소스, 데이터에 기반해 의사 결정할 수 있도록 업계 최초의 모바일 게임 시장성 테스트 도구 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8477</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8477</guid>
-            <pubDate>Tue, 29 Mar 2022 11:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource, NYSE:IS)는 출시 전 게임 개발 방향성부터 시장 가능성 분석까지 가능한 업계 최초의 모바일 게임 앱용 시장성 테스트 도구를 정식 출시했다. 이번에 정식 론칭된 아이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[4월 5일 마케팅 뉴스클리핑] 가품 판매 논란 무신사, 에센셜 판매 중단·200% 보상 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8506</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8506</guid>
+            <pubDate>Mon, 04 Apr 2022 23:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나 후 2년... 숙박 지역 다양해지고, 관광지 방문 줄어 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이언소스, 데이터에 기반해 의사 결정할 수 있도록 업계 최초의 모바일 게임 ‘시장성 테스트 도구’ 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8477</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8477</guid>
-            <pubDate>Tue, 29 Mar 2022 11:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[다음 중 네이버 밴드에서 앱 종료 시 노출되는 1일 1광고주 단독 노출상품으로, 브랜드 인지효과 및 클릭을 극대화 할 수 있는 안드로이드 전용상품은 무엇일까요?(hint: 'SNS광고마케터 1급' 샘플 문제 풀고 정답을 캐치해보세요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Mon, 04 Apr 2022 23:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 중 네이버 밴드에서 앱 종료 시 노출되는 1일 1광고주 단독 노출상품으로, 브랜드 인지효과 및 클릭을 극대화 할 수 있는 안드로이드 전용상품은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-3208-767" target="_blank">'SNS광고마케터 1급' 샘플 문제 풀고 정답을 캐치해보세요!</a>)</span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1394_1" value="1" class="AB-radio" id="PQ_BD5826_1394_1_0"><label for="PQ_BD5826_1394_1_0" id="label_PQ_BD5826_1394_1_0">(A) 네이티브 광고</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1394_1" value="2" class="AB-radio" id="PQ_BD5826_1394_1_1"><label for="PQ_BD5826_1394_1_1" id="label_PQ_BD5826_1394_1_1">(B) 스마트채널 광고</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1394_1" value="3" class="AB-radio" id="PQ_BD5826_1394_1_2"><label for="PQ_BD5826_1394_1_2" id="label_PQ_BD5826_1394_1_2">(C) 동영상 광고</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1394_1" value="4" class="AB-radio" id="PQ_BD5826_1394_1_3"><label for="PQ_BD5826_1394_1_3" id="label_PQ_BD5826_1394_1_3">(D) 풀스크린 광고</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[중기부, 코로나19 확산 당시 지원자금·보증 9월까지 연장한다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

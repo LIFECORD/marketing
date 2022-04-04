@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 22:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 23:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[4월 5일 마케팅 뉴스클리핑] 가품 판매 논란 무신사, 에센셜 판매 중단200% 보상 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8506</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8506</guid>
+            <pubDate>Tue, 05 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 가품 판매 논란 무신사, 에센셜 판매 중단200% 보상  네이버의 리셀 플랫폼 `크림`과 가품 판매 논란을 벌여온 무신사가 문제가 된 브랜드인 `피어 오브 갓 에센셜` 제품 판매를 중단하고 200% 보상에 나선다. 무신사는 피어 오브  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_9206b7855a8b0d0d65a5064d1b69066c_64014_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나 후 2년... 숙박 지역 다양해지고, 관광지 방문 줄어]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8507</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8479</guid>
             <pubDate>Tue, 29 Mar 2022 09:18:11 GMT</pubDate>
             <content:encoded><![CDATA[광고는 대중의 소비문화를 비추는 거울과도 같다.소비문화란 한 시대에 나타나는 소비에 대한 생활양식을 뜻한다.이에 광고 속 언어와 이미지는 신문,라디오, TV등 언론매체를 이용하여 우리의 일상생활에 스며들며,상품의 소 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[아이언소스, 데이터에 기반해 의사 결정할 수 있도록 업계 최초의 모바일 게임 시장성 테스트 도구 출시]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8477</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8477</guid>
-            <pubDate>Tue, 29 Mar 2022 11:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource, NYSE:IS)는 출시 전 게임 개발 방향성부터 시장 가능성 분석까지 가능한 업계 최초의 모바일 게임 앱용 시장성 테스트 도구를 정식 출시했다. 이번에 정식 론칭된 아이 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
