@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 07:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 08:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나 후 2년... 숙박 지역 다양해지고, 관광지 방문 줄어]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8507</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8507</guid>
+            <pubDate>Mon, 04 Apr 2022 08:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19가 장기화되며 국내 숙박 예약 지역이 다양해지고, 방문하는 장소는 줄어드는 등 여행 트렌드가 변화한 것으로 나타났다.  먼저 호텔 예약은 수도권과 지방 광역시, 중소 도시(경상, 전라, 충청권)의 비중이 늘어나면서  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_114429da72d43757b900d87d51b0e1f8_94016_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[황장선 중앙대 교수, 제27대 한국광고학회 회장 취임]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8505</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 29 Mar 2022 11:06:00 GMT</pubDate>
             <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource, NYSE:IS)는 출시 전 게임 개발 방향성부터 시장 가능성 분석까지 가능한 업계 최초의 모바일 게임 앱용 시장성 테스트 도구를 정식 출시했다. 이번에 정식 론칭된 아이 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[3월 29일 마케팅 뉴스클리핑] 침대 없이 월 매장 매출 1억... MZ세대 붙잡은 시몬스 마케팅 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8475</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8475</guid>
-            <pubDate>Tue, 29 Mar 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 침대 없이 월 매장 매출 1억... MZ세대 붙잡은 시몬스 마케팅  침대와 접점을 찾기 힘든 시몬스의 팝업스토어는 시몬스가 추구하는 `팬덤 마케팅`의 결정체다. 평균 교체 주기가 7년인 침대의 특성을 소비자와 브랜드 사이에 애 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e45183a790e8dd179fa4fd1212846dff_18473_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
