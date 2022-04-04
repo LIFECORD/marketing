@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 01:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 03:04:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,13 +196,6 @@
             <content:encoded><![CDATA[재비]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블로그 검색노출? 유료 정보 그냥 풉니다(삭제될 수.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57431</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57431</guid>
-            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅코치마코]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38684</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38684</guid>
@@ -210,11 +203,11 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[매출 15억 찍고 망한썰 그리고 배운점. 저처럼 하지 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57492</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57492</guid>
-            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[REBEL]]></content:encoded>
+            <title><![CDATA[블로그 검색노출? 유료 정보 그냥 풉니다(삭제될 수.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57431</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57431</guid>
+            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅코치마코]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[모다모다가 핫해진 이유, 내가 마케팅함! (아이보스 ─ 인기글)]]></title>
@@ -222,6 +215,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57444</guid>
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[매출 15억 찍고 망한썰 그리고 배운점. 저처럼 하지 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57492</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57492</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[REBEL]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아이유 크림으로 월 20억 매출 내다가 망한 썰 (아이보스 ─ 인기글)]]></title>
@@ -294,18 +294,18 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[좋아요가 늘어나는 유니콘 콘텐츠 만들기 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57381</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57381</guid>
-            <pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[업스타그램]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[스마트스토어 1달이 약간 지난 시점입니다. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38681</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38681</guid>
             <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[좋아요가 늘어나는 유니콘 콘텐츠 만들기 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57381</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57381</guid>
+            <pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[업스타그램]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[선후배님들은 취미가 뭐에요? (아이보스 ─ 인기글)]]></title>
@@ -593,35 +593,35 @@
             <title><![CDATA[황장선 중앙대 교수, 제27대 한국광고학회 회장 취임 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8505</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8505</guid>
-            <pubDate>Mon, 04 Apr 2022 01:22:01 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2022 09:06:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[해외 크리에이티브] "Welcome to the Wendyverse!" 웬디스, 메타버스에서 버거를 판매하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8504</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8504</guid>
-            <pubDate>Mon, 04 Apr 2022 01:22:01 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2022 08:51:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미디어 인력난, 광고회사는 무엇을 하고 있나 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8503</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8503</guid>
-            <pubDate>Mon, 04 Apr 2022 01:22:01 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2022 08:50:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 세계에서 가장 큰 게임쇼 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8502</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8502</guid>
-            <pubDate>Mon, 04 Apr 2022 01:22:01 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2022 08:50:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나의 장기화는 스마트폰 이용에 더 큰 영향을 미쳤다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8501</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8501</guid>
-            <pubDate>Mon, 04 Apr 2022 01:22:01 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2022 08:49:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[최근 토스에서 '이 서비스'를 오픈한다고 밝혔습니다. '선구매 후결제' 방식으로 신용카드를 만들기 어려운 MZ세대 사이에서 각광을 받고 있는 이 서비스는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 04 Apr 2022 01:22:12 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2022 03:04:31 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 토스에서 '이 서비스'를 오픈한다고 밝혔습니다. '선구매 후결제' 방식으로 신용카드를 만들기 어려운 MZ세대 사이에서 각광을 받고 있는 이 서비스는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

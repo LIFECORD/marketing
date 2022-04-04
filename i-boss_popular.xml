@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-04T01:22:23.986Z</updated>
+    <updated>2022-04-04T03:04:42.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -62,13 +62,6 @@
         <content type="html"><![CDATA[재비]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[블로그 검색노출? 유료 정보 그냥 풉니다(삭제될 수..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57431</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57431"/>
-        <updated>2022-03-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[마케팅코치마코]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38684</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38684"/>
@@ -76,11 +69,11 @@
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[매출 15억 찍고 망한썰 그리고 배운점. 저처럼 하지 ..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57492</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57492"/>
-        <updated>2022-03-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[REBEL]]></content>
+        <title type="html"><![CDATA[블로그 검색노출? 유료 정보 그냥 풉니다(삭제될 수..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57431</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57431"/>
+        <updated>2022-03-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[마케팅코치마코]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[모다모다가 핫해진 이유, 내가 마케팅함!]]></title>
@@ -88,6 +81,13 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57444"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[jinhorus]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매출 15억 찍고 망한썰 그리고 배운점. 저처럼 하지 ..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57492</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57492"/>
+        <updated>2022-03-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[REBEL]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이유 크림으로 월 20억 매출 내다가 망한 썰]]></title>
@@ -160,18 +160,18 @@
         <content type="html"><![CDATA[yoorok]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[좋아요가 늘어나는 유니콘 콘텐츠 만들기]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57381</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57381"/>
-        <updated>2022-03-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[업스타그램]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스마트스토어 1달이 약간 지난 시점입니다.]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38681</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38681"/>
         <updated>2022-03-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[마케팅플랜]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[좋아요가 늘어나는 유니콘 콘텐츠 만들기]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57381</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57381"/>
+        <updated>2022-03-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[업스타그램]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[선후배님들은 취미가 뭐에요?]]></title>
