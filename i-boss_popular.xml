@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-05T03:30:22.095Z</updated>
+    <updated>2022-04-05T04:22:59.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[마미손]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[초보 마케터 필독, 3분 만에 A/B 테스트 이해하고 체크..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57383</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57383"/>
-        <updated>2022-03-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[재비]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[매출 15억 찍고 망한썰 그리고 배운점. 저처럼 하지 ..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57492</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57492"/>
         <updated>2022-03-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[REBEL]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[초보 마케터 필독, 3분 만에 A/B 테스트 이해하고 체크..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57383</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57383"/>
+        <updated>2022-03-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[재비]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐]]></title>
@@ -146,18 +146,18 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스마트스토어 1달이 약간 지난 시점입니다.]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38681</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38681"/>
-        <updated>2022-03-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[마케팅플랜]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[UA 잘가! GA4 어서와!]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57505</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57505"/>
         <updated>2022-04-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스마트스토어 1달이 약간 지난 시점입니다.]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38681</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38681"/>
+        <updated>2022-03-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[마케팅플랜]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[눈 떠보니 결제하고 있다?  구매욕 자극 법 3가지]]></title>
