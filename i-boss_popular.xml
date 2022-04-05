@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-05T04:22:59.022Z</updated>
+    <updated>2022-04-05T05:17:32.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -132,6 +132,13 @@
         <content type="html"><![CDATA[영상팁]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[UA 잘가! GA4 어서와!]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57505</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57505"/>
+        <updated>2022-04-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[스마트스토어 어느 정도는 이해가 되었습니다.]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38579</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38579"/>
@@ -143,13 +150,6 @@
         <id>https://www.i-boss.co.kr/ab-6141-57345</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57345"/>
         <updated>2022-03-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UA 잘가! GA4 어서와!]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57505</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57505"/>
-        <updated>2022-04-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
