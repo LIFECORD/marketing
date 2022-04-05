@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-05T07:18:28.903Z</updated>
+    <updated>2022-04-05T08:23:12.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[올라운더마케팅]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[마케팅밈] 마케터 해골물]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38572</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38572"/>
-        <updated>2022-03-10T07:16:32.439Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아이유 크림으로 월 20억 매출 내다가 망한 썰]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57487</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57487"/>
         <updated>2022-03-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[jinhorus]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마케팅밈] 마케터 해골물]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38572</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38572"/>
+        <updated>2022-03-10T07:16:32.439Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마우스 쓰지마세요, 우뇌가 알려주는 퇴근 땡기기 엑..]]></title>
@@ -111,17 +111,17 @@
         <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아묻따 '반품'은 이제 그만]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57360</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57360"/>
-        <updated>2022-03-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[UA 잘가! GA4 어서와!]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57505</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57505"/>
         <updated>2022-04-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아묻따 '반품'은 이제 그만]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57360</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57360"/>
+        <updated>2022-03-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
@@ -146,18 +146,18 @@
         <content type="html"><![CDATA[마케팅플랜]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57345</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57345"/>
-        <updated>2022-03-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[나만 알고 싶은 무료폰트 [고딕편]]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57504</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57504"/>
         <updated>2022-04-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[휴이언니]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57345</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57345"/>
+        <updated>2022-03-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스마트스토어 1달이 약간 지난 시점입니다.]]></title>
