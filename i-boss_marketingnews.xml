@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 23:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 01:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콘텐츠도 즐기고 기부도 하고 방구석 연구소, 식목일 맞아 산불피해 기부 캠페인 나무를 부탁해 4월 한달 진행]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8509</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8509</guid>
+            <pubDate>Tue, 05 Apr 2022 09:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[소프트스피어(대표 임하은)가 메타 콘텐츠 제작사 방구석 연구소와 메타 콘텐츠 오픈 플랫폼 메타브의 공동 기획으로 식목일을 맞아 나무를 부탁해 기부캠페인을 진행한다. 해당 캠페인은 이용자가 나를 나타내는 씨앗을 심고  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[MZ세대, 돈 더 내도 ESG 실천 기업 제품 사겠다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8508</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8508</guid>
+            <pubDate>Tue, 05 Apr 2022 08:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[ESG가 기업경영의 화두를 넘어 사회적 트렌드가 되고 있는 가운데, 새로운 소비주체로 부상한 MZ세대들은 제품 구매 시 기업의 ESG경영 실천여부를 중요하게 인식하는 것으로 조사됐다. 대한상공회의소(회장 최태원)가 최근 MZ세 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[4월 5일 마케팅 뉴스클리핑] 가품 판매 논란 무신사, 에센셜 판매 중단200% 보상 외]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8506</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8480</guid>
             <pubDate>Wed, 30 Mar 2022 08:43:00 GMT</pubDate>
             <content:encoded><![CDATA[러시아의 우크라이나 침공은 광고산업에 어떤 영향을 미칠까? IPG 미디어브랜드는 러시아의 우크라이나 침공은 광고산업에거시적 영향을 미침에 따라미국의 광고 성장률 전망을 3개월 전보다 1.5%포인트 낮췄다. 마그나는 12월에 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[3월 30일 마케팅 뉴스클리핑] 편의점 빅3의 메타버스, 거창한 마케팅과 달리 속 빈 강정 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8478</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8478</guid>
-            <pubDate>Wed, 30 Mar 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 편의점 `빅3`의 메타버스, 거창한 마케팅과 달리 속 빈 강정  국내 편의점들이 하나씩 메타버스 플랫폼에 진입하고 있다. 하지만 살 수 있는 실제 물건은 하나도 없다. 커머스 기능을 구현하지 않아서다. 메타버스 편의점이 `속 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_33cab4c72778aa019c20ed440185dfe6_98861_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대한민국역사박물관, 실감형 영상전시 광고, 세상을 향한 고백... 광고로 조명하는 근현대사]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8479</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8479</guid>
-            <pubDate>Tue, 29 Mar 2022 09:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[광고는 대중의 소비문화를 비추는 거울과도 같다.소비문화란 한 시대에 나타나는 소비에 대한 생활양식을 뜻한다.이에 광고 속 언어와 이미지는 신문,라디오, TV등 언론매체를 이용하여 우리의 일상생활에 스며들며,상품의 소 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
