@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 22:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 23:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[4월 6일 마케팅 뉴스클리핑] 카카오톡 선물하기 장바구니 도입 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8511</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8511</guid>
+            <pubDate>Wed, 06 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 카카오톡 선물하기 장바구니 도입  카카오가 카카오톡 선물하기에 장바구니 기능을 도입한다. 지난해 모바일 교환권을 한 번에 보낼 수 있는 선물상자 도입에 이어 배송 선물도 한 번에 결제해 배송할 수 있게 됐다. 그동안 ` ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0339eb8a80f834072220ad62367b9184_58053_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가품 논란 진화 나선 무신사, 명품 검수 절차 강화브랜드 공식 유통 파트너십 확대 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8510</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8510</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_db957e0b596e6109648205973cb8d0d3_84753_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[아이지에이웍스-신한은행 금융 디지털전환 위한 데이터 협력 MOU 체결 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8481</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8481</guid>
-            <pubDate>Wed, 30 Mar 2022 08:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 빅데이터 플랫폼 기업 아이지에이웍스가 신한은행과 손을 잡고 금융데이터 분야에 진출한다. 아이지에이웍스(대표 마국성)는 신한은행과 금융 데이터 역량 강화 및 신규 사업 추진을 위한MOU를 체결했다고30일 밝혔다 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[4월 6일 마케팅 뉴스클리핑] 카카오톡 선물하기 장바구니 도입 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8511</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8511</guid>
+            <pubDate>Tue, 05 Apr 2022 23:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가품 논란 진화 나선 무신사, 명품 검수 절차 강화·브랜드 공식 유통 파트너십 확대 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이지에이웍스-신한은행 금융 디지털전환 위한 데이터 협력 MOU 체결 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8481</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8481</guid>
-            <pubDate>Wed, 30 Mar 2022 08:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[클럽하우스의 인기로 국내에서도 여러 음성 기반 SNS가 출시되었지만, 결국 4월 말 서비스를 종료할 예정인 카카오에서 출시한 음성 기반 SNS는 무엇일까요?(hint: 큐레터에서 친절하게 설명한 뉴스 읽고 가볍게 정답 알아내기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Tue, 05 Apr 2022 23:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->클럽하우스의 인기로 국내에서도 여러 음성 기반 SNS가 출시되었지만, 결국 4월 말 서비스를 종료할 예정인 카카오에서 출시한 음성 기반 SNS는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57455" target="_blank">큐레터에서 친절하게 설명한 뉴스 읽고 가볍게 정답 알아내기!</a>)</span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1395_1" value="1" class="AB-radio" id="PQ_BD5826_1395_1_0"><label for="PQ_BD5826_1395_1_0" id="label_PQ_BD5826_1395_1_0">(A) 음</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1395_1" value="2" class="AB-radio" id="PQ_BD5826_1395_1_1"><label for="PQ_BD5826_1395_1_1" id="label_PQ_BD5826_1395_1_1">(B) 파티룸</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1395_1" value="3" class="AB-radio" id="PQ_BD5826_1395_1_2"><label for="PQ_BD5826_1395_1_2" id="label_PQ_BD5826_1395_1_2">(C) 그린룸</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1395_1" value="4" class="AB-radio" id="PQ_BD5826_1395_1_3"><label for="PQ_BD5826_1395_1_3" id="label_PQ_BD5826_1395_1_3">(D) 스페이스</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[중기부, 코로나19 확산 당시 지원자금·보증 9월까지 연장한다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
