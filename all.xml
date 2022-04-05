@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 02:55:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 03:30:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,18 +287,18 @@
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[눈 떠보니 결제하고 있다?  구매욕 자극 법 3가지 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57356</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57356</guid>
-            <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[yoorok]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[UA 잘가! GA4 어서와! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57505</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57505</guid>
             <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[눈 떠보니 결제하고 있다?  구매욕 자극 법 3가지 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57356</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57356</guid>
+            <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나만 알고 싶은 무료폰트 [고딕편] (아이보스 ─ 인기글)]]></title>
@@ -593,7 +593,7 @@
             <title><![CDATA[가품 논란 진화 나선 무신사, 명품 검수 절차 강화·브랜드 공식 유통 파트너십 확대 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8510</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8510</guid>
-            <pubDate>Tue, 05 Apr 2022 02:55:27 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2022 11:34:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 네이버 밴드에서 앱 종료 시 노출되는 1일 1광고주 단독 노출상품으로, 브랜드 인지효과 및 클릭을 극대화 할 수 있는 안드로이드 전용상품은 무엇일까요?(hint: 'SNS광고마케터 1급' 샘플 문제 풀고 정답을 캐치해보세요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 05 Apr 2022 02:55:39 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2022 03:30:13 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 네이버 밴드에서 앱 종료 시 노출되는 1일 1광고주 단독 노출상품으로, 브랜드 인지효과 및 클릭을 극대화 할 수 있는 안드로이드 전용상품은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-3208-767" target="_blank">'SNS광고마케터 1급' 샘플 문제 풀고 정답을 캐치해보세요!</a>)</span></td>
 			</tr>
