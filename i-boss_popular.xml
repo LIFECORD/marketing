@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-06T03:31:40.215Z</updated>
+    <updated>2022-04-06T04:22:58.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -25,13 +25,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57487"/>
         <updated>2022-03-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[jinhorus]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고객 관점 컨텐츠 만들기 (올라운더식 컨텐츠제작법)]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57331</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57331"/>
-        <updated>2022-03-07T12:28:28.679Z</updated>
-        <content type="html"><![CDATA[올라운더마케팅]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마케팅밈] 마케터 해골물]]></title>
@@ -202,6 +195,13 @@
         <content type="html"><![CDATA[팀ROAS]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[첫출근!! 병아리 퍼포먼스 마케터 도와주세요 ㅜㅜ]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38764</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38764"/>
+        <updated>2022-04-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[쩔뚝22]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[쉿! 보스님만 알고 계세요. 지금 팔리는 것들의 비밀]]></title>
         <id>https://www.i-boss.co.kr/ab-5637-31</id>
         <link href="https://www.i-boss.co.kr/ab-5637-31"/>
@@ -209,10 +209,10 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[첫출근!! 병아리 퍼포먼스 마케터 도와주세요 ㅜㅜ]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38764</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38764"/>
-        <updated>2022-04-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[쩔뚝22]]></content>
+        <title type="html"><![CDATA[[리터없쓔 마감되쓔] 원하는 만큼 리터 드려요]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38666</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38666"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[놀토]]></content>
     </entry>
 </feed>
