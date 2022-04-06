@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 01:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 02:56:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국세청, 국립조세박물관 개관 20주년 맞아 조세박물관 전용 메타버스 플랫폼 만든다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8516</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8516</guid>
+            <pubDate>Wed, 06 Apr 2022 11:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[국세청 국립조세박물관은 개관 20주년을 맞이하여 변화하는 비대면 관람문화에 대응하기 위해 올해 상반기 중으로 조세박물관 전용 메타버스 플랫폼을 구축하는 사업을 추진한다고 밝혔다. 2002년도에 서울 수송동에서 개관하 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[에어비앤비 1분기 한국인 결제금액 전년 동기 대비 122% 증가]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8515</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8515</guid>
+            <pubDate>Wed, 06 Apr 2022 10:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[올해 1분기 결제추정금액 3,423억 원으로 전년 동기 1,539억 대비 122% 증가 코로나 확산세에도 올 3월 결제금액 역대 최대   국내 코로나 확산세에서도 숙박 공유업체 에어비엔비의 올해 3월 한국인 결제금액이 역대 최대를 기록한  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16492096925408.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애드저스트, 신규 애널리틱스 솔루션 데이터스케이프 출시... 모바일 앱 성장 위한 스마트하고 신속한 마케팅 의사결정 지원]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8514</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8487</guid>
             <pubDate>Thu, 31 Mar 2022 09:10:00 GMT</pubDate>
             <content:encoded><![CDATA[쉽고 빠르고 편하게 식사할 수 있는 곳, 바로 패스트푸드다. 패스트푸드는 빠르고 편한 만큼 환경에는 도움이 되지 않는다. 매장 내외에서 식사 후에 버려지는 포장지를 쉽게 볼 수 있기 때문이다. 그래서 많은 업체들이 포장을  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[3월 31일 마케팅 뉴스클리핑] 톱스타로 뜬 스타트업들 웃었다 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8485</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8485</guid>
-            <pubDate>Thu, 31 Mar 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 톱스타로 뜬 스타트업들 웃었다  대기업의 전유물로 여겨졌던 `톱스타 광고`가 스타트업으로 확산하고 있다. 인지도를 높이고 가입자를 크게 늘릴 수 있기 때문이다. 마케팅 효과가 기대치에 미치지 못하면 비용이 막대한 부 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16486377574534.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 퍼브매틱의 기술과 광고 솔루션으로 한국의 크리에이터, 개발자, 퍼블리셔를 지원하겠습니다 정성호 퍼브매틱 한국 시장 사업개발 담당 이사]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8486</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8486</guid>
-            <pubDate>Thu, 31 Mar 2022 07:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[코로나 19 팬더믹 이후 디지털 광고와 애드테크 산업은 격변의 시기를 맞으며 폭발적으로 성장하고 있다.사람들의 이동이 줄어들고 재택근무가 보편화되면서 소비자들이 더 많은 시간을 인터넷에서 보내고 있기 때문이다. 격변 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
