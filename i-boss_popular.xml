@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-06T21:17:24.795Z</updated>
+    <updated>2022-04-06T22:19:06.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영상 기획! 참고하면 좋은 사이트들!!]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57449</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57449"/>
-        <updated>2022-03-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[영상팁]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아묻따 '반품'은 이제 그만]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57360</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57360"/>
         <updated>2022-03-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영상 기획! 참고하면 좋은 사이트들!!]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57449</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57449"/>
+        <updated>2022-03-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[영상팁]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[입소문 바이럴 마케팅의 5가지 원칙]]></title>
