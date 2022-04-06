@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 23:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 01:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,6 +231,13 @@
             <content:encoded><![CDATA[마케팅코치마코]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[UA 잘가! GA4 어서와! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57505</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57505</guid>
+            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[SNS광고마케터 1급 샘플 문제 A/B형 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-3208-767</link>
             <guid>https://www.i-boss.co.kr/ab-3208-767</guid>
@@ -243,13 +250,6 @@
             <guid>https://www.i-boss.co.kr/ab-2973-448</guid>
             <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[UA 잘가! GA4 어서와! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57505</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57505</guid>
-            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아묻따 '반품'은 이제 그만 (아이보스 ─ 인기글)]]></title>
@@ -266,18 +266,18 @@
             <content:encoded><![CDATA[영상팁]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[입소문 바이럴 마케팅의 5가지 원칙 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57457</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57457</guid>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[나만 알고 싶은 무료폰트 [고딕편] (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57504</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57504</guid>
             <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[입소문 바이럴 마케팅의 5가지 원칙 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57457</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57457</guid>
+            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스마트스토어 어느 정도는 이해가 되었습니다. (아이보스 ─ 인기글)]]></title>
@@ -329,13 +329,6 @@
             <content:encoded><![CDATA[델몬트두리안]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[광고업계의 주목을 받고 있는 OSV (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57322</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57322</guid>
-            <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[GFA 일매출 400만원, 로아스 500% 어떻게 만드는 걸까? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57423</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57423</guid>
@@ -348,6 +341,37 @@
             <guid>https://www.i-boss.co.kr/ab-5637-31</guid>
             <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[리터없쓔 마감되쓔] 원하는 만큼 리터 드려요 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38666</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38666</guid>
+            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[애드저스트, 신규 애널리틱스 솔루션 데이터스케이프 출시... 모바일 앱 성장 위한 스마트하고 신속한 마케팅 의사결정 지원 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8514</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8514</guid>
+            <pubDate>Wed, 06 Apr 2022 09:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[모바일 마케팅 애널리틱스 플랫폼 애드저스트(Adjust)가6일 신규 애널리틱스 솔루션인데이터스케이프(Datascape)를 출시했다고 밝혔다. 애드저스트의 데이터스케이프는 앱 성장을 위한 스마트하고 신속한 마케팅 의사결정을 지원 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[한국NFT콘텐츠협회, 국내최초 NFT INVESTOR DAY 개최... 4월 13일(수) 역삼동 VSG아레나에서 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8513</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8513</guid>
+            <pubDate>Wed, 06 Apr 2022 08:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국NFT콘텐츠협회(회장 김영진, 이사장 김형주)는 오는 13일 NFT INVESTOR DAY (NFT 투자 IR쇼)를 VSG아레나(역삼동)에서 개최한다고 밝혔다. NFT INVESTOR DAY는 최근 가상자산시장 및 콘텐츠 시장에서 높은 관심을 받고 있는 NFT 시장의 활성 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[해외 크리에이티브] 콜라의 새로운 픽셀 맛이 포트나이트에 등장하다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8512</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8512</guid>
+            <pubDate>Wed, 06 Apr 2022 08:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[코카콜라는 새로운 맛을 지속적으로 출시하기 위한 Creations(한국명 크리에디션) 플랫폼을 빠르게 구축하고 있다. 우주의 맛인 `Starlight(한국명 스타더스트)`에 이어 두 번째 음료를 출시한다. 이번에는 게임에서 영감을 받은 픽셀 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[4월 6일 마케팅 뉴스클리핑] 카카오톡 선물하기 장바구니 도입 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -566,34 +590,31 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2022 부산국제광고제, 글로벌 매드 아카데미 수강생 모집 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8484</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8484</guid>
-            <pubDate>Wed, 30 Mar 2022 07:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[부산국제광고제가 글로벌 매드 아카데미(Global MAD Academy, 이하 아카데미)의 올 상반기 수강생을 모집한다. 글로벌 매드 아카데미는 글로벌 광고마케팅디지털 분야 통합 실무 교육 플랫폼으로, 지난해 첫선을 보였다. 해당 아카데 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[애드저스트, 신규 애널리틱스 솔루션 데이터스케이프 출시... 모바일 앱 성장 위한 스마트하고 신속한 마케팅 의사결정 지원 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8514</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8514</guid>
+            <pubDate>Wed, 06 Apr 2022 01:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[무신사, 라방 무신사 라이브 100회 기록...평균 매출 1억2500만원 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8483</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8483</guid>
-            <pubDate>Wed, 30 Mar 2022 06:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 패션 스토어 무신사는 라이브 커머스 서비스 `무신사 라이브`가 100회를 맞았다고 30일 밝혔다.   무신사 라이브 방송을 100회 진행하는 동안 누적 거래액은 120억원을 돌파했다. 1시간가량 진행되는 방송당 평균 매출은 1억2 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1bae2c61cb797f760f61b3a4d07b75d8_96792_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[한국NFT콘텐츠협회, 국내최초 ‘NFT INVESTOR DAY 개최’... 4월 13일(수) 역삼동 VSG아레나에서 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8513</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8513</guid>
+            <pubDate>Wed, 06 Apr 2022 01:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년 현재 한국인이 가장 많이 소비한 라면 브랜드는? 농심, 오뚜기 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8482</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8482</guid>
-            <pubDate>Wed, 30 Mar 2022 10:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[올해 온라인에서 판매된 라면 브랜드 구매금액의 82%가 농심과 오뚜기 점유 온라인에서 많이 구매된 라면 제품은 `농심 신라면 120g`   지난해 세계라면협회의 발표에 따르면 한국인 1인당 라면 소비량은 연평균 75.1개인 것으로 조 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_db957e0b596e6109648205973cb8d0d3_84753_1.png" length="0" type="image/png"/>
+            <title><![CDATA[[해외 크리에이티브] 콜라의 새로운 '픽셀' 맛이 포트나이트에 등장하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8512</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8512</guid>
+            <pubDate>Wed, 06 Apr 2022 01:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[4월 6일 마케팅 뉴스클리핑] 카카오톡 선물하기 장바구니 도입 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8511</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8511</guid>
-            <pubDate>Tue, 05 Apr 2022 23:19:26 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -779,31 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 부산국제광고제, ‘글로벌 매드 아카데미’ 수강생 모집 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8484</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8484</guid>
-            <pubDate>Wed, 30 Mar 2022 07:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[무신사, 라방 '무신사 라이브' 100회 기록...평균 매출 1억2500만원 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8483</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8483</guid>
-            <pubDate>Wed, 30 Mar 2022 06:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 현재 한국인이 가장 많이 소비한 라면 브랜드는? '농심', '오뚜기' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8482</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8482</guid>
-            <pubDate>Wed, 30 Mar 2022 10:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[클럽하우스의 인기로 국내에서도 여러 음성 기반 SNS가 출시되었지만, 결국 4월 말 서비스를 종료할 예정인 카카오에서 출시한 음성 기반 SNS는 무엇일까요?(hint: 큐레터에서 친절하게 설명한 뉴스 읽고 가볍게 정답 알아내기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 05 Apr 2022 23:19:37 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 01:18:44 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->클럽하우스의 인기로 국내에서도 여러 음성 기반 SNS가 출시되었지만, 결국 4월 말 서비스를 종료할 예정인 카카오에서 출시한 음성 기반 SNS는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57455" target="_blank">큐레터에서 친절하게 설명한 뉴스 읽고 가볍게 정답 알아내기!</a>)</span></td>
 			</tr>
