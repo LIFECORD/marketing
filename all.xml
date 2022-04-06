@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 05:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 06:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,18 +224,18 @@
             <content:encoded><![CDATA[마케팅코치마코]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SNS광고마케터 1급 샘플 문제 A/B형 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-3208-767</link>
-            <guid>https://www.i-boss.co.kr/ab-3208-767</guid>
-            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[유리나]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[UA 잘가! GA4 어서와! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57505</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57505</guid>
             <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SNS광고마케터 1급 샘플 문제 A/B형 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-3208-767</link>
+            <guid>https://www.i-boss.co.kr/ab-3208-767</guid>
+            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[투린이들을 위한 지침서 `돈, 뜨겁게 사랑하고 차갑.. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[클럽하우스의 인기로 국내에서도 여러 음성 기반 SNS가 출시되었지만, 결국 4월 말 서비스를 종료할 예정인 카카오에서 출시한 음성 기반 SNS는 무엇일까요?(hint: 큐레터에서 친절하게 설명한 뉴스 읽고 가볍게 정답 알아내기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 06 Apr 2022 05:18:52 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 06:21:37 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->클럽하우스의 인기로 국내에서도 여러 음성 기반 SNS가 출시되었지만, 결국 4월 말 서비스를 종료할 예정인 카카오에서 출시한 음성 기반 SNS는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57455" target="_blank">큐레터에서 친절하게 설명한 뉴스 읽고 가볍게 정답 알아내기!</a>)</span></td>
 			</tr>
