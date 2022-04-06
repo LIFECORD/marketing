@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-06T20:19:33.716Z</updated>
+    <updated>2022-04-06T21:17:24.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -13,17 +13,17 @@
         <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[난 오늘도 올리브영에 100만 원을 쓴다]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57393</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57393"/>
-        <updated>2022-03-17T10:19:42.050Z</updated>
-        <content type="html"><![CDATA[jinhorus]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아이유 크림으로 월 20억 매출 내다가 망한 썰]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57487</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57487"/>
         <updated>2022-03-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[jinhorus]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[난 오늘도 올리브영에 100만 원을 쓴다]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57393</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57393"/>
+        <updated>2022-03-17T10:19:42.050Z</updated>
         <content type="html"><![CDATA[jinhorus]]></content>
     </entry>
     <entry>
