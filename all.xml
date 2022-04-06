@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 04:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 05:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,18 +182,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[매출 15억 찍고 망한썰 그리고 배운점. 저처럼 하지 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57492</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57492</guid>
-            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[REBEL]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케팅 관련 자격증은 뭐가 있나요? 2022 ver (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57397</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57397</guid>
             <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마미손]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[매출 15억 찍고 망한썰 그리고 배운점. 저처럼 하지 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57492</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57492</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[REBEL]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[초보 마케터 필독, 3분 만에 A/B 테스트 이해하고 체크.. (아이보스 ─ 인기글)]]></title>
@@ -322,18 +322,18 @@
             <content:encoded><![CDATA[델몬트두리안]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[GFA 일매출 400만원, 로아스 500% 어떻게 만드는 걸까? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57423</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57423</guid>
-            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[팀ROAS]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[첫출근!! 병아리 퍼포먼스 마케터 도와주세요 ㅜㅜ (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38764</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38764</guid>
             <pubDate>Sun, 03 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[쩔뚝22]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GFA 일매출 400만원, 로아스 500% 어떻게 만드는 걸까? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57423</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57423</guid>
+            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[팀ROAS]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쉿! 보스님만 알고 계세요. 지금 팔리는 것들의 비밀 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[클럽하우스의 인기로 국내에서도 여러 음성 기반 SNS가 출시되었지만, 결국 4월 말 서비스를 종료할 예정인 카카오에서 출시한 음성 기반 SNS는 무엇일까요?(hint: 큐레터에서 친절하게 설명한 뉴스 읽고 가볍게 정답 알아내기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 06 Apr 2022 04:22:50 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 05:18:52 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->클럽하우스의 인기로 국내에서도 여러 음성 기반 SNS가 출시되었지만, 결국 4월 말 서비스를 종료할 예정인 카카오에서 출시한 음성 기반 SNS는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57455" target="_blank">큐레터에서 친절하게 설명한 뉴스 읽고 가볍게 정답 알아내기!</a>)</span></td>
 			</tr>
