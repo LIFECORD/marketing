@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-06T02:56:38.004Z</updated>
+    <updated>2022-04-06T03:31:40.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마케팅 관련 자격증은 뭐가 있나요? 2022 ver]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57397</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57397"/>
-        <updated>2022-03-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[마미손]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[매출 15억 찍고 망한썰 그리고 배운점. 저처럼 하지 ..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57492</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57492"/>
         <updated>2022-03-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[REBEL]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마케팅 관련 자격증은 뭐가 있나요? 2022 ver]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57397</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57397"/>
+        <updated>2022-03-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[마미손]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[초보 마케터 필독, 3분 만에 A/B 테스트 이해하고 체크..]]></title>
@@ -118,6 +118,13 @@
         <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[나만 알고 싶은 무료폰트 [고딕편]]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57504</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57504"/>
+        <updated>2022-04-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[휴이언니]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[아묻따 '반품'은 이제 그만]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57360</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57360"/>
@@ -130,13 +137,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57449"/>
         <updated>2022-03-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[영상팁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나만 알고 싶은 무료폰트 [고딕편]]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57504</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57504"/>
-        <updated>2022-04-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[휴이언니]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[입소문 바이럴 마케팅의 5가지 원칙]]></title>
