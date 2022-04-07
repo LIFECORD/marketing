@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 09:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 10:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울시민, 10명 중 6명 라이브커머스 이용... 홈쇼핑과 달리 20~50대 고루 이용]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8520</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8520</guid>
+            <pubDate>Thu, 07 Apr 2022 10:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[서울시는 실시간 방송 판매(라이브커머스) 이용실태조사 결과를 6발표했다.서울시는 라이브커머스시장이 커지고 있는 상황으로 소비자피해 발생 우려가 있어 이번에 서울시전자상거래센터를 통해서 20~50대 소비자 4,000명 중 라 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[트렌드모니터] 친환경 흐름 속 가속화되는 전기차 시대, 미래의 도로 풍경 달라질까]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8519</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Apr 2022 08:53:00 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스는 기업의 디지털트랜스포메이션을 위해 필요한 고객 인사이트 확보와 디지털 마케팅을 지원하는 소비자 분석 플랫폼 데이터플러스(dataplus.uplus.co.kr)를 오는 4월 1일 출시한다. 데이터플러스는 LG유플러스가 보유한 고 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[4월 1일 마케팅 뉴스클리핑] 무신사, 비디오 콘텐츠 큐레이션 숏TV 론칭 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8490</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8490</guid>
-            <pubDate>Fri, 01 Apr 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 무신사, 비디오 콘텐츠 큐레이션 `숏TV` 론칭  무신사는 콘텐츠 큐레이션 서비스인 `숏TV`를 다음 달 정식으로 선보인다고 밝혔다. 10~30초 길이의 짧은 영상에서 무신사 스토어 입점 브랜드나 주요 상품 등을 이용자에게 선보이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2519b08dc6da1dad2b8609bf63540c90_56873_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

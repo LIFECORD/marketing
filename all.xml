@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 09:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 10:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,13 @@
             <content:encoded><![CDATA[델몬트두리안]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-74668-2590</link>
+            <guid>https://www.i-boss.co.kr/ab-74668-2590</guid>
+            <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[다이티]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[GFA 일매출 400만원, 로아스 500% 어떻게 만드는 걸까? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57423</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57423</guid>
@@ -343,11 +350,12 @@
             <content:encoded><![CDATA[박멍멍]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-74668-2590</link>
-            <guid>https://www.i-boss.co.kr/ab-74668-2590</guid>
-            <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[다이티]]></content:encoded>
+            <title><![CDATA[서울시민, 10명 중 6명 라이브커머스 이용... 홈쇼핑과 달리 20~50대 고루 이용 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8520</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8520</guid>
+            <pubDate>Thu, 07 Apr 2022 10:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[서울시는 실시간 방송 판매(라이브커머스) 이용실태조사 결과를 6발표했다.서울시는 라이브커머스시장이 커지고 있는 상황으로 소비자피해 발생 우려가 있어 이번에 서울시전자상거래센터를 통해서 20~50대 소비자 4,000명 중 라 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[트렌드모니터] 친환경 흐름 속 가속화되는 전기차 시대, 미래의 도로 풍경 달라질까 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[4월 1일 마케팅 뉴스클리핑] 무신사, 비디오 콘텐츠 큐레이션 숏TV 론칭 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8490</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8490</guid>
-            <pubDate>Fri, 01 Apr 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 무신사, 비디오 콘텐츠 큐레이션 `숏TV` 론칭  무신사는 콘텐츠 큐레이션 서비스인 `숏TV`를 다음 달 정식으로 선보인다고 밝혔다. 10~30초 길이의 짧은 영상에서 무신사 스토어 입점 브랜드나 주요 상품 등을 이용자에게 선보이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2519b08dc6da1dad2b8609bf63540c90_56873_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[서울시민, 10명 중 6명 라이브커머스 이용... 홈쇼핑과 달리 20~50대 고루 이용 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8520</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8520</guid>
+            <pubDate>Thu, 07 Apr 2022 10:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[트렌드모니터] 친환경 흐름 속 가속화되는 전기차 시대, 미래의 도로 풍경 달라질까 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[4월 1일 마케팅 뉴스클리핑] 무신사, 비디오 콘텐츠 큐레이션 '숏TV' 론칭 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8490</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8490</guid>
-            <pubDate>Fri, 01 Apr 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지에서 설명하는 트렌드와 거리가 먼 단어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 07 Apr 2022 09:18:35 GMT</pubDate>
+            <pubDate>Thu, 07 Apr 2022 10:19:17 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 설명하는 트렌드와 거리가 먼 단어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/420ad90245ec13fcbbce201f83da6c6a_16487281316572.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
