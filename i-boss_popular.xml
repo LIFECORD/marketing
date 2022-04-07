@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-07T06:22:34.218Z</updated>
+    <updated>2022-04-07T07:19:22.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -146,13 +146,6 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스마트스토어 어느 정도는 이해가 되었습니다.]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38579</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38579"/>
-        <updated>2022-03-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[마케팅플랜]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스마트스토어 1달이 약간 지난 시점입니다.]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38681</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38681"/>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38726"/>
         <updated>2022-03-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[박멍멍]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용..]]></title>
+        <id>https://www.i-boss.co.kr/ab-74668-2590</id>
+        <link href="https://www.i-boss.co.kr/ab-74668-2590"/>
+        <updated>2022-04-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[다이티]]></content>
     </entry>
 </feed>
