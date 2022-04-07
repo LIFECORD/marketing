@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-07T08:23:12.357Z</updated>
+    <updated>2022-04-07T09:18:46.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[우뇌]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[없어서 못 사요! 구매력을 끌어 올리는 마케팅?]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57384</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57384"/>
-        <updated>2022-03-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[매출 15억 찍고 망한썰 그리고 배운점. 저처럼 하지 ..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57492</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57492"/>
         <updated>2022-03-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[REBEL]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[없어서 못 사요! 구매력을 끌어 올리는 마케팅?]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57384</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57384"/>
+        <updated>2022-03-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마케팅 관련 자격증은 뭐가 있나요? 2022 ver]]></title>
