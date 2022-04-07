@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 23:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 01:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유형 테스트? 안 만들고는 못 참지 🤩 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/943626-%EC%9C%A0%ED%98%95_%ED%85%8C%EC%8A%A4%ED%8A%B8_%EC%95%88_%EB%A7%8C%EB%93%A4%EA%B3%A0%EB%8A%94_%EB%AA%BB_%EC%B0%B8%EC%A7%80/</link>
+            <guid>https://qletter.i-boss.co.kr/view/943626-%EC%9C%A0%ED%98%95_%ED%85%8C%EC%8A%A4%ED%8A%B8_%EC%95%88_%EB%A7%8C%EB%93%A4%EA%B3%A0%EB%8A%94_%EB%AA%BB_%EC%B0%B8%EC%A7%80/</guid>
+            <pubDate>Thu, 07 Apr 2022 01:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/943626-유형_테스트_안_만들고는_못_참지/">
+						<div class="thumb"><img src="/images/qletter_943626.png"></div>
+						<p><strong>유형 테스트? 안 만들고는 못 참지 🤩</strong>2022.04.07</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_943626.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[바이 UA👋 하이 GA4🙋‍ (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/937199-%EB%B0%94%EC%9D%B4_UA_%ED%95%98%EC%9D%B4_GA4/</link>
@@ -129,17 +140,6 @@
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_888919.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[가난한 회사의 마케터로 살아남기 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/885281-%EA%B0%80%EB%82%9C%ED%95%9C_%ED%9A%8C%EC%82%AC%EC%9D%98_%EB%A7%88%EC%BC%80%ED%84%B0%EB%A1%9C_%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/885281-%EA%B0%80%EB%82%9C%ED%95%9C_%ED%9A%8C%EC%82%AC%EC%9D%98_%EB%A7%88%EC%BC%80%ED%84%B0%EB%A1%9C_%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0/</guid>
-            <pubDate>Thu, 24 Feb 2022 01:03:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/885281-가난한_회사의_마케터로_살아남기/">
-						<div class="thumb"><img src="/images/qletter_885281.png"></div>
-						<p><strong>가난한 회사의 마케터로 살아남기</strong>2022.02.24</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_885281.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[1급 SNS광고마케터가 되어보자! `SNS광고마케터 1급` 도.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-452</link>
             <guid>https://www.i-boss.co.kr/ab-2973-452</guid>
@@ -252,18 +252,18 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아묻따 '반품'은 이제 그만 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57360</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57360</guid>
-            <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[영상 기획! 참고하면 좋은 사이트들!! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57449</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57449</guid>
             <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[영상팁]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아묻따 '반품'은 이제 그만 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57360</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57360</guid>
+            <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[입소문 바이럴 마케팅의 5가지 원칙 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,22 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38726</guid>
             <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[박멍멍]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[트렌드모니터] 친환경 흐름 속 가속화되는 전기차 시대, 미래의 도로 풍경 달라질까 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8519</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8519</guid>
+            <pubDate>Thu, 07 Apr 2022 08:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[시장조사전문기업 엠브레인 트렌드모니터가 현재 자동차를 보유 중이거나 운전 경험이 있는 만 19~59세 성인 남녀 1,000명을 대상으로 전기 자동차 관련 인식 조사를 실시한 결과 전기 자동차에 대한 관심이 더욱 높아지고 있음을 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[디마연 4월 세미나, 파괴적 커머스의 탄생과 구조변화 - 유통생태계의 가까운 미래와 먼미래 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8518</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8518</guid>
+            <pubDate>Thu, 07 Apr 2022 08:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 3년 차에 접어들면서 위드코로나가 일상화되고 있다. 코로나19 팬데믹 동안가장 큰 성장을 보여준 것은 온라인 커머스 분야다. 디지털마케팅연구회는 4월 세미나에서 우리에게 밀접한 유통 생태계의 변화 등에 대해이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[4월 7일 마케팅 뉴스클리핑] 인스타그램, 15분 미만 동영상 릴스로 일원화 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -574,26 +590,24 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2519b08dc6da1dad2b8609bf63540c90_56873_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애드저스트 x 앱토피아, 모바일 마케터를 위한 가상화폐 앱 가이드 2022 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8489</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8489</guid>
-            <pubDate>Thu, 31 Mar 2022 08:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[모바일 마케팅 애널리틱스 플랫폼애드저스트(Adjust)와 앱 인텔리전스 회사앱토피아(Apptopia)는31일 모바일 마케터들을 위한 Adjust가상화폐 앱 가이드2022를 출간했다. 애드저스트와앱토피아의 합작으로 출시된 이번 가이드는 전세 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[트렌드모니터] 친환경 흐름 속 가속화되는 전기차 시대, 미래의 도로 풍경 달라질까 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8519</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8519</guid>
+            <pubDate>Thu, 07 Apr 2022 01:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버, 일본 라인에 AI검색상품 추천 등 쇼핑 탐색 기술 적용 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8488</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8488</guid>
-            <pubDate>Thu, 31 Mar 2022 07:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[네이버가 AI검색, 카탈로그, 상품 추천 등 쇼핑 관련 탐색 기술을 일본 라인 쇼핑 서비스에 적용하고 나섰다.   네이버는 쇼핑 관련 탐색 기술을 바탕으로 일본 내 다양한 상품 데이터를 체계화해 라인 쇼핑에 10억개에 달하는  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16487085257376.png" length="0" type="image/png"/>
+            <title><![CDATA[디마연 4월 세미나, "파괴적 커머스의 탄생과 구조변화 - 유통생태계의 가까운 미래와 먼미래" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8518</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8518</guid>
+            <pubDate>Thu, 07 Apr 2022 01:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[4월 7일 마케팅 뉴스클리핑] 인스타그램, 15분 미만 동영상 '릴스'로 일원화 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8517</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8517</guid>
-            <pubDate>Wed, 06 Apr 2022 23:18:32 GMT</pubDate>
+            <pubDate>Thu, 07 Apr 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[애드저스트 x 앱토피아, 모바일 마케터를 위한 ‘가상화폐 앱 가이드 2022’ 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8489</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8489</guid>
-            <pubDate>Thu, 31 Mar 2022 08:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네이버, 일본 라인에 AI검색·상품 추천 등 쇼핑 탐색 기술 적용 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8488</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8488</guid>
-            <pubDate>Thu, 31 Mar 2022 07:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지에서 설명하는 트렌드와 거리가 먼 단어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 06 Apr 2022 23:18:43 GMT</pubDate>
+            <pubDate>Thu, 07 Apr 2022 01:18:09 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 설명하는 트렌드와 거리가 먼 단어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/420ad90245ec13fcbbce201f83da6c6a_16487281316572.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

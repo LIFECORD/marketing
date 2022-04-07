@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 23:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 01:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트렌드모니터] 친환경 흐름 속 가속화되는 전기차 시대, 미래의 도로 풍경 달라질까]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8519</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8519</guid>
+            <pubDate>Thu, 07 Apr 2022 08:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[시장조사전문기업 엠브레인 트렌드모니터가 현재 자동차를 보유 중이거나 운전 경험이 있는 만 19~59세 성인 남녀 1,000명을 대상으로 전기 자동차 관련 인식 조사를 실시한 결과 전기 자동차에 대한 관심이 더욱 높아지고 있음을 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[디마연 4월 세미나, 파괴적 커머스의 탄생과 구조변화 - 유통생태계의 가까운 미래와 먼미래]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8518</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8518</guid>
+            <pubDate>Thu, 07 Apr 2022 08:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 3년 차에 접어들면서 위드코로나가 일상화되고 있다. 코로나19 팬데믹 동안가장 큰 성장을 보여준 것은 온라인 커머스 분야다. 디지털마케팅연구회는 4월 세미나에서 우리에게 밀접한 유통 생태계의 변화 등에 대해이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[4월 7일 마케팅 뉴스클리핑] 인스타그램, 15분 미만 동영상 릴스로 일원화 외]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8517</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 01 Apr 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 무신사, 비디오 콘텐츠 큐레이션 `숏TV` 론칭  무신사는 콘텐츠 큐레이션 서비스인 `숏TV`를 다음 달 정식으로 선보인다고 밝혔다. 10~30초 길이의 짧은 영상에서 무신사 스토어 입점 브랜드나 주요 상품 등을 이용자에게 선보이 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2519b08dc6da1dad2b8609bf63540c90_56873_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애드저스트 x 앱토피아, 모바일 마케터를 위한 가상화폐 앱 가이드 2022 공개]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8489</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8489</guid>
-            <pubDate>Thu, 31 Mar 2022 08:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[모바일 마케팅 애널리틱스 플랫폼애드저스트(Adjust)와 앱 인텔리전스 회사앱토피아(Apptopia)는31일 모바일 마케터들을 위한 Adjust가상화폐 앱 가이드2022를 출간했다. 애드저스트와앱토피아의 합작으로 출시된 이번 가이드는 전세 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버, 일본 라인에 AI검색상품 추천 등 쇼핑 탐색 기술 적용]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8488</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8488</guid>
-            <pubDate>Thu, 31 Mar 2022 07:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[네이버가 AI검색, 카탈로그, 상품 추천 등 쇼핑 관련 탐색 기술을 일본 라인 쇼핑 서비스에 적용하고 나섰다.   네이버는 쇼핑 관련 탐색 기술을 바탕으로 일본 내 다양한 상품 데이터를 체계화해 라인 쇼핑에 10억개에 달하는  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16487085257376.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
