@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-07T13:31:24.823Z</updated>
+    <updated>2022-04-07T14:18:41.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -188,18 +188,18 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[선후배님들은 취미가 뭐에요?]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38672</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38672"/>
-        <updated>2022-03-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[델몬트두리안]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용..]]></title>
         <id>https://www.i-boss.co.kr/ab-74668-2590</id>
         <link href="https://www.i-boss.co.kr/ab-74668-2590"/>
         <updated>2022-04-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[다이티]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선후배님들은 취미가 뭐에요?]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38672</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38672"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[델몬트두리안]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GFA 일매출 400만원, 로아스 500% 어떻게 만드는 걸까?]]></title>
