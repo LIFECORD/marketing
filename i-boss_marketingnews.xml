@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 22:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 23:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[4월 8일 마케팅 뉴스클리핑] 서울 시민 10명 중 6명 라이브커머스 이용 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8521</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8521</guid>
+            <pubDate>Fri, 08 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 서울 시민 10명 중 6명 라이브커머스 이용  서울 시민 10명 중 6명은 라이브커머스를 이용한 적이 있는 것으로 나타났다. 응답자의 57.9%는 라이브커머스를 이용한 적이 있으며, 2020년 조사 때 27.4%보다 2배 가까이 늘었다. 하지만  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16493269588776.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울시민, 10명 중 6명 라이브커머스 이용... 홈쇼핑과 달리 20~50대 고루 이용]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8520</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8492</guid>
             <pubDate>Fri, 01 Apr 2022 08:54:00 GMT</pubDate>
             <content:encoded><![CDATA[최근유통업계에서맛있는음식의조합으로완벽한케미를보여주는`꿀케미마케팅`이활발하다. `꿀케미마케팅`열풍은MZ세대를중심으로두개이상의음식,브랜드간의최상의조합을찾고이를공유하는트렌드가확산됨에따른것으로풀이된 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스, 고객 인사이트 분석 플랫폼 데이터플러스 출시... 대교, 첫 도입 기업]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8491</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8491</guid>
-            <pubDate>Fri, 01 Apr 2022 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 기업의 디지털트랜스포메이션을 위해 필요한 고객 인사이트 확보와 디지털 마케팅을 지원하는 소비자 분석 플랫폼 데이터플러스(dataplus.uplus.co.kr)를 오는 4월 1일 출시한다. 데이터플러스는 LG유플러스가 보유한 고 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
