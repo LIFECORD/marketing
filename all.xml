@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 01:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 03:02:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,6 +336,13 @@
             <content:encoded><![CDATA[델몬트두리안]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2주 꼬박 심리테스트 만들었는데 고견받습니다 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38726</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38726</guid>
+            <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[박멍멍]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[GFA 일매출 400만원, 로아스 500% 어떻게 만드는 걸까? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57423</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57423</guid>
@@ -343,11 +350,20 @@
             <content:encoded><![CDATA[팀ROAS]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2주 꼬박 심리테스트 만들었는데 고견받습니다 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38726</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38726</guid>
-            <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[박멍멍]]></content:encoded>
+            <title><![CDATA[아이언소스 퍼블리싱 솔루션 슈퍼소닉, 2년 만에 20억 회 게임 다운로드 달성 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8525</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8525</guid>
+            <pubDate>Fri, 08 Apr 2022 11:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource, NYSE:IS)는 자사의 퍼블리싱 솔루션인 슈퍼소닉(Supersonic) 정식 론칭2년 만에 전 세계 게임 개발자 파트너들과 협업하여2년 동안 총50종이 넘는 게임을 출시했으며,현재 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[건강상태 자가진단 전월 대비 월사용자수(MAU) 147만명 급등 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8524</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8524</guid>
+            <pubDate>Fri, 08 Apr 2022 11:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[빅데이터 플랫폼 기업 아이지에이웍스가모바일인덱스리포트를 발표했다.이번 보고서는사용자 수 급상승 순위TOP 50,게임 매출 순위TOP 50,신규설치 순위TOP 50에 관한 데이터 분석을 다루고 있다. 3월 사용자 수 급상승 순위1위 앱 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[AI가 지원하는 광고비는 올해 3,700억 달러에 이를 것이다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -574,33 +590,31 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 3월에 러시아에서 가장 많이 다운로드된 앱 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8496</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8496</guid>
-            <pubDate>Sat, 02 Apr 2022 09:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2월 러시아가 우크라이나를 침공한 후, 서구 기업들이 러시아에서 서비스를 중단하고 있다. 이는 테크 쪽에서도 예외는 아니다. 그렇다면 서구 기업들의 서비스 중단이 시작된 3월, 러시아에서 다운로드된 앱은 어떤 변화 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[아이언소스 퍼블리싱 솔루션 슈퍼소닉, 2년 만에 20억 회 게임 다운로드 달성 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8525</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8525</guid>
+            <pubDate>Fri, 08 Apr 2022 03:01:59 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[페이스북, 알고리즘 오류로 허위정보 노출 급증 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8494</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8494</guid>
-            <pubDate>Fri, 01 Apr 2022 11:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[`다운랭킹` 시스템 작동 안해최대 30% 가량 더 노출   메타가 운영하는 소셜네트워크서비스(SNS) 페이스북에서 알고리즘 오류로 잘못된 정보 노출이 급증했던 것으로 확인됐다.   더 버지는 31일(현지시간) 페이스북 뉴스피드의 소 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[건강상태 자가진단’ 전월 대비 월사용자수(MAU) 147만명 급등 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8524</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8524</guid>
+            <pubDate>Fri, 08 Apr 2022 03:01:59 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[AI가 지원하는 광고비는 올해 3,700억 달러에 이를 것이다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8523</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8523</guid>
-            <pubDate>Fri, 08 Apr 2022 01:15:57 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2022 08:46:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[광고주는 다중 통화 업프론트 시즌을 맞이하고 있다. (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8522</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8522</guid>
-            <pubDate>Fri, 08 Apr 2022 01:15:57 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2022 08:45:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 3월에 러시아에서 가장 많이 다운로드된 앱 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8496</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8496</guid>
-            <pubDate>Sat, 02 Apr 2022 09:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[페이스북, 알고리즘 오류로 허위정보 노출 급증 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8494</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8494</guid>
-            <pubDate>Fri, 01 Apr 2022 11:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[페이스북 광고를 만들 때 랜딩페이지 조회 최적화를 하면 어떤 사람들에게 광고를 노출할까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 08 Apr 2022 01:16:08 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2022 03:02:10 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->페이스북 광고를 만들 때 랜딩페이지 조회 최적화를 하면 어떤 사람들에게 광고를 노출할까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
