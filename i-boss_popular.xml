@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-08T09:18:41.103Z</updated>
+    <updated>2022-04-08T10:21:06.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[블로그 검색노출? 유료 정보 그냥 풉니다(삭제될 수..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57431</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57431"/>
-        <updated>2022-03-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[마케팅코치마코]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[UA 잘가! GA4 어서와!]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57505</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57505"/>
         <updated>2022-04-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블로그 검색노출? 유료 정보 그냥 풉니다(삭제될 수..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57431</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57431"/>
+        <updated>2022-03-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[마케팅코치마코]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나만 알고 싶은 무료폰트 [고딕편]]]></title>
