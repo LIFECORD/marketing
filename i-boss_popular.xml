@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-07T23:18:46.372Z</updated>
+    <updated>2022-04-08T01:16:16.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -160,6 +160,13 @@
         <content type="html"><![CDATA[yoorok]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용..]]></title>
+        <id>https://www.i-boss.co.kr/ab-74668-2590</id>
+        <link href="https://www.i-boss.co.kr/ab-74668-2590"/>
+        <updated>2022-04-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[다이티]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[마케팅 책 추천, 이럴 땐 이런 책을! - 책장공개]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57437</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57437"/>
@@ -179,13 +186,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38764"/>
         <updated>2022-04-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[쩔뚝22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용..]]></title>
-        <id>https://www.i-boss.co.kr/ab-74668-2590</id>
-        <link href="https://www.i-boss.co.kr/ab-74668-2590"/>
-        <updated>2022-04-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[다이티]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쉿! 보스님만 알고 계세요. 지금 팔리는 것들의 비밀]]></title>

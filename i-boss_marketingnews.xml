@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 23:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 01:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI가 지원하는 광고비는 올해 3,700억 달러에 이를 것이다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8523</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8523</guid>
+            <pubDate>Fri, 08 Apr 2022 08:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI)이 광고산업에 얼마나 영향을 주고 있을까? 많은 부분에서 인공지능이 이야기되고 있지만, 사실 상 최근 들어서야 광고산업, 특히 미디어와 관련된 부문이 가장 영향을 받고 있다. 그룹M은 올해 인공 지능(AI) 지원 미 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[광고주는 다중 통화 업프론트 시즌을 맞이하고 있다.]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8522</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8522</guid>
+            <pubDate>Fri, 08 Apr 2022 08:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[현재 분명한 것은 하나의레거시 선형 TV 통화의 시대는 지났다.다중 통화로 나아가고 있으며,통화 지위를 놓고 경쟁하는 측정 공급업체도 있다. 여러 개의 운영 통화를 사용하면 비디오 시장에 대한 보다 미묘한 이해를 제공할  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[4월 8일 마케팅 뉴스클리핑] 서울 시민 10명 중 6명 라이브커머스 이용 외]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8521</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8494</guid>
             <pubDate>Fri, 01 Apr 2022 11:16:00 GMT</pubDate>
             <content:encoded><![CDATA[`다운랭킹` 시스템 작동 안해최대 30% 가량 더 노출   메타가 운영하는 소셜네트워크서비스(SNS) 페이스북에서 알고리즘 오류로 잘못된 정보 노출이 급증했던 것으로 확인됐다.   더 버지는 31일(현지시간) 페이스북 뉴스피드의 소 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[닐슨, 160억 달러에 사모펀드 컨소시엄에 팔린다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8493</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8493</guid>
-            <pubDate>Fri, 01 Apr 2022 08:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[닐슨홀딩스는 엘리엇매니지먼트의 계열사인 에버그린코스트캐피털과 브룩필드 비즈니스파트너스가 이끄는 사모펀드 컨소시엄에 부채 포함 160억 달러에 인수된다. 주당 28달러이다. 닐슨 이사회는 현재 이 계약이 이전 제안(25. ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[말이 필요 없는 환상의 꿀조합을 찾아라 유통업계, MZ세대 취향 저격하는 꿀케미 마케팅 인기]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8492</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8492</guid>
-            <pubDate>Fri, 01 Apr 2022 08:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근유통업계에서맛있는음식의조합으로완벽한케미를보여주는`꿀케미마케팅`이활발하다. `꿀케미마케팅`열풍은MZ세대를중심으로두개이상의음식,브랜드간의최상의조합을찾고이를공유하는트렌드가확산됨에따른것으로풀이된 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
