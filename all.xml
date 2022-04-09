@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 23:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 01:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -161,13 +161,6 @@
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마케팅밈] 마케터 해골물 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38572</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38572</guid>
-            <pubDate>Thu, 10 Mar 2022 07:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[매출 15억 찍고 망한썰 그리고 배운점. 저처럼 하지 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57492</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57492</guid>
@@ -280,13 +273,6 @@
             <content:encoded><![CDATA[다이티]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[191명이 이런 이유로 대행사를 이용한대요 🧐 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57345</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57345</guid>
-            <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[스마트스토어 1달이 약간 지난 시점입니다. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38681</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38681</guid>
@@ -348,6 +334,44 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57423</guid>
             <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[팀ROAS]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[리터없쓔 마감되쓔] 원하는 만큼 리터 드려요 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38666</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38666</guid>
+            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[내 브랜드와 꼭 맞는 유형 테스트 만들기! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57536</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57536</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[트렌드모니터] 코로나19로 영토 넓히는 가상세계, 메타버스 대중화 더욱 빨라질까 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8528</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8528</guid>
+            <pubDate>Sat, 09 Apr 2022 09:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[10명 중 6명(55.5%) 메타버스 개념 인지하고 있어...코로나19 장기화로 메타버스 관심 증가  연령별로는 20대 저연령층의 인지도(20대 65.6%, 30대 57.2%, 40대 52.8%, 50대 46.4%)가 높게 나타났으며, 여성(49.6%)보다 남성(61.4%)의 인지도가 더  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[옴니콤 미디어 그룹, LG 스마트 TV 인벤토리를 클라이언트에게 제공 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8527</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8527</guid>
+            <pubDate>Sat, 09 Apr 2022 09:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[LG애즈(LG Ads)솔루션은 옴니콤 미디어 그룹과 LG 스마트 TV와 크로스 스크린 광고 인벤토리를 옴니콤 클라이언트에게 제공하기로 합의했다고 발표했다.이번 계약에 따라 LG애즈 솔루션 데이터는 옴니콤의 수요측 데이터 운영체제 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[미디어, 광고 및 소매 전략가들은 지속 가능한 기술에 대해 어떻게 생각해야 하는가? (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8526</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8526</guid>
+            <pubDate>Sat, 09 Apr 2022 09:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[ESG는 더욱 기업 경영에 있어서 중요한 요소가 되고 있다. 반면, 기업은 명확하게 전략을 세우고 ESG를 주도하기 보다는 따라가는 경우도 있다. 이에 대해 이마케터는 전략가가 지속가능한 기술에 대해 고려해야 하는 것에 대해  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[아이언소스 퍼블리싱 솔루션 슈퍼소닉, 2년 만에 20억 회 게임 다운로드 달성 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -566,28 +590,25 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 숲은 얼마나 사라졌을까? (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8499</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8499</guid>
-            <pubDate>Sun, 03 Apr 2022 09:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[브랜드의 환경 보호에 대한 노력이 가속화되고 있다. 일회용품 줄이기, 쓰레기 줄이기, 자원 재활용, 친환경 제품 개발 등 다양한 노력이 보인다. 소비자 역시 이런 브랜드의 노력에 동참하고, 브랜드의 활동을 이끌어내기도 하 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[트렌드모니터] 코로나19로 영토 넓히는 가상세계, 메타버스 대중화 더욱 빨라질까 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8528</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8528</guid>
+            <pubDate>Sat, 09 Apr 2022 01:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[요즘 유튜브 대세는 숏무비! (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8498</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8498</guid>
-            <pubDate>Sun, 03 Apr 2022 09:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근 유튜브는 숏뮤비 국가대표 크리에이터버추얼 아이돌을2022년 1분기 유튜브의 주요 트렌드로 발표했다. #요즘 대세는 숏무비  요즘 유튜브 대세 콘텐츠는 숏무비`다. 그 시초라고 할 수 있는 채널이 바로 작년 여름에 등장한 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[옴니콤 미디어 그룹, LG 스마트 TV 인벤토리를 클라이언트에게 제공 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8527</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8527</guid>
+            <pubDate>Sat, 09 Apr 2022 01:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신중년, 90% 스크린 골프장 경험 있다... 선호하는 스크린 골프는 골프존, 야외 골프는 스카이72cc (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8497</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8497</guid>
-            <pubDate>Sun, 03 Apr 2022 09:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)가 4060 남녀 신중년의 골프 트렌드를 조사했다, 발표했다. 임팩트피플스가 에이풀(Aful)을 통해 2022년 3월 2일부터 3월 15일까지 4060 남녀 327명을 대상으로 스크린골프 이용 트렌드 조사 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[미디어, 광고 및 소매 전략가들은 지속 가능한 기술에 대해 어떻게 생각해야 하는가? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8526</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8526</guid>
+            <pubDate>Sat, 09 Apr 2022 01:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아이언소스 퍼블리싱 솔루션 슈퍼소닉, 2년 만에 20억 회 게임 다운로드 달성 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -779,31 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 숲은 얼마나 사라졌을까? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8499</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8499</guid>
-            <pubDate>Sun, 03 Apr 2022 09:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[요즘 유튜브 대세는 숏무비! (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8498</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8498</guid>
-            <pubDate>Sun, 03 Apr 2022 09:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신중년, 90% 스크린 골프장 경험 있다... 선호하는 스크린 골프는 ‘골프존’, 야외 골프는 ‘스카이72cc’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8497</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8497</guid>
-            <pubDate>Sun, 03 Apr 2022 09:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[페이스북 광고를 만들 때 랜딩페이지 조회 최적화를 하면 어떤 사람들에게 광고를 노출할까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 08 Apr 2022 23:19:49 GMT</pubDate>
+            <pubDate>Sat, 09 Apr 2022 01:15:10 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->페이스북 광고를 만들 때 랜딩페이지 조회 최적화를 하면 어떤 사람들에게 광고를 노출할까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

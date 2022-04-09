@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-04-08T23:19:57.670Z</updated>
+    <updated>2022-04-09T01:15:19.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[트렌드모니터] 코로나19로 영토 넓히는 가상세계, 메타버스 대중화 더욱 빨라질까]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8528</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8528"/>
+        <updated>2022-04-09T01:14:59.080Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[옴니콤 미디어 그룹, LG 스마트 TV 인벤토리를 클라이언트에게 제공]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8527</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8527"/>
+        <updated>2022-04-09T01:14:59.080Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미디어, 광고 및 소매 전략가들은 지속 가능한 기술에 대해 어떻게 생각해야 하는가?]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8526</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8526"/>
+        <updated>2022-04-09T01:14:59.080Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이언소스 퍼블리싱 솔루션 슈퍼소닉, 2년 만에 20억 회 게임 다운로드 달성]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8525</id>
@@ -192,27 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-8500</id>
         <link href="https://www.i-boss.co.kr/ab-2877-8500"/>
         <updated>2022-04-03T01:20:01.170Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인포그래픽] 숲은 얼마나 사라졌을까?]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8499</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8499"/>
-        <updated>2022-04-03T01:20:01.172Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 유튜브 대세는 숏무비!]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8498</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8498"/>
-        <updated>2022-04-03T01:20:01.179Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신중년, 90% 스크린 골프장 경험 있다... 선호하는 스크린 골프는 ‘골프존’, 야외 골프는 ‘스카이72cc’]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8497</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8497"/>
-        <updated>2022-04-03T01:20:01.181Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
