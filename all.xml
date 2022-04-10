@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 06:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 07:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,18 +196,18 @@
             <content:encoded><![CDATA[재비]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[모다모다가 핫해진 이유, 내가 마케팅함! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57444</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57444</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[jinhorus]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38684</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38684</guid>
             <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[모다모다가 핫해진 이유, 내가 마케팅함! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57444</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57444</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[jinhorus]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[UA 잘가! GA4 어서와! (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[페이스북 광고를 만들 때 랜딩페이지 조회 최적화를 하면 어떤 사람들에게 광고를 노출할까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 10 Apr 2022 06:21:48 GMT</pubDate>
+            <pubDate>Sun, 10 Apr 2022 07:17:24 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->페이스북 광고를 만들 때 랜딩페이지 조회 최적화를 하면 어떤 사람들에게 광고를 노출할까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
