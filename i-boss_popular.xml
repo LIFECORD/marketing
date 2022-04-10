@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-10T14:17:05.521Z</updated>
+    <updated>2022-04-10T15:18:48.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[유리나]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[투린이들을 위한 지침서 `돈, 뜨겁게 사랑하고 차갑..]]></title>
-        <id>https://www.i-boss.co.kr/ab-2973-448</id>
-        <link href="https://www.i-boss.co.kr/ab-2973-448"/>
-        <updated>2022-03-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[당첨대쓔]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용..]]></title>
         <id>https://www.i-boss.co.kr/ab-74668-2590</id>
         <link href="https://www.i-boss.co.kr/ab-74668-2590"/>
         <updated>2022-04-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[다이티]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투린이들을 위한 지침서 `돈, 뜨겁게 사랑하고 차갑..]]></title>
+        <id>https://www.i-boss.co.kr/ab-2973-448</id>
+        <link href="https://www.i-boss.co.kr/ab-2973-448"/>
+        <updated>2022-03-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영상 기획! 참고하면 좋은 사이트들!!]]></title>
