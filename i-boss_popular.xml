@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-10T09:17:51.524Z</updated>
+    <updated>2022-04-10T10:19:54.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -195,11 +195,11 @@
         <content type="html"><![CDATA[팀ROAS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[리터없쓔 마감되쓔] 원하는 만큼 리터 드려요]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38666</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38666"/>
-        <updated>2022-03-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[놀토]]></content>
+        <title type="html"><![CDATA[직장인을 위한 오피스 실무서! `무작정 따라하기 엑..]]></title>
+        <id>https://www.i-boss.co.kr/ab-2973-453</id>
+        <link href="https://www.i-boss.co.kr/ab-2973-453"/>
+        <updated>2022-04-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내 브랜드와 꼭 맞는 유형 테스트 만들기!]]></title>
@@ -209,10 +209,10 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고객이 입소문 내는 회사의 7가지 법칙]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57484</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57484"/>
-        <updated>2022-03-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[둥근마을]]></content>
+        <title type="html"><![CDATA[[리터없쓔 마감되쓔] 원하는 만큼 리터 드려요]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38666</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38666"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[놀토]]></content>
     </entry>
 </feed>
