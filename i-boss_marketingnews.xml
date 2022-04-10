@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 22:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 23:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[4월 11일 마케팅 뉴스클리핑] 네이버의 리셀 플랫폼 독주 잡는다... 무신사 투자 강화 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8533</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8533</guid>
+            <pubDate>Mon, 11 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. `네이버`의 리셀 플랫폼 독주 잡는다... 무신사 투자 강화  스니커즈 전문 리셀 플랫폼 시장을 두고 네이버의 손자회사 크림과 무신사의 자회사 솔드아웃의 경쟁이 뜨겁다. 크림이 업계 1위로 치고 나가는 가운데 솔드아웃은  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a21085340c0f588ff560559133016023_30968_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오길비, 사진을 보정하는 인플루언서와 더 이상 일하지 않는다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8532</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8504</guid>
             <pubDate>Mon, 04 Apr 2022 08:51:00 GMT</pubDate>
             <content:encoded><![CDATA[웬디스는 메타의 호라이즌 월드와 협력해서, 메타버스 매장인 `웬디버스`를 4월 2일 오픈했다.웬디버스는 팬들을 위한 사교, 제로 칼로리 주문, 제로 플레이버 베이컨과 프로스티 등을 위한 모임 장소로 사용될 예정이다. 웬디스 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[미디어 인력난, 광고회사는 무엇을 하고 있나]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8503</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8503</guid>
-            <pubDate>Mon, 04 Apr 2022 08:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[`대퇴사 시대(Great Resignation)`으로 인한 혼란은 광고산업에도 영상당한 부담을 주고 있는 것으로 조사됐다. 특히,미디어 인력난이 광고주와 광고회사 모두의 최대 관심사로 떠오르고 있다. ID Comms의100억 달러 이상의 글로벌 미디 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

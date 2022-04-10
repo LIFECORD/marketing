@@ -2,7 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-5826</id>
     <title>아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈</title>
-    <updated>2022-04-10T22:18:43.949Z</updated>
+    <updated>2022-04-10T23:18:41.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다음 이미지에서 설명하고 있는 '이것'은 무엇일까요?]]></title>
+        <id>https://www.i-boss.co.kr/ab-5826</id>
+        <link href="https://www.i-boss.co.kr/ab-5826"/>
+        <updated>2022-04-10T23:18:32.976Z</updated>
+        <content type="html"><![CDATA[<tbody><tr>
+				<td><!--1-->다음 이미지에서 설명하고 있는 '이것'은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/2324c3ed71a96e7c27f0965807d89049_16493256197259.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1398_1" value="1" class="AB-radio" id="PQ_BD5826_1398_1_0"><label for="PQ_BD5826_1398_1_0" id="label_PQ_BD5826_1398_1_0">(A) 트위터 딜</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1398_1" value="2" class="AB-radio" id="PQ_BD5826_1398_1_1"><label for="PQ_BD5826_1398_1_1" id="label_PQ_BD5826_1398_1_1">(B) 트위터 몰</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1398_1" value="3" class="AB-radio" id="PQ_BD5826_1398_1_2"><label for="PQ_BD5826_1398_1_2" id="label_PQ_BD5826_1398_1_2">(C) 트위터 숍</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1398_1" value="4" class="AB-radio" id="PQ_BD5826_1398_1_3"><label for="PQ_BD5826_1398_1_3" id="label_PQ_BD5826_1398_1_3">(D) 트위터 스토어</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content>
+    </entry>
 </feed>
