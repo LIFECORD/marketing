@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 23:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 01:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인앱결제 논란 A to Z (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/946969-%EC%9D%B8%EC%95%B1%EA%B2%B0%EC%A0%9C_%EB%85%BC%EB%9E%80_A_to_Z/</link>
+            <guid>https://qletter.i-boss.co.kr/view/946969-%EC%9D%B8%EC%95%B1%EA%B2%B0%EC%A0%9C_%EB%85%BC%EB%9E%80_A_to_Z/</guid>
+            <pubDate>Mon, 11 Apr 2022 01:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/946969-인앱결제_논란_A_to_Z/">
+						<div class="thumb"><img src="/images/qletter_946969.png"></div>
+						<p><strong>인앱결제 논란 A to Z</strong>2022.04.11</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_946969.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유형 테스트? 안 만들고는 못 참지 🤩 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/943626-%EC%9C%A0%ED%98%95_%ED%85%8C%EC%8A%A4%ED%8A%B8_%EC%95%88_%EB%A7%8C%EB%93%A4%EA%B3%A0%EB%8A%94_%EB%AA%BB_%EC%B0%B8%EC%A7%80/</link>
@@ -127,17 +138,6 @@
 						<p><strong>보스님, 제 의견이 무시당하는 이유가 뭘까요?</strong>2022.03.03</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_894068.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[콘텐츠 플랫폼을 바라보는 같지만 다른 시각 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/888919-%EC%BD%98%ED%85%90%EC%B8%A0_%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%84_%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94_%EA%B0%99%EC%A7%80%EB%A7%8C_%EB%8B%A4%EB%A5%B8_%EC%8B%9C%EA%B0%81/</link>
-            <guid>https://qletter.i-boss.co.kr/view/888919-%EC%BD%98%ED%85%90%EC%B8%A0_%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%84_%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94_%EA%B0%99%EC%A7%80%EB%A7%8C_%EB%8B%A4%EB%A5%B8_%EC%8B%9C%EA%B0%81/</guid>
-            <pubDate>Mon, 28 Feb 2022 01:03:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/888919-콘텐츠_플랫폼을_바라보는_같지만_다른_시각/">
-						<div class="thumb"><img src="/images/qletter_888919.png"></div>
-						<p><strong>콘텐츠 플랫폼을 바라보는 같지만 다른 시각</strong>2022.02.28</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_888919.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[1급 SNS광고마케터가 되어보자! `SNS광고마케터 1급` 도.. (아이보스 ─ 인기글)]]></title>
@@ -308,6 +308,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[직장인을 위한 오피스 실무서! `무작정 따라하기 엑.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-453</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-453</guid>
+            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[선후배님들은 취미가 뭐에요? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38672</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38672</guid>
@@ -329,13 +336,6 @@
             <content:encoded><![CDATA[팀ROAS]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[직장인을 위한 오피스 실무서! `무작정 따라하기 엑.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-453</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-453</guid>
-            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[내 브랜드와 꼭 맞는 유형 테스트 만들기! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57536</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57536</guid>
@@ -348,6 +348,54 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38666</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[놀토]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[앱러빈, 더 트레이드 데스크와 파트너십 체결.. TTD 광고주에게 앱러빈 익스체인지 제공 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8539</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8539</guid>
+            <pubDate>Mon, 11 Apr 2022 10:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅 소프트웨어 선도 기업 앱러빈(AppLovin, AppLovin Corporation (NASDAQ: APP))과 프로그래매틱 광고 전문 기업 더 트레이드 데스크(The Trade Desk, NASDAQ: TTD)가 광고주들에게 앱러빈 익스체인지(AppLovin Exchange, ALX)를 제공하기 위한 파트너 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[대홍기획, 창립 40주년 맞아 새로운 비전 Thinknology 발표 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8538</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8538</guid>
+            <pubDate>Mon, 11 Apr 2022 09:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[종합광고회사 대홍기획(대표이사:홍성현)이 창립40주년을 맞아 새로운 경영 비전을 선포했다. 대홍기획은7일 사내 라이브방송으로 기념행사를 하고 새로운 비전 Thinknology(씽크놀로지)를 발표했다.Thinknology는Think와Technology의 합 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[제일기획, 애드페스트 2022서 금상 4개 등 19개 수상... 슬로우로드 캠페인 국내 최다 수상 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8537</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8537</guid>
+            <pubDate>Mon, 11 Apr 2022 09:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[제일기획(대표이사 사장 유정근)이 아시아-태평양 지역의 대표 광고제인 `애드페스트(ADFEST) 2022`에서 금상 4개, 은상 10개, 동상 5개 등 총 19개의 본상을 수상했다. 특히, 국내와 중국 지역에서 각각 9개와 10개의 본상을 수상해 각  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[이노션, 애드페스트 2022에서 골드 포함 본상 8개 수상...기술과 크리에이티브를 접목한 캠페인 호평 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8536</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8536</guid>
+            <pubDate>Mon, 11 Apr 2022 09:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[이노션 월드와이드(대표이사 이용우, 이하 이노션)는 아시아태평양 지역 대표 광고제인 애드페스트(ADFEST) 2022에서 금상 1개, 은상 4개, 동상 3개를 각각 수상했다고 11일 밝혔다.  캠페인은 PR부문에서 금상 1개를 포함해 총 5개의  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[Account Action] 2월의 아쉬움을 뒤로하고 점프업한 3월 경쟁 PT (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8535</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8535</guid>
+            <pubDate>Mon, 11 Apr 2022 08:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[아쉬웠던 2월의 경쟁 PT와 반대로 3월의 경쟁 PT는 비약적으로 점프업했다! 2월 하락세를 대반전시킨 3월은 광고업계는 매우 양호한 상황으로 활짝 웃음과 동시에 매우 바쁜 이중 구조(외적으로는 경쟁 PT의 증가로 미소, 내적으로 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 서울서베이를 통해 본 2030세대의 삶은? (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8534</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8534</guid>
+            <pubDate>Mon, 11 Apr 2022 08:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[서울시가 2021 서울서베이 조사통계자료를 활용해 서울에 거주하는 2030세대의 주거와 일상, 직장과 여가생활, 그리고 의식을 재구성해 2030세대의 평균적인 삶의 모습을 분석하고, 그 결과를 발표했다. 이번 조사는 2030세대의 현 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[4월 11일 마케팅 뉴스클리핑] 네이버의 리셀 플랫폼 독주 잡는다... 무신사 투자 강화 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -542,58 +590,52 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_3c922e68d35dfc54a92448b71dde3dfb_73238_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[콘텐츠도 즐기고 기부도 하고 방구석 연구소, 식목일 맞아 산불피해 기부 캠페인 나무를 부탁해 4월 한달 진행 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8509</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8509</guid>
-            <pubDate>Tue, 05 Apr 2022 09:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[소프트스피어(대표 임하은)가 메타 콘텐츠 제작사 방구석 연구소와 메타 콘텐츠 오픈 플랫폼 메타브의 공동 기획으로 식목일을 맞아 나무를 부탁해 기부캠페인을 진행한다. 해당 캠페인은 이용자가 나를 나타내는 씨앗을 심고  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[앱러빈, 더 트레이드 데스크와 파트너십 체결.. TTD 광고주에게 앱러빈 익스체인지 제공 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8539</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8539</guid>
+            <pubDate>Mon, 11 Apr 2022 01:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[MZ세대, 돈 더 내도 ESG 실천 기업 제품 사겠다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8508</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8508</guid>
-            <pubDate>Tue, 05 Apr 2022 08:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[ESG가 기업경영의 화두를 넘어 사회적 트렌드가 되고 있는 가운데, 새로운 소비주체로 부상한 MZ세대들은 제품 구매 시 기업의 ESG경영 실천여부를 중요하게 인식하는 것으로 조사됐다. 대한상공회의소(회장 최태원)가 최근 MZ세 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[대홍기획, 창립 40주년 맞아 새로운 비전 ‘Thinknology’ 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8538</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8538</guid>
+            <pubDate>Mon, 11 Apr 2022 01:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[4월 5일 마케팅 뉴스클리핑] 가품 판매 논란 무신사, 에센셜 판매 중단200% 보상 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8506</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8506</guid>
-            <pubDate>Tue, 05 Apr 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 가품 판매 논란 무신사, 에센셜 판매 중단200% 보상  네이버의 리셀 플랫폼 `크림`과 가품 판매 논란을 벌여온 무신사가 문제가 된 브랜드인 `피어 오브 갓 에센셜` 제품 판매를 중단하고 200% 보상에 나선다. 무신사는 피어 오브  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_9206b7855a8b0d0d65a5064d1b69066c_64014_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[제일기획, '애드페스트 2022'서 금상 4개 등 19개 수상...' 슬로우로드' 캠페인 국내 최다 수상 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8537</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8537</guid>
+            <pubDate>Mon, 11 Apr 2022 01:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코로나 후 2년... 숙박 지역 다양해지고, 관광지 방문 줄어 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8507</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8507</guid>
-            <pubDate>Mon, 04 Apr 2022 08:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19가 장기화되며 국내 숙박 예약 지역이 다양해지고, 방문하는 장소는 줄어드는 등 여행 트렌드가 변화한 것으로 나타났다.  먼저 호텔 예약은 수도권과 지방 광역시, 중소 도시(경상, 전라, 충청권)의 비중이 늘어나면서  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_114429da72d43757b900d87d51b0e1f8_94016_1.png" length="0" type="image/png"/>
+            <title><![CDATA[이노션, ‘애드페스트 2022’에서 골드 포함 본상 8개 수상...기술과 크리에이티브를 접목한 캠페인 호평 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8536</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8536</guid>
+            <pubDate>Mon, 11 Apr 2022 01:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[황장선 중앙대 교수, 제27대 한국광고학회 회장 취임 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8505</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8505</guid>
-            <pubDate>Mon, 04 Apr 2022 09:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국광고학회는 오는 4월 8일 황장선(사진) 중앙대 광고홍보학과 교수가 제27대 학회장으로 취임한다고 밝혔다. 황장선 교수의 임기는 내년 4월까지 1년이다. 황장선 교수는 2003년 미국 테네시대학교에서 커뮤니케이션 박사학위( ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[Account Action] 2월의 아쉬움을 뒤로하고 점프업한 3월 경쟁 PT (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8535</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8535</guid>
+            <pubDate>Mon, 11 Apr 2022 01:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[해외 크리에이티브] Welcome to the Wendyverse! 웬디스, 메타버스에서 버거를 판매하다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8504</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8504</guid>
-            <pubDate>Mon, 04 Apr 2022 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[웬디스는 메타의 호라이즌 월드와 협력해서, 메타버스 매장인 `웬디버스`를 4월 2일 오픈했다.웬디버스는 팬들을 위한 사교, 제로 칼로리 주문, 제로 플레이버 베이컨과 프로스티 등을 위한 모임 장소로 사용될 예정이다. 웬디스 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA["2021 서울서베이"를 통해 본 2030세대의 삶은? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8534</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8534</guid>
+            <pubDate>Mon, 11 Apr 2022 01:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[4월 11일 마케팅 뉴스클리핑] '네이버'의 리셀 플랫폼 독주 잡는다... 무신사 투자 강화 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8533</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8533</guid>
-            <pubDate>Sun, 10 Apr 2022 23:18:22 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -758,52 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["콘텐츠도 즐기고 기부도 하고" 방구석 연구소, 식목일 맞아 산불피해 기부 캠페인 ‘나무를 부탁해’ 4월 한달 진행 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8509</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8509</guid>
-            <pubDate>Tue, 05 Apr 2022 09:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MZ세대, "돈 더 내도 ESG 실천 기업 제품 사겠다” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8508</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8508</guid>
-            <pubDate>Tue, 05 Apr 2022 08:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[4월 5일 마케팅 뉴스클리핑] 가품 판매 논란 무신사, 에센셜 판매 중단·200% 보상 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8506</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8506</guid>
-            <pubDate>Tue, 05 Apr 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코로나 후 2년... 숙박 지역 다양해지고, 관광지 방문 줄어 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8507</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8507</guid>
-            <pubDate>Mon, 04 Apr 2022 08:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[황장선 중앙대 교수, 제27대 한국광고학회 회장 취임 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8505</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8505</guid>
-            <pubDate>Mon, 04 Apr 2022 09:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[해외 크리에이티브] "Welcome to the Wendyverse!" 웬디스, 메타버스에서 버거를 판매하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8504</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8504</guid>
-            <pubDate>Mon, 04 Apr 2022 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지에서 설명하고 있는 '이것'은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 10 Apr 2022 23:18:32 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2022 01:21:04 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 설명하고 있는 '이것'은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/2324c3ed71a96e7c27f0965807d89049_16493256197259.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
