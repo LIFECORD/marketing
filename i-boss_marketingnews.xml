@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 22:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 23:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[4월 12일 마케팅 뉴스클리핑] 트위터 블루 기업광고 없애고, 구독료는 도지코인도 가능 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8542</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8542</guid>
+            <pubDate>Tue, 12 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. `트위터 블루` 기업광고 없애고, 구독료는 도지코인도 가능  최근 트위터의 최대 주주로 등극한 테슬라의 일론 머스크 CEO가 트위터의 유료 프리미엄 서비스인 `트위터 블루`의 혁신 방안을 제시했다. 트위터 블루에 대해 더 이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c05062dc3a12ab962569c00d7a9c86f2_47591_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배민, AI 기술로 허위리뷰 확 줄였다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8541</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8513</guid>
             <pubDate>Wed, 06 Apr 2022 08:51:00 GMT</pubDate>
             <content:encoded><![CDATA[한국NFT콘텐츠협회(회장 김영진, 이사장 김형주)는 오는 13일 NFT INVESTOR DAY (NFT 투자 IR쇼)를 VSG아레나(역삼동)에서 개최한다고 밝혔다. NFT INVESTOR DAY는 최근 가상자산시장 및 콘텐츠 시장에서 높은 관심을 받고 있는 NFT 시장의 활성 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외 크리에이티브] 콜라의 새로운 픽셀 맛이 포트나이트에 등장하다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8512</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8512</guid>
-            <pubDate>Wed, 06 Apr 2022 08:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[코카콜라는 새로운 맛을 지속적으로 출시하기 위한 Creations(한국명 크리에디션) 플랫폼을 빠르게 구축하고 있다. 우주의 맛인 `Starlight(한국명 스타더스트)`에 이어 두 번째 음료를 출시한다. 이번에는 게임에서 영감을 받은 픽셀 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
