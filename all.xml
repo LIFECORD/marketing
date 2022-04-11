@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 19:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 20:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,18 +294,18 @@
             <content:encoded><![CDATA[업스타그램]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[첫출근!! 병아리 퍼포먼스 마케터 도와주세요 ㅜㅜ (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38764</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38764</guid>
-            <pubDate>Sun, 03 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쩔뚝22]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[직장인을 위한 오피스 실무서! `무작정 따라하기 엑.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-453</link>
             <guid>https://www.i-boss.co.kr/ab-2973-453</guid>
             <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[첫출근!! 병아리 퍼포먼스 마케터 도와주세요 ㅜㅜ (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38764</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38764</guid>
+            <pubDate>Sun, 03 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쩔뚝22]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쉿! 보스님만 알고 계세요. 지금 팔리는 것들의 비밀 (아이보스 ─ 인기글)]]></title>
