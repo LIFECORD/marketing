@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 01:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 04:25:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,18 +203,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[모다모다가 핫해진 이유, 내가 마케팅함! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57444</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57444</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[jinhorus]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[UA 잘가! GA4 어서와! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57505</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57505</guid>
             <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[모다모다가 핫해진 이유, 내가 마케팅함! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57444</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57444</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[jinhorus]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[블로그 검색노출? 유료 정보 그냥 풉니다(삭제될 수.. (아이보스 ─ 인기글)]]></title>
@@ -301,18 +301,18 @@
             <content:encoded><![CDATA[쩔뚝22]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쉿! 보스님만 알고 계세요. 지금 팔리는 것들의 비밀 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-5637-31</link>
-            <guid>https://www.i-boss.co.kr/ab-5637-31</guid>
-            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[직장인을 위한 오피스 실무서! `무작정 따라하기 엑.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-453</link>
             <guid>https://www.i-boss.co.kr/ab-2973-453</guid>
             <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쉿! 보스님만 알고 계세요. 지금 팔리는 것들의 비밀 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-5637-31</link>
+            <guid>https://www.i-boss.co.kr/ab-5637-31</guid>
+            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[선후배님들은 취미가 뭐에요? (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38666</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[놀토]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 부산국제광고제 본선 심사위원 1차 발표... 세계 주요 광고제를 휩쓴 브라이언 머레이 본선 심사 참여 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8540</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8540</guid>
+            <pubDate>Mon, 11 Apr 2022 11:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제광고제 조직위원회(조직위원장 박형준 부산시장)가 올해 본선 심사위원단을 1차 공개했다. 올해 가장 눈에 띄는 심사위원으로는 코로나19 팬데믹 극복을 위한 크리에이티브 솔루션인 캠페인 으로 칸 등 세계 유명 광고 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[앱러빈, 더 트레이드 데스크와 파트너십 체결.. TTD 광고주에게 앱러빈 익스체인지 제공 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,53 +590,52 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0339eb8a80f834072220ad62367b9184_58053_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가품 논란 진화 나선 무신사, 명품 검수 절차 강화브랜드 공식 유통 파트너십 확대 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8510</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8510</guid>
-            <pubDate>Tue, 05 Apr 2022 11:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[무신사가 가품 문제를 해결하기 위한 방안 마련에 나섰다.  무신사는 해외 명품에 대한 검수 절차를 강화하기 위해 기존 시스템을 전면 개선하고, 공식 파트너로서 상품을 판매하는 브랜드 파트너십을 확대한다는 방침이다.    ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_3c922e68d35dfc54a92448b71dde3dfb_73238_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2022 부산국제광고제 본선 심사위원 1차 발표... 세계 주요 광고제를 휩쓴 브라이언 머레이 본선 심사 참여 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8540</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8540</guid>
+            <pubDate>Mon, 11 Apr 2022 04:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[앱러빈, 더 트레이드 데스크와 파트너십 체결.. TTD 광고주에게 앱러빈 익스체인지 제공 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8539</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8539</guid>
-            <pubDate>Mon, 11 Apr 2022 01:20:51 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2022 10:02:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[대홍기획, 창립 40주년 맞아 새로운 비전 ‘Thinknology’ 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8538</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8538</guid>
-            <pubDate>Mon, 11 Apr 2022 01:20:51 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2022 09:59:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제일기획, '애드페스트 2022'서 금상 4개 등 19개 수상...' 슬로우로드' 캠페인 국내 최다 수상 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8537</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8537</guid>
-            <pubDate>Mon, 11 Apr 2022 01:20:51 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2022 09:58:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이노션, ‘애드페스트 2022’에서 골드 포함 본상 8개 수상...기술과 크리에이티브를 접목한 캠페인 호평 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8536</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8536</guid>
-            <pubDate>Mon, 11 Apr 2022 01:20:51 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2022 09:55:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[Account Action] 2월의 아쉬움을 뒤로하고 점프업한 3월 경쟁 PT (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8535</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8535</guid>
-            <pubDate>Mon, 11 Apr 2022 01:20:51 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2022 08:47:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["2021 서울서베이"를 통해 본 2030세대의 삶은? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8534</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8534</guid>
-            <pubDate>Mon, 11 Apr 2022 01:20:51 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2022 08:47:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가품 논란 진화 나선 무신사, 명품 검수 절차 강화·브랜드 공식 유통 파트너십 확대 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8510</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8510</guid>
-            <pubDate>Tue, 05 Apr 2022 11:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지에서 설명하고 있는 '이것'은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 11 Apr 2022 01:21:04 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2022 04:25:43 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 설명하고 있는 '이것'은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/2324c3ed71a96e7c27f0965807d89049_16493256197259.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
