@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 07:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 08:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배민, AI 기술로 허위리뷰 확 줄였다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8541</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8541</guid>
+            <pubDate>Mon, 11 Apr 2022 08:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[허위 의심 리뷰 제보, 작년 연 최고점 대비 60% 이상 감소  배달의민족(배민) 운영사 우아한형제들이 지난해 허위리뷰 11만4천54건을 차단했다고 11일 밝혔다. 허위리뷰는 이용자가 음식 배달, 취식 없이 거짓으로 작성한 리뷰다.   ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2022 부산국제광고제 본선 심사위원 1차 발표... 세계 주요 광고제를 휩쓴 브라이언 머레이 본선 심사 참여]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8540</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Apr 2022 08:50:00 GMT</pubDate>
             <content:encoded><![CDATA[코카콜라는 새로운 맛을 지속적으로 출시하기 위한 Creations(한국명 크리에디션) 플랫폼을 빠르게 구축하고 있다. 우주의 맛인 `Starlight(한국명 스타더스트)`에 이어 두 번째 음료를 출시한다. 이번에는 게임에서 영감을 받은 픽셀 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[4월 6일 마케팅 뉴스클리핑] 카카오톡 선물하기 장바구니 도입 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8511</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8511</guid>
-            <pubDate>Wed, 06 Apr 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 카카오톡 선물하기 장바구니 도입  카카오가 카카오톡 선물하기에 장바구니 기능을 도입한다. 지난해 모바일 교환권을 한 번에 보낼 수 있는 선물상자 도입에 이어 배송 선물도 한 번에 결제해 배송할 수 있게 됐다. 그동안 ` ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0339eb8a80f834072220ad62367b9184_58053_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

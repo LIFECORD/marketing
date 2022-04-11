@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 07:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 08:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,18 +231,18 @@
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SNS광고마케터 1급 샘플 문제 A/B형 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-3208-767</link>
-            <guid>https://www.i-boss.co.kr/ab-3208-767</guid>
-            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[유리나]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-74668-2590</link>
             <guid>https://www.i-boss.co.kr/ab-74668-2590</guid>
             <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다이티]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SNS광고마케터 1급 샘플 문제 A/B형 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-3208-767</link>
+            <guid>https://www.i-boss.co.kr/ab-3208-767</guid>
+            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[투린이들을 위한 지침서 `돈, 뜨겁게 사랑하고 차갑.. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38666</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[놀토]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[배민, AI 기술로 허위리뷰 확 줄였다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8541</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8541</guid>
+            <pubDate>Mon, 11 Apr 2022 08:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[허위 의심 리뷰 제보, 작년 연 최고점 대비 60% 이상 감소  배달의민족(배민) 운영사 우아한형제들이 지난해 허위리뷰 11만4천54건을 차단했다고 11일 밝혔다. 허위리뷰는 이용자가 음식 배달, 취식 없이 거짓으로 작성한 리뷰다.   ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 부산국제광고제 본선 심사위원 1차 발표... 세계 주요 광고제를 휩쓴 브라이언 머레이 본선 심사 참여 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[4월 6일 마케팅 뉴스클리핑] 카카오톡 선물하기 장바구니 도입 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8511</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8511</guid>
-            <pubDate>Wed, 06 Apr 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 카카오톡 선물하기 장바구니 도입  카카오가 카카오톡 선물하기에 장바구니 기능을 도입한다. 지난해 모바일 교환권을 한 번에 보낼 수 있는 선물상자 도입에 이어 배송 선물도 한 번에 결제해 배송할 수 있게 됐다. 그동안 ` ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0339eb8a80f834072220ad62367b9184_58053_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[배민, AI 기술로 허위리뷰 확 줄였다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8541</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8541</guid>
+            <pubDate>Mon, 11 Apr 2022 08:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 부산국제광고제 본선 심사위원 1차 발표... 세계 주요 광고제를 휩쓴 브라이언 머레이 본선 심사 참여 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[4월 6일 마케팅 뉴스클리핑] 카카오톡 선물하기 장바구니 도입 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8511</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8511</guid>
-            <pubDate>Wed, 06 Apr 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지에서 설명하고 있는 '이것'은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 11 Apr 2022 07:19:31 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2022 08:22:39 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 설명하고 있는 '이것'은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/2324c3ed71a96e7c27f0965807d89049_16493256197259.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

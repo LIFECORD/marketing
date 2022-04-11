@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-11T07:19:41.267Z</updated>
+    <updated>2022-04-11T08:22:48.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[휴이언니]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SNS광고마케터 1급 샘플 문제 A/B형]]></title>
-        <id>https://www.i-boss.co.kr/ab-3208-767</id>
-        <link href="https://www.i-boss.co.kr/ab-3208-767"/>
-        <updated>2022-03-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유리나]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용..]]></title>
         <id>https://www.i-boss.co.kr/ab-74668-2590</id>
         <link href="https://www.i-boss.co.kr/ab-74668-2590"/>
         <updated>2022-04-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[다이티]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SNS광고마케터 1급 샘플 문제 A/B형]]></title>
+        <id>https://www.i-boss.co.kr/ab-3208-767</id>
+        <link href="https://www.i-boss.co.kr/ab-3208-767"/>
+        <updated>2022-03-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[유리나]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[투린이들을 위한 지침서 `돈, 뜨겁게 사랑하고 차갑..]]></title>
