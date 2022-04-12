@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 22:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 23:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[4월 13일 마케팅 뉴스클리핑] 쿠팡, 1분기 결제추정금 네이버 제치고 1위 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8550</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8550</guid>
+            <pubDate>Wed, 13 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 쿠팡, 1분기 결제추정금 네이버 제치고 1위  올 1분기 많이 결제한 이커머스 서비스 순서는 쿠팡, 네이버, SSG닷컴, 배달의 민족, 11번가 순으로 조사됐다. 쿠팡의 1분기 결제추정금액은 28% 늘어난 9조 6,226억 원이었고, 이어 네이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_9a6946456339861d5deea28f4a097bcb_65111_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년 1분기 한국인이 가장 많이 결제한 이커머스 서비스는?]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8549</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Apr 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 서울 시민 10명 중 6명 라이브커머스 이용  서울 시민 10명 중 6명은 라이브커머스를 이용한 적이 있는 것으로 나타났다. 응답자의 57.9%는 라이브커머스를 이용한 적이 있으며, 2020년 조사 때 27.4%보다 2배 가까이 늘었다. 하지만  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16493269588776.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시민, 10명 중 6명 라이브커머스 이용... 홈쇼핑과 달리 20~50대 고루 이용]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8520</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8520</guid>
-            <pubDate>Thu, 07 Apr 2022 10:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[서울시는 실시간 방송 판매(라이브커머스) 이용실태조사 결과를 6발표했다.서울시는 라이브커머스시장이 커지고 있는 상황으로 소비자피해 발생 우려가 있어 이번에 서울시전자상거래센터를 통해서 20~50대 소비자 4,000명 중 라 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
