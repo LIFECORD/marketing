@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 01:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 03:04:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외 크리에이티브] 맥도날드 말레이시아가 40주년을 기념하는 법]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8558</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8558</guid>
+            <pubDate>Wed, 13 Apr 2022 11:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[맥도날드 말레이시아는 쿠알라룸푸르의 횡단 보도를 커다란 감자튀김으로 바꿨다. 광고회사 레오버넷 말레이시아는 말레이시아 최초의 부킷빈탕 맥도날드 매장을 기념하기 위해, 쇼핑몰 앞 횡단보도를 감자튀김으로 바꾼 것 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[마케팅 리서치도 자동화 되는 시대가 온다... 칸타코리아, 칸타 마켓플레이스 활용사례 공유]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8557</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8529</guid>
             <pubDate>Sun, 10 Apr 2022 08:58:00 GMT</pubDate>
             <content:encoded><![CDATA[스태티스타는 영국 통신규제기관 오프컴(Ofcom)이 2021년 부모들을 대상으로 실시한 설문조사를 바탕으로 인포그래픽을 발표했다. 영국3세 어린이의 25%는소셜 미디어 프로필을 가지고 있다. 대부분의 소셜 미디어 사이트들이 그 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[트렌드모니터] 코로나19로 영토 넓히는 가상세계, 메타버스 대중화 더욱 빨라질까]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8528</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8528</guid>
-            <pubDate>Sat, 09 Apr 2022 09:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[10명 중 6명(55.5%) 메타버스 개념 인지하고 있어...코로나19 장기화로 메타버스 관심 증가  연령별로는 20대 저연령층의 인지도(20대 65.6%, 30대 57.2%, 40대 52.8%, 50대 46.4%)가 높게 나타났으며, 여성(49.6%)보다 남성(61.4%)의 인지도가 더  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
