@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-13T05:17:53.034Z</updated>
+    <updated>2022-04-13T06:24:23.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -83,6 +83,13 @@
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용..]]></title>
+        <id>https://www.i-boss.co.kr/ab-74668-2590</id>
+        <link href="https://www.i-boss.co.kr/ab-74668-2590"/>
+        <updated>2022-04-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[다이티]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[블로그 검색노출? 유료 정보 그냥 풉니다(삭제될 수..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57431</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57431"/>
@@ -95,13 +102,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57504"/>
         <updated>2022-04-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[휴이언니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용..]]></title>
-        <id>https://www.i-boss.co.kr/ab-74668-2590</id>
-        <link href="https://www.i-boss.co.kr/ab-74668-2590"/>
-        <updated>2022-04-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[다이티]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SNS광고마케터 1급 샘플 문제 A/B형]]></title>
@@ -146,18 +146,18 @@
         <content type="html"><![CDATA[리유]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[좋아요가 늘어나는 유니콘 콘텐츠 만들기]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57381</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57381"/>
-        <updated>2022-03-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[업스타그램]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내 브랜드와 꼭 맞는 유형 테스트 만들기!]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57536</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57536"/>
         <updated>2022-04-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[좋아요가 늘어나는 유니콘 콘텐츠 만들기]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57381</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57381"/>
+        <updated>2022-03-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[업스타그램]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[첫출근!! 병아리 퍼포먼스 마케터 도와주세요 ㅜㅜ]]></title>
