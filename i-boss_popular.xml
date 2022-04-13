@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-13T10:22:10.707Z</updated>
+    <updated>2022-04-13T11:18:07.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -209,10 +209,10 @@
         <content type="html"><![CDATA[근육돌이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[리터없쓔 마감되쓔] 원하는 만큼 리터 드려요]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38666</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38666"/>
-        <updated>2022-03-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[놀토]]></content>
+        <title type="html"><![CDATA[MD와 마케터 이도저도 아닌 나]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38817</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38817"/>
+        <updated>2022-04-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[모야야]]></content>
     </entry>
 </feed>
