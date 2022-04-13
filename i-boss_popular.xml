@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-13T09:19:10.608Z</updated>
+    <updated>2022-04-13T10:22:10.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[다이티]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38684</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38684"/>
-        <updated>2022-03-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[블로그 검색노출? 유료 정보 그냥 풉니다(삭제될 수..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57431</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57431"/>
         <updated>2022-03-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[마케팅코치마코]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38684</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38684"/>
+        <updated>2022-03-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나만 알고 싶은 무료폰트 [고딕편]]]></title>
@@ -202,17 +202,17 @@
         <content type="html"><![CDATA[근육돌이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[마케터 각 연차별 체크리스트  체크해보세요!]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57572</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57572"/>
+        <updated>2022-04-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[근육돌이]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[리터없쓔 마감되쓔] 원하는 만큼 리터 드려요]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38666</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38666"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[놀토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고객이 입소문 내는 회사의 7가지 법칙]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57484</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57484"/>
-        <updated>2022-03-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[둥근마을]]></content>
     </entry>
 </feed>
