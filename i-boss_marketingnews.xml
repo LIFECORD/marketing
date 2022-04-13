@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 22:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 23:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[4월 14일 마케팅 뉴스클리핑] 네이버, 중국산 짝퉁 판매 원천 차단한다 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8559</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8559</guid>
+            <pubDate>Thu, 14 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버, `중국산 짝퉁` 판매 원천 차단한다  네이버가 외국인의 스마트스토어 가입 조건을 대폭 강화한다. 앞으로 국내 거주 외국인의 경우 사업자등록증을 제출해야만 판매 승인을 받을 수 있다. 오픈마켓에서 위조상품(가품 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_94a726e7888a5bf33cc61015927e506c_2898_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외 크리에이티브] 맥도날드 말레이시아가 40주년을 기념하는 법]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8558</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8530</guid>
             <pubDate>Sun, 10 Apr 2022 08:58:00 GMT</pubDate>
             <content:encoded><![CDATA[레고 그룹과 에픽게임즈는 어린이와 가족이 안전하고 재미있는 메타버스를 구축하기 위한 장기적인 파트너십을 체결한다고 발표했다. 두 회사는 모든 연령대의 어린이가 함께 즐길 수 있는 몰입감 있고 창의적이며 매력적인  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 소셜미디어와 어린이]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8529</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8529</guid>
-            <pubDate>Sun, 10 Apr 2022 08:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[스태티스타는 영국 통신규제기관 오프컴(Ofcom)이 2021년 부모들을 대상으로 실시한 설문조사를 바탕으로 인포그래픽을 발표했다. 영국3세 어린이의 25%는소셜 미디어 프로필을 가지고 있다. 대부분의 소셜 미디어 사이트들이 그 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
