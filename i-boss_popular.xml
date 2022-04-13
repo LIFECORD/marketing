@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-13T07:19:10.225Z</updated>
+    <updated>2022-04-13T08:24:05.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[재비]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38684</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38684"/>
-        <updated>2022-03-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용..]]></title>
         <id>https://www.i-boss.co.kr/ab-74668-2590</id>
         <link href="https://www.i-boss.co.kr/ab-74668-2590"/>
         <updated>2022-04-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[다이티]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38684</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38684"/>
+        <updated>2022-03-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[블로그 검색노출? 유료 정보 그냥 풉니다(삭제될 수..]]></title>
