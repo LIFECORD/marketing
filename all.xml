@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 03:04:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 04:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,18 +287,18 @@
             <content:encoded><![CDATA[업스타그램]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[첫출근!! 병아리 퍼포먼스 마케터 도와주세요 ㅜㅜ (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38764</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38764</guid>
-            <pubDate>Sun, 03 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쩔뚝22]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[내 브랜드와 꼭 맞는 유형 테스트 만들기! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57536</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57536</guid>
             <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[첫출근!! 병아리 퍼포먼스 마케터 도와주세요 ㅜㅜ (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38764</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38764</guid>
+            <pubDate>Sun, 03 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쩔뚝22]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쉿! 보스님만 알고 계세요. 지금 팔리는 것들의 비밀 (아이보스 ─ 인기글)]]></title>
@@ -593,7 +593,7 @@
             <title><![CDATA[[해외 크리에이티브] 맥도날드 말레이시아가 40주년을 기념하는 법 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8558</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8558</guid>
-            <pubDate>Wed, 13 Apr 2022 03:04:25 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2022 11:51:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[인스타그램이 15분 미만 동영상을 '이것'으로 통합해 시범 운영한다고 밝혔습니다. 인스타그램의 숏폼 콘텐츠인 '이것'의 이름은 무엇일까요?(hint: 힌트에 진심인 마케터라면? 4/7 뉴스클리핑을 확인하세요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 13 Apr 2022 03:04:36 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->인스타그램이 15분 미만 동영상을 '이것'으로 통합해 시범 운영한다고 밝혔습니다. 인스타그램의 숏폼 콘텐츠인 '이것'의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8517" target="_blank">힌트에 진심인 마케터라면? 4/7 뉴스클리핑을 확인하세요!</a>)</span></td>
 			</tr>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-13T03:04:45.510Z</updated>
+    <updated>2022-04-13T04:24:21.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -153,18 +153,18 @@
         <content type="html"><![CDATA[업스타그램]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[첫출근!! 병아리 퍼포먼스 마케터 도와주세요 ㅜㅜ]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38764</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38764"/>
-        <updated>2022-04-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[쩔뚝22]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내 브랜드와 꼭 맞는 유형 테스트 만들기!]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57536</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57536"/>
         <updated>2022-04-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫출근!! 병아리 퍼포먼스 마케터 도와주세요 ㅜㅜ]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38764</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38764"/>
+        <updated>2022-04-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[쩔뚝22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쉿! 보스님만 알고 계세요. 지금 팔리는 것들의 비밀]]></title>
