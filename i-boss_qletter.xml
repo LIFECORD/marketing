@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 23:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 01:26:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1인 마케터 vs 박봉 대행사]]></title>
+            <link>https://qletter.i-boss.co.kr/view/953266-1%EC%9D%B8_%EB%A7%88%EC%BC%80%ED%84%B0_vs_%EB%B0%95%EB%B4%89_%EB%8C%80%ED%96%89%EC%82%AC/</link>
+            <guid>https://qletter.i-boss.co.kr/view/953266-1%EC%9D%B8_%EB%A7%88%EC%BC%80%ED%84%B0_vs_%EB%B0%95%EB%B4%89_%EB%8C%80%ED%96%89%EC%82%AC/</guid>
+            <pubDate>Thu, 14 Apr 2022 01:25:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/953266-1인_마케터_vs_박봉_대행사/">
+						<div class="thumb"><img src="/images/qletter_953266.png"></div>
+						<p><strong> 1인 마케터 vs 박봉 대행사</strong>2022.04.14</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_953266.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인앱결제 논란 A to Z]]></title>
             <link>https://qletter.i-boss.co.kr/view/946969-%EC%9D%B8%EC%95%B1%EA%B2%B0%EC%A0%9C_%EB%85%BC%EB%9E%80_A_to_Z/</link>
@@ -127,17 +138,6 @@
 						<p><strong> 무신사와 크림의 데스매치, 지면 끝난다 💣</strong>2022.03.07</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_897710.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[보스님, 제 의견이 무시당하는 이유가 뭘까요?]]></title>
-            <link>https://qletter.i-boss.co.kr/view/894068-%EB%B3%B4%EC%8A%A4%EB%8B%98_%EC%A0%9C_%EC%9D%98%EA%B2%AC%EC%9D%B4_%EB%AC%B4%EC%8B%9C%EB%8B%B9%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0%EA%B0%80_%EB%AD%98%EA%B9%8C%EC%9A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/894068-%EB%B3%B4%EC%8A%A4%EB%8B%98_%EC%A0%9C_%EC%9D%98%EA%B2%AC%EC%9D%B4_%EB%AC%B4%EC%8B%9C%EB%8B%B9%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0%EA%B0%80_%EB%AD%98%EA%B9%8C%EC%9A%94/</guid>
-            <pubDate>Thu, 03 Mar 2022 05:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/894068-보스님_제_의견이_무시당하는_이유가_뭘까요/">
-						<div class="thumb"><img src="/images/qletter_894068.png"></div>
-						<p><strong>보스님, 제 의견이 무시당하는 이유가 뭘까요?</strong>2022.03.03</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_894068.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

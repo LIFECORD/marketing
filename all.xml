@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 23:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 01:26:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1인 마케터 vs 박봉 대행사 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/953266-1%EC%9D%B8_%EB%A7%88%EC%BC%80%ED%84%B0_vs_%EB%B0%95%EB%B4%89_%EB%8C%80%ED%96%89%EC%82%AC/</link>
+            <guid>https://qletter.i-boss.co.kr/view/953266-1%EC%9D%B8_%EB%A7%88%EC%BC%80%ED%84%B0_vs_%EB%B0%95%EB%B4%89_%EB%8C%80%ED%96%89%EC%82%AC/</guid>
+            <pubDate>Thu, 14 Apr 2022 01:25:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/953266-1인_마케터_vs_박봉_대행사/">
+						<div class="thumb"><img src="/images/qletter_953266.png"></div>
+						<p><strong> 1인 마케터 vs 박봉 대행사</strong>2022.04.14</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_953266.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인앱결제 논란 A to Z (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/946969-%EC%9D%B8%EC%95%B1%EA%B2%B0%EC%A0%9C_%EB%85%BC%EB%9E%80_A_to_Z/</link>
@@ -129,17 +140,6 @@
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_897710.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[보스님, 제 의견이 무시당하는 이유가 뭘까요? (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/894068-%EB%B3%B4%EC%8A%A4%EB%8B%98_%EC%A0%9C_%EC%9D%98%EA%B2%AC%EC%9D%B4_%EB%AC%B4%EC%8B%9C%EB%8B%B9%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0%EA%B0%80_%EB%AD%98%EA%B9%8C%EC%9A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/894068-%EB%B3%B4%EC%8A%A4%EB%8B%98_%EC%A0%9C_%EC%9D%98%EA%B2%AC%EC%9D%B4_%EB%AC%B4%EC%8B%9C%EB%8B%B9%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0%EA%B0%80_%EB%AD%98%EA%B9%8C%EC%9A%94/</guid>
-            <pubDate>Thu, 03 Mar 2022 05:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/894068-보스님_제_의견이_무시당하는_이유가_뭘까요/">
-						<div class="thumb"><img src="/images/qletter_894068.png"></div>
-						<p><strong>보스님, 제 의견이 무시당하는 이유가 뭘까요?</strong>2022.03.03</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_894068.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[1급 SNS광고마케터가 되어보자! `SNS광고마케터 1급` 도.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-452</link>
             <guid>https://www.i-boss.co.kr/ab-2973-452</guid>
@@ -196,11 +196,25 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-74668-2590</link>
+            <guid>https://www.i-boss.co.kr/ab-74668-2590</guid>
+            <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[다이티]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[모다모다가 핫해진 이유, 내가 마케팅함! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57444</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57444</guid>
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38684</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38684</guid>
+            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[초보 마케터 필독, 3분 만에 A/B 테스트 이해하고 체크.. (아이보스 ─ 인기글)]]></title>
@@ -210,25 +224,11 @@
             <content:encoded><![CDATA[재비]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-74668-2590</link>
-            <guid>https://www.i-boss.co.kr/ab-74668-2590</guid>
-            <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[다이티]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[블로그 검색노출? 유료 정보 그냥 풉니다(삭제될 수.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57431</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57431</guid>
             <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅코치마코]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38684</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38684</guid>
-            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나만 알고 싶은 무료폰트 [고딕편] (아이보스 ─ 인기글)]]></title>
@@ -245,18 +245,18 @@
             <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영상 기획! 참고하면 좋은 사이트들!! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57449</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57449</guid>
-            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[영상팁]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[직장인을 위한 오피스 실무서! `무작정 따라하기 엑.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-453</link>
             <guid>https://www.i-boss.co.kr/ab-2973-453</guid>
             <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[영상 기획! 참고하면 좋은 사이트들!! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57449</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57449</guid>
+            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영상팁]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[입소문 바이럴 마케팅의 5가지 원칙 (아이보스 ─ 인기글)]]></title>
@@ -308,6 +308,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[마케터가 알면 좋은 성장단계 3가지 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57563</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57563</guid>
+            <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[근육돌이]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2주 꼬박 심리테스트 만들었는데 고견받습니다 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38726</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38726</guid>
@@ -329,13 +336,6 @@
             <content:encoded><![CDATA[팀ROAS]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터가 알면 좋은 성장단계 3가지 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57563</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57563</guid>
-            <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[근육돌이]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[MD와 마케터 이도저도 아닌 나 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38817</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38817</guid>
@@ -348,6 +348,46 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57572</guid>
             <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세일즈포스, 차세대 서비스 및 마케팅 클라우드 업데이트... 서비스, 마케팅 영역에서 고객과 기업 간의 접점 혁신할 것 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8564</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8564</guid>
+            <pubDate>Thu, 14 Apr 2022 10:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계CRM시장을 선도하고 있는 세일즈포스는AI,데이터,음성인식,증강현실 등 다양한 혁신 기술이 도입강화된 차세대 서비스 클라우드와 마케팅 클라우드의 신기능을 선보였다.이를 통해 서비스와 마케팅 업무 영역에서 고객  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[아이언소스, 루나 서치 애즈 정식 출시... 애플 서치 애즈 앱 마케팅 캠페인 생성과 관리, 최적화 지원 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8563</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8563</guid>
+            <pubDate>Thu, 14 Apr 2022 09:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource, NYSE:IS)는 앱 및 게임 마케터들이 애플 서치 애즈(Apple Search Ads)에서 보다 효율적으로 캠페인을 생성하고 관리 및 최적화할 수 있도록 지원하는 루나 서치 애즈(Luna Sear ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2021년 미국 디지털 광고시장은 35% 성장한 1,890억 달러를 기록했다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8562</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8562</guid>
+            <pubDate>Thu, 14 Apr 2022 09:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[IAB(Interactive Advertising Bureau)와 PwC의 최신 `IAB 인터넷 광고 수익 보고서(IAB Internet Advertising RevenueReport)`에 따르면, 미국의 디지털 광고비는2021년에 전년 대비 35.4% 증가한 1,890억 달러로 2006년 이후 가장 높은 성장 수준을 기록했다.  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[트렌드모니터] 좌석 비워두기, 배려일까 의무일까? (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8561</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8561</guid>
+            <pubDate>Thu, 14 Apr 2022 08:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[교통 약자석, 임산부 배려석에 대한 논란은 시행 초기부터 현재까지 진행 중에 있다.분명 좋은 취지로 마련되었으나 해당 좌석에 대한 충분한 사회적 합의가 이뤄지지 않았기 때문이다.자리 비워두기를 배려 관점에서 접근할지 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2021년 미국 옥외 광고비 반등... DOOH가 성장 주도 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8560</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8560</guid>
+            <pubDate>Thu, 14 Apr 2022 08:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[미국 옥외광고협회(OAAA, Out of Home Advertising Association of America)발표에 따르면,코로나19 팬데믹으로 촉발된 급격한 하락세를 보인 옥외 광고 부문은 맥도날드, 애플, 구글 등의 지출 덕분에 회복의 길을 걷고 있다. 팬데믹의 지속적 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[4월 14일 마케팅 뉴스클리핑] 네이버, 중국산 짝퉁 판매 원천 차단한다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -550,50 +590,45 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2021 서울서베이를 통해 본 2030세대의 삶은? (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8534</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8534</guid>
-            <pubDate>Mon, 11 Apr 2022 08:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[서울시가 2021 서울서베이 조사통계자료를 활용해 서울에 거주하는 2030세대의 주거와 일상, 직장과 여가생활, 그리고 의식을 재구성해 2030세대의 평균적인 삶의 모습을 분석하고, 그 결과를 발표했다. 이번 조사는 2030세대의 현 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[세일즈포스, 차세대 서비스 및 마케팅 클라우드 업데이트... 서비스, 마케팅 영역에서 고객과 기업 간의 접점 혁신할 것 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8564</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8564</guid>
+            <pubDate>Thu, 14 Apr 2022 01:26:13 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[4월 11일 마케팅 뉴스클리핑] 네이버의 리셀 플랫폼 독주 잡는다... 무신사 투자 강화 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8533</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8533</guid>
-            <pubDate>Mon, 11 Apr 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. `네이버`의 리셀 플랫폼 독주 잡는다... 무신사 투자 강화  스니커즈 전문 리셀 플랫폼 시장을 두고 네이버의 손자회사 크림과 무신사의 자회사 솔드아웃의 경쟁이 뜨겁다. 크림이 업계 1위로 치고 나가는 가운데 솔드아웃은  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a21085340c0f588ff560559133016023_30968_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[아이언소스, ‘루나 서치 애즈’ 정식 출시... 애플 서치 애즈 앱 마케팅 캠페인 생성과 관리, 최적화 지원 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8563</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8563</guid>
+            <pubDate>Thu, 14 Apr 2022 01:26:13 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오길비, 사진을 보정하는 인플루언서와 더 이상 일하지 않는다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8532</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8532</guid>
-            <pubDate>Sun, 10 Apr 2022 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[영국을 대표하는 광고회사인 오길비UK는 브랜드 캠페인을 위해 자신의 신체나 얼굴을 왜곡하거나 수정하는 인플루언서들과 더 이상 협력하지 않을 것이라고 드럼은 보도했다. 이러한 결정은 캠페인에서 일부 인플루언서의비현 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[2021년 미국 디지털 광고시장은 35% 성장한 1,890억 달러를 기록했다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8562</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8562</guid>
+            <pubDate>Thu, 14 Apr 2022 01:26:13 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[해외 크리에이티브] 메타버스에는 노숙자가 있다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8531</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8531</guid>
-            <pubDate>Sun, 10 Apr 2022 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[메타버스는 인간이 탈출할 수 있는 물리적 세계의 유토피아 카피로 과장되곤 한다. 이는 곧 실제 세계의 사람들에게 영향이 있는 현실의 문제를 눈감는 것을 의미하기도 한다.그렇지만 메타버스 역시 현실 세계의 연장선에 있 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[트렌드모니터] 좌석 비워두기, 배려일까 의무일까? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8561</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8561</guid>
+            <pubDate>Thu, 14 Apr 2022 01:26:13 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[레고 x 에픽게임즈, 어린이를 위한 메타버스 만든다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8530</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8530</guid>
-            <pubDate>Sun, 10 Apr 2022 08:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[레고 그룹과 에픽게임즈는 어린이와 가족이 안전하고 재미있는 메타버스를 구축하기 위한 장기적인 파트너십을 체결한다고 발표했다. 두 회사는 모든 연령대의 어린이가 함께 즐길 수 있는 몰입감 있고 창의적이며 매력적인  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[2021년 미국 옥외 광고비 반등... DOOH가 성장 주도 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8560</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8560</guid>
+            <pubDate>Thu, 14 Apr 2022 01:26:13 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[4월 14일 마케팅 뉴스클리핑] 네이버, '중국산 짝퉁' 판매 원천 차단한다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8559</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8559</guid>
-            <pubDate>Wed, 13 Apr 2022 23:17:37 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -765,45 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["2021 서울서베이"를 통해 본 2030세대의 삶은? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8534</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8534</guid>
-            <pubDate>Mon, 11 Apr 2022 08:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[4월 11일 마케팅 뉴스클리핑] '네이버'의 리셀 플랫폼 독주 잡는다... 무신사 투자 강화 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8533</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8533</guid>
-            <pubDate>Mon, 11 Apr 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오길비, 사진을 보정하는 인플루언서와 더 이상 일하지 않는다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8532</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8532</guid>
-            <pubDate>Sun, 10 Apr 2022 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[해외 크리에이티브] 메타버스에는 노숙자가 있다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8531</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8531</guid>
-            <pubDate>Sun, 10 Apr 2022 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[레고 x 에픽게임즈, 어린이를 위한 메타버스 만든다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8530</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8530</guid>
-            <pubDate>Sun, 10 Apr 2022 08:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[★★ 광고 회사에서 추천하고 있는 이 광고 상품은 다음 중 무엇에 해당할까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 13 Apr 2022 23:17:48 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2022 01:26:27 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->★★ 광고 회사에서 추천하고 있는 이 광고 상품은 다음 중 무엇에 해당할까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/2324c3ed71a96e7c27f0965807d89049_16493260793341.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
