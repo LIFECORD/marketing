@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 01:26:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 03:06:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숏폼메타버스 주 이용층은 알파Z세대... 인크로스, 1030 타겟 리포트 발표]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8565</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8565</guid>
+            <pubDate>Thu, 14 Apr 2022 10:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[SK그룹의 디지털 광고 전문 기업 인크로스는 연령별 디지털 매체 선호도 및 광고 수용도를 분석한를14일 발표했다.해당 조사는 전국 각 지역에 거주하는 남녀1,000명 대상의 온라인 설문 방식으로 진행됐다. 조사 결과에 따르면, 1 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[세일즈포스, 차세대 서비스 및 마케팅 클라우드 업데이트... 서비스, 마케팅 영역에서 고객과 기업 간의 접점 혁신할 것]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8564</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8536</guid>
             <pubDate>Mon, 11 Apr 2022 09:55:00 GMT</pubDate>
             <content:encoded><![CDATA[이노션 월드와이드(대표이사 이용우, 이하 이노션)는 아시아태평양 지역 대표 광고제인 애드페스트(ADFEST) 2022에서 금상 1개, 은상 4개, 동상 3개를 각각 수상했다고 11일 밝혔다.  캠페인은 PR부문에서 금상 1개를 포함해 총 5개의  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[Account Action] 2월의 아쉬움을 뒤로하고 점프업한 3월 경쟁 PT]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8535</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8535</guid>
-            <pubDate>Mon, 11 Apr 2022 08:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[아쉬웠던 2월의 경쟁 PT와 반대로 3월의 경쟁 PT는 비약적으로 점프업했다! 2월 하락세를 대반전시킨 3월은 광고업계는 매우 양호한 상황으로 활짝 웃음과 동시에 매우 바쁜 이중 구조(외적으로는 경쟁 PT의 증가로 미소, 내적으로 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
