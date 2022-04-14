@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 22:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 23:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[4월 15일 마케팅 뉴스클리핑] 10대 94.7% 메타버스 써봤다... 30대 30.9% 불과 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8567</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8567</guid>
+            <pubDate>Fri, 15 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 10대 94.7% 메타버스 써봤다... 30대 30.9% 불과  메타버스 플랫폼 이용 행태에서 10대와 30대가 확연한 세대 차이를 나타냈다. 10대는 94.7%가 메타버스를 `경험해본 적 있다`고 응답했다. 반면 경험이 있다고 응답한 30대는 30.9%에 그 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_986af39b9fbd2d4b454ed98956155ad4_7735_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡, 지역 중소상공인 지원사업 참여 업체 매출 1년 새 69% 늘어]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8566</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8538</guid>
             <pubDate>Mon, 11 Apr 2022 09:59:00 GMT</pubDate>
             <content:encoded><![CDATA[종합광고회사 대홍기획(대표이사:홍성현)이 창립40주년을 맞아 새로운 경영 비전을 선포했다. 대홍기획은7일 사내 라이브방송으로 기념행사를 하고 새로운 비전 Thinknology(씽크놀로지)를 발표했다.Thinknology는Think와Technology의 합 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[제일기획, 애드페스트 2022서 금상 4개 등 19개 수상... 슬로우로드 캠페인 국내 최다 수상]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8537</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8537</guid>
-            <pubDate>Mon, 11 Apr 2022 09:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[제일기획(대표이사 사장 유정근)이 아시아-태평양 지역의 대표 광고제인 `애드페스트(ADFEST) 2022`에서 금상 4개, 은상 10개, 동상 5개 등 총 19개의 본상을 수상했다. 특히, 국내와 중국 지역에서 각각 9개와 10개의 본상을 수상해 각  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

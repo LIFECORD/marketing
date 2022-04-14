@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 22:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 23:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,18 +203,18 @@
             <content:encoded><![CDATA[다이티]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[모다모다가 핫해진 이유, 내가 마케팅함! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57444</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57444</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[jinhorus]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38684</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38684</guid>
             <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[모다모다가 핫해진 이유, 내가 마케팅함! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57444</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57444</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[jinhorus]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[블로그 검색노출? 유료 정보 그냥 풉니다(삭제될 수.. (아이보스 ─ 인기글)]]></title>
@@ -343,11 +343,19 @@
             <content:encoded><![CDATA[박멍멍]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[선후배님들은 취미가 뭐에요? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38672</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38672</guid>
-            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[델몬트두리안]]></content:encoded>
+            <title><![CDATA[GFA 일매출 400만원, 로아스 500% 어떻게 만드는 걸까? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57423</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57423</guid>
+            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[팀ROAS]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[4월 15일 마케팅 뉴스클리핑] 10대 94.7% 메타버스 써봤다... 30대 30.9% 불과 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8567</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8567</guid>
+            <pubDate>Fri, 15 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 10대 94.7% 메타버스 써봤다... 30대 30.9% 불과  메타버스 플랫폼 이용 행태에서 10대와 30대가 확연한 세대 차이를 나타냈다. 10대는 94.7%가 메타버스를 `경험해본 적 있다`고 응답했다. 반면 경험이 있다고 응답한 30대는 30.9%에 그 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_986af39b9fbd2d4b454ed98956155ad4_7735_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쿠팡, 지역 중소상공인 지원사업 참여 업체 매출 1년 새 69% 늘어 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[제일기획, 애드페스트 2022서 금상 4개 등 19개 수상... 슬로우로드 캠페인 국내 최다 수상 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8537</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8537</guid>
-            <pubDate>Mon, 11 Apr 2022 09:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[제일기획(대표이사 사장 유정근)이 아시아-태평양 지역의 대표 광고제인 `애드페스트(ADFEST) 2022`에서 금상 4개, 은상 10개, 동상 5개 등 총 19개의 본상을 수상했다. 특히, 국내와 중국 지역에서 각각 9개와 10개의 본상을 수상해 각  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[4월 15일 마케팅 뉴스클리핑] 10대 94.7% 메타버스 써봤다... 30대 30.9% 불과 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8567</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8567</guid>
+            <pubDate>Thu, 14 Apr 2022 23:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쿠팡, 지역 중소상공인 지원사업 참여 업체 매출 1년 새 69% 늘어 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제일기획, '애드페스트 2022'서 금상 4개 등 19개 수상...' 슬로우로드' 캠페인 국내 최다 수상 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8537</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8537</guid>
-            <pubDate>Mon, 11 Apr 2022 09:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[인스타그램 광고의 '더 알아보기'를 통해서 고객 DB를 수집하려면 광고를 만들 때 어떤 캠페인 목표를 선택해야 할까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Thu, 14 Apr 2022 23:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->인스타그램 광고의 '더 알아보기'를 통해서 고객 DB를 수집하려면 광고를 만들 때 어떤 캠페인 목표를 선택해야 할까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1402_1" value="1" class="AB-radio" id="PQ_BD5826_1402_1_0"><label for="PQ_BD5826_1402_1_0" id="label_PQ_BD5826_1402_1_0">(A) 전환</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1402_1" value="2" class="AB-radio" id="PQ_BD5826_1402_1_1"><label for="PQ_BD5826_1402_1_1" id="label_PQ_BD5826_1402_1_1">(B) 잠재 고객 확보</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1402_1" value="3" class="AB-radio" id="PQ_BD5826_1402_1_2"><label for="PQ_BD5826_1402_1_2" id="label_PQ_BD5826_1402_1_2">(C) 매장 유입</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1402_1" value="4" class="AB-radio" id="PQ_BD5826_1402_1_3"><label for="PQ_BD5826_1402_1_3" id="label_PQ_BD5826_1402_1_3">(D) 참여</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[중기부, 코로나19 확산 당시 지원자금·보증 9월까지 연장한다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
