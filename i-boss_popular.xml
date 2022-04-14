@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-14T04:22:49.262Z</updated>
+    <updated>2022-04-14T05:17:39.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -146,18 +146,18 @@
         <content type="html"><![CDATA[마케팅플랜]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마케팅 책 추천, 이럴 땐 이런 책을! - 책장공개]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57437</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57437"/>
-        <updated>2022-03-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[리유]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내 브랜드와 꼭 맞는 유형 테스트 만들기!]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57536</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57536"/>
         <updated>2022-04-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마케팅 책 추천, 이럴 땐 이런 책을! - 책장공개]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57437</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57437"/>
+        <updated>2022-03-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[리유]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[좋아요가 늘어나는 유니콘 콘텐츠 만들기]]></title>
@@ -188,6 +188,13 @@
         <content type="html"><![CDATA[근육돌이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[마케터 각 연차별 체크리스트  체크해보세요!]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57572</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57572"/>
+        <updated>2022-04-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[근육돌이]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2주 꼬박 심리테스트 만들었는데 고견받습니다]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38726</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38726"/>
@@ -207,12 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57423"/>
         <updated>2022-03-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[팀ROAS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마케터 각 연차별 체크리스트  체크해보세요!]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57572</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57572"/>
-        <updated>2022-04-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[근육돌이]]></content>
     </entry>
 </feed>

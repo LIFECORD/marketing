@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 04:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 05:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡, 지역 중소상공인 지원사업 참여 업체 매출 1년 새 69% 늘어]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8566</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8566</guid>
+            <pubDate>Thu, 14 Apr 2022 05:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡지자체 협업으로 광고 및 판촉 활동 지원...쿠팡 전체 매출 성장세보다 15%p 높아  쿠팡이 지역 중소상공인 지원사업에 참여한 업체 매출이 1년 새 69% 성장했다고 14일 밝혔다.  쿠팡은 지방자치단체와 함께 중소상공인과 농수 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5af415d6df85e2199c0064ef18a5c81c_15044_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[숏폼메타버스 주 이용층은 알파Z세대... 인크로스, 1030 타겟 리포트 발표]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8565</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8537</guid>
             <pubDate>Mon, 11 Apr 2022 09:58:00 GMT</pubDate>
             <content:encoded><![CDATA[제일기획(대표이사 사장 유정근)이 아시아-태평양 지역의 대표 광고제인 `애드페스트(ADFEST) 2022`에서 금상 4개, 은상 10개, 동상 5개 등 총 19개의 본상을 수상했다. 특히, 국내와 중국 지역에서 각각 9개와 10개의 본상을 수상해 각  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[이노션, 애드페스트 2022에서 골드 포함 본상 8개 수상...기술과 크리에이티브를 접목한 캠페인 호평]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8536</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8536</guid>
-            <pubDate>Mon, 11 Apr 2022 09:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[이노션 월드와이드(대표이사 이용우, 이하 이노션)는 아시아태평양 지역 대표 광고제인 애드페스트(ADFEST) 2022에서 금상 1개, 은상 4개, 동상 3개를 각각 수상했다고 11일 밝혔다.  캠페인은 PR부문에서 금상 1개를 포함해 총 5개의  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
