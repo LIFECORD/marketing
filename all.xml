@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 23:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 01:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,6 +203,13 @@
             <content:encoded><![CDATA[다이티]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[블로그 검색노출? 유료 정보 그냥 풉니다(삭제될 수.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57431</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57431</guid>
+            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅코치마코]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38684</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38684</guid>
@@ -215,13 +222,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57444</guid>
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[블로그 검색노출? 유료 정보 그냥 풉니다(삭제될 수.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57431</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57431</guid>
-            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅코치마코]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[초보 마케터 필독, 3분 만에 A/B 테스트 이해하고 체크.. (아이보스 ─ 인기글)]]></title>
@@ -273,6 +273,13 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[마케팅밈] 마케터 탈룰라 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38815</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38815</guid>
+            <pubDate>Thu, 14 Apr 2022 06:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[스마트스토어 1달이 약간 지난 시점입니다. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38681</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38681</guid>
@@ -308,13 +315,6 @@
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마케팅밈] 마케터 탈룰라 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38815</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38815</guid>
-            <pubDate>Thu, 14 Apr 2022 06:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[쉿! 보스님만 알고 계세요. 지금 팔리는 것들의 비밀 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-5637-31</link>
             <guid>https://www.i-boss.co.kr/ab-5637-31</guid>
@@ -348,6 +348,30 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57423</guid>
             <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[팀ROAS]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[OMG, 업계 최초 POP(Point-of-Purchase) 스크린용 프로그래매틱 마켓플레이스 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8570</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8570</guid>
+            <pubDate>Fri, 15 Apr 2022 08:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[옴니콤 그룹의 옴니콤 미디어 그룹(OMG)은 미국에서최초의 POP(Point-of-Purchase) 스크린용 프로그래매틱 마켓 플레이스를 출시했다.미국 50개 주에 걸쳐 약 80,000개의 스크린과 여러 개의 스토어를 포함하는 통로 내 콜드 케이스 도어, ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[아마존, IMDb TV를 아마존 프리비(FreeVee)로 리브랜딩하다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8569</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8569</guid>
+            <pubDate>Fri, 15 Apr 2022 08:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[아마존의 무료 광고 지원 스트리밍 서비스인 IMDb TV가 오는 4월 27일부터 `아마존 프리비`로 브랜드가 변경된다. AVOD 서비스와 FAST 선형 채널을 결합한 이 서비스는 2019년 1월 IMDb 프리다이브(IMDb Freedive)로 시작되었으며, 곧 IMDb TV로 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인포그래픽] 150년 동안 통화 공급과 인플레이션 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8568</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8568</guid>
+            <pubDate>Fri, 15 Apr 2022 08:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[일반적으로 통화 공급과 인플레이션은 긴밀한 관계가 있다고 알려져 있다.뉴욕 라이프 인베스트먼트는 비주얼 캐피털리스를 통해산업혁명 이후 통화 공급과 인플레이션의 관계를 역사적으로 보여주는 인포그래픽을 발표했다. ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[4월 15일 마케팅 뉴스클리핑] 10대 94.7% 메타버스 써봤다... 30대 30.9% 불과 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -566,34 +590,31 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2022 부산국제광고제 본선 심사위원 1차 발표... 세계 주요 광고제를 휩쓴 브라이언 머레이 본선 심사 참여 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8540</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8540</guid>
-            <pubDate>Mon, 11 Apr 2022 11:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[부산국제광고제 조직위원회(조직위원장 박형준 부산시장)가 올해 본선 심사위원단을 1차 공개했다. 올해 가장 눈에 띄는 심사위원으로는 코로나19 팬데믹 극복을 위한 크리에이티브 솔루션인 캠페인 으로 칸 등 세계 유명 광고 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[OMG, 업계 최초 POP(Point-of-Purchase) 스크린용 프로그래매틱 마켓플레이스 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8570</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8570</guid>
+            <pubDate>Fri, 15 Apr 2022 01:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[앱러빈, 더 트레이드 데스크와 파트너십 체결.. TTD 광고주에게 앱러빈 익스체인지 제공 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8539</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8539</guid>
-            <pubDate>Mon, 11 Apr 2022 10:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅 소프트웨어 선도 기업 앱러빈(AppLovin, AppLovin Corporation (NASDAQ: APP))과 프로그래매틱 광고 전문 기업 더 트레이드 데스크(The Trade Desk, NASDAQ: TTD)가 광고주들에게 앱러빈 익스체인지(AppLovin Exchange, ALX)를 제공하기 위한 파트너 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[아마존, IMDb TV를 '아마존 프리비'(FreeVee)로 리브랜딩하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8569</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8569</guid>
+            <pubDate>Fri, 15 Apr 2022 01:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[대홍기획, 창립 40주년 맞아 새로운 비전 Thinknology 발표 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8538</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8538</guid>
-            <pubDate>Mon, 11 Apr 2022 09:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[종합광고회사 대홍기획(대표이사:홍성현)이 창립40주년을 맞아 새로운 경영 비전을 선포했다. 대홍기획은7일 사내 라이브방송으로 기념행사를 하고 새로운 비전 Thinknology(씽크놀로지)를 발표했다.Thinknology는Think와Technology의 합 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[인포그래픽] 150년 동안 통화 공급과 인플레이션 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8568</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8568</guid>
+            <pubDate>Fri, 15 Apr 2022 01:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[4월 15일 마케팅 뉴스클리핑] 10대 94.7% 메타버스 써봤다... 30대 30.9% 불과 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8567</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8567</guid>
-            <pubDate>Thu, 14 Apr 2022 23:18:35 GMT</pubDate>
+            <pubDate>Fri, 15 Apr 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -779,31 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 부산국제광고제 본선 심사위원 1차 발표... 세계 주요 광고제를 휩쓴 브라이언 머레이 본선 심사 참여 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8540</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8540</guid>
-            <pubDate>Mon, 11 Apr 2022 11:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[앱러빈, 더 트레이드 데스크와 파트너십 체결.. TTD 광고주에게 앱러빈 익스체인지 제공 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8539</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8539</guid>
-            <pubDate>Mon, 11 Apr 2022 10:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대홍기획, 창립 40주년 맞아 새로운 비전 ‘Thinknology’ 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8538</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8538</guid>
-            <pubDate>Mon, 11 Apr 2022 09:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[인스타그램 광고의 '더 알아보기'를 통해서 고객 DB를 수집하려면 광고를 만들 때 어떤 캠페인 목표를 선택해야 할까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 14 Apr 2022 23:18:46 GMT</pubDate>
+            <pubDate>Fri, 15 Apr 2022 01:22:08 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->인스타그램 광고의 '더 알아보기'를 통해서 고객 DB를 수집하려면 광고를 만들 때 어떤 캠페인 목표를 선택해야 할까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
@@ -811,6 +811,41 @@
 				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1402_1" value="1" class="AB-radio" id="PQ_BD5826_1402_1_0"><label for="PQ_BD5826_1402_1_0" id="label_PQ_BD5826_1402_1_0">(A) 전환</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1402_1" value="2" class="AB-radio" id="PQ_BD5826_1402_1_1"><label for="PQ_BD5826_1402_1_1" id="label_PQ_BD5826_1402_1_1">(B) 잠재 고객 확보</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1402_1" value="3" class="AB-radio" id="PQ_BD5826_1402_1_2"><label for="PQ_BD5826_1402_1_2" id="label_PQ_BD5826_1402_1_2">(C) 매장 유입</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1402_1" value="4" class="AB-radio" id="PQ_BD5826_1402_1_3"><label for="PQ_BD5826_1402_1_3" id="label_PQ_BD5826_1402_1_3">(D) 참여</label></td></tr></tbody></table></td>
 			</tr>
 		</tbody>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사회적 거리두기 '모임 10인·밤 12시' 조정안 시행 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
+            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=284</link>
+            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=284</guid>
+            <pubDate>Fri, 15 Apr 2022 01:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[오는 17일까지 사적모임은 최대 10명, 식당·카페 등 다중이용시설의 영업시간은 밤 12시까지로 확대하는 새 사회적 거리두기 조정안이 시행된다.<br><br>이번 거리두기 조정안으로 사적모임은 백신 접종력과 관계없이 10명까지 가능하다.<br><br>정부는 새 거리두기가 시행되는 2주 동안 유행 상황과 의료 체계 상황을 주시한 뒤, 이후부터는 거리두기를 해제하는 방안도 검토할 예정이다.<br><br>영업시간 연장이 적용되는 다중이용시설은 ▲유흥주점 ▲단란주점 ▲클럽 ▲감성주점 ▲헌팅포차 ▲콜라텍·무도장 ▲식당·카페 ▲노래연습장 ▲목욕장 ▲실내체육시설 ▲평생직업교육학원 ▲PC방 ▲오락실·멀티방 ▲카지노 ▲파티룸 ▲마사지·안마소 ▲영화관·공연장 등이다.<br><br>영화관·공연장은 마지막 상영·공연 시작 시간을 밤 12시까지 허용한다. 단 끝나는 시간이 다음날 오전 2시를 넘어서는 안 된다. 행사·집회, 종교시설과 관련된 조치는 현행 그대로 유지된다. 300명 이상 규모는 관계부처의 승인을 받아야 열 수 있으며, 300명 미만일 경우에는 접종 여부와 관계없이 개최할 수 있다. <br><br>미사·법회·예배·시일식 등 정규 종교활동은 접종 여부와 관계없이 수용 인원의 70% 범위에서 진행하면 된다. 아울러 동네 의원도 ‘외래진료센터’ 지정을 통해 코로나19 확진자를 대면 진료할 수 있게 된다. 의원급 의료기관은 건강보험심사평가원에 팩스로 외래진료센터 지정을 신청하면 확진자를 대면 진료할 수 있다.<br><br>정부는 정점 이후 2~3주 정도 시차를 두고 나타나는 위중증 환자와 사망자 수치도 안정적이면, 2주 뒤에는 실내 마스크를 제외한 모든 거리두기 해제도 가능하다고 밝혔다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서울시, '서울형 다시서기 4.0 프로젝트'로 소상공인 재기 돕는다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
+            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=282</link>
+            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=282</guid>
+            <pubDate>Fri, 15 Apr 2022 01:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[서울시와 서울신용보증재단이 실패를 딛고 재기를 시도하는 소상공인을 돕고자 종합지원 패키지 사업을 강화하고 지원대상도 5배 확대한다. <br><br>서울시와 서울신용보증재단은 이와 같은 내용을 담은 ‘서울형 다시서기 4.0’ 프로젝트를 실시한다고 밝혔다. 대규모 감염병 사태에도 불구하고 재산 은닉이나 탈세 등 도덕적 해이 없이 성실히 채무를 갚아왔던 이들이 지원 대상이다. 이들 중 선정되면 일대일 맞춤형 교육과 경영 컨설팅, 최대 200만원의 초기자금, 연 1.8~2.3% 대출 이자, 보증료(최대 100만원), 사후관리를 무상으로 지원받게 된다.<br><br>교육·컨설팅은 상권분석과 온라인 마케팅 등 재도전 맞춤형 교육으로 이뤄진다. 재무·노무 등 소홀히하기 쉬운 기본 개념부터 사업전략, 기업가 정신 등 특화 교육도 이뤄진다. 전문 컨설턴트가 직접 찾아가 사업 현황을 점검하고 경영 개선 사항도 조언한다. 상권·입지 분석, 신용관리 방안 등 경영 전반의 사안부터 매장 연출, 세무·회계 같은 분야별 조언도 추가 제공된다.<br><br>자금조달 문제 해소를 위한 사업운영자금 대출 신용보증도 지원한다. 지원 금액은 재단의 신용보증 심사를 통해 결정되며, 대출 금리 중 연 1.8~2.3%의 이자를 서울시가 보전해준다. 지난해에는 연 0.4%만 지원했었다. 보증료도 서울시와 한국증권금융 꿈나눔재단에서 최대 100만원까지 지원한다. 자금지원이 완료된 후에는 일대일 밀착 현장방문을 통해 사후관리에도 직접 나선다. 사업 성장을 위한 일종의 애프터서비스다.<br><br>지난해 ‘다시서기 3.0 프로젝트’를 통해 100명을 지원한 데 이어 올해는 500명으로 지원 인원을 대폭 늘렸다. 신용보증재단은 26일까지 지원대상자를 공개 모집한다.<br><br>주철수 서울신용보증재단 이사장은 “코로나19 장기화로 인해 자영업자들의 어려움이 지속되고 있다”며 “실패를 경험한 소상공인에게 재도약의 기회를 제공하고 다시 성공을 꿈꿀 수 있도록 최선을 다할 것”이라고 말했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[지하철 홍보매체, 소상공인·비영리단체에 개방 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
+            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=281</link>
+            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=281</guid>
+            <pubDate>Fri, 15 Apr 2022 01:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[서울시는 소상공인과 비영리단체 등의 지원을 위해 2022년 제1회 홍보매체 시민개방 단체공모를 5월6일까지 진행한다고 밝혔다.<br><br>서울시 홍보매체 시민개방은 시 보유 매체 등을 활용해 소상공인, 비영리단체 등을 선정하고 무료로 인쇄물(영상물) 제작과 부착(송출)을 지원하는 사업이다. 올해도 지원대상 선정 시 청년층의 창업지원을 위해 공모에 응모한 기업들 중 청년창업 초기기업(청년스타트업)의 경우 가산점을 부여하고 동점자 처리 등에 우대·선정한다. <br><br>공모대상은 △시민들이 공감하고 희망을 얻을 수 있는 소기업·소상공인 등의 기업활동 △기부·나눔·자원봉사활동 등을 통해 공익증진에 기여하는 비영리법인·민간단체의 활동 등이다. 공모에 선정된 단체는 서울시로부터 디자인 기획·인쇄·부착 및 영상 제작·송출 등 광고 전반에 대한 지원을 받게 된다. <br><br>지원대상은 관련분야 전문가 등으로 구성된 심의위원회의 심사를 통해 5월 말 최종 선정될 예정이다. 응모 절차 등 자세한 내용은 서울시 홈페이지를 통해 확인할 수 있다.<br><br>최원석 서울시 시민소통기획관은 "광고비용에 대한 부담으로 홍보에 어려움을 겪고 있는 소상공인이나 비영리단체 등에 좋은 기회가 될 수 있다"며 "특히 코로나19 등으로 어려운 경제 여건에서 활로를 찾고 있는 청년창업 초기기업(청년스타트업)들의 많은 지원을 바란다"고 말했다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카카오, 소상공인 지원 3000억 상생기금 5년간 투입 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
+            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=280</link>
+            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=280</guid>
+            <pubDate>Fri, 15 Apr 2022 01:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[카카오가 온라인 기자간담회를 통해 3000억원의 상생기금을 활용해 5년간 소상공인을 비롯해 디지털콘텐츠 창작자, 공연 예술 창작자 등을 지원한다고 밝혔다. <br><br>카카오는 카카오 공동체의 상생안과 '비욘드코리아(Beyond Korea)' 비전 달성을 위한 글로벌 사업 전개 방향에 대해 발표했다. 이날 간담회에는 카카오 공동체얼라인먼트센터(Corporate Alignment Center, 이하 CAC)의 김성수, 홍은택 공동 센터장과 카카오 남궁훈 신임 대표가 참석했다.<br><br>소상공인들의 디지털 소통을 돕기 위한 '소신상인' 프로젝트는 상반기에 시작된다. 이 프로젝트는 소신을 가지고 사업을 운영하는 전국의 상인들이 카카오톡 채널로 단골을 확보하고 모바일 마케팅을 펼칠 수 있도록 지원하는 프로그램이다.<br><br>카카오는 디지털 소통에 익숙하지 않은 사업자를 위해 직접 찾아가는 전담 '디지털 서포터즈'를 운영하며 온라인 맞춤 교육 콘텐츠도 제공한다. 카카오톡 채널 운영 비용을 지원하고, 상점의 홍보 및 단골 모집을 돕는 '카카오톡 채널 홍보 키트'를 배부하는 등 다양한 지원을 아끼지 않을 계획이다. <br><br>카카오페이와 연계해 소상공인을 위한 '소신상인 쉬운 결제'도 지원한다. 카카오는 상반기 중 소수의 전통시장을 대상으로 파일럿 프로그램을 실시하며 관계 기관 및 단체와 협력해 전국적으로 프로젝트를 확대한다. 이외 우리 농수산물이 제 값을 다 받도록 판로를 열어주는 '제가버치' 프로젝트를 운영해 농수산물 생산자와 소비자를 연결한다. <br><br>카카오는 창작자들의 수익을 확대하기 위해서는 '글로벌 오리지널 IP 플랫폼'으로서 작가들의 세계 시장 진출에 교두보 역할을 해야 한다는데 의견을 모으고 글로벌 행보를 지속하는 한편, 창작자들이 당면한 문제를 해결하고 지원하는데 상생 기금을 집행한다.<br><br>먼저 카카오엔터테인먼트는 창작자들이 지속 가능한 창작 활동을 펼칠 수 있도록 향후 5년간 최소 100억원을 출자해 '카카오엔터테인먼트 창작지원재단(가칭)'을 설립한다.<br><br>재단법인은 창작 지원은 물론, 창작 과정에서 생기는 창작자들의 심리 치료 지원, 저작권 문제 해결 등을 위한 법률적 지원 등 다양한 처우 개선 프로그램을 제공할 예정이다. 이와 함께 산학 협력 등을 통한 문화 창작 교육을 제공해 예비 창작자들을 육성하고 다양한 창작 기회를 지원할 계획이다.<br><br>카카오엔터테인먼트는 창작자 생태계의 투명한 정산 시스템 마련을 위해 CP 뿐 아니라 작가들까지도 정산내역을 확인할 수 있는 시스템 구축을 상반기까지 마무리하며, 뷰어엔드 광고 수익 배분 등 작가들의 수익 확대를 위한 방안도 지속적으로 개선해 나간다.<br><br>카카오모빌리티는 이해관계자와의 소통을 지속하고, 플랫폼 종사자의 수익과 처우 개선 및 산업의 고도화에 기여하며 궁극적으로 더 나은 삶으로의 이동을 지원한다. 기존 산업의 지속 발전 가능한 토대를 마련하고 모빌리티 시장을 활성화시킬 수 있는 방안을 모색 중이다. 더 나은 승차와 배차 경험을 원하는 수요에 맞춰 다양한 상품 및 서비스를 공급함으로써 실질적으로 택시 기사들의 수익이 증대되고 산업이 고도화될 수 있도록 기여할 방침이다. 이를 위해 택시 업계, 정부, 관련 기관과 지속적으로 대화하고 협의해 나간다.<br><br>모빌리티 시장의 미래를 위한 지원도 준비한다. 주행거리 및 충전소 인프라 부족으로 인해 전기차 전환에 어려움을 겪는 택시 업계를 위한 방안을 마련 중이다. 또한 이동 약자 지원을 위한 다양한 대안을 고민하고 모빌리티 업계 전반이 사회적으로 선한 영향력을 끼칠 수 있도록 노력할 계획이다.<br><br>홍은택 센터장은 "상생은 카카오가 성장하는데 있어 해 나가야하는 미션이 아닌 필수적인 본질이며, 사회와 기업이 상호 지속 가능 성장을 이어 갈 수 있는 핵심 가치"라며 "소상공인들이 성공적으로 디지털 전환을 할 수 있도록 지원하고, 파트너들이 실질적 수익을 거둘 수 있도록 지원을 아끼지 않을 것"이라고 강조했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스타벅스, 카페업 소상공인과 상생협약...음료 제조법 공유한다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
+            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=279</link>
+            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=279</guid>
+            <pubDate>Fri, 15 Apr 2022 01:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[스타벅스가 중기부와 함께 ‘스타벅스·전국카페사장협동조합·동반성장위원회 상생협약’을 체결했다.<br><br>최근 카페업 관련 산업은 급격하게 성장하고 있지만 대·중소기업 간 사업영역 갈등, 코로나19 장기화, 업계 간 경쟁 심화 등으로 소상공인의 어려움은 가중되고 있다. 이에 중기부와 동반성장위원회는 스타벅스의 축척된 경험 등을 지역 소상공인과 공유하고, 카페업 소상공인의 자생력 강화를 위해 이번 상생협약 체결을 이끌어냈다.<br><br>소상공인과 스타벅스는 협약을 통해 서로 협업하여 지역 농산물 등을 활용한 상생 음료를 개발하게 된다. 또 스타벅스는 카페를 운영하는 소상공인에게 상생 음료 제조법을 공유하고 원부자재(한정수량)를 제공해 스타벅스 이용고객을 소상공인 사업장으로 유도한다. 아울러 스타벅스는 생계가 어렵거나 재난 등으로 긴급 지원이 필요한 지역의 소상공인 카페 시설보수도 지원한다.<br><br>향후 동반위는 카페업 대·중소기업 상생협의회를 통해 정기적 교류 활동 추진과 상생협력 프로그램 등을 주기적으로 점검할 예정이다. 중기부 역시 스타벅스와 소상공인이 원활하게 소통할 수 있도록 상생협력 활동 모니터링과 홍보 등을 이어나갈 계획이라고 설명했다.<br><br>권칠승 중기부 장관은 “이번 협약은 스타벅스가 소상공인의 자생력을 높이기 위해 동종업계인 골목상권 카페와 상생협력 하는 의미있는 협약식이라 생각한다”며 “새로운 상생모델 사례가 늘어날 수 있도록 중기부도 함께 노력하겠다”고 덧붙였다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[중기부, 코로나19 확산 당시 지원자금·보증 9월까지 연장한다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
@@ -846,41 +881,6 @@
             <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=274</guid>
             <pubDate>Mon, 04 Apr 2022 01:22:23 GMT</pubDate>
             <content:encoded><![CDATA[식당과 카페 내 일회용 플라스틱 컵 사용이 전면 금지된다. 주무 부처인 환경부는 계획대로 다음 달 1일 시행하되 계도기간을 두는 방안을 검토하기로 했다. 환경을 위해 당연한 조치라는 의견과 함께 코로나19 감염을 우려하는 목소리도 나온다.<br><br>환경부 관계자는 28일 일회용 컵 규제 계획과 관련해 "4월1일 시행은 맞다"면서도 "처벌 위주 단속보다는 계도하는 방향으로 인수위와 협의해 보겠다"고 밝혔다.<br><br>매장 내 일회용 컵 사용 금지 조치는 생활쓰레기 저감 목적으로 2018년 시행됐다. 이후 2020년 코로나19 확산에 지방자치단체에서 매장 내 일회용품 사용을 한시적으로 허용하면서 현재까지 매장 내 일회용 컵 사용이 가능했다.<br><br>하지만 코로나19 장기화로 플라스틱 사용량이 늘어나는 등의 문제점이 발생하고 있다. 이에 환경부는 고시를 개정해 매장 내 일회용 컵 사용을 제한하기로 했다.<br><br>일회용품 사용 금지 규제는 매장에서만 적용된다. 배달이나 테이크아웃의 경우엔 일회용컵 사용이 허용된다. 일회용품을 사용하다 적발될 시 매장 면적과 위반 횟수에 따라 50만원에서 200만원의 과태료를 물어야 한다.<br><br>당장 대형 커피 프랜차이즈 업계는 다음달 환경부 시행을 앞두고 별다른 움직임을 보이지 않고 있다. 이들은 시행에 앞서 머그컵 무상 지원, 일회용컵 없는 매장 시범운영 등 제도를 선제적으로 시행하고 있다.<br><br>특히 코로나19 신규 확진자 수가 연일 30만명을 넘어선 상황에서 다회용컵 사용이 편치 않다는 목소리도 나온다.<br><br>개인 카페를 운영하는 김(32)세는 "환경 보호를 위한 취지는 이해한다"면서도 "코로나19로 개별 위생에 민감해지면서 다회용컵에 대한 거부감하는 손님이 많을 것"이라고 봤다.<br><br>한편 환경부는 오는 6월10일부터는 1회용컵 보증금제도 시행한다. 전국 매장 수 100개 이상인 커피전문점·패스트푸드점 등에서 일회용 컵에 담긴 음료를 사려면 300원의 보증금을 내야 한다. 보증금은 컵 반환 시 매장에서 현금이나 금융 계좌로 받을 수 있다.<br><br>환경부 관계자는 "단속 후 과태료 부과에 대한 매장의 우려가 있어 당장 과태료를 매기기보다는 계도하는 방향으로 인수위와 협의하겠다"고 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서울시, 소상공인 지킴자금 '현금 100만 원' 신청 기간 재연장 실시 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=273</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=273</guid>
-            <pubDate>Mon, 21 Mar 2022 02:52:49 GMT</pubDate>
-            <content:encoded><![CDATA[서울시가 ‘임차 소상공인 지킴자금’ 신청기간을 오는 31일까지 재차 연장한다.<br><br>서울시와 시의회가 코로나19 민생대책의 하나로 내놓은 ‘임차 소상공인 지킴자금’은 연매출 2억원 미만의 임차 소상공인에게 주는 일종의 생계자금이다.<br><br>지원금은 사업장별로 100만원씩 현금으로 지급되며, 시는 대상자를 50만명으로 추정하고 예산5000억원을 배정한 상태다.<br><br>시는 원래 이달 6일까지 신청을 받을 예정이었지만 신청률이 예상에 못 미치자 13일까지 한 차례 접수 기간을 연장했다. 그러나 이후에도 신청률이 크게 오르지 않아 다시 마감일을 연기했다.<br><br>시에 따르면 지난달 온라인 신청 접수가 시작된 이후 이달까지 한 달간 지킴자금을 신청한 소상공인은 약 29만 명으로, 지원 대상 소상공인 50만 명의 58%에 불과했다.<br><br>서울시는 공공재산 임차 소상공인 임차료 감면, 특별고용·프리랜서 지원금, 관광업 위기극복자금 등과 중복해서 받을 수 없는 데다 휴업 중이거나 사실상 폐업 상태인 사업장은 지원 대상에서 제외하다 보니 상당수 대상자가 신청을 포기한 것으로 보인다고 밝혔다.<br><br>지킴자금 신청은 '서울지킴자금.kr'에 접속한 뒤 사업자등록증과 임대차계약서를 등록하면 된다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[중기부, 소상공인 구독경제 지원 나선다 '지자체·협동조합' 모집 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=272</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=272</guid>
-            <pubDate>Mon, 21 Mar 2022 02:52:49 GMT</pubDate>
-            <content:encoded><![CDATA[중소벤처기업부가 지역 소상공인의 구독경제 추진을 지원한다.<br><br>중기부는는 지자체 온라인몰에 구독경제(정기결제)관을 개설해 소상공인 구독상품 개발과 판로를 지원할 지자체 5곳을 31일까지 모집한다. 또 직접 구독경제 운영을 희망하는 협동조합과 전통시장 10곳을 다음달 7일까지 모집한다. <br><br>구독경제관 개설 희망 지자체 5곳은 지자체를 대표기관으로 신청하되, 지자체가 보유한 온라인몰을 위탁 운영하는 공공기관 등과 컨소시엄 구성한 곳이 자격을 갖춘다. 선정 시 지역 특산물 및 소상공인 제품을 활용한 상품 개발, 정기고객 확보를 위한 홍보 및 할인쿠폰 제공 등 프로모션(평균 2억원) 등을 지원한다.<br><br>구독경제관 직접 운영 희망 협동조합·전통시장은 10곳은 중소기업협동조합법(또는 협동조합법)에 따라 설립한 곳을 대상으로 한다. 이들에 대해서는 플랫폼 구축, 물류, 홍보 및 마케팅 지원, 구독상품 개발 등에 필요한 인건비 등 운영비를 지원한다.<br><br>민간 온라인몰에서도 운영하는 구독경제관도 밀키트, 집밥 과 반찬 등 직장인 간편식을 중심으로 운영하던 것을 올해는 생활용품, 공연 등 문화상품으로 구독분야를 다양화 할 계획이다. 이를 위해 민간 온라인몰도 추가로 지정할 예정이다.<br><br>중기부는 지난해 9월부터 ‘소상공인 구독경제 추진방안’을 토대로 소상공인이 손쉽게 구독경제에 참여하고 활용할 수 있도록 민간·지자체 제휴몰에 구독경제관 4개를 시범운영 해오고 있다.<br><br>올해에는 지원 예산 52억원으로 민간·지자체 구독경제관을 확대하고, 소상공인 스스로가 직접 구독경제를 운영하는 사업을 추진할 계획이다. 신청접수 방법 등 세부 사항은 중기부 홈페이지 사업 공고에서 확인할 수 있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[배달앱, 부산시 소상공인 1만명 풍수해 보험료 지원...연내 전국 확대 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=271</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=271</guid>
-            <pubDate>Mon, 21 Mar 2022 02:52:49 GMT</pubDate>
-            <content:encoded><![CDATA[배달의민족이 태풍이나 홍수 등 자연재해로 인한 외식업 사장님의 피해를 줄이기 위해 풍수해(風水害) 보험료를 지원한다고 밝혔다. <br><br>배달의민족 운영사 우아한형제들(대표이사 김범준)은 소상공인의 풍수해보험 가입 지원사업의 시작으로 부산 지역 외식업 소상공인 1만명의 한 해 보험료 전액(총 3억원 상당)을 지원한다고 14일 밝혔다. 이는 소상공인의 가입 문턱을 낮추고, 자연재해에 노출된 가게 운영 환경의 안정성을 높이기 위함이다.<br><br>풍수해 보험은 행정안전부가 관장하고 민영보험사가 운영하는 정책보험이다. 국가와 지자체가 보험 비용의 70~92%(지자체별 상이)를 부담하고, 나머지 8~30%를 가입자가 부담하는 방식으로 운영된다. 기존 대비 피해보상한도는 8500만원에서 9000만원으로 500만원 늘어났으며, 사고 시 소상공인이 부담하는 금액은 업계 최저수준인 20만원으로 낮췄다.<br><br>풍수해 보험료 지원은 부산지역 외식업 소상공인을 대상으로 선착순으로 진행된다. 보험상품 가입 관련 안내는 배민사장님광장 및 배민아카데미 홈페이지, 부산시 SNS에서 확인할 수 있다. 보험 가입 기간은 오는 4월 30일까지, 보험 적용은 5월 1일부터 내년 4월 30일까지 1년간이다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아르바이트 포털 '무료 임금명세서 서비스' 제공...자영업자 고충 분담 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=270</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=270</guid>
-            <pubDate>Mon, 21 Mar 2022 02:52:49 GMT</pubDate>
-            <content:encoded><![CDATA[구인구직 아르바이트 전문 포털 '알바천국'은 구인구직 업계 최초로 '임금명세서 서비스'를 출시했다. 알바천국 기업회원이라면 사업장 규모와 관계없이 누구나 해당 서비스를 무료로 이용할 수 있다.<br><br>최근 5인 미만 사업장을 포함해 전 사업장에 예외 없이 임금명세서 발급 의무화가 적용되며 그동안 임금명세서를 교부하지 않던 자영업자들의 부담이 커졌다. 알바천국에 따르면 임금명세서 발급 서비스는 최소한의 정보만 입력하면 임금명세서의 손쉬운 작성부터 간편한 교부까지 한 번에 가능하다.<br><br>알바천국이 기업회원 102명을 대상으로 설문조사를 진행한 결과, 전체 응답자의 76.5%가 '임금명세서 교부 의무화'에 대해 인지하고 있으며, 절반 이상(53.9%)이 사업장 운영에 영향을 받았다고 응답했다.<br><br>임금명세서 발급은 기업회원 로그인 후 '기업 홈-임금명세서 발급' 페이지에서 이용할 수 있다. 단 발급을 위해서는 'My 기업 정보' 탭에서 자동으로 연동되는 기업회원 정보 외에 급여 지급 규정 설정에 활용할 산재요율, 사업장 구분, 고용 규모 등 최초 1회 입력이 필요하다.<br><br>이후 '직원 등록' 페이지에서 직원 및 알바생별 이름, 생년월일, 급여 형태 등 기본 정보를 입력하면 지급·공제 항목과 항목별 계산 방법, 임금 총액 등 근로기준법에 따른 임금명세서 필수 항목들이 자동으로 반영된다.<br><br>특히 추가 근로 수당, 각종 보험료와 소득세 등 '지급·공제 항목별 금액'의 경우 △지급 및 세금 유형 △근로 일수 및 시간 등 필수 정보만 입력하면 개별 산출 방식에 맞춰 금액이 자동으로 산정돼 고용주가 일일이 계산할 필요가 없다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[환경부, 커피찌꺼기 '순환자원' 인정...가맹점사업자 재활용 쉬워진다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=269</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=269</guid>
-            <pubDate>Mon, 21 Mar 2022 02:52:49 GMT</pubDate>
-            <content:encoded><![CDATA[환경부는 생활폐기물이던 커피찌꺼기를 순환자원으로 인정해 관련요건과 절차를 대폭 간소화하기로 했다고 밝혔다. <br> <br>커피 찌꺼기는 생활폐기물로 취급돼 일반적으로 종량제 봉투에 담아 소각·매립 처리해 왔다. 커피 찌꺼기가 퇴비와 건축자재, 플라스틱 제품 등 다양한 용도로 활용될 가능성이 높음에도 불구하고 소각·매립해 탄소배출 등이 문제로 지적돼 왔다. 앞으로는 연간 생산실적 확인 정도의 관리만 이뤄지고, 폐기물 규제에서 제외된다.<br><br>환경부는 관련 규정 정비에 통상 6개월 이상 소요되는 문제를 해소하기 위해 적극행정제도를 활용했다. 외부 전문가가 참여하는 적극행정위원회 의견을 반영해 절차를 간소화하고 업무를 적극 추진하는 제도다.<br><br>환경부는 “지난해 왕겨·쌀겨에 이어, 커피 찌꺼기도 폐기물 관련 규제가 면제되는 순환자원으로 인정될 수 있도록 순환자원 인정신청 대상을 사업장 폐기물뿐만 아니라 생활폐기물까지 확대했다는 의미가 있다”고 설명했다.<br><br>커피찌꺼기가 순환자원으로 인정되고 폐기물에서 제외되면, 폐기물 수집·운반 전용차량이 아닌 일반 차량으로도 운반할 수 있다. 재활용 허가·신고 없이도 자유롭게 처리할 수 있어, 버려지는 대신 자원으로 활용될 수 있게 된다.<br><br>환경부는 가맹(프랜차이즈) 형태로 운영되는 커피 전문점이 대다수인 점을 고려해 가맹본부가 전국 가맹점 사업자를 대신해 소재지의 관할 유역(지방)환경청에 순환자원 인정 신청서를 일괄하여 제출할 수 있도록 했다.<br><br>한편 환경부는 커피 찌꺼기 순환자원 인정 개선방안의 일부를 담은 ‘순환자원 인정 절차 및 방법에 관한 고시’ 일부개정안을 일시적으로 행정예고할 계획이다.]]></content:encoded>
         </item>
     </channel>
 </rss>
