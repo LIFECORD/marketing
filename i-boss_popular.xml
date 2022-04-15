@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-15T08:23:02.139Z</updated>
+    <updated>2022-04-15T09:18:54.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -32,13 +32,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57492"/>
         <updated>2022-03-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[REBEL]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마우스 쓰지마세요, 우뇌가 알려주는 퇴근 땡기기 엑..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57386</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57386"/>
-        <updated>2022-03-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[우뇌]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마케팅 관련 자격증은 뭐가 있나요? 2022 ver]]></title>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38666"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[놀토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고객이 입소문 내는 회사의 7가지 법칙]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57484</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57484"/>
+        <updated>2022-03-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[둥근마을]]></content>
     </entry>
 </feed>
