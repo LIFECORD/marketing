@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 22:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 23:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,6 +798,19 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8541</guid>
             <pubDate>Mon, 11 Apr 2022 08:22:13 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인스타그램 광고의 '더 알아보기'를 통해서 고객 DB를 수집하려면 광고를 만들 때 어떤 캠페인 목표를 선택해야 할까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Fri, 15 Apr 2022 23:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->인스타그램 광고의 '더 알아보기'를 통해서 고객 DB를 수집하려면 광고를 만들 때 어떤 캠페인 목표를 선택해야 할까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1402_1" value="1" class="AB-radio" id="PQ_BD5826_1402_1_0"><label for="PQ_BD5826_1402_1_0" id="label_PQ_BD5826_1402_1_0">(A) 전환</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1402_1" value="2" class="AB-radio" id="PQ_BD5826_1402_1_1"><label for="PQ_BD5826_1402_1_1" id="label_PQ_BD5826_1402_1_1">(B) 잠재 고객 확보</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1402_1" value="3" class="AB-radio" id="PQ_BD5826_1402_1_2"><label for="PQ_BD5826_1402_1_2" id="label_PQ_BD5826_1402_1_2">(C) 매장 유입</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1402_1" value="4" class="AB-radio" id="PQ_BD5826_1402_1_3"><label for="PQ_BD5826_1402_1_3" id="label_PQ_BD5826_1402_1_3">(D) 참여</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사회적 거리두기 '모임 10인·밤 12시' 조정안 시행 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
