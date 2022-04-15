@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 07:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 08:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,13 +238,6 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SNS광고마케터 1급 샘플 문제 A/B형 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-3208-767</link>
-            <guid>https://www.i-boss.co.kr/ab-3208-767</guid>
-            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[유리나]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[전형적인 중소 vs 신세대 중소(선택 고민) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38750</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38750</guid>
@@ -259,18 +252,18 @@
             <content:encoded><![CDATA[영상팁]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[입소문 바이럴 마케팅의 5가지 원칙 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57457</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57457</guid>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 마케터 탈룰라 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38815</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38815</guid>
             <pubDate>Thu, 14 Apr 2022 06:22:48 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[입소문 바이럴 마케팅의 5가지 원칙 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57457</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57457</guid>
+            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[내 브랜드와 꼭 맞는 유형 테스트 만들기! (아이보스 ─ 인기글)]]></title>
@@ -348,6 +341,13 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38672</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[델몬트두리안]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[리터없쓔 마감되쓔] 원하는 만큼 리터 드려요 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38666</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38666</guid>
+            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[OMG, 업계 최초 POP(Point-of-Purchase) 스크린용 프로그래매틱 마켓플레이스 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[인스타그램 광고의 '더 알아보기'를 통해서 고객 DB를 수집하려면 광고를 만들 때 어떤 캠페인 목표를 선택해야 할까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 15 Apr 2022 07:19:15 GMT</pubDate>
+            <pubDate>Fri, 15 Apr 2022 08:22:53 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->인스타그램 광고의 '더 알아보기'를 통해서 고객 DB를 수집하려면 광고를 만들 때 어떤 캠페인 목표를 선택해야 할까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
