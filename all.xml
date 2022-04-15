@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 04:38:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 05:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -189,18 +189,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[UA 잘가! GA4 어서와! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57505</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57505</guid>
-            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-74668-2590</link>
             <guid>https://www.i-boss.co.kr/ab-74668-2590</guid>
             <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다이티]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[UA 잘가! GA4 어서와! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57505</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57505</guid>
+            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[블로그 검색노출? 유료 정보 그냥 풉니다(삭제될 수.. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[인스타그램 광고의 '더 알아보기'를 통해서 고객 DB를 수집하려면 광고를 만들 때 어떤 캠페인 목표를 선택해야 할까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 15 Apr 2022 04:37:51 GMT</pubDate>
+            <pubDate>Fri, 15 Apr 2022 05:23:33 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->인스타그램 광고의 '더 알아보기'를 통해서 고객 DB를 수집하려면 광고를 만들 때 어떤 캠페인 목표를 선택해야 할까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
