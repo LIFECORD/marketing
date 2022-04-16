@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 01:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 03:32:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -154,13 +154,6 @@
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[난 오늘도 올리브영에 100만 원을 쓴다 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57393</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57393</guid>
-            <pubDate>Thu, 17 Mar 2022 10:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[jinhorus]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[매출 15억 찍고 망한썰 그리고 배운점. 저처럼 하지 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57492</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57492</guid>
@@ -259,18 +252,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스마트스토어 1달이 약간 지난 시점입니다. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38681</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38681</guid>
-            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케터가 알면 좋은 성장단계 3가지 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57563</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57563</guid>
             <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스마트스토어 1달이 약간 지난 시점입니다. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38681</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38681</guid>
+            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케팅 책 추천, 이럴 땐 이런 책을! - 책장공개 (아이보스 ─ 인기글)]]></title>
@@ -336,6 +329,13 @@
             <content:encoded><![CDATA[놀토]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[제품vs브랜드 무엇이 더 중요할까? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57579</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57579</guid>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[르와즈]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[고객이 입소문 내는 회사의 7가지 법칙 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57484</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57484</guid>
@@ -348,6 +348,22 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57475</guid>
             <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[DDB코리아, 키스톤엔터테인먼트와 MOU 체결... 블랭키 해외 진출 지원 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8576</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8576</guid>
+            <pubDate>Sat, 16 Apr 2022 11:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[DDB코리아는키스톤엔터테인먼트(이하 키스톤엔터)와 업무협약(MOU)을 체결했다. 키스톤엔터는 오는 5월 24일 9인조 보이그룹 블랭키의 데뷔를 예고했다. 광고회사 DDB코리아와의 업무협약 체결이 가요계 출격을 앞두고 있는 블랭 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[KT-나스미디어, AI로 광고 플랫폼 고도화 나선다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8575</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8575</guid>
+            <pubDate>Sat, 16 Apr 2022 10:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[KT그룹의 디지털 미디어렙 나스미디어(대표 박평권)가15일 나스미디어 사옥에서 국내 최고 수준의AI기술력을 보유한KT와 광고 플랫폼 혁신을 위한AI기술개발 업무협약(MOU)을 체결했다.협약식에는 나스미디어 박평권 대표와KT융합 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[글로벌 소셜 미디어 광고 시장은 앞으로 몇 년 동안 급등할 것으로 예상 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -574,40 +590,38 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[전년 대비 봄맞이 여행 수요 94% 증가 한국 아시아2위, 스페인 유럽1위 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8545</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8545</guid>
-            <pubDate>Tue, 12 Apr 2022 08:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 온라인 여행사 트립닷컴 그룹이 봄 여행 트렌드를 발표하며 전년 동기 대비 봄맞이 여행 수요가 94% 증가했다고 밝혔다. 트립닷컴 그룹이 2월 1일부터 3월 21일까지 약 2개월간 데이터를 분석한 결과, 전년 동기 대비 트립 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[DDB코리아, 키스톤엔터테인먼트와 MOU 체결... 블랭키 해외 진출 지원 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8576</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8576</guid>
+            <pubDate>Sat, 16 Apr 2022 03:32:28 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유통업계가 MZ세대와의 소통을 강화하는 방법...기존 제품에 색다름 더하기 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8544</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8544</guid>
-            <pubDate>Tue, 12 Apr 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근유통업계가 기존제품에약간의변화를주는색다름으로주소비자층인MZ세대공략에나서고있다.기존제품의기본특징은살려익숙함은유지하되일부특징에서의색다른변화로소비자들에게신선함을선사하는것. 이는새롭고차별화된 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[KT-나스미디어, AI로 광고 플랫폼 고도화 나선다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8575</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8575</guid>
+            <pubDate>Sat, 16 Apr 2022 03:32:28 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[글로벌 소셜 미디어 광고 시장은 앞으로 몇 년 동안 급등할 것으로 예상 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8574</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8574</guid>
-            <pubDate>Sat, 16 Apr 2022 01:16:41 GMT</pubDate>
+            <pubDate>Sat, 16 Apr 2022 09:10:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[증강현실과 가상현실이 주류로 진입하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8573</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8573</guid>
-            <pubDate>Sat, 16 Apr 2022 01:16:41 GMT</pubDate>
+            <pubDate>Sat, 16 Apr 2022 09:09:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 2022년 그래픽 디자인 트렌드 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8572</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8572</guid>
-            <pubDate>Sat, 16 Apr 2022 01:16:41 GMT</pubDate>
+            <pubDate>Sat, 16 Apr 2022 09:08:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[전년 대비 봄맞이 여행 수요 94% 증가… 한국 아시아2위, 스페인 유럽1위 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8545</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8545</guid>
-            <pubDate>Tue, 12 Apr 2022 08:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유통업계가 MZ세대와의 소통을 강화하는 방법...기존 제품에 ‘색다름’ 더하기 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8544</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8544</guid>
-            <pubDate>Tue, 12 Apr 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[인스타그램 광고의 '더 알아보기'를 통해서 고객 DB를 수집하려면 광고를 만들 때 어떤 캠페인 목표를 선택해야 할까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 16 Apr 2022 01:16:54 GMT</pubDate>
+            <pubDate>Sat, 16 Apr 2022 03:32:40 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->인스타그램 광고의 '더 알아보기'를 통해서 고객 DB를 수집하려면 광고를 만들 때 어떤 캠페인 목표를 선택해야 할까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
