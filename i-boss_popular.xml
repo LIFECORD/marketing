@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-16T06:22:27.858Z</updated>
+    <updated>2022-04-16T07:18:01.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -25,13 +25,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57492"/>
         <updated>2022-03-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[REBEL]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마케팅 관련 자격증은 뭐가 있나요? 2022 ver]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57397</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57397"/>
-        <updated>2022-03-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[마미손]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용..]]></title>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57475"/>
         <updated>2022-03-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[jinhorus]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[만우절 기념] 신조어 아니고.. 시조어 테스트🤣]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38755</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38755"/>
+        <updated>2022-04-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[홍티]]></content>
     </entry>
 </feed>

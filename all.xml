@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 06:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 07:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -159,13 +159,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57492</guid>
             <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[REBEL]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마케팅 관련 자격증은 뭐가 있나요? 2022 ver (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57397</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57397</guid>
-            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마미손]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용.. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +341,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57475</guid>
             <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[만우절 기념] 신조어 아니고.. 시조어 테스트🤣 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38755</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38755</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[홍티]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[DDB코리아, 키스톤엔터테인먼트와 MOU 체결... 블랭키 해외 진출 지원 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[인스타그램 광고의 '더 알아보기'를 통해서 고객 DB를 수집하려면 광고를 만들 때 어떤 캠페인 목표를 선택해야 할까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 16 Apr 2022 06:22:18 GMT</pubDate>
+            <pubDate>Sat, 16 Apr 2022 07:17:50 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->인스타그램 광고의 '더 알아보기'를 통해서 고객 DB를 수집하려면 광고를 만들 때 어떤 캠페인 목표를 선택해야 할까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
