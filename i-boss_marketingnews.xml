@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 22:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 23:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[4월 18일 마케팅 뉴스클리핑] 구글코리아 매출 2,900억 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8571</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8571</guid>
+            <pubDate>Mon, 18 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 국내 매출이 고작 2,900억 구글의 조세회피 논란  구글이 한국 사업의 실적을 공개했다. 구글은 지난해 한국에서 2,900억 원대의 매출을 기록했다고 밝혔는데, 구글플레이 수수료만 5조 원대로 추산되는 상황에서 반쪽짜리 실적  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16501959390825.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, #YouMake 글로벌 캠페인 실시... 개인화된 경험과 기기 간 연결성 추구]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8580</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 13 Apr 2022 08:48:00 GMT</pubDate>
             <content:encoded><![CDATA[이제는 최신 제품을 홍보하고 광고를 만들기 위해 브랜드에서 점점 더 많이 버추얼 인플루언서를 활용하고 있다. 이제 많은 버추얼 캐릭터들은릴 미켈라(인스타그램팔로워 300만), 누누리(noonoouri, 팔로워398,000), 슈두(Shudu, 팔로 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[4월 13일 마케팅 뉴스클리핑] 쿠팡, 1분기 결제추정금 네이버 제치고 1위 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8550</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8550</guid>
-            <pubDate>Wed, 13 Apr 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 쿠팡, 1분기 결제추정금 네이버 제치고 1위  올 1분기 많이 결제한 이커머스 서비스 순서는 쿠팡, 네이버, SSG닷컴, 배달의 민족, 11번가 순으로 조사됐다. 쿠팡의 1분기 결제추정금액은 28% 늘어난 9조 6,226억 원이었고, 이어 네이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_9a6946456339861d5deea28f4a097bcb_65111_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
