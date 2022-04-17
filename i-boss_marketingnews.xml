@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 09:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 10:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, #YouMake 글로벌 캠페인 실시... 개인화된 경험과 기기 간 연결성 추구]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8580</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8580</guid>
+            <pubDate>Sun, 17 Apr 2022 10:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 전세계 주요 국가의 고객들이 자신만의 라이프스타일에 맞는 제품과 서비스를 직접 선택하고 만들 수 있도록 하는 #YouMake 글로벌 캠페인을 18일 시작한다. 지난 1월 세계 최대 IT전자 전시회 CES 2022에서 처음 소개된 #Y ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[메조미디어, 2022년 소비 트렌드 분석자료 발표]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8579</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 13 Apr 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 쿠팡, 1분기 결제추정금 네이버 제치고 1위  올 1분기 많이 결제한 이커머스 서비스 순서는 쿠팡, 네이버, SSG닷컴, 배달의 민족, 11번가 순으로 조사됐다. 쿠팡의 1분기 결제추정금액은 28% 늘어난 9조 6,226억 원이었고, 이어 네이 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_9a6946456339861d5deea28f4a097bcb_65111_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 1분기 한국인이 가장 많이 결제한 이커머스 서비스는?]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8549</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8549</guid>
-            <pubDate>Tue, 12 Apr 2022 09:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[올해 1분기 상위 이커머스 서비스의 결제추정금액 전년 동기 대비 17% 상승 22년 1분기 한국인이 가장 많이 결제한 이커머스 서비스는 쿠팡, 네이버, SSG닷컴 순   앱/리테일 분석서비스 와이즈앱리테일굿즈가 2022년 1분기 동안 한 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16497244816786.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

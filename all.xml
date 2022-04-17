@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 09:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 10:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -315,6 +315,13 @@
             <content:encoded><![CDATA[델몬트두리안]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[새로운 마케팅 방법..? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38829</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38829</guid>
+            <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[미선성]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[제품vs브랜드 무엇이 더 중요할까? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57579</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57579</guid>
@@ -343,11 +350,12 @@
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[만우절 기념] 신조어 아니고.. 시조어 테스트🤣 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38755</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38755</guid>
-            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[홍티]]></content:encoded>
+            <title><![CDATA[삼성전자, #YouMake 글로벌 캠페인 실시... 개인화된 경험과 기기 간 연결성 추구 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8580</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8580</guid>
+            <pubDate>Sun, 17 Apr 2022 10:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 전세계 주요 국가의 고객들이 자신만의 라이프스타일에 맞는 제품과 서비스를 직접 선택하고 만들 수 있도록 하는 #YouMake 글로벌 캠페인을 18일 시작한다. 지난 1월 세계 최대 IT전자 전시회 CES 2022에서 처음 소개된 #Y ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[메조미디어, 2022년 소비 트렌드 분석자료 발표 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_9a6946456339861d5deea28f4a097bcb_65111_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022년 1분기 한국인이 가장 많이 결제한 이커머스 서비스는? (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8549</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8549</guid>
-            <pubDate>Tue, 12 Apr 2022 09:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[올해 1분기 상위 이커머스 서비스의 결제추정금액 전년 동기 대비 17% 상승 22년 1분기 한국인이 가장 많이 결제한 이커머스 서비스는 쿠팡, 네이버, SSG닷컴 순   앱/리테일 분석서비스 와이즈앱리테일굿즈가 2022년 1분기 동안 한 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16497244816786.png" length="0" type="image/png"/>
+            <title><![CDATA[삼성전자, ‘#YouMake’ 글로벌 캠페인 실시... 개인화된 경험과 기기 간 연결성 추구 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8580</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8580</guid>
+            <pubDate>Sun, 17 Apr 2022 10:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[메조미디어, 2022년 소비 트렌드 분석자료 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년 1분기 한국인이 가장 많이 결제한 이커머스 서비스는? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8549</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8549</guid>
-            <pubDate>Tue, 12 Apr 2022 09:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[인스타그램 광고의 '더 알아보기'를 통해서 고객 DB를 수집하려면 광고를 만들 때 어떤 캠페인 목표를 선택해야 할까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 17 Apr 2022 09:19:00 GMT</pubDate>
+            <pubDate>Sun, 17 Apr 2022 10:19:30 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->인스타그램 광고의 '더 알아보기'를 통해서 고객 DB를 수집하려면 광고를 만들 때 어떤 캠페인 목표를 선택해야 할까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
