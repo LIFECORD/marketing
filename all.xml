@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 14:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 15:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -266,18 +266,18 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스마트스토어 1달이 약간 지난 시점입니다. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38681</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38681</guid>
-            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케팅 책 추천, 이럴 땐 이런 책을! - 책장공개 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57437</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57437</guid>
             <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[리유]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스마트스토어 1달이 약간 지난 시점입니다. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38681</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38681</guid>
+            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MD와 마케터 이도저도 아닌 나 (아이보스 ─ 인기글)]]></title>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8556</guid>
             <pubDate>Wed, 13 Apr 2022 09:51:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다음 중 이보스 씨가 구글 애널리틱스에서 설정할 수 있는 목표가 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 18 Apr 2022 14:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->다음 중 이보스 씨가 구글 애널리틱스에서 설정할 수 있는 목표가 아닌 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/cb0f0269a4bc01a6f64a808595a50f84_16497549627915.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1403_1" value="1" class="AB-radio" id="PQ_BD5826_1403_1_0"><label for="PQ_BD5826_1403_1_0" id="label_PQ_BD5826_1403_1_0">(A) 구매 증대</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1403_1" value="2" class="AB-radio" id="PQ_BD5826_1403_1_1"><label for="PQ_BD5826_1403_1_1" id="label_PQ_BD5826_1403_1_1">(B) 뉴스레터 구독</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1403_1" value="3" class="AB-radio" id="PQ_BD5826_1403_1_2"><label for="PQ_BD5826_1403_1_2" id="label_PQ_BD5826_1403_1_2">(C) 성공적인 구글 검색 완료</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1403_1" value="4" class="AB-radio" id="PQ_BD5826_1403_1_3"><label for="PQ_BD5826_1403_1_3" id="label_PQ_BD5826_1403_1_3">(D) 장바구니 추가</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사회적 거리두기 '모임 10인·밤 12시' 조정안 시행 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

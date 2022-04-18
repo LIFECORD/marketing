@@ -2,20 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-5826</id>
     <title>아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈</title>
-    <updated>2022-04-18T14:17:28.000Z</updated>
+    <updated>2022-04-18T15:19:21.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[다음 중 이보스 씨가 구글 애널리틱스에서 설정할 수 있는 목표가 아닌 것은 무엇일까요?]]></title>
-        <id>https://www.i-boss.co.kr/ab-5826</id>
-        <link href="https://www.i-boss.co.kr/ab-5826"/>
-        <updated>2022-04-18T14:17:17.507Z</updated>
-        <content type="html"><![CDATA[<tbody><tr>
-				<td><!--1-->다음 중 이보스 씨가 구글 애널리틱스에서 설정할 수 있는 목표가 아닌 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/cb0f0269a4bc01a6f64a808595a50f84_16497549627915.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1403_1" value="1" class="AB-radio" id="PQ_BD5826_1403_1_0"><label for="PQ_BD5826_1403_1_0" id="label_PQ_BD5826_1403_1_0">(A) 구매 증대</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1403_1" value="2" class="AB-radio" id="PQ_BD5826_1403_1_1"><label for="PQ_BD5826_1403_1_1" id="label_PQ_BD5826_1403_1_1">(B) 뉴스레터 구독</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1403_1" value="3" class="AB-radio" id="PQ_BD5826_1403_1_2"><label for="PQ_BD5826_1403_1_2" id="label_PQ_BD5826_1403_1_2">(C) 성공적인 구글 검색 완료</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1403_1" value="4" class="AB-radio" id="PQ_BD5826_1403_1_3"><label for="PQ_BD5826_1403_1_3" id="label_PQ_BD5826_1403_1_3">(D) 장바구니 추가</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content>
-    </entry>
 </feed>
