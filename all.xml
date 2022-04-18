@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 05:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 06:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 가장 많이 쓰는 SNS는 OO이다? (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/958288-%EA%B5%AD%EB%82%B4_%EA%B0%80%EC%9E%A5_%EB%A7%8E%EC%9D%B4_%EC%93%B0%EB%8A%94_SNS%EB%8A%94_OO%EC%9D%B4%EB%8B%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/958288-%EA%B5%AD%EB%82%B4_%EA%B0%80%EC%9E%A5_%EB%A7%8E%EC%9D%B4_%EC%93%B0%EB%8A%94_SNS%EB%8A%94_OO%EC%9D%B4%EB%8B%A4/</guid>
+            <pubDate>Mon, 18 Apr 2022 06:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/958288-국내_가장_많이_쓰는_SNS는_OO이다/">
+						<div class="thumb"><img src="/images/qletter_958288.png"></div>
+						<p><strong>국내 가장 많이 쓰는 SNS는 OO이다?</strong>2022.04.18</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_958288.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[1인 마케터 vs 박봉 대행사 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/953266-1%EC%9D%B8_%EB%A7%88%EC%BC%80%ED%84%B0_vs_%EB%B0%95%EB%B4%89_%EB%8C%80%ED%96%89%EC%82%AC/</link>
@@ -129,17 +140,6 @@
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_902615.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[무신사와 크림의 데스매치, 지면 끝난다 💣 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/897710-%EB%AC%B4%EC%8B%A0%EC%82%AC%EC%99%80_%ED%81%AC%EB%A6%BC%EC%9D%98_%EB%8D%B0%EC%8A%A4%EB%A7%A4%EC%B9%98_%EC%A7%80%EB%A9%B4_%EB%81%9D%EB%82%9C%EB%8B%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/897710-%EB%AC%B4%EC%8B%A0%EC%82%AC%EC%99%80_%ED%81%AC%EB%A6%BC%EC%9D%98_%EB%8D%B0%EC%8A%A4%EB%A7%A4%EC%B9%98_%EC%A7%80%EB%A9%B4_%EB%81%9D%EB%82%9C%EB%8B%A4/</guid>
-            <pubDate>Mon, 07 Mar 2022 01:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/897710-무신사와_크림의_데스매치_지면_끝난다/">
-						<div class="thumb"><img src="/images/qletter_897710.png"></div>
-						<p><strong> 무신사와 크림의 데스매치, 지면 끝난다 💣</strong>2022.03.07</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_897710.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[1급 SNS광고마케터가 되어보자! `SNS광고마케터 1급` 도.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-452</link>
             <guid>https://www.i-boss.co.kr/ab-2973-452</guid>
@@ -203,18 +203,18 @@
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[직장인을 위한 오피스 실무서! `무작정 따라하기 엑.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-453</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-453</guid>
-            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[전형적인 중소 vs 신세대 중소(선택 고민) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38750</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38750</guid>
             <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마사초]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[직장인을 위한 오피스 실무서! `무작정 따라하기 엑.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-453</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-453</guid>
+            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케터가 알면 좋은 성장단계 3가지 (아이보스 ─ 인기글)]]></title>
@@ -252,18 +252,18 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터 각 연차별 체크리스트  체크해보세요! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57572</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57572</guid>
-            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[근육돌이]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2년차 눈팅족, 그동안 감사했습니다. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38838</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38838</guid>
             <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[64321647]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케터 각 연차별 체크리스트  체크해보세요! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57572</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57572</guid>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[근육돌이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스마트스토어 1달이 약간 지난 시점입니다. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 이보스 씨가 구글 애널리틱스에서 설정할 수 있는 목표가 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 18 Apr 2022 05:18:45 GMT</pubDate>
+            <pubDate>Mon, 18 Apr 2022 06:23:50 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 이보스 씨가 구글 애널리틱스에서 설정할 수 있는 목표가 아닌 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/cb0f0269a4bc01a6f64a808595a50f84_16497549627915.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
