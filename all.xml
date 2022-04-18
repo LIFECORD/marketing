@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 04:26:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 05:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,18 +308,18 @@
             <content:encoded><![CDATA[미선성]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[GFA 일매출 400만원, 로아스 500% 어떻게 만드는 걸까? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57423</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57423</guid>
-            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[팀ROAS]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[제품vs브랜드 무엇이 더 중요할까? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57579</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57579</guid>
             <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[르와즈]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GFA 일매출 400만원, 로아스 500% 어떻게 만드는 걸까? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57423</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57423</guid>
+            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[팀ROAS]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2주 꼬박 심리테스트 만들었는데 고견받습니다 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 이보스 씨가 구글 애널리틱스에서 설정할 수 있는 목표가 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 18 Apr 2022 04:26:43 GMT</pubDate>
+            <pubDate>Mon, 18 Apr 2022 05:18:45 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 이보스 씨가 구글 애널리틱스에서 설정할 수 있는 목표가 아닌 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/cb0f0269a4bc01a6f64a808595a50f84_16497549627915.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
