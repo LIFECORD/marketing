@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 22:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 23:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,18 +231,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터 각 연차별 체크리스트  체크해보세요! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57572</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57572</guid>
-            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[근육돌이]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2년차 눈팅족, 그동안 감사했습니다. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38838</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38838</guid>
             <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[64321647]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케터 각 연차별 체크리스트  체크해보세요! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57572</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57572</guid>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[근육돌이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[영상 기획! 참고하면 좋은 사이트들!! (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38666</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[놀토]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[4월 19일 마케팅 뉴스클리핑] MBTI, 무리한 마케팅에 MZ세대 거부감 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8586</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8586</guid>
+            <pubDate>Tue, 19 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. MBTI, 무리한 마케팅에 MZ세대 거부감  최근 기업들이 사람 성격을 파악하는 MBTI 심리검사를 활용한 마케팅을 잇따라 선보이고 있다. 하지만 MBTI 지표가 신뢰도타당도가 부족해 무분별한 사용에 대한 우려의 목소리도 나온다.  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_b9754889da499fcaeaae037bee0a1378_230_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MS, 엑스박스 무료게임에 광고 도입 검토 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[카카오모빌리티, 제1회 구글 클라우드 데브옵스 어워즈 수상 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8556</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8556</guid>
-            <pubDate>Wed, 13 Apr 2022 09:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[구글 클라우드는 카카오모빌리티가 구글 클라우드 데브옵스 어워즈(Google Cloud DevOps Awards)에서 한국 기업 중 유일하게 수상자로 선정되었다고 밝혔다. 구글 클라우드가 올해 처음으로 개최한 구글 클라우드 데브옵스 어워즈는  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[4월 19일 마케팅 뉴스클리핑] MBTI, 무리한 마케팅에 MZ세대 거부감 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8586</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8586</guid>
+            <pubDate>Mon, 18 Apr 2022 23:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MS, 엑스박스 무료게임에 광고 도입 검토 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오모빌리티, 제1회 ‘구글 클라우드 데브옵스 어워즈’ 수상 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8556</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8556</guid>
-            <pubDate>Wed, 13 Apr 2022 09:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[다음 중 프리미엄 기능과 앱 맞춤 설정을 제공하는 트위터의 유료 구독 서비스 이름은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Mon, 18 Apr 2022 23:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 중 프리미엄 기능과 앱 맞춤 설정을 제공하는 트위터의 유료 구독 서비스 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1404_1" value="1" class="AB-radio" id="PQ_BD5826_1404_1_0"><label for="PQ_BD5826_1404_1_0" id="label_PQ_BD5826_1404_1_0">(A) 트위터 골드</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1404_1" value="2" class="AB-radio" id="PQ_BD5826_1404_1_1"><label for="PQ_BD5826_1404_1_1" id="label_PQ_BD5826_1404_1_1">(B) 트위터 블루</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1404_1" value="3" class="AB-radio" id="PQ_BD5826_1404_1_2"><label for="PQ_BD5826_1404_1_2" id="label_PQ_BD5826_1404_1_2">(C) 트위터 프로</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1404_1" value="4" class="AB-radio" id="PQ_BD5826_1404_1_3"><label for="PQ_BD5826_1404_1_3" id="label_PQ_BD5826_1404_1_3">(D) 트위터 프리미엄</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사회적 거리두기 '모임 10인·밤 12시' 조정안 시행 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

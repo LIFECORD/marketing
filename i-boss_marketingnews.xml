@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 22:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 23:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[4월 19일 마케팅 뉴스클리핑] MBTI, 무리한 마케팅에 MZ세대 거부감 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8586</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8586</guid>
+            <pubDate>Tue, 19 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. MBTI, 무리한 마케팅에 MZ세대 거부감  최근 기업들이 사람 성격을 파악하는 MBTI 심리검사를 활용한 마케팅을 잇따라 선보이고 있다. 하지만 MBTI 지표가 신뢰도타당도가 부족해 무분별한 사용에 대한 우려의 목소리도 나온다.  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_b9754889da499fcaeaae037bee0a1378_230_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MS, 엑스박스 무료게임에 광고 도입 검토]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8585</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8557</guid>
             <pubDate>Wed, 13 Apr 2022 09:58:00 GMT</pubDate>
             <content:encoded><![CDATA[데이터인사이트컨설팅기업칸타코리아(대표양정열)가오는14일오후3시국내마케터및광고업계종사자를대상으로웨비나를개최하고,자사의자동화된마케팅리서치플랫폼칸타마켓플레이스를자세히소개한다. 빠르게변화하고예기치 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오모빌리티, 제1회 구글 클라우드 데브옵스 어워즈 수상]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8556</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8556</guid>
-            <pubDate>Wed, 13 Apr 2022 09:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[구글 클라우드는 카카오모빌리티가 구글 클라우드 데브옵스 어워즈(Google Cloud DevOps Awards)에서 한국 기업 중 유일하게 수상자로 선정되었다고 밝혔다. 구글 클라우드가 올해 처음으로 개최한 구글 클라우드 데브옵스 어워즈는  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

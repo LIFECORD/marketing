@@ -2,7 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-5826</id>
     <title>아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈</title>
-    <updated>2022-04-18T22:19:50.153Z</updated>
+    <updated>2022-04-18T23:15:40.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다음 중 프리미엄 기능과 앱 맞춤 설정을 제공하는 트위터의 유료 구독 서비스 이름은 무엇일까요?]]></title>
+        <id>https://www.i-boss.co.kr/ab-5826</id>
+        <link href="https://www.i-boss.co.kr/ab-5826"/>
+        <updated>2022-04-18T23:15:31.274Z</updated>
+        <content type="html"><![CDATA[<tbody><tr>
+				<td><!--1-->다음 중 프리미엄 기능과 앱 맞춤 설정을 제공하는 트위터의 유료 구독 서비스 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1404_1" value="1" class="AB-radio" id="PQ_BD5826_1404_1_0"><label for="PQ_BD5826_1404_1_0" id="label_PQ_BD5826_1404_1_0">(A) 트위터 골드</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1404_1" value="2" class="AB-radio" id="PQ_BD5826_1404_1_1"><label for="PQ_BD5826_1404_1_1" id="label_PQ_BD5826_1404_1_1">(B) 트위터 블루</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1404_1" value="3" class="AB-radio" id="PQ_BD5826_1404_1_2"><label for="PQ_BD5826_1404_1_2" id="label_PQ_BD5826_1404_1_2">(C) 트위터 프로</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1404_1" value="4" class="AB-radio" id="PQ_BD5826_1404_1_3"><label for="PQ_BD5826_1404_1_3" id="label_PQ_BD5826_1404_1_3">(D) 트위터 프리미엄</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content>
+    </entry>
 </feed>
