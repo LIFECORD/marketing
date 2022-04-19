@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-19T14:21:40.656Z</updated>
+    <updated>2022-04-19T15:20:26.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -195,18 +195,18 @@
         <content type="html"><![CDATA[팀ROAS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2주 꼬박 심리테스트 만들었는데 고견받습니다]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38726</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38726"/>
-        <updated>2022-03-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[박멍멍]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[구글애널리틱스4(GA4) 초기 세팅 사항]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57548</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57548"/>
         <updated>2022-04-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[데이터분석]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2주 꼬박 심리테스트 만들었는데 고견받습니다]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38726</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38726"/>
+        <updated>2022-03-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[박멍멍]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[선후배님들은 취미가 뭐에요?]]></title>
