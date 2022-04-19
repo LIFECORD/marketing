@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 09:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 10:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,18 +287,18 @@
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[MD와 마케터 이도저도 아닌 나 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38817</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38817</guid>
-            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[모야야]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[쉿! 보스님만 알고 계세요. 지금 팔리는 것들의 비밀 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-5637-31</link>
             <guid>https://www.i-boss.co.kr/ab-5637-31</guid>
             <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MD와 마케터 이도저도 아닌 나 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38817</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38817</guid>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[모야야]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[첫출근!! 병아리 퍼포먼스 마케터 도와주세요 ㅜㅜ (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 프리미엄 기능과 앱 맞춤 설정을 제공하는 트위터의 유료 구독 서비스 이름은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 19 Apr 2022 09:19:50 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2022 10:23:59 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 프리미엄 기능과 앱 맞춤 설정을 제공하는 트위터의 유료 구독 서비스 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
