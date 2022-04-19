@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 22:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 23:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[델몬트두리안]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[4월 20일 마케팅 뉴스클리핑] 인스타그램, 상품 태그 모든 미국 이용자로 확대 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8594</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8594</guid>
+            <pubDate>Wed, 20 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 인스타그램, `상품 태그` 모든 미국 이용자로 확대  인스타그램이 `상품 태그` 기능을 미국 이용자에게 확대 도입한다. 인스타그램은 그동안 비즈니스와 크리에이터 계정에만 제공하던 게시물 상품 태그 기능을 미국 이용자  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_39e95c38dadf643b75dc99ad328abd9c_19373_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022년 1분기 한국인이 온라인에서 많이 구매한 상품은? (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8593</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8593</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[세일즈포스, 차세대 서비스 및 마케팅 클라우드 업데이트... 서비스, 마케팅 영역에서 고객과 기업 간의 접점 혁신할 것 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8564</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8564</guid>
-            <pubDate>Thu, 14 Apr 2022 10:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계CRM시장을 선도하고 있는 세일즈포스는AI,데이터,음성인식,증강현실 등 다양한 혁신 기술이 도입강화된 차세대 서비스 클라우드와 마케팅 클라우드의 신기능을 선보였다.이를 통해 서비스와 마케팅 업무 영역에서 고객  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[4월 20일 마케팅 뉴스클리핑] 인스타그램, '상품 태그' 모든 미국 이용자로 확대 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8594</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8594</guid>
+            <pubDate>Tue, 19 Apr 2022 23:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 1분기 한국인이 온라인에서 많이 구매한 상품은? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세일즈포스, 차세대 서비스 및 마케팅 클라우드 업데이트... 서비스, 마케팅 영역에서 고객과 기업 간의 접점 혁신할 것 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8564</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8564</guid>
-            <pubDate>Thu, 14 Apr 2022 10:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[다음 중 틱톡의 광고 상품인 '해시태그 챌린지'에서 사용되지 않는 광고 포맷은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Tue, 19 Apr 2022 23:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 중 틱톡의 광고 상품인 '해시태그 챌린지'에서 사용되지 않는 광고 포맷은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1405_1" value="1" class="AB-radio" id="PQ_BD5826_1405_1_0"><label for="PQ_BD5826_1405_1_0" id="label_PQ_BD5826_1405_1_0">(A) 배너</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1405_1" value="2" class="AB-radio" id="PQ_BD5826_1405_1_1"><label for="PQ_BD5826_1405_1_1" id="label_PQ_BD5826_1405_1_1">(B) 인피드 광고</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1405_1" value="3" class="AB-radio" id="PQ_BD5826_1405_1_2"><label for="PQ_BD5826_1405_1_2" id="label_PQ_BD5826_1405_1_2">(C) 탑뷰 광고</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1405_1" value="4" class="AB-radio" id="PQ_BD5826_1405_1_3"><label for="PQ_BD5826_1405_1_3" id="label_PQ_BD5826_1405_1_3">(D) 브랜드 테이크오버</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사회적 거리두기 '모임 10인·밤 12시' 조정안 시행 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

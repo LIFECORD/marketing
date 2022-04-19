@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 22:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 23:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[4월 20일 마케팅 뉴스클리핑] 인스타그램, 상품 태그 모든 미국 이용자로 확대 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8594</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8594</guid>
+            <pubDate>Wed, 20 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 인스타그램, `상품 태그` 모든 미국 이용자로 확대  인스타그램이 `상품 태그` 기능을 미국 이용자에게 확대 도입한다. 인스타그램은 그동안 비즈니스와 크리에이터 계정에만 제공하던 게시물 상품 태그 기능을 미국 이용자  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_39e95c38dadf643b75dc99ad328abd9c_19373_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년 1분기 한국인이 온라인에서 많이 구매한 상품은?]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8593</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8565</guid>
             <pubDate>Thu, 14 Apr 2022 10:52:00 GMT</pubDate>
             <content:encoded><![CDATA[SK그룹의 디지털 광고 전문 기업 인크로스는 연령별 디지털 매체 선호도 및 광고 수용도를 분석한를14일 발표했다.해당 조사는 전국 각 지역에 거주하는 남녀1,000명 대상의 온라인 설문 방식으로 진행됐다. 조사 결과에 따르면, 1 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[세일즈포스, 차세대 서비스 및 마케팅 클라우드 업데이트... 서비스, 마케팅 영역에서 고객과 기업 간의 접점 혁신할 것]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8564</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8564</guid>
-            <pubDate>Thu, 14 Apr 2022 10:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계CRM시장을 선도하고 있는 세일즈포스는AI,데이터,음성인식,증강현실 등 다양한 혁신 기술이 도입강화된 차세대 서비스 클라우드와 마케팅 클라우드의 신기능을 선보였다.이를 통해 서비스와 마케팅 업무 영역에서 고객  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
