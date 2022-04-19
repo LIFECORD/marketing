@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-19T07:18:57.909Z</updated>
+    <updated>2022-04-19T08:23:23.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[다이티]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[전형적인 중소 vs 신세대 중소(선택 고민)]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38750</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38750"/>
+        <updated>2022-03-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[마사초]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[UA 잘가! GA4 어서와!]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57505</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57505"/>
@@ -53,13 +60,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38684"/>
         <updated>2022-03-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전형적인 중소 vs 신세대 중소(선택 고민)]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38750</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38750"/>
-        <updated>2022-03-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[마사초]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나만 알고 싶은 무료폰트 [고딕편]]]></title>
@@ -132,18 +132,18 @@
         <content type="html"><![CDATA[영상팁]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[입소문 바이럴 마케팅의 5가지 원칙]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57457</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57457"/>
-        <updated>2022-03-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[둥근마을]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[새로운 마케팅 방법..?]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38829</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38829"/>
         <updated>2022-04-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[미선성]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[입소문 바이럴 마케팅의 5가지 원칙]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57457</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57457"/>
+        <updated>2022-03-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[둥근마을]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스마트스토어 1달이 약간 지난 시점입니다.]]></title>
