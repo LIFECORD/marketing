@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 01:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 03:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -189,18 +189,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[모다모다가 핫해진 이유, 내가 마케팅함! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57444</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57444</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[jinhorus]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[나만 알고 싶은 무료폰트 [고딕편] (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57504</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57504</guid>
             <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[모다모다가 핫해진 이유, 내가 마케팅함! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57444</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57444</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[jinhorus]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[전형적인 중소 vs 신세대 중소(선택 고민) (아이보스 ─ 인기글)]]></title>
@@ -252,6 +252,13 @@
             <content:encoded><![CDATA[리유]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[내 브랜드와 꼭 맞는 유형 테스트 만들기! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57536</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57536</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[영상 기획! 참고하면 좋은 사이트들!! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57449</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57449</guid>
@@ -264,13 +271,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57457</guid>
             <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[내 브랜드와 꼭 맞는 유형 테스트 만들기! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57536</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57536</guid>
-            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[새로운 마케팅 방법..? (아이보스 ─ 인기글)]]></title>
@@ -336,6 +336,13 @@
             <content:encoded><![CDATA[델몬트두리안]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[1위는 인스타그램이 아니라고? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57605</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57605</guid>
+            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[구글애널리틱스4(GA4) 초기 세팅 사항 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57548</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57548</guid>
@@ -343,11 +350,12 @@
             <content:encoded><![CDATA[데이터분석]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[리터없쓔 마감되쓔] 원하는 만큼 리터 드려요 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38666</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38666</guid>
-            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[놀토]]></content:encoded>
+            <title><![CDATA[2022년 1분기 한국인이 온라인에서 많이 구매한 상품은? (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8593</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8593</guid>
+            <pubDate>Tue, 19 Apr 2022 11:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[올해 1분기 온라인에서 가장 많이 구매한 화장품류는 스킨케어, 화장품 전체 53% 차지 올해 1분기 온라인에서 가장 많이 구매한 가공식품류는 건강기능식품, 가공식품 전체 55% 차지 올해 1분기 온라인에서 가장 많이 구매한 생활 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4b15b33aa945dac0a019babd51add34a_47551_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[데이터는 스스로 정답을 말하지 않는다... 청년마케터, 연합 강연 세미나 개최 GA부터 온라인광고까지 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,53 +590,52 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[아이언소스, 루나 서치 애즈 정식 출시... 애플 서치 애즈 앱 마케팅 캠페인 생성과 관리, 최적화 지원 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8563</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8563</guid>
-            <pubDate>Thu, 14 Apr 2022 09:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource, NYSE:IS)는 앱 및 게임 마케터들이 애플 서치 애즈(Apple Search Ads)에서 보다 효율적으로 캠페인을 생성하고 관리 및 최적화할 수 있도록 지원하는 루나 서치 애즈(Luna Sear ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[2022년 1분기 한국인이 온라인에서 많이 구매한 상품은? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8593</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8593</guid>
+            <pubDate>Tue, 19 Apr 2022 03:25:37 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["데이터는 스스로 정답을 말하지 않는다"... 청년마케터, 연합 강연 세미나 개최 'GA부터 온라인광고까지' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8592</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8592</guid>
-            <pubDate>Tue, 19 Apr 2022 01:38:36 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2022 10:21:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[TBWA코리아, ‘조직문화연구소’ 공식 출범... 박웅현 소장 선임, 조직문화 연성화 솔루션 제공 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8591</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8591</guid>
-            <pubDate>Tue, 19 Apr 2022 01:38:36 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2022 10:05:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[차이코퍼레이션, ‘90년생’ 권현지 신임 대표 선임 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8590</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8590</guid>
-            <pubDate>Tue, 19 Apr 2022 01:38:36 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2022 09:01:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[몰로코, 광고 자동화 플랫폼 ‘몰로코 클라우드 DSP’ 업데이트 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8589</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8589</guid>
-            <pubDate>Tue, 19 Apr 2022 01:38:36 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2022 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[현대자동차, 커뮤니티 기반 'NFT' 선보인다… 글로벌 자동차 업계 최초 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8588</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8588</guid>
-            <pubDate>Tue, 19 Apr 2022 01:38:36 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2022 08:41:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 시몬스, 흔들리지 않는 편안함 ‘Oddly Satisfying Video - The PUMP’ 편 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8587</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8587</guid>
-            <pubDate>Tue, 19 Apr 2022 01:38:36 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2022 08:39:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이언소스, ‘루나 서치 애즈’ 정식 출시... 애플 서치 애즈 앱 마케팅 캠페인 생성과 관리, 최적화 지원 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8563</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8563</guid>
-            <pubDate>Thu, 14 Apr 2022 09:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 프리미엄 기능과 앱 맞춤 설정을 제공하는 트위터의 유료 구독 서비스 이름은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 19 Apr 2022 01:38:50 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2022 03:25:50 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 프리미엄 기능과 앱 맞춤 설정을 제공하는 트위터의 유료 구독 서비스 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

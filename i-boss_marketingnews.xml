@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 01:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 03:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 1분기 한국인이 온라인에서 많이 구매한 상품은?]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8593</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8593</guid>
+            <pubDate>Tue, 19 Apr 2022 11:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[올해 1분기 온라인에서 가장 많이 구매한 화장품류는 스킨케어, 화장품 전체 53% 차지 올해 1분기 온라인에서 가장 많이 구매한 가공식품류는 건강기능식품, 가공식품 전체 55% 차지 올해 1분기 온라인에서 가장 많이 구매한 생활 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4b15b33aa945dac0a019babd51add34a_47551_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[데이터는 스스로 정답을 말하지 않는다... 청년마케터, 연합 강연 세미나 개최 GA부터 온라인광고까지]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8592</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8564</guid>
             <pubDate>Thu, 14 Apr 2022 10:12:00 GMT</pubDate>
             <content:encoded><![CDATA[전 세계CRM시장을 선도하고 있는 세일즈포스는AI,데이터,음성인식,증강현실 등 다양한 혁신 기술이 도입강화된 차세대 서비스 클라우드와 마케팅 클라우드의 신기능을 선보였다.이를 통해 서비스와 마케팅 업무 영역에서 고객  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[아이언소스, 루나 서치 애즈 정식 출시... 애플 서치 애즈 앱 마케팅 캠페인 생성과 관리, 최적화 지원]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8563</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8563</guid>
-            <pubDate>Thu, 14 Apr 2022 09:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource, NYSE:IS)는 앱 및 게임 마케터들이 애플 서치 애즈(Apple Search Ads)에서 보다 효율적으로 캠페인을 생성하고 관리 및 최적화할 수 있도록 지원하는 루나 서치 애즈(Luna Sear ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
