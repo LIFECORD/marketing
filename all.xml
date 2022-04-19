@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 11:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 12:37:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -315,18 +315,18 @@
             <content:encoded><![CDATA[르와즈]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[GFA 일매출 400만원, 로아스 500% 어떻게 만드는 걸까? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57423</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57423</guid>
-            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[팀ROAS]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[1위는 인스타그램이 아니라고? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57605</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57605</guid>
             <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GFA 일매출 400만원, 로아스 500% 어떻게 만드는 걸까? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57423</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57423</guid>
+            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[팀ROAS]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2주 꼬박 심리테스트 만들었는데 고견받습니다 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 프리미엄 기능과 앱 맞춤 설정을 제공하는 트위터의 유료 구독 서비스 이름은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 19 Apr 2022 11:16:42 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2022 12:37:27 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 프리미엄 기능과 앱 맞춤 설정을 제공하는 트위터의 유료 구독 서비스 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
