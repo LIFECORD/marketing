@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 12:35:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 13:37:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,11 +343,19 @@
             <content:encoded><![CDATA[박멍멍]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[선후배님들은 취미가 뭐에요? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38672</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38672</guid>
-            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[델몬트두리안]]></content:encoded>
+            <title><![CDATA[성공한 CEO가 반드시 하지않는 6가지 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57550</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57550</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[yoorok]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유튜브로 나만의 드라마를 만들다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8602</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8602</guid>
+            <pubDate>Wed, 20 Apr 2022 13:36:34 GMT</pubDate>
+            <content:encoded><![CDATA[누구나 한번쯤 겪어본 상황이나 생활 속에서 일어날 법한 일을 담은 하이퍼리얼리즘(극사실주의) 콘텐츠가 유튜브 내 인기를 끌며 자신만의 드라마를 만들어가는 크리에이터가 늘어나고 있다. 유튜브는 이런 현실 고증 콘텐츠 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[4월 22일은 52주년 지구의 날 환경  기후 교양 독서 열기 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 2022년 그래픽 디자인 트렌드 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8572</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8572</guid>
-            <pubDate>Sat, 16 Apr 2022 09:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[수많은 소셜 미디어 콘텐츠 중에서 비주얼이 돋보이게 하는 방법은 무엇일까? 그래픽 디자인은 콘텐츠사이에서 두각을 나타내며 핵심 메시지를 전달하고 감성적 연결을 만드는 가장 강력한 도구 중 하나다.이러한 측면에서 중 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[유튜브로 나만의 드라마를 만들다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8602</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8602</guid>
+            <pubDate>Wed, 20 Apr 2022 13:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["4월 22일은 52주년 지구의 날" 환경 · 기후 교양 독서 열기 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 2022년 그래픽 디자인 트렌드 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8572</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8572</guid>
-            <pubDate>Sat, 16 Apr 2022 09:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 틱톡의 광고 상품인 '해시태그 챌린지'에서 사용되지 않는 광고 포맷은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 20 Apr 2022 12:35:46 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 13:36:56 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 틱톡의 광고 상품인 '해시태그 챌린지'에서 사용되지 않는 광고 포맷은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

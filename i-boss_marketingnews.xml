@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 12:35:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 13:37:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜브로 나만의 드라마를 만들다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8602</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8602</guid>
+            <pubDate>Wed, 20 Apr 2022 13:36:34 GMT</pubDate>
+            <content:encoded><![CDATA[누구나 한번쯤 겪어본 상황이나 생활 속에서 일어날 법한 일을 담은 하이퍼리얼리즘(극사실주의) 콘텐츠가 유튜브 내 인기를 끌며 자신만의 드라마를 만들어가는 크리에이터가 늘어나고 있다. 유튜브는 이런 현실 고증 콘텐츠 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[4월 22일은 52주년 지구의 날 환경  기후 교양 독서 열기]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8600</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8573</guid>
             <pubDate>Sat, 16 Apr 2022 09:09:00 GMT</pubDate>
             <content:encoded><![CDATA[수년 전부터 증강현실(AR)과 가상현실(VR)이 콘텐츠나 마케팅에서 핵심이 될 것이라고 이야기됐다. 메타는 2014년 오큘러스를 인수하고 마이크로스프트는 XR에 지속적으로 투자해왔다. 그럼에도 항상 가능성만 높은 영역이었다.  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 2022년 그래픽 디자인 트렌드]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8572</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8572</guid>
-            <pubDate>Sat, 16 Apr 2022 09:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[수많은 소셜 미디어 콘텐츠 중에서 비주얼이 돋보이게 하는 방법은 무엇일까? 그래픽 디자인은 콘텐츠사이에서 두각을 나타내며 핵심 메시지를 전달하고 감성적 연결을 만드는 가장 강력한 도구 중 하나다.이러한 측면에서 중 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-20T12:35:56.100Z</updated>
+    <updated>2022-04-20T13:37:05.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -209,10 +209,10 @@
         <content type="html"><![CDATA[박멍멍]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[선후배님들은 취미가 뭐에요?]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38672</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38672"/>
-        <updated>2022-03-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[델몬트두리안]]></content>
+        <title type="html"><![CDATA[성공한 CEO가 반드시 하지않는 6가지]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57550</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57550"/>
+        <updated>2022-04-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[yoorok]]></content>
     </entry>
 </feed>
