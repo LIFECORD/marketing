@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 22:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 23:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[4월 21일 마케팅 뉴스클리핑] 넷플릭스, 결국 광고 붙인다... 공유계정도 과금 추진 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8601</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8601</guid>
+            <pubDate>Thu, 21 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 넷플릭스, 결국 광고 붙인다... 공유계정도 과금 추진  올 1분기 `어닝쇼크`를 기록한 넷플릭스가 수익성 강화에 고심하고 있다. 넷플릭스는 전 세계 공유 계정에 대한 과금을 추진하는 한편 그동안 부정적이었던 광고 시청 모 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16504402310772.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유튜브로 나만의 드라마를 만들다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8602</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8574</guid>
             <pubDate>Sat, 16 Apr 2022 09:10:00 GMT</pubDate>
             <content:encoded><![CDATA[시장 조사 및 컨설팅 회사인 Million Insights는 `Social Media Advertising Market Size, Share &amp; Trends Analysis` 리포트에서 글로벌소셜 미디어 광고 시장은 2020년1,032억 달러에서2028년 2,626억 2천만 달러에 달할 것으로 예상했다. 2021년에서 2028년까 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[증강현실과 가상현실이 주류로 진입하다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8573</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8573</guid>
-            <pubDate>Sat, 16 Apr 2022 09:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[수년 전부터 증강현실(AR)과 가상현실(VR)이 콘텐츠나 마케팅에서 핵심이 될 것이라고 이야기됐다. 메타는 2014년 오큘러스를 인수하고 마이크로스프트는 XR에 지속적으로 투자해왔다. 그럼에도 항상 가능성만 높은 영역이었다.  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
