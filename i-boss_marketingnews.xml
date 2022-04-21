@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 22:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 23:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[4월 22일 마케팅 뉴스클리핑] 네이버 1분기 영업익 3천억... 검색-커머스-핀테크 연계 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8608</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8608</guid>
+            <pubDate>Fri, 22 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버 1분기 영업익 3천억... 검색-커머스-핀테크 연계  네이버는 올 1분기에 매출 1조 8,452억 원, 영업이익 3,018억 원을 기록했다고 밝혔다. 전년동기대비 23.1%, 4.5% 증가한 수치다. 다만 직전분기 대비 모두 4.3%, 14.1%씩 감소했다 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5114d294f80db56e46c253e6630af734_61778_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디지털 트랜스포메이션 넘어 메타-포메이션(Meta-formation) 추진]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8610</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 18 Apr 2022 08:45:00 GMT</pubDate>
             <content:encoded><![CDATA[컴캐스트 케이블의 광고 판매 부서는 컴스코어의 지역 시청률 측정 데이터를 지역 케이블 TV 광고 판매를 위한 통화로 사용할 것이라고 밝혔다. 컴캐스트 케이블 66개 시장에서 광고를 판매하는 이펙트tv(Effectv)는 지역 광고 클라 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[4월 18일 마케팅 뉴스클리핑] 구글코리아 매출 2,900억 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8571</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8571</guid>
-            <pubDate>Mon, 18 Apr 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 국내 매출이 고작 2,900억 구글의 조세회피 논란  구글이 한국 사업의 실적을 공개했다. 구글은 지난해 한국에서 2,900억 원대의 매출을 기록했다고 밝혔는데, 구글플레이 수수료만 5조 원대로 추산되는 상황에서 반쪽짜리 실적  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16501959390825.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
