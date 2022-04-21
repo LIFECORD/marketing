@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 07:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 08:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,13 +182,6 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블로그 검색노출? 유료 정보 그냥 풉니다(삭제될 수.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57431</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57431</guid>
-            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅코치마코]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 실수한 마케터 신입의 마음가짐 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38684</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38684</guid>
@@ -348,6 +341,29 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57550</guid>
             <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[yoorok]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카카오 '음'은 왜 문을 닫을까 🤔 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57455</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57455</guid>
+            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[디지털 트랜스포메이션 넘어 메타-포메이션(Meta-formation) 추진 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8610</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8610</guid>
+            <pubDate>Thu, 21 Apr 2022 08:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[제일기획(대표이사 유정근 사장)이 21일 오후 서울 이태원 본사에서 16개 증권사 애널리스트를 대상으로 디지털 사업 전략 설명회를 개최했다. 오프라인과 온라인으로 동시 진행한 이번 설명회는 제일기획 경영진이 직접 소통에 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[임지영 대표, 한국광고영상제작사협회 10대 회장 선임 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8609</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8609</guid>
+            <pubDate>Thu, 21 Apr 2022 08:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[(사)한국광고영상제작사협회의 제 10대 회장에 (주)플랜잇프로덕션 임지영 대표가 선임되었다. 신임 임회장은BBDO동방 등 종합광고대행사에서CM프로듀서로 활동했으며, 2004년 플랜잇프로덕션을 설립해18년째 운영해 오고 있다.플 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[인크로스, 2022 구글 프리미어 파트너 선정 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -574,20 +590,18 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16501959390825.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼성전자, #YouMake 글로벌 캠페인 실시... 개인화된 경험과 기기 간 연결성 추구 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8580</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8580</guid>
-            <pubDate>Sun, 17 Apr 2022 10:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 전세계 주요 국가의 고객들이 자신만의 라이프스타일에 맞는 제품과 서비스를 직접 선택하고 만들 수 있도록 하는 #YouMake 글로벌 캠페인을 18일 시작한다. 지난 1월 세계 최대 IT전자 전시회 CES 2022에서 처음 소개된 #Y ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[디지털 트랜스포메이션 넘어 ‘메타-포메이션(Meta-formation)’ 추진 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8610</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8610</guid>
+            <pubDate>Thu, 21 Apr 2022 08:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[메조미디어, 2022년 소비 트렌드 분석자료 발표 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8579</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8579</guid>
-            <pubDate>Sun, 17 Apr 2022 09:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[디지털마케팅 솔루션 기업 메조미디어(대표 이성학)가 2022 소비 트렌드` 자료를 발표했다. 이번 보고서는 크게 헬스-건강을 위해 소비하다, 펫-반려동물에 소비하다, 컨비니언트-편리하게 소비하다의 3부분으로 구성되어 있다. 2 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[임지영 대표, 한국광고영상제작사협회 10대 회장 선임 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8609</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8609</guid>
+            <pubDate>Thu, 21 Apr 2022 08:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인크로스, ‘2022 구글 프리미어 파트너’ 선정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[삼성전자, ‘#YouMake’ 글로벌 캠페인 실시... 개인화된 경험과 기기 간 연결성 추구 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8580</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8580</guid>
-            <pubDate>Sun, 17 Apr 2022 10:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[메조미디어, 2022년 소비 트렌드 분석자료 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8579</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8579</guid>
-            <pubDate>Sun, 17 Apr 2022 09:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 CVR이 가장 높은 광고는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 21 Apr 2022 07:18:21 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2022 08:24:48 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 CVR이 가장 높은 광고는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/cb0f0269a4bc01a6f64a808595a50f84_16497557133347.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
