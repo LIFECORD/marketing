@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 08:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 09:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,13 +280,6 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스마트스토어 1달이 약간 지난 시점입니다. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38681</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38681</guid>
-            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[쉿! 보스님만 알고 계세요. 지금 팔리는 것들의 비밀 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-5637-31</link>
             <guid>https://www.i-boss.co.kr/ab-5637-31</guid>
@@ -348,6 +341,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57455</guid>
             <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고객이 입소문 내는 회사의 7가지 법칙 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57484</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57484</guid>
+            <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[디지털 트랜스포메이션 넘어 메타-포메이션(Meta-formation) 추진 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -593,14 +593,14 @@
             <title><![CDATA[디지털 트랜스포메이션 넘어 ‘메타-포메이션(Meta-formation)’ 추진 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8610</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8610</guid>
-            <pubDate>Thu, 21 Apr 2022 08:24:35 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2022 08:24:22 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[임지영 대표, 한국광고영상제작사협회 10대 회장 선임 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8609</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8609</guid>
-            <pubDate>Thu, 21 Apr 2022 08:24:35 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2022 08:24:22 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 CVR이 가장 높은 광고는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 21 Apr 2022 08:24:48 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2022 09:20:37 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 CVR이 가장 높은 광고는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/cb0f0269a4bc01a6f64a808595a50f84_16497557133347.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
