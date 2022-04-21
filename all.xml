@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 01:28:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 03:29:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[색다른 경험을 주고 싶다면 ○○○○ 처럼 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/964230-%EC%83%89%EB%8B%A4%EB%A5%B8_%EA%B2%BD%ED%97%98%EC%9D%84_%EC%A3%BC%EA%B3%A0_%EC%8B%B6%EB%8B%A4%EB%A9%B4_%EC%B2%98%EB%9F%BC/</link>
+            <guid>https://qletter.i-boss.co.kr/view/964230-%EC%83%89%EB%8B%A4%EB%A5%B8_%EA%B2%BD%ED%97%98%EC%9D%84_%EC%A3%BC%EA%B3%A0_%EC%8B%B6%EB%8B%A4%EB%A9%B4_%EC%B2%98%EB%9F%BC/</guid>
+            <pubDate>Thu, 21 Apr 2022 03:28:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/964230-색다른_경험을_주고_싶다면_처럼/">
+						<div class="thumb"><img src="/images/qletter_964230.png"></div>
+						<p><strong> 색다른 경험을 주고 싶다면 ○○○○ 처럼</strong>2022.04.21</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_964230.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국내 가장 많이 쓰는 SNS는 OO이다? (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/958288-%EA%B5%AD%EB%82%B4_%EA%B0%80%EC%9E%A5_%EB%A7%8E%EC%9D%B4_%EC%93%B0%EB%8A%94_SNS%EB%8A%94_OO%EC%9D%B4%EB%8B%A4/</link>
@@ -129,17 +140,6 @@
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_906680.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[클라이언트가 원하는 대행사는? (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/902615-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EA%B0%80_%EC%9B%90%ED%95%98%EB%8A%94_%EB%8C%80%ED%96%89%EC%82%AC%EB%8A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/902615-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EA%B0%80_%EC%9B%90%ED%95%98%EB%8A%94_%EB%8C%80%ED%96%89%EC%82%AC%EB%8A%94/</guid>
-            <pubDate>Thu, 10 Mar 2022 02:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/902615-클라이언트가_원하는_대행사는/">
-						<div class="thumb"><img src="/images/qletter_902615.png"></div>
-						<p><strong>클라이언트가 원하는 대행사는?</strong>2022.03.10</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_902615.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[1급 SNS광고마케터가 되어보자! `SNS광고마케터 1급` 도.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-452</link>
             <guid>https://www.i-boss.co.kr/ab-2973-452</guid>
@@ -161,18 +161,18 @@
             <content:encoded><![CDATA[REBEL]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-74668-2590</link>
-            <guid>https://www.i-boss.co.kr/ab-74668-2590</guid>
-            <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[다이티]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[전형적인 중소 vs 신세대 중소(선택 고민) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38750</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38750</guid>
             <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마사초]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-74668-2590</link>
+            <guid>https://www.i-boss.co.kr/ab-74668-2590</guid>
+            <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[다이티]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[UA 잘가! GA4 어서와! (아이보스 ─ 인기글)]]></title>
@@ -224,18 +224,18 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마케팅밈] 마케터 탈룰라 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38815</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38815</guid>
-            <pubDate>Thu, 14 Apr 2022 06:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[새로운 마케팅 방법..? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38829</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38829</guid>
             <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[미선성]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[마케팅밈] 마케터 탈룰라 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38815</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38815</guid>
+            <pubDate>Thu, 14 Apr 2022 06:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케터가 알면 좋은 성장단계 3가지 (아이보스 ─ 인기글)]]></title>
@@ -245,18 +245,18 @@
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케팅 책 추천, 이럴 땐 이런 책을! - 책장공개 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57437</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57437</guid>
-            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[리유]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케터 각 연차별 체크리스트  체크해보세요! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57572</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57572</guid>
             <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케팅 책 추천, 이럴 땐 이런 책을! - 책장공개 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57437</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57437</guid>
+            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리유]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[내 브랜드와 꼭 맞는 유형 테스트 만들기! (아이보스 ─ 인기글)]]></title>
@@ -343,11 +343,11 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[고객이 입소문 내는 회사의 7가지 법칙 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57484</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57484</guid>
-            <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
+            <title><![CDATA[카카오 '음'은 왜 문을 닫을까 🤔 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57455</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57455</guid>
+            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인크로스, 2022 구글 프리미어 파트너 선정 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -593,35 +593,35 @@
             <title><![CDATA[인크로스, ‘2022 구글 프리미어 파트너’ 선정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8607</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8607</guid>
-            <pubDate>Thu, 21 Apr 2022 01:28:28 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2022 09:48:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[트렌드모니터] '인생샷 한 장쯤' 2030 바디프로필 열풍, 스튜디오 촬영 시장 판도 커질까 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8606</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8606</guid>
-            <pubDate>Thu, 21 Apr 2022 01:28:28 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2022 08:44:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[흘리지 않는 수제버거, UFO버거... 소비자의 페인포인트를 해결하는 독보적 콘셉트의 솔루션 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8605</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8605</guid>
-            <pubDate>Thu, 21 Apr 2022 01:28:28 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2022 08:43:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] KOSAC 대상 수상팀의 SM C&C 인턴 생활, “좁은 시야 넓혀 준 렌즈 같았던 소중한 경험” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8604</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8604</guid>
-            <pubDate>Thu, 21 Apr 2022 01:28:28 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2022 08:40:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 메타버스는 기업과 소비자 모두에게 큰 기대를 모으고 있다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8603</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8603</guid>
-            <pubDate>Thu, 21 Apr 2022 01:28:28 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2022 08:39:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 CVR이 가장 높은 광고는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 21 Apr 2022 01:28:43 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2022 03:29:02 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 CVR이 가장 높은 광고는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/cb0f0269a4bc01a6f64a808595a50f84_16497557133347.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

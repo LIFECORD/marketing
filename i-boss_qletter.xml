@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 01:28:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 03:29:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[색다른 경험을 주고 싶다면 ○○○○ 처럼]]></title>
+            <link>https://qletter.i-boss.co.kr/view/964230-%EC%83%89%EB%8B%A4%EB%A5%B8_%EA%B2%BD%ED%97%98%EC%9D%84_%EC%A3%BC%EA%B3%A0_%EC%8B%B6%EB%8B%A4%EB%A9%B4_%EC%B2%98%EB%9F%BC/</link>
+            <guid>https://qletter.i-boss.co.kr/view/964230-%EC%83%89%EB%8B%A4%EB%A5%B8_%EA%B2%BD%ED%97%98%EC%9D%84_%EC%A3%BC%EA%B3%A0_%EC%8B%B6%EB%8B%A4%EB%A9%B4_%EC%B2%98%EB%9F%BC/</guid>
+            <pubDate>Thu, 21 Apr 2022 03:28:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/964230-색다른_경험을_주고_싶다면_처럼/">
+						<div class="thumb"><img src="/images/qletter_964230.png"></div>
+						<p><strong> 색다른 경험을 주고 싶다면 ○○○○ 처럼</strong>2022.04.21</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_964230.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국내 가장 많이 쓰는 SNS는 OO이다?]]></title>
             <link>https://qletter.i-boss.co.kr/view/958288-%EA%B5%AD%EB%82%B4_%EA%B0%80%EC%9E%A5_%EB%A7%8E%EC%9D%B4_%EC%93%B0%EB%8A%94_SNS%EB%8A%94_OO%EC%9D%B4%EB%8B%A4/</link>
@@ -127,17 +138,6 @@
 						<p><strong>무지성 반품, 멈춰 ✋</strong>2022.03.14</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_906680.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[클라이언트가 원하는 대행사는?]]></title>
-            <link>https://qletter.i-boss.co.kr/view/902615-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EA%B0%80_%EC%9B%90%ED%95%98%EB%8A%94_%EB%8C%80%ED%96%89%EC%82%AC%EB%8A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/902615-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EA%B0%80_%EC%9B%90%ED%95%98%EB%8A%94_%EB%8C%80%ED%96%89%EC%82%AC%EB%8A%94/</guid>
-            <pubDate>Thu, 10 Mar 2022 02:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/902615-클라이언트가_원하는_대행사는/">
-						<div class="thumb"><img src="/images/qletter_902615.png"></div>
-						<p><strong>클라이언트가 원하는 대행사는?</strong>2022.03.10</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_902615.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
