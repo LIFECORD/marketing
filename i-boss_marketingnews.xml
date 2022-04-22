@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 06:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 07:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트렌비, 작년 국내외 거래액 3천억원매출 963억원]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8615</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8615</guid>
+            <pubDate>Fri, 22 Apr 2022 07:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[국내 상품 매출만 계산 시 매출 217억원영업손실 330억원  명품 플랫폼 트렌비가 지난해 거래액과 국내외 매출을 22일 공개했다.   트렌비의 지난해 거래액은 전년 대비 296% 상승한 3천억원을 기록했다. 또 트렌비 해외 자회사를 연 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c1436c4c74fa65a8d80f5dfe78ff6e88_38110_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT알파 리셀 플랫폼 리플, NFT 조각소유권 거래 멤버십 서비스 오픈]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8614</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 19 Apr 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. MBTI, 무리한 마케팅에 MZ세대 거부감  최근 기업들이 사람 성격을 파악하는 MBTI 심리검사를 활용한 마케팅을 잇따라 선보이고 있다. 하지만 MBTI 지표가 신뢰도타당도가 부족해 무분별한 사용에 대한 우려의 목소리도 나온다.  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_b9754889da499fcaeaae037bee0a1378_230_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, 엑스박스 무료게임에 광고 도입 검토]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8585</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8585</guid>
-            <pubDate>Mon, 18 Apr 2022 08:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[미국 비즈니스 인사이더에 따르면, 마이크로소프트는 엑스박스 무료 게임에 광고를 도입하는 방안을 검토 중인 것으로 알려졌다. 마이크로소프트는 애드테크 회사와 협력해서 브랜드가 무료 엑스박스 게임에서 표시될 광고를  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
