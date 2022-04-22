@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-22T08:23:45.608Z</updated>
+    <updated>2022-04-22T09:19:51.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영상 기획! 참고하면 좋은 사이트들!!]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57449</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57449"/>
-        <updated>2022-03-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[영상팁]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[1위는 인스타그램이 아니라고?]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57605</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57605"/>
         <updated>2022-04-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영상 기획! 참고하면 좋은 사이트들!!]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57449</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57449"/>
+        <updated>2022-03-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[영상팁]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[입소문 바이럴 마케팅의 5가지 원칙]]></title>
@@ -160,18 +160,18 @@
         <content type="html"><![CDATA[르와즈]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글애널리틱스4(GA4) 초기 세팅 사항]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57548</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57548"/>
-        <updated>2022-04-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[데이터분석]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[화장품을 1개만 파는 브랜드]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57627</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57627"/>
         <updated>2022-04-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[르와즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글애널리틱스4(GA4) 초기 세팅 사항]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57548</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57548"/>
+        <updated>2022-04-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[데이터분석]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2주 꼬박 심리테스트 만들었는데 고견받습니다]]></title>

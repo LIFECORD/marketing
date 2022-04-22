@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 08:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 09:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -245,18 +245,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영상 기획! 참고하면 좋은 사이트들!! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57449</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57449</guid>
-            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[영상팁]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[1위는 인스타그램이 아니라고? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57605</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57605</guid>
             <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[영상 기획! 참고하면 좋은 사이트들!! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57449</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57449</guid>
+            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영상팁]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[입소문 바이럴 마케팅의 5가지 원칙 (아이보스 ─ 인기글)]]></title>
@@ -294,18 +294,18 @@
             <content:encoded><![CDATA[르와즈]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[구글애널리틱스4(GA4) 초기 세팅 사항 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57548</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57548</guid>
-            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[데이터분석]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[화장품을 1개만 파는 브랜드 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57627</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57627</guid>
             <pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[르와즈]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[구글애널리틱스4(GA4) 초기 세팅 사항 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57548</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57548</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[데이터분석]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2주 꼬박 심리테스트 만들었는데 고견받습니다 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 인스타그램 비즈니스 계정에서 사용할 수 있는 연락처 옵션으로 거리가 먼 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 22 Apr 2022 08:23:36 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2022 09:19:42 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 인스타그램 비즈니스 계정에서 사용할 수 있는 연락처 옵션으로 거리가 먼 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
