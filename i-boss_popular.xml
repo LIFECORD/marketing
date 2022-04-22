@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-22T09:19:51.796Z</updated>
+    <updated>2022-04-22T10:21:58.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -181,18 +181,18 @@
         <content type="html"><![CDATA[박멍멍]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[성공한 CEO가 반드시 하지않는 6가지]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57550</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57550"/>
-        <updated>2022-04-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[yoorok]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[‘이것’ 만 알면 기본은 하는 카드뉴스 디자인! 1탄!]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57632</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57632"/>
         <updated>2022-04-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[흥미진진]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성공한 CEO가 반드시 하지않는 6가지]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57550</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57550"/>
+        <updated>2022-04-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[yoorok]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카카오 '음'은 왜 문을 닫을까 🤔]]></title>

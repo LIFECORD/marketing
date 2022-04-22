@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 09:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 10:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -315,18 +315,18 @@
             <content:encoded><![CDATA[박멍멍]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[성공한 CEO가 반드시 하지않는 6가지 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57550</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57550</guid>
-            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[yoorok]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[‘이것’ 만 알면 기본은 하는 카드뉴스 디자인! 1탄! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57632</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57632</guid>
             <pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[흥미진진]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[성공한 CEO가 반드시 하지않는 6가지 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57550</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57550</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카카오 '음'은 왜 문을 닫을까 🤔 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 인스타그램 비즈니스 계정에서 사용할 수 있는 연락처 옵션으로 거리가 먼 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 22 Apr 2022 09:19:42 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2022 10:21:47 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 인스타그램 비즈니스 계정에서 사용할 수 있는 연락처 옵션으로 거리가 먼 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
