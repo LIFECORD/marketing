@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 01:44:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 03:47:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,6 +224,13 @@
             <content:encoded><![CDATA[미선성]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[마케터가 알면 좋은 성장단계 3가지 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57563</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57563</guid>
+            <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[근육돌이]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[마케터 각 연차별 체크리스트  체크해보세요! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57572</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57572</guid>
@@ -236,13 +243,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38815</guid>
             <pubDate>Thu, 14 Apr 2022 06:22:48 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마케터가 알면 좋은 성장단계 3가지 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57563</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57563</guid>
-            <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[근육돌이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[내 브랜드와 꼭 맞는 유형 테스트 만들기! (아이보스 ─ 인기글)]]></title>
@@ -593,21 +593,21 @@
             <title><![CDATA[누구나 플랫폼 오너 되는 진정한 크리에이터 이코노미 시대를 열다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8613</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8613</guid>
-            <pubDate>Fri, 22 Apr 2022 01:43:46 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2022 09:21:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[AD & Celeb] "다양한 영역에 도전하며 다양한 모습을 표현하는 모델이 되겠습니다.", 모델 김윤화 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8612</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8612</guid>
-            <pubDate>Fri, 22 Apr 2022 01:43:46 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2022 08:51:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰]선한 생각과 잘 익은 솔루션으로 브랜드를 만들고, 알리고, 키우는 브랜드하우스 ‘더워터멜론’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8611</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8611</guid>
-            <pubDate>Fri, 22 Apr 2022 01:43:46 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2022 08:50:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 인스타그램 비즈니스 계정에서 사용할 수 있는 연락처 옵션으로 거리가 먼 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 22 Apr 2022 01:43:58 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2022 03:46:54 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 인스타그램 비즈니스 계정에서 사용할 수 있는 연락처 옵션으로 거리가 먼 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
