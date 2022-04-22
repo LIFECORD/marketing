@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 05:38:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 06:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,13 +196,6 @@
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[모다모다가 핫해진 이유, 내가 마케팅함! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57444</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57444</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[jinhorus]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2년차 눈팅족, 그동안 감사했습니다. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38838</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38838</guid>
@@ -348,6 +341,21 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57484</guid>
             <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유세린 1등 만들기의 배후 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57475</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57475</guid>
+            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[jinhorus]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KT알파 리셀 플랫폼 리플, NFT 조각소유권 거래 멤버십 서비스 오픈 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8614</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8614</guid>
+            <pubDate>Fri, 22 Apr 2022 06:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[KT NFT 서비스 민클과 협업...7월 고객 간 조각거래 가능한 정식 서비스 런칭  KT알파가 운영하는 스니커즈 리셀 플랫폼 리플(REPLE)이 NFT(Non-Fungible Token, 대체불가능토큰) 기반 한정판 스니커즈 조각소유권을 거래할 수 있는 +  (플러 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_97f2574635c3d06d3fe5e1845f69496d_50973_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누구나 플랫폼 오너 되는 진정한 크리에이터 이코노미 시대를 열다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[미국 TV 광고비는 정점을 찍었을까? (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8584</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8584</guid>
-            <pubDate>Mon, 18 Apr 2022 08:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[이마케터에 따르면, 미국의 선형 TV 광고비는 2021년 656억 6000만 달러에서 올해 683억 5000만 달러로 정점에 달한다. 미국 TV 광고비는향후 4년 동안 다시 680억 달러를 초과하지 않을 것이며, 2026년에 649억 4000만 달러로 감소할 것이다 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[KT알파 리셀 플랫폼 리플, NFT 조각소유권 거래 멤버십 서비스 오픈 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8614</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8614</guid>
+            <pubDate>Fri, 22 Apr 2022 06:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[누구나 플랫폼 오너 되는 진정한 크리에이터 이코노미 시대를 열다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미국 TV 광고비는 정점을 찍었을까? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8584</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8584</guid>
-            <pubDate>Mon, 18 Apr 2022 08:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 인스타그램 비즈니스 계정에서 사용할 수 있는 연락처 옵션으로 거리가 먼 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 22 Apr 2022 05:38:46 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2022 06:23:48 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 인스타그램 비즈니스 계정에서 사용할 수 있는 연락처 옵션으로 거리가 먼 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

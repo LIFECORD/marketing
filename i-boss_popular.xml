@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-22T05:38:55.730Z</updated>
+    <updated>2022-04-22T06:23:58.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -60,13 +60,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57504"/>
         <updated>2022-04-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[휴이언니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모다모다가 핫해진 이유, 내가 마케팅함!]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57444</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57444"/>
-        <updated>2022-03-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[jinhorus]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2년차 눈팅족, 그동안 감사했습니다.]]></title>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57484"/>
         <updated>2022-03-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[둥근마을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유세린 1등 만들기의 배후]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57475</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57475"/>
+        <updated>2022-03-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[jinhorus]]></content>
     </entry>
 </feed>
