@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-04-23T01:21:22.163Z</updated>
+    <updated>2022-04-23T03:01:15.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[data.ai 코리아, "성공적인 모바일 전략을 위한 App IQ & 인앱 구매 SKU 활용방법 웨비나" 개최]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8618</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8618"/>
+        <updated>2022-04-23T03:00:51.059Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비브스튜디오스 버추얼 휴먼 ‘질주’, 패션 화보 통해 데뷔]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8617</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8617"/>
+        <updated>2022-04-23T03:00:51.071Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트렌비, 작년 국내외 거래액 3천억원·매출 963억원]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8615</id>
@@ -200,19 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-8588"/>
         <updated>2022-04-19T01:38:36.556Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 시몬스, 흔들리지 않는 편안함 ‘Oddly Satisfying Video - The PUMP’ 편]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8587</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8587"/>
-        <updated>2022-04-19T01:38:36.558Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4월 19일 마케팅 뉴스클리핑] MBTI, 무리한 마케팅에 MZ세대 거부감 외]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8586</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8586"/>
-        <updated>2022-04-18T23:15:19.489Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
 </feed>
