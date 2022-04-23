@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 06:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 07:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[홍티]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[나스미디어, 2022 인터넷 이용자 조사 결과 발표 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8619</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8619</guid>
+            <pubDate>Sat, 23 Apr 2022 07:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 미디어렙 나스미디어(대표이사 박평권)가 국내 PC, 모바일 인터넷 이용자의 주요 서비스 이용 행태 및 광고 수용 행태를 조사, 분석한 `2021 인터넷 이용자 조사(NPR)` 결과를 발표했다.   이번 리포트는 작년 6개 분야에서 관 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[data.ai 코리아, 성공적인 모바일 전략을 위한 App IQ & 인앱 구매 SKU 활용방법 웨비나 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8618</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8618</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[현대자동차, 커뮤니티 기반 NFT 선보인다 글로벌 자동차 업계 최초 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8588</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8588</guid>
-            <pubDate>Tue, 19 Apr 2022 08:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[현대자동차는 글로벌 자동차 업계 최초 커뮤니티 기반 NFT 시장에 진입, 고객에게 다양한 브랜드 경험을 제공한다는 계획 하에 현대 NFT 세계관 메타모빌리티 유니버스(Metamobility Universe)를 소개하는 영상을 공개했다. 영상에서선 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[나스미디어, ‘2022 인터넷 이용자 조사’ 결과 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8619</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8619</guid>
+            <pubDate>Sat, 23 Apr 2022 07:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[data.ai 코리아, "성공적인 모바일 전략을 위한 App IQ & 인앱 구매 SKU 활용방법 웨비나" 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[현대자동차, 커뮤니티 기반 'NFT' 선보인다… 글로벌 자동차 업계 최초 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8588</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8588</guid>
-            <pubDate>Tue, 19 Apr 2022 08:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 인스타그램 비즈니스 계정에서 사용할 수 있는 연락처 옵션으로 거리가 먼 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 23 Apr 2022 06:22:31 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2022 07:18:23 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 인스타그램 비즈니스 계정에서 사용할 수 있는 연락처 옵션으로 거리가 먼 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
