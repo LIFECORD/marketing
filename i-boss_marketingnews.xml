@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 22:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 23:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[4월 25일 마케팅 뉴스클리핑] 네이버쇼핑, 커머스 시장 둔화에도 우성장 기록 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8616</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8616</guid>
+            <pubDate>Mon, 25 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버쇼핑, 커머스 시장 둔화에도 `우성장` 기록  이커머스 시장의 성장세가 둔화된 상황에도 네이버는 1분기 커머스 부문 매출 4,161억 원을 올렸다. 전년 동기 대비 28.3% 상승한 수치다. 거래액은 택배 파업과 계절적 영향에 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_338eb249c622ebac2969a669f7bb8348_11425_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[앱스플라이어 , 애플 ATT가 국내 광고, 특히 타기팅 광고에 영향 줄 것]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8622</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 19 Apr 2022 11:01:00 GMT</pubDate>
             <content:encoded><![CDATA[올해 1분기 온라인에서 가장 많이 구매한 화장품류는 스킨케어, 화장품 전체 53% 차지 올해 1분기 온라인에서 가장 많이 구매한 가공식품류는 건강기능식품, 가공식품 전체 55% 차지 올해 1분기 온라인에서 가장 많이 구매한 생활 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4b15b33aa945dac0a019babd51add34a_47551_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[데이터는 스스로 정답을 말하지 않는다... 청년마케터, 연합 강연 세미나 개최 GA부터 온라인광고까지]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8592</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8592</guid>
-            <pubDate>Tue, 19 Apr 2022 10:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[직장인 커뮤니티 청년마케터(헤드디렉터 박윤찬)가 데이터 분석가와 퍼포먼스 마케터를 대상으로 구글애널리틱스 및 온라인광고 세미나를 개최했다. 2020년 3월 설립된 청년마케터는 선후배간의 지식나눔 문화를 실천하고자 국 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
