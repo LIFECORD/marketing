@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 18:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 19:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,17 +231,17 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[1위는 인스타그램이 아니라고? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57605</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57605</guid>
-            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[내 브랜드와 꼭 맞는 유형 테스트 만들기! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57536</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57536</guid>
             <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1위는 인스타그램이 아니라고? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57605</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57605</guid>
+            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
@@ -336,18 +336,18 @@
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[신입 블로거라면 무조건 도움이 될 노출 방법 ( 응애 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57649</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57649</guid>
+            <pubDate>Fri, 22 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지름길]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[만우절 기념] 신조어 아니고.. 시조어 테스트🤣 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38755</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38755</guid>
             <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[홍티]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이런 서비스가 있긴 있나요? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38782</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38782</guid>
-            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[설인의추석]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[앱스플라이어 , 애플 ATT가 국내 광고, 특히 타기팅 광고에 영향 줄 것 (아이보스 ─ 마케팅 뉴스)]]></title>

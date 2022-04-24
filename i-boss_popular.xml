@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-24T18:21:44.709Z</updated>
+    <updated>2022-04-24T19:15:39.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1위는 인스타그램이 아니라고?]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57605</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57605"/>
-        <updated>2022-04-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내 브랜드와 꼭 맞는 유형 테스트 만들기!]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57536</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57536"/>
         <updated>2022-04-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1위는 인스타그램이 아니라고?]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57605</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57605"/>
+        <updated>2022-04-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
@@ -202,17 +202,17 @@
         <content type="html"><![CDATA[jinhorus]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[신입 블로거라면 무조건 도움이 될 노출 방법 ( 응애 ..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57649</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57649"/>
+        <updated>2022-04-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[지름길]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[만우절 기념] 신조어 아니고.. 시조어 테스트🤣]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38755</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38755"/>
         <updated>2022-04-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[홍티]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이런 서비스가 있긴 있나요?]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38782</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38782"/>
-        <updated>2022-04-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[설인의추석]]></content>
     </entry>
 </feed>
