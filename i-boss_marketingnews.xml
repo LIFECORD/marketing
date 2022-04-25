@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 07:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 08:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스타그램, 릴스 영상 복사 기능 시범 적용]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8629</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8629</guid>
+            <pubDate>Mon, 25 Apr 2022 08:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[소수 이용자 대상 테스트...`다른 릴스 영상 활용해 릴스 제작 가능`  인스타그램이 다른 릴스 영상 포맷을 복사해 자신의 릴스로 만들 수 있는 기능을 시범 도입했다.  비즈니스인사이더, 테크크런치 등 외신은 22일(현지시간) 인 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2152cede2203d9c9721968439d9a0f1e_38417_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이노션, 디지털 크리에이티브 역량 강화 위해 글로벌 TOP VFX 스튜디오 The MILL과 MOU 체결]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8627</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8599</guid>
             <pubDate>Wed, 20 Apr 2022 09:28:00 GMT</pubDate>
             <content:encoded><![CDATA[최근Y2K트렌드가Z세대를 중심으로 화제가 되면서 패션을 비롯한 인테리어,식음료 등 다양한 분야에 적용되는 것으로 나타났다. 20일 종합커뮤니케이션그룹KPR(사장 김주호)부설KPR디지털커뮤니케이션연구소가 매스미디어와SNS(트 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[이노션, NFT 사업 본격 개시... 20일 발행된 현대 X 메타콩즈 한정판 컬래버레이션 NFT 계기로 진출]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8598</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8598</guid>
-            <pubDate>Wed, 20 Apr 2022 09:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[이노션 월드와이드(대표이사 이용우, 이하 이노션)는 NFT(대체 불가능 토큰) 비즈니스를 본격 시작한다고 20일 밝혔다. 이노션이 현대차가 자동차 업계 세계 최초로 커뮤니티 기반 NFT 시장에 진출한 것과 함께 현대 NFT 세계관 현 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

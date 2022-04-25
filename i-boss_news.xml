@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-04-25T07:18:58.609Z</updated>
+    <updated>2022-04-25T08:25:00.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인스타그램, '릴스' 영상 복사 기능 시범 적용]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8629</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8629"/>
+        <updated>2022-04-25T08:24:37.734Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이노션, 디지털 크리에이티브 역량 강화 위해 글로벌 TOP VFX 스튜디오 ‘The MILL’과 MOU 체결]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8627</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-8599</id>
         <link href="https://www.i-boss.co.kr/ab-2877-8599"/>
         <updated>2022-04-23T12:30:24.259Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이노션, NFT 사업 본격 개시... 20일 발행된 ‘현대 X 메타콩즈’ 한정판 컬래버레이션 NFT 계기로 진출]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8598</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8598"/>
-        <updated>2022-04-23T12:30:24.268Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
