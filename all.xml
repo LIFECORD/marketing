@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 09:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 10:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -245,6 +245,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[화장품을 1개만 파는 브랜드 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57627</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57627</guid>
+            <pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[르와즈]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[쉿! 보스님만 알고 계세요. 지금 팔리는 것들의 비밀 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-5637-31</link>
             <guid>https://www.i-boss.co.kr/ab-5637-31</guid>
@@ -266,25 +273,11 @@
             <content:encoded><![CDATA[쩔뚝22]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[화장품을 1개만 파는 브랜드 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57627</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57627</guid>
-            <pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[르와즈]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[제품vs브랜드 무엇이 더 중요할까? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57579</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57579</guid>
             <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[르와즈]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[구글애널리틱스4(GA4) 초기 세팅 사항 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57548</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57548</guid>
-            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[데이터분석]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[신입 블로거라면 무조건 도움이 될 노출 방법 ( 응애 .. (아이보스 ─ 인기글)]]></title>
@@ -294,11 +287,11 @@
             <content:encoded><![CDATA[지름길]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘이것’ 만 알면 기본은 하는 카드뉴스 디자인! 1탄! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57632</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57632</guid>
-            <pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[흥미진진]]></content:encoded>
+            <title><![CDATA[구글애널리틱스4(GA4) 초기 세팅 사항 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57548</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57548</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[데이터분석]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[고객이 입소문 내는 회사의 7가지 법칙 (아이보스 ─ 인기글)]]></title>
@@ -306,6 +299,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57484</guid>
             <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘이것’ 만 알면 기본은 하는 카드뉴스 디자인! 1탄! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57632</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57632</guid>
+            <pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[흥미진진]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2주 꼬박 심리테스트 만들었는데 고견받습니다 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 빈칸에 들어갈 말로 알맞은 트렌드 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 25 Apr 2022 09:19:18 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2022 10:22:39 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 빈칸에 들어갈 말로 알맞은 트렌드 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/e7ae12ecdc3962ed24e041902bbc2e88_16505253636697.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
