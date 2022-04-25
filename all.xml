@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 03:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 04:27:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,18 +210,18 @@
             <content:encoded><![CDATA[64321647]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[직장인을 위한 오피스 실무서! `무작정 따라하기 엑.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-453</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-453</guid>
-            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[1위는 인스타그램이 아니라고? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57605</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57605</guid>
             <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[직장인을 위한 오피스 실무서! `무작정 따라하기 엑.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-453</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-453</guid>
+            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케터가 알면 좋은 성장단계 3가지 (아이보스 ─ 인기글)]]></title>
@@ -301,18 +301,18 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2주 꼬박 심리테스트 만들었는데 고견받습니다 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38726</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38726</guid>
-            <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[박멍멍]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[신입 블로거라면 무조건 도움이 될 노출 방법 ( 응애 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57649</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57649</guid>
             <pubDate>Fri, 22 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[지름길]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2주 꼬박 심리테스트 만들었는데 고견받습니다 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38726</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38726</guid>
+            <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[박멍멍]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성공한 CEO가 반드시 하지않는 6가지 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 빈칸에 들어갈 말로 알맞은 트렌드 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 25 Apr 2022 03:14:38 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2022 04:27:27 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 빈칸에 들어갈 말로 알맞은 트렌드 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/e7ae12ecdc3962ed24e041902bbc2e88_16505253636697.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
