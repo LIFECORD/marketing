@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-25T06:25:35.128Z</updated>
+    <updated>2022-04-25T07:18:58.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -160,18 +160,18 @@
         <content type="html"><![CDATA[흥미진진]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고객이 입소문 내는 회사의 7가지 법칙]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57484</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57484"/>
-        <updated>2022-03-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[둥근마을]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[신입 블로거라면 무조건 도움이 될 노출 방법 ( 응애 ..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57649</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57649"/>
         <updated>2022-04-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[지름길]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고객이 입소문 내는 회사의 7가지 법칙]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57484</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57484"/>
+        <updated>2022-03-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[둥근마을]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2주 꼬박 심리테스트 만들었는데 고견받습니다]]></title>
