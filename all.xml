@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 01:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 03:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,18 +217,18 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터가 알면 좋은 성장단계 3가지 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57563</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57563</guid>
-            <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[근육돌이]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[1위는 인스타그램이 아니라고? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57605</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57605</guid>
             <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케터가 알면 좋은 성장단계 3가지 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57563</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57563</guid>
+            <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[근육돌이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 마케터 탈룰라 (아이보스 ─ 인기글)]]></title>
@@ -593,35 +593,35 @@
             <title><![CDATA[이노션, 디지털 크리에이티브 역량 강화 위해 글로벌 TOP VFX 스튜디오 ‘The MILL’과 MOU 체결 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8627</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8627</guid>
-            <pubDate>Mon, 25 Apr 2022 01:22:35 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2022 09:17:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[해외 크리이에티브] 시각 장애인을 위한 TV 광고를 만드는 방법 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8626</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8626</guid>
-            <pubDate>Mon, 25 Apr 2022 01:22:35 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2022 08:43:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[유니레버 식품 브랜드, 어린이를 대상으로 하는 광고를 하지 않는다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8625</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8625</guid>
-            <pubDate>Mon, 25 Apr 2022 01:22:35 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2022 08:43:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2022년 광고회사 현황조사] 10대 광고회사 전년대비 20%대 성장, 코로나19 이전 회복세 보여 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8624</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8624</guid>
-            <pubDate>Mon, 25 Apr 2022 01:22:35 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2022 08:42:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2022년 광고주 현황조사] 2022년 코로나 종식에 대한 기대감으로 광고시장은 단계적 회복 기대 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8623</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8623</guid>
-            <pubDate>Mon, 25 Apr 2022 01:22:35 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2022 08:41:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 빈칸에 들어갈 말로 알맞은 트렌드 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 25 Apr 2022 01:22:49 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2022 03:14:38 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 빈칸에 들어갈 말로 알맞은 트렌드 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/e7ae12ecdc3962ed24e041902bbc2e88_16505253636697.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
