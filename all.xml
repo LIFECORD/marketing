@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 14:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 15:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8599</guid>
             <pubDate>Wed, 20 Apr 2022 09:28:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다음 중 빈칸에 들어갈 말로 알맞은 트렌드 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 25 Apr 2022 14:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->다음 중 빈칸에 들어갈 말로 알맞은 트렌드 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/e7ae12ecdc3962ed24e041902bbc2e88_16505253636697.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1408_1" value="1" class="AB-radio" id="PQ_BD5826_1408_1_0"><label for="PQ_BD5826_1408_1_0" id="label_PQ_BD5826_1408_1_0">(A) 제트경제</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1408_1" value="2" class="AB-radio" id="PQ_BD5826_1408_1_1"><label for="PQ_BD5826_1408_1_1" id="label_PQ_BD5826_1408_1_1">(B) 자이낸스</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1408_1" value="3" class="AB-radio" id="PQ_BD5826_1408_1_2"><label for="PQ_BD5826_1408_1_2" id="label_PQ_BD5826_1408_1_2">(C) 지코노미</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1408_1" value="4" class="AB-radio" id="PQ_BD5826_1408_1_3"><label for="PQ_BD5826_1408_1_3" id="label_PQ_BD5826_1408_1_3">(D) 제트뱅크</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[중기부, 소상공인 해외진출 지원...컨설팅·바우처 "최대 400만원" (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
