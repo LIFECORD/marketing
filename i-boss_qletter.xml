@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 23:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 01:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[👥 무단 크롤링이 뭐길래 싸워? 👤👥]]></title>
+            <link>https://qletter.i-boss.co.kr/view/967377-%EB%AC%B4%EB%8B%A8_%ED%81%AC%EB%A1%A4%EB%A7%81%EC%9D%B4_%EB%AD%90%EA%B8%B8%EB%9E%98_%EC%8B%B8%EC%9B%8C/</link>
+            <guid>https://qletter.i-boss.co.kr/view/967377-%EB%AC%B4%EB%8B%A8_%ED%81%AC%EB%A1%A4%EB%A7%81%EC%9D%B4_%EB%AD%90%EA%B8%B8%EB%9E%98_%EC%8B%B8%EC%9B%8C/</guid>
+            <pubDate>Mon, 25 Apr 2022 01:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/967377-무단_크롤링이_뭐길래_싸워/">
+						<div class="thumb"><img src="/images/qletter_967377.png"></div>
+						<p><strong>👥 무단 크롤링이 뭐길래 싸워? 👤👥</strong>2022.04.25</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_967377.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[색다른 경험을 주고 싶다면 ○○○○ 처럼]]></title>
             <link>https://qletter.i-boss.co.kr/view/964230-%EC%83%89%EB%8B%A4%EB%A5%B8_%EA%B2%BD%ED%97%98%EC%9D%84_%EC%A3%BC%EA%B3%A0_%EC%8B%B6%EB%8B%A4%EB%A9%B4_%EC%B2%98%EB%9F%BC/</link>
@@ -127,17 +138,6 @@
 						<p><strong>보스님의 득템력을 자극하는 마케팅</strong>2022.03.17</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_913269.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[무지성 반품, 멈춰 ✋]]></title>
-            <link>https://qletter.i-boss.co.kr/view/906680-%EB%AC%B4%EC%A7%80%EC%84%B1_%EB%B0%98%ED%92%88_%EB%A9%88%EC%B6%B0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/906680-%EB%AC%B4%EC%A7%80%EC%84%B1_%EB%B0%98%ED%92%88_%EB%A9%88%EC%B6%B0/</guid>
-            <pubDate>Mon, 14 Mar 2022 06:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/906680-무지성_반품_멈춰/">
-						<div class="thumb"><img src="/images/qletter_906680.png"></div>
-						<p><strong>무지성 반품, 멈춰 ✋</strong>2022.03.14</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_906680.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

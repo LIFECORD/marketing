@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 23:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 01:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[👥 무단 크롤링이 뭐길래 싸워? 👤👥 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/967377-%EB%AC%B4%EB%8B%A8_%ED%81%AC%EB%A1%A4%EB%A7%81%EC%9D%B4_%EB%AD%90%EA%B8%B8%EB%9E%98_%EC%8B%B8%EC%9B%8C/</link>
+            <guid>https://qletter.i-boss.co.kr/view/967377-%EB%AC%B4%EB%8B%A8_%ED%81%AC%EB%A1%A4%EB%A7%81%EC%9D%B4_%EB%AD%90%EA%B8%B8%EB%9E%98_%EC%8B%B8%EC%9B%8C/</guid>
+            <pubDate>Mon, 25 Apr 2022 01:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/967377-무단_크롤링이_뭐길래_싸워/">
+						<div class="thumb"><img src="/images/qletter_967377.png"></div>
+						<p><strong>👥 무단 크롤링이 뭐길래 싸워? 👤👥</strong>2022.04.25</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_967377.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[색다른 경험을 주고 싶다면 ○○○○ 처럼 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/964230-%EC%83%89%EB%8B%A4%EB%A5%B8_%EA%B2%BD%ED%97%98%EC%9D%84_%EC%A3%BC%EA%B3%A0_%EC%8B%B6%EB%8B%A4%EB%A9%B4_%EC%B2%98%EB%9F%BC/</link>
@@ -129,17 +140,6 @@
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_913269.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[무지성 반품, 멈춰 ✋ (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/906680-%EB%AC%B4%EC%A7%80%EC%84%B1_%EB%B0%98%ED%92%88_%EB%A9%88%EC%B6%B0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/906680-%EB%AC%B4%EC%A7%80%EC%84%B1_%EB%B0%98%ED%92%88_%EB%A9%88%EC%B6%B0/</guid>
-            <pubDate>Mon, 14 Mar 2022 06:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/906680-무지성_반품_멈춰/">
-						<div class="thumb"><img src="/images/qletter_906680.png"></div>
-						<p><strong>무지성 반품, 멈춰 ✋</strong>2022.03.14</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_906680.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[1급 SNS광고마케터가 되어보자! `SNS광고마케터 1급` 도.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-452</link>
             <guid>https://www.i-boss.co.kr/ab-2973-452</guid>
@@ -224,6 +224,13 @@
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[1위는 인스타그램이 아니라고? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57605</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57605</guid>
+            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[마케팅밈] 마케터 탈룰라 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38815</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38815</guid>
@@ -235,13 +242,6 @@
             <link>https://www.i-boss.co.kr/ab-6141-57536</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57536</guid>
             <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1위는 인스타그램이 아니라고? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57605</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57605</guid>
-            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
@@ -294,6 +294,13 @@
             <content:encoded><![CDATA[흥미진진]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[고객이 입소문 내는 회사의 7가지 법칙 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57484</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57484</guid>
+            <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둥근마을]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2주 꼬박 심리테스트 만들었는데 고견받습니다 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38726</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38726</guid>
@@ -301,11 +308,11 @@
             <content:encoded><![CDATA[박멍멍]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[고객이 입소문 내는 회사의 7가지 법칙 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57484</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57484</guid>
-            <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둥근마을]]></content:encoded>
+            <title><![CDATA[신입 블로거라면 무조건 도움이 될 노출 방법 ( 응애 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57649</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57649</guid>
+            <pubDate>Fri, 22 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지름길]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성공한 CEO가 반드시 하지않는 6가지 (아이보스 ─ 인기글)]]></title>
@@ -336,18 +343,51 @@
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신입 블로거라면 무조건 도움이 될 노출 방법 ( 응애 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57649</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57649</guid>
-            <pubDate>Fri, 22 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[지름길]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[만우절 기념] 신조어 아니고.. 시조어 테스트🤣 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38755</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38755</guid>
             <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[홍티]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이노션, 디지털 크리에이티브 역량 강화 위해 글로벌 TOP VFX 스튜디오 The MILL과 MOU 체결 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8627</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8627</guid>
+            <pubDate>Mon, 25 Apr 2022 09:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[이노션 월드와이드(대표이사 이용우, 이하 이노션)는 글로벌 TOP 수준의 VFX(시각특수효과) 스튜디오인 더 밀(The Mill)과 파트너십 구축을 위한 양해각서(MOU)를 체결했다고 25일 밝혔다. 이노션 글로벌 CEO인 이용우 대표이사와 더 밀 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[해외 크리이에티브] 시각 장애인을 위한 TV 광고를 만드는 방법 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8626</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8626</guid>
+            <pubDate>Mon, 25 Apr 2022 08:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[마스터카드는시각 장애인 및 부분 시각 장애인을 위한 접근 가능한 카드인 터치 카드를 출시했다. 현재많은 카드가 이름과 숫자가 양각되지 않은 평평한 표면에 인쇄된현대적이고 단순한 디자인을 채택하고 있다. 이는 시각 장 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[유니레버 식품 브랜드, 어린이를 대상으로 하는 광고를 하지 않는다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8625</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8625</guid>
+            <pubDate>Mon, 25 Apr 2022 08:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[내년부터 벤 &amp; 제리, 헬만, 매그넘, 월스 등유니레버의 음식 및 음료 브랜드는 더 이상 16세 미만의 어린이들에게마케팅하지 않을 것이라고 발표했다. 유니레버는 책임 있는 마케팅을 위한 `새로운 글로벌 원칙`을 언급하면서, 십 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022년 광고회사 현황조사] 10대 광고회사 전년대비 20%대 성장, 코로나19 이전 회복세 보여 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8624</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8624</guid>
+            <pubDate>Mon, 25 Apr 2022 08:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국광고총연합회(회장 김낙회)는 지난 2월 28일부터 3월 30일까지 광고회사현황조사를 실시했다. 국내 주요 광고회사들의 취급액과 인원현황 등을 파악하기 위해 매년 실시하고 있는 광고회사 현황조사는국내 광고회사를 대상 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022년 광고주 현황조사] 2022년 코로나 종식에 대한 기대감으로 광고시장은 단계적 회복 기대 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8623</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8623</guid>
+            <pubDate>Mon, 25 Apr 2022 08:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국광고총연합회(회장 김낙회)는 지난 2월 28일부터 3월 18일까지 총 19일간 광고주 현황조사를 실시했다. 광고주들의 광고비 집행계획 및 매체 선호도 등을 알아보기 위해 매년 실시하고 있는 광고주 현황조사는 국내 주요 광고 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[4월 25일 마케팅 뉴스클리핑] 네이버쇼핑, 커머스 시장 둔화에도 우성장 기록 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -550,50 +590,45 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[data.ai x IAB Tech Lab, 모바일 광고 환경 전반에 걸쳐 신뢰 기준을 수립하기 위해 협력 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8597</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8597</guid>
-            <pubDate>Wed, 20 Apr 2022 09:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[데이터 및 분석 플랫폼 data.ai(구 앱애니)가 글로벌 디지털 광고 기술 표준화 단체 IAB Tech Lab과 파트너십을 체결했다.이번 파트너십은IAB의 디지털 광고업계 투명성 증진 이니셔티브의 일환이다.즉, 광고주가 가짜 인벤토리를 식 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[이노션, 디지털 크리에이티브 역량 강화 위해 글로벌 TOP VFX 스튜디오 ‘The MILL’과 MOU 체결 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8627</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8627</guid>
+            <pubDate>Mon, 25 Apr 2022 01:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뚱뚱한 호랑이 캐릭터 뚱랑이를 소개합니다! (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8596</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8596</guid>
-            <pubDate>Wed, 20 Apr 2022 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[뚱랑이의 탄생  무직타이거는 뚱랑이가 주인공인 캐릭터 디자인 브랜드입니다.뚱뚱한 호랑이의 줄임말인 뚱랑이는 인스타그램에서 매일 다른톤의 호랑이 드로잉을 실험하는 가운데 온라인에서 고객 피드백을 흡수해 탄생했습 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[해외 크리이에티브] 시각 장애인을 위한 TV 광고를 만드는 방법 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8626</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8626</guid>
+            <pubDate>Mon, 25 Apr 2022 01:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 이노레드는 광고의 세대를 이어가겠습니다, 박현우 이노레드 대표 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8595</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8595</guid>
-            <pubDate>Wed, 20 Apr 2022 08:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[광고회사가 꾸준히 좋은 크리에이티브를 낸다는 것은 정말 어렵다. 게다가 크리에이티브를 위한 크리에이티브가 아니라, 마케팅 전략에 부합하는 크리에이티브를 내는 것은 더욱 어렵다. 최근 마케팅의 성공을 가져오는 크리 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[유니레버 식품 브랜드, 어린이를 대상으로 하는 광고를 하지 않는다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8625</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8625</guid>
+            <pubDate>Mon, 25 Apr 2022 01:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[4월 20일 마케팅 뉴스클리핑] 인스타그램, 상품 태그 모든 미국 이용자로 확대 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8594</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8594</guid>
-            <pubDate>Wed, 20 Apr 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 인스타그램, `상품 태그` 모든 미국 이용자로 확대  인스타그램이 `상품 태그` 기능을 미국 이용자에게 확대 도입한다. 인스타그램은 그동안 비즈니스와 크리에이터 계정에만 제공하던 게시물 상품 태그 기능을 미국 이용자  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_39e95c38dadf643b75dc99ad328abd9c_19373_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[2022년 광고회사 현황조사] 10대 광고회사 전년대비 20%대 성장, 코로나19 이전 회복세 보여 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8624</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8624</guid>
+            <pubDate>Mon, 25 Apr 2022 01:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년 1분기 한국인이 온라인에서 많이 구매한 상품은? (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8593</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8593</guid>
-            <pubDate>Tue, 19 Apr 2022 11:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[올해 1분기 온라인에서 가장 많이 구매한 화장품류는 스킨케어, 화장품 전체 53% 차지 올해 1분기 온라인에서 가장 많이 구매한 가공식품류는 건강기능식품, 가공식품 전체 55% 차지 올해 1분기 온라인에서 가장 많이 구매한 생활 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4b15b33aa945dac0a019babd51add34a_47551_1.png" length="0" type="image/png"/>
+            <title><![CDATA[[2022년 광고주 현황조사] 2022년 코로나 종식에 대한 기대감으로 광고시장은 단계적 회복 기대 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8623</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8623</guid>
+            <pubDate>Mon, 25 Apr 2022 01:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[4월 25일 마케팅 뉴스클리핑] 네이버쇼핑, 커머스 시장 둔화에도 '우성장' 기록 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8616</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8616</guid>
-            <pubDate>Sun, 24 Apr 2022 23:19:28 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -765,45 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[data.ai x IAB Tech Lab, 모바일 광고 환경 전반에 걸쳐 신뢰 기준을 수립하기 위해 협력 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8597</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8597</guid>
-            <pubDate>Wed, 20 Apr 2022 09:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뚱뚱한 호랑이 캐릭터 ‘뚱랑이’를 소개합니다! (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8596</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8596</guid>
-            <pubDate>Wed, 20 Apr 2022 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] “이노레드는 광고의 세대를 이어가겠습니다”, 박현우 이노레드 대표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8595</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8595</guid>
-            <pubDate>Wed, 20 Apr 2022 08:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[4월 20일 마케팅 뉴스클리핑] 인스타그램, '상품 태그' 모든 미국 이용자로 확대 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8594</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8594</guid>
-            <pubDate>Wed, 20 Apr 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 1분기 한국인이 온라인에서 많이 구매한 상품은? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8593</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8593</guid>
-            <pubDate>Tue, 19 Apr 2022 11:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 빈칸에 들어갈 말로 알맞은 트렌드 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 24 Apr 2022 23:19:39 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2022 01:22:49 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 빈칸에 들어갈 말로 알맞은 트렌드 용어는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/e7ae12ecdc3962ed24e041902bbc2e88_16505253636697.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

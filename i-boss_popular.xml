@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-24T23:19:48.176Z</updated>
+    <updated>2022-04-25T01:22:58.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[근육돌이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[1위는 인스타그램이 아니라고?]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57605</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57605"/>
+        <updated>2022-04-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[마케팅밈] 마케터 탈룰라]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38815</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38815"/>
@@ -101,13 +108,6 @@
         <id>https://www.i-boss.co.kr/ab-6141-57536</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57536"/>
         <updated>2022-04-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1위는 인스타그램이 아니라고?]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57605</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57605"/>
-        <updated>2022-04-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
@@ -160,6 +160,13 @@
         <content type="html"><![CDATA[흥미진진]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[고객이 입소문 내는 회사의 7가지 법칙]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57484</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57484"/>
+        <updated>2022-03-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[둥근마을]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2주 꼬박 심리테스트 만들었는데 고견받습니다]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38726</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38726"/>
@@ -167,11 +174,11 @@
         <content type="html"><![CDATA[박멍멍]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고객이 입소문 내는 회사의 7가지 법칙]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57484</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57484"/>
-        <updated>2022-03-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[둥근마을]]></content>
+        <title type="html"><![CDATA[신입 블로거라면 무조건 도움이 될 노출 방법 ( 응애 ..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57649</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57649"/>
+        <updated>2022-04-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[지름길]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[성공한 CEO가 반드시 하지않는 6가지]]></title>
@@ -200,13 +207,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57475"/>
         <updated>2022-03-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[jinhorus]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신입 블로거라면 무조건 도움이 될 노출 방법 ( 응애 ..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57649</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57649"/>
-        <updated>2022-04-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[지름길]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[만우절 기념] 신조어 아니고.. 시조어 테스트🤣]]></title>
