@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 22:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 23:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[4월 26일 마케팅 뉴스클리핑] 당근배민서도 클릭당 광고 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8628</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8628</guid>
+            <pubDate>Tue, 26 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 당근배민서도 클릭당 광고  네이버 파워링크로 대표되던 CPC가 앱 영역까지 넘어오고 있다. 네이버와 다음 등 포털이 점유하던 광고 검색 시장의 주도권이 흔들릴 조짐이 보인다. 한정된 화면 안에서 검색 노출 빈도를 높이려 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0e6fff47c58382891a1431e882680f9a_9151_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인스타그램, 릴스 영상 복사 기능 시범 적용]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8629</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8600</guid>
             <pubDate>Wed, 20 Apr 2022 09:48:00 GMT</pubDate>
             <content:encoded><![CDATA[4월22일은 환경 문제의 심각성을 일깨우고 지구를 위한 작은 행동을 실천하는 지구의 날(Earth Day)이다.최근 몇 년 사이 환경 오염이나 기후 변화에 대한 인식이 일부 집단의 관심 영역에서 범사회적 교양의 범주로 확대되어 감에  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[레트로와 사랑에 빠진 Z세대, 패션업계는 Y2K 열풍]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8599</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8599</guid>
-            <pubDate>Wed, 20 Apr 2022 09:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근Y2K트렌드가Z세대를 중심으로 화제가 되면서 패션을 비롯한 인테리어,식음료 등 다양한 분야에 적용되는 것으로 나타났다. 20일 종합커뮤니케이션그룹KPR(사장 김주호)부설KPR디지털커뮤니케이션연구소가 매스미디어와SNS(트 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
