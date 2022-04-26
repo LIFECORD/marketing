@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-26T14:17:37.765Z</updated>
+    <updated>2022-04-26T15:20:15.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -153,18 +153,18 @@
         <content type="html"><![CDATA[르와즈]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글애널리틱스4(GA4) 초기 세팅 사항]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57548</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57548"/>
-        <updated>2022-04-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[데이터분석]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[‘이것’ 만 알면 기본은 하는 카드뉴스 디자인! 1탄!]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57632</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57632"/>
         <updated>2022-04-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[흥미진진]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글애널리틱스4(GA4) 초기 세팅 사항]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57548</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57548"/>
+        <updated>2022-04-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[데이터분석]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고객이 입소문 내는 회사의 7가지 법칙]]></title>
