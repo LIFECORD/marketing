@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 03:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 04:31:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[KAI] 5월 가정의 달, 방역완화성수기 대비 광고 캠페인 활발로 광고시장도 훈훈해져 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8634</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8634</guid>
+            <pubDate>Tue, 26 Apr 2022 04:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코, 사장 이백만)는 2022년 5월의 광고경기를 전망하는 광고경기전망지수(KAI ; Korea Advertising Index)를 106.9로 발표했다. 통계청 국가승인통계인 광고경기전망지수(KAI)는 매월 국내 570여 개 광고주에 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[한국인이 가장 많이 사용하는 쇼핑 앱은? (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8633</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8633</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] KOSAC 대상 수상팀의 SM C&C 인턴 생활, 좁은 시야 넓혀 준 렌즈 같았던 소중한 경험 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8604</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8604</guid>
-            <pubDate>Thu, 21 Apr 2022 08:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 대한민국 대학생광고대회(KOSAC)에서 대상을 거머쥔서강대학교 구해줘 내 식당 팀원 5명(김예윤, 기재영, 김현지,최유심, 하지영) 전원이 부상으로 주어진 광고회사에서의 인턴십프로그램을 통해 실무경험을 쌓았다. 대상 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[KAI] 5월 가정의 달, 방역완화·성수기 대비 광고 캠페인 활발로 광고시장도 훈훈해져 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8634</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8634</guid>
+            <pubDate>Tue, 26 Apr 2022 04:31:28 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국인이 가장 많이 사용하는 쇼핑 앱은? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] KOSAC 대상 수상팀의 SM C&C 인턴 생활, “좁은 시야 넓혀 준 렌즈 같았던 소중한 경험” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8604</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8604</guid>
-            <pubDate>Thu, 21 Apr 2022 08:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음은 구글 알고리즘이 홈페이지의 품질을 평가하기 위한 지표인 '전문성, 권위성, 신뢰성'을 축약한 단어입니다. 구글의 검색 결과 랭킹에 영향을 미치는 이것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 26 Apr 2022 03:23:34 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2022 04:31:41 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음은 구글 알고리즘이 홈페이지의 품질을 평가하기 위한 지표인 '전문성, 권위성, 신뢰성'을 축약한 단어입니다. 구글의 검색 결과 랭킹에 영향을 미치는 이것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
