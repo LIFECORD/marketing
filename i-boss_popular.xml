@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-26T05:20:31.149Z</updated>
+    <updated>2022-04-26T06:23:08.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[마사초]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용..]]></title>
-        <id>https://www.i-boss.co.kr/ab-74668-2590</id>
-        <link href="https://www.i-boss.co.kr/ab-74668-2590"/>
-        <updated>2022-04-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[다이티]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[UA 잘가! GA4 어서와!]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57505</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57505"/>
         <updated>2022-04-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용..]]></title>
+        <id>https://www.i-boss.co.kr/ab-74668-2590</id>
+        <link href="https://www.i-boss.co.kr/ab-74668-2590"/>
+        <updated>2022-04-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[다이티]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나만 알고 싶은 무료폰트 [고딕편]]]></title>
@@ -118,6 +118,13 @@
         <content type="html"><![CDATA[르와즈]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[신입 블로거라면 무조건 도움이 될 노출 방법 ( 응애 ..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57649</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57649"/>
+        <updated>2022-04-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[지름길]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[쉿! 보스님만 알고 계세요. 지금 팔리는 것들의 비밀]]></title>
         <id>https://www.i-boss.co.kr/ab-5637-31</id>
         <link href="https://www.i-boss.co.kr/ab-5637-31"/>
@@ -130,13 +137,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38817"/>
         <updated>2022-04-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[모야야]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신입 블로거라면 무조건 도움이 될 노출 방법 ( 응애 ..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57649</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57649"/>
-        <updated>2022-04-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[지름길]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[첫출근!! 병아리 퍼포먼스 마케터 도와주세요 ㅜㅜ]]></title>
@@ -181,11 +181,25 @@
         <content type="html"><![CDATA[박멍멍]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[파는 제품이 아니라 파는 가치를 생각한다 `행복을 ..]]></title>
+        <id>https://www.i-boss.co.kr/ab-2973-457</id>
+        <link href="https://www.i-boss.co.kr/ab-2973-457"/>
+        <updated>2022-04-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[당첨대쓔]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[성공한 CEO가 반드시 하지않는 6가지]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57550</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57550"/>
         <updated>2022-04-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[yoorok]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버 vs 다윈중개... 경쟁사 크롤링은 합법일까? 불..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57646</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57646"/>
+        <updated>2022-04-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카카오 '음'은 왜 문을 닫을까 🤔]]></title>
@@ -200,19 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57567"/>
         <updated>2022-04-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[jinhorus]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유세린 1등 만들기의 배후]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57475</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57475"/>
-        <updated>2022-03-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[jinhorus]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파는 제품이 아니라 파는 가치를 생각한다 `행복을 ..]]></title>
-        <id>https://www.i-boss.co.kr/ab-2973-457</id>
-        <link href="https://www.i-boss.co.kr/ab-2973-457"/>
-        <updated>2022-04-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
 </feed>

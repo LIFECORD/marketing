@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 05:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 06:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,18 +168,18 @@
             <content:encoded><![CDATA[마사초]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-74668-2590</link>
-            <guid>https://www.i-boss.co.kr/ab-74668-2590</guid>
-            <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[다이티]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[UA 잘가! GA4 어서와! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57505</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57505</guid>
             <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-74668-2590</link>
+            <guid>https://www.i-boss.co.kr/ab-74668-2590</guid>
+            <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[다이티]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나만 알고 싶은 무료폰트 [고딕편] (아이보스 ─ 인기글)]]></title>
@@ -252,6 +252,13 @@
             <content:encoded><![CDATA[르와즈]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[신입 블로거라면 무조건 도움이 될 노출 방법 ( 응애 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57649</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57649</guid>
+            <pubDate>Fri, 22 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지름길]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[쉿! 보스님만 알고 계세요. 지금 팔리는 것들의 비밀 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-5637-31</link>
             <guid>https://www.i-boss.co.kr/ab-5637-31</guid>
@@ -264,13 +271,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38817</guid>
             <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[모야야]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신입 블로거라면 무조건 도움이 될 노출 방법 ( 응애 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57649</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57649</guid>
-            <pubDate>Fri, 22 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[지름길]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[첫출근!! 병아리 퍼포먼스 마케터 도와주세요 ㅜㅜ (아이보스 ─ 인기글)]]></title>
@@ -315,11 +315,25 @@
             <content:encoded><![CDATA[박멍멍]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[파는 제품이 아니라 파는 가치를 생각한다 `행복을 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-457</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-457</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[성공한 CEO가 반드시 하지않는 6가지 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57550</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57550</guid>
             <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[yoorok]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네이버 vs 다윈중개... 경쟁사 크롤링은 합법일까? 불.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57646</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57646</guid>
+            <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카카오 '음'은 왜 문을 닫을까 🤔 (아이보스 ─ 인기글)]]></title>
@@ -334,20 +348,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57567</guid>
             <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유세린 1등 만들기의 배후 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57475</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57475</guid>
-            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[jinhorus]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[파는 제품이 아니라 파는 가치를 생각한다 `행복을 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-457</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-457</guid>
-            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[KAI] 5월 가정의 달, 방역완화성수기 대비 광고 캠페인 활발로 광고시장도 훈훈해져 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음은 구글 알고리즘이 홈페이지의 품질을 평가하기 위한 지표인 '전문성, 권위성, 신뢰성'을 축약한 단어입니다. 구글의 검색 결과 랭킹에 영향을 미치는 이것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 26 Apr 2022 05:20:22 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2022 06:23:00 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음은 구글 알고리즘이 홈페이지의 품질을 평가하기 위한 지표인 '전문성, 권위성, 신뢰성'을 축약한 단어입니다. 구글의 검색 결과 랭킹에 영향을 미치는 이것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
