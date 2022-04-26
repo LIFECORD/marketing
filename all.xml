@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 07:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 08:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -245,18 +245,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[화장품을 1개만 파는 브랜드 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57627</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57627</guid>
-            <pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[르와즈]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[신입 블로거라면 무조건 도움이 될 노출 방법 ( 응애 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57649</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57649</guid>
             <pubDate>Fri, 22 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[지름길]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[화장품을 1개만 파는 브랜드 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57627</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57627</guid>
+            <pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[르와즈]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쉿! 보스님만 알고 계세요. 지금 팔리는 것들의 비밀 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음은 구글 알고리즘이 홈페이지의 품질을 평가하기 위한 지표인 '전문성, 권위성, 신뢰성'을 축약한 단어입니다. 구글의 검색 결과 랭킹에 영향을 미치는 이것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 26 Apr 2022 07:19:00 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2022 08:23:36 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음은 구글 알고리즘이 홈페이지의 품질을 평가하기 위한 지표인 '전문성, 권위성, 신뢰성'을 축약한 단어입니다. 구글의 검색 결과 랭킹에 영향을 미치는 이것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
