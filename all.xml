@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 06:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 07:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,18 +168,18 @@
             <content:encoded><![CDATA[마사초]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[UA 잘가! GA4 어서와! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57505</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57505</guid>
-            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-74668-2590</link>
             <guid>https://www.i-boss.co.kr/ab-74668-2590</guid>
             <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다이티]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[UA 잘가! GA4 어서와! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57505</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57505</guid>
+            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나만 알고 싶은 무료폰트 [고딕편] (아이보스 ─ 인기글)]]></title>
@@ -322,18 +322,18 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[성공한 CEO가 반드시 하지않는 6가지 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57550</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57550</guid>
-            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[yoorok]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네이버 vs 다윈중개... 경쟁사 크롤링은 합법일까? 불.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57646</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57646</guid>
             <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[성공한 CEO가 반드시 하지않는 6가지 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57550</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57550</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카카오 '음'은 왜 문을 닫을까 🤔 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음은 구글 알고리즘이 홈페이지의 품질을 평가하기 위한 지표인 '전문성, 권위성, 신뢰성'을 축약한 단어입니다. 구글의 검색 결과 랭킹에 영향을 미치는 이것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 26 Apr 2022 06:23:00 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2022 07:19:00 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음은 구글 알고리즘이 홈페이지의 품질을 평가하기 위한 지표인 '전문성, 권위성, 신뢰성'을 축약한 단어입니다. 구글의 검색 결과 랭킹에 영향을 미치는 이것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
