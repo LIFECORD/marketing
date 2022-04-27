@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 14:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 15:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -189,18 +189,18 @@
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터 각 연차별 체크리스트  체크해보세요! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57572</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57572</guid>
-            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[근육돌이]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[1위는 인스타그램이 아니라고? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57605</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57605</guid>
             <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케터 각 연차별 체크리스트  체크해보세요! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57572</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57572</guid>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[근육돌이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[새로운 마케팅 방법..? (아이보스 ─ 인기글)]]></title>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8617</guid>
             <pubDate>Sat, 23 Apr 2022 10:21:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아이지에이웍스에서 발표한 국내 SNS 앱 사용자 수 순위에서, 소셜미디어 카테고리 MAU 1위를 차지한 SNS는 무엇일까요?(hint: 이 글을 읽고 나면 아마 깜짝 놀랄 지도 몰라요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 27 Apr 2022 14:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->아이지에이웍스에서 발표한 국내 SNS 앱 사용자 수 순위에서, 소셜미디어 카테고리 MAU 1위를 차지한 SNS는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57605" target="_blank">이 글을 읽고 나면 아마 깜짝 놀랄 지도 몰라요!</a>)</span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1410_1" value="1" class="AB-radio" id="PQ_BD5826_1410_1_0"><label for="PQ_BD5826_1410_1_0" id="label_PQ_BD5826_1410_1_0">(A) 밴드</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1410_1" value="2" class="AB-radio" id="PQ_BD5826_1410_1_1"><label for="PQ_BD5826_1410_1_1" id="label_PQ_BD5826_1410_1_1">(B) 인스타그램</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1410_1" value="3" class="AB-radio" id="PQ_BD5826_1410_1_2"><label for="PQ_BD5826_1410_1_2" id="label_PQ_BD5826_1410_1_2">(C) 카카오스토리</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1410_1" value="4" class="AB-radio" id="PQ_BD5826_1410_1_3"><label for="PQ_BD5826_1410_1_3" id="label_PQ_BD5826_1410_1_3">(D) 페이스북</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인 손실보상금·자영업자 방역지원금 1000만원·600만원 지급 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
