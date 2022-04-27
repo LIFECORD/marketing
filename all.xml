@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 04:45:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 05:29:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,18 +238,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[내 브랜드와 꼭 맞는 유형 테스트 만들기! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57536</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57536</guid>
-            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[신입 블로거라면 무조건 도움이 될 노출 방법 ( 응애 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57649</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57649</guid>
             <pubDate>Fri, 22 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[지름길]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[내 브랜드와 꼭 맞는 유형 테스트 만들기! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57536</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57536</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[화장품을 1개만 파는 브랜드 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[아이지에이웍스에서 발표한 국내 SNS 앱 사용자 수 순위에서, 소셜미디어 카테고리 MAU 1위를 차지한 SNS는 무엇일까요?(hint: 이 글을 읽고 나면 아마 깜짝 놀랄 지도 몰라요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 27 Apr 2022 04:45:05 GMT</pubDate>
+            <pubDate>Wed, 27 Apr 2022 05:28:52 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->아이지에이웍스에서 발표한 국내 SNS 앱 사용자 수 순위에서, 소셜미디어 카테고리 MAU 1위를 차지한 SNS는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57605" target="_blank">이 글을 읽고 나면 아마 깜짝 놀랄 지도 몰라요!</a>)</span></td>
 			</tr>
