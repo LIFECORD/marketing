@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 10:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 11:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[광고홍보학회 특별 세미나, 광고 구루에게 듣는다 : 광고계의 새로운 도전과 과제 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8646</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8646</guid>
+            <pubDate>Wed, 27 Apr 2022 11:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[한국광고홍보학회(회장 차영란 수원대학교 교수)는 `광고 구루에게 듣는다 : 광고계의 새로운 도전과 과제`라는 주제로 4월 29일 오후 2시 특별 세미나를 개최한다. 현재 광고정책 컨트롤타워 일원화와 광고산업진흥법 제정, 광 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[판키우는 리셀 업체들... 해외 진출 가속  NFT 활용 모델도 등장 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8644</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8644</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[트렌비, 작년 국내외 거래액 3천억원매출 963억원 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8615</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8615</guid>
-            <pubDate>Fri, 22 Apr 2022 07:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[국내 상품 매출만 계산 시 매출 217억원영업손실 330억원  명품 플랫폼 트렌비가 지난해 거래액과 국내외 매출을 22일 공개했다.   트렌비의 지난해 거래액은 전년 대비 296% 상승한 3천억원을 기록했다. 또 트렌비 해외 자회사를 연 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c1436c4c74fa65a8d80f5dfe78ff6e88_38110_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[광고홍보학회 특별 세미나, "광고 구루에게 듣는다 : 광고계의 새로운 도전과 과제" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8646</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8646</guid>
+            <pubDate>Wed, 27 Apr 2022 11:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[판키우는 리셀 업체들... 해외 진출 가속 · NFT 활용 모델도 등장 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트렌비, 작년 국내외 거래액 3천억원·매출 963억원 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8615</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8615</guid>
-            <pubDate>Fri, 22 Apr 2022 07:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[아이지에이웍스에서 발표한 국내 SNS 앱 사용자 수 순위에서, 소셜미디어 카테고리 MAU 1위를 차지한 SNS는 무엇일까요?(hint: 이 글을 읽고 나면 아마 깜짝 놀랄 지도 몰라요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 27 Apr 2022 10:21:40 GMT</pubDate>
+            <pubDate>Wed, 27 Apr 2022 11:16:45 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->아이지에이웍스에서 발표한 국내 SNS 앱 사용자 수 순위에서, 소셜미디어 카테고리 MAU 1위를 차지한 SNS는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57605" target="_blank">이 글을 읽고 나면 아마 깜짝 놀랄 지도 몰라요!</a>)</span></td>
 			</tr>
