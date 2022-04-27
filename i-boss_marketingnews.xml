@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 01:44:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 03:45:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[판키우는 리셀 업체들... 해외 진출 가속  NFT 활용 모델도 등장]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8644</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8644</guid>
+            <pubDate>Wed, 27 Apr 2022 11:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[네이버 크림, 국내외 리셀 플랫폼 M&amp;A 속도...아시아 리셀 시장 진출 무신사 솔드아웃, 신뢰 회복 관건...검수 인원 확보, 개발인력 채용나서 KT알파 리플, NFT 활용한 조각투자 유료 멤버십 오픈   국내 리셀 시장 경쟁이 치열해 지 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_daaeffd5fd8d5835e14d3675810d2759_45136_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알파벳 구글, 1분기 매출 23% 늘었지만 유튜브 광고 기대 못미쳐]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8643</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8643</guid>
+            <pubDate>Wed, 27 Apr 2022 11:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[알파벳은 1분기 전년대비 23% 증가한 690억달러 매출, 순이익은 8.3% 내려간 164억달러를 기록했다.  구글 검색 사업 부문은 1분기 390억달러 규모 매출을 달성했다. 지난해 같은 기간 310억달러에서 크게 상승했다. 유튜브 및 다양한  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 칸타 글로벌 광고 어워즈서 가장 효과적인 광고 9위 차지]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8642</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 22 Apr 2022 07:18:12 GMT</pubDate>
             <content:encoded><![CDATA[국내 상품 매출만 계산 시 매출 217억원영업손실 330억원  명품 플랫폼 트렌비가 지난해 거래액과 국내외 매출을 22일 공개했다.   트렌비의 지난해 거래액은 전년 대비 296% 상승한 3천억원을 기록했다. 또 트렌비 해외 자회사를 연 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c1436c4c74fa65a8d80f5dfe78ff6e88_38110_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT알파 리셀 플랫폼 리플, NFT 조각소유권 거래 멤버십 서비스 오픈]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8614</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8614</guid>
-            <pubDate>Fri, 22 Apr 2022 06:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[KT NFT 서비스 민클과 협업...7월 고객 간 조각거래 가능한 정식 서비스 런칭  KT알파가 운영하는 스니커즈 리셀 플랫폼 리플(REPLE)이 NFT(Non-Fungible Token, 대체불가능토큰) 기반 한정판 스니커즈 조각소유권을 거래할 수 있는 +  (플러 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_97f2574635c3d06d3fe5e1845f69496d_50973_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누구나 플랫폼 오너 되는 진정한 크리에이터 이코노미 시대를 열다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8613</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8613</guid>
-            <pubDate>Fri, 22 Apr 2022 09:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌팬덤비즈니스전문스타트업비마이프렌즈가크리에이터를위한비스포크플랫폼빌더비스테이지(b.stage)서비스를정식으로시작하고,크리에이터가콘텐츠는물론플랫폼까지기획,설계,구축,소유하는진정한크리에이터이코노미 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
