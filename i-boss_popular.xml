@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-27T05:29:01.492Z</updated>
+    <updated>2022-04-27T06:24:05.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[근육돌이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[새로운 마케팅 방법..?]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38829</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38829"/>
-        <updated>2022-04-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[미선성]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[1위는 인스타그램이 아니라고?]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57605</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57605"/>
         <updated>2022-04-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 마케팅 방법..?]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38829</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38829"/>
+        <updated>2022-04-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[미선성]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2년차 눈팅족, 그동안 감사했습니다.]]></title>
