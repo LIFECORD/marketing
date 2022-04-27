@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 22:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 23:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[4월 28일 마케팅 뉴스클리핑] 인스타그램, 새로운 계정 태그 방식 도입 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8645</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8645</guid>
+            <pubDate>Thu, 28 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 인스타그램, 새로운 계정 태그 방식 도입  인스타그램은 피드 게시물이나 릴스에 프로페셔널 계정으로 설정된 크리에이터를 태그 할 때, 해당 크리에이터의 전문 분야를 함께 소개할 수 있도록 계정 태그 기능을 업데이트한 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e6935415c09708904d41b97e01eb1d5a_72578_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[광고홍보학회 특별 세미나, 광고 구루에게 듣는다 : 광고계의 새로운 도전과 과제]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8646</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8618</guid>
             <pubDate>Sat, 23 Apr 2022 10:22:00 GMT</pubDate>
             <content:encoded><![CDATA[모바일 시장에서 성공하려면 시장 및 경쟁사에 대한 심도있는 분석과 이를 기반으로 한 전략 수립이 필요하다. 그러나이를 위해 일일이 앱을 다운받거나 스토어 카테고리를 살펴보고, 인터넷 검색을 통해 이전 데이터나 뉴스  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[비브스튜디오스 버추얼 휴먼 질주, 패션 화보 통해 데뷔]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8617</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8617</guid>
-            <pubDate>Sat, 23 Apr 2022 10:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[비브스튜디오스(VIVE STUDIOS, 대표 김세규)의 버추얼 휴먼 질주(A.K.A JZ)가 프리미엄 라이프 스타일 매거진 노블레스 5월 화보를 통해 첫 모습을 공개해 화제다. 질주는 지난해부터 국내 선두 비주얼 인공지능(AI) 기반 메타버스 콘텐 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
