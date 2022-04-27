@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 06:24:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 07:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,18 +280,18 @@
             <content:encoded><![CDATA[쩔뚝22]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제품vs브랜드 무엇이 더 중요할까? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57579</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57579</guid>
-            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[르와즈]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[파는 제품이 아니라 파는 가치를 생각한다 `행복을 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-457</link>
             <guid>https://www.i-boss.co.kr/ab-2973-457</guid>
             <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제품vs브랜드 무엇이 더 중요할까? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57579</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57579</guid>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[르와즈]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘이것’ 만 알면 기본은 하는 카드뉴스 디자인! 1탄! (아이보스 ─ 인기글)]]></title>
@@ -315,18 +315,18 @@
             <content:encoded><![CDATA[둥근마을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2주 꼬박 심리테스트 만들었는데 고견받습니다 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38726</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38726</guid>
-            <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[박멍멍]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네이버 vs 다윈중개... 경쟁사 크롤링은 합법일까? 불.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57646</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57646</guid>
             <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2주 꼬박 심리테스트 만들었는데 고견받습니다 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38726</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38726</guid>
+            <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[박멍멍]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성공한 CEO가 반드시 하지않는 6가지 (아이보스 ─ 인기글)]]></title>
@@ -343,11 +343,11 @@
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유세린 1등 만들기의 배후 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57475</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57475</guid>
-            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[jinhorus]]></content:encoded>
+            <title><![CDATA[네컷 사진이 사람들의 마음을 사로잡은 이유 📷 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57630</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57630</guid>
+            <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[판키우는 리셀 업체들... 해외 진출 가속  NFT 활용 모델도 등장 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[아이지에이웍스에서 발표한 국내 SNS 앱 사용자 수 순위에서, 소셜미디어 카테고리 MAU 1위를 차지한 SNS는 무엇일까요?(hint: 이 글을 읽고 나면 아마 깜짝 놀랄 지도 몰라요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 27 Apr 2022 06:23:55 GMT</pubDate>
+            <pubDate>Wed, 27 Apr 2022 07:19:13 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->아이지에이웍스에서 발표한 국내 SNS 앱 사용자 수 순위에서, 소셜미디어 카테고리 MAU 1위를 차지한 SNS는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57605" target="_blank">이 글을 읽고 나면 아마 깜짝 놀랄 지도 몰라요!</a>)</span></td>
 			</tr>
