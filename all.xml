@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 14:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 15:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,18 +294,18 @@
             <content:encoded><![CDATA[쩔뚝22]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제품vs브랜드 무엇이 더 중요할까? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57579</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57579</guid>
-            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[르와즈]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 대행사 마케터는 정말 이래? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38922</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38922</guid>
             <pubDate>Thu, 28 Apr 2022 06:27:05 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제품vs브랜드 무엇이 더 중요할까? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57579</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57579</guid>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[르와즈]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버 vs 다윈중개... 경쟁사 크롤링은 합법일까? 불.. (아이보스 ─ 인기글)]]></title>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8616</guid>
             <pubDate>Mon, 25 Apr 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다음 중 페이스북 광고가 승인되지 않는 사례는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 28 Apr 2022 14:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->다음 중 페이스북 광고가 승인되지 않는 사례는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/e7ae12ecdc3962ed24e041902bbc2e88_16505257548862.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1411_1" value="1" class="AB-radio" id="PQ_BD5826_1411_1_0"><label for="PQ_BD5826_1411_1_0" id="label_PQ_BD5826_1411_1_0">(A) 광고 문구에 'Facebook'을 언급한 경우</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1411_1" value="2" class="AB-radio" id="PQ_BD5826_1411_1_1"><label for="PQ_BD5826_1411_1_1" id="label_PQ_BD5826_1411_1_1">(B) 광고에서 비포 앤 애프터 이미지를 보여주는 경우</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1411_1" value="3" class="AB-radio" id="PQ_BD5826_1411_1_2"><label for="PQ_BD5826_1411_1_2" id="label_PQ_BD5826_1411_1_2">(C) 랜딩페이지를 자사의 쇼핑몰 사이트로 설정한 경우</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1411_1" value="4" class="AB-radio" id="PQ_BD5826_1411_1_3"><label for="PQ_BD5826_1411_1_3" id="label_PQ_BD5826_1411_1_3">(D) 이미지 내에 텍스트가 포함되지 않은 경우</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인 손실보상금·자영업자 방역지원금 1000만원·600만원 지급 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
