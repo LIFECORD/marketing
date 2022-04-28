@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 22:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 23:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[4월 29일 마케팅 뉴스클리핑] 쿠팡 사용자 한 달간 2,655만 명... 2위와 3배 격차 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8651</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8651</guid>
+            <pubDate>Fri, 29 Apr 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 쿠팡 사용자 한 달간 2,655만 명... 2위와 3배 격차  쇼핑 앱에서 쿠팡이 압도적인 위치를 굳히고 있다. 세대를 불문하고 가장 많이 사용하는 쇼핑 앱으로 조사됐다. 지난 3월 쿠팡 앱 이용자는 2,655만 명으로 집계됐다. 이어 11번 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5870bea2e800e618513962ba53470428_2269_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제일기획, 1분기 영업이익 585억 원... 전년比 43%]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8652</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 25 Apr 2022 08:41:00 GMT</pubDate>
             <content:encoded><![CDATA[한국광고총연합회(회장 김낙회)는 지난 2월 28일부터 3월 18일까지 총 19일간 광고주 현황조사를 실시했다. 광고주들의 광고비 집행계획 및 매체 선호도 등을 알아보기 위해 매년 실시하고 있는 광고주 현황조사는 국내 주요 광고 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[4월 25일 마케팅 뉴스클리핑] 네이버쇼핑, 커머스 시장 둔화에도 우성장 기록 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8616</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8616</guid>
-            <pubDate>Mon, 25 Apr 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 네이버쇼핑, 커머스 시장 둔화에도 `우성장` 기록  이커머스 시장의 성장세가 둔화된 상황에도 네이버는 1분기 커머스 부문 매출 4,161억 원을 올렸다. 전년 동기 대비 28.3% 상승한 수치다. 거래액은 택배 파업과 계절적 영향에 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_338eb249c622ebac2969a669f7bb8348_11425_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
