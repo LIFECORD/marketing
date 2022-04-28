@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-28T09:20:58.126Z</updated>
+    <updated>2022-04-28T10:21:53.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -174,6 +174,13 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[마케팅밈] 대행사 마케터는 정말 이래?]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38922</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38922"/>
+        <updated>2022-04-28T06:27:05.888Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[구글애널리틱스4(GA4) 초기 세팅 사항]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57548</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57548"/>
@@ -188,11 +195,11 @@
         <content type="html"><![CDATA[둥근마을]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[마케팅밈] 대행사 마케터는 정말 이래?]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38922</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38922"/>
-        <updated>2022-04-28T06:27:05.888Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
+        <title type="html"><![CDATA[아웃풋이 아닌 프로세스를 파는 새로운 가치 전략 `..]]></title>
+        <id>https://www.i-boss.co.kr/ab-2973-460</id>
+        <link href="https://www.i-boss.co.kr/ab-2973-460"/>
+        <updated>2022-04-28T10:21:04.953Z</updated>
+        <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[원가, 마진을 다 공개하는 아웃도어 브랜드]]></title>
@@ -207,12 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57550"/>
         <updated>2022-04-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[yoorok]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네컷 사진이 사람들의 마음을 사로잡은 이유 📷]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57630</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57630"/>
-        <updated>2022-04-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
 </feed>
