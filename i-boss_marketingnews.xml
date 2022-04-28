@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 06:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 07:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제일기획, 1분기 영업이익 585억 원... 전년比 43%]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8652</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8652</guid>
+            <pubDate>Thu, 28 Apr 2022 07:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[제일기획(대표이사 사장 유정근)이 1분기 매출총이익 3,349억 원, 영업이익 585억 원의 실적을 기록했다고 28일 발표했다. 전년 동기 대비 매출총이익은 23%, 영업이익은 43% 증가한 수치로 1분기 사상 최대 실적이다. 서비스별로 보 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[소프트스피어, 메타 콘텐츠 오픈 플랫폼 메타브 정식 오픈]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8650</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 25 Apr 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 네이버쇼핑, 커머스 시장 둔화에도 `우성장` 기록  이커머스 시장의 성장세가 둔화된 상황에도 네이버는 1분기 커머스 부문 매출 4,161억 원을 올렸다. 전년 동기 대비 28.3% 상승한 수치다. 거래액은 택배 파업과 계절적 영향에 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_338eb249c622ebac2969a669f7bb8348_11425_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앱스플라이어 , 애플 ATT가 국내 광고, 특히 타기팅 광고에 영향 줄 것]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8622</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8622</guid>
-            <pubDate>Sun, 24 Apr 2022 09:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 마케팅 성과 측정 플랫폼 앱스플라이어의 분석 결과, 국내 마케터 대다수가 애플의 앱 추적 투명성(이하 ATT) 도입에 대해 인지하고 채널 및 플랫폼을 조정하거나 모바일 광고 예산을 변경하는 등 다양한 방법으로 조치를 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

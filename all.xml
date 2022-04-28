@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 06:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 07:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,18 +168,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-74668-2590</link>
-            <guid>https://www.i-boss.co.kr/ab-74668-2590</guid>
-            <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[다이티]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[전형적인 중소 vs 신세대 중소(선택 고민) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38750</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38750</guid>
             <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마사초]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-74668-2590</link>
+            <guid>https://www.i-boss.co.kr/ab-74668-2590</guid>
+            <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[다이티]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1위는 인스타그램이 아니라고? (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57661</guid>
             <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[르와즈]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제일기획, 1분기 영업이익 585억 원... 전년比 43% (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8652</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8652</guid>
+            <pubDate>Thu, 28 Apr 2022 07:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[제일기획(대표이사 사장 유정근)이 1분기 매출총이익 3,349억 원, 영업이익 585억 원의 실적을 기록했다고 28일 발표했다. 전년 동기 대비 매출총이익은 23%, 영업이익은 43% 증가한 수치로 1분기 사상 최대 실적이다. 서비스별로 보 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[소프트스피어, 메타 콘텐츠 오픈 플랫폼 메타브 정식 오픈 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_338eb249c622ebac2969a669f7bb8348_11425_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[앱스플라이어 , 애플 ATT가 국내 광고, 특히 타기팅 광고에 영향 줄 것 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8622</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8622</guid>
-            <pubDate>Sun, 24 Apr 2022 09:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 마케팅 성과 측정 플랫폼 앱스플라이어의 분석 결과, 국내 마케터 대다수가 애플의 앱 추적 투명성(이하 ATT) 도입에 대해 인지하고 채널 및 플랫폼을 조정하거나 모바일 광고 예산을 변경하는 등 다양한 방법으로 조치를 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[제일기획, 1분기 영업이익 585억 원... 전년比 43%↑ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8652</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8652</guid>
+            <pubDate>Thu, 28 Apr 2022 07:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소프트스피어, 메타 콘텐츠 오픈 플랫폼 ‘메타브’ 정식 오픈 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[앱스플라이어 , "애플 ATT가 국내 광고, 특히 타기팅 광고에 영향 줄 것" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8622</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8622</guid>
-            <pubDate>Sun, 24 Apr 2022 09:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 페이스북 광고가 승인되지 않는 사례는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 28 Apr 2022 06:27:48 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2022 07:18:10 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 페이스북 광고가 승인되지 않는 사례는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/e7ae12ecdc3962ed24e041902bbc2e88_16505257548862.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
