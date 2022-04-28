@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 02:06:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 04:26:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,18 +224,18 @@
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[직장인을 위한 오피스 실무서! `무작정 따라하기 엑.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-453</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-453</guid>
-            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 마케터 탈룰라 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38815</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38815</guid>
             <pubDate>Thu, 14 Apr 2022 06:22:48 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[직장인을 위한 오피스 실무서! `무작정 따라하기 엑.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-453</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-453</guid>
+            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[신입 블로거라면 무조건 도움이 될 노출 방법 ( 응애 .. (아이보스 ─ 인기글)]]></title>
@@ -266,11 +266,11 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[MD와 마케터 이도저도 아닌 나 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38817</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38817</guid>
-            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[모야야]]></content:encoded>
+            <title><![CDATA[‘이것’ 만 알면 기본은 하는 카드뉴스 디자인! 1탄! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57632</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57632</guid>
+            <pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[흥미진진]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[파는 제품이 아니라 파는 가치를 생각한다 `행복을 .. (아이보스 ─ 인기글)]]></title>
@@ -278,6 +278,13 @@
             <guid>https://www.i-boss.co.kr/ab-2973-457</guid>
             <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MD와 마케터 이도저도 아닌 나 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38817</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38817</guid>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[모야야]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[첫출근!! 병아리 퍼포먼스 마케터 도와주세요 ㅜㅜ (아이보스 ─ 인기글)]]></title>
@@ -294,11 +301,11 @@
             <content:encoded><![CDATA[르와즈]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘이것’ 만 알면 기본은 하는 카드뉴스 디자인! 1탄! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57632</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57632</guid>
-            <pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[흥미진진]]></content:encoded>
+            <title><![CDATA[네이버 vs 다윈중개... 경쟁사 크롤링은 합법일까? 불.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57646</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57646</guid>
+            <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구글애널리틱스4(GA4) 초기 세팅 사항 (아이보스 ─ 인기글)]]></title>
@@ -306,13 +313,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57548</guid>
             <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[데이터분석]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네이버 vs 다윈중개... 경쟁사 크롤링은 합법일까? 불.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57646</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57646</guid>
-            <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[고객이 입소문 내는 회사의 7가지 법칙 (아이보스 ─ 인기글)]]></title>
@@ -593,28 +593,28 @@
             <title><![CDATA[소프트스피어, 메타 콘텐츠 오픈 플랫폼 ‘메타브’ 정식 오픈 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8650</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8650</guid>
-            <pubDate>Thu, 28 Apr 2022 02:05:44 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2022 09:12:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[메타, 첫 오프라인 매장 다음달에 연다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8649</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8649</guid>
-            <pubDate>Thu, 28 Apr 2022 02:05:44 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2022 08:51:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[액센츄어, 엑센츄어 송 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8648</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8648</guid>
-            <pubDate>Thu, 28 Apr 2022 02:05:44 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2022 08:49:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[트렌드모니터] 프로야구 인기 방역 완화로 기지개 켤 수 있을까 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8647</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8647</guid>
-            <pubDate>Thu, 28 Apr 2022 02:05:44 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2022 08:49:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 페이스북 광고가 승인되지 않는 사례는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 28 Apr 2022 02:05:55 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2022 04:26:21 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 페이스북 광고가 승인되지 않는 사례는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/e7ae12ecdc3962ed24e041902bbc2e88_16505257548862.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
