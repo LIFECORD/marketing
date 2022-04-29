@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-29T08:25:17.321Z</updated>
+    <updated>2022-04-29T09:20:16.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[매출 15억 찍고 망한썰 그리고 배운점. 저처럼 하지 ..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57492</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57492"/>
-        <updated>2022-03-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[REBEL]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[UA 잘가! GA4 어서와!]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57505</id>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57550"/>
         <updated>2022-04-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[yoorok]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인플루언서 브랜드는 왜 잘되기 어려울까]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57567</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57567"/>
+        <updated>2022-04-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[jinhorus]]></content>
     </entry>
 </feed>
