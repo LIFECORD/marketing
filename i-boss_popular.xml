@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-29T01:41:36.500Z</updated>
+    <updated>2022-04-29T03:27:05.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[1급 SNS광고마케터가 되어보자! `SNS광고마케터 1급` 도..]]></title>
-        <id>https://www.i-boss.co.kr/ab-2973-452</id>
-        <link href="https://www.i-boss.co.kr/ab-2973-452"/>
-        <updated>2022-03-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[당첨대쓔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유 크림으로 월 20억 매출 내다가 망한 썰]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57487</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57487"/>
-        <updated>2022-03-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[jinhorus]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[매출 15억 찍고 망한썰 그리고 배운점. 저처럼 하지 ..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57492</id>
@@ -76,18 +62,18 @@
         <content type="html"><![CDATA[미선성]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2년차 눈팅족, 그동안 감사했습니다.]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38838</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38838"/>
-        <updated>2022-04-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[64321647]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[마케터가 알면 좋은 성장단계 3가지]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57563</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57563"/>
         <updated>2022-04-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[근육돌이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2년차 눈팅족, 그동안 감사했습니다.]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38838</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38838"/>
+        <updated>2022-04-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[64321647]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마케팅밈] 마케터 탈룰라]]></title>
@@ -139,18 +125,18 @@
         <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쉿! 보스님만 알고 계세요. 지금 팔리는 것들의 비밀]]></title>
-        <id>https://www.i-boss.co.kr/ab-5637-31</id>
-        <link href="https://www.i-boss.co.kr/ab-5637-31"/>
-        <updated>2022-03-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[마케팅밈] 대행사 마케터는 정말 이래?]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38922</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38922"/>
         <updated>2022-04-28T06:27:05.888Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쉿! 보스님만 알고 계세요. 지금 팔리는 것들의 비밀]]></title>
+        <id>https://www.i-boss.co.kr/ab-5637-31</id>
+        <link href="https://www.i-boss.co.kr/ab-5637-31"/>
+        <updated>2022-03-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MD와 마케터 이도저도 아닌 나]]></title>
@@ -214,5 +200,19 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57550"/>
         <updated>2022-04-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[yoorok]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인플루언서 브랜드는 왜 잘되기 어려울까]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57567</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57567"/>
+        <updated>2022-04-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[jinhorus]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이런 서비스가 있긴 있나요?]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38782</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38782"/>
+        <updated>2022-04-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[설인의추석]]></content>
     </entry>
 </feed>

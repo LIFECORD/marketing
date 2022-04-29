@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 01:41:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 03:27:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -140,20 +140,6 @@
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_916848.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[1급 SNS광고마케터가 되어보자! `SNS광고마케터 1급` 도.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-452</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-452</guid>
-            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아이유 크림으로 월 20억 매출 내다가 망한 썰 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57487</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57487</guid>
-            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[jinhorus]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[매출 15억 찍고 망한썰 그리고 배운점. 저처럼 하지 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57492</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57492</guid>
@@ -210,18 +196,18 @@
             <content:encoded><![CDATA[미선성]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2년차 눈팅족, 그동안 감사했습니다. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38838</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38838</guid>
-            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[64321647]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케터가 알면 좋은 성장단계 3가지 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57563</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57563</guid>
             <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2년차 눈팅족, 그동안 감사했습니다. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38838</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38838</guid>
+            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[64321647]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 마케터 탈룰라 (아이보스 ─ 인기글)]]></title>
@@ -273,18 +259,18 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쉿! 보스님만 알고 계세요. 지금 팔리는 것들의 비밀 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-5637-31</link>
-            <guid>https://www.i-boss.co.kr/ab-5637-31</guid>
-            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 대행사 마케터는 정말 이래? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38922</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38922</guid>
             <pubDate>Thu, 28 Apr 2022 06:27:05 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쉿! 보스님만 알고 계세요. 지금 팔리는 것들의 비밀 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-5637-31</link>
+            <guid>https://www.i-boss.co.kr/ab-5637-31</guid>
+            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MD와 마케터 이도저도 아닌 나 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +334,20 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57550</guid>
             <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[yoorok]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인플루언서 브랜드는 왜 잘되기 어려울까 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57567</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57567</guid>
+            <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[jinhorus]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이런 서비스가 있긴 있나요? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38782</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38782</guid>
+            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[설인의추석]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[GroupM, 산하 에이전시 합병으로 글로벌 미디어 혁신을 꾀하다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -593,21 +593,21 @@
             <title><![CDATA[GroupM, 산하 에이전시 합병으로 글로벌 미디어 혁신을 꾀하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8655</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8655</guid>
-            <pubDate>Fri, 29 Apr 2022 01:41:16 GMT</pubDate>
+            <pubDate>Fri, 29 Apr 2022 08:50:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국광고총연합회 x 코바코, 디지털트렌드를 반영한 광고의 새로운 정의와 범위 연구 착수 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8654</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8654</guid>
-            <pubDate>Fri, 29 Apr 2022 01:41:16 GMT</pubDate>
+            <pubDate>Fri, 29 Apr 2022 08:49:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[앱스플라이어, "iOS 14+에서의 앱 마케팅, 중복 집계 없이 효율적으로 예산을 쓰는 방법" 웨비나 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8653</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8653</guid>
-            <pubDate>Fri, 29 Apr 2022 01:41:16 GMT</pubDate>
+            <pubDate>Fri, 29 Apr 2022 08:48:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 인스타그램 비즈니스 계정에 추가할 수 있는 행동유도 버튼이 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 29 Apr 2022 01:41:27 GMT</pubDate>
+            <pubDate>Fri, 29 Apr 2022 03:26:57 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 인스타그램 비즈니스 계정에 추가할 수 있는 행동유도 버튼이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
