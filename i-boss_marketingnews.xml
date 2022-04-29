@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 06:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 07:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 플레이스 리뷰 키워드개편...내 가게 맞춰 직접 구성]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8657</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8657</guid>
+            <pubDate>Fri, 29 Apr 2022 07:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[네이버는 오프라인 중소상공인(SME)이 내 가게 리뷰 키워드 셋(Set)을 직접 설정할 수 있도록 기능을 개선했다고 29일 밝혔다.   지난 2021년 7월 출시된 키워드 리뷰는 오프라인 SME 특징과 고충을 반영해 네이버가 리뷰 문화 개선의  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_7231012d21def8e8fcf962ef77d9e85d_60007_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[GroupM, 산하 에이전시 합병으로 글로벌 미디어 혁신을 꾀하다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8655</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8627</guid>
             <pubDate>Mon, 25 Apr 2022 09:17:00 GMT</pubDate>
             <content:encoded><![CDATA[이노션 월드와이드(대표이사 이용우, 이하 이노션)는 글로벌 TOP 수준의 VFX(시각특수효과) 스튜디오인 더 밀(The Mill)과 파트너십 구축을 위한 양해각서(MOU)를 체결했다고 25일 밝혔다. 이노션 글로벌 CEO인 이용우 대표이사와 더 밀 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외 크리이에티브] 시각 장애인을 위한 TV 광고를 만드는 방법]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8626</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8626</guid>
-            <pubDate>Mon, 25 Apr 2022 08:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[마스터카드는시각 장애인 및 부분 시각 장애인을 위한 접근 가능한 카드인 터치 카드를 출시했다. 현재많은 카드가 이름과 숫자가 양각되지 않은 평평한 표면에 인쇄된현대적이고 단순한 디자인을 채택하고 있다. 이는 시각 장 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

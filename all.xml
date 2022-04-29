@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 06:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 07:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -245,18 +245,18 @@
             <content:encoded><![CDATA[르와즈]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘이것’ 만 알면 기본은 하는 카드뉴스 디자인! 1탄! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57632</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57632</guid>
-            <pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[흥미진진]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 대행사 마케터는 정말 이래? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38922</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38922</guid>
             <pubDate>Thu, 28 Apr 2022 06:27:05 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘이것’ 만 알면 기본은 하는 카드뉴스 디자인! 1탄! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57632</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57632</guid>
+            <pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[흥미진진]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[파는 제품이 아니라 파는 가치를 생각한다 `행복을 .. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8633</guid>
             <pubDate>Tue, 26 Apr 2022 10:19:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네이버 플레이스 리뷰 키워드개편...내 가게 맞춰 직접 구성 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8657</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8657</guid>
+            <pubDate>Fri, 29 Apr 2022 07:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[네이버는 오프라인 중소상공인(SME)이 내 가게 리뷰 키워드 셋(Set)을 직접 설정할 수 있도록 기능을 개선했다고 29일 밝혔다.   지난 2021년 7월 출시된 키워드 리뷰는 오프라인 SME 특징과 고충을 반영해 네이버가 리뷰 문화 개선의  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_7231012d21def8e8fcf962ef77d9e85d_60007_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[GroupM, 산하 에이전시 합병으로 글로벌 미디어 혁신을 꾀하다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[해외 크리이에티브] 시각 장애인을 위한 TV 광고를 만드는 방법 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8626</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8626</guid>
-            <pubDate>Mon, 25 Apr 2022 08:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[마스터카드는시각 장애인 및 부분 시각 장애인을 위한 접근 가능한 카드인 터치 카드를 출시했다. 현재많은 카드가 이름과 숫자가 양각되지 않은 평평한 표면에 인쇄된현대적이고 단순한 디자인을 채택하고 있다. 이는 시각 장 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[네이버 플레이스 '리뷰 키워드'개편...내 가게 맞춰 직접 구성 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8657</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8657</guid>
+            <pubDate>Fri, 29 Apr 2022 07:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[GroupM, 산하 에이전시 합병으로 글로벌 미디어 혁신을 꾀하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[해외 크리이에티브] 시각 장애인을 위한 TV 광고를 만드는 방법 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8626</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8626</guid>
-            <pubDate>Mon, 25 Apr 2022 08:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 인스타그램 비즈니스 계정에 추가할 수 있는 행동유도 버튼이 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 29 Apr 2022 06:23:50 GMT</pubDate>
+            <pubDate>Fri, 29 Apr 2022 07:18:58 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 인스타그램 비즈니스 계정에 추가할 수 있는 행동유도 버튼이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
