@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 10:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 11:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[코바코, NFT 사업을 위해 22세기미디어와 업무협약 체결 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8658</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8658</guid>
+            <pubDate>Fri, 29 Apr 2022 11:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코)는 새롭게 등장하는 신기술을 광고에 적용하기 위한 끊임없는 혁신의 일환으로28일 한국프레스센터에서 `22세기미디어`와 NFT(대체불가토큰)를 활용한 공동사업 추진을 위한업무협약을 체결 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[네이버 플레이스 리뷰 키워드개편...내 가게 맞춰 직접 구성 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8657</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8657</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2152cede2203d9c9721968439d9a0f1e_38417_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이노션, 디지털 크리에이티브 역량 강화 위해 글로벌 TOP VFX 스튜디오 The MILL과 MOU 체결 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8627</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8627</guid>
-            <pubDate>Mon, 25 Apr 2022 09:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[이노션 월드와이드(대표이사 이용우, 이하 이노션)는 글로벌 TOP 수준의 VFX(시각특수효과) 스튜디오인 더 밀(The Mill)과 파트너십 구축을 위한 양해각서(MOU)를 체결했다고 25일 밝혔다. 이노션 글로벌 CEO인 이용우 대표이사와 더 밀 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[코바코, NFT 사업을 위해 ‘22세기미디어’와 업무협약 체결 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8658</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8658</guid>
+            <pubDate>Fri, 29 Apr 2022 11:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버 플레이스 '리뷰 키워드'개편...내 가게 맞춰 직접 구성 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이노션, 디지털 크리에이티브 역량 강화 위해 글로벌 TOP VFX 스튜디오 ‘The MILL’과 MOU 체결 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8627</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8627</guid>
-            <pubDate>Mon, 25 Apr 2022 09:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 인스타그램 비즈니스 계정에 추가할 수 있는 행동유도 버튼이 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 29 Apr 2022 10:20:01 GMT</pubDate>
+            <pubDate>Fri, 29 Apr 2022 11:16:27 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 인스타그램 비즈니스 계정에 추가할 수 있는 행동유도 버튼이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
