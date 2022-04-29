@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 07:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 08:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -322,6 +322,20 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[한국인이 가장 많이 사용하는 쇼핑 앱은? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8633</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8633</guid>
+            <pubDate>Tue, 26 Apr 2022 10:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[클럽하우스에서 만난 성공한 CEO들의 공통점 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57641</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57641</guid>
+            <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[jinhorus]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[원가, 마진을 다 공개하는 아웃도어 브랜드 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57661</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57661</guid>
@@ -334,20 +348,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57550</guid>
             <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[yoorok]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[클럽하우스에서 만난 성공한 CEO들의 공통점 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57641</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57641</guid>
-            <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[jinhorus]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국인이 가장 많이 사용하는 쇼핑 앱은? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8633</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8633</guid>
-            <pubDate>Tue, 26 Apr 2022 10:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버 플레이스 리뷰 키워드개편...내 가게 맞춰 직접 구성 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -593,7 +593,7 @@
             <title><![CDATA[네이버 플레이스 '리뷰 키워드'개편...내 가게 맞춰 직접 구성 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8657</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8657</guid>
-            <pubDate>Fri, 29 Apr 2022 07:18:48 GMT</pubDate>
+            <pubDate>Fri, 29 Apr 2022 07:18:37 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 인스타그램 비즈니스 계정에 추가할 수 있는 행동유도 버튼이 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 29 Apr 2022 07:18:58 GMT</pubDate>
+            <pubDate>Fri, 29 Apr 2022 08:25:08 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 인스타그램 비즈니스 계정에 추가할 수 있는 행동유도 버튼이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
