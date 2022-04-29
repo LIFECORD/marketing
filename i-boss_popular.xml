@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-29T18:24:52.985Z</updated>
+    <updated>2022-04-29T20:20:33.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -174,18 +174,18 @@
         <content type="html"><![CDATA[데이터분석]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[네컷 사진이 사람들의 마음을 사로잡은 이유 📷]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57630</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57630"/>
-        <updated>2022-04-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[한국인이 가장 많이 사용하는 쇼핑 앱은?]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8633</id>
         <link href="https://www.i-boss.co.kr/ab-2877-8633"/>
         <updated>2022-04-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네컷 사진이 사람들의 마음을 사로잡은 이유 📷]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57630</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57630"/>
+        <updated>2022-04-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[클럽하우스에서 만난 성공한 CEO들의 공통점]]></title>
