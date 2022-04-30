@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 23:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 01:45:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -259,13 +259,6 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쉿! 보스님만 알고 계세요. 지금 팔리는 것들의 비밀 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-5637-31</link>
-            <guid>https://www.i-boss.co.kr/ab-5637-31</guid>
-            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[MD와 마케터 이도저도 아닌 나 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38817</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38817</guid>
@@ -308,18 +301,18 @@
             <content:encoded><![CDATA[데이터분석]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국인이 가장 많이 사용하는 쇼핑 앱은? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8633</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8633</guid>
-            <pubDate>Tue, 26 Apr 2022 10:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네컷 사진이 사람들의 마음을 사로잡은 이유 📷 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57630</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57630</guid>
             <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한국인이 가장 많이 사용하는 쇼핑 앱은? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8633</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8633</guid>
+            <pubDate>Tue, 26 Apr 2022 10:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[클럽하우스에서 만난 성공한 CEO들의 공통점 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +341,45 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57567</guid>
             <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[키스미가 일하는 남다른 방식 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57657</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57657</guid>
+            <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[jinhorus]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[똑똑해진 네이버 이미지 검색... 멀티모달 AI 탑재한 스마트렌즈 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8662</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8662</guid>
+            <pubDate>Sat, 30 Apr 2022 10:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[네이버의AI검색`에어서치`가 멀티모달AI를 탑재하며 더욱 고도화된다. 네이버는 최근 국내외 학계 및 업계에서 주목하고 있는멀티모달AI모델을 자사의 딥러닝 기반 이미지 검색 서비스인`스마트렌즈`에 적용했다고28일 밝혔다.  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인포그래픽] 전자상거래 전환율이 가장 높은 디바이스는? (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8661</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8661</guid>
+            <pubDate>Sat, 30 Apr 2022 09:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19로 인해 촉발된 디지털화는 전자상거래의 성장을 가속화했다. 전자상거래는 다양한 디바이스를 통해 이뤄지기 때문에 접근성이 매우 좋다. 전자상거래에서는 전환율이 중요한 지표인데, 디바이스별로 어떤 모습을 띄 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[틱톡, 질 높은 콘텐츠를 꾸준히 포스팅한 스포츠 리그와 스트리밍 퍼블리셔가 가장 많은 신규 팔로워 확보 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8660</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8660</guid>
+            <pubDate>Sat, 30 Apr 2022 09:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[스트리밍 미디어용 연속 측정 분석 플랫폼 콘비바(Conviva)가 1500개 이상의 틱톡 브랜드 계정과 팔로워 14억2000만명, 포스팅 영상 59만1000건을 조사한 3번째 연례 틱톡 평가 기준 및 전략 가이드(TikTok Benchmarks &amp; Strategy Guide) 보고서를  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[트렌드모니터] 결혼에 대한 생각 줄었으나, 격식에 대한 욕심 커져 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8659</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8659</guid>
+            <pubDate>Sat, 30 Apr 2022 09:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[결혼 계획, 이전 대비 감소한 모습...결혼 및 출산에 대한 부담감 나타나  시장조사전문기업 엠브레인 트렌드모니터가 전국의 만 19~45세 미혼 남녀 1,200명을 대상으로 2022 결혼식 관련 인식 조사를 실시한 결과 향후 결혼 계획이  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[코바코, NFT 사업을 위해 22세기미디어와 업무협약 체결 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -558,36 +590,32 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[서울시-SBA, K-패션, 테크로 트렌드를 선도하자! 패션산업 융복합 기술사업화 지원 사업 참여 기업 모집 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8631</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8631</guid>
-            <pubDate>Tue, 26 Apr 2022 10:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[서울시와 서울시의 중소기업 기술 개발 및 사업화 지원 기관인 서울산업진흥원(SBA,대표이사 김현우)은 서울시 패션산업의 경쟁력을 강화하고,동대문 패션타운 생태계 활성화를 도모하기 위해 2022년도 패션산업 융복합 기술사 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[똑똑해진 네이버 이미지 검색... ‘멀티모달 AI’ 탑재한 스마트렌즈 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8662</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8662</guid>
+            <pubDate>Sat, 30 Apr 2022 01:45:04 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[Trend from Tokyo] 디지털 기술을 새롭게 태어난 택시 합승제 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8630</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8630</guid>
-            <pubDate>Tue, 26 Apr 2022 08:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[택시 합승의 추억  70, 80년대 택시를 이용한 사람이라면 택시를 합승한 경험을 기억할 것이다. 택시 합승이란 승객이 타고 있는 택시에 방향이 같은 다른 손님이 택시를 세울 경우 그 손님도 함께 택시에 태우고 가는 것을 말한 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[인포그래픽] 전자상거래 전환율이 가장 높은 디바이스는? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8661</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8661</guid>
+            <pubDate>Sat, 30 Apr 2022 01:45:04 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[4월 26일 마케팅 뉴스클리핑] 당근배민서도 클릭당 광고 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8628</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8628</guid>
-            <pubDate>Tue, 26 Apr 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 당근배민서도 클릭당 광고  네이버 파워링크로 대표되던 CPC가 앱 영역까지 넘어오고 있다. 네이버와 다음 등 포털이 점유하던 광고 검색 시장의 주도권이 흔들릴 조짐이 보인다. 한정된 화면 안에서 검색 노출 빈도를 높이려 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0e6fff47c58382891a1431e882680f9a_9151_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[틱톡, 질 높은 콘텐츠를 꾸준히 포스팅한 스포츠 리그와 스트리밍 퍼블리셔가 가장 많은 신규 팔로워 확보 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8660</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8660</guid>
+            <pubDate>Sat, 30 Apr 2022 01:45:04 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인스타그램, 릴스 영상 복사 기능 시범 적용 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8629</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8629</guid>
-            <pubDate>Mon, 25 Apr 2022 08:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[소수 이용자 대상 테스트...`다른 릴스 영상 활용해 릴스 제작 가능`  인스타그램이 다른 릴스 영상 포맷을 복사해 자신의 릴스로 만들 수 있는 기능을 시범 도입했다.  비즈니스인사이더, 테크크런치 등 외신은 22일(현지시간) 인 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2152cede2203d9c9721968439d9a0f1e_38417_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[트렌드모니터] 결혼에 대한 생각 줄었으나, "격식"에 대한 욕심 커져 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8659</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8659</guid>
+            <pubDate>Sat, 30 Apr 2022 01:45:04 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코바코, NFT 사업을 위해 ‘22세기미디어’와 업무협약 체결 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -772,38 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[서울시-SBA, “K-패션, 테크로 트렌드를 선도하자!” 패션산업 융복합 기술사업화 지원 사업 참여 기업 모집 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8631</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8631</guid>
-            <pubDate>Tue, 26 Apr 2022 10:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[Trend from Tokyo] 디지털 기술을 새롭게 태어난 택시 합승제 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8630</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8630</guid>
-            <pubDate>Tue, 26 Apr 2022 08:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[4월 26일 마케팅 뉴스클리핑] 당근·배민서도 클릭당 광고 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8628</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8628</guid>
-            <pubDate>Tue, 26 Apr 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인스타그램, '릴스' 영상 복사 기능 시범 적용 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8629</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8629</guid>
-            <pubDate>Mon, 25 Apr 2022 08:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 인스타그램 비즈니스 계정에 추가할 수 있는 행동유도 버튼이 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 29 Apr 2022 23:19:13 GMT</pubDate>
+            <pubDate>Sat, 30 Apr 2022 01:45:18 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 인스타그램 비즈니스 계정에 추가할 수 있는 행동유도 버튼이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
