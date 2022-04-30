@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 09:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 10:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 D.P. 원작자, 삼성전자와 컬래버 웹툰 수상한 연구실 공개]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8663</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8663</guid>
+            <pubDate>Sat, 30 Apr 2022 10:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 드라마 D.P.의 원작자인 김보통 작가가 삼성전자와 특별한 프로젝트를 진행한다. 삼성전자가 조(兆)단위 투자를 하고 있는 미래기술 연구를 웹툰으로 선보다. 삼성전자는 김 작가의 미스터리 정보기술(IT)과학 웹툰 `수 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[똑똑해진 네이버 이미지 검색... 멀티모달 AI 탑재한 스마트렌즈 공개]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8662</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 26 Apr 2022 10:19:00 GMT</pubDate>
             <content:encoded><![CDATA[2022년 3월에 한국인이 가장 많이 사용한 쇼핑 앱은 쿠팡, 11번가, G마켓, 에이블리, 오늘의집 순 10대와 20대는 전문몰, 40대와 50대 이상은 종합몰 이용이 활발, 모든 세대에 걸쳐 1위는 쿠팡     앱/리테일 분석서비스 와이즈앱리테 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d92dc0d3ca5cf4be588c400b3359439d_26895_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[데이팅 앱, 팬데믹에 오히려 이용자 늘었다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8632</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8632</guid>
-            <pubDate>Tue, 26 Apr 2022 10:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[SK그룹의 디지털 광고 전문기업 인크로스는 국내 주요 데이팅 앱 이용 추이를 분석한 미디어 데이터 클리핑 리포트를26일 발표했다.인크로스에 따르면 팬데믹 기간 동안 데이팅 앱 이용자 수는 지속적으로 증가했다. 인크로스가 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
