@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 15:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 16:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -266,6 +266,13 @@
             <content:encoded><![CDATA[쩔뚝22]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[아웃풋이 아닌 프로세스를 파는 새로운 가치 전략 `.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-460</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-460</guid>
+            <pubDate>Thu, 28 Apr 2022 10:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[네이버 vs 다윈중개... 경쟁사 크롤링은 합법일까? 불.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57646</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57646</guid>
@@ -278,13 +285,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57579</guid>
             <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[르와즈]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아웃풋이 아닌 프로세스를 파는 새로운 가치 전략 `.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-460</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-460</guid>
-            <pubDate>Thu, 28 Apr 2022 10:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구글애널리틱스4(GA4) 초기 세팅 사항 (아이보스 ─ 인기글)]]></title>
