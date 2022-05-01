@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-05-01T06:23:20.328Z</updated>
+    <updated>2022-05-01T07:18:37.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -195,18 +195,18 @@
         <content type="html"><![CDATA[jinhorus]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[키스미가 일하는 남다른 방식]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57657</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57657"/>
-        <updated>2022-04-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[jinhorus]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[돈을 버는 방법의 진화 과정]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38920</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38920"/>
         <updated>2022-04-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[식자재중개플렛폼]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키스미가 일하는 남다른 방식]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57657</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57657"/>
+        <updated>2022-04-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[jinhorus]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[맛의고수 양념 차돌박이 첨맛본맵단맛 2팩]]></title>
