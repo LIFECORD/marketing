@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 22:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 23:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[5월 2일 마케팅 뉴스클리핑] 네이버 쇼핑검색광고 지면 확대... 광고커머스 연계 강화 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8656</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8656</guid>
+            <pubDate>Mon, 02 May 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버 쇼핑검색광고 지면 확대... 광고커머스 연계 강화  네이버가 쇼핑 특화 검색광고 상품인 쇼핑검색광고 노출 지면을 확대한다. 네이버는 오는 5월 3일부터 모바일과 PC 네이버페이 주문 완료 페이지 하단에서도 광고가  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a3e07ece249c438dd44823f0d9f88dab_54890_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1분기 강력한 성장세를 기록한 WPP, 올해 성장률 상향 조정]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8668</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8639</guid>
             <pubDate>Wed, 27 Apr 2022 08:38:00 GMT</pubDate>
             <content:encoded><![CDATA[광고 마케팅 업계는 항상 트렌드를 놓치지 않고 새로운 기술, 크리에이티브에 대한 탐구를 놓치지 않는다. 그래서 광고인, 마케터에게 좋은 컨퍼런스나 이벤트는 매우 중요하다. 그러나 코로나로 인해 오프라인 행사들이 취소 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[유통업계, 업계 큰손으로 떠오른 MZ세대 취향 저격하는 워너비 모델 발탁... 배우부터 캐릭터까지]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8638</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8638</guid>
-            <pubDate>Wed, 27 Apr 2022 08:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근유통업계가MZ세대의마음을사로잡기위해이들의워너비(Wannabe)를잇달아모델로발탁하고있다.국내소비시장에서큰손으로떠오른MZ세대의공감대를쉽게이끌어내기위함이다.실제우리나라인구중32%를차지하는2030의소비구매력은 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
