@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 23:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 01:58:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -259,18 +259,18 @@
             <content:encoded><![CDATA[모야야]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[첫출근!! 병아리 퍼포먼스 마케터 도와주세요 ㅜㅜ (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38764</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38764</guid>
-            <pubDate>Sun, 03 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쩔뚝22]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[아웃풋이 아닌 프로세스를 파는 새로운 가치 전략 `.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-460</link>
             <guid>https://www.i-boss.co.kr/ab-2973-460</guid>
             <pubDate>Thu, 28 Apr 2022 10:21:04 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[첫출근!! 병아리 퍼포먼스 마케터 도와주세요 ㅜㅜ (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38764</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38764</guid>
+            <pubDate>Sun, 03 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쩔뚝22]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버 vs 다윈중개... 경쟁사 크롤링은 합법일까? 불.. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,46 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38920</guid>
             <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[식자재중개플렛폼]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1분기 강력한 성장세를 기록한 WPP, 올해 성장률 상향 조정 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8668</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8668</guid>
+            <pubDate>Sun, 01 May 2022 09:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[WPP는 1분기 9.5%의 유기적 수익 성장률을 발표하면서 올해 성장률 전망치를 5.5~6.5%로 상향 조정했다. 이전에는 연간 약 5%의 성장률을 예상했었다. WPP를 비롯한 옴니콤,IPG 등 대형 광고지주회사는 모두 연중 성장률 전망을 상향 조 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[옴니콤, 2022년 1분기 약 12% 성장... 2022년 연간 성장률 상향 조정 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8667</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8667</guid>
+            <pubDate>Sun, 01 May 2022 09:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[옴니콤 그룹은 2022년1분기11.9%의 강력한 유기적 수익 성장률을 기록했다. 반면, 총수익은 34억 달러로 0.5%포인트 감소했다. 부정적인 영향을 미치는 환율 변동과 전년 동기 대비 M&amp;A 수익 감소가 원인이었다. 또한우크라이나 전쟁 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[IPG 1분기 실적, 애널리스트 기대치 상회... 2022년 성장률 6%로 상향 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8666</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8666</guid>
+            <pubDate>Sun, 01 May 2022 09:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[인터퍼블릭 그룹(Interpublic Group)이 코로나19 팬데믹에서 강한 회복 신호를 보여주는 1분기 실적을 발표했다. 2022년 1분기 22억 3000만 달러의 순수익은 2021년 1분기의 20억 3000만 달러에 비해 9.8% 증가했다. 해당 분기 동안 유기적 순 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[아마존, 1분기 광고 수익 23% 급증, 디지털 빅 3 중 가장 좋은 성과 기록 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8665</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8665</guid>
+            <pubDate>Sun, 01 May 2022 09:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 1분기 아마존 광고 수익이78억 7700만 달러로 2021년 같은 분기보다 23.4% 증가했다고 미디어포스트가 보도했다.이는 빅3 디지털 미디어인23.3% 증가한 구글과 6.1% 증가한 페이스북을 모두 능가한 성과다. 그러나 아마존의 광고  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인포그래픽] 2021년에 가장 많은 특허를 받은 회사 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8664</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8664</guid>
+            <pubDate>Sun, 01 May 2022 09:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 기업들이 제품과 서비스의 혁신을 위해R&amp;D에 수십억 달러를 투자하고 있다. 기업들은 이러한 투자를 보호하기 위해 특허를 출원한다. 따라서 기업이 부여받은 실용특허의 수는 기업의 혁신 수준을 가늠하는 대략적인 척 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스 D.P. 원작자, 삼성전자와 컬래버 웹툰 수상한 연구실 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -550,44 +590,39 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[한국갤럽] 2022년 4월 한국인이 좋아하는 TV프로그램 1위: 유 퀴즈 온 더 블럭 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8637</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8637</guid>
-            <pubDate>Wed, 27 Apr 2022 08:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국갤럽이 2022년 4월 19~21일 전국 만 18세 이상 1,000명에게 요즘 가장 즐겨보는 TV프로그램을 물은 결과(2개까지 자유응답), tvN의 수요일 저녁 예능유 퀴즈 온 더 블럭 이 선호도 6.1%로 1위를 차지했다. tvN 예능 중에서는 신서유기(2 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[1분기 강력한 성장세를 기록한 WPP, 올해 성장률 상향 조정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8668</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8668</guid>
+            <pubDate>Sun, 01 May 2022 01:58:27 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[4월 27일 마케팅 뉴스클리핑] 페이스북 첫 오프라인 매장 메타스토어 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8635</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8635</guid>
-            <pubDate>Wed, 27 Apr 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 페이스북 첫 오프라인 매장 `메타스토어`  페이스북의 모회사 메타플랫폼이 메타버스를 체험할 수 있는 오프라인 매장을 연다. 이번 조치는 메타버스 기업으로 전환을 선언한 뒤 고객들이 가상현실(VR) 기기인 `퀘스트` 등을  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_42cc6d83aaa1f67fcac09ca5ae674cf2_21056_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[옴니콤, 2022년 1분기 약 12% 성장... 2022년 연간 성장률 상향 조정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8667</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8667</guid>
+            <pubDate>Sun, 01 May 2022 01:58:27 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[예비광고인들의 광고업계 등용문 한국광고아카데미 7기 모집 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8636</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8636</guid>
-            <pubDate>Tue, 26 Apr 2022 12:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[한국광고총연합회(회장 김낙회)는광고업계에서 필요로 하는 실무 능력을 갖춘 글로벌 광고 인재를 양성하는 한국광고아카데미교육생을4월 25일부터 29일까지 모집한다. 문화체육관광부가 주최하고 한국광고총연합회가 주관하 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[IPG 1분기 실적, 애널리스트 기대치 상회... 2022년 성장률 6%로 상향 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8666</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8666</guid>
+            <pubDate>Sun, 01 May 2022 01:58:27 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[KAI] 5월 가정의 달, 방역완화성수기 대비 광고 캠페인 활발로 광고시장도 훈훈해져 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8634</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8634</guid>
-            <pubDate>Tue, 26 Apr 2022 04:31:17 GMT</pubDate>
-            <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코, 사장 이백만)는 2022년 5월의 광고경기를 전망하는 광고경기전망지수(KAI ; Korea Advertising Index)를 106.9로 발표했다. 통계청 국가승인통계인 광고경기전망지수(KAI)는 매월 국내 570여 개 광고주에 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[아마존, 1분기 광고 수익 23% 급증, 디지털 빅 3 중 가장 좋은 성과 기록 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8665</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8665</guid>
+            <pubDate>Sun, 01 May 2022 01:58:27 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국인이 가장 많이 사용하는 쇼핑 앱은? (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8633</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8633</guid>
-            <pubDate>Tue, 26 Apr 2022 10:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 3월에 한국인이 가장 많이 사용한 쇼핑 앱은 쿠팡, 11번가, G마켓, 에이블리, 오늘의집 순 10대와 20대는 전문몰, 40대와 50대 이상은 종합몰 이용이 활발, 모든 세대에 걸쳐 1위는 쿠팡     앱/리테일 분석서비스 와이즈앱리테 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d92dc0d3ca5cf4be588c400b3359439d_26895_1.png" length="0" type="image/png"/>
+            <title><![CDATA[[인포그래픽] 2021년에 가장 많은 특허를 받은 회사 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8664</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8664</guid>
+            <pubDate>Sun, 01 May 2022 01:58:27 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[넷플릭스 ‘D.P.’ 원작자, 삼성전자와 컬래버 웹툰 "수상한 연구실" 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -765,45 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[한국갤럽] 2022년 4월 한국인이 좋아하는 TV프로그램 1위: 유 퀴즈 온 더 블럭 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8637</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8637</guid>
-            <pubDate>Wed, 27 Apr 2022 08:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[4월 27일 마케팅 뉴스클리핑] 페이스북 첫 오프라인 매장 '메타스토어' 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8635</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8635</guid>
-            <pubDate>Wed, 27 Apr 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[예비광고인들의 광고업계 등용문 ‘한국광고아카데미’ 7기 모집 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8636</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8636</guid>
-            <pubDate>Tue, 26 Apr 2022 12:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[KAI] 5월 가정의 달, 방역완화·성수기 대비 광고 캠페인 활발로 광고시장도 훈훈해져 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8634</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8634</guid>
-            <pubDate>Tue, 26 Apr 2022 04:31:17 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국인이 가장 많이 사용하는 쇼핑 앱은? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8633</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8633</guid>
-            <pubDate>Tue, 26 Apr 2022 10:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 인스타그램 비즈니스 계정에 추가할 수 있는 행동유도 버튼이 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 30 Apr 2022 23:18:32 GMT</pubDate>
+            <pubDate>Sun, 01 May 2022 01:58:38 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 인스타그램 비즈니스 계정에 추가할 수 있는 행동유도 버튼이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

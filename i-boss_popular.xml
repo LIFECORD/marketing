@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-04-30T23:18:40.880Z</updated>
+    <updated>2022-05-01T01:58:47.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[모야야]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[첫출근!! 병아리 퍼포먼스 마케터 도와주세요 ㅜㅜ]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38764</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38764"/>
-        <updated>2022-04-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[쩔뚝22]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아웃풋이 아닌 프로세스를 파는 새로운 가치 전략 `..]]></title>
         <id>https://www.i-boss.co.kr/ab-2973-460</id>
         <link href="https://www.i-boss.co.kr/ab-2973-460"/>
         <updated>2022-04-28T10:21:04.953Z</updated>
         <content type="html"><![CDATA[당첨대쓔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫출근!! 병아리 퍼포먼스 마케터 도와주세요 ㅜㅜ]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38764</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38764"/>
+        <updated>2022-04-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[쩔뚝22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[네이버 vs 다윈중개... 경쟁사 크롤링은 합법일까? 불..]]></title>
