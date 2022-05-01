@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 01:58:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 03:45:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -159,13 +159,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57605</guid>
             <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나만 알고 싶은 무료폰트 [고딕편] (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57504</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57504</guid>
-            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케터 각 연차별 체크리스트  체크해보세요! (아이보스 ─ 인기글)]]></title>
@@ -348,6 +341,13 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38920</guid>
             <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[식자재중개플렛폼]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[맛의고수 양념 차돌박이 첨맛본맵단맛 2팩 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2825-499</link>
+            <guid>https://www.i-boss.co.kr/ab-2825-499</guid>
+            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1분기 강력한 성장세를 기록한 WPP, 올해 성장률 상향 조정 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -593,35 +593,35 @@
             <title><![CDATA[1분기 강력한 성장세를 기록한 WPP, 올해 성장률 상향 조정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8668</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8668</guid>
-            <pubDate>Sun, 01 May 2022 01:58:27 GMT</pubDate>
+            <pubDate>Sun, 01 May 2022 09:04:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[옴니콤, 2022년 1분기 약 12% 성장... 2022년 연간 성장률 상향 조정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8667</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8667</guid>
-            <pubDate>Sun, 01 May 2022 01:58:27 GMT</pubDate>
+            <pubDate>Sun, 01 May 2022 09:03:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[IPG 1분기 실적, 애널리스트 기대치 상회... 2022년 성장률 6%로 상향 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8666</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8666</guid>
-            <pubDate>Sun, 01 May 2022 01:58:27 GMT</pubDate>
+            <pubDate>Sun, 01 May 2022 09:02:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아마존, 1분기 광고 수익 23% 급증, 디지털 빅 3 중 가장 좋은 성과 기록 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8665</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8665</guid>
-            <pubDate>Sun, 01 May 2022 01:58:27 GMT</pubDate>
+            <pubDate>Sun, 01 May 2022 09:02:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 2021년에 가장 많은 특허를 받은 회사 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8664</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8664</guid>
-            <pubDate>Sun, 01 May 2022 01:58:27 GMT</pubDate>
+            <pubDate>Sun, 01 May 2022 09:01:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 인스타그램 비즈니스 계정에 추가할 수 있는 행동유도 버튼이 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 01 May 2022 01:58:38 GMT</pubDate>
+            <pubDate>Sun, 01 May 2022 03:45:49 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 인스타그램 비즈니스 계정에 추가할 수 있는 행동유도 버튼이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
