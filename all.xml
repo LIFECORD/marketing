@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 14:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 15:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -189,18 +189,18 @@
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2년차 눈팅족, 그동안 감사했습니다. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38838</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38838</guid>
-            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[64321647]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[신입 블로거라면 무조건 도움이 될 노출 방법 ( 응애 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57649</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57649</guid>
             <pubDate>Fri, 22 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[지름길]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2년차 눈팅족, 그동안 감사했습니다. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38838</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38838</guid>
+            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[64321647]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[직장인을 위한 오피스 실무서! `무작정 따라하기 엑.. (아이보스 ─ 인기글)]]></title>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8643</guid>
             <pubDate>Wed, 27 Apr 2022 11:24:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['이것'은 유통업계의 낮은 수익성을 개선할 수 있는 좋은 기회로 떠오르고 있습니다. 매장 내 광고판이나 홍보물 등 전통적인 광고의 디지털 버전으로, 자체 앱이나 웹페이지에 광고를 싣거나 다른 업체를 통해 광고하는 것까지 포함되는 '이것'은 무엇일까요?(hint: 지난 뉴스도 다시 보자, 4/25 뉴스클리핑 보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 02 May 2022 14:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->'이것'은 유통업계의 낮은 수익성을 개선할 수 있는 좋은 기회로 떠오르고 있습니다. 매장 내 광고판이나 홍보물 등 전통적인 광고의 디지털 버전으로, 자체 앱이나 웹페이지에 광고를 싣거나 다른 업체를 통해 광고하는 것까지 포함되는 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8616" target="_blank">지난 뉴스도 다시 보자, 4/25 뉴스클리핑 보기!</a>)</span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1413_1" value="1" class="AB-radio" id="PQ_BD5826_1413_1_0"><label for="PQ_BD5826_1413_1_0" id="label_PQ_BD5826_1413_1_0">(A) RMK</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1413_1" value="2" class="AB-radio" id="PQ_BD5826_1413_1_1"><label for="PQ_BD5826_1413_1_1" id="label_PQ_BD5826_1413_1_1">(B) MCN</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1413_1" value="3" class="AB-radio" id="PQ_BD5826_1413_1_2"><label for="PQ_BD5826_1413_1_2" id="label_PQ_BD5826_1413_1_2">(C) RMN</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1413_1" value="4" class="AB-radio" id="PQ_BD5826_1413_1_3"><label for="PQ_BD5826_1413_1_3" id="label_PQ_BD5826_1413_1_3">(D) RAD</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인·자영업자 종합소득세 등 납부 8월 말로 연장 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
