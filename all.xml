@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 23:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 01:44:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -245,18 +245,18 @@
             <content:encoded><![CDATA[흥미진진]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[MD와 마케터 이도저도 아닌 나 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38817</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38817</guid>
-            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[모야야]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[아웃풋이 아닌 프로세스를 파는 새로운 가치 전략 `.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-460</link>
             <guid>https://www.i-boss.co.kr/ab-2973-460</guid>
             <pubDate>Thu, 28 Apr 2022 10:21:04 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MD와 마케터 이도저도 아닌 나 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38817</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38817</guid>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[모야야]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[첫출근!! 병아리 퍼포먼스 마케터 도와주세요 ㅜㅜ (아이보스 ─ 인기글)]]></title>
@@ -322,18 +322,18 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인플루언서 브랜드는 왜 잘되기 어려울까 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57567</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57567</guid>
-            <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[jinhorus]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[돈을 버는 방법의 진화 과정 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38920</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38920</guid>
             <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[식자재중개플렛폼]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인플루언서 브랜드는 왜 잘되기 어려울까 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57567</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57567</guid>
+            <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[jinhorus]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[키스미가 일하는 남다른 방식 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,22 @@
             <guid>https://www.i-boss.co.kr/ab-2825-499</guid>
             <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[해외 크리에이티브] 하이네켄, 올 블랙 TV 광고를 선보이다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8670</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8670</guid>
+            <pubDate>Mon, 02 May 2022 08:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[TV 광고의 인기가 옛날보다 못하다고 하지만, 그래도 가장 비싼 광고 중 하나다. 때문에 클라이언트와 광고회사는 장면 하나 하나, 1초라도 허투루 내보내지 않기 위해TV 광고에 공을 들인다. 그런데 처음과 마지막에 회사 로고,  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[케이스 스터디] 제30회 국민이 선택한 좋은 광고상 TV 부문 수상작, 굽네치킨 굽네 불금치킨 캠페인 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8669</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8669</guid>
+            <pubDate>Mon, 02 May 2022 08:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 3월 24일에 광고주협회가 주관하는국민이 선택한 좋은 광고상 시상식이 열렸다.올해에는 특히코로나19로 몸도 마음도 많이 지친 국민들의 마음을 사로잡기 위해서로를 따뜻하게 배려하고 응원하는 메시지를 담아낸 작품들 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[5월 2일 마케팅 뉴스클리핑] 네이버 쇼핑검색광고 지면 확대... 광고커머스 연계 강화 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -574,26 +590,24 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[도로 아트는 교통 사고를 17% 줄여준다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8640</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8640</guid>
-            <pubDate>Wed, 27 Apr 2022 08:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[도로에 차가 많아지면서 교통사고가 끊임없이 이어진다. 정부와 지자체, 그리고 많은 사람들이 교통사고 줄이기를 위해 회전교차로, 교차로에 LED 설치, 안전 캠페인 진행 등 노력을 기울이고 있다. 그런데예술이 거리를 더 안전 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[해외 크리에이티브] 하이네켄, 올 블랙 TV 광고를 선보이다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8670</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8670</guid>
+            <pubDate>Mon, 02 May 2022 01:44:13 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 한국과 일본의 마케팅 발전을 위해 같이 협력하기를 기대합니다 후루이치 유코 대표 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8639</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8639</guid>
-            <pubDate>Wed, 27 Apr 2022 08:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[광고 마케팅 업계는 항상 트렌드를 놓치지 않고 새로운 기술, 크리에이티브에 대한 탐구를 놓치지 않는다. 그래서 광고인, 마케터에게 좋은 컨퍼런스나 이벤트는 매우 중요하다. 그러나 코로나로 인해 오프라인 행사들이 취소 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[케이스 스터디] '제30회 국민이 선택한 좋은 광고상' TV 부문 수상작, 굽네치킨 "굽네 불금치킨" 캠페인 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8669</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8669</guid>
+            <pubDate>Mon, 02 May 2022 01:44:13 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[5월 2일 마케팅 뉴스클리핑] 네이버 쇼핑검색광고 지면 확대... 광고·커머스 연계 강화 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8656</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8656</guid>
-            <pubDate>Sun, 01 May 2022 23:19:12 GMT</pubDate>
+            <pubDate>Mon, 02 May 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[도로 아트는 교통 사고를 17% 줄여준다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8640</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8640</guid>
-            <pubDate>Wed, 27 Apr 2022 08:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] "한국과 일본의 마케팅 발전을 위해 같이 협력하기를 기대합니다" 후루이치 유코 대표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8639</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8639</guid>
-            <pubDate>Wed, 27 Apr 2022 08:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['이것'은 유통업계의 낮은 수익성을 개선할 수 있는 좋은 기회로 떠오르고 있습니다. 매장 내 광고판이나 홍보물 등 전통적인 광고의 디지털 버전으로, 자체 앱이나 웹페이지에 광고를 싣거나 다른 업체를 통해 광고하는 것까지 포함되는 '이것'은 무엇일까요?(hint: 지난 뉴스도 다시 보자, 4/25 뉴스클리핑 보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 01 May 2022 23:19:23 GMT</pubDate>
+            <pubDate>Mon, 02 May 2022 01:44:25 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 유통업계의 낮은 수익성을 개선할 수 있는 좋은 기회로 떠오르고 있습니다. 매장 내 광고판이나 홍보물 등 전통적인 광고의 디지털 버전으로, 자체 앱이나 웹페이지에 광고를 싣거나 다른 업체를 통해 광고하는 것까지 포함되는 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8616" target="_blank">지난 뉴스도 다시 보자, 4/25 뉴스클리핑 보기!</a>)</span></td>
 			</tr>
