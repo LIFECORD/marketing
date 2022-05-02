@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 22:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 23:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[5월 3일 마케팅 뉴스클리핑] 화나요 대신 흥미진진... 네이버, 뉴스가게 평가시스템 손질 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8672</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8672</guid>
+            <pubDate>Tue, 03 May 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 화나요 대신 `흥미진진`... 네이버, 뉴스가게 평가시스템 `손질`  네이버는 관련 기존 감정 표현 기반의 5가지 공감 버튼을 추천 스티커로 변경한다고 밝혔다. 이전까지는 공감 버튼을 통해 사용자들이 기사를 보고 느낀 감정을 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8e488b138b940b76ea2ef8d861ec30c0_67892_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카페24, 온라인 사업자의 Z세대 마케팅 지원나서... 러블리마켓 연동 개시]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8673</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Apr 2022 11:50:00 GMT</pubDate>
             <content:encoded><![CDATA[네이버 크림, 국내외 리셀 플랫폼 M&amp;A 속도...아시아 리셀 시장 진출 무신사 솔드아웃, 신뢰 회복 관건...검수 인원 확보, 개발인력 채용나서 KT알파 리플, NFT 활용한 조각투자 유료 멤버십 오픈   국내 리셀 시장 경쟁이 치열해 지 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_daaeffd5fd8d5835e14d3675810d2759_45136_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알파벳 구글, 1분기 매출 23% 늘었지만 유튜브 광고 기대 못미쳐]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8643</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8643</guid>
-            <pubDate>Wed, 27 Apr 2022 11:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[알파벳은 1분기 전년대비 23% 증가한 690억달러 매출, 순이익은 8.3% 내려간 164억달러를 기록했다.  구글 검색 사업 부문은 1분기 390억달러 규모 매출을 달성했다. 지난해 같은 기간 310억달러에서 크게 상승했다. 유튜브 및 다양한  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
