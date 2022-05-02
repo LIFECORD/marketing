@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 01:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 03:56:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배민의 새 광고는 기회일까 부담일까 🤔]]></title>
+            <link>https://qletter.i-boss.co.kr/view/979557-%EB%B0%B0%EB%AF%BC%EC%9D%98_%EC%83%88_%EA%B4%91%EA%B3%A0%EB%8A%94_%EA%B8%B0%ED%9A%8C%EC%9D%BC%EA%B9%8C_%EB%B6%80%EB%8B%B4%EC%9D%BC%EA%B9%8C/</link>
+            <guid>https://qletter.i-boss.co.kr/view/979557-%EB%B0%B0%EB%AF%BC%EC%9D%98_%EC%83%88_%EA%B4%91%EA%B3%A0%EB%8A%94_%EA%B8%B0%ED%9A%8C%EC%9D%BC%EA%B9%8C_%EB%B6%80%EB%8B%B4%EC%9D%BC%EA%B9%8C/</guid>
+            <pubDate>Mon, 02 May 2022 03:55:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/979557-배민의_새_광고는_기회일까_부담일까/">
+						<div class="thumb"><img src="/images/qletter_979557.png"></div>
+						<p><strong>배민의 새 광고는 기회일까 부담일까 🤔</strong>2022.05.02</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_979557.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[브랜딩의 가치는 과정에서 나온다]]></title>
             <link>https://qletter.i-boss.co.kr/view/974070-%EB%B8%8C%EB%9E%9C%EB%94%A9%EC%9D%98_%EA%B0%80%EC%B9%98%EB%8A%94_%EA%B3%BC%EC%A0%95%EC%97%90%EC%84%9C_%EB%82%98%EC%98%A8%EB%8B%A4/</link>
@@ -127,17 +138,6 @@
 						<p><strong>비협조적인 타 부서, 어떡하죠 😢</strong>2022.03.24</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_923610.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인스타 말고 '트위터 숍'에서 사볼까]]></title>
-            <link>https://qletter.i-boss.co.kr/view/916848-%EC%9D%B8%EC%8A%A4%ED%83%80_%EB%A7%90%EA%B3%A0_%ED%8A%B8%EC%9C%84%ED%84%B0_%EC%88%8D%EC%97%90%EC%84%9C_%EC%82%AC%EB%B3%BC%EA%B9%8C/</link>
-            <guid>https://qletter.i-boss.co.kr/view/916848-%EC%9D%B8%EC%8A%A4%ED%83%80_%EB%A7%90%EA%B3%A0_%ED%8A%B8%EC%9C%84%ED%84%B0_%EC%88%8D%EC%97%90%EC%84%9C_%EC%82%AC%EB%B3%BC%EA%B9%8C/</guid>
-            <pubDate>Mon, 21 Mar 2022 01:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/916848-인스타_말고_트위터_숍에서_사볼까/">
-						<div class="thumb"><img src="/images/qletter_916848.png"></div>
-						<p><strong> 인스타 말고 '트위터 숍'에서 사볼까</strong>2022.03.21</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_916848.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
