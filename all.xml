@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 03:56:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 04:55:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -259,18 +259,18 @@
             <content:encoded><![CDATA[모야야]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[첫출근!! 병아리 퍼포먼스 마케터 도와주세요 ㅜㅜ (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38764</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38764</guid>
-            <pubDate>Sun, 03 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쩔뚝22]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네이버 vs 다윈중개... 경쟁사 크롤링은 합법일까? 불.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57646</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57646</guid>
             <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[첫출근!! 병아리 퍼포먼스 마케터 도와주세요 ㅜㅜ (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38764</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38764</guid>
+            <pubDate>Sun, 03 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쩔뚝22]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제품vs브랜드 무엇이 더 중요할까? (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA['이것'은 유통업계의 낮은 수익성을 개선할 수 있는 좋은 기회로 떠오르고 있습니다. 매장 내 광고판이나 홍보물 등 전통적인 광고의 디지털 버전으로, 자체 앱이나 웹페이지에 광고를 싣거나 다른 업체를 통해 광고하는 것까지 포함되는 '이것'은 무엇일까요?(hint: 지난 뉴스도 다시 보자, 4/25 뉴스클리핑 보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 02 May 2022 03:56:27 GMT</pubDate>
+            <pubDate>Mon, 02 May 2022 04:55:18 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 유통업계의 낮은 수익성을 개선할 수 있는 좋은 기회로 떠오르고 있습니다. 매장 내 광고판이나 홍보물 등 전통적인 광고의 디지털 버전으로, 자체 앱이나 웹페이지에 광고를 싣거나 다른 업체를 통해 광고하는 것까지 포함되는 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8616" target="_blank">지난 뉴스도 다시 보자, 4/25 뉴스클리핑 보기!</a>)</span></td>
 			</tr>
