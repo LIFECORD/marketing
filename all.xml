@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 06:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 07:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,18 +224,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[화장품을 1개만 파는 브랜드 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57627</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57627</guid>
-            <pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[르와즈]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[아웃풋이 아닌 프로세스를 파는 새로운 가치 전략 `.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-460</link>
             <guid>https://www.i-boss.co.kr/ab-2973-460</guid>
             <pubDate>Thu, 28 Apr 2022 10:21:04 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[화장품을 1개만 파는 브랜드 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57627</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57627</guid>
+            <pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[르와즈]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[파는 제품이 아니라 파는 가치를 생각한다 `행복을 .. (아이보스 ─ 인기글)]]></title>
@@ -287,18 +287,18 @@
             <content:encoded><![CDATA[데이터분석]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국인이 가장 많이 사용하는 쇼핑 앱은? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8633</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8633</guid>
-            <pubDate>Tue, 26 Apr 2022 10:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[원가, 마진을 다 공개하는 아웃도어 브랜드 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57661</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57661</guid>
             <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[르와즈]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한국인이 가장 많이 사용하는 쇼핑 앱은? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8633</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8633</guid>
+            <pubDate>Tue, 26 Apr 2022 10:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네컷 사진이 사람들의 마음을 사로잡은 이유 📷 (아이보스 ─ 인기글)]]></title>
@@ -593,7 +593,7 @@
             <title><![CDATA[지마켓·옥션, 초개인화 맞춤형 광고 'AI매출업' 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8671</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8671</guid>
-            <pubDate>Mon, 02 May 2022 06:23:59 GMT</pubDate>
+            <pubDate>Mon, 02 May 2022 06:23:45 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA['이것'은 유통업계의 낮은 수익성을 개선할 수 있는 좋은 기회로 떠오르고 있습니다. 매장 내 광고판이나 홍보물 등 전통적인 광고의 디지털 버전으로, 자체 앱이나 웹페이지에 광고를 싣거나 다른 업체를 통해 광고하는 것까지 포함되는 '이것'은 무엇일까요?(hint: 지난 뉴스도 다시 보자, 4/25 뉴스클리핑 보기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 02 May 2022 06:24:11 GMT</pubDate>
+            <pubDate>Mon, 02 May 2022 07:19:06 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 유통업계의 낮은 수익성을 개선할 수 있는 좋은 기회로 떠오르고 있습니다. 매장 내 광고판이나 홍보물 등 전통적인 광고의 디지털 버전으로, 자체 앱이나 웹페이지에 광고를 싣거나 다른 업체를 통해 광고하는 것까지 포함되는 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8616" target="_blank">지난 뉴스도 다시 보자, 4/25 뉴스클리핑 보기!</a>)</span></td>
 			</tr>
