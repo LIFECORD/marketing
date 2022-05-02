@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-05-02T05:31:50.089Z</updated>
+    <updated>2022-05-02T06:24:20.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지마켓·옥션, 초개인화 맞춤형 광고 'AI매출업' 출시]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8671</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8671"/>
+        <updated>2022-05-02T06:23:59.009Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[해외 크리에이티브] 하이네켄, 올 블랙 TV 광고를 선보이다]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8670</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-8642</id>
         <link href="https://www.i-boss.co.kr/ab-2877-8642"/>
         <updated>2022-04-27T01:43:39.874Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이노션, "KCC건설" 및 "한화그룹" 캠페인으로 세계 3대 국제광고제 ‘클리오 어워드’ 본상 수상]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8641</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8641"/>
-        <updated>2022-04-27T01:43:39.875Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>

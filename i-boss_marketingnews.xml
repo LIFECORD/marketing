@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 05:31:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 06:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지마켓옥션, 초개인화 맞춤형 광고 AI매출업 출시]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8671</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8671</guid>
+            <pubDate>Mon, 02 May 2022 06:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[지마켓과 옥션이 판매고객의 광고 효율을 극대화한 `AI매출업` 광고 서비스를 선보인다.  AI매출업 서비스는 기존 `리마케팅` 광고를 지마켓과 옥션의 AI 엔진을 적용해 더 고도화시킨 광고 서비스다. 고객의 필요와 취향을 분석 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_9c5cf9eb0a997c3b56eae616e6c60179_40891_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외 크리에이티브] 하이네켄, 올 블랙 TV 광고를 선보이다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8670</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8642</guid>
             <pubDate>Wed, 27 Apr 2022 09:46:00 GMT</pubDate>
             <content:encoded><![CDATA[선도적인데이터인사이트컨설팅기업칸타가소비자가선정한가장영향력있는광고를나타내는`2022크리에이티브이펙티브니스어워즈(Creative Effectiveness Awards 2022)`수상작을발표했다.국내브랜드중에서는삼성전자의갤럭시북프로360광 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[이노션, KCC건설 및 한화그룹 캠페인으로 세계 3대 국제광고제 클리오 어워드 본상 수상]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8641</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8641</guid>
-            <pubDate>Wed, 27 Apr 2022 09:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[이노션 월드와이드(대표이사 이용우,이하 이노션)는KCC건설의캠페인과 한화그룹의캠페인이세계3대 국제광고제인 2022클리오 어워드(CLIO Awards)에서 동상2개,동상1개를 각각 수상했다고27일 밝혔다. 통합 캠페인 및PR부문에서 동상2 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
