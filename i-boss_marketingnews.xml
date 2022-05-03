@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 01:45:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 03:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페이스북, 6월부터 팟캐스트 서비스 종료]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8678</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8678</guid>
+            <pubDate>Tue, 03 May 2022 11:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[2일(현지시간) 엔가젯에 따르면, 페이스북 모회사 메타는 팟캐스트를 시작한 지 1년 만에 서비스를 중단한다고 밝혔다.  메타는 지난해 4월 미국에서 페이스북 팟캐스트 서비스 `라이브 오디오 룸즈`를 선보였다. 서비스 출시 후  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버, 올해 스마트블록 비중 30%로 확대... 유형도 세분화]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8677</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8677</guid>
+            <pubDate>Tue, 03 May 2022 11:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[네이버가 3일 검색인공지능(AI) 기술 트렌드와 노하우를 공유하는 `네이버 검색 콜로키움 2022`을 개최했다. 이번 행사에서 네이버는 최신 AI 기술을 통해 이용자 맞춤형 검색으로 고도화되는 `에어서치`로의 변화와 기술 연구 성 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_6dd887056d95568a83e8a1e1b64f3f92_83536_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[주요 배달 앱 2022년 1분기 결제 추정금액 6.8조 원 역대 최대!]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8676</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8649</guid>
             <pubDate>Thu, 28 Apr 2022 08:51:00 GMT</pubDate>
             <content:encoded><![CDATA[메타는 미국 캘리포니아주 벌링게임에 위치한 소셜 네트워크 캠퍼스에 자신들의 첫 소매점을 5월 9일에 연다고 발표했다. 매장의 이름은 `메타 스토어(Meta Store)`다. 메타가 왜 오프라인 매장을 열까? 메타 스토어 매장 안에서는  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[액센츄어, 엑센츄어 송 발표]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8648</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8648</guid>
-            <pubDate>Thu, 28 Apr 2022 08:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[액센츄어 송? 노래? 액센츄어가 사가를 발표했나? 액센츄어 송은 노래가 아니다. 액센츄어의 크리에이티브 서비스 부문 40개 이상의 개별 에이전시 브랜드를 액센츄어 송(Accenture Song)이라는 단일 법인으로 통합할 것이라고 발표 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[트렌드모니터] 프로야구 인기 방역 완화로 기지개 켤 수 있을까]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8647</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8647</guid>
-            <pubDate>Thu, 28 Apr 2022 08:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 4월 18일, 2년여 만에 사회적 거리두기가 해제되며 사회 전반적으로 일상 회복에 대한 기대감이 커지고 있다.특히 코로나19 장기화로 큰 어려움을 겪었던 스포츠계 역시 100% 관중 허용과 함께 새 판 짜기에 분주한 모습이다.  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
