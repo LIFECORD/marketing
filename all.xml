@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 08:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 09:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -140,18 +140,18 @@
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_923610.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[UA 잘가! GA4 어서와! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57505</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57505</guid>
-            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-74668-2590</link>
             <guid>https://www.i-boss.co.kr/ab-74668-2590</guid>
             <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다이티]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[UA 잘가! GA4 어서와! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57505</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57505</guid>
+            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1위는 인스타그램이 아니라고? (아이보스 ─ 인기글)]]></title>
@@ -593,7 +593,7 @@
             <title><![CDATA[네이버, 쇼핑라이브서 버츄얼 휴먼 '이솔' 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8680</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8680</guid>
-            <pubDate>Tue, 03 May 2022 08:23:14 GMT</pubDate>
+            <pubDate>Tue, 03 May 2022 08:23:03 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 페이스북 픽셀을 통해 활용할 수 있는 이점이 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 03 May 2022 08:23:25 GMT</pubDate>
+            <pubDate>Tue, 03 May 2022 09:19:39 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 페이스북 픽셀을 통해 활용할 수 있는 이점이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
