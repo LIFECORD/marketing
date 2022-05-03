@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 07:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 08:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[설인의추석]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[네이버, 쇼핑라이브서 버츄얼 휴먼 이솔 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8680</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8680</guid>
+            <pubDate>Tue, 03 May 2022 08:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[리얼타임 엔진 기반 Full 3D 버츄얼 휴먼 구현... 새로운 라이브커머스 인플루언서 가능성 실험  네이버가 네이버 최초 버츄얼 휴먼 `이솔(SORI)`을 3일 네이버 쇼핑라이브를 통해 공개한다.  네이버와 자이언트스텝이 공동개발한 이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e11e65adca359b191661039a6b157d43_9570_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[페이스북, 6월부터 팟캐스트 서비스 종료 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8678</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8678</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[메타, 첫 오프라인 매장 다음달에 연다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8649</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8649</guid>
-            <pubDate>Thu, 28 Apr 2022 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[메타는 미국 캘리포니아주 벌링게임에 위치한 소셜 네트워크 캠퍼스에 자신들의 첫 소매점을 5월 9일에 연다고 발표했다. 매장의 이름은 `메타 스토어(Meta Store)`다. 메타가 왜 오프라인 매장을 열까? 메타 스토어 매장 안에서는  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[네이버, 쇼핑라이브서 버츄얼 휴먼 '이솔' 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8680</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8680</guid>
+            <pubDate>Tue, 03 May 2022 08:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[페이스북, 6월부터 팟캐스트 서비스 종료 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[메타, 첫 오프라인 매장 다음달에 연다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8649</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8649</guid>
-            <pubDate>Thu, 28 Apr 2022 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 페이스북 픽셀을 통해 활용할 수 있는 이점이 아닌 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 03 May 2022 07:19:06 GMT</pubDate>
+            <pubDate>Tue, 03 May 2022 08:23:25 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 페이스북 픽셀을 통해 활용할 수 있는 이점이 아닌 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
