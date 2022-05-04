@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 03:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 04:32:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,13 @@
             <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[신규 출시하는 CPC 광고를 둘러싼 논쟁 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57685</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57685</guid>
+            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[맛의고수 양념 차돌박이 첨맛본맵단맛 2팩 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2825-499</link>
             <guid>https://www.i-boss.co.kr/ab-2825-499</guid>
@@ -341,13 +348,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38782</guid>
             <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[설인의추석]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신규 출시하는 CPC 광고를 둘러싼 논쟁 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57685</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57685</guid>
-            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구글 x 카페24, 한국 온라인 비즈니스 글로벌 성장 지원 나선다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 카카오톡 채널 광고에서 목표로 설정할 수 있는 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 04 May 2022 03:27:53 GMT</pubDate>
+            <pubDate>Wed, 04 May 2022 04:32:32 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 카카오톡 채널 광고에서 목표로 설정할 수 있는 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
