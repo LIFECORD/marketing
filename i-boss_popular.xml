@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-05-04T19:16:54.179Z</updated>
+    <updated>2022-05-04T20:23:55.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -167,13 +167,6 @@
         <content type="html"><![CDATA[식자재중개플렛폼]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[성공한 CEO가 반드시 하지않는 6가지]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57550</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57550"/>
-        <updated>2022-04-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[yoorok]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[신규 출시하는 CPC 광고를 둘러싼 논쟁]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57685</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57685"/>
@@ -181,11 +174,25 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[성공한 CEO가 반드시 하지않는 6가지]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57550</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57550"/>
+        <updated>2022-04-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[yoorok]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[인플루언서 브랜드는 왜 잘되기 어려울까]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57567</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57567"/>
         <updated>2022-04-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[jinhorus]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MSM] 인하우스 마케터 꿀팁 판매 상황에 따른 마케팅!]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57701</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57701"/>
+        <updated>2022-05-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[레미니센스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우뇌가 알려주는 실패하지 않는 검색광고 운영법]]></title>
@@ -207,12 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2825-499"/>
         <updated>2022-04-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[당첨대쓔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이런 서비스가 있긴 있나요?]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38782</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38782"/>
-        <updated>2022-04-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[설인의추석]]></content>
     </entry>
 </feed>
