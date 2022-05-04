@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 14:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 15:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -175,6 +175,13 @@
             <content:encoded><![CDATA[지름길]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[아웃풋이 아닌 프로세스를 파는 새로운 가치 전략 `.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-460</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-460</guid>
+            <pubDate>Thu, 28 Apr 2022 10:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[마케팅밈] 마케터 탈룰라 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38815</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38815</guid>
@@ -187,13 +194,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57563</guid>
             <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아웃풋이 아닌 프로세스를 파는 새로운 가치 전략 `.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-460</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-460</guid>
-            <pubDate>Thu, 28 Apr 2022 10:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2년차 눈팅족, 그동안 감사했습니다. (아이보스 ─ 인기글)]]></title>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8655</guid>
             <pubDate>Fri, 29 Apr 2022 08:50:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다음 중 카카오톡 채널 광고에서 목표로 설정할 수 있는 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 04 May 2022 14:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->다음 중 카카오톡 채널 광고에서 목표로 설정할 수 있는 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1415_1" value="1" class="AB-radio" id="PQ_BD5826_1415_1_0"><label for="PQ_BD5826_1415_1_0" id="label_PQ_BD5826_1415_1_0">(A) 전환</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1415_1" value="2" class="AB-radio" id="PQ_BD5826_1415_1_1"><label for="PQ_BD5826_1415_1_1" id="label_PQ_BD5826_1415_1_1">(B) 방문</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1415_1" value="3" class="AB-radio" id="PQ_BD5826_1415_1_2"><label for="PQ_BD5826_1415_1_2" id="label_PQ_BD5826_1415_1_2">(C) 도달</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1415_1" value="4" class="AB-radio" id="PQ_BD5826_1415_1_3"><label for="PQ_BD5826_1415_1_3" id="label_PQ_BD5826_1415_1_3">(D) 조회</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인·자영업자 종합소득세 등 납부 8월 말로 연장 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
