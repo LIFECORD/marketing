@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 23:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 01:38:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -138,13 +138,6 @@
 						<p><strong>비협조적인 타 부서, 어떡하죠 😢</strong>2022.03.24</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_923610.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[직장인이 은근히 모르는 자료조사단계 데이터 활용.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-74668-2590</link>
-            <guid>https://www.i-boss.co.kr/ab-74668-2590</guid>
-            <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[다이티]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1위는 인스타그램이 아니라고? (아이보스 ─ 인기글)]]></title>
@@ -348,6 +341,45 @@
             <guid>https://www.i-boss.co.kr/ab-2825-499</guid>
             <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이런 서비스가 있긴 있나요? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38782</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38782</guid>
+            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[설인의추석]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[인포그래픽] 미국 넷플릭스 사용자의 1/3 이상이 정가를 지불하지 않는다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8689</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8689</guid>
+            <pubDate>Thu, 05 May 2022 09:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 달 20일 넷플릭스 주가는35% 넘게 폭락했다. 하루 만에 시가총액 543억 달러가 날아간 것이다. 월스트리트 투자은행 중 최소9곳이 넷플릭스의 성장성에 의문을 제기하며 투자의견과 목표주가를 하향 조정했다. 왜 이런 일이  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[퍼블리시스그룹, 전자상거래 인텔리전스 플랫폼 프로피테로(Profitero) 인수 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8688</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8688</guid>
+            <pubDate>Thu, 05 May 2022 09:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[퍼블리스 그룹(Publicis Groupe) SA는글로벌 전자상거래 인텔리전스 플랫폼인 프로피테로(Profitero)를 인수했다고 밝혔다. 로이터 통신에 따르면, 이 계약은 2억 유로(2억158만 달러)에 달한다. 프로피테로는 클라이언트가가격을 경쟁업 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[어린이의 신체적, 정신적 건강에 주목한 에코키즈 사회공헌활동 눈길 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8687</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8687</guid>
+            <pubDate>Thu, 05 May 2022 09:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[올해로100회째가된어린이날을맞아유통업계가아동을대상으로진행하고있는사회공헌활동이눈길을끌고있다. 특히단순히기부활동을넘어아동의건강과환경을고려해지속가능성을지닌이른바에코키즈(Eco-Kids)활동이활발해지고있다 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[한국식 나이 역사 속으로! 만 나이 통일 연착륙 가능할까 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8686</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8686</guid>
+            <pubDate>Thu, 05 May 2022 09:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[현재 우리 사회에선 서로 기준이 다른 `세는 나이`, `만 나이`, `연 나이`가 혼용되고 있는 만큼 각종 시민 불편을 초래하거나불필요한 사회경제적 비용이 발생하는 경우가 지속되어 왔다.특히 최근 코로나19백신 접종 및 방역패 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[구글 x 카페24, 한국 온라인 비즈니스 글로벌 성장 지원 나선다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -558,36 +590,32 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[트렌드모니터] 결혼에 대한 생각 줄었으나, 격식에 대한 욕심 커져 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8659</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8659</guid>
-            <pubDate>Sat, 30 Apr 2022 09:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[결혼 계획, 이전 대비 감소한 모습...결혼 및 출산에 대한 부담감 나타나  시장조사전문기업 엠브레인 트렌드모니터가 전국의 만 19~45세 미혼 남녀 1,200명을 대상으로 2022 결혼식 관련 인식 조사를 실시한 결과 향후 결혼 계획이  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[인포그래픽] 미국 넷플릭스 사용자의 1/3 이상이 정가를 지불하지 않는다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8689</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8689</guid>
+            <pubDate>Thu, 05 May 2022 01:38:34 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코바코, NFT 사업을 위해 22세기미디어와 업무협약 체결 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8658</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8658</guid>
-            <pubDate>Fri, 29 Apr 2022 11:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코)는 새롭게 등장하는 신기술을 광고에 적용하기 위한 끊임없는 혁신의 일환으로28일 한국프레스센터에서 `22세기미디어`와 NFT(대체불가토큰)를 활용한 공동사업 추진을 위한업무협약을 체결 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[퍼블리시스그룹, 전자상거래 인텔리전스 플랫폼 프로피테로(Profitero) 인수 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8688</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8688</guid>
+            <pubDate>Thu, 05 May 2022 01:38:34 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버 플레이스 리뷰 키워드개편...내 가게 맞춰 직접 구성 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8657</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8657</guid>
-            <pubDate>Fri, 29 Apr 2022 07:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[네이버는 오프라인 중소상공인(SME)이 내 가게 리뷰 키워드 셋(Set)을 직접 설정할 수 있도록 기능을 개선했다고 29일 밝혔다.   지난 2021년 7월 출시된 키워드 리뷰는 오프라인 SME 특징과 고충을 반영해 네이버가 리뷰 문화 개선의  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_7231012d21def8e8fcf962ef77d9e85d_60007_1.png" length="0" type="image/png"/>
+            <title><![CDATA[어린이의 신체적, 정신적 건강에 주목한 ‘에코키즈’ 사회공헌활동 눈길 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8687</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8687</guid>
+            <pubDate>Thu, 05 May 2022 01:38:34 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[GroupM, 산하 에이전시 합병으로 글로벌 미디어 혁신을 꾀하다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8655</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8655</guid>
-            <pubDate>Fri, 29 Apr 2022 08:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[WPP의 GroupM은 클라이언트를위한 혁신의 가속화와 그룹 운영 프로세스의 단순화를 추구하는 혁신의 최신 단계를 발표했다. WPP는 Essence와 MediaCom의 합병과 Mindshare와 Neo의 합병을 통해 AI 기술에 기반을 둔 9,000여 개의 강력한 크로 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[한국식 나이 역사 속으로! '만 나이 통일' 연착륙 가능할까 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8686</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8686</guid>
+            <pubDate>Thu, 05 May 2022 01:38:34 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구글 x 카페24, 한국 온라인 비즈니스 글로벌 성장 지원 나선다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -772,38 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[트렌드모니터] 결혼에 대한 생각 줄었으나, "격식"에 대한 욕심 커져 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8659</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8659</guid>
-            <pubDate>Sat, 30 Apr 2022 09:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코바코, NFT 사업을 위해 ‘22세기미디어’와 업무협약 체결 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8658</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8658</guid>
-            <pubDate>Fri, 29 Apr 2022 11:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네이버 플레이스 '리뷰 키워드'개편...내 가게 맞춰 직접 구성 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8657</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8657</guid>
-            <pubDate>Fri, 29 Apr 2022 07:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[GroupM, 산하 에이전시 합병으로 글로벌 미디어 혁신을 꾀하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8655</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8655</guid>
-            <pubDate>Fri, 29 Apr 2022 08:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 카카오톡 채널 광고에서 목표로 설정할 수 있는 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 04 May 2022 23:19:57 GMT</pubDate>
+            <pubDate>Thu, 05 May 2022 01:38:47 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 카카오톡 채널 광고에서 목표로 설정할 수 있는 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

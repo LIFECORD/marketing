@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-05-04T23:20:06.636Z</updated>
+    <updated>2022-05-05T01:38:57.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인포그래픽] 미국 넷플릭스 사용자의 1/3 이상이 정가를 지불하지 않는다]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8689</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8689"/>
+        <updated>2022-05-05T01:38:34.168Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퍼블리시스그룹, 전자상거래 인텔리전스 플랫폼 프로피테로(Profitero) 인수]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8688</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8688"/>
+        <updated>2022-05-05T01:38:34.171Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이의 신체적, 정신적 건강에 주목한 ‘에코키즈’ 사회공헌활동 눈길]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8687</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8687"/>
+        <updated>2022-05-05T01:38:34.171Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국식 나이 역사 속으로! '만 나이 통일' 연착륙 가능할까]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8686</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8686"/>
+        <updated>2022-05-05T01:38:34.172Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글 x 카페24, 한국 온라인 비즈니스 글로벌 성장 지원 나선다]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8684</id>
@@ -185,34 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-8660</id>
         <link href="https://www.i-boss.co.kr/ab-2877-8660"/>
         <updated>2022-04-30T01:45:04.737Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[트렌드모니터] 결혼에 대한 생각 줄었으나, "격식"에 대한 욕심 커져]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8659</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8659"/>
-        <updated>2022-04-30T01:45:04.738Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코바코, NFT 사업을 위해 ‘22세기미디어’와 업무협약 체결]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8658</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8658"/>
-        <updated>2022-04-29T11:16:16.682Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 플레이스 '리뷰 키워드'개편...내 가게 맞춰 직접 구성]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8657</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8657"/>
-        <updated>2022-04-29T07:18:48.508Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GroupM, 산하 에이전시 합병으로 글로벌 미디어 혁신을 꾀하다]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8655</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8655"/>
-        <updated>2022-04-29T01:41:16.639Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
