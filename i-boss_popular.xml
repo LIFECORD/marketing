@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-05-05T10:21:29.254Z</updated>
+    <updated>2022-05-05T11:16:53.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -153,18 +153,18 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[클럽하우스에서 만난 성공한 CEO들의 공통점]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57641</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57641"/>
-        <updated>2022-04-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[jinhorus]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[돈을 버는 방법의 진화 과정]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38920</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38920"/>
         <updated>2022-04-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[식자재중개플렛폼]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[클럽하우스에서 만난 성공한 CEO들의 공통점]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57641</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57641"/>
+        <updated>2022-04-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[jinhorus]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[성공한 CEO가 반드시 하지않는 6가지]]></title>
