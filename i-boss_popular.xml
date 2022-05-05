@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-05-05T11:16:53.579Z</updated>
+    <updated>2022-05-05T12:36:53.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -139,17 +139,17 @@
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[네컷 사진이 사람들의 마음을 사로잡은 이유 📷]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57630</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57630"/>
-        <updated>2022-04-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[신규 출시하는 CPC 광고를 둘러싼 논쟁]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57685</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57685"/>
         <updated>2022-05-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네컷 사진이 사람들의 마음을 사로잡은 이유 📷]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57630</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57630"/>
+        <updated>2022-04-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 11:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 12:36:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -273,17 +273,17 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네컷 사진이 사람들의 마음을 사로잡은 이유 📷 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57630</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57630</guid>
-            <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[신규 출시하는 CPC 광고를 둘러싼 논쟁 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57685</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57685</guid>
             <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네컷 사진이 사람들의 마음을 사로잡은 이유 📷 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57630</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57630</guid>
+            <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 카카오톡 채널 광고에서 목표로 설정할 수 있는 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 05 May 2022 11:16:44 GMT</pubDate>
+            <pubDate>Thu, 05 May 2022 12:36:45 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 카카오톡 채널 광고에서 목표로 설정할 수 있는 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
