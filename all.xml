@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 22:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 23:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[5월 6일 마케팅 뉴스클리핑] 관심사 위주로 바뀌는 카톡... 같은 취향 모은다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8685</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8685</guid>
+            <pubDate>Fri, 06 May 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 관심사 위주로 바뀌는 카톡... 같은 취향 모은다  카카오톡이 지인 기반에서 관심사 기반 서비스로 전환할 것임을 시사했다. 카카오는 컨퍼런스콜에서 카카오톡의 한계 가운데 하나는 강력한 지인 기반이라며, 더 큰 확장을  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0103ad694a1cec26ab15380392460111_4579_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[인포그래픽] 미국 넷플릭스 사용자의 1/3 이상이 정가를 지불하지 않는다 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8689</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8689</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[틱톡, 질 높은 콘텐츠를 꾸준히 포스팅한 스포츠 리그와 스트리밍 퍼블리셔가 가장 많은 신규 팔로워 확보 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8660</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8660</guid>
-            <pubDate>Sat, 30 Apr 2022 09:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[스트리밍 미디어용 연속 측정 분석 플랫폼 콘비바(Conviva)가 1500개 이상의 틱톡 브랜드 계정과 팔로워 14억2000만명, 포스팅 영상 59만1000건을 조사한 3번째 연례 틱톡 평가 기준 및 전략 가이드(TikTok Benchmarks &amp; Strategy Guide) 보고서를  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[5월 6일 마케팅 뉴스클리핑] 관심사 위주로 바뀌는 카톡... 같은 취향 모은다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8685</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8685</guid>
+            <pubDate>Thu, 05 May 2022 23:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 미국 넷플릭스 사용자의 1/3 이상이 정가를 지불하지 않는다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[틱톡, 질 높은 콘텐츠를 꾸준히 포스팅한 스포츠 리그와 스트리밍 퍼블리셔가 가장 많은 신규 팔로워 확보 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8660</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8660</guid>
-            <pubDate>Sat, 30 Apr 2022 09:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[V커머스는 TV를 통해 리모컨으로 상품을 검색하고 구매·결제할 수 있는 상거래를 뜻한다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Thu, 05 May 2022 23:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->V커머스는 TV를 통해 리모컨으로 상품을 검색하고 구매·결제할 수 있는 상거래를 뜻한다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1416_1" value="1" class="AB-radio" id="PQ_BD5826_1416_1_0"><label for="PQ_BD5826_1416_1_0" id="label_PQ_BD5826_1416_1_0">(A) O</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1416_1" value="2" class="AB-radio" id="PQ_BD5826_1416_1_1"><label for="PQ_BD5826_1416_1_1" id="label_PQ_BD5826_1416_1_1">(B) X</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인·자영업자 종합소득세 등 납부 8월 말로 연장 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 22:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 23:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[5월 6일 마케팅 뉴스클리핑] 관심사 위주로 바뀌는 카톡... 같은 취향 모은다 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8685</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8685</guid>
+            <pubDate>Fri, 06 May 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 관심사 위주로 바뀌는 카톡... 같은 취향 모은다  카카오톡이 지인 기반에서 관심사 기반 서비스로 전환할 것임을 시사했다. 카카오는 컨퍼런스콜에서 카카오톡의 한계 가운데 하나는 강력한 지인 기반이라며, 더 큰 확장을  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0103ad694a1cec26ab15380392460111_4579_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인포그래픽] 미국 넷플릭스 사용자의 1/3 이상이 정가를 지불하지 않는다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8689</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8661</guid>
             <pubDate>Sat, 30 Apr 2022 09:30:00 GMT</pubDate>
             <content:encoded><![CDATA[코로나19로 인해 촉발된 디지털화는 전자상거래의 성장을 가속화했다. 전자상거래는 다양한 디바이스를 통해 이뤄지기 때문에 접근성이 매우 좋다. 전자상거래에서는 전환율이 중요한 지표인데, 디바이스별로 어떤 모습을 띄 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡, 질 높은 콘텐츠를 꾸준히 포스팅한 스포츠 리그와 스트리밍 퍼블리셔가 가장 많은 신규 팔로워 확보]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8660</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8660</guid>
-            <pubDate>Sat, 30 Apr 2022 09:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[스트리밍 미디어용 연속 측정 분석 플랫폼 콘비바(Conviva)가 1500개 이상의 틱톡 브랜드 계정과 팔로워 14억2000만명, 포스팅 영상 59만1000건을 조사한 3번째 연례 틱톡 평가 기준 및 전략 가이드(TikTok Benchmarks &amp; Strategy Guide) 보고서를  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
