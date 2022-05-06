@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-05-06T08:24:03.202Z</updated>
+    <updated>2022-05-06T09:19:44.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -83,6 +83,13 @@
         <content type="html"><![CDATA[르와즈]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[데이터스튜디오 템플릿 추첨으로 10분께 공유 드려요..]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38987</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38987"/>
+        <updated>2022-05-06T06:25:38.362Z</updated>
+        <content type="html"><![CDATA[규S]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[‘이것’ 만 알면 기본은 하는 카드뉴스 디자인! 1탄!]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57632</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57632"/>
@@ -95,13 +102,6 @@
         <link href="https://www.i-boss.co.kr/ab-2973-457"/>
         <updated>2022-04-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[당첨대쓔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이터스튜디오 템플릿 추첨으로 10분께 공유 드려요..]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38987</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38987"/>
-        <updated>2022-05-06T06:25:38.362Z</updated>
-        <content type="html"><![CDATA[규S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[네이버 vs 다윈중개... 경쟁사 크롤링은 합법일까? 불..]]></title>
