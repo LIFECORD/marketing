@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 05:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 06:26:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,18 +252,18 @@
             <content:encoded><![CDATA[르와즈]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[구글애널리틱스4(GA4) 초기 세팅 사항 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57548</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57548</guid>
-            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[데이터분석]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[신규 출시하는 CPC 광고를 둘러싼 논쟁 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57685</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57685</guid>
             <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[구글애널리틱스4(GA4) 초기 세팅 사항 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57548</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57548</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[데이터분석]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[원가, 마진을 다 공개하는 아웃도어 브랜드 (아이보스 ─ 인기글)]]></title>
@@ -301,18 +301,25 @@
             <content:encoded><![CDATA[식자재중개플렛폼]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[성공한 CEO가 반드시 하지않는 6가지 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57550</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57550</guid>
-            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[yoorok]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[MSM] 인하우스 마케터 꿀팁 판매 상황에 따른 마케팅! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57701</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57701</guid>
             <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레미니센스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[데이터스튜디오 템플릿 추첨으로 10분께 공유 드려요.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38987</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38987</guid>
+            <pubDate>Fri, 06 May 2022 06:25:38 GMT</pubDate>
+            <content:encoded><![CDATA[규S]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[성공한 CEO가 반드시 하지않는 6가지 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57550</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57550</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인플루언서 브랜드는 왜 잘되기 어려울까 (아이보스 ─ 인기글)]]></title>
@@ -341,13 +348,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57657</guid>
             <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이런 서비스가 있긴 있나요? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38782</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38782</guid>
-            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[설인의추석]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아이언소스, 틸팅포인트와 미디에이션 파트너십 연장 체결 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[V커머스는 TV를 통해 리모컨으로 상품을 검색하고 구매·결제할 수 있는 상거래를 뜻한다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 06 May 2022 05:18:29 GMT</pubDate>
+            <pubDate>Fri, 06 May 2022 06:26:17 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->V커머스는 TV를 통해 리모컨으로 상품을 검색하고 구매·결제할 수 있는 상거래를 뜻한다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
