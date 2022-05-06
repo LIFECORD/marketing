@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 14:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 15:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8667</guid>
             <pubDate>Sun, 01 May 2022 09:03:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[V커머스는 TV를 통해 리모컨으로 상품을 검색하고 구매·결제할 수 있는 상거래를 뜻한다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 06 May 2022 14:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->V커머스는 TV를 통해 리모컨으로 상품을 검색하고 구매·결제할 수 있는 상거래를 뜻한다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1416_1" value="1" class="AB-radio" id="PQ_BD5826_1416_1_0"><label for="PQ_BD5826_1416_1_0" id="label_PQ_BD5826_1416_1_0">(A) O</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1416_1" value="2" class="AB-radio" id="PQ_BD5826_1416_1_1"><label for="PQ_BD5826_1416_1_1" id="label_PQ_BD5826_1416_1_1">(B) X</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인·자영업자 종합소득세 등 납부 8월 말로 연장 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
