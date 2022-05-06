@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 15:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 16:29:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,18 +203,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[내 브랜드와 꼭 맞는 유형 테스트 만들기! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57536</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57536</guid>
-            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[데이터스튜디오 템플릿 추첨으로 10분께 공유 드려요.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38987</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38987</guid>
             <pubDate>Fri, 06 May 2022 06:25:38 GMT</pubDate>
             <content:encoded><![CDATA[규S]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[내 브랜드와 꼭 맞는 유형 테스트 만들기! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57536</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57536</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[화장품을 1개만 파는 브랜드 (아이보스 ─ 인기글)]]></title>

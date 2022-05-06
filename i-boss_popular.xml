@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-05-06T15:21:02.372Z</updated>
+    <updated>2022-05-06T16:29:14.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내 브랜드와 꼭 맞는 유형 테스트 만들기!]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57536</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57536"/>
-        <updated>2022-04-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[데이터스튜디오 템플릿 추첨으로 10분께 공유 드려요..]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38987</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38987"/>
         <updated>2022-05-06T06:25:38.362Z</updated>
         <content type="html"><![CDATA[규S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 브랜드와 꼭 맞는 유형 테스트 만들기!]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57536</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57536"/>
+        <updated>2022-04-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화장품을 1개만 파는 브랜드]]></title>
