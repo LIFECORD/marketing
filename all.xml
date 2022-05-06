@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 06:26:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 07:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[데이터스튜디오 템플릿 추첨으로 10분께 공유 드려요.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38987</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38987</guid>
+            <pubDate>Fri, 06 May 2022 06:25:38 GMT</pubDate>
+            <content:encoded><![CDATA[규S]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[MD와 마케터 이도저도 아닌 나 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38817</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38817</guid>
@@ -306,13 +313,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57701</guid>
             <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레미니센스]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[데이터스튜디오 템플릿 추첨으로 10분께 공유 드려요.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38987</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38987</guid>
-            <pubDate>Fri, 06 May 2022 06:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[규S]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성공한 CEO가 반드시 하지않는 6가지 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[V커머스는 TV를 통해 리모컨으로 상품을 검색하고 구매·결제할 수 있는 상거래를 뜻한다. (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 06 May 2022 06:26:17 GMT</pubDate>
+            <pubDate>Fri, 06 May 2022 07:18:21 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->V커머스는 TV를 통해 리모컨으로 상품을 검색하고 구매·결제할 수 있는 상거래를 뜻한다.<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
