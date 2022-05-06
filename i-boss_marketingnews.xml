@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 10:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 11:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가상 인간 로지 목소리 생겼다... 8일 두시탈출 컬투쇼 출연]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8695</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8695</guid>
+            <pubDate>Fri, 06 May 2022 11:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[가상인간 로지가 목소리를 갖게 됐다. 네이버(주)(대표이사 최수연)는6일싸이더스 스튜디오 엑스와 손잡고,로지의AI보이스를 클로바AI음성합성 기술로 만들었다고 밝혔다. 로지의AI보이스는 오는8일 방송되는SBS파워FM두시탈출  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[아이언소스, 틸팅포인트와 미디에이션 파트너십 연장 체결]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8694</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8667</guid>
             <pubDate>Sun, 01 May 2022 09:03:00 GMT</pubDate>
             <content:encoded><![CDATA[옴니콤 그룹은 2022년1분기11.9%의 강력한 유기적 수익 성장률을 기록했다. 반면, 총수익은 34억 달러로 0.5%포인트 감소했다. 부정적인 영향을 미치는 환율 변동과 전년 동기 대비 M&amp;A 수익 감소가 원인이었다. 또한우크라이나 전쟁 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[IPG 1분기 실적, 애널리스트 기대치 상회... 2022년 성장률 6%로 상향]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8666</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8666</guid>
-            <pubDate>Sun, 01 May 2022 09:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[인터퍼블릭 그룹(Interpublic Group)이 코로나19 팬데믹에서 강한 회복 신호를 보여주는 1분기 실적을 발표했다. 2022년 1분기 22억 3000만 달러의 순수익은 2021년 1분기의 20억 3000만 달러에 비해 9.8% 증가했다. 해당 분기 동안 유기적 순 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
