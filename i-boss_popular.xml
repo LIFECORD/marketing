@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-05-07T09:18:35.449Z</updated>
+    <updated>2022-05-07T10:20:53.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -125,13 +125,6 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글애널리틱스4(GA4) 초기 세팅 사항]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57548</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57548"/>
-        <updated>2022-04-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[데이터분석]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[원가, 마진을 다 공개하는 아웃도어 브랜드]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57661</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57661"/>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57617"/>
         <updated>2022-04-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[근육돌이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리의 진짜 고객은 누구인가]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57609</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57609"/>
+        <updated>2022-04-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[르와즈]]></content>
     </entry>
 </feed>
