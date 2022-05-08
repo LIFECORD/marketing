@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 20:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 21:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -175,18 +175,18 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마케팅밈] 마케터 탈룰라 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38815</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38815</guid>
-            <pubDate>Thu, 14 Apr 2022 06:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케터가 알면 좋은 성장단계 3가지 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57563</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57563</guid>
             <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[마케팅밈] 마케터 탈룰라 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38815</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38815</guid>
+            <pubDate>Thu, 14 Apr 2022 06:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2년차 눈팅족, 그동안 감사했습니다. (아이보스 ─ 인기글)]]></title>
