@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 22:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 23:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[5월 9일 마케팅 뉴스클리핑] 틱톡도 유튜브처럼 광고 도입한다 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8702</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8702</guid>
+            <pubDate>Mon, 09 May 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 틱톡도 유튜브처럼 광고 도입한다  틱톡은 크리에이터가 올린 영상에 광고를 달아 발생한 수익을 크리에이터와 배분하는 `틱톡 펄스` 프로그램을 운영한다고 발표했다. 틱톡과 크리에이터가 각각 절반씩 나눠갖는다. 6월 미 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d1fb96b94ea1048be3d59be225fd70d3_72580_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외 크리에이티브] 버거킹, 임산부를 위한 특별한 와퍼를 출시하다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8701</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 03 May 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 화나요 대신 `흥미진진`... 네이버, 뉴스가게 평가시스템 `손질`  네이버는 관련 기존 감정 표현 기반의 5가지 공감 버튼을 추천 스티커로 변경한다고 밝혔다. 이전까지는 공감 버튼을 통해 사용자들이 기사를 보고 느낀 감정을 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8e488b138b940b76ea2ef8d861ec30c0_67892_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카페24, 온라인 사업자의 Z세대 마케팅 지원나서... 러블리마켓 연동 개시]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8673</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8673</guid>
-            <pubDate>Mon, 02 May 2022 09:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 전자상거래 플랫폼 카페24(대표 이재석)는 최근 자사 마켓플러스 서비스에 Z세대 패션 전문 마켓플레이스 `러블리마켓`을 연동했다.  이번 연동으로 카페24 기반 온라인 창업자는 클릭 몇 번만으로 자사 브랜드의 상품과  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_fe51a70d4c3f4ff3653f00d0cd2dc516_32325_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
