@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-05-09T08:25:10.374Z</updated>
+    <updated>2022-05-09T09:20:32.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -202,17 +202,17 @@
         <content type="html"><![CDATA[근육돌이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리의 진짜 고객은 누구인가]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57609</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57609"/>
-        <updated>2022-04-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[르와즈]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[마케터가 소통하는 6가지 방법 꿀팁 ( 제 경험 위주입..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57590</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57590"/>
         <updated>2022-04-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[근육돌이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리의 진짜 고객은 누구인가]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57609</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57609"/>
+        <updated>2022-04-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[르와즈]]></content>
     </entry>
 </feed>
