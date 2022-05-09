@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 01:40:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 03:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -154,6 +154,13 @@
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[데이터스튜디오 템플릿 추첨으로 10분께 공유 드려요.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38987</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38987</guid>
+            <pubDate>Fri, 06 May 2022 06:25:38 GMT</pubDate>
+            <content:encoded><![CDATA[규S]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[신입 블로거라면 무조건 도움이 될 노출 방법 ( 응애 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57649</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57649</guid>
@@ -187,13 +194,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38815</guid>
             <pubDate>Thu, 14 Apr 2022 06:22:48 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[데이터스튜디오 템플릿 추첨으로 10분께 공유 드려요.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38987</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38987</guid>
-            <pubDate>Fri, 06 May 2022 06:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[규S]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2년차 눈팅족, 그동안 감사했습니다. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,22 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57590</guid>
             <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[판 커지는 패션 이커머스... 브랜디  에이블리도 유니콘 예고 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8707</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8707</guid>
+            <pubDate>Mon, 09 May 2022 11:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[브랜디, 서울스토어 인수하며 연 거래액 1조 눈앞 2019년 유니콘 등극한 무신사, 연 거래액 2조 시대 기업가치 9000억 에이블리, 연내 유니콘 반열 오를 듯카카오가 인수한 지그재그, 카카오 커머스 시너지 강화 나서   무신사, 지그 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[앱스플라이어, 업계 최초 iOS 데이터 중복 해결 솔루션 SSOT 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8706</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8706</guid>
+            <pubDate>Mon, 09 May 2022 10:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 마케팅 성과 측정 플랫폼앱스플라이어가 유저 계산 중복을 해결하는 최신 솔루션SSOT(Single Source of Truth)을 출시했다. SSOT을 활용하면 마케팅 성과를 정확하게 측정하고 보다 합리적인 의사결정을 통해 비즈니스의 성장을  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[스타벅스, NFT 로열티 프로그램 연내 론칭... 글로벌 디지털 커뮤니티 구축 계획 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -574,40 +590,38 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[네이버, 올해 스마트블록 비중 30%로 확대... 유형도 세분화 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8677</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8677</guid>
-            <pubDate>Tue, 03 May 2022 11:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[네이버가 3일 검색인공지능(AI) 기술 트렌드와 노하우를 공유하는 `네이버 검색 콜로키움 2022`을 개최했다. 이번 행사에서 네이버는 최신 AI 기술을 통해 이용자 맞춤형 검색으로 고도화되는 `에어서치`로의 변화와 기술 연구 성 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_6dd887056d95568a83e8a1e1b64f3f92_83536_1.png" length="0" type="image/png"/>
+            <title><![CDATA[판 커지는 패션 이커머스... 브랜디 · 에이블리도 유니콘 예고 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8707</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8707</guid>
+            <pubDate>Mon, 09 May 2022 03:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[주요 배달 앱 2022년 1분기 결제 추정금액 6.8조 원 역대 최대! (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8676</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8676</guid>
-            <pubDate>Tue, 03 May 2022 10:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 배달의민족+요기요+쿠팡이츠 누적 결제 추정금액 23.4조 원 2020년 12.9조 원 대비 결제 추정금액 81% 상승, 2022년 1분기 결제 추정금액은 6.8조 원으로 분기 결제 추정금액 역대 최대! 여자, 30대가 가장 많이 결제한 것으로 나타 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_7fdac5788a7be138ef9b9852722b9a88_12358_1.png" length="0" type="image/png"/>
+            <title><![CDATA[앱스플라이어, 업계 최초 iOS 데이터 중복 해결 솔루션 SSOT 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8706</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8706</guid>
+            <pubDate>Mon, 09 May 2022 03:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스타벅스, NFT 로열티 프로그램 연내 론칭... '글로벌 디지털 커뮤니티' 구축 계획 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8705</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8705</guid>
-            <pubDate>Mon, 09 May 2022 01:40:27 GMT</pubDate>
+            <pubDate>Mon, 09 May 2022 08:47:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[Account Action] 움츠러든 4월 경쟁 PT.., 광고시장 다시 침체의 늪에 빠질까? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8704</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8704</guid>
-            <pubDate>Mon, 09 May 2022 01:40:27 GMT</pubDate>
+            <pubDate>Mon, 09 May 2022 08:46:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] "진정성있는 응원 캠페인으로 위로와 응원을 이어가겠습니다" 그랑몬스터 김두환 본부장, 장길녕 국장 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8703</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8703</guid>
-            <pubDate>Mon, 09 May 2022 01:40:27 GMT</pubDate>
+            <pubDate>Mon, 09 May 2022 08:46:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버, 올해 스마트블록 비중 30%로 확대... 유형도 세분화 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8677</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8677</guid>
-            <pubDate>Tue, 03 May 2022 11:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[주요 배달 앱 2022년 1분기 결제 추정금액 6.8조 원 역대 최대! (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8676</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8676</guid>
-            <pubDate>Tue, 03 May 2022 10:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 ♠♠ 회사의 마케팅 제안서를 보고 알 수 있는 마케팅 전략은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 09 May 2022 01:40:40 GMT</pubDate>
+            <pubDate>Mon, 09 May 2022 03:21:57 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 ♠♠ 회사의 마케팅 제안서를 보고 알 수 있는 마케팅 전략은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/5181b76d7af45b980bc9cfee02897dad_16514768330895.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
