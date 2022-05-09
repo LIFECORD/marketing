@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 22:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 23:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[5월 10일 마케팅 뉴스클리핑] 매월 100억 원씩... 진짜 큰손 4050 女 모시기 경쟁 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8708</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8708</guid>
+            <pubDate>Tue, 10 May 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 매월 100억 원씩... 진짜 큰손 `4050 女` 모시기 경쟁  MZ세대에 집중하던 패션 플랫폼들이 최근 4050 여성 `큰손`을 겨냥하고 있다. 무신사는 40대 여성을 겨냥한 `레이지나잇`을 오픈했고, 브랜디는 30대 여성 공략을 위한 `플레어` ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_73d1cf8d3d865945ac2c3ad669aefecb_24501_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사무직 절반이 퇴사를 고려하는 인력난 속, 직원 유지 및 인재 유치의 핵심은 자동화]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8709</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 04 May 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 네이버 스마트블록 검색, 연내 30%까지 확대  네이버는 AI 중심의 검색 브랜드 `에어서치`로 제공하는 사용자 맞춤형 검색 결과인 `스마트블록`을 적용한 검색 결과를 연내 전체의 30%까지 확대할 예정이라고 밝혔다. 네이버는  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4f145b5f10315c09abba59a730a6badb_9549_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버, 쇼핑라이브서 버츄얼 휴먼 이솔 공개]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8680</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8680</guid>
-            <pubDate>Tue, 03 May 2022 08:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[리얼타임 엔진 기반 Full 3D 버츄얼 휴먼 구현... 새로운 라이브커머스 인플루언서 가능성 실험  네이버가 네이버 최초 버츄얼 휴먼 `이솔(SORI)`을 3일 네이버 쇼핑라이브를 통해 공개한다.  네이버와 자이언트스텝이 공동개발한 이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e11e65adca359b191661039a6b157d43_9570_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

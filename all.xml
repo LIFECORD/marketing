@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 22:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 23:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[르와즈]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[5월 10일 마케팅 뉴스클리핑] 매월 100억 원씩... 진짜 큰손 4050 女 모시기 경쟁 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8708</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8708</guid>
+            <pubDate>Tue, 10 May 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 매월 100억 원씩... 진짜 큰손 `4050 女` 모시기 경쟁  MZ세대에 집중하던 패션 플랫폼들이 최근 4050 여성 `큰손`을 겨냥하고 있다. 무신사는 40대 여성을 겨냥한 `레이지나잇`을 오픈했고, 브랜디는 30대 여성 공략을 위한 `플레어` ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_73d1cf8d3d865945ac2c3ad669aefecb_24501_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[사무직 절반이 퇴사를 고려하는 인력난 속, 직원 유지 및 인재 유치의 핵심은 자동화 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8709</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8709</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4f145b5f10315c09abba59a730a6badb_9549_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[네이버, 쇼핑라이브서 버츄얼 휴먼 이솔 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8680</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8680</guid>
-            <pubDate>Tue, 03 May 2022 08:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[리얼타임 엔진 기반 Full 3D 버츄얼 휴먼 구현... 새로운 라이브커머스 인플루언서 가능성 실험  네이버가 네이버 최초 버츄얼 휴먼 `이솔(SORI)`을 3일 네이버 쇼핑라이브를 통해 공개한다.  네이버와 자이언트스텝이 공동개발한 이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e11e65adca359b191661039a6b157d43_9570_1.png" length="0" type="image/png"/>
+            <title><![CDATA[[5월 10일 마케팅 뉴스클리핑] 매월 100억 원씩... 진짜 큰손 '4050 女' 모시기 경쟁 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8708</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8708</guid>
+            <pubDate>Mon, 09 May 2022 23:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사무직 절반이 ‘퇴사’를 고려하는 인력난 속, 직원 유지 및 인재 유치의 핵심은 "자동화" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버, 쇼핑라이브서 버츄얼 휴먼 '이솔' 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8680</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8680</guid>
-            <pubDate>Tue, 03 May 2022 08:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[최근 네이버 플레이스의 리뷰 방식인 '키워드 리뷰'가 개편되었습니다. 다음 중 개편된 기능으로 옳은 것은 무엇일까요?(hint: 5/2 뉴스클리핑 오픈북!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Mon, 09 May 2022 23:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->최근 네이버 플레이스의 리뷰 방식인 '키워드 리뷰'가 개편되었습니다. 다음 중 개편된 기능으로 옳은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8656" target="_blank">5/2 뉴스클리핑 오픈북!</a>)</span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1418_1" value="1" class="AB-radio" id="PQ_BD5826_1418_1_0"><label for="PQ_BD5826_1418_1_0" id="label_PQ_BD5826_1418_1_0">(A) 중소상공인이 직접 내 가게에 맞는 키워드를 구성할 수 있다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1418_1" value="2" class="AB-radio" id="PQ_BD5826_1418_1_1"><label for="PQ_BD5826_1418_1_1" id="label_PQ_BD5826_1418_1_1">(B) 고객은 리뷰 하나 당 최대 10개 키워드를 선택할 수 있다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1418_1" value="3" class="AB-radio" id="PQ_BD5826_1418_1_2"><label for="PQ_BD5826_1418_1_2" id="label_PQ_BD5826_1418_1_2">(C) 중소상공인은 악의적인 리뷰를 등록하는 이용자를 차단할 수 있다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1418_1" value="4" class="AB-radio" id="PQ_BD5826_1418_1_3"><label for="PQ_BD5826_1418_1_3" id="label_PQ_BD5826_1418_1_3">(D) 고객은 원하는 키워드를 계정 당 1개 생성할 수 있다</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인·자영업자 종합소득세 등 납부 8월 말로 연장 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
