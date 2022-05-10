@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-05-10T03:28:49.006Z</updated>
+    <updated>2022-05-10T04:24:29.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -195,6 +195,13 @@
         <content type="html"><![CDATA[jinhorus]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[MSM] 좋은 대행사 마케터와 좋은 인하우스의 만남의 ..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57714</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57714"/>
+        <updated>2022-05-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[레미니센스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[마케터는 다차원적 사고를 통해서 상상력을 키워야..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57617</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57617"/>
@@ -207,12 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57669"/>
         <updated>2022-04-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[김매니저]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마케터가 소통하는 6가지 방법 꿀팁 ( 제 경험 위주입..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57590</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57590"/>
-        <updated>2022-04-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[근육돌이]]></content>
     </entry>
 </feed>
