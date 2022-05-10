@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 04:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 05:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,18 +252,18 @@
             <content:encoded><![CDATA[모야야]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제품vs브랜드 무엇이 더 중요할까? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57579</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57579</guid>
-            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[르와즈]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[MSM] 인하우스 마케터 꿀팁 판매 상황에 따른 마케팅! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57701</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57701</guid>
             <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레미니센스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제품vs브랜드 무엇이 더 중요할까? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57579</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57579</guid>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[르와즈]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[원가, 마진을 다 공개하는 아웃도어 브랜드 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57669</guid>
             <pubDate>Tue, 26 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김매니저]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CJ올리브네트웍스, 크로스마케팅플랫폼 콜라비 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8713</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8713</guid>
+            <pubDate>Tue, 10 May 2022 05:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[CJ올리브네트웍스(대표 차인혁)가 효과적인 마케팅 캠페인을 지원하는 크로스마케팅플랫폼 콜라비(ColLAB)를 출시했다고 10일 밝혔다.  콜라비는 CJ올리브네트웍스가 다년간 쌓아온 제휴 서비스 영업력과 메시징 커뮤니케이션 업 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_b71ec6899298cb3a6faf97984c5ff783_36938_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[피부 본연의 아름다움 되찾기, 대세 뷰티 트렌드로 자리잡아 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[해외 크리에이티브] 이케아, 곤충들의 음식이 되는 미트볼을 만들다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8683</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8683</guid>
-            <pubDate>Wed, 04 May 2022 08:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[이케아에 먹으러 간다? 이케아는 가구나 가정용품, 인테리어 용품 등으로 유명하지만, 그에 못지않게 미트볼도 유명하다. 1985년에 처음 선보인 이케아 미트볼은현재 전 세계에서 10억 개 이상씩 팔리고 있는 이케아 아이콘이기 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[CJ올리브네트웍스, 크로스마케팅플랫폼 '콜라비' 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8713</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8713</guid>
+            <pubDate>Tue, 10 May 2022 05:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["피부 본연의 아름다움 되찾기", 대세 뷰티 트렌드로 자리잡아 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[해외 크리에이티브] 이케아, 곤충들의 음식이 되는 미트볼을 만들다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8683</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8683</guid>
-            <pubDate>Wed, 04 May 2022 08:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[최근 네이버 플레이스의 리뷰 방식인 '키워드 리뷰'가 개편되었습니다. 다음 중 개편된 기능으로 옳은 것은 무엇일까요?(hint: 5/2 뉴스클리핑 오픈북!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 10 May 2022 04:24:20 GMT</pubDate>
+            <pubDate>Tue, 10 May 2022 05:18:35 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 네이버 플레이스의 리뷰 방식인 '키워드 리뷰'가 개편되었습니다. 다음 중 개편된 기능으로 옳은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8656" target="_blank">5/2 뉴스클리핑 오픈북!</a>)</span></td>
 			</tr>

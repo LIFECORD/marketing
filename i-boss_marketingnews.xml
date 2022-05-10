@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 04:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 05:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CJ올리브네트웍스, 크로스마케팅플랫폼 콜라비 출시]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8713</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8713</guid>
+            <pubDate>Tue, 10 May 2022 05:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[CJ올리브네트웍스(대표 차인혁)가 효과적인 마케팅 캠페인을 지원하는 크로스마케팅플랫폼 콜라비(ColLAB)를 출시했다고 10일 밝혔다.  콜라비는 CJ올리브네트웍스가 다년간 쌓아온 제휴 서비스 영업력과 메시징 커뮤니케이션 업 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_b71ec6899298cb3a6faf97984c5ff783_36938_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[피부 본연의 아름다움 되찾기, 대세 뷰티 트렌드로 자리잡아]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8712</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8684</guid>
             <pubDate>Wed, 04 May 2022 09:10:00 GMT</pubDate>
             <content:encoded><![CDATA[구글은오는10일글로벌전자상거래플랫폼카페24(대표이재석)와온라인비즈니스사업자및마케터를위한씽크커머스(Think Commerce)행사의일환으로특별행사를공동으로개최하고국내이커머스판매자들의해외진출지원에본격나선다. 구글 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외 크리에이티브] 이케아, 곤충들의 음식이 되는 미트볼을 만들다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8683</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8683</guid>
-            <pubDate>Wed, 04 May 2022 08:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[이케아에 먹으러 간다? 이케아는 가구나 가정용품, 인테리어 용품 등으로 유명하지만, 그에 못지않게 미트볼도 유명하다. 1985년에 처음 선보인 이케아 미트볼은현재 전 세계에서 10억 개 이상씩 팔리고 있는 이케아 아이콘이기 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
