@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-05-10T23:20:31.160Z</updated>
+    <updated>2022-05-11T01:46:58.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -53,13 +53,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38815"/>
         <updated>2022-04-14T06:22:48.802Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마케터가 알면 좋은 성장단계 3가지]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57563</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57563"/>
-        <updated>2022-04-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[근육돌이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2년차 눈팅족, 그동안 감사했습니다.]]></title>
@@ -153,6 +146,13 @@
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[MSM] 좋은 대행사 마케터와 좋은 인하우스의 만남의 ..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57714</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57714"/>
+        <updated>2022-05-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[레미니센스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[클럽하우스에서 만난 성공한 CEO들의 공통점]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57641</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57641"/>
@@ -165,13 +165,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38920"/>
         <updated>2022-04-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[식자재중개플렛폼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MSM] 좋은 대행사 마케터와 좋은 인하우스의 만남의 ..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57714</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57714"/>
-        <updated>2022-05-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[레미니센스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[꼭 알아야 할 `나에 대한 오류` 9가지 (완벽한 공부법,..]]></title>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57669"/>
         <updated>2022-04-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[김매니저]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마케터가 소통하는 6가지 방법 꿀팁 ( 제 경험 위주입..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57590</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57590"/>
+        <updated>2022-04-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[근육돌이]]></content>
     </entry>
 </feed>

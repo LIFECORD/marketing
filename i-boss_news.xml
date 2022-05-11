@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-05-10T23:20:31.165Z</updated>
+    <updated>2022-05-11T01:46:58.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[거리두기 해제로 4월 대형마트, 커피숍, 백화점, 여행 등 오프라인 결제 증가]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8720</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8720"/>
+        <updated>2022-05-11T01:46:32.937Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제는 차도, 옷도, 화장품도 비건 시대!]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8719</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8719"/>
+        <updated>2022-05-11T01:46:32.937Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제일기획, 메타버스 전문 기업 ‘이브이알스튜디오’ 투자... 메타버스향 디지털 역량 강화]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8718</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8718"/>
+        <updated>2022-05-11T01:46:32.938Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘포켓몬 GO’, 포켓몬 빵 인기에 힘입어 4월 게임 앱 사용자 수 3위 등극]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8717</id>
         <link href="https://www.i-boss.co.kr/ab-2877-8717"/>
         <updated>2022-05-10T23:20:07.466Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[5월 11일 마케팅 뉴스클리핑] 식지 않는 인기... 포켓몬 마케팅 확산 외]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8714</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8714"/>
+        <updated>2022-05-11T01:46:32.940Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디마연 5월 세미나, "브랜드의 디지털채널 운영 전략 - D2C or platform"... 온·오프라인으로 동시 개최]]></title>
@@ -185,34 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-8691</id>
         <link href="https://www.i-boss.co.kr/ab-2877-8691"/>
         <updated>2022-05-06T01:20:25.235Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘규제의 숲’, 광고가 숨차다]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8690</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8690"/>
-        <updated>2022-05-06T01:20:25.237Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[5월 6일 마케팅 뉴스클리핑] 관심사 위주로 바뀌는 카톡... 같은 취향 모은다 외]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8685</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8685"/>
-        <updated>2022-05-05T23:21:47.339Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인포그래픽] 미국 넷플릭스 사용자의 1/3 이상이 정가를 지불하지 않는다]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8689</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8689"/>
-        <updated>2022-05-05T01:38:34.168Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼블리시스그룹, 전자상거래 인텔리전스 플랫폼 프로피테로(Profitero) 인수]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8688</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8688"/>
-        <updated>2022-05-05T01:38:34.171Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>

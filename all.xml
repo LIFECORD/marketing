@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 23:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 01:46:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -189,13 +189,6 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터가 알면 좋은 성장단계 3가지 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57563</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57563</guid>
-            <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[근육돌이]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2년차 눈팅족, 그동안 감사했습니다. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38838</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38838</guid>
@@ -287,6 +280,13 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[MSM] 좋은 대행사 마케터와 좋은 인하우스의 만남의 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57714</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57714</guid>
+            <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[레미니센스]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[클럽하우스에서 만난 성공한 CEO들의 공통점 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57641</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57641</guid>
@@ -299,13 +299,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38920</guid>
             <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[식자재중개플렛폼]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[MSM] 좋은 대행사 마케터와 좋은 인하우스의 만남의 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57714</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57714</guid>
-            <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[레미니센스]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[꼭 알아야 할 `나에 대한 오류` 9가지 (완벽한 공부법,.. (아이보스 ─ 인기글)]]></title>
@@ -350,12 +343,51 @@
             <content:encoded><![CDATA[김매니저]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[마케터가 소통하는 6가지 방법 꿀팁 ( 제 경험 위주입.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57590</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57590</guid>
+            <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[근육돌이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[거리두기 해제로 4월 대형마트, 커피숍, 백화점, 여행 등 오프라인 결제 증가 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8720</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8720</guid>
+            <pubDate>Wed, 11 May 2022 09:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[배달, 인터넷서비스, 인터넷쇼핑 등 온라인 업종 결제금액은 감소 대형마트, 커피숍, 백화점, 여행, 항공, 극장 등 오프라인 업종 결제금액은 증가 업종별 상위 브랜드의 결제 추정금액 합을 2022년 3월과 2022년 4월 비교     앱/리 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_1652230208719.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이제는 차도, 옷도, 화장품도 비건 시대! (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8719</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8719</guid>
+            <pubDate>Wed, 11 May 2022 09:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[채식주의로 불렸던 비건(Vegan)이 주요 라이프스타일로 자리잡으면서 식음료 시장 뿐만 아니라 뷰티,인테리어,자동차 업계에도 활발하게 적용되고 있다. 11일KPR디지털커뮤니케이션연구소(소장 김은용)가 매스미디어와SNS(트위터, ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[제일기획, 메타버스 전문 기업 이브이알스튜디오 투자... 메타버스향 디지털 역량 강화 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8718</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8718</guid>
+            <pubDate>Wed, 11 May 2022 08:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[제일기획(대표이사 사장 유정근)은 메타버스 분야 전문기업 이브이알스튜디오(대표 김재환, 윤용기)와 투자 및 사업협력협약을 체결하고 메타버스향 디지털 역량 강화에 나선다. 이브이알스튜디오(이하 이브이알)는 2016년 설립 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[포켓몬 GO, 포켓몬 빵 인기에 힘입어 4월 게임 앱 사용자 수 3위 등극 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8717</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8717</guid>
             <pubDate>Wed, 11 May 2022 08:14:00 GMT</pubDate>
             <content:encoded><![CDATA[빅데이터 플랫폼 기업 아이지에이웍스가게임 사용자 수 순위TOP 50,게임 매출 순위TOP 50에 관한 데이터를 분석한 모바일인덱스리포트를 발표했다. 모바일인덱스 분석 결과, 포켓몬GO는 최근 품절대란을 일으킨 포켓몬 빵 인기에  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[5월 11일 마케팅 뉴스클리핑] 식지 않는 인기... 포켓몬 마케팅 확산 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8714</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8714</guid>
+            <pubDate>Wed, 11 May 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 식지 않는 인기... 포켓몬 마케팅 확산  SPC삼립이 재출시한 포켓몬빵이 흥행 대박을 일으키고 있는 가운데, 타 업계와 업체들도 포켓몬 관련 제품을 앞다퉈 출시하며 `포켓몬 마케팅`이 번지고 있다. 하림은 BGF리테일과 함께  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_985f860573458d3a1b4b99d7a3cdbc1d_54561_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디마연 5월 세미나, 브랜드의 디지털채널 운영 전략 - D2C or platform... 온오프라인으로 동시 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -558,56 +590,52 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[규제의 숲, 광고가 숨차다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8690</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8690</guid>
-            <pubDate>Fri, 06 May 2022 08:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[광고를 포위하고 있는 규제 법률  국내 법률 중에 광고를 품고 있는 것이 몇 개나 될까? 필자가 지난 2월 세미나 발표를 준비하면서 헤아려 보니 80개나 됐고, 이 법률을 관장하는 부처만 24개에 이르렀다.이 중 광고산업진흥과 관 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[거리두기 해제로 4월 대형마트, 커피숍, 백화점, 여행 등 오프라인 결제 증가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8720</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8720</guid>
+            <pubDate>Wed, 11 May 2022 01:46:32 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[5월 6일 마케팅 뉴스클리핑] 관심사 위주로 바뀌는 카톡... 같은 취향 모은다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8685</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8685</guid>
-            <pubDate>Fri, 06 May 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 관심사 위주로 바뀌는 카톡... 같은 취향 모은다  카카오톡이 지인 기반에서 관심사 기반 서비스로 전환할 것임을 시사했다. 카카오는 컨퍼런스콜에서 카카오톡의 한계 가운데 하나는 강력한 지인 기반이라며, 더 큰 확장을  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0103ad694a1cec26ab15380392460111_4579_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이제는 차도, 옷도, 화장품도 비건 시대! (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8719</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8719</guid>
+            <pubDate>Wed, 11 May 2022 01:46:32 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 미국 넷플릭스 사용자의 1/3 이상이 정가를 지불하지 않는다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8689</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8689</guid>
-            <pubDate>Thu, 05 May 2022 09:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 달 20일 넷플릭스 주가는35% 넘게 폭락했다. 하루 만에 시가총액 543억 달러가 날아간 것이다. 월스트리트 투자은행 중 최소9곳이 넷플릭스의 성장성에 의문을 제기하며 투자의견과 목표주가를 하향 조정했다. 왜 이런 일이  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼블리시스그룹, 전자상거래 인텔리전스 플랫폼 프로피테로(Profitero) 인수 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8688</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8688</guid>
-            <pubDate>Thu, 05 May 2022 09:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[퍼블리스 그룹(Publicis Groupe) SA는글로벌 전자상거래 인텔리전스 플랫폼인 프로피테로(Profitero)를 인수했다고 밝혔다. 로이터 통신에 따르면, 이 계약은 2억 유로(2억158만 달러)에 달한다. 프로피테로는 클라이언트가가격을 경쟁업 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[제일기획, 메타버스 전문 기업 ‘이브이알스튜디오’ 투자... 메타버스향 디지털 역량 강화 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8718</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8718</guid>
+            <pubDate>Wed, 11 May 2022 01:46:32 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘포켓몬 GO’, 포켓몬 빵 인기에 힘입어 4월 게임 앱 사용자 수 3위 등극 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8717</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8717</guid>
-            <pubDate>Tue, 10 May 2022 23:20:07 GMT</pubDate>
+            <pubDate>Wed, 11 May 2022 08:14:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[5월 11일 마케팅 뉴스클리핑] 식지 않는 인기... 포켓몬 마케팅 확산 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8714</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8714</guid>
+            <pubDate>Wed, 11 May 2022 01:46:32 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[디마연 5월 세미나, "브랜드의 디지털채널 운영 전략 - D2C or platform"... 온·오프라인으로 동시 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8716</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8716</guid>
-            <pubDate>Tue, 10 May 2022 23:20:07 GMT</pubDate>
+            <pubDate>Wed, 11 May 2022 07:53:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[Trend from Tokyo] 자동판매기에서 손목시계를 판다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8715</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8715</guid>
-            <pubDate>Tue, 10 May 2022 23:20:07 GMT</pubDate>
+            <pubDate>Wed, 11 May 2022 07:52:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -772,38 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘규제의 숲’, 광고가 숨차다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8690</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8690</guid>
-            <pubDate>Fri, 06 May 2022 08:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[5월 6일 마케팅 뉴스클리핑] 관심사 위주로 바뀌는 카톡... 같은 취향 모은다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8685</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8685</guid>
-            <pubDate>Fri, 06 May 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 미국 넷플릭스 사용자의 1/3 이상이 정가를 지불하지 않는다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8689</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8689</guid>
-            <pubDate>Thu, 05 May 2022 09:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[퍼블리시스그룹, 전자상거래 인텔리전스 플랫폼 프로피테로(Profitero) 인수 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8688</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8688</guid>
-            <pubDate>Thu, 05 May 2022 09:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[기업 가치가 10억 달러 이상이며, 창업한 지 10년 이하인 스타트업을 '유니콘 기업'이라고 합니다. 국내 최초로 유니콘으로 등재된 기업은 어디일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 10 May 2022 23:20:20 GMT</pubDate>
+            <pubDate>Wed, 11 May 2022 01:46:47 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->기업 가치가 10억 달러 이상이며, 창업한 지 10년 이하인 스타트업을 '유니콘 기업'이라고 합니다. 국내 최초로 유니콘으로 등재된 기업은 어디일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
