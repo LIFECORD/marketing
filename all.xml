@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 04:39:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 05:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,18 +147,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터 각 연차별 체크리스트  체크해보세요! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57572</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57572</guid>
-            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[근육돌이]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[데이터스튜디오 템플릿 추첨으로 10분께 공유 드려요.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38987</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38987</guid>
             <pubDate>Fri, 06 May 2022 06:25:38 GMT</pubDate>
             <content:encoded><![CDATA[규S]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케터 각 연차별 체크리스트  체크해보세요! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57572</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57572</guid>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[근육돌이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[신입 블로거라면 무조건 도움이 될 노출 방법 ( 응애 .. (아이보스 ─ 인기글)]]></title>
@@ -273,18 +273,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국인이 가장 많이 사용하는 쇼핑 앱은? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8633</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8633</guid>
-            <pubDate>Tue, 26 Apr 2022 10:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[MSM] 좋은 대행사 마케터와 좋은 인하우스의 만남의 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57714</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57714</guid>
             <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레미니센스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한국인이 가장 많이 사용하는 쇼핑 앱은? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8633</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8633</guid>
+            <pubDate>Tue, 26 Apr 2022 10:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[클럽하우스에서 만난 성공한 CEO들의 공통점 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,22 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57609</guid>
             <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[르와즈]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유튜브, 채널 멤버십 선물 기능 시범 운영 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8723</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8723</guid>
+            <pubDate>Wed, 11 May 2022 05:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[`51020 단위로 채널 멤버십 구입 후 다른 이용자 선물`  유튜브가 유료 채널 멤버십을 구매해 다른 이용자에게 선물할 수 있는 기능을 시범 운영한다.  채널 멤버십은 월 4.99달러에 크리에이터의 독점 콘텐츠, 배지, 이모지 등을 제 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[거리두기 해제, 배달 말고 외식할까? (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8722</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8722</guid>
+            <pubDate>Wed, 11 May 2022 05:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[BC카드(대표이사 사장 최원석)가 거리두기 해제 전후 발생된 식당/주점 업종의 매출 분석 자료를 발표했다. 이번 분석 자료는3월부터4월까지 적용된거리두기 단계(적용 기간,사적모임 제한 인원수)를해제 전(3/1~20, 6인)1차 해제(3/ ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[CJ올리브영, 거리두기 해제에 색조 화장품 인기... 오프라인 매출 늘어 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -574,20 +590,18 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[시청률] 야외 마스크 의무 해제 첫 공휴일 어린이날, 집 TV 시청량 크게 줄어 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8693</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8693</guid>
-            <pubDate>Fri, 06 May 2022 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[야외 마스크 의무 해제 첫 공휴일 어린이날,많은 사람들이 야외활동을 즐긴 것으로 나타났다. 그 결과 집에서TV를 시청한 시간량이 코로나로 인해 야외활동이 제한적이었던21년과22년에 비해 크게 줄었다. 시청률전문기업TNMS에  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[유튜브, 채널 멤버십 선물 기능 시범 운영 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8723</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8723</guid>
+            <pubDate>Wed, 11 May 2022 05:28:09 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국관광공사, 올리브영과 함께 외국인 관광객 유치 나선다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8692</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8692</guid>
-            <pubDate>Fri, 06 May 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[해외 외국인들의 관심소재인 K-뷰티를 앞세워 한국관광공사(이하 공사)와 CJ올리브영(이하 올리브영)은 방한시장 조기 정상화를 위한 디지털마케팅 등 본격 프로모션에 들어갔다. 공사와 국내 대표 K-뷰티 채널 올리브영 글로벌 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[거리두기 해제, 배달 말고 외식할까? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8722</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8722</guid>
+            <pubDate>Wed, 11 May 2022 05:28:09 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[CJ올리브영, 거리두기 해제에 색조 화장품 인기... 오프라인 매출 늘어 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[시청률] 야외 마스크 의무 해제 첫 공휴일 어린이날, 집 TV 시청량 크게 줄어 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8693</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8693</guid>
-            <pubDate>Fri, 06 May 2022 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국관광공사, 올리브영과 함께 외국인 관광객 유치 나선다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8692</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8692</guid>
-            <pubDate>Fri, 06 May 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[기업 가치가 10억 달러 이상이며, 창업한 지 10년 이하인 스타트업을 '유니콘 기업'이라고 합니다. 국내 최초로 유니콘으로 등재된 기업은 어디일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 11 May 2022 04:39:09 GMT</pubDate>
+            <pubDate>Wed, 11 May 2022 05:28:22 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->기업 가치가 10억 달러 이상이며, 창업한 지 10년 이하인 스타트업을 '유니콘 기업'이라고 합니다. 국내 최초로 유니콘으로 등재된 기업은 어디일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

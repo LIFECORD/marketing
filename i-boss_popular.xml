@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-05-11T04:39:19.601Z</updated>
+    <updated>2022-05-11T05:28:31.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마케터 각 연차별 체크리스트  체크해보세요!]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57572</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57572"/>
-        <updated>2022-04-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[근육돌이]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[데이터스튜디오 템플릿 추첨으로 10분께 공유 드려요..]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-38987</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-38987"/>
         <updated>2022-05-06T06:25:38.362Z</updated>
         <content type="html"><![CDATA[규S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마케터 각 연차별 체크리스트  체크해보세요!]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57572</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57572"/>
+        <updated>2022-04-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[근육돌이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신입 블로거라면 무조건 도움이 될 노출 방법 ( 응애 ..]]></title>
@@ -139,18 +139,18 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국인이 가장 많이 사용하는 쇼핑 앱은?]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8633</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8633"/>
-        <updated>2022-04-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[MSM] 좋은 대행사 마케터와 좋은 인하우스의 만남의 ..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57714</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57714"/>
         <updated>2022-05-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[레미니센스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국인이 가장 많이 사용하는 쇼핑 앱은?]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8633</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8633"/>
+        <updated>2022-04-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[클럽하우스에서 만난 성공한 CEO들의 공통점]]></title>
