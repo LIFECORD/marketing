@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 10:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 11:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -140,18 +140,18 @@
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_926679.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[1위는 인스타그램이 아니라고? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57605</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57605</guid>
-            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[데이터스튜디오 템플릿 추첨으로 10분께 공유 드려요.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38987</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38987</guid>
             <pubDate>Fri, 06 May 2022 06:25:38 GMT</pubDate>
             <content:encoded><![CDATA[규S]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1위는 인스타그램이 아니라고? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57605</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57605</guid>
+            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케터 각 연차별 체크리스트  체크해보세요! (아이보스 ─ 인기글)]]></title>
@@ -224,17 +224,17 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버 vs 다윈중개... 경쟁사 크롤링은 합법일까? 불.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57646</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57646</guid>
-            <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[신규 출시하는 CPC 광고를 둘러싼 논쟁 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57685</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57685</guid>
             <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네이버 vs 다윈중개... 경쟁사 크롤링은 합법일까? 불.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57646</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57646</guid>
+            <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
@@ -315,6 +315,13 @@
             <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[AI검색 확대하는 네이버 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57717</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57717</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[마케터는 다차원적 사고를 통해서 상상력을 키워야.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57617</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57617</guid>
@@ -341,13 +348,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57669</guid>
             <pubDate>Tue, 26 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김매니저]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마케터가 소통하는 6가지 방법 꿀팁 ( 제 경험 위주입.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57590</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57590</guid>
-            <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[근육돌이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우주 대학 축제: 젊음의 중심에서 SKT를 만나다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[기업 가치가 10억 달러 이상이며, 창업한 지 10년 이하인 스타트업을 '유니콘 기업'이라고 합니다. 국내 최초로 유니콘으로 등재된 기업은 어디일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 11 May 2022 10:23:49 GMT</pubDate>
+            <pubDate>Wed, 11 May 2022 11:16:36 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->기업 가치가 10억 달러 이상이며, 창업한 지 10년 이하인 스타트업을 '유니콘 기업'이라고 합니다. 국내 최초로 유니콘으로 등재된 기업은 어디일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
