@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 08:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 09:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우주 대학 축제: 젊음의 중심에서 SKT를 만나다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8725</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8725</guid>
+            <pubDate>Wed, 11 May 2022 09:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[대학의 꽃은 단연코, 축제라고 할 수 있다. 하지만 2019년부터 계속된 코로나로 2020, 2021, 2022년 입학한 학생들은 대학 축제는 커녕 강의실조차 가보지 않은 비운의 코로나 학번이다. 이에 현재 홍대입구역 근처에서 진행되고 있는 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_9cb77d8c644e9e02ac9cbc74cfdfe52d_29026_6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유튜브, 채널 멤버십 선물 기능 시범 운영]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8723</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8695</guid>
             <pubDate>Fri, 06 May 2022 11:16:22 GMT</pubDate>
             <content:encoded><![CDATA[가상인간 로지가 목소리를 갖게 됐다. 네이버(주)(대표이사 최수연)는6일싸이더스 스튜디오 엑스와 손잡고,로지의AI보이스를 클로바AI음성합성 기술로 만들었다고 밝혔다. 로지의AI보이스는 오는8일 방송되는SBS파워FM두시탈출  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[아이언소스, 틸팅포인트와 미디에이션 파트너십 연장 체결]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8694</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8694</guid>
-            <pubDate>Fri, 06 May 2022 09:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource, NYSE:IS)는 북미 게임 퍼블리셔 틸팅포인트(Tilting Point)와 미디에이션 파트너십 연장 계약을 체결했다고 공식 발표했다. 틸팅포인트는 선두F2P(Free-to-play,부분 유료화)게 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
