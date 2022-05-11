@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 22:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 23:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[5월 12일 마케팅 뉴스클리핑] 네이버 쇼핑 당일새벽배송 초읽기 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8724</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8724</guid>
+            <pubDate>Thu, 12 May 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버 쇼핑 당일새벽배송 `초읽기`  네이버는 대한통운과 협업을 통해 네이버쇼핑 판매자를 대상으로 당일도착새벽배송 등을 제공한다. 양사는 앞으로도 내일도착이 가능한 카테고리를 펫, 소형가전 등으로 확대할 계획이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_b320a650234db8b278358ccf34acdbb6_47612_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우주 대학 축제: 젊음의 중심에서 SKT를 만나다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8725</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8696</guid>
             <pubDate>Sat, 07 May 2022 08:45:00 GMT</pubDate>
             <content:encoded><![CDATA[옥외광고 및디지털 옥외광고 생태계를 위한 미국옥외광고협회(OAAA, Out of Home Advertising Association of America)는 미디어 리더들이 옥외광고산업의 가장 중요한 측면을 구상하고 기여하기 위한 협업 플랫폼인 OAAA 브랜드 협의회의 구성 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[가상 인간 로지 목소리 생겼다... 8일 두시탈출 컬투쇼 출연]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8695</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8695</guid>
-            <pubDate>Fri, 06 May 2022 11:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[가상인간 로지가 목소리를 갖게 됐다. 네이버(주)(대표이사 최수연)는6일싸이더스 스튜디오 엑스와 손잡고,로지의AI보이스를 클로바AI음성합성 기술로 만들었다고 밝혔다. 로지의AI보이스는 오는8일 방송되는SBS파워FM두시탈출  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
