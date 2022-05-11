@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 07:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 08:26:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,13 @@
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[우리의 진짜 고객은 누구인가 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57609</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57609</guid>
+            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[르와즈]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[잘 파는 사람들의 노하우 7가지를 확인해보세요. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57669</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57669</guid>
@@ -341,13 +348,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57590</guid>
             <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우리의 진짜 고객은 누구인가 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57609</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57609</guid>
-            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[르와즈]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[유튜브, 채널 멤버십 선물 기능 시범 운영 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[기업 가치가 10억 달러 이상이며, 창업한 지 10년 이하인 스타트업을 '유니콘 기업'이라고 합니다. 국내 최초로 유니콘으로 등재된 기업은 어디일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 11 May 2022 07:24:12 GMT</pubDate>
+            <pubDate>Wed, 11 May 2022 08:26:07 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->기업 가치가 10억 달러 이상이며, 창업한 지 10년 이하인 스타트업을 '유니콘 기업'이라고 합니다. 국내 최초로 유니콘으로 등재된 기업은 어디일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
