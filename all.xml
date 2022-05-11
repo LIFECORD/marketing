@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 14:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 15:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8695</guid>
             <pubDate>Fri, 06 May 2022 11:16:22 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[기업 가치가 10억 달러 이상이며, 창업한 지 10년 이하인 스타트업을 '유니콘 기업'이라고 합니다. 국내 최초로 유니콘으로 등재된 기업은 어디일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 11 May 2022 14:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->기업 가치가 10억 달러 이상이며, 창업한 지 10년 이하인 스타트업을 '유니콘 기업'이라고 합니다. 국내 최초로 유니콘으로 등재된 기업은 어디일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1419_1" value="1" class="AB-radio" id="PQ_BD5826_1419_1_0"><label for="PQ_BD5826_1419_1_0" id="label_PQ_BD5826_1419_1_0">(A) 비바리퍼블리카(토스)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1419_1" value="2" class="AB-radio" id="PQ_BD5826_1419_1_1"><label for="PQ_BD5826_1419_1_1" id="label_PQ_BD5826_1419_1_1">(B) 옐로모바일</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1419_1" value="3" class="AB-radio" id="PQ_BD5826_1419_1_2"><label for="PQ_BD5826_1419_1_2" id="label_PQ_BD5826_1419_1_2">(C) 우아한형제들(배달의민족)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1419_1" value="4" class="AB-radio" id="PQ_BD5826_1419_1_3"><label for="PQ_BD5826_1419_1_3" id="label_PQ_BD5826_1419_1_3">(D) 쿠팡</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인·자영업자 종합소득세 등 납부 8월 말로 연장 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
