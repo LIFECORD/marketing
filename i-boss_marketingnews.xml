@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 01:46:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 03:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CJ올리브영, 거리두기 해제에 색조 화장품 인기... 오프라인 매출 늘어]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8721</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8721</guid>
+            <pubDate>Wed, 11 May 2022 11:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[CJ올리브영이 거리 두기가 전면 해제된 지난 4월 18일부터 5월 10일까지 매출을 분석한 결과, 색조화장품 매출이 전년 대비 56% 증가했다고 11일 밝혔다. 같은 기간 오프라인 매장 매출도 28% 늘었다.  색조화장품 중에서도 특히 선명 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[거리두기 해제로 4월 대형마트, 커피숍, 백화점, 여행 등 오프라인 결제 증가]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8720</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8692</guid>
             <pubDate>Fri, 06 May 2022 08:39:00 GMT</pubDate>
             <content:encoded><![CDATA[해외 외국인들의 관심소재인 K-뷰티를 앞세워 한국관광공사(이하 공사)와 CJ올리브영(이하 올리브영)은 방한시장 조기 정상화를 위한 디지털마케팅 등 본격 프로모션에 들어갔다. 공사와 국내 대표 K-뷰티 채널 올리브영 글로벌 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡, 뉴프론트에서 컨텍스츄얼 광고 솔루션 틱톡 펄스 공개... 브랜드 세이프티에 중점둘 것]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8691</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8691</guid>
-            <pubDate>Fri, 06 May 2022 08:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[틱톡은틱톡에서 최고의 비디오 옆에 브랜드 광고를 선보일 수 있는 기능을 제공하는새로운 컨텍스츄얼 광고 옵션을 공개했다. 틱톡은 뉴프론트발표회에 앞서 틱톡의모든 동영상 중 상위 4% 옆에 브랜드 광고를 게재할 수 있는  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

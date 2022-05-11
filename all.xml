@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 01:46:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 03:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -322,18 +322,18 @@
             <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[키스미가 일하는 남다른 방식 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57657</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57657</guid>
-            <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[jinhorus]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케터는 다차원적 사고를 통해서 상상력을 키워야.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57617</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57617</guid>
             <pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[키스미가 일하는 남다른 방식 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57657</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57657</guid>
+            <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[jinhorus]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[잘 파는 사람들의 노하우 7가지를 확인해보세요. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57590</guid>
             <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CJ올리브영, 거리두기 해제에 색조 화장품 인기... 오프라인 매출 늘어 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8721</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8721</guid>
+            <pubDate>Wed, 11 May 2022 11:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[CJ올리브영이 거리 두기가 전면 해제된 지난 4월 18일부터 5월 10일까지 매출을 분석한 결과, 색조화장품 매출이 전년 대비 56% 증가했다고 11일 밝혔다. 같은 기간 오프라인 매장 매출도 28% 늘었다.  색조화장품 중에서도 특히 선명 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[거리두기 해제로 4월 대형마트, 커피숍, 백화점, 여행 등 오프라인 결제 증가 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,32 +590,31 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[틱톡, 뉴프론트에서 컨텍스츄얼 광고 솔루션 틱톡 펄스 공개... 브랜드 세이프티에 중점둘 것 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8691</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8691</guid>
-            <pubDate>Fri, 06 May 2022 08:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[틱톡은틱톡에서 최고의 비디오 옆에 브랜드 광고를 선보일 수 있는 기능을 제공하는새로운 컨텍스츄얼 광고 옵션을 공개했다. 틱톡은 뉴프론트발표회에 앞서 틱톡의모든 동영상 중 상위 4% 옆에 브랜드 광고를 게재할 수 있는  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[CJ올리브영, 거리두기 해제에 색조 화장품 인기... 오프라인 매출 늘어 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8721</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8721</guid>
+            <pubDate>Wed, 11 May 2022 03:24:02 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[거리두기 해제로 4월 대형마트, 커피숍, 백화점, 여행 등 오프라인 결제 증가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8720</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8720</guid>
-            <pubDate>Wed, 11 May 2022 01:46:32 GMT</pubDate>
+            <pubDate>Wed, 11 May 2022 09:50:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이제는 차도, 옷도, 화장품도 비건 시대! (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8719</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8719</guid>
-            <pubDate>Wed, 11 May 2022 01:46:32 GMT</pubDate>
+            <pubDate>Wed, 11 May 2022 09:19:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제일기획, 메타버스 전문 기업 ‘이브이알스튜디오’ 투자... 메타버스향 디지털 역량 강화 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8718</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8718</guid>
-            <pubDate>Wed, 11 May 2022 01:46:32 GMT</pubDate>
+            <pubDate>Wed, 11 May 2022 08:35:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -621,7 +628,7 @@
             <title><![CDATA[[5월 11일 마케팅 뉴스클리핑] 식지 않는 인기... 포켓몬 마케팅 확산 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8714</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8714</guid>
-            <pubDate>Wed, 11 May 2022 01:46:32 GMT</pubDate>
+            <pubDate>Wed, 11 May 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[틱톡, 뉴프론트에서 컨텍스츄얼 광고 솔루션 "틱톡 펄스" 공개... 브랜드 세이프티에 중점둘 것 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8691</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8691</guid>
-            <pubDate>Fri, 06 May 2022 08:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[기업 가치가 10억 달러 이상이며, 창업한 지 10년 이하인 스타트업을 '유니콘 기업'이라고 합니다. 국내 최초로 유니콘으로 등재된 기업은 어디일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 11 May 2022 01:46:47 GMT</pubDate>
+            <pubDate>Wed, 11 May 2022 03:24:15 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->기업 가치가 10억 달러 이상이며, 창업한 지 10년 이하인 스타트업을 '유니콘 기업'이라고 합니다. 국내 최초로 유니콘으로 등재된 기업은 어디일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
