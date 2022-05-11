@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 19:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 20:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,18 +308,18 @@
             <content:encoded><![CDATA[디자인업]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우뇌가 알려주는 실패하지 않는 검색광고 운영법 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57607</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57607</guid>
-            <pubDate>Sun, 17 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[우뇌]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[AI검색 확대하는 네이버 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57717</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57717</guid>
             <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우뇌가 알려주는 실패하지 않는 검색광고 운영법 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57607</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57607</guid>
+            <pubDate>Sun, 17 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케터는 다차원적 사고를 통해서 상상력을 키워야.. (아이보스 ─ 인기글)]]></title>
