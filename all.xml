@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 04:32:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 05:26:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,6 +252,13 @@
             <content:encoded><![CDATA[르와즈]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[마케팅밈] 눈물없이 볼 수 없는 마케팅 꿀팁 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39003</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39003</guid>
+            <pubDate>Thu, 12 May 2022 04:31:39 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[MSM] 좋은 대행사 마케터와 좋은 인하우스의 만남의 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57714</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57714</guid>
@@ -285,13 +292,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57641</guid>
             <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[마케팅밈] 눈물없이 볼 수 없는 마케팅 꿀팁 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39003</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39003</guid>
-            <pubDate>Thu, 12 May 2022 04:31:39 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[돈을 버는 방법의 진화 과정 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 네이버 검색광고 등록 기준에 대해 옳지 않은 설명을 한 사람은 누구일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 12 May 2022 04:32:14 GMT</pubDate>
+            <pubDate>Thu, 12 May 2022 05:26:19 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 네이버 검색광고 등록 기준에 대해 옳지 않은 설명을 한 사람은 누구일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/5181b76d7af45b980bc9cfee02897dad_1651477464003.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
