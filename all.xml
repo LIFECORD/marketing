@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 14:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 15:24:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8704</guid>
             <pubDate>Mon, 09 May 2022 08:46:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다음 중 네이버 검색광고 등록 기준에 대해 옳지 않은 설명을 한 사람은 누구일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 12 May 2022 14:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->다음 중 네이버 검색광고 등록 기준에 대해 옳지 않은 설명을 한 사람은 누구일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/5181b76d7af45b980bc9cfee02897dad_1651477464003.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1420_1" value="1" class="AB-radio" id="PQ_BD5826_1420_1_0"><label for="PQ_BD5826_1420_1_0" id="label_PQ_BD5826_1420_1_0">(A) 아름</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1420_1" value="2" class="AB-radio" id="PQ_BD5826_1420_1_1"><label for="PQ_BD5826_1420_1_1" id="label_PQ_BD5826_1420_1_1">(B) 다운</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1420_1" value="3" class="AB-radio" id="PQ_BD5826_1420_1_2"><label for="PQ_BD5826_1420_1_2" id="label_PQ_BD5826_1420_1_2">(C) 우리</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1420_1" value="4" class="AB-radio" id="PQ_BD5826_1420_1_3"><label for="PQ_BD5826_1420_1_3" id="label_PQ_BD5826_1420_1_3">(D) 강산</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인·자영업자 종합소득세 등 납부 8월 말로 연장 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
