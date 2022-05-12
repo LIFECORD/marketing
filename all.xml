@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 17:28:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 18:25:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,18 +252,18 @@
             <content:encoded><![CDATA[레미니센스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네컷 사진이 사람들의 마음을 사로잡은 이유 📷 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57630</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57630</guid>
-            <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[원가, 마진을 다 공개하는 아웃도어 브랜드 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57661</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57661</guid>
             <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[르와즈]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네컷 사진이 사람들의 마음을 사로잡은 이유 📷 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57630</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57630</guid>
+            <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국인이 가장 많이 사용하는 쇼핑 앱은? (아이보스 ─ 인기글)]]></title>
