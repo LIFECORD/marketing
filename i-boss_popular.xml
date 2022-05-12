@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-05-12T13:45:33.035Z</updated>
+    <updated>2022-05-12T14:20:54.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[네이버 vs 다윈중개... 경쟁사 크롤링은 합법일까? 불..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57646</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57646"/>
-        <updated>2022-04-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[마케팅밈] 눈물없이 볼 수 없는 마케팅 꿀팁]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-39003</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-39003"/>
         <updated>2022-05-12T04:31:39.777Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버 vs 다윈중개... 경쟁사 크롤링은 합법일까? 불..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57646</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57646"/>
+        <updated>2022-04-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[MSM] 인하우스 마케터 꿀팁 판매 상황에 따른 마케팅!]]></title>
