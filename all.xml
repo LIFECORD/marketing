@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 22:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 23:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[5월 13일 마케팅 뉴스클리핑] 법률서비스 로톡 변호사법 위반 무혐의 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8734</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8734</guid>
+            <pubDate>Fri, 13 May 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 법률서비스 `로톡` 변호사법 위반 무혐의  검찰은 11일 법률 플랫폼 로톡이 변호사법과 개인정보보호법을 위반하지 않았다며 무혐의 처분했다. 변호사로부터 광고료 외에 상담, 수임 관련 대가를 받지 않은 로톡 플랫폼 운영 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_ba32c2cc660fac675ca74a6f0c8cc712_53098_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[화해-SBA, 신생 뷰티 브랜드 마케팅 지원 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8733</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8733</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[Account Action] 움츠러든 4월 경쟁 PT.., 광고시장 다시 침체의 늪에 빠질까? (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8704</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8704</guid>
-            <pubDate>Mon, 09 May 2022 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[다소 선방했던 1분기를 뒤로하고, 4월 경쟁 PT 시장은 차가운 봄기운과 함께 다시 움츠러드는 모양새다. 4월 경쟁 PT 시장은위드 코로나에서 포스트 코로나 시대 로 전환되면서 함께 활기를 불어넣고, 지난달 예상처럼 다양한 업 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[5월 13일 마케팅 뉴스클리핑] 법률서비스 '로톡' 변호사법 위반 무혐의 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8734</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8734</guid>
+            <pubDate>Thu, 12 May 2022 23:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[화해-SBA, 신생 뷰티 브랜드 마케팅 지원 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[Account Action] 움츠러든 4월 경쟁 PT.., 광고시장 다시 침체의 늪에 빠질까? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8704</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8704</guid>
-            <pubDate>Mon, 09 May 2022 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA['이것'은 프론트엔드와 백엔드를 분리한 새로운 이커머스 기술입니다. 빠르게 변화하는 소비자의 성향에 맞춰 마음껏 UI·UX를 변경할 수 있고, 여러 채널에서 모은 각종 데이터를 분석하고 관리할 수 있어 이커머스 업계에서 주목받고 있는 '이것'은 무엇일까요?(hint: 5/2 큐레터가 픽한 트렌드 키워드예요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Thu, 12 May 2022 23:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->'이것'은 프론트엔드와 백엔드를 분리한 새로운 이커머스 기술입니다. 빠르게 변화하는 소비자의 성향에 맞춰 마음껏 UI·UX를 변경할 수 있고, 여러 채널에서 모은 각종 데이터를 분석하고 관리할 수 있어 이커머스 업계에서 주목받고 있는 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57682" target="_blank">5/2 큐레터가 픽한 트렌드 키워드예요!</a>)</span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1421_1" value="1" class="AB-radio" id="PQ_BD5826_1421_1_0"><label for="PQ_BD5826_1421_1_0" id="label_PQ_BD5826_1421_1_0">(A) 라이크 커머스</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1421_1" value="2" class="AB-radio" id="PQ_BD5826_1421_1_1"><label for="PQ_BD5826_1421_1_1" id="label_PQ_BD5826_1421_1_1">(B) 헤드리스 커머스</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1421_1" value="3" class="AB-radio" id="PQ_BD5826_1421_1_2"><label for="PQ_BD5826_1421_1_2" id="label_PQ_BD5826_1421_1_2">(C) 버티컬 커머스</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1421_1" value="4" class="AB-radio" id="PQ_BD5826_1421_1_3"><label for="PQ_BD5826_1421_1_3" id="label_PQ_BD5826_1421_1_3">(D) O2O 커머스</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인·자영업자 종합소득세 등 납부 8월 말로 연장 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

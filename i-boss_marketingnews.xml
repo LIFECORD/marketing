@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 22:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 23:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[5월 13일 마케팅 뉴스클리핑] 법률서비스 로톡 변호사법 위반 무혐의 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8734</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8734</guid>
+            <pubDate>Fri, 13 May 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 법률서비스 `로톡` 변호사법 위반 무혐의  검찰은 11일 법률 플랫폼 로톡이 변호사법과 개인정보보호법을 위반하지 않았다며 무혐의 처분했다. 변호사로부터 광고료 외에 상담, 수임 관련 대가를 받지 않은 로톡 플랫폼 운영 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_ba32c2cc660fac675ca74a6f0c8cc712_53098_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화해-SBA, 신생 뷰티 브랜드 마케팅 지원]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8733</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8705</guid>
             <pubDate>Mon, 09 May 2022 08:47:00 GMT</pubDate>
             <content:encoded><![CDATA[스타벅스 라떼 마시고 NFT 받을까?스타벅스는 올해 말 NFT(Non-Fungible Token) 컬렉션 출시와 함께 web3 공간에 진입할 계획을 발표했다. 스타벅스는 2022 회계연도 2분기 실적 발표에서 투자자들에게 NFT가 스타벅스의 브랜드 콘셉트인 ` ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[Account Action] 움츠러든 4월 경쟁 PT.., 광고시장 다시 침체의 늪에 빠질까?]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8704</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8704</guid>
-            <pubDate>Mon, 09 May 2022 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[다소 선방했던 1분기를 뒤로하고, 4월 경쟁 PT 시장은 차가운 봄기운과 함께 다시 움츠러드는 모양새다. 4월 경쟁 PT 시장은위드 코로나에서 포스트 코로나 시대 로 전환되면서 함께 활기를 불어넣고, 지난달 예상처럼 다양한 업 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
