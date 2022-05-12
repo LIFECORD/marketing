@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 01:43:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 03:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,18 +231,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[MD와 마케터 이도저도 아닌 나 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38817</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38817</guid>
-            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[모야야]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[MSM] 인하우스 마케터 꿀팁 판매 상황에 따른 마케팅! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57701</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57701</guid>
             <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레미니센스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MD와 마케터 이도저도 아닌 나 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38817</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38817</guid>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[모야야]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제품vs브랜드 무엇이 더 중요할까? (아이보스 ─ 인기글)]]></title>
@@ -294,18 +294,18 @@
             <content:encoded><![CDATA[식자재중개플렛폼]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[꼭 알아야 할 `나에 대한 오류` 9가지 (완벽한 공부법,.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38968</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38968</guid>
-            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[디자인업]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[AI검색 확대하는 네이버 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57717</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57717</guid>
             <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[꼭 알아야 할 `나에 대한 오류` 9가지 (완벽한 공부법,.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38968</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38968</guid>
+            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[디자인업]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우뇌가 알려주는 실패하지 않는 검색광고 운영법 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57590</guid>
             <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[화해-SBA, 신생 뷰티 브랜드 마케팅 지원 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8733</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8733</guid>
+            <pubDate>Thu, 12 May 2022 10:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[`중소 브랜드 맞춤 혜택과 지원 늘려갈 것  모바일 뷰티 플랫폼 화해가 서울산업진흥원(SBA)과 신생 뷰티 브랜드 마케팅 지원 및 판매 활성화를 위한 업무 협약(MOU)을 체결했다고 12일 밝혔다.  이번 협약은 서울 소재의 유망 뷰티  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_cb74a512f2ff3f0114ce37370e934ebd_51731_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Z세대가 사고 싶은 가전 제품은? (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,60 +590,59 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 진정성있는 응원 캠페인으로 위로와 응원을 이어가겠습니다 그랑몬스터 김두환 본부장, 장길녕 국장 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8703</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8703</guid>
-            <pubDate>Mon, 09 May 2022 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[소비자와 공감하는 광고는 분명 좋은 광고다. 단순히 `척`만 해서는 공감할 수 없다. 특히 브랜드가 사회에 대해 위로와 응원 메시지를 보낼 때는 더욱 그렇다. 그런 의미에서 작년 `신한금융투자의 응원 캠페인`은 많은 사람들 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[화해-SBA, 신생 뷰티 브랜드 마케팅 지원 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8733</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8733</guid>
+            <pubDate>Thu, 12 May 2022 03:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대가 사고 싶은 가전 제품은? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8732</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8732</guid>
-            <pubDate>Thu, 12 May 2022 01:42:54 GMT</pubDate>
+            <pubDate>Thu, 12 May 2022 10:07:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[웹툰 리소스도 사고 판다? KPR, 디자인 리소스 플랫폼 ‘위니디’ 카테고리 추가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8731</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8731</guid>
-            <pubDate>Thu, 12 May 2022 01:42:54 GMT</pubDate>
+            <pubDate>Thu, 12 May 2022 09:27:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인크로스, IPTV 3사∙단국대학교 연구팀과 어드레서블TV 광고효과 연구 협약 체결 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8730</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8730</guid>
-            <pubDate>Thu, 12 May 2022 01:42:54 GMT</pubDate>
+            <pubDate>Thu, 12 May 2022 09:20:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[모티브인텔리전스, 국내 애드익스체인지 최초 유니파이드아이디 2.0 적용 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8729</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8729</guid>
-            <pubDate>Thu, 12 May 2022 01:42:54 GMT</pubDate>
+            <pubDate>Thu, 12 May 2022 09:11:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[해외 크리에이티브] 오길비UK, 노년층을 위한 원예 테마 콘돔을 론칭하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8728</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8728</guid>
-            <pubDate>Thu, 12 May 2022 01:42:54 GMT</pubDate>
+            <pubDate>Thu, 12 May 2022 08:50:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 쿠키없는 미래, 마케터는 무엇을 활용할까? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8727</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8727</guid>
-            <pubDate>Thu, 12 May 2022 01:42:54 GMT</pubDate>
+            <pubDate>Thu, 12 May 2022 08:47:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[트렌드모니터] 사회적 거리두기 해제, 잠시 멈췄던 회식 문화 어떻게 달라질까 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8726</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8726</guid>
-            <pubDate>Thu, 12 May 2022 01:42:54 GMT</pubDate>
+            <pubDate>Thu, 12 May 2022 08:47:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] "진정성있는 응원 캠페인으로 위로와 응원을 이어가겠습니다" 그랑몬스터 김두환 본부장, 장길녕 국장 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8703</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8703</guid>
-            <pubDate>Mon, 09 May 2022 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 네이버 검색광고 등록 기준에 대해 옳지 않은 설명을 한 사람은 누구일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 12 May 2022 01:43:08 GMT</pubDate>
+            <pubDate>Thu, 12 May 2022 03:16:00 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 네이버 검색광고 등록 기준에 대해 옳지 않은 설명을 한 사람은 누구일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/5181b76d7af45b980bc9cfee02897dad_1651477464003.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 01:43:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 03:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화해-SBA, 신생 뷰티 브랜드 마케팅 지원]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8733</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8733</guid>
+            <pubDate>Thu, 12 May 2022 10:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[`중소 브랜드 맞춤 혜택과 지원 늘려갈 것  모바일 뷰티 플랫폼 화해가 서울산업진흥원(SBA)과 신생 뷰티 브랜드 마케팅 지원 및 판매 활성화를 위한 업무 협약(MOU)을 체결했다고 12일 밝혔다.  이번 협약은 서울 소재의 유망 뷰티  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_cb74a512f2ff3f0114ce37370e934ebd_51731_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Z세대가 사고 싶은 가전 제품은?]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8732</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8704</guid>
             <pubDate>Mon, 09 May 2022 08:46:00 GMT</pubDate>
             <content:encoded><![CDATA[다소 선방했던 1분기를 뒤로하고, 4월 경쟁 PT 시장은 차가운 봄기운과 함께 다시 움츠러드는 모양새다. 4월 경쟁 PT 시장은위드 코로나에서 포스트 코로나 시대 로 전환되면서 함께 활기를 불어넣고, 지난달 예상처럼 다양한 업 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 진정성있는 응원 캠페인으로 위로와 응원을 이어가겠습니다 그랑몬스터 김두환 본부장, 장길녕 국장]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8703</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8703</guid>
-            <pubDate>Mon, 09 May 2022 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[소비자와 공감하는 광고는 분명 좋은 광고다. 단순히 `척`만 해서는 공감할 수 없다. 특히 브랜드가 사회에 대해 위로와 응원 메시지를 보낼 때는 더욱 그렇다. 그런 의미에서 작년 `신한금융투자의 응원 캠페인`은 많은 사람들 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
