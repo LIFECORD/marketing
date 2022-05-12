@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 12:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 13:45:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,18 +210,18 @@
             <content:encoded><![CDATA[흥미진진]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[파는 제품이 아니라 파는 가치를 생각한다 `행복을 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-457</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-457</guid>
-            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[신규 출시하는 CPC 광고를 둘러싼 논쟁 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57685</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57685</guid>
             <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[파는 제품이 아니라 파는 가치를 생각한다 `행복을 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2973-457</link>
+            <guid>https://www.i-boss.co.kr/ab-2973-457</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버 vs 다윈중개... 경쟁사 크롤링은 합법일까? 불.. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 네이버 검색광고 등록 기준에 대해 옳지 않은 설명을 한 사람은 누구일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 12 May 2022 12:37:44 GMT</pubDate>
+            <pubDate>Thu, 12 May 2022 13:45:24 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 네이버 검색광고 등록 기준에 대해 옳지 않은 설명을 한 사람은 누구일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/5181b76d7af45b980bc9cfee02897dad_1651477464003.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
