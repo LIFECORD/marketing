@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 23:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 01:43:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[할 일 없는 신입은 뭐 해요? 😥]]></title>
+            <link>https://qletter.i-boss.co.kr/view/993494-%ED%95%A0_%EC%9D%BC_%EC%97%86%EB%8A%94_%EC%8B%A0%EC%9E%85%EC%9D%80_%EB%AD%90_%ED%95%B4%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/993494-%ED%95%A0_%EC%9D%BC_%EC%97%86%EB%8A%94_%EC%8B%A0%EC%9E%85%EC%9D%80_%EB%AD%90_%ED%95%B4%EC%9A%94/</guid>
+            <pubDate>Thu, 12 May 2022 01:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/993494-할_일_없는_신입은_뭐_해요/">
+						<div class="thumb"><img src="/images/qletter_993494.png"></div>
+						<p><strong>할 일 없는 신입은 뭐 해요? 😥</strong>2022.05.12</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_993494.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인공지능으로 취향 저격하는 검색 결과 🤖]]></title>
             <link>https://qletter.i-boss.co.kr/view/987962-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9C%BC%EB%A1%9C_%EC%B7%A8%ED%96%A5_%EC%A0%80%EA%B2%A9%ED%95%98%EB%8A%94_%EA%B2%80%EC%83%89_%EA%B2%B0%EA%B3%BC/</link>
@@ -127,17 +138,6 @@
 						<p><strong>MZ를 공략하는 마케팅 코드 10가지</strong>2022.03.31</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_933159.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[음은 이제 종료됐'음']]></title>
-            <link>https://qletter.i-boss.co.kr/view/926679-%EC%9D%8C%EC%9D%80_%EC%9D%B4%EC%A0%9C_%EC%A2%85%EB%A3%8C%EB%90%90%EC%9D%8C/</link>
-            <guid>https://qletter.i-boss.co.kr/view/926679-%EC%9D%8C%EC%9D%80_%EC%9D%B4%EC%A0%9C_%EC%A2%85%EB%A3%8C%EB%90%90%EC%9D%8C/</guid>
-            <pubDate>Mon, 28 Mar 2022 02:58:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/926679-음은_이제_종료됐음/">
-						<div class="thumb"><img src="/images/qletter_926679.png"></div>
-						<p><strong> 음은 이제 종료됐'음'</strong>2022.03.28</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_926679.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
