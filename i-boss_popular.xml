@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-05-24T08:25:01.919Z</updated>
+    <updated>2022-05-24T09:20:53.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[오니드]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[네이버 vs 다윈중개... 경쟁사 크롤링은 합법일까? 불..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57646</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57646"/>
-        <updated>2022-04-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[레미니] 대행사마케터가 인하우스가서 실패하는 이..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57807</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57807"/>
         <updated>2022-05-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[레미니센스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버 vs 다윈중개... 경쟁사 크롤링은 합법일까? 불..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57646</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57646"/>
+        <updated>2022-04-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[보스님의 ‘갓생’을 도와주는 마케팅 사례 ✨]]></title>
@@ -139,6 +139,13 @@
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뜨고 있는 근무 트렌드, 워케이션]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57755</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57755"/>
+        <updated>2022-05-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[미디어커머스 시장이 몰락한 이유]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57741</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57741"/>
@@ -151,13 +158,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-38920"/>
         <updated>2022-04-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[식자재중개플렛폼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뜨고 있는 근무 트렌드, 워케이션]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57755</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57755"/>
-        <updated>2022-05-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SNS광고마케터 자격증 결과 확인하셨나요?]]></title>
