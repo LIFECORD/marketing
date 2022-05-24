@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 19:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 20:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,18 +252,18 @@
             <content:encoded><![CDATA[김매니저]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[원가, 마진을 다 공개하는 아웃도어 브랜드 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57661</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57661</guid>
-            <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[르와즈]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[5.18 기념 특별한 폰트 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57792</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57792</guid>
             <pubDate>Tue, 17 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[원가, 마진을 다 공개하는 아웃도어 브랜드 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57661</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57661</guid>
+            <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[르와즈]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뜨고 있는 근무 트렌드, 워케이션 (아이보스 ─ 인기글)]]></title>
