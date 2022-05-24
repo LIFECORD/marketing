@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 02:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 03:26:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -245,18 +245,18 @@
             <content:encoded><![CDATA[호랑이마케팅]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[원가, 마진을 다 공개하는 아웃도어 브랜드 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57661</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57661</guid>
-            <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[르와즈]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[잘 파는 사람들의 노하우 7가지를 확인해보세요. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57669</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57669</guid>
             <pubDate>Tue, 26 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김매니저]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[원가, 마진을 다 공개하는 아웃도어 브랜드 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57661</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57661</guid>
+            <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[르와즈]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국인이 가장 많이 사용하는 쇼핑 앱은? (아이보스 ─ 인기글)]]></title>
@@ -287,18 +287,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SNS광고마케터 자격증 결과 확인하셨나요? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39046</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39046</guid>
-            <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[유리나]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[5.18 기념 특별한 폰트 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57792</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57792</guid>
             <pubDate>Tue, 17 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SNS광고마케터 자격증 결과 확인하셨나요? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39046</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39046</guid>
+            <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[꼭 알아야 할 `나에 대한 오류` 9가지 (완벽한 공부법,.. (아이보스 ─ 인기글)]]></title>
@@ -315,6 +315,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[나만 알고 싶은 무료폰트 [명조편] (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57691</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57691</guid>
+            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[휴이언니]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[네이버 GFA 최신 자료 공유 1 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57733</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57733</guid>
@@ -329,13 +336,6 @@
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[나만 알고 싶은 무료폰트 [명조편] (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57691</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57691</guid>
-            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[휴이언니]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[이것만 알면 기본은 하는 카드뉴스 디자인! 2탄! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57800</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57800</guid>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-39005</guid>
             <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[체르시]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[틱톡, 크리에이터 유료 구독 서비스 선보인다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8800</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8800</guid>
+            <pubDate>Tue, 24 May 2022 00:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[전용 채팅, 배지, 이모티콘 등 특전 제공할 예정  23일(현지시간) 더버지에 따르면 틱톡은 오는 26일 시청자가 크리에이터를 유료로 구독할 수 있는 `라이브 구독`의 베타 서비스를 시작한다.  유료 구독자들은 크리에이터와 유료  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[소비자 오인혼동 건강기능식품 온라인 게시물 264건 적발 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,228 +590,220 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[틱톡, 브랜디드 콘텐츠 공개 모집하는 새로운 광고 솔루션 브랜디드 미션 베타 런칭 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8770</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8770</guid>
-            <pubDate>Thu, 19 May 2022 09:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[브랜드 공식 광고로 지정되는 크리에이터 영상에는 광고주 지불 프로모션 트래픽 비용을 통해 노출 증대 리워드 제공 팔로워 1천 명 이상, 만 19세 이상 등 일정 조건 충족하는 틱톡 크리에이터 누구나 참여 가능 한국을 포함한 1 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16529210319803.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[틱톡, 크리에이터 유료 구독 서비스 선보인다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8800</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8800</guid>
+            <pubDate>Tue, 24 May 2022 03:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소비자 오인·혼동 건강기능식품 온라인 게시물 264건 적발 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8799</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8799</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Tue, 24 May 2022 11:11:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사용자가 가장 많은 OTT 앱은 넷플릭스, 티빙, 쿠팡플레이, 웨이브 순 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8798</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8798</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Tue, 24 May 2022 10:02:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[애드저스트, 모바일 앱 트렌드 리포트 2022 발표... 전세계 상위 2,000개 앱 및 앱 추적 데이터 분석 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8797</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8797</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Tue, 24 May 2022 09:53:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[훌루, 업프론트에서 스트리밍 플랫폼 중 1위 차지 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8796</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8796</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Tue, 24 May 2022 08:32:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[5월 24일 마케팅 뉴스클리핑] 중고 거래 시장 24조로 성장 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8793</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8793</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Tue, 24 May 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국광고총연합회, 한국광고아카데미 7기 입학식 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8795</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8795</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Tue, 24 May 2022 02:19:52 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['동네 수다방' 된 당근마켓에 '스타트업'이 몰린다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8794</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8794</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Tue, 24 May 2022 02:19:52 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[40대도 20대만큼 명품 플랫폼 이용... 최다 검색 카테고리는 ‘여자 가방’, 최다 구매 카테고리는 ‘남성 지갑’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8792</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8792</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Mon, 23 May 2022 10:15:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[국내 최대 플리마켓 ‘리버마켓’ 드디어 온라인 상륙... 공예주간 맞아 곤지암 도자공원에서 온라인 플랫폼 오픈 기념행사 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8791</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8791</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Mon, 23 May 2022 09:37:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[대홍기획, 임직원 벽화 그리기 재능기부 활동... 사내 동호회 "그림판"과 벽화로 서울 용암초 등굣길 밝혀 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8790</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8790</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Mon, 23 May 2022 09:11:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[센트럴시티, 문화 콘텐츠 풍성한 갤러리로 재탄생... 발달장애인들의 디지털 아트부터 현대미술 작품, 명품 브랜드까지 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8789</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8789</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Mon, 23 May 2022 09:01:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 인플레이션이 햄버거 가격을 어떻게 바꾸었을까? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8788</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8788</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Mon, 23 May 2022 08:30:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[5월 23일 마케팅 뉴스클리핑] 네이버, 맛집 검색 돕는 스마트블록 도입 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8787</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8787</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Mon, 23 May 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[해외 크리에이티브] 퍼블리시스 우크라이나 직원, 모금 캠페인에 나서다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8786</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8786</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Sun, 22 May 2022 09:16:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[러시아 광고 경제 감소, 글로벌 시장에 미치는 영향 미미 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8785</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8785</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Sun, 22 May 2022 09:15:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코카콜라, 쓰레기를 줄이기 위해 떨어지지 않는 병뚜껑을 내놓다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8784</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8784</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Sun, 22 May 2022 09:14:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 2021년 국가별 GDP 성장률 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8783</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8783</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Sun, 22 May 2022 09:14:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[콘비바, "세계 스트리밍 시장 두 자릿 수 성장"... 스트리밍 광고, 품질 향상으로 크게 반등 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8782</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8782</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Sat, 21 May 2022 09:10:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[전국 TV 스캐터 광고 수익, 4년 전에 비해 32% 감소 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8781</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8781</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Sat, 21 May 2022 09:09:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[트렌드모니터] "연애 감정도 대리만족이 편해”... ‘솔로’가 편한 요즘 젊은이들 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8780</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8780</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Sat, 21 May 2022 09:09:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나19 엔데믹 바람 속 광고업계는? ‘여행’, ‘외식’, ‘패션’에 주목 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8779</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8779</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Fri, 20 May 2022 10:18:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코바코 광고교육원, '1인 광고콘텐츠 창작자 양성과정 실전 프로젝트반 수강생' 모집 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8778</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8778</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Fri, 20 May 2022 09:25:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[피피픽, ‘2022 케이펫페어 일산’ 참가, 인기 제품 최대 73% 할인 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8777</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8777</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Fri, 20 May 2022 09:03:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[삼양사 큐원 상쾌환, 대학생 광고 공모전... 광고회사 인턴십 기회 제공 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8776</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8776</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Fri, 20 May 2022 08:34:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미국 광고 시장 14개월째 확대... 2020년 4월 대비 60% 상승 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8775</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8775</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Fri, 20 May 2022 08:33:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[5월 20일 마케팅 뉴스클리핑] 유튜브, 영상서 가장 인기 있는 부분 보여준다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8773</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8773</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Fri, 20 May 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[부산국제광고제, 2030 부산엑스포 유치에 함께한다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8774</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8774</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Tue, 24 May 2022 02:19:52 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[애드저스트, 통합형 커넥티드 TV광고 측정 솔루션 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8772</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8772</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Thu, 19 May 2022 11:05:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MZ세대 PR과 소통을 이야기하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8771</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8771</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
+            <pubDate>Thu, 19 May 2022 09:55:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[틱톡, 브랜디드 콘텐츠 공개 모집하는 새로운 광고 솔루션 '브랜디드 미션' 베타 런칭 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8770</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8770</guid>
-            <pubDate>Tue, 24 May 2022 02:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[얼마 전 보숙씨의 회사는 모바일 게임 ㄱ을 출시했습니다. 앱 전체 사용자 1,000명 중 20명이 유료 사용자이며 매출이 1,000만 원이었을 때, ARPPU는 얼마일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 24 May 2022 02:20:18 GMT</pubDate>
+            <pubDate>Tue, 24 May 2022 03:25:56 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->얼마 전 보숙씨의 회사는 모바일 게임 ㄱ을 출시했습니다. 앱 전체 사용자 1,000명 중 20명이 유료 사용자이며 매출이 1,000만 원이었을 때, ARPPU는 얼마일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 02:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 03:26:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틱톡, 크리에이터 유료 구독 서비스 선보인다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8800</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8800</guid>
+            <pubDate>Tue, 24 May 2022 00:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[전용 채팅, 배지, 이모티콘 등 특전 제공할 예정  23일(현지시간) 더버지에 따르면 틱톡은 오는 26일 시청자가 크리에이터를 유료로 구독할 수 있는 `라이브 구독`의 베타 서비스를 시작한다.  유료 구독자들은 크리에이터와 유료  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[소비자 오인혼동 건강기능식품 온라인 게시물 264건 적발]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8799</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 19 May 2022 09:55:00 GMT</pubDate>
             <content:encoded><![CDATA[한국PR협회(회장 김주호)가5월25일 오후5시 MZ세대가 생각하는PR콘텐츠,그리고 소통을 주제로 열두번째 PR피플 토크(People Talk) 행사를 개최한다. 이번PR피플 토크에서는MZ세대들이 생각하는PR의 개념과 콘텐츠를 통한 소통에 대해  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡, 브랜디드 콘텐츠 공개 모집하는 새로운 광고 솔루션 브랜디드 미션 베타 런칭]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8770</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8770</guid>
-            <pubDate>Thu, 19 May 2022 09:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[브랜드 공식 광고로 지정되는 크리에이터 영상에는 광고주 지불 프로모션 트래픽 비용을 통해 노출 증대 리워드 제공 팔로워 1천 명 이상, 만 19세 이상 등 일정 조건 충족하는 틱톡 크리에이터 누구나 참여 가능 한국을 포함한 1 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16529210319803.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
