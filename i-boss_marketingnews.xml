@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 22:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 23:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[5월 25일 마케팅 뉴스클리핑] IT게임 업계의 이유 있는 커머스 진출 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8801</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8801</guid>
+            <pubDate>Wed, 25 May 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. IT게임 업계의 이유 있는 `커머스` 진출  2010년 초 유통이 거머쥐고 있었던 커머스 시장이 게임, IT 업계로 넘어왔다. IT게임업계는 데이터, 디지털, AI 등이 중요해진 만큼 자사 기술력을 이용한 커머스 시장을 개척하겠다는 입 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0ab97a82c8d2cbda6f24fdb5d50e6aa8_27388_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[틱톡, 크리에이터 유료 구독 서비스 선보인다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8800</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 19 May 2022 11:05:00 GMT</pubDate>
             <content:encoded><![CDATA[모바일 마케팅 애널리틱스 플랫폼 애드저스트가 통합형 커넥티드 TV(CTV) 광고 측정 솔루션인 CTV AdVision을 출시했다고 19일 밝혔다.  CTV AdVision은 애드저스트의 `모바일 광고 to CTV` &amp; `CTV to CTV` 교차 측정 솔루션과 데이터스케이프의 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8ac388011c3bb65953a3e47aa38801a3_38360_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MZ세대 PR과 소통을 이야기하다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8771</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8771</guid>
-            <pubDate>Thu, 19 May 2022 09:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국PR협회(회장 김주호)가5월25일 오후5시 MZ세대가 생각하는PR콘텐츠,그리고 소통을 주제로 열두번째 PR피플 토크(People Talk) 행사를 개최한다. 이번PR피플 토크에서는MZ세대들이 생각하는PR의 개념과 콘텐츠를 통한 소통에 대해  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

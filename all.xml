@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 22:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 23:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -301,18 +301,18 @@
             <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[꼭 알아야 할 `나에 대한 오류` 9가지 (완벽한 공부법,.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38968</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38968</guid>
-            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[디자인업]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[나만 알고 싶은 무료폰트 [명조편] (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57691</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57691</guid>
             <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[꼭 알아야 할 `나에 대한 오류` 9가지 (완벽한 공부법,.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38968</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38968</guid>
+            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[디자인업]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[새로운 커머스 트렌드, '헤드리스 커머스' (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-39005</guid>
             <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[체르시]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[5월 25일 마케팅 뉴스클리핑] IT게임 업계의 이유 있는 커머스 진출 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8801</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8801</guid>
+            <pubDate>Wed, 25 May 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. IT게임 업계의 이유 있는 `커머스` 진출  2010년 초 유통이 거머쥐고 있었던 커머스 시장이 게임, IT 업계로 넘어왔다. IT게임업계는 데이터, 디지털, AI 등이 중요해진 만큼 자사 기술력을 이용한 커머스 시장을 개척하겠다는 입 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0ab97a82c8d2cbda6f24fdb5d50e6aa8_27388_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[틱톡, 크리에이터 유료 구독 서비스 선보인다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8ac388011c3bb65953a3e47aa38801a3_38360_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[MZ세대 PR과 소통을 이야기하다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8771</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8771</guid>
-            <pubDate>Thu, 19 May 2022 09:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국PR협회(회장 김주호)가5월25일 오후5시 MZ세대가 생각하는PR콘텐츠,그리고 소통을 주제로 열두번째 PR피플 토크(People Talk) 행사를 개최한다. 이번PR피플 토크에서는MZ세대들이 생각하는PR의 개념과 콘텐츠를 통한 소통에 대해  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[5월 25일 마케팅 뉴스클리핑] IT·게임 업계의 이유 있는 '커머스' 진출 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8801</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8801</guid>
+            <pubDate>Tue, 24 May 2022 23:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[틱톡, 크리에이터 유료 구독 서비스 선보인다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[MZ세대 PR과 소통을 이야기하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8771</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8771</guid>
-            <pubDate>Thu, 19 May 2022 09:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[검색 엔진에서 높은 우선순위를 얻기 위해 웹 페이지에 특정 키워드를 고의로 다량 삽입하는 행위를 일컫는 '이것'은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Tue, 24 May 2022 23:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->검색 엔진에서 높은 우선순위를 얻기 위해 웹 페이지에 특정 키워드를 고의로 다량 삽입하는 행위를 일컫는 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1429_1" value="1" class="AB-radio" id="PQ_BD5826_1429_1_0"><label for="PQ_BD5826_1429_1_0" id="label_PQ_BD5826_1429_1_0">(A) 오가닉 키워드(Organic Keyword)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1429_1" value="2" class="AB-radio" id="PQ_BD5826_1429_1_1"><label for="PQ_BD5826_1429_1_1" id="label_PQ_BD5826_1429_1_1">(B) 키워드 스터핑(Keyword Stuffing)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1429_1" value="3" class="AB-radio" id="PQ_BD5826_1429_1_2"><label for="PQ_BD5826_1429_1_2" id="label_PQ_BD5826_1429_1_2">(C) 키워드 복사(Copying Keyword)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1429_1" value="4" class="AB-radio" id="PQ_BD5826_1429_1_3"><label for="PQ_BD5826_1429_1_3" id="label_PQ_BD5826_1429_1_3">(D) 메타 키워드(Meta-Keyword)</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인 방역지원금 3차 600만 원 지급...대상업종 주목 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

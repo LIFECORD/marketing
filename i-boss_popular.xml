@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-05-24T22:20:04.080Z</updated>
+    <updated>2022-05-24T23:20:43.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -167,18 +167,18 @@
         <content type="html"><![CDATA[유리나]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[꼭 알아야 할 `나에 대한 오류` 9가지 (완벽한 공부법,..]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-38968</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-38968"/>
-        <updated>2022-05-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[디자인업]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[나만 알고 싶은 무료폰트 [명조편]]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57691</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57691"/>
         <updated>2022-05-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[휴이언니]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꼭 알아야 할 `나에 대한 오류` 9가지 (완벽한 공부법,..]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-38968</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-38968"/>
+        <updated>2022-05-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[디자인업]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[새로운 커머스 트렌드, '헤드리스 커머스']]></title>
