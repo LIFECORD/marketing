@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 13:42:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 14:29:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,18 +196,18 @@
             <content:encoded><![CDATA[호랑이마케팅]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[레미니] 대행사마케터가 인하우스가서 실패하는 이.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57807</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57807</guid>
-            <pubDate>Thu, 19 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[레미니센스]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[보스님의 ‘갓생’을 도와주는 마케팅 사례 ✨ (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57797</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57797</guid>
             <pubDate>Thu, 19 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[레미니] 대행사마케터가 인하우스가서 실패하는 이.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57807</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57807</guid>
+            <pubDate>Thu, 19 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[레미니센스]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ROAS만 쫓다가는 맛탱이 가십니다. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[검색 엔진에서 높은 우선순위를 얻기 위해 웹 페이지에 특정 키워드를 고의로 다량 삽입하는 행위를 일컫는 '이것'은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 25 May 2022 13:42:12 GMT</pubDate>
+            <pubDate>Wed, 25 May 2022 14:29:27 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->검색 엔진에서 높은 우선순위를 얻기 위해 웹 페이지에 특정 키워드를 고의로 다량 삽입하는 행위를 일컫는 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

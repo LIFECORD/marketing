@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-05-25T13:42:22.076Z</updated>
+    <updated>2022-05-25T14:29:36.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[호랑이마케팅]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[레미니] 대행사마케터가 인하우스가서 실패하는 이..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57807</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57807"/>
-        <updated>2022-05-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[레미니센스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[보스님의 ‘갓생’을 도와주는 마케팅 사례 ✨]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57797</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57797"/>
         <updated>2022-05-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[레미니] 대행사마케터가 인하우스가서 실패하는 이..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57807</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57807"/>
+        <updated>2022-05-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[레미니센스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ROAS만 쫓다가는 맛탱이 가십니다.]]></title>
