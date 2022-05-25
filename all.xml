@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 09:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 10:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -259,13 +259,6 @@
             <content:encoded><![CDATA[르와즈]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[원가, 마진을 다 공개하는 아웃도어 브랜드 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57661</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57661</guid>
-            <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[르와즈]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[한국인이 가장 많이 사용하는 쇼핑 앱은? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8633</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8633</guid>
@@ -348,6 +341,13 @@
             <guid>https://www.i-boss.co.kr/ab-74668-2611</guid>
             <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[bigin]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[14일차 마케터의 꿀팁 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57830</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57830</guid>
+            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[변지현]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KISDI, 디지털 혁신 정책 방향 토론회 개최... 오늘 1시부터 유튜브 생중계로 진행 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[검색 엔진에서 높은 우선순위를 얻기 위해 웹 페이지에 특정 키워드를 고의로 다량 삽입하는 행위를 일컫는 '이것'은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 25 May 2022 09:20:08 GMT</pubDate>
+            <pubDate>Wed, 25 May 2022 10:23:19 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->검색 엔진에서 높은 우선순위를 얻기 위해 웹 페이지에 특정 키워드를 고의로 다량 삽입하는 행위를 일컫는 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
