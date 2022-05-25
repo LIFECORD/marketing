@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 22:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 23:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[5월 26일 마케팅 뉴스클리핑] 지난달 가장 많이 쓴 OTT는 넷플릭스 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8807</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8807</guid>
+            <pubDate>Thu, 26 May 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 지난달 가장 많이 쓴 OTT는 `넷플릭스`  지난 4월 한 달 동안 가장 많이 사용한 OTT는 1055만 명의 넷플릭스였다. 다만 연초와 비교하면 OTT 가입자 수가 전반적으로 감소하는 모습을 보였다. 쿠팡플레이 321만 명, 웨이브 307만 명, U+ ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_cc36ebd405c85bd0828a18bee00f5118_27298_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KISDI, 디지털 혁신 정책 방향 토론회 개최... 오늘 1시부터 유튜브 생중계로 진행]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8806</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8778</guid>
             <pubDate>Fri, 20 May 2022 09:25:00 GMT</pubDate>
             <content:encoded><![CDATA[한국방송광고진흥공사(사장 이백만, 이하 코바코)는1인 광고콘텐츠 창작자 양성과정 실전 프로젝트반 수강생을 5월 29일까지 모집한다. 1인 광고콘텐츠 창작자 양성과정 실전 프로젝트반은 1인 광고제작자로서 빠른 시장 안착을 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[피피픽, 2022 케이펫페어 일산 참가, 인기 제품 최대 73% 할인]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8777</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8777</guid>
-            <pubDate>Fri, 20 May 2022 09:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[콘텐츠 커머스 기업 더에스엠씨 보고펫(대표 김용태)의 반려동물 브랜드 피피픽이 5월 20일부터 22일까지 일산 킨텍스에서 개최되는 `2022 케이펫페어`에 참가한다고 20일 밝혔다. 부스 위치는 K-30으로 전일 참가한다. 피피픽은 해 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
