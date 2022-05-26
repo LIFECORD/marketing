@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 06:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 07:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,18 +217,18 @@
             <content:encoded><![CDATA[오니드]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터의 기본기 - 미디어믹스 마스터하기 2편 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57773</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57773</guid>
-            <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[호랑이마케팅]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 마케터 시무 5조 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39080</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39080</guid>
             <pubDate>Thu, 26 May 2022 04:33:03 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케터의 기본기 - 미디어믹스 마스터하기 2편 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57773</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57773</guid>
+            <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[호랑이마케팅]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[AI검색 확대하는 네이버 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 대화에서 설명하고 있는 트렌드 용어로, 집과 사무실이 아니어도 원하는 장소에서 업무와 휴가를 동시에 할 수 있는 근무 형태는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 26 May 2022 06:24:24 GMT</pubDate>
+            <pubDate>Thu, 26 May 2022 07:18:55 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 대화에서 설명하고 있는 트렌드 용어로, 집과 사무실이 아니어도 원하는 장소에서 업무와 휴가를 동시에 할 수 있는 근무 형태는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/9576b3bc7dad156251a84fe0767c06d1_16529416519874.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
