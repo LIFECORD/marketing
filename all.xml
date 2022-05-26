@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 08:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 09:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,13 +252,6 @@
             <content:encoded><![CDATA[흥미진진]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[잘 파는 사람들의 노하우 7가지를 확인해보세요. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57669</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57669</guid>
-            <pubDate>Tue, 26 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김매니저]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[5.18 기념 특별한 폰트 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57792</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57792</guid>
@@ -348,6 +341,13 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-39005</guid>
             <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[체르시]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신규 방문자가 적을 때 효과적인 광고 유형은 무엇일.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-74668-2611</link>
+            <guid>https://www.i-boss.co.kr/ab-74668-2611</guid>
+            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[bigin]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국PR협회 대학생PR위원회 출범...PR 아이디어 기획, ESG 캠페인, 콘텐츠 제작, SNS 운영 등 다양한 활동 전개 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 대화에서 설명하고 있는 트렌드 용어로, 집과 사무실이 아니어도 원하는 장소에서 업무와 휴가를 동시에 할 수 있는 근무 형태는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 26 May 2022 08:26:20 GMT</pubDate>
+            <pubDate>Thu, 26 May 2022 09:21:18 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 대화에서 설명하고 있는 트렌드 용어로, 집과 사무실이 아니어도 원하는 장소에서 업무와 휴가를 동시에 할 수 있는 근무 형태는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/9576b3bc7dad156251a84fe0767c06d1_16529416519874.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
