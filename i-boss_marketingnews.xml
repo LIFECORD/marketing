@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 22:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 23:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[5월 27일 마케팅 뉴스클리핑] 유튜브 쇼츠에도 동영상 광고... 돈 되는 짤막 콘텐츠 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8817</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8817</guid>
+            <pubDate>Fri, 27 May 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 유튜브 쇼츠에도 동영상 광고... 돈 되는 `짤막 콘텐츠`  구글이 유튜브 `쇼츠`를 통해 광고마케팅을 할 수 있도록 허용한다. 그동안 구글은 쇼츠에 광고를 허용하지 않았고, 이는 일부 사용자가 애용하는 이유 중 하나로 꼽혀  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0ba4c9a04879305320ef7cd9a7cbda50_49421_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국PR협회 대학생PR위원회 출범...PR 아이디어 기획, ESG 캠페인, 콘텐츠 제작, SNS 운영 등 다양한 활동 전개]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8816</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 23 May 2022 08:30:00 GMT</pubDate>
             <content:encoded><![CDATA[인플레이션이 현재 경제에 어떤 영향을 미치고 있을까? 지난 4월 미국 물가상승률이 전년 동기 대비 8.3%를 기록하면서 미국 소비자들의 생활용품 가격은 갈수록 높아지고 있다. 스태티스타는 미국 소비자가 가장 쉽게 소비하는  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[5월 23일 마케팅 뉴스클리핑] 네이버, 맛집 검색 돕는 스마트블록 도입 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8787</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8787</guid>
-            <pubDate>Mon, 23 May 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 네이버, 맛집 검색 돕는 스마트블록 도입  네이버가 인공지능 검색 알고리즘이 제공하는 `스마트블록`에 맛집 후기를 추가했다고 밝혔다. 네이버는 유익한 콘텐츠를 추천하기 위해 블로그의 신뢰도를 평가하는 알고리즘인 C-R ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_339e885498bcd1ee7e5ff9dfeb3e5f49_18944_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

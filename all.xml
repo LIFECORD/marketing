@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 22:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 23:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[5월 27일 마케팅 뉴스클리핑] 유튜브 쇼츠에도 동영상 광고... 돈 되는 짤막 콘텐츠 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8817</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8817</guid>
+            <pubDate>Fri, 27 May 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 유튜브 쇼츠에도 동영상 광고... 돈 되는 `짤막 콘텐츠`  구글이 유튜브 `쇼츠`를 통해 광고마케팅을 할 수 있도록 허용한다. 그동안 구글은 쇼츠에 광고를 허용하지 않았고, 이는 일부 사용자가 애용하는 이유 중 하나로 꼽혀  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0ba4c9a04879305320ef7cd9a7cbda50_49421_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한국PR협회 대학생PR위원회 출범...PR 아이디어 기획, ESG 캠페인, 콘텐츠 제작, SNS 운영 등 다양한 활동 전개 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8816</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8816</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[5월 23일 마케팅 뉴스클리핑] 네이버, 맛집 검색 돕는 스마트블록 도입 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8787</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8787</guid>
-            <pubDate>Mon, 23 May 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 네이버, 맛집 검색 돕는 스마트블록 도입  네이버가 인공지능 검색 알고리즘이 제공하는 `스마트블록`에 맛집 후기를 추가했다고 밝혔다. 네이버는 유익한 콘텐츠를 추천하기 위해 블로그의 신뢰도를 평가하는 알고리즘인 C-R ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_339e885498bcd1ee7e5ff9dfeb3e5f49_18944_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[5월 27일 마케팅 뉴스클리핑] 유튜브 쇼츠에도 동영상 광고... 돈 되는 '짤막 콘텐츠' 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8817</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8817</guid>
+            <pubDate>Thu, 26 May 2022 23:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국PR협회 대학생PR위원회 출범...PR 아이디어 기획, ESG 캠페인, 콘텐츠 제작, SNS 운영 등 다양한 활동 전개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[5월 23일 마케팅 뉴스클리핑] 네이버, 맛집 검색 돕는 스마트블록 도입 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8787</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8787</guid>
-            <pubDate>Mon, 23 May 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[최근 틱톡이 '브랜디드 미션'이라는 새로운 광고 상품의 베타 테스트를 시작했습니다. 다음 중 '브랜디드 미션'에 관한 설명으로 옳은 것은 무엇일까요?(hint: 5/20 뉴스클리핑 보고 잽싸게 정답 캐치하기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Thu, 26 May 2022 23:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->최근 틱톡이 '브랜디드 미션'이라는 새로운 광고 상품의 베타 테스트를 시작했습니다. 다음 중 '브랜디드 미션'에 관한 설명으로 옳은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8773" target="_blank">5/20 뉴스클리핑 보고 잽싸게 정답 캐치하기!</a>)</span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1431_1" value="1" class="AB-radio" id="PQ_BD5826_1431_1_0"><label for="PQ_BD5826_1431_1_0" id="label_PQ_BD5826_1431_1_0">(A) 광고주의 요구사항에 맞게 크리에이터들이 브랜디드 콘텐츠를 만들어 참여하는 형태</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1431_1" value="2" class="AB-radio" id="PQ_BD5826_1431_1_1"><label for="PQ_BD5826_1431_1_1" id="label_PQ_BD5826_1431_1_1">(B) 앱을 실행하자마자 크리에이터들이 만든 브랜디드 콘텐츠를 10초간 노출하는 형태</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1431_1" value="3" class="AB-radio" id="PQ_BD5826_1431_1_2"><label for="PQ_BD5826_1431_1_2" id="label_PQ_BD5826_1431_1_2">(C) 앱 하단에 브랜드의 홈페이지로 접속할 수 있는 배너를 노출하는 형태</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1431_1" value="4" class="AB-radio" id="PQ_BD5826_1431_1_3"><label for="PQ_BD5826_1431_1_3" id="label_PQ_BD5826_1431_1_3">(D) 광고주가 틱톡이 주는 미션을 성공적으로 수행해야만 브랜디드 콘텐츠를 광고할 수 있는 형태</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['코로나 폐업' 소상공인 3천명에 선착순 지원금 300만원 지원 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
