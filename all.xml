@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 01:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 04:33:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -175,18 +175,18 @@
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신규 출시하는 CPC 광고를 둘러싼 논쟁 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57685</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57685</guid>
-            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[레미니] 대행사마케터가 인하우스가서 실패하는 이.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57807</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57807</guid>
             <pubDate>Thu, 19 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레미니센스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신규 출시하는 CPC 광고를 둘러싼 논쟁 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57685</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57685</guid>
+            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[MSM] 인하우스 마케터 꿀팁 판매 상황에 따른 마케팅! (아이보스 ─ 인기글)]]></title>
@@ -238,6 +238,13 @@
             <content:encoded><![CDATA[레미니센스]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[마케팅밈] 마케터 시무 5조 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39080</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39080</guid>
+            <pubDate>Thu, 26 May 2022 04:33:03 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[잘 파는 사람들의 노하우 7가지를 확인해보세요. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57669</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57669</guid>
@@ -252,18 +259,18 @@
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[이것만 알면 기본은 하는 카드뉴스 디자인! 2탄! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57800</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57800</guid>
+            <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[흥미진진]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[미디어커머스 시장이 몰락한 이유 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57741</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57741</guid>
             <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[르와즈]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[돈을 버는 방법의 진화 과정 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38920</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38920</guid>
-            <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[식자재중개플렛폼]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뜨고 있는 근무 트렌드, 워케이션 (아이보스 ─ 인기글)]]></title>
@@ -273,11 +280,11 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이것만 알면 기본은 하는 카드뉴스 디자인! 2탄! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57800</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57800</guid>
-            <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[흥미진진]]></content:encoded>
+            <title><![CDATA[돈을 버는 방법의 진화 과정 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38920</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38920</guid>
+            <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[식자재중개플렛폼]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SNS광고마케터 자격증 결과 확인하셨나요? (아이보스 ─ 인기글)]]></title>
@@ -299,6 +306,13 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-38968</guid>
             <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[디자인업]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[14일차 마케터의 꿀팁 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57830</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57830</guid>
+            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[변지현]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[새로운 커머스 트렌드, '헤드리스 커머스' (아이보스 ─ 인기글)]]></title>
@@ -336,18 +350,12 @@
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신규 방문자가 적을 때 효과적인 광고 유형은 무엇일.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-74668-2611</link>
-            <guid>https://www.i-boss.co.kr/ab-74668-2611</guid>
-            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[bigin]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[14일차 마케터의 꿀팁 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57830</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57830</guid>
-            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[변지현]]></content:encoded>
+            <title><![CDATA[브랜디, 서울산업진흥원과 업무협약... 중소 판매자 육성 지원 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8813</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8813</guid>
+            <pubDate>Thu, 26 May 2022 11:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[커머스 플랫폼 빌더 브랜디가 서울산업진흥원(SBA)과 업무협약을 체결하고 중소 판매자 육성에 나선다고 26일 밝혔다.   이번 협약은 서울산업진흥원이 진행하는 온라인 플랫폼 연계 서울 패션기업 발굴 및 지원사업에 브랜디가  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[콘텐츠 및 스트리밍 엔드-투-엔드 서비스 기업, 오픈익스체인지 한국지사 설립 통해 기업 가상 커뮤니케이션 시장 공략 강화 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,46 +590,45 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 2021년 국가별 GDP 성장률 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8783</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8783</guid>
-            <pubDate>Sun, 22 May 2022 09:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 이후 세계 경제는 수많은 도전에 직면했다. 2021년은 일부 국가에서는 코로나19 백신이 보급되면서 서서히 경제를 회복하는 모습을 보였다. 그러나 오미크론변종과공급망과 인플레이션은 경제 회복의 장애로 등장했다.  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[브랜디, 서울산업진흥원과 업무협약... 중소 판매자 육성 지원 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8813</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8813</guid>
+            <pubDate>Thu, 26 May 2022 04:33:30 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[콘텐츠 및 스트리밍 엔드-투-엔드 서비스 기업, 오픈익스체인지 한국지사 설립 통해 기업 가상 커뮤니케이션 시장 공략 강화 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8812</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8812</guid>
-            <pubDate>Thu, 26 May 2022 01:44:18 GMT</pubDate>
+            <pubDate>Thu, 26 May 2022 09:50:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[올해 전 세계 게임 시장, 282조 원 규모로 커진다! (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8811</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8811</guid>
-            <pubDate>Thu, 26 May 2022 01:44:18 GMT</pubDate>
+            <pubDate>Thu, 26 May 2022 09:18:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아이지에이웍스, 스타벅스 마케팅 DX 파트너사 선정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8810</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8810</guid>
-            <pubDate>Thu, 26 May 2022 01:44:18 GMT</pubDate>
+            <pubDate>Thu, 26 May 2022 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[트렌드모니터] “과시, 사치는 옛말” 장벽 낮아지는 명품 소비 시장 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8809</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8809</guid>
-            <pubDate>Thu, 26 May 2022 01:44:18 GMT</pubDate>
+            <pubDate>Thu, 26 May 2022 08:51:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[리복, 장애인을 위한 최초의 적응형 신발(Adaptive Footwear) 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8808</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8808</guid>
-            <pubDate>Thu, 26 May 2022 01:44:18 GMT</pubDate>
+            <pubDate>Thu, 26 May 2022 08:50:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 2021년 국가별 GDP 성장률 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8783</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8783</guid>
-            <pubDate>Sun, 22 May 2022 09:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 대화에서 설명하고 있는 트렌드 용어로, 집과 사무실이 아니어도 원하는 장소에서 업무와 휴가를 동시에 할 수 있는 근무 형태는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 26 May 2022 01:44:32 GMT</pubDate>
+            <pubDate>Thu, 26 May 2022 04:33:43 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 대화에서 설명하고 있는 트렌드 용어로, 집과 사무실이 아니어도 원하는 장소에서 업무와 휴가를 동시에 할 수 있는 근무 형태는 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/9576b3bc7dad156251a84fe0767c06d1_16529416519874.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-05-26T01:44:42.914Z</updated>
+    <updated>2022-05-26T04:33:53.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브랜디, 서울산업진흥원과 업무협약... 중소 판매자 육성 지원]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8813</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8813"/>
+        <updated>2022-05-26T04:33:30.825Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콘텐츠 및 스트리밍 엔드-투-엔드 서비스 기업, 오픈익스체인지 한국지사 설립 통해 기업 가상 커뮤니케이션 시장 공략 강화]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8812</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-8784</id>
         <link href="https://www.i-boss.co.kr/ab-2877-8784"/>
         <updated>2022-05-24T02:20:05.393Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인포그래픽] 2021년 국가별 GDP 성장률]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8783</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8783"/>
-        <updated>2022-05-24T02:20:05.394Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>

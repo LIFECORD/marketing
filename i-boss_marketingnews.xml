@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 01:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 04:33:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브랜디, 서울산업진흥원과 업무협약... 중소 판매자 육성 지원]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8813</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8813</guid>
+            <pubDate>Thu, 26 May 2022 11:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[커머스 플랫폼 빌더 브랜디가 서울산업진흥원(SBA)과 업무협약을 체결하고 중소 판매자 육성에 나선다고 26일 밝혔다.   이번 협약은 서울산업진흥원이 진행하는 온라인 플랫폼 연계 서울 패션기업 발굴 및 지원사업에 브랜디가  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[콘텐츠 및 스트리밍 엔드-투-엔드 서비스 기업, 오픈익스체인지 한국지사 설립 통해 기업 가상 커뮤니케이션 시장 공략 강화]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8812</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8784</guid>
             <pubDate>Sun, 22 May 2022 09:14:00 GMT</pubDate>
             <content:encoded><![CDATA[코카콜라는 플라스틱 쓰레기를 줄이는데 진심이다. 코카콜라는 플라스틱 병 대신 종이나 친환경 재료로 만든 패키지를 도입하거나 플라스틱 자원 재활용 캠페인을 진행 중이다. 우리나라에서도사용된투명페트병의자원순환 캠 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 2021년 국가별 GDP 성장률]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8783</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8783</guid>
-            <pubDate>Sun, 22 May 2022 09:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 이후 세계 경제는 수많은 도전에 직면했다. 2021년은 일부 국가에서는 코로나19 백신이 보급되면서 서서히 경제를 회복하는 모습을 보였다. 그러나 오미크론변종과공급망과 인플레이션은 경제 회복의 장애로 등장했다.  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
