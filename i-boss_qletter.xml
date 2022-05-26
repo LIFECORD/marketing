@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 23:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 01:44:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어느 날 갑자기 Lv.1 팀장이 되었다]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1013737-%EC%96%B4%EB%8A%90_%EB%82%A0_%EA%B0%91%EC%9E%90%EA%B8%B0_Lv1_%ED%8C%80%EC%9E%A5%EC%9D%B4_%EB%90%98%EC%97%88%EB%8B%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1013737-%EC%96%B4%EB%8A%90_%EB%82%A0_%EA%B0%91%EC%9E%90%EA%B8%B0_Lv1_%ED%8C%80%EC%9E%A5%EC%9D%B4_%EB%90%98%EC%97%88%EB%8B%A4/</guid>
+            <pubDate>Thu, 26 May 2022 01:43:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1013737-어느_날_갑자기_Lv1_팀장이_되었다/">
+						<div class="thumb"><img src="/images/qletter_1013737.png"></div>
+						<p><strong>어느 날 갑자기 Lv.1 팀장이 되었다</strong>2022.05.26</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1013737.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[새로운 판매 채널 OO커머스]]></title>
             <link>https://qletter.i-boss.co.kr/view/1006942-%EC%83%88%EB%A1%9C%EC%9A%B4_%ED%8C%90%EB%A7%A4_%EC%B1%84%EB%84%90_OO%EC%BB%A4%EB%A8%B8%EC%8A%A4/</link>
@@ -127,17 +138,6 @@
 						<p><strong> 1인 마케터 vs 박봉 대행사</strong>2022.04.14</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_953266.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인앱결제 논란 A to Z]]></title>
-            <link>https://qletter.i-boss.co.kr/view/946969-%EC%9D%B8%EC%95%B1%EA%B2%B0%EC%A0%9C_%EB%85%BC%EB%9E%80_A_to_Z/</link>
-            <guid>https://qletter.i-boss.co.kr/view/946969-%EC%9D%B8%EC%95%B1%EA%B2%B0%EC%A0%9C_%EB%85%BC%EB%9E%80_A_to_Z/</guid>
-            <pubDate>Mon, 11 Apr 2022 01:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/946969-인앱결제_논란_A_to_Z/">
-						<div class="thumb"><img src="/images/qletter_946969.png"></div>
-						<p><strong>인앱결제 논란 A to Z</strong>2022.04.11</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_946969.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
