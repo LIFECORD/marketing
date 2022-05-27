@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 03:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 04:34:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,13 +182,6 @@
             <content:encoded><![CDATA[레미니센스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신규 출시하는 CPC 광고를 둘러싼 논쟁 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57685</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57685</guid>
-            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[MSM] 인하우스 마케터 꿀팁 판매 상황에 따른 마케팅! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57701</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57701</guid>
@@ -196,11 +189,11 @@
             <content:encoded><![CDATA[레미니센스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터의 기본기 - 미디어믹스 마스터하기 1편 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57743</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57743</guid>
-            <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[호랑이마케팅]]></content:encoded>
+            <title><![CDATA[신규 출시하는 CPC 광고를 둘러싼 논쟁 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57685</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57685</guid>
+            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 마케터 시무 5조 (아이보스 ─ 인기글)]]></title>
@@ -208,6 +201,13 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-39080</guid>
             <pubDate>Thu, 26 May 2022 04:33:03 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케터의 기본기 - 미디어믹스 마스터하기 1편 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57743</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57743</guid>
+            <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[호랑이마케팅]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보스님의 ‘갓생’을 도와주는 마케팅 사례 ✨ (아이보스 ─ 인기글)]]></title>
@@ -231,18 +231,18 @@
             <content:encoded><![CDATA[호랑이마케팅]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[AI검색 확대하는 네이버 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57717</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57717</guid>
-            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[MSM] 좋은 대행사 마케터와 좋은 인하우스의 만남의 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57714</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57714</guid>
             <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레미니센스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AI검색 확대하는 네이버 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57717</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57717</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이것만 알면 기본은 하는 카드뉴스 디자인! 2탄! (아이보스 ─ 인기글)]]></title>
@@ -280,6 +280,13 @@
             <content:encoded><![CDATA[변지현]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[꼭 알아야 할 `나에 대한 오류` 9가지 (완벽한 공부법,.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-38968</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-38968</guid>
+            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[디자인업]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[SNS광고마케터 자격증 결과 확인하셨나요? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39046</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39046</guid>
@@ -294,11 +301,11 @@
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[꼭 알아야 할 `나에 대한 오류` 9가지 (완벽한 공부법,.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38968</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38968</guid>
-            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[디자인업]]></content:encoded>
+            <title><![CDATA[새로운 커머스 트렌드, '헤드리스 커머스' (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57682</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57682</guid>
+            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[매출가지고 징징거리는 대표 (가격전쟁) (아이보스 ─ 인기글)]]></title>
@@ -306,13 +313,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-39104</guid>
             <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[귀여운나름이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[새로운 커머스 트렌드, '헤드리스 커머스' (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57682</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57682</guid>
-            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버 GFA 최신 자료 공유 1 (아이보스 ─ 인기글)]]></title>
@@ -343,11 +343,11 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[어제 석가탄신일에 올리지 못해 아쉬운 짤 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39005</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39005</guid>
-            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[체르시]]></content:encoded>
+            <title><![CDATA[신규 방문자가 적을 때 효과적인 광고 유형은 무엇일.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-74668-2611</link>
+            <guid>https://www.i-boss.co.kr/ab-74668-2611</guid>
+            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[bigin]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버, 브랜드 커넥트 정식 출시... 창작자와 브랜드사 연결 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -593,42 +593,42 @@
             <title><![CDATA[네이버, '브랜드 커넥트' 정식 출시... 창작자와 브랜드사 연결 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8823</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8823</guid>
-            <pubDate>Fri, 27 May 2022 03:27:07 GMT</pubDate>
+            <pubDate>Fri, 27 May 2022 10:33:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[넷플릭스, K Food Show "국물의 나라" 5월 30일 글로벌 공개... 애드리치 기획, 제작 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8822</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8822</guid>
-            <pubDate>Fri, 27 May 2022 03:27:07 GMT</pubDate>
+            <pubDate>Fri, 27 May 2022 10:27:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 위대한 복귀(Great Return) (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8821</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8821</guid>
-            <pubDate>Fri, 27 May 2022 03:27:07 GMT</pubDate>
+            <pubDate>Fri, 27 May 2022 08:36:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[펩시, 더이상 슈퍼볼 하프타임 쇼를 후원하지 않는다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8820</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8820</guid>
-            <pubDate>Fri, 27 May 2022 03:27:07 GMT</pubDate>
+            <pubDate>Fri, 27 May 2022 08:35:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MZ세대 취향 저격 대세 스타들, 음료 업계 모델로 발탁 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8819</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8819</guid>
-            <pubDate>Fri, 27 May 2022 03:27:07 GMT</pubDate>
+            <pubDate>Fri, 27 May 2022 08:34:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[슈퍼센트 X 애드저스트, "모바일 게임 트렌드 및 SKAN 데이터를 통한 하이퍼 캐주얼 성과측정" 웨비나 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8818</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8818</guid>
-            <pubDate>Fri, 27 May 2022 03:27:07 GMT</pubDate>
+            <pubDate>Fri, 27 May 2022 08:32:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[최근 틱톡이 '브랜디드 미션'이라는 새로운 광고 상품의 베타 테스트를 시작했습니다. 다음 중 '브랜디드 미션'에 관한 설명으로 옳은 것은 무엇일까요?(hint: 5/20 뉴스클리핑 보고 잽싸게 정답 캐치하기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 27 May 2022 03:27:19 GMT</pubDate>
+            <pubDate>Fri, 27 May 2022 04:34:39 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 틱톡이 '브랜디드 미션'이라는 새로운 광고 상품의 베타 테스트를 시작했습니다. 다음 중 '브랜디드 미션'에 관한 설명으로 옳은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8773" target="_blank">5/20 뉴스클리핑 보고 잽싸게 정답 캐치하기!</a>)</span></td>
 			</tr>
