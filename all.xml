@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 16:28:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 17:24:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,18 +294,18 @@
             <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[나만 알고 싶은 무료폰트 [명조편] (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57691</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57691</guid>
-            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[휴이언니]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[초보 팀장을 위한 튜토리얼 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-5637-45</link>
             <guid>https://www.i-boss.co.kr/ab-5637-45</guid>
             <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나만 알고 싶은 무료폰트 [명조편] (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57691</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57691</guid>
+            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[매출가지고 징징거리는 대표 (가격전쟁) (아이보스 ─ 인기글)]]></title>
