@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 04:34:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 06:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,13 @@
             <content:encoded><![CDATA[레미니센스]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[마케팅밈] 마케터 시무 5조 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39080</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39080</guid>
+            <pubDate>Thu, 26 May 2022 04:33:03 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[MSM] 인하우스 마케터 꿀팁 판매 상황에 따른 마케팅! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57701</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57701</guid>
@@ -194,13 +201,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57685</guid>
             <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[마케팅밈] 마케터 시무 5조 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39080</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39080</guid>
-            <pubDate>Thu, 26 May 2022 04:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케터의 기본기 - 미디어믹스 마스터하기 1편 (아이보스 ─ 인기글)]]></title>
@@ -301,6 +301,13 @@
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[매출가지고 징징거리는 대표 (가격전쟁) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39104</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39104</guid>
+            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[귀여운나름이]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[새로운 커머스 트렌드, '헤드리스 커머스' (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57682</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57682</guid>
@@ -308,11 +315,11 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[매출가지고 징징거리는 대표 (가격전쟁) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39104</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39104</guid>
-            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[귀여운나름이]]></content:encoded>
+            <title><![CDATA[초보 팀장을 위한 튜토리얼 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-5637-45</link>
+            <guid>https://www.i-boss.co.kr/ab-5637-45</guid>
+            <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버 GFA 최신 자료 공유 1 (아이보스 ─ 인기글)]]></title>
@@ -336,18 +343,19 @@
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[초보 팀장을 위한 튜토리얼 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-5637-45</link>
-            <guid>https://www.i-boss.co.kr/ab-5637-45</guid>
-            <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[신규 방문자가 적을 때 효과적인 광고 유형은 무엇일.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-74668-2611</link>
             <guid>https://www.i-boss.co.kr/ab-74668-2611</guid>
             <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[bigin]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[게임 비즈니스의 성공에 광고 소재가 가장 중요한 이유 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8825</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8825</guid>
+            <pubDate>Fri, 27 May 2022 06:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[유저 확보를 위한 뚜렷한 게임 성장 전략이 없거나 적절한 광고 소재가 부족한 게임은 시장에서 쉽게 잊히고 효과적인 확장에 어려움을 겪는 상황입니다.   성공적인 모바일 게임을 만들기 위해서는 관련된 다양한 변수들이 많 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[네이버, 브랜드 커넥트 정식 출시... 창작자와 브랜드사 연결 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_005030fe1a76ede97742f0a9b307fe47_75007_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한국광고총연합회, 한국광고아카데미 7기 입학식 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8795</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8795</guid>
-            <pubDate>Tue, 24 May 2022 02:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[한국광고총연합회(회장 김낙회)는 `2022한국광고아카데미 7기 입학식`을 적선동 한국광고아카데미 교육장에서 개최했다. 이번 입학식에는김낙회 연합회 회장을 비롯한 이솔 문화체육관광부 사무관, 전종렬 광고아카데미 담임,  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[게임 비즈니스의 성공에 광고 소재가 가장 중요한 이유 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8825</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8825</guid>
+            <pubDate>Fri, 27 May 2022 06:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버, '브랜드 커넥트' 정식 출시... 창작자와 브랜드사 연결 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국광고총연합회, 한국광고아카데미 7기 입학식 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8795</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8795</guid>
-            <pubDate>Tue, 24 May 2022 02:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[최근 틱톡이 '브랜디드 미션'이라는 새로운 광고 상품의 베타 테스트를 시작했습니다. 다음 중 '브랜디드 미션'에 관한 설명으로 옳은 것은 무엇일까요?(hint: 5/20 뉴스클리핑 보고 잽싸게 정답 캐치하기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 27 May 2022 04:34:39 GMT</pubDate>
+            <pubDate>Fri, 27 May 2022 06:25:31 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 틱톡이 '브랜디드 미션'이라는 새로운 광고 상품의 베타 테스트를 시작했습니다. 다음 중 '브랜디드 미션'에 관한 설명으로 옳은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8773" target="_blank">5/20 뉴스클리핑 보고 잽싸게 정답 캐치하기!</a>)</span></td>
 			</tr>

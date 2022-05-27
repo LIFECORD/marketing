@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 04:34:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 06:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[게임 비즈니스의 성공에 광고 소재가 가장 중요한 이유]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8825</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8825</guid>
+            <pubDate>Fri, 27 May 2022 06:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[유저 확보를 위한 뚜렷한 게임 성장 전략이 없거나 적절한 광고 소재가 부족한 게임은 시장에서 쉽게 잊히고 효과적인 확장에 어려움을 겪는 상황입니다.   성공적인 모바일 게임을 만들기 위해서는 관련된 다양한 변수들이 많 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[네이버, 브랜드 커넥트 정식 출시... 창작자와 브랜드사 연결]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8823</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 24 May 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 중고 거래 시장 24조로 성장  중고거래 시장이 지난해 24조 원 규모로 성장하면서 거래 분쟁도 급증했다. KISA에 따르면 중고거래 시장은 2008년 4조 원에서 지난해 24조 원으로 약 6배 성장했다. 당근마켓, 번개장터, 중고나라 등  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_005030fe1a76ede97742f0a9b307fe47_75007_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국광고총연합회, 한국광고아카데미 7기 입학식 개최]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8795</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8795</guid>
-            <pubDate>Tue, 24 May 2022 02:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[한국광고총연합회(회장 김낙회)는 `2022한국광고아카데미 7기 입학식`을 적선동 한국광고아카데미 교육장에서 개최했다. 이번 입학식에는김낙회 연합회 회장을 비롯한 이솔 문화체육관광부 사무관, 전종렬 광고아카데미 담임,  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
