@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-05-27T09:21:13.481Z</updated>
+    <updated>2022-05-27T10:23:33.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -167,18 +167,18 @@
         <content type="html"><![CDATA[휴이언니]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[매출가지고 징징거리는 대표 (가격전쟁)]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-39104</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-39104"/>
-        <updated>2022-05-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[귀여운나름이]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[초보 팀장을 위한 튜토리얼]]></title>
         <id>https://www.i-boss.co.kr/ab-5637-45</id>
         <link href="https://www.i-boss.co.kr/ab-5637-45"/>
         <updated>2022-05-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매출가지고 징징거리는 대표 (가격전쟁)]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-39104</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-39104"/>
+        <updated>2022-05-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[귀여운나름이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[새로운 커머스 트렌드, '헤드리스 커머스']]></title>
