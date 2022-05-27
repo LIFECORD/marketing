@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 08:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 09:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[bigin]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[H&B스토어 밀어주니 중소 뷰티 브랜드 훈풍 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8827</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8827</guid>
+            <pubDate>Fri, 27 May 2022 09:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[H&amp;B스토어, 중소형 브랜드 노출 최적화 재고부담 없고 집객력 높아, 마케팅 효율도 리오프닝노마스크 색조 이익 개선세 기대   코로나19 엔데믹(풍토병화) 전환으로 야외 활동이 늘어나며 색조 화장품 시장에 훈풍이 불고 있다.   ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[게임 비즈니스의 성공에 광고 소재가 가장 중요한 이유 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8825</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8825</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[5월 24일 마케팅 뉴스클리핑] 중고 거래 시장 24조로 성장 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8793</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8793</guid>
-            <pubDate>Tue, 24 May 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 중고 거래 시장 24조로 성장  중고거래 시장이 지난해 24조 원 규모로 성장하면서 거래 분쟁도 급증했다. KISA에 따르면 중고거래 시장은 2008년 4조 원에서 지난해 24조 원으로 약 6배 성장했다. 당근마켓, 번개장터, 중고나라 등  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_005030fe1a76ede97742f0a9b307fe47_75007_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[H&B스토어 밀어주니 중소 뷰티 브랜드 '훈풍' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8827</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8827</guid>
+            <pubDate>Fri, 27 May 2022 09:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[게임 비즈니스의 성공에 광고 소재가 가장 중요한 이유 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[5월 24일 마케팅 뉴스클리핑] 중고 거래 시장 24조로 성장 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8793</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8793</guid>
-            <pubDate>Tue, 24 May 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[최근 틱톡이 '브랜디드 미션'이라는 새로운 광고 상품의 베타 테스트를 시작했습니다. 다음 중 '브랜디드 미션'에 관한 설명으로 옳은 것은 무엇일까요?(hint: 5/20 뉴스클리핑 보고 잽싸게 정답 캐치하기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 27 May 2022 08:27:14 GMT</pubDate>
+            <pubDate>Fri, 27 May 2022 09:21:04 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 틱톡이 '브랜디드 미션'이라는 새로운 광고 상품의 베타 테스트를 시작했습니다. 다음 중 '브랜디드 미션'에 관한 설명으로 옳은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8773" target="_blank">5/20 뉴스클리핑 보고 잽싸게 정답 캐치하기!</a>)</span></td>
 			</tr>

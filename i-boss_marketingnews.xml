@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 08:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 09:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[H&B스토어 밀어주니 중소 뷰티 브랜드 훈풍]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8827</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8827</guid>
+            <pubDate>Fri, 27 May 2022 09:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[H&amp;B스토어, 중소형 브랜드 노출 최적화 재고부담 없고 집객력 높아, 마케팅 효율도 리오프닝노마스크 색조 이익 개선세 기대   코로나19 엔데믹(풍토병화) 전환으로 야외 활동이 늘어나며 색조 화장품 시장에 훈풍이 불고 있다.   ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[게임 비즈니스의 성공에 광고 소재가 가장 중요한 이유]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8825</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 24 May 2022 08:32:00 GMT</pubDate>
             <content:encoded><![CDATA[79%의 브랜딩 전문가가 스트리밍 플랫폼중 훌루에 선행 지출을할당할 계획을 세우고 있다고iSpot.tv의 조사 결과를 이마케터가 보도했다.피콕, 유튜브TV, 로쿠, 파라마운트+, 투비TV, 플루토TV, 삼성이 뒤를 이었다. 그런데 내년도에 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[5월 24일 마케팅 뉴스클리핑] 중고 거래 시장 24조로 성장 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8793</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8793</guid>
-            <pubDate>Tue, 24 May 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 중고 거래 시장 24조로 성장  중고거래 시장이 지난해 24조 원 규모로 성장하면서 거래 분쟁도 급증했다. KISA에 따르면 중고거래 시장은 2008년 4조 원에서 지난해 24조 원으로 약 6배 성장했다. 당근마켓, 번개장터, 중고나라 등  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_005030fe1a76ede97742f0a9b307fe47_75007_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
