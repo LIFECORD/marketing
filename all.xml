@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 23:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 01:28:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -159,20 +159,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57753</guid>
             <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[마케팅밈] 대행사 마케터는 정말 이래? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-38922</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-38922</guid>
-            <pubDate>Thu, 28 Apr 2022 06:27:05 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아웃풋이 아닌 프로세스를 파는 새로운 가치 전략 `.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-460</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-460</guid>
-            <pubDate>Thu, 28 Apr 2022 10:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[레미니] 대행사마케터가 인하우스가서 실패하는 이.. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +334,44 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57817</guid>
             <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신규 방문자가 적을 때 효과적인 광고 유형은 무엇일.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-74668-2611</link>
+            <guid>https://www.i-boss.co.kr/ab-74668-2611</guid>
+            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[bigin]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어제 석가탄신일에 올리지 못해 아쉬운 짤 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39005</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39005</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[체르시]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스포티파이, 미국 가정 머스트 해브 서비스 순위에서 넷플릭스를 제치다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8830</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8830</guid>
+            <pubDate>Sat, 28 May 2022 08:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[평균적인 미국 가정은 12.5개의소스에서 스트리밍 비디오, 음악, 팟캐스트 등의 엔터테인먼트를 소비하며, 그 중 음악 스트리밍 서비스 스포티파이가 `가장 필수적인` 것으로 조사됐다. 16~74세의 미국 소비자 3,014명을 대상으로  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[덴츠 인터내셔널 x WFA, 쇼퍼블 미디어 2023년 가속화 될 것으로 전망 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8829</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8829</guid>
+            <pubDate>Sat, 28 May 2022 08:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[세계광고주연맹(WFA)과 덴츠(Dentsu)는소비자들에게 제품이나 서비스를 직접 구매할 수 있는 능력을 제공하는 미디어에 게재된 광고의 빈도는 여전히 주요 마케터의 `테스트` 단계에 있는 것으로 간주되지만 2023년에 가속화될 것 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[트렌드모니터] 마음에 심는 녹색 에너지 뿌리 뻗는 홈 가드닝 시장 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8828</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8828</guid>
+            <pubDate>Sat, 28 May 2022 08:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[평소 집에서 즐기는 취미에 호의적인 모습...자연스레 홈 가드닝에 대한 관심으로 이어져  시장조사전문기업 엠브레인 트렌드모니터가 전국 만 19~59세 성인 남녀 1,000명을 대상으로 홈 가드닝 관련 인식 조사를 실시한 결과 전체 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[H&B스토어 밀어주니 중소 뷰티 브랜드 훈풍 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -566,28 +590,25 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[사용자가 가장 많은 OTT 앱은 넷플릭스, 티빙, 쿠팡플레이, 웨이브 순 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8798</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8798</guid>
-            <pubDate>Tue, 24 May 2022 10:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[총 사용시간이 가장 많은 OTT 앱은 넷플릭스, 웨이브, 티빙, 쿠팡플레이 순    앱/리테일 분석서비스 와이즈앱리테일굿즈가 한국인이 가장 많이 사용하는 OTT 앱을 조사하여 발표했다.  와이즈앱리테일굿즈가 한국인 만 10세 이상  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16533540892803.png" length="0" type="image/png"/>
+            <title><![CDATA[스포티파이, 미국 가정 '머스트 해브' 서비스 순위에서 넷플릭스를 제치다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8830</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8830</guid>
+            <pubDate>Sat, 28 May 2022 01:28:24 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[애드저스트, 모바일 앱 트렌드 리포트 2022 발표... 전세계 상위 2,000개 앱 및 앱 추적 데이터 분석 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8797</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8797</guid>
-            <pubDate>Tue, 24 May 2022 09:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 모바일 마케팅 애널리틱스 플랫폼인 애드저스트(Adjust)가24일 모바일 앱 트렌드 리포트2022를 발표했다. 애드저스트의 상위2,000개 앱과 앱에서 추적한 전체 데이터에 기반한 이번 리포트는 전 세계 앱의 설치 수,세션 수,앱 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[덴츠 인터내셔널 x WFA, '쇼퍼블 미디어' 2023년 가속화 될 것으로 전망 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8829</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8829</guid>
+            <pubDate>Sat, 28 May 2022 01:28:24 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[훌루, 업프론트에서 스트리밍 플랫폼 중 1위 차지 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8796</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8796</guid>
-            <pubDate>Tue, 24 May 2022 08:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[79%의 브랜딩 전문가가 스트리밍 플랫폼중 훌루에 선행 지출을할당할 계획을 세우고 있다고iSpot.tv의 조사 결과를 이마케터가 보도했다.피콕, 유튜브TV, 로쿠, 파라마운트+, 투비TV, 플루토TV, 삼성이 뒤를 이었다. 그런데 내년도에 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[트렌드모니터] “마음에 심는 녹색 에너지” 뿌리 뻗는 홈 가드닝 시장 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8828</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8828</guid>
+            <pubDate>Sat, 28 May 2022 01:28:24 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[H&B스토어 밀어주니 중소 뷰티 브랜드 '훈풍' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -779,31 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[사용자가 가장 많은 OTT 앱은 넷플릭스, 티빙, 쿠팡플레이, 웨이브 순 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8798</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8798</guid>
-            <pubDate>Tue, 24 May 2022 10:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[애드저스트, 모바일 앱 트렌드 리포트 2022 발표... 전세계 상위 2,000개 앱 및 앱 추적 데이터 분석 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8797</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8797</guid>
-            <pubDate>Tue, 24 May 2022 09:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[훌루, 업프론트에서 스트리밍 플랫폼 중 1위 차지 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8796</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8796</guid>
-            <pubDate>Tue, 24 May 2022 08:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[최근 틱톡이 '브랜디드 미션'이라는 새로운 광고 상품의 베타 테스트를 시작했습니다. 다음 중 '브랜디드 미션'에 관한 설명으로 옳은 것은 무엇일까요?(hint: 5/20 뉴스클리핑 보고 잽싸게 정답 캐치하기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 27 May 2022 23:19:31 GMT</pubDate>
+            <pubDate>Sat, 28 May 2022 01:28:35 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 틱톡이 '브랜디드 미션'이라는 새로운 광고 상품의 베타 테스트를 시작했습니다. 다음 중 '브랜디드 미션'에 관한 설명으로 옳은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8773" target="_blank">5/20 뉴스클리핑 보고 잽싸게 정답 캐치하기!</a>)</span></td>
 			</tr>
