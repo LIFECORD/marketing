@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-05-28T23:20:05.276Z</updated>
+    <updated>2022-05-29T01:45:31.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CEO, "메타버스보다 인공 지능이 더 중요"... 가트너 '2022 CEO 서베이 - 관점이 바뀐 해' 보고서 발표]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8834</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8834"/>
+        <updated>2022-05-29T01:45:09.279Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[옴니콤 미디어 그룹, 업계 최초 공급망 기반 미디어 활성화 툴 출]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8833</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8833"/>
+        <updated>2022-05-29T01:45:09.279Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인포그래픽] 정부를 신뢰하는 나라는 어디일까?]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8832</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8832"/>
+        <updated>2022-05-29T01:45:09.281Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[KAI] 6월 광고시장은 예열 중]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8831</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8831"/>
+        <updated>2022-05-29T01:45:09.285Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스포티파이, 미국 가정 '머스트 해브' 서비스 순위에서 넷플릭스를 제치다]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8830</id>
@@ -186,33 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-8803"/>
         <updated>2022-05-25T01:42:52.296Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가치 제안(Value Proposition)과 엘리베이터 스피치(Elevator Speech)]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8802</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8802"/>
-        <updated>2022-05-25T01:42:52.296Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[5월 25일 마케팅 뉴스클리핑] IT·게임 업계의 이유 있는 '커머스' 진출 외]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8801</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8801"/>
-        <updated>2022-05-24T23:20:20.274Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[틱톡, 크리에이터 유료 구독 서비스 선보인다]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8800</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8800"/>
-        <updated>2022-05-24T03:25:43.404Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소비자 오인·혼동 건강기능식품 온라인 게시물 264건 적발]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8799</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8799"/>
-        <updated>2022-05-24T02:20:05.347Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
 </feed>
