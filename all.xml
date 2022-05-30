@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 06:29:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 07:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,18 +238,18 @@
             <content:encoded><![CDATA[흥미진진]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미디어커머스 시장이 몰락한 이유 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57741</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57741</guid>
-            <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[르와즈]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[14일차 마케터의 꿀팁 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57830</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57830</guid>
             <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[변지현]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미디어커머스 시장이 몰락한 이유 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57741</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57741</guid>
+            <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[르와즈]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5.18 기념 특별한 폰트 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 이미지가 나타내고 있는 커머스 사업에 대한 설명으로 옳지 않은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 30 May 2022 06:29:03 GMT</pubDate>
+            <pubDate>Mon, 30 May 2022 07:20:51 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지가 나타내고 있는 커머스 사업에 대한 설명으로 옳지 않은 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/da674bb7075988790039330e2cad757e_16534464321728.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
