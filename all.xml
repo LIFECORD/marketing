@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 14:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 15:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -301,6 +301,13 @@
             <content:encoded><![CDATA[귀여운나름이]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2022년 우뇌식 페이스북 세팅방법 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57860</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57860</guid>
+            <pubDate>Mon, 30 May 2022 10:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[새로운 커머스 트렌드, '헤드리스 커머스' (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57682</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57682</guid>
@@ -315,11 +322,11 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년 우뇌식 페이스북 세팅방법 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57860</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57860</guid>
-            <pubDate>Mon, 30 May 2022 10:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[우뇌]]></content:encoded>
+            <title><![CDATA[실무에서 유용한 포토샵 꿀팁! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57703</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57703</guid>
+            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김갓기]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버 GFA 최신 자료 공유 1 (아이보스 ─ 인기글)]]></title>
@@ -327,13 +334,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57733</guid>
             <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[메리야]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[실무에서 유용한 포토샵 꿀팁! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57703</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57703</guid>
-            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김갓기]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[화장품 사업을 하지 말아야 하는 이유 (아이보스 ─ 인기글)]]></title>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8807</guid>
             <pubDate>Thu, 26 May 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다음 이미지가 나타내고 있는 커머스 사업에 대한 설명으로 옳지 않은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 30 May 2022 14:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->다음 이미지가 나타내고 있는 커머스 사업에 대한 설명으로 옳지 않은 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/da674bb7075988790039330e2cad757e_16534464321728.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1432_1" value="1" class="AB-radio" id="PQ_BD5826_1432_1_0"><label for="PQ_BD5826_1432_1_0" id="label_PQ_BD5826_1432_1_0">(A) 이미지에서 설명하고 있는 개념은 '문자 커머스'이다.</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1432_1" value="2" class="AB-radio" id="PQ_BD5826_1432_1_1"><label for="PQ_BD5826_1432_1_1" id="label_PQ_BD5826_1432_1_1">(B) 통신사가 보유한 빅데이터를 기반으로 상품을 추천한다.</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1432_1" value="3" class="AB-radio" id="PQ_BD5826_1432_1_2"><label for="PQ_BD5826_1432_1_2" id="label_PQ_BD5826_1432_1_2">(C) 통신사 고객 전체를 대상으로 하는 개방형 커머스다.</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1432_1" value="4" class="AB-radio" id="PQ_BD5826_1432_1_3"><label for="PQ_BD5826_1432_1_3" id="label_PQ_BD5826_1432_1_3">(D) 국내에서 처음 이 사업을 시작한 통신사는 SK텔레콤이다.</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['코로나 폐업' 소상공인 3천명에 선착순 지원금 300만원 지원 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

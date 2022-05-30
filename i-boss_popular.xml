@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-05-30T14:19:44.124Z</updated>
+    <updated>2022-05-30T15:22:48.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -167,6 +167,13 @@
         <content type="html"><![CDATA[귀여운나름이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2022년 우뇌식 페이스북 세팅방법]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57860</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57860"/>
+        <updated>2022-05-30T10:23:11.007Z</updated>
+        <content type="html"><![CDATA[우뇌]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[새로운 커머스 트렌드, '헤드리스 커머스']]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57682</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57682"/>
@@ -181,11 +188,11 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 우뇌식 페이스북 세팅방법]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57860</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57860"/>
-        <updated>2022-05-30T10:23:11.007Z</updated>
-        <content type="html"><![CDATA[우뇌]]></content>
+        <title type="html"><![CDATA[실무에서 유용한 포토샵 꿀팁!]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57703</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57703"/>
+        <updated>2022-05-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[김갓기]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[네이버 GFA 최신 자료 공유 1]]></title>
@@ -193,13 +200,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57733"/>
         <updated>2022-05-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[메리야]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실무에서 유용한 포토샵 꿀팁!]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57703</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57703"/>
-        <updated>2022-05-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[김갓기]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화장품 사업을 하지 말아야 하는 이유]]></title>
