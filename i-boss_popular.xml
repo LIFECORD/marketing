@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-05-30T01:42:32.568Z</updated>
+    <updated>2022-05-30T03:37:54.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ROAS만 쫓다가는 맛탱이 가십니다.]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57738</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57738"/>
-        <updated>2022-05-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[오니드]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[마케터의 기본기 - 미디어믹스 마스터하기 2편]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57773</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57773"/>
         <updated>2022-05-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[호랑이마케팅]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROAS만 쫓다가는 맛탱이 가십니다.]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57738</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57738"/>
+        <updated>2022-05-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[오니드]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[MSM] 좋은 대행사 마케터와 좋은 인하우스의 만남의 ..]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[르와즈]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5.18 기념 특별한 폰트]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57792</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57792"/>
-        <updated>2022-05-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[휴이언니]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[14일차 마케터의 꿀팁]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57830</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57830"/>
         <updated>2022-05-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[변지현]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5.18 기념 특별한 폰트]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57792</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57792"/>
+        <updated>2022-05-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[휴이언니]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뜨고 있는 근무 트렌드, 워케이션]]></title>
