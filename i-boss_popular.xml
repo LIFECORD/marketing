@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-05-30T07:21:01.077Z</updated>
+    <updated>2022-05-30T08:26:59.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -202,17 +202,17 @@
         <content type="html"><![CDATA[jinhorus]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[광고매체는 죄가 없습니다.]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57796</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57796"/>
+        <updated>2022-05-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[규S]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[신규 방문자가 적을 때 효과적인 광고 유형은 무엇일..]]></title>
         <id>https://www.i-boss.co.kr/ab-74668-2611</id>
         <link href="https://www.i-boss.co.kr/ab-74668-2611"/>
         <updated>2022-05-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[bigin]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어제 석가탄신일에 올리지 못해 아쉬운 짤]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-39005</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-39005"/>
-        <updated>2022-05-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[체르시]]></content>
     </entry>
 </feed>
