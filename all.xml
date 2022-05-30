@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 22:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 23:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -175,18 +175,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신규 출시하는 CPC 광고를 둘러싼 논쟁 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57685</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57685</guid>
-            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[MSM] 인하우스 마케터 꿀팁 판매 상황에 따른 마케팅! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57701</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57701</guid>
             <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레미니센스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신규 출시하는 CPC 광고를 둘러싼 논쟁 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57685</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57685</guid>
+            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케터의 기본기 - 미디어믹스 마스터하기 1편 (아이보스 ─ 인기글)]]></title>
@@ -231,18 +231,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이것만 알면 기본은 하는 카드뉴스 디자인! 2탄! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57800</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57800</guid>
-            <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[흥미진진]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[14일차 마케터의 꿀팁 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57830</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57830</guid>
             <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[변지현]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이것만 알면 기본은 하는 카드뉴스 디자인! 2탄! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57800</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57800</guid>
+            <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[흥미진진]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미디어커머스 시장이 몰락한 이유 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,30 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57796</guid>
             <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[규S]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[5월 31일 마케팅 뉴스클리핑] 쇼핑 업계 손절한 빠른배송... 네이버는 어떻게 손에 쥘까 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8838</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8838</guid>
+            <pubDate>Tue, 31 May 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 쇼핑 업계 손절한 `빠른배송`... 네이버는 어떻게 손에 쥘까  `빠른배송` 서비스를 도입했다가 실적 악화로 서비스를 중단하는 기업이 늘어나는 가운데 뒤늦게 출사표를 던진 네이버가 어떤 전략을 펼칠지 업계가 주목하고 있 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_cb99e851685da3c25f3b1365a5627c7e_97629_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구찌, 정신 건강에 중점을 둔 글로벌 게임 아카데미 론칭 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8840</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8840</guid>
+            <pubDate>Tue, 31 May 2022 07:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[구찌(Gucci)는 선도적인 e스포츠 플랫폼인 페이스잇(Faceit)과 세계보건기구(WHO)와 협력하여 완전히 새로운 정신 건강 지향 게임 아카데미를 설립했다. 이 아카데미는 럭셔리 패션 브랜드가 론칭한 최초의 메이저 게임 교육 프로그 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인포그래픽] 틱톡, 사용 시간에서 유튜브를 능가하다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8839</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8839</guid>
+            <pubDate>Tue, 31 May 2022 07:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[이마케터에 따르면, 올해 틱톡은 미국 성인 이용자가 보내는시간에서 유튜브를 능가할 것이다. 성인 이용자는하루 평균 틱톡은45.8분을 사용, 45.6분의 유튜브를 앞지르게 될 것이다. 틱톡이 이 측정항목에서 유튜브를 추월한 것 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[제일기획, 북미서 블루다이아몬드 광고주 영입 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -566,28 +590,25 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[트렌드모니터] 과시, 사치는 옛말 장벽 낮아지는 명품 소비 시장 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8809</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8809</guid>
-            <pubDate>Thu, 26 May 2022 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[과시, 사치, 증명 등에 대한 욕구를 바탕으로 명품 소비 시장은 끊임없이 성장해왔으나,소수의 전유물로 여겨졌던 명품 소비가 이제 연령과 계층을 넘어 확대되고 있는 모습이다. 명품을 취향과 자기 발현의 도구로 인식하는 경 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[5월 31일 마케팅 뉴스클리핑] 쇼핑 업계 손절한 '빠른배송'... 네이버는 어떻게 손에 쥘까 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8838</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8838</guid>
+            <pubDate>Mon, 30 May 2022 23:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[리복, 장애인을 위한 최초의 적응형 신발(Adaptive Footwear) 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8808</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8808</guid>
-            <pubDate>Thu, 26 May 2022 08:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠 브랜드 리복은 자포스 어댑티브(Zappos Adaptive)와 제휴, 장애인의 퍼포먼스와 생활습관을 개선하기 위해 설계된 최초의 적응형신발(Adaptive Footwear)컬렉션 `핏투핏(Fit to Fit)`을 출시했다고 인풋 등 외신은 보도했다. 리복의  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[구찌, 정신 건강에 중점을 둔 글로벌 게임 아카데미 론칭 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8840</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8840</guid>
+            <pubDate>Mon, 30 May 2022 23:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[5월 26일 마케팅 뉴스클리핑] 지난달 가장 많이 쓴 OTT는 넷플릭스 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8807</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8807</guid>
-            <pubDate>Thu, 26 May 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 지난달 가장 많이 쓴 OTT는 `넷플릭스`  지난 4월 한 달 동안 가장 많이 사용한 OTT는 1055만 명의 넷플릭스였다. 다만 연초와 비교하면 OTT 가입자 수가 전반적으로 감소하는 모습을 보였다. 쿠팡플레이 321만 명, 웨이브 307만 명, U+ ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_cc36ebd405c85bd0828a18bee00f5118_27298_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[인포그래픽] 틱톡, 사용 시간에서 유튜브를 능가하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8839</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8839</guid>
+            <pubDate>Mon, 30 May 2022 23:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제일기획, 북미서 ‘블루다이아몬드’ 광고주 영입 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -779,25 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[트렌드모니터] “과시, 사치는 옛말” 장벽 낮아지는 명품 소비 시장 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8809</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8809</guid>
-            <pubDate>Thu, 26 May 2022 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[리복, 장애인을 위한 최초의 적응형 신발(Adaptive Footwear) 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8808</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8808</guid>
-            <pubDate>Thu, 26 May 2022 08:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[5월 26일 마케팅 뉴스클리핑] 지난달 가장 많이 쓴 OTT는 '넷플릭스' 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8807</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8807</guid>
-            <pubDate>Thu, 26 May 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA['카카오이모티콘 비즈샵'을 통해서 구매한 카카오 이모티콘은 마케팅에 활용할 수 있습니다. 다음 중 '카카오이모티콘 비즈샵'에 대한 내용으로 옳지 않은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Mon, 30 May 2022 23:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->'카카오이모티콘 비즈샵'을 통해서 구매한 카카오 이모티콘은 마케팅에 활용할 수 있습니다. 다음 중 '카카오이모티콘 비즈샵'에 대한 내용으로 옳지 않은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1433_1" value="1" class="AB-radio" id="PQ_BD5826_1433_1_0"><label for="PQ_BD5826_1433_1_0" id="label_PQ_BD5826_1433_1_0">(A) 고객은 다운받은 이모티콘을 최대 90일까지 사용할 수 있다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1433_1" value="2" class="AB-radio" id="PQ_BD5826_1433_1_1"><label for="PQ_BD5826_1433_1_1" id="label_PQ_BD5826_1433_1_1">(B) 이모티콘은 최소 100개 이상 구매해야 한다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1433_1" value="3" class="AB-radio" id="PQ_BD5826_1433_1_2"><label for="PQ_BD5826_1433_1_2" id="label_PQ_BD5826_1433_1_2">(C) 이모티콘을 구매하기 위해서는 사업자등록번호가 필요하다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1433_1" value="4" class="AB-radio" id="PQ_BD5826_1433_1_3"><label for="PQ_BD5826_1433_1_3" id="label_PQ_BD5826_1433_1_3">(D) 이벤트 페이지 및 배너에 활용할 수 있는 대표 이미지를 제공한다</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['코로나 폐업' 소상공인 3천명에 선착순 지원금 300만원 지원 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
