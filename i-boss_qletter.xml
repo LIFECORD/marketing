@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 23:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 01:42:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디지털에서 배운 타기팅, TV 광고에서 뽐내기]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1017432-%EB%94%94%EC%A7%80%ED%84%B8%EC%97%90%EC%84%9C_%EB%B0%B0%EC%9A%B4_%ED%83%80%EA%B8%B0%ED%8C%85_TV_%EA%B4%91%EA%B3%A0%EC%97%90%EC%84%9C_%EB%BD%90%EB%82%B4%EA%B8%B0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1017432-%EB%94%94%EC%A7%80%ED%84%B8%EC%97%90%EC%84%9C_%EB%B0%B0%EC%9A%B4_%ED%83%80%EA%B8%B0%ED%8C%85_TV_%EA%B4%91%EA%B3%A0%EC%97%90%EC%84%9C_%EB%BD%90%EB%82%B4%EA%B8%B0/</guid>
+            <pubDate>Mon, 30 May 2022 01:41:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1017432-디지털에서_배운_타기팅_TV_광고에서_뽐내기/">
+						<div class="thumb"><img src="/images/qletter_1017432.png"></div>
+						<p><strong>디지털에서 배운 타기팅, TV 광고에서 뽐내기</strong>2022.05.30</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1017432.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[어느 날 갑자기 Lv.1 팀장이 되었다]]></title>
             <link>https://qletter.i-boss.co.kr/view/1013737-%EC%96%B4%EB%8A%90_%EB%82%A0_%EA%B0%91%EC%9E%90%EA%B8%B0_Lv1_%ED%8C%80%EC%9E%A5%EC%9D%B4_%EB%90%98%EC%97%88%EB%8B%A4/</link>
@@ -127,17 +138,6 @@
 						<p><strong>국내 가장 많이 쓰는 SNS는 OO이다?</strong>2022.04.18</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_958288.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[1인 마케터 vs 박봉 대행사]]></title>
-            <link>https://qletter.i-boss.co.kr/view/953266-1%EC%9D%B8_%EB%A7%88%EC%BC%80%ED%84%B0_vs_%EB%B0%95%EB%B4%89_%EB%8C%80%ED%96%89%EC%82%AC/</link>
-            <guid>https://qletter.i-boss.co.kr/view/953266-1%EC%9D%B8_%EB%A7%88%EC%BC%80%ED%84%B0_vs_%EB%B0%95%EB%B4%89_%EB%8C%80%ED%96%89%EC%82%AC/</guid>
-            <pubDate>Thu, 14 Apr 2022 01:25:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/953266-1인_마케터_vs_박봉_대행사/">
-						<div class="thumb"><img src="/images/qletter_953266.png"></div>
-						<p><strong> 1인 마케터 vs 박봉 대행사</strong>2022.04.14</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_953266.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
