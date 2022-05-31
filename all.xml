@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 14:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 15:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8813</guid>
             <pubDate>Thu, 26 May 2022 11:33:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['카카오이모티콘 비즈샵'을 통해서 구매한 카카오 이모티콘은 마케팅에 활용할 수 있습니다. 다음 중 '카카오이모티콘 비즈샵'에 대한 내용으로 옳지 않은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 31 May 2022 14:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->'카카오이모티콘 비즈샵'을 통해서 구매한 카카오 이모티콘은 마케팅에 활용할 수 있습니다. 다음 중 '카카오이모티콘 비즈샵'에 대한 내용으로 옳지 않은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1433_1" value="1" class="AB-radio" id="PQ_BD5826_1433_1_0"><label for="PQ_BD5826_1433_1_0" id="label_PQ_BD5826_1433_1_0">(A) 고객은 다운받은 이모티콘을 최대 90일까지 사용할 수 있다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1433_1" value="2" class="AB-radio" id="PQ_BD5826_1433_1_1"><label for="PQ_BD5826_1433_1_1" id="label_PQ_BD5826_1433_1_1">(B) 이모티콘은 최소 100개 이상 구매해야 한다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1433_1" value="3" class="AB-radio" id="PQ_BD5826_1433_1_2"><label for="PQ_BD5826_1433_1_2" id="label_PQ_BD5826_1433_1_2">(C) 이모티콘을 구매하기 위해서는 사업자등록번호가 필요하다</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1433_1" value="4" class="AB-radio" id="PQ_BD5826_1433_1_3"><label for="PQ_BD5826_1433_1_3" id="label_PQ_BD5826_1433_1_3">(D) 이벤트 페이지 및 배너에 활용할 수 있는 대표 이미지를 제공한다</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['코로나 폐업' 소상공인 3천명에 선착순 지원금 300만원 지원 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
