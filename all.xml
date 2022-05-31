@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 23:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 01:44:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -175,18 +175,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[MSM] 인하우스 마케터 꿀팁 판매 상황에 따른 마케팅! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57701</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57701</guid>
-            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[레미니센스]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[신규 출시하는 CPC 광고를 둘러싼 논쟁 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57685</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57685</guid>
             <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[MSM] 인하우스 마케터 꿀팁 판매 상황에 따른 마케팅! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57701</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57701</guid>
+            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[레미니센스]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케터의 기본기 - 미디어믹스 마스터하기 1편 (아이보스 ─ 인기글)]]></title>
@@ -217,6 +217,13 @@
             <content:encoded><![CDATA[오니드]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[14일차 마케터의 꿀팁 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57830</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57830</guid>
+            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[변지현]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[MSM] 좋은 대행사 마케터와 좋은 인하우스의 만남의 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57714</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57714</guid>
@@ -229,13 +236,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57717</guid>
             <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[14일차 마케터의 꿀팁 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57830</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57830</guid>
-            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[변지현]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이것만 알면 기본은 하는 카드뉴스 디자인! 2탄! (아이보스 ─ 인기글)]]></title>
@@ -259,6 +259,13 @@
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2022년 우뇌식 페이스북 세팅방법 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57860</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57860</guid>
+            <pubDate>Mon, 30 May 2022 10:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[초보 팀장을 위한 튜토리얼 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-5637-45</link>
             <guid>https://www.i-boss.co.kr/ab-5637-45</guid>
@@ -271,13 +278,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57755</guid>
             <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 우뇌식 페이스북 세팅방법 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57860</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57860</guid>
-            <pubDate>Mon, 30 May 2022 10:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나만 알고 싶은 무료폰트 [명조편] (아이보스 ─ 인기글)]]></title>
@@ -329,6 +329,13 @@
             <content:encoded><![CDATA[김갓기]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[곰곰히 생각해보면 제가 여태 남들 돈만 벌어줬네요 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39129</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39129</guid>
+            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[네이버 GFA 최신 자료 공유 1 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57733</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57733</guid>
@@ -343,11 +350,28 @@
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[광고매체는 죄가 없습니다. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57796</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57796</guid>
-            <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[규S]]></content:encoded>
+            <title><![CDATA[네이버  티몬, 인플루언서로 브랜드 충성고객 잡는다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8843</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8843</guid>
+            <pubDate>Tue, 31 May 2022 09:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[네이버 `브랜드 커넥트`티몬 `브랜드 풀필먼트` 가동  인플루언서를 통한 브랜드 충성고객 확보가 이커머스 성장 방정식으로 떠올랐다.  네이버는 최근 크리에이터와 브랜드사를 연결하는 `브랜드 커넥트` 서비스를 정식 오픈했 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[거리두기 해제 이후 여가, 여행, 외식, 패션, 운동 관련 앱 사용자 크게 증가 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8842</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8842</guid>
+            <pubDate>Tue, 31 May 2022 09:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[4월 사용자 증가율이 큰 앱은 롯데월드 어드벤처, 에버랜드, 전주사랑상품권, 프로야구, 티켓링크 순 4월 결제금액 증가율이 큰 리테일은 모두투어, 참좋은여행, 에버랜드, 익스피디아, 부킹닷컴 순 22년 3월 대비 22년 4월 앱 사용 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16539561918743.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[S4, 1분기 수익 40% 증가 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8841</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8841</guid>
+            <pubDate>Tue, 31 May 2022 08:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[S4캐피탈은 올 1분기에수익이 40% 이상 성장하는 등 강세를 이어갔다.이번 공시는 이달 초 회계감사인 프라이스워터하우스쿠퍼스(PricewaterhouseCoopers)에 의해 회계문제가 적발돼 주가에 상당한 악영향을 미친 뒤 미뤄진 연간 실적  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[5월 31일 마케팅 뉴스클리핑] 쇼핑 업계 손절한 빠른배송... 네이버는 어떻게 손에 쥘까 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -566,48 +590,45 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[콘텐츠 및 스트리밍 엔드-투-엔드 서비스 기업, 오픈익스체인지 한국지사 설립 통해 기업 가상 커뮤니케이션 시장 공략 강화 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8812</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8812</guid>
-            <pubDate>Thu, 26 May 2022 09:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 엔드-투-엔드 콘텐츠  스트리밍 서비스 기업 오픈익스체인지(한국 및 아태 총괄 대표 이재철, openexc.kr)는 한국 지사를 설립하고,국내 기업을 대상으로 최고의 가상  하이브리드 커뮤니케이션 환경을 제공할 것이라고 밝 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[네이버 · 티몬, '인플루언서'로 브랜드 충성고객 잡는다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8843</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8843</guid>
+            <pubDate>Tue, 31 May 2022 01:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[올해 전 세계 게임 시장, 282조 원 규모로 커진다! (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8811</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8811</guid>
-            <pubDate>Thu, 26 May 2022 09:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[업계에서 가장 신뢰받는 데이터 및 분석 플랫폼data.ai(구 앱애니)가 세계적인 게임 마케팅 인텔리전스 기업인IDC와 함께 글로벌 게임 시장의 트렌드와 변화를 분석한 보고서 게임 스포트라이트2022년 리뷰를 발간했다. 해당 보고 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[거리두기 해제 이후 여가, 여행, 외식, 패션, 운동 관련 앱 사용자 크게 증가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8842</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8842</guid>
+            <pubDate>Tue, 31 May 2022 01:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이지에이웍스, 스타벅스 마케팅 DX 파트너사 선정 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8810</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8810</guid>
-            <pubDate>Thu, 26 May 2022 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[빅데이터 플랫폼 기업 아이지에이웍스(대표 마국성)가SCK컴퍼니(이하 스타벅스)의 고객 경험 개선 및 마케팅DX(디지털트랜스포메이션)을 가속화하기 위한 전략적 파트너사로 선정됐다고26일 밝혔다. 아이지에이웍스는SaaS형CDP(Cus ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[S4, 1분기 수익 40% 증가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8841</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8841</guid>
+            <pubDate>Tue, 31 May 2022 01:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[5월 31일 마케팅 뉴스클리핑] 쇼핑 업계 손절한 '빠른배송'... 네이버는 어떻게 손에 쥘까 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8838</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8838</guid>
-            <pubDate>Mon, 30 May 2022 23:20:15 GMT</pubDate>
+            <pubDate>Tue, 31 May 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구찌, 정신 건강에 중점을 둔 글로벌 게임 아카데미 론칭 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8840</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8840</guid>
-            <pubDate>Mon, 30 May 2022 23:20:15 GMT</pubDate>
+            <pubDate>Tue, 31 May 2022 07:50:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 틱톡, 사용 시간에서 유튜브를 능가하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8839</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8839</guid>
-            <pubDate>Mon, 30 May 2022 23:20:15 GMT</pubDate>
+            <pubDate>Tue, 31 May 2022 07:50:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -779,31 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[콘텐츠 및 스트리밍 엔드-투-엔드 서비스 기업, 오픈익스체인지 한국지사 설립 통해 기업 가상 커뮤니케이션 시장 공략 강화 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8812</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8812</guid>
-            <pubDate>Thu, 26 May 2022 09:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[올해 전 세계 게임 시장, 282조 원 규모로 커진다! (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8811</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8811</guid>
-            <pubDate>Thu, 26 May 2022 09:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아이지에이웍스, 스타벅스 마케팅 DX 파트너사 선정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8810</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8810</guid>
-            <pubDate>Thu, 26 May 2022 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['카카오이모티콘 비즈샵'을 통해서 구매한 카카오 이모티콘은 마케팅에 활용할 수 있습니다. 다음 중 '카카오이모티콘 비즈샵'에 대한 내용으로 옳지 않은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 30 May 2022 23:20:29 GMT</pubDate>
+            <pubDate>Tue, 31 May 2022 01:44:04 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'카카오이모티콘 비즈샵'을 통해서 구매한 카카오 이모티콘은 마케팅에 활용할 수 있습니다. 다음 중 '카카오이모티콘 비즈샵'에 대한 내용으로 옳지 않은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
