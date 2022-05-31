@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 05:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 06:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,18 +280,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[나만 알고 싶은 무료폰트 [명조편] (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57691</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57691</guid>
-            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[휴이언니]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[곰곰히 생각해보면 제가 여태 남들 돈만 벌어줬네요 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39129</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39129</guid>
             <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나만 알고 싶은 무료폰트 [명조편] (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57691</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57691</guid>
+            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[꼭 알아야 할 `나에 대한 오류` 9가지 (완벽한 공부법,.. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA['카카오이모티콘 비즈샵'을 통해서 구매한 카카오 이모티콘은 마케팅에 활용할 수 있습니다. 다음 중 '카카오이모티콘 비즈샵'에 대한 내용으로 옳지 않은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 31 May 2022 05:24:48 GMT</pubDate>
+            <pubDate>Tue, 31 May 2022 06:24:53 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'카카오이모티콘 비즈샵'을 통해서 구매한 카카오 이모티콘은 마케팅에 활용할 수 있습니다. 다음 중 '카카오이모티콘 비즈샵'에 대한 내용으로 옳지 않은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
