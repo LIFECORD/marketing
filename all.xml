@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 03:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 04:36:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -245,18 +245,18 @@
             <content:encoded><![CDATA[흥미진진]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미디어커머스 시장이 몰락한 이유 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57741</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57741</guid>
-            <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[르와즈]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022년 우뇌식 페이스북 세팅방법 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57860</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57860</guid>
             <pubDate>Mon, 30 May 2022 10:23:11 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미디어커머스 시장이 몰락한 이유 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57741</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57741</guid>
+            <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[르와즈]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5.18 기념 특별한 폰트 (아이보스 ─ 인기글)]]></title>
@@ -287,6 +287,13 @@
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[곰곰히 생각해보면 제가 여태 남들 돈만 벌어줬네요 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39129</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39129</guid>
+            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[꼭 알아야 할 `나에 대한 오류` 9가지 (완벽한 공부법,.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38968</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38968</guid>
@@ -299,13 +306,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-39046</guid>
             <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[유리나]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[곰곰히 생각해보면 제가 여태 남들 돈만 벌어줬네요 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39129</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39129</guid>
-            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[매출가지고 징징거리는 대표 (가격전쟁) (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA['카카오이모티콘 비즈샵'을 통해서 구매한 카카오 이모티콘은 마케팅에 활용할 수 있습니다. 다음 중 '카카오이모티콘 비즈샵'에 대한 내용으로 옳지 않은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 31 May 2022 03:25:04 GMT</pubDate>
+            <pubDate>Tue, 31 May 2022 04:36:17 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'카카오이모티콘 비즈샵'을 통해서 구매한 카카오 이모티콘은 마케팅에 활용할 수 있습니다. 다음 중 '카카오이모티콘 비즈샵'에 대한 내용으로 옳지 않은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
