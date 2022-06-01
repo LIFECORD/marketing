@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 23:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 01:55:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -189,13 +189,6 @@
             <content:encoded><![CDATA[레미니센스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신규 출시하는 CPC 광고를 둘러싼 논쟁 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57685</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57685</guid>
-            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케터의 기본기 - 미디어믹스 마스터하기 1편 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57743</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57743</guid>
@@ -273,18 +266,18 @@
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뜨고 있는 근무 트렌드, 워케이션 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57755</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57755</guid>
-            <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[곰곰히 생각해보면 제가 여태 남들 돈만 벌어줬네요 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39129</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39129</guid>
             <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뜨고 있는 근무 트렌드, 워케이션 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57755</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57755</guid>
+            <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나만 알고 싶은 무료폰트 [명조편] (아이보스 ─ 인기글)]]></title>
@@ -348,6 +341,53 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57796</guid>
             <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[규S]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신규 방문자가 적을 때 효과적인 광고 유형은 무엇일.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-74668-2611</link>
+            <guid>https://www.i-boss.co.kr/ab-74668-2611</guid>
+            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[bigin]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[하이브스택, 한국 최대 규모 병의원 옥외 미디어 기업 헬로미디어와 SSP 계약 체결 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8849</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8849</guid>
+            <pubDate>Wed, 01 Jun 2022 09:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[캐다다 몬트리올에 본사를 두고 있는 세계적인 프로그래매틱 디지털 옥외 광고(Programmatic DOOH) 애드테크 기업 하이브스택(Hivestack)이 한국 최대 규모의 병의원 디지털 옥외 광고 업체 헬로미디어(Hello Media)와 파트너십 계약을 체 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[CM송, 라디오 광고 효과 최고 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8848</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8848</guid>
+            <pubDate>Wed, 01 Jun 2022 09:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[CM송이라디오 광고에 가장 효과적인 것으로 나타났다. 한국방송광고진흥공사(이하 코바코)가지난달 중소기업 광고마케팅 지원을 위해 실시한 중소기업 특화 소비자 조사에 따르면 청취자 절반 이상이 기억에 남는 라디오 광고  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[트렌드모니터] 수면의 질이 곧 삶의 질... 꿀잠에 투자하는 현대인들 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8847</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8847</guid>
+            <pubDate>Wed, 01 Jun 2022 08:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[41.4% 수면 시간 항상 부족해...모자란 잠은 휴일에 보충하는 편  시장조사전문기업 엠브레인 트렌드모니터(trendmonitor.co.kr)가 전국 만 19~59세 성인 남녀 1,000명을 대상으로 수면의 질 및 수면용품 관련 인식 조사를 실시한 결과 평 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인포그래픽] 주식 투자에 가장 좋은 달은? (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8846</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8846</guid>
+            <pubDate>Wed, 01 Jun 2022 08:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[주식 투자는 주식 시장이 특정 시기에 더 나은 성과를 낸다고 말한다. 이 주장은맞는 말일까? 비주얼 캐피털리스트는 영국 자산운용사 슈뢰더스가 수집한 자료를 활용, 인포그래픽을 제작함으로써 그 주장을 검증했다. 슈뢰더 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[Trend from Tokyo] BOPIS (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8845</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8845</guid>
+            <pubDate>Wed, 01 Jun 2022 08:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[일본에 워크맨이라고 하는 회사가 있다. 소니가 만들었던 가전제품 워크맨이 아니고 일본의 대형 의류 업체 이름이다. 사명에서도 예측이 되듯이 원래 직원들의 작업복과 같은 유니폼을 만들어 판매하는 회사였는데 코로나 시 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[네이버  티몬, 인플루언서로 브랜드 충성고객 잡는다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -550,44 +590,39 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[5월 27일 마케팅 뉴스클리핑] 유튜브 쇼츠에도 동영상 광고... 돈 되는 짤막 콘텐츠 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8817</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8817</guid>
-            <pubDate>Fri, 27 May 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 유튜브 쇼츠에도 동영상 광고... 돈 되는 `짤막 콘텐츠`  구글이 유튜브 `쇼츠`를 통해 광고마케팅을 할 수 있도록 허용한다. 그동안 구글은 쇼츠에 광고를 허용하지 않았고, 이는 일부 사용자가 애용하는 이유 중 하나로 꼽혀  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_0ba4c9a04879305320ef7cd9a7cbda50_49421_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[하이브스택, 한국 최대 규모 병·의원 옥외 미디어 기업 헬로미디어와 SSP 계약 체결 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8849</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8849</guid>
+            <pubDate>Wed, 01 Jun 2022 01:54:42 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국PR협회 대학생PR위원회 출범...PR 아이디어 기획, ESG 캠페인, 콘텐츠 제작, SNS 운영 등 다양한 활동 전개 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8816</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8816</guid>
-            <pubDate>Thu, 26 May 2022 05:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[한국PR협회(회장 김주호)의 대학생PR위원회가25일 오후5시 최인아 책방에서 발대식을 개최하고 본격적인 활동을 시작했다. 2022대학생PR위원회 위원장은 장현하 학생(덕성여대),부위원장은 권용주 학생(숙명여대),김민재 학생(이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[CM송, 라디오 광고 효과 최고 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8848</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8848</guid>
+            <pubDate>Wed, 01 Jun 2022 01:54:42 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 에피 어워드 코리아 파이널리스트 발표 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8815</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8815</guid>
-            <pubDate>Thu, 26 May 2022 05:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022 에피 어워드 코리아 파이널리스트 43편이 발표됐다. 2022 에피 어워드 코리아는 지난4월 26일부터 5월 18일까지 진행된 예선 심사를 통해최종 본선에 진출할 파이널리스트를 43편선정했다. 이번 예선은 마케팅 커뮤니케이션 기 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[트렌드모니터] "수면의 질이 곧 삶의 질"... '꿀잠'에 투자하는 현대인들 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8847</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8847</guid>
+            <pubDate>Wed, 01 Jun 2022 01:54:42 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오T, 전월 대비 사용자 수 126만명 증가하며 급상승 1위 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8814</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8814</guid>
-            <pubDate>Thu, 26 May 2022 05:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[빅데이터 플랫폼 기업 아이지에이웍스가모바일인덱스리포트를 발표했다.이번 보고서는사용자 수 급상승 순위TOP 50,업종별 신규설치 순위TOP 10에 관한 데이터 분석을 다루고 있다. 모바일인덱스에 따르면, 4월여행/교통업종 앱  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[인포그래픽] 주식 투자에 가장 좋은 달은? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8846</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8846</guid>
+            <pubDate>Wed, 01 Jun 2022 01:54:42 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[브랜디, 서울산업진흥원과 업무협약... 중소 판매자 육성 지원 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8813</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8813</guid>
-            <pubDate>Thu, 26 May 2022 11:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[커머스 플랫폼 빌더 브랜디가 서울산업진흥원(SBA)과 업무협약을 체결하고 중소 판매자 육성에 나선다고 26일 밝혔다.   이번 협약은 서울산업진흥원이 진행하는 온라인 플랫폼 연계 서울 패션기업 발굴 및 지원사업에 브랜디가  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[Trend from Tokyo] BOPIS (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8845</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8845</guid>
+            <pubDate>Wed, 01 Jun 2022 01:54:42 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버 · 티몬, '인플루언서'로 브랜드 충성고객 잡는다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -765,45 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[5월 27일 마케팅 뉴스클리핑] 유튜브 쇼츠에도 동영상 광고... 돈 되는 '짤막 콘텐츠' 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8817</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8817</guid>
-            <pubDate>Fri, 27 May 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국PR협회 대학생PR위원회 출범...PR 아이디어 기획, ESG 캠페인, 콘텐츠 제작, SNS 운영 등 다양한 활동 전개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8816</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8816</guid>
-            <pubDate>Thu, 26 May 2022 05:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 에피 어워드 코리아 파이널리스트 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8815</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8815</guid>
-            <pubDate>Thu, 26 May 2022 05:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘카카오T’, 전월 대비 사용자 수 126만명 증가하며 급상승 1위 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8814</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8814</guid>
-            <pubDate>Thu, 26 May 2022 05:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[브랜디, 서울산업진흥원과 업무협약... 중소 판매자 육성 지원 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8813</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8813</guid>
-            <pubDate>Thu, 26 May 2022 11:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['카카오이모티콘 비즈샵'을 통해서 구매한 카카오 이모티콘은 마케팅에 활용할 수 있습니다. 다음 중 '카카오이모티콘 비즈샵'에 대한 내용으로 옳지 않은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 31 May 2022 23:21:00 GMT</pubDate>
+            <pubDate>Wed, 01 Jun 2022 01:54:56 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'카카오이모티콘 비즈샵'을 통해서 구매한 카카오 이모티콘은 마케팅에 활용할 수 있습니다. 다음 중 '카카오이모티콘 비즈샵'에 대한 내용으로 옳지 않은 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
