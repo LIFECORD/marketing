@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 22:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 23:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[6월 2일 마케팅 뉴스클리핑] 네이버 블로그, 주간일기 챌린지로 MZ 갓생러 응원 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8844</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8844</guid>
+            <pubDate>Thu, 02 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버 블로그, `주간일기 챌린지`로 MZ 갓생러 응원  네이버 블로그는 오는 6월 6일부터 6개월 동안 `주간일기 챌린지`를 진행한다. 주간일기 챌린지는 주 1회, 총 월 4회의 글쓰기를 6개월 동안 이어가는 장기 프로젝트다. `오늘 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5194f19c26bdb89aa35a3622139c8ca2_8746_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하이브스택, 한국 최대 규모 병의원 옥외 미디어 기업 헬로미디어와 SSP 계약 체결]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8849</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8819</guid>
             <pubDate>Fri, 27 May 2022 08:34:00 GMT</pubDate>
             <content:encoded><![CDATA[거리두기가 해제되고 콘서트,야외 행사 등이 재개되면서 사회 분위기 역시 코로나 이전의 활기를 되찾아가는 듯하다.이와 함께 식음료 업계는여름을 앞두고 밝은 햇살 아래 기분을 전환하기 좋은 가볍고 부드러운 신제품 음료 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼센트 X 애드저스트, 모바일 게임 트렌드 및 SKAN 데이터를 통한 하이퍼 캐주얼 성과측정 웨비나 개최]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8818</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8818</guid>
-            <pubDate>Fri, 27 May 2022 08:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[하이퍼 캐주얼은 전 세계 게임 카테고리 이용자 수 1위인 대세 장르다. 특히, 하이퍼 캐주얼을 선도하고 있는 미국 시장에서는 전체 Top 100 다운로드 게임의 80%가 하이퍼 캐주얼 게임일 정도로 세계적으로 연령, 성별, 국문을 불 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
