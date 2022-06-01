@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-01T09:21:25.016Z</updated>
+    <updated>2022-06-01T10:25:44.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -46,13 +46,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57830"/>
         <updated>2022-05-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[변지현]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MSM] 인하우스 마케터 꿀팁 판매 상황에 따른 마케팅!]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57701</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57701"/>
-        <updated>2022-05-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[레미니센스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마케터의 기본기 - 미디어믹스 마스터하기 1편]]></title>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57728"/>
         <updated>2022-05-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[마케팅코치마코]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어제 석가탄신일에 올리지 못해 아쉬운 짤]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-39005</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-39005"/>
+        <updated>2022-05-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[체르시]]></content>
     </entry>
 </feed>
