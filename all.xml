@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 23:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 01:45:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일잘러 마케터의 업무 치트키 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1022176-%EC%9D%BC%EC%9E%98%EB%9F%AC_%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98_%EC%97%85%EB%AC%B4_%EC%B9%98%ED%8A%B8%ED%82%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1022176-%EC%9D%BC%EC%9E%98%EB%9F%AC_%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98_%EC%97%85%EB%AC%B4_%EC%B9%98%ED%8A%B8%ED%82%A4/</guid>
+            <pubDate>Thu, 02 Jun 2022 01:44:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1022176-일잘러_마케터의_업무_치트키/">
+						<div class="thumb"><img src="/images/qletter_1022176.png"></div>
+						<p><strong>일잘러 마케터의 업무 치트키</strong>2022.06.02</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1022176.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[디지털에서 배운 타기팅, TV 광고에서 뽐내기 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1017432-%EB%94%94%EC%A7%80%ED%84%B8%EC%97%90%EC%84%9C_%EB%B0%B0%EC%9A%B4_%ED%83%80%EA%B8%B0%ED%8C%85_TV_%EA%B4%91%EA%B3%A0%EC%97%90%EC%84%9C_%EB%BD%90%EB%82%B4%EA%B8%B0/</link>
@@ -129,17 +140,6 @@
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_964230.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[국내 가장 많이 쓰는 SNS는 OO이다? (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/958288-%EA%B5%AD%EB%82%B4_%EA%B0%80%EC%9E%A5_%EB%A7%8E%EC%9D%B4_%EC%93%B0%EB%8A%94_SNS%EB%8A%94_OO%EC%9D%B4%EB%8B%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/958288-%EA%B5%AD%EB%82%B4_%EA%B0%80%EC%9E%A5_%EB%A7%8E%EC%9D%B4_%EC%93%B0%EB%8A%94_SNS%EB%8A%94_OO%EC%9D%B4%EB%8B%A4/</guid>
-            <pubDate>Mon, 18 Apr 2022 06:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/958288-국내_가장_많이_쓰는_SNS는_OO이다/">
-						<div class="thumb"><img src="/images/qletter_958288.png"></div>
-						<p><strong>국내 가장 많이 쓰는 SNS는 OO이다?</strong>2022.04.18</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_958288.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[데이터스튜디오 템플릿 추첨으로 10분께 공유 드려요.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-38987</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-38987</guid>
@@ -203,18 +203,18 @@
             <content:encoded><![CDATA[호랑이마케팅]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ROAS만 쫓다가는 맛탱이 가십니다. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57738</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57738</guid>
-            <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[오니드]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022년 우뇌식 페이스북 세팅방법 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57860</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57860</guid>
             <pubDate>Mon, 30 May 2022 10:23:11 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ROAS만 쫓다가는 맛탱이 가십니다. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57738</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57738</guid>
+            <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오니드]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[AI검색 확대하는 네이버 (아이보스 ─ 인기글)]]></title>
@@ -294,13 +294,6 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[실무에서 유용한 포토샵 꿀팁! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57703</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57703</guid>
-            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김갓기]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네이버 GFA 최신 자료 공유 1 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57733</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57733</guid>
@@ -348,6 +341,29 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57838</guid>
             <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[yoorok]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[퍼포먼스 마케팅 ROAS 300% 안된다고요? 왜요? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57734</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57734</guid>
+            <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[피자맛있어]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[해외 크리에이티브] 루이 비통 x 나이키, 에어포스1 컬래버 3D 광고를 론칭하다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8851</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8851</guid>
+            <pubDate>Thu, 02 Jun 2022 08:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[버질 아블로는 작년에 죽기 전 마지막 프로젝트 중 하나에서 나이키 에어포스1을 새로운 차원으로 끌어올렸다.지난해 6월 루이 비통의 2022 S/S컬렉션에서 버질 아블로가 나이키와 협업해 공개한 47가지의 에어포스1 에디션 중 9가 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[아마존, 미국 전자 상거래 채널 광고 시장의 77% 차지할 듯 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8850</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8850</guid>
+            <pubDate>Thu, 02 Jun 2022 08:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[아마존은 올해 전체미국 전자 상거래 채널 광고 수익359억 6000만 달러 중 77.7%로 279억 4000만 달러를 기록할 것으로 이마케터는 발표했다. 전자 상거래 채널 광고 수익에서 아마존이 차지하는 비중은 줄어들고 있지만, 이마케터가  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[6월 2일 마케팅 뉴스클리핑] 네이버 블로그, 주간일기 챌린지로 MZ 갓생러 응원 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -574,26 +590,24 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[펩시, 더이상 슈퍼볼 하프타임 쇼를 후원하지 않는다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8820</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8820</guid>
-            <pubDate>Fri, 27 May 2022 08:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼볼은 미식 축구를 모르는 사람에게도 커다란 구경꺼리가 있다. 바로 펩시가 후원하는 하프타임 쇼. 전 세계적으로 유명한 연예인이 참가하는공연은 두고두고 회자된다. 올해 하프타임 쇼는닥터 드레, 스눕 독, 에미넴, 매리 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[해외 크리에이티브] 루이 비통 x 나이키, 에어포스1 컬래버 3D 광고를 론칭하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8851</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8851</guid>
+            <pubDate>Thu, 02 Jun 2022 01:45:03 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[MZ세대 취향 저격 대세 스타들, 음료 업계 모델로 발탁 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8819</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8819</guid>
-            <pubDate>Fri, 27 May 2022 08:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[거리두기가 해제되고 콘서트,야외 행사 등이 재개되면서 사회 분위기 역시 코로나 이전의 활기를 되찾아가는 듯하다.이와 함께 식음료 업계는여름을 앞두고 밝은 햇살 아래 기분을 전환하기 좋은 가볍고 부드러운 신제품 음료 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[아마존, 미국 전자 상거래 채널 광고 시장의 77% 차지할 듯 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8850</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8850</guid>
+            <pubDate>Thu, 02 Jun 2022 01:45:03 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[6월 2일 마케팅 뉴스클리핑] 네이버 블로그, '주간일기 챌린지'로 MZ 갓생러 응원 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8844</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8844</guid>
-            <pubDate>Wed, 01 Jun 2022 23:20:07 GMT</pubDate>
+            <pubDate>Thu, 02 Jun 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[펩시, 더이상 슈퍼볼 하프타임 쇼를 후원하지 않는다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8820</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8820</guid>
-            <pubDate>Fri, 27 May 2022 08:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MZ세대 취향 저격 대세 스타들, 음료 업계 모델로 발탁 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8819</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8819</guid>
-            <pubDate>Fri, 27 May 2022 08:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음은 나제일 씨가 아이보스 홈페이지에 방문한 이력입니다. 나제일 씨에 의해 구글 애널리틱스에서 세션이 발생한 횟수는 몇 번일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 01 Jun 2022 23:20:21 GMT</pubDate>
+            <pubDate>Thu, 02 Jun 2022 01:45:16 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음은 나제일 씨가 아이보스 홈페이지에 방문한 이력입니다. 나제일 씨에 의해 구글 애널리틱스에서 세션이 발생한 횟수는 몇 번일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/d4ce42690dfb77134dc9d78ed9093bac_16533829048626.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
@@ -811,6 +811,41 @@
 				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1434_1" value="1" class="AB-radio" id="PQ_BD5826_1434_1_0"><label for="PQ_BD5826_1434_1_0" id="label_PQ_BD5826_1434_1_0">(A) 1번</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1434_1" value="2" class="AB-radio" id="PQ_BD5826_1434_1_1"><label for="PQ_BD5826_1434_1_1" id="label_PQ_BD5826_1434_1_1">(B) 2번</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1434_1" value="3" class="AB-radio" id="PQ_BD5826_1434_1_2"><label for="PQ_BD5826_1434_1_2" id="label_PQ_BD5826_1434_1_2">(C) 3번</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1434_1" value="4" class="AB-radio" id="PQ_BD5826_1434_1_3"><label for="PQ_BD5826_1434_1_3" id="label_PQ_BD5826_1434_1_3">(D) 4번</label></td></tr></tbody></table></td>
 			</tr>
 		</tbody>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소상공인·자영업자 대출 연장·상환유예 9월 종료...금융당국 대비 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
+            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=315</link>
+            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=315</guid>
+            <pubDate>Thu, 02 Jun 2022 01:45:25 GMT</pubDate>
+            <content:encoded><![CDATA[소상공인·자영업자 대출 원리금 만기 연장·상환유예 조치가 9월 말 끝나는 것을 앞두고 시중은행들이 그에 대비하고 있다. <br><br>22일 금융권에 따르면 KB국민은행은 지난 20일부터 '코로나19 특례운용 장기분할 전환 프로그램'을 시행했다. 신종코로나바이러스 감염증(코로나19) 피해로 금융당국의 원리금 만기연장 또는 원리금 상환 유예 지원을 받은 차주가, 지원 종료 후 상환에 어려움을 겪을 상황에 대비해 해당 대출을 최장 10년까지 나눠 갚게 하는 제도다. 대상은 코로나 금융지원을 받은 차주이며, 잔액 범위 내에서만 신청할 수 있다.<br><br>신한은행에선 분할상환 기간을 총 유예기간의 3배 이내로 늘릴 수 있고 유예이자 납부 기간을 유예기간의 5배 이내로 연장할 수도 있다. 이 경우 차주의 이자 상환 부담이 줄어든다.<br><br>코로나 19 금융지원 종료까지 4개월가량 남았으나 선제적으로 부실 위험을 관리하겠다는 취지다. 정부의 코로나 금융지원 조치를 받은 차주들의 대출 계정은 은행 건전성 분류상 '정상'으로 관리되고 있기 때문에, 실질적인 연체율을 파악하기 어렵기 때문이다. 금융감독원에 따르면 올 3월말 은행권 중소기업 대출 연체율은 0.27%로 사상 최저치 수준이다.<br><br>금융당국은 대출 상환에 어려움을 겪고 있는 소상공인의 재기를 위해 30조 원 규모의 채무 조정 프로그램을 추진한다. '소상공인·자영업자 새 출발기금' 설립으로 대출 채권을 매입하는 방식으로 장기연체자가 보유한 신용채무를 60%에서 최대 90%까지 탕감해줄 계획이다.<br><br>여기에 소상공인의 비은행권 고금리 대출을 은행권의 연 7% 저금리 대출로 바꿔주는 정책도 도입될 예정이다.<br><br>한편 금융감독원은 지난 19일 ‘2022년 3월 말 국내은행의 원화대출 연체율 현황’을 통해 지난 3월 말 기준 국내은행의 원화대출 연체율은 0.22%로 전월 말(0.25%) 대비 0.03%포인트 하락했다고 밝힌 바 있다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소상공인 10명중 8명 “코로나19 이후 경영 개선 필요 느낀다” (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
+            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=314</link>
+            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=314</guid>
+            <pubDate>Thu, 02 Jun 2022 01:45:25 GMT</pubDate>
+            <content:encoded><![CDATA[소상공인 10명 중 8명은 코로나19 이후 경영환경의 변화를 체감하는 것으로 나타났다.<br><br>소상공인시장진흥공단(소진공)은 지난달 소상공인 사업체 693곳을 대상으로 '포스트 코로나 소상공인 경영개선 동향 조사'를 실시한 결과 이같이 파악됐다고 밝혔다.<br><br>응답자의 80.1%는 코로나19 이후 경영환경 변화를 체감하고 있다고 답했다. 변화 요인으로는 금리·물가(26.6%), 유통 판매 트렌드(24.7%), 제품·서비스 트렌드(16.5%) 순으로 조사됐다.<br><br>또 응답자의 73.6%는 이런 변화에 대한 경영개선이 필요한 것으로 인식한다고 답했다. 경영개선 준비 수준과 관련해서는 76.6%가 계획 중(63.2%)이거나 수립된 계획에 따라 진행 중(13.4%)이라고 밝혔다.<br><br>소상공인이 원하는 경영개선 방향으로는 제품·서비스 개발 투자(42.1%), 온라인 판로 개척(27.4%), 업종전환·전직(12.0%) 등의 순으로 응답률이 높았다. 이와 관련해 필요한 정부 지원정책으로는 금융지원(41.6%), 온라인 판로 지원(15.4%), 재기 지원(14.2%) 등의 순으로 나타났다.<br><br>소진공은 이번 조사 결과를 토대로 ▲ 다각적 채널을 활용한 맞춤형 정책 지원 ▲ 소상공인 소비진작 및 경영부담 완화 방안 마련 ▲ 소상공인 자생력 강화를 위한 비금융 지원 등을 제안했다.<br><br>조봉환 소상공인시장진흥공단 이사장은 “현장의 수요를 반영하여 다방면의 소비진작 활동을 비롯한 자생력 강화를 위한 노력을 지속해나가겠다”고 설명했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서울시, 일회용 배달용기 저감 위해 배달앱사 '맞손' (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
+            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=313</link>
+            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=313</guid>
+            <pubDate>Thu, 02 Jun 2022 01:45:25 GMT</pubDate>
+            <content:encoded><![CDATA[최근 다회용기 활성화를 위한 배달앱의 참여도가 확산되고 있다. 이에 서울시는 4개 배달앱사와 ‘다회용 배달용기 사용 활성화를 위한 업무협약’을 체결하고 1회용 배달용기 퇴출에 힘을 보탠다고 밝혔다.<br><br>배달앱 내 다회용기 주문 기능을 도입하고 이용 활성화를 위한 홍보 등 노력 확대가 주요 골자다. 서울시는 지난해 10월부터 올해 1월까지 다회용기 시범사업을 실시했으나 ‘요기요’ 1개 배달앱만 참여하고 서비스 지역도 강남구 지역에 한정돼 실질적인 이용 기회가 적었다. <br><br>서울시는 배달수요 증가로 늘어나는 1회용 플라스틱 문제 해결 및 친환경 배달문화 확산을 위해 국내 배달앱 빅3로 불리는 배달의민족, 요기요, 쿠팡이츠 및 신한은행 땡겨요와 지난 2월부터 다회용기 이용 활성화에 대해 지속적으로 협의해왔다. <br><br>배달앱사는 애플리케이션 내에 다회용기 사용 기능을 도입하고 다회용기 주문 모니터링과 함께 참여 가맹점 안내 사업을 진행한다. 이를 통해 다회용기 사용 식당이 확대되고 소비자도 다회용기 이용 기회와 메뉴 선택권이 확대될 것으로 기대된다. 보조사업자는 다회용기를 제작해 음식점에 제공하고 소비자가 이용한 다회용기를 회수 및 세척 후 음식점에 재공급하는 사업을 수행한다. <br><br>서울시는 5월부터 사무실이 밀집한 강남구, 1인 가구가 많이 거주하는 관악구, 대학가 주변 광진구를 대상으로 다회용기를 사용하는 제로식당 500개 매장을 모집하기로 했다. 더불어 일회용품 없는 캠퍼스를 만들기 위한 제로캠퍼스 참여 대학을 모집하고 캠퍼스 내에 ‘다회용기 회수함’를 설치, 교내나 근처 음식점에서 다회용기로 음식을 포장하고 나면 식사 후 이를 쉽게 반납할 수 있도록 지원할 예정이다. <br><br>조인동 서울시 행정1부시장은 “배달앱사의 적극적인 참여로 보다 많은 시민들이 친환경 배달서비스를 이용할 수 있게 됐다”며 “다회용 배달용기를 사용하는 친환경 소비문화가 확산될 것으로 기대한다”고 설명했다.<br><br>김범준 우아한형제들 대표는 “배달의 편리함 이면에서 발생하는 수많은 일회용 플라스틱 쓰레기를 보며 깊은 책임감을 느낀다”며 “다회용 배달용기 사업이 활성화될 수 있도록 노력하겠다”고 밝혔다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일회용컵 보증금제 결국 연기…자영업자 부담 공평해야 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
+            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=312</link>
+            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=312</guid>
+            <pubDate>Thu, 02 Jun 2022 01:45:25 GMT</pubDate>
+            <content:encoded><![CDATA[환경부가 자영업자들의 거센 반발에 부딪혀 일회용컵 보증금제 시행 유예를 결정했다. <br><br>일회용컵 보증금제는 애초 다음 달 10일 매장이 100개 이상인 브랜드 105곳을 대상으로 시행될 예정이었다. 그러나 컵에 붙일 라벨 스티커를 구입, 반환된 컵을 수거·보관하고 컵 한개당 300원씩 반환하는 비용 부담에 식음료 프랜차이즈 가맹점주들이 반발하고 정치권까지 가세하면서 시행일이 12월 1일로 연기됐다. <br><br>컵에 붙일 스티커 비용은 컵 한 개당 17원 정도로, 하루에 음료 500잔을 파는 점주라면 매달 27만원 이상을 부담해야 한다. <br><br>25일 업계에 따르면 자원순환보증금관리센터 게시판에는 미리 입금한 라벨비 등을 환불해달라는 가맹점주들의 요청이 끊이질 않고 있다. 이들은 라벨지의 배송이 주무 관청인 보증금관리센터에 선입금된 이후 약 3주가 걸린다는 환경부의 방침에 따라 제도 시행 유예가 결정되기 전인 지난 18일 보증금관리센터에 라벨 구입 비용 등을 직접 입금했다.<br><br>일회용컵 보증금 제도는 소비자가 카페 등에서 플라스틱컵에 담긴 음료를 구매할 때 보증금 300원을 냈다가 컵을 반납할 때 돌려받는 제도다. 환경부는 일회용컵 회수율을 높여 플라스틱을 덜 쓰게 하는 취지로 다음 달 10일부터 시행할 예정이었으나 소상공인들의 거센 반발과 정치권의 압박으로 6개월간 유예하기로 했다. 때문에 제도 시행 일자에 맞춰 미리 준비해온 가맹점주들은 당혹감을 감추지 못하고 있다.<br><br>업계 관계자는 "일회용컵 보증금제 시행에 손이 많이 가는 것이 현실"이라면서 "프랜차이즈 가맹점은 일회용컵에 (보증금제를 위한) 바코드 스티커를 붙이고 보증금을 받고 돌려주는 등 갑자기 일이 늘어나는데, 가맹점을 지원해야 하는 본사는 쏙 빠져있다"라고 지적했다. 이어 "환경을 보호해야 한다는 취지에는 공감하지만 일방적으로 가맹점주에게만 책임을 강요하는 정책은 수정과 보완이 필요하다"고 말했다.<br><br>일각에서는 일회용컵 보증금제 유예가 아닌 아예 폐지하자는 주장도 있다. 국회 '국민동의청원'에는 일회용컵 보증금제 폐지를 요구하는 청원이 올라왔고 24일 오후까지 약 1만7천명의 동의를 받았다. 뿐만 아니라 프랜차이즈 본사가 애초 컵을 만들 때 바코드 라벨을 컵에 새기자는 의견도 제기된다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[식약처, 배달음식점 위생·안전관리 강화 위해 위생관리 실태 점검 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
+            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=311</link>
+            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=311</guid>
+            <pubDate>Thu, 02 Jun 2022 01:45:25 GMT</pubDate>
+            <content:encoded><![CDATA[식품의약품안전처는 6월 3일까지 17개 지방자치단체와 족발·보쌈 배달음식점의 위생관리 실태를 집중 점검한다고 밝혔다.<br><br>이는 코로나19로 배달음식 규모가 2020년 17조3,42억원(전년대비 78.1% 증가)에서 2021년 25조6783억원(48.1% 증가)으로 급증하며 위생·안전관리 문제가 대두된 데 따른 것이다.<br><br>식약처는 지난해부터 다소비 품목 배달음식점을 대상으로 점검해오고 있으며 올해는 1분기 중화요리에 이어 2분기 족발·보쌈 배달음식점을 대상으로 실시한다.<br><br>점검대상은 족발·보쌈을 취급하는 배달음식점 중 최근 2년간 점검이력이 없거나 행정처분 이력이 있는 업소 등 약 3200곳이다.<br><br>식약처는 위생 취급 기준 준수, 유통기한 경과 제품 보관·사용, 조리장 내부 방충·방서 시설 기준, 음식 재사용 여부 등을 집중 점검할 예정이다. 또 조리된 음식을 수거해 살모넬라, 장출혈성 대장균, 리스테리아 모노사이토제네스 등 식중독균 항목에 대한 검사도 병행한다.<br><br>특히 배달음식의 이물혼입 방지를 위해 위생모 착용 등 개인위생 준수여부, 조리장 내부 방충·방서 관련 시설기준 준수여부를 집중 점검한다.<br><br>식약처는 지난해부터 올해 1분기까지 배달음식점 1만8410곳을 집중 점검한 결과, 식품위생법 위반으로 177곳을 적발한 바 있다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['코로나 폐업' 소상공인 3천명에 선착순 지원금 300만원 지원 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
@@ -846,41 +881,6 @@
             <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=305</guid>
             <pubDate>Wed, 25 May 2022 23:19:39 GMT</pubDate>
             <content:encoded><![CDATA[서울시는 요식업 창업을 꿈꾸는 청년들을 집중적으로 지원하는 '청년쿡 비즈니스센터'를 개소, 본격적인 운영에 들어간다고 밝혔다.<br><br>서울시에 따르면 ‘청년쿡 비즈니스센터’는 외식업 창업을 꿈꾸는 청년들을 위한 전용 보육 공간이다. 최신 트렌드에 맞는 이론 교육과 실전적인 조리 실습으로 외식 창업가를 육성하고자 설립했다.<br><br>센터는 청년 유동 인구가 많은 건대입구역 '건대맛의거리' 인근(광진구 자양동 227-17)에 연면적 259㎡ 규모로 조성됐다. 조리 실습을 위한 '오픈키친', 맛 테스팅 및 커뮤니티 공간, 창업보육공간, 촬영 스튜디오를 갖췄다.<br><br>시는 기존 외식 창업자 육성 지원사업과 차별화해 현장 체험으로 실전 경험을 쌓을 기회를 주고, 심층 역량을 갖출 수 있도록 지원하는 것이 특징이라고 설명했다. 여기에 우수 실습생에 대해서 본인이 창업을 희망하는 아이템과 유사한 업종에서 체험할 수 있도록 지원해 기존 외식 창업자 육성 지원사업과 차별화했다.<br><br>시는 지난달 '공유주방 배달창업'을 주제로 1기 청년 예비창업자 15명을 선발했으며, 이들을 대상으로 8월까지 약 4개월간 센터에서 교육을 진행한다.<br><br>서울시에 따르면 1기 참여자의 80%가 20대로, 일찍부터 외식업 창업에 뛰어든 청년이 많은 것으로 나타났다. 창업 희망 아이템도 양식, 퓨전, 세계(아시안·남미)음식 등으로 다양했다.<br><br>김철희 서울시 미래청년기획단장은 "타 업종보다 폐업률이 높은 외식업 분야에서 청년들이 성공하기 위해서는 체계적인 인큐베이팅이 필수"라며 "코로나19 이후 변화된 창업 환경 속에서 청년들이 시장 변화에 능동적으로 대응할 수 있도록 육성하겠다"고 말했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소상공인 방역지원금 3차 600만 원 지급...대상업종 주목 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=304</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=304</guid>
-            <pubDate>Tue, 24 May 2022 02:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 코로나19 피해로 매출이 감소한 소상공인에 1인당 최소 600만∼1000만원까지 지급한다고 밝혔다.<br><br>정부는 손실보상 보상금을 손실액에 대한 보정률90%에서 100%로 상향하고, 분기별 하한액도 50만원에서 100만원으로 인상한다는 방침이다. <br><br>지원 대상은 소상공인·소기업·중기업 370만개로, 업체별 매출 규모 및 매출 감소율 수준을 지수화·등급화해 최소 600만원에서 최대 800만원을 맞춤형으로 지급한다. 업종별 특성까지 고려해 매출 40% 이상 감소 업종, 방역 조치 대상 중기업은 700만원에서 최대 1000만원까지 지원한다. 또 저소득 취약계층을 대상으로 4인 가구당 최대 100만원의 긴급 생활안정 지원금을 주기로 했다.<br><br>특수형태근로종사자(특고)와 법인 택시 기사, 전세버스 기사, 문화예술인 등에게는 최대 200만원의 고용·소득안정지원금도 준다.<br><br>올해 두 번째인 이번 추경은 59조4000억원으로 역대 최대 규모다. 기존 최대 기록인 2020년 3차 추경(35조1천억 원)보다 24조3천억원 많다. <br><br>이번 추경은 ▲소상공인에 대한 온전한 손실보상(26조3000억원) ▲방역 보강 및 향후 일반 의료체계 전환 지원(6조1000억원) ▲고물가, 산불 등에 따른 민생안정 지원(3조1000억원) ▲하반기 코로나 재유행 등에 대비한 예비비 보강(1조원) ▲초과 세수에 따른 법정 지방이전지출(23조원) 등이다. <br><br>농·축·수산물, 비료·사료 등 물가상승으로 인한 가계, 농어가 등의 부담 완화를 위해 생활물가 안정도 지원한다. 현재 최대 575만명 수준의 농·축·수산물 할인쿠폰 지원 규모를 두 배 이상 확대해 서민들의 생계 부담을 완화한다. 비료 가격 인상분의 80%를 지원하기 위한 소요도 반영했다. 국민 생활과 밀접한 밀가루 가격안정을 위해서는 가격 상승 소요의 90%를 정부와 기업이 함께 부담한다.<br><br>아울러 코로나 재확산, 각종 재해 등 예측하지 못한 소요에 적기·신속 대응하기 위해 예비비 1조원을 추가 확보키로 했다. 이러한 재원은 나랏빚을 내지 않는 선에서 짜는 것으로 했는데 50조원 이상을 올해 더 걷혔거나 걷힐 세금으로 충당한다는 계획이다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서울시 '코로나 폐업 후 재창업' 소상공인에 인건비 지원 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=303</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=303</guid>
-            <pubDate>Tue, 24 May 2022 02:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[서울시가 코로나19로 폐업한 뒤 재창업한 소상공인에게 올해 신규인력을 1명 채용할 때마다 150만원의 고용장려금을 지원한다고 밝혔다.<br> <br>서울시에 따르면 ‘재창업 소상공인 고용장려금’은 올해 한시적으로 운영하며, 150억원의 예산을 투입해 최대 1만 명의 신규 채용을 지원한다.<br> <br>지원 대상은 코로나19로 폐업 후 재창업하고, 올해 신규인력을 채용한 소상공인이다. 신규인력 채용한 뒤 3개월 이상 고용을 유지 중인 기업체에 한해 신청할 수 있다. 접수 후 3개월 동안(신규인력 채용 후 총 6개월 고용유지) 고용을 유지해야 지급 대상이 된다. 정규직 채용이 아니어도 신청할 수 있으며, 기업체 당 신청 인원수 제한은 없다.<br><br>‘중소벤처기업부 소상공인 정책자금 융자제외 업종’과 비영리단체는 지원 대상에서 제외된다. 신청 후 3개월 동안 모든 공공기관 유사 정책사업(고용장려금 및 소상공인지원금)의 지원금을 받은 경우도 지원대상에서 제외된다.<br> <br>접수는 매월 1일부터 말일까지 기업체 소재 자치구에서 이메일, 팩스, 우편, 현장접수를 통해 진행한다. 공휴일과 주말은 이메일로 접수가 가능하다. 서울시는 접수가 어려운 소상공인을 위해 기업체로 직접 방문, 접수를 대행하는 ‘찾아가는 접수 서비스’도 병행한다.<br> <br>지원서를 비롯한 증빙서류 등 필요서류는 서울시 및 자치구 홈페이지의 사업 공고문을 통해 확인할 수 있으며, 기업주·근로자·제3자(위임장 첨부 시) 모두 신청이 가능하다. 자세한 내용은 서울시 일자리정책과나 관할 자치구 사업 추진부서로 연락하면 된다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서울신용보증재단, 2022 소상공인 창업아카데미 개최 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=302</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=302</guid>
-            <pubDate>Tue, 24 May 2022 02:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[서울신용보증재단과 우리은행이 서울시 중구에 소재한 본점에서 예비 창업자의 성공적인 창업을 위한 '2022년 소상공인 창업아카데미'를 열었다.<br><br>이번 아카데미는 2019년 11월 이후 2년 6개월여 만에 재개되는 집합교육으로 코로나19 관련 거리두기 조치가 완화된 상황에서 소상공인들의 창업지원제도에 대한 접근성을 높여 준비된 창업을 유도하기 위해 개최됐다. <br><br>강의 내용은 △사업계획서 작성 △상권 분석 △SNS마케팅 △세무 및 노동법 △창업지원제도 등이며 전 교육과정은 무료다. <br><br>수료자는 서울신용보증재단의 ‘소상공인 창업자금’ 신청 자격을 부여받아 최대 5000만원의 서울시 창업자금 대출을 신청할 수 있다. 또 보증서대출 이용 고객을 대상으로 우리은행 인터넷·모바일뱅킹수수료, 자동화기기수수료 면제 등 은행 이용수수료 우대 혜택을 지원한다. <br><br>창업아카데미는 더 많은 소상공인들에게 교육 기회를 제공하기 위해 6월, 8월, 10월에 추가 실시할 예정이다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[중기유통센터, 소상공인 국내외 온라인쇼핑몰 판로지원 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=301</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=301</guid>
-            <pubDate>Tue, 24 May 2022 02:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[중소기업유통센터가 2022년도 소상공인 국내외 온라인쇼핑몰 판로지원 사업을 본격 시작한다.<br><br>이번 사업의 지원 예산은 총 762억원 규모로 지난해에 비해 큰 폭으로 늘었다. '가치삽시다' 플랫폼 입점 및 입점 예정 기업이 대상이다.<br><br>판로지원 사업은 세 분야로 나눠져 진행한다.<br><br>라인 쇼핑몰 입점 지원사업은 쿠팡과 티몬, G마켓 등 국내 유수의 29개 대형 온라인쇼핑몰에 소상공인 전용 기획전·상설관 등을 연중 상시 개설해 할인쿠폰과 라이브커머스, 타임특가 등 다양한 프로모션을 지원한다. 올해는 소상공인 4800개사 이상을 지원할 예정이다.<br><br>다음 상세페이지 제작 지원사업은 소상공인의 온라인쇼핑몰 입점 시 필수인 상세페이지 제작이 어려운 소상공인을 위해 제품의 특장점을 소개하는 온라인 상품 상세페이지를 무료로 제작 지원한다는 계획이다. 3개 전문 수행기관을 선정해 소상공인 2000개사를 지원한다. <br><br>마지막 해외쇼핑몰 입점 지원사업은 해외 진출을 희망하는 소상공인의 해외쇼핑몰 진출 교육과 입점, 마케팅, 프로모션 등을 지원한다. 올해부터는 직접 협약한 큐텐싱가포르와 큐텐재팬과 미국(아마존), 중국(티몰 등)을 통해 소상공인 400개사의 해외쇼핑몰 진출을 돕는다.<br><br>중기유통센터는 올 하반기부터 소상공인의 안정적 수익 창출 기회를 확보하기 위해 구독경제 서비스도 시범 운영한다. 또한 소상공인, 지자체, 유통 채널과 함께 '대한민국 소상공인 디지털 대상' 등과 같은 행사도 추진할 예정이다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[실외 마스크 해제, 알바생 5명 중 3명 손님 혼돈으로 '업무 고충' (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=300</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=300</guid>
-            <pubDate>Tue, 24 May 2022 02:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[알바천국이 알바생 1057명을 대상으로 조사한 결과, 5명 중 3명(62.4%)이 실외 마스크 착용 의무 해제로 인한 아르바이트 근무 고충을 토로했다.<br><br>알바생들이 실외 마스크 착용 의무 해제로 인해 겪고 있는 가장 큰 고충은 ‘실내외 마스크 착용을 혼돈하는 손님들에 대한 감정 노동 증가(65.0%, 복수응답)’로 집계됐다.<br><br>이 밖에도 ▲손님들에게 실내 마스크 착용 안내 업무 증가(64.5%) ▲코로나19 감염 위험에 대한 불안감(54.5%) ▲알바 근무지의 실내외 구분이 불명확해 혼란 가중(29.1%) 등과 같은 고충이 뒤따랐다.<br><br>실외 마스크 착용 의무 해제가 오히려 알바 근무에 긍정적 영향을 미치고 있다고 답한 알바생도 37.6%에 달했다. 1위는 ‘야외 근무 시 마스크 착용으로 인한 더위, 답답함 등 감소(50.6%, 복수응답)’이 차지했다. ▲출퇴근 시 도보로 이동하는 시간에 마스크를 벗을 수 있어서(49.9%) ▲근무 중 휴식 시간만이라도 야외에서 편하게 마스크를 벗을 수 있어서(40.6%) ▲실내 마스크 착용 의무도 곧 해제될 것 같아서(36.5%) 등의 답변이 이어졌다. <br><br>추가로 ‘실내 마스크 착용 의무 해제’를 어떻게 생각하는지에 대한 질문에는 알바생 62.1%가 ‘부정적’이라고 답변했다. 가장 큰 이유로 알바 근무 중 발생되는 ‘코로나19를 포함한 각종 질병 감염의 위험(79.6%, 복수응답)’을 꼽았으며, 마스크를 착용하고 근무할 때보다 ‘비위생적일 것 같아서(47.0%)’ 혹은 ‘표정관리가 어려워서(35.7%)’ 등 순이었다. 또, ▲메이크업, 복장 등 출근 준비에 신경을 써야할 것 같아서(34.8%) ▲알바 업직종 특성상 근무 중에는 어차피 위생 마스크를 착용해야 해서(27.4%) 등의 답변이 있었다.<br><br>반면 실내 마스크 착용 의무 해제를 긍정적으로 바라본다고 응답한 37.9%의 알바생은 ‘업무 시간 중 장시간 마스크 착용으로 인한 피부 트러블, 통증 등 각종 고충 해소(61.3%, 복수응답)’에 대한 기대가 컸다. 뒤이어 ▲마스크를 벗고 쾌적하게 업무를 할 수 있어서(55.1%) ▲손님들에게 마스크 착용 안내를 하지 않아도 돼서(48.1%) ▲주문, 안내 등 손님과 소통이 편해질 것 같아서(42.4%) ▲개인 마스크 구매 비용이 들지 않아 알바비를 아낄 수 있어서(25.4%) ▲일회용 마스크, 포장 비닐 등 업무 중 정리해야 할 쓰레기가 줄어들어서(22.9%) 등을 장점으로 꼽았다.]]></content:encoded>
         </item>
     </channel>
 </rss>

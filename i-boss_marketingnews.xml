@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 23:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 01:45:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외 크리에이티브] 루이 비통 x 나이키, 에어포스1 컬래버 3D 광고를 론칭하다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8851</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8851</guid>
+            <pubDate>Thu, 02 Jun 2022 08:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[버질 아블로는 작년에 죽기 전 마지막 프로젝트 중 하나에서 나이키 에어포스1을 새로운 차원으로 끌어올렸다.지난해 6월 루이 비통의 2022 S/S컬렉션에서 버질 아블로가 나이키와 협업해 공개한 47가지의 에어포스1 에디션 중 9가 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[아마존, 미국 전자 상거래 채널 광고 시장의 77% 차지할 듯]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8850</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8850</guid>
+            <pubDate>Thu, 02 Jun 2022 08:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[아마존은 올해 전체미국 전자 상거래 채널 광고 수익359억 6000만 달러 중 77.7%로 279억 4000만 달러를 기록할 것으로 이마케터는 발표했다. 전자 상거래 채널 광고 수익에서 아마존이 차지하는 비중은 줄어들고 있지만, 이마케터가  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[6월 2일 마케팅 뉴스클리핑] 네이버 블로그, 주간일기 챌린지로 MZ 갓생러 응원 외]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8844</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8821</guid>
             <pubDate>Fri, 27 May 2022 08:36:00 GMT</pubDate>
             <content:encoded><![CDATA[코로나는 재택 근무와 위대한 퇴사(Great Resignation)라고 불릴 정도의 퇴사 등 많은 직원들이 회사에서 멀어졌다. 그러나 이제는 회사를 떠났던 직원들이 다시 돌아오는 `위대한 복귀(Great Return)`가 일어나고 있다.재택 근무에 익숙 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[펩시, 더이상 슈퍼볼 하프타임 쇼를 후원하지 않는다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8820</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8820</guid>
-            <pubDate>Fri, 27 May 2022 08:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼볼은 미식 축구를 모르는 사람에게도 커다란 구경꺼리가 있다. 바로 펩시가 후원하는 하프타임 쇼. 전 세계적으로 유명한 연예인이 참가하는공연은 두고두고 회자된다. 올해 하프타임 쇼는닥터 드레, 스눕 독, 에미넴, 매리 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[MZ세대 취향 저격 대세 스타들, 음료 업계 모델로 발탁]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8819</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8819</guid>
-            <pubDate>Fri, 27 May 2022 08:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[거리두기가 해제되고 콘서트,야외 행사 등이 재개되면서 사회 분위기 역시 코로나 이전의 활기를 되찾아가는 듯하다.이와 함께 식음료 업계는여름을 앞두고 밝은 햇살 아래 기분을 전환하기 좋은 가볍고 부드러운 신제품 음료 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
