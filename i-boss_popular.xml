@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-02T14:23:26.594Z</updated>
+    <updated>2022-06-02T15:21:36.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -167,18 +167,18 @@
         <content type="html"><![CDATA[marineE]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[네이버 GFA 최신 자료 공유 1]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57733</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57733"/>
-        <updated>2022-05-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[메리야]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[피그마, 마케터의 치트키가 될 수 있을까?]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57887</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57887"/>
         <updated>2022-06-02T08:25:09.043Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버 GFA 최신 자료 공유 1]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57733</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57733"/>
+        <updated>2022-05-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[메리야]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화장품 사업을 하지 말아야 하는 이유]]></title>

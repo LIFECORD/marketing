@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 14:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 15:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -301,18 +301,18 @@
             <content:encoded><![CDATA[marineE]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버 GFA 최신 자료 공유 1 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57733</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57733</guid>
-            <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[메리야]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[피그마, 마케터의 치트키가 될 수 있을까? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57887</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57887</guid>
             <pubDate>Thu, 02 Jun 2022 08:25:09 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네이버 GFA 최신 자료 공유 1 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57733</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57733</guid>
+            <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[메리야]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[화장품 사업을 하지 말아야 하는 이유 (아이보스 ─ 인기글)]]></title>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8821</guid>
             <pubDate>Fri, 27 May 2022 08:36:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다음은 나제일 씨가 아이보스 홈페이지에 방문한 이력입니다. 나제일 씨에 의해 구글 애널리틱스에서 세션이 발생한 횟수는 몇 번일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 02 Jun 2022 14:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->다음은 나제일 씨가 아이보스 홈페이지에 방문한 이력입니다. 나제일 씨에 의해 구글 애널리틱스에서 세션이 발생한 횟수는 몇 번일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/d4ce42690dfb77134dc9d78ed9093bac_16533829048626.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1434_1" value="1" class="AB-radio" id="PQ_BD5826_1434_1_0"><label for="PQ_BD5826_1434_1_0" id="label_PQ_BD5826_1434_1_0">(A) 1번</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1434_1" value="2" class="AB-radio" id="PQ_BD5826_1434_1_1"><label for="PQ_BD5826_1434_1_1" id="label_PQ_BD5826_1434_1_1">(B) 2번</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1434_1" value="3" class="AB-radio" id="PQ_BD5826_1434_1_2"><label for="PQ_BD5826_1434_1_2" id="label_PQ_BD5826_1434_1_2">(C) 3번</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1434_1" value="4" class="AB-radio" id="PQ_BD5826_1434_1_3"><label for="PQ_BD5826_1434_1_3" id="label_PQ_BD5826_1434_1_3">(D) 4번</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인·자영업자 대출 연장·상환유예 9월 종료...금융당국 대비 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
