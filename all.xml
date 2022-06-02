@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 22:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 23:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[6월 3일 마케팅 뉴스클리핑] 멤버십 700만인데 매출은 월 80억 뿐... 가입자 부풀렸나 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8852</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8852</guid>
+            <pubDate>Fri, 03 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 멤버십 700만인데 매출은 월 80억 뿐... 가입자 부풀렸나  이커머스 업계의 유료 멤버십 경쟁이 치열해지면서 거래액 1위인 네이버가 유료 멤버십 가입자를 부풀리고 있다는 논란이 일고 있다. 지난 1분기 실적 발표에서 밝힌 멤 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_302a240768a60dc5d7243ac20a7b6f05_85864_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[해외 크리에이티브] 루이 비통 x 나이키, 에어포스1 컬래버 3D 광고를 론칭하다 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8851</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8851</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 위대한 복귀(Great Return) (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8821</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8821</guid>
-            <pubDate>Fri, 27 May 2022 08:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[코로나는 재택 근무와 위대한 퇴사(Great Resignation)라고 불릴 정도의 퇴사 등 많은 직원들이 회사에서 멀어졌다. 그러나 이제는 회사를 떠났던 직원들이 다시 돌아오는 `위대한 복귀(Great Return)`가 일어나고 있다.재택 근무에 익숙 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[6월 3일 마케팅 뉴스클리핑] 멤버십 700만인데 매출은 월 80억 뿐... 가입자 부풀렸나 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8852</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8852</guid>
+            <pubDate>Thu, 02 Jun 2022 23:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[해외 크리에이티브] 루이 비통 x 나이키, 에어포스1 컬래버 3D 광고를 론칭하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 위대한 복귀(Great Return) (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8821</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8821</guid>
-            <pubDate>Fri, 27 May 2022 08:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[다음 중 '다크패턴'의 사례에 해당하지 않는 것은 무엇일까요?(hint: 슬기로운 마케터이자 지혜로운 소비자가 되기 위해 '다크패턴' 공부하기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Thu, 02 Jun 2022 23:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 중 '다크패턴'의 사례에 해당하지 않는 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57821" target="_blank">슬기로운 마케터이자 지혜로운 소비자가 되기 위해 '다크패턴' 공부하기!</a>)</span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1435_1" value="1" class="AB-radio" id="PQ_BD5826_1435_1_0"><label for="PQ_BD5826_1435_1_0" id="label_PQ_BD5826_1435_1_0">(A) 소비자 동의 없이 추가 상품이 장바구니에 추가되는 경우</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1435_1" value="2" class="AB-radio" id="PQ_BD5826_1435_1_1"><label for="PQ_BD5826_1435_1_1" id="label_PQ_BD5826_1435_1_1">(B) 멤버십 이용권 구매 가능 개수를 1인당 5개로 제한한 경우</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1435_1" value="3" class="AB-radio" id="PQ_BD5826_1435_1_2"><label for="PQ_BD5826_1435_1_2" id="label_PQ_BD5826_1435_1_2">(C) ‘해지하기’ 대신 ‘다양한 혜택을 포기하시겠습니까?’라고 표현한 경우</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1435_1" value="4" class="AB-radio" id="PQ_BD5826_1435_1_3"><label for="PQ_BD5826_1435_1_3" id="label_PQ_BD5826_1435_1_3">(D) 가입하는 것은 어떤 기기에서도 가능한데 탈퇴는 PC에서만 가능한 경우</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인·자영업자 대출 연장·상환유예 9월 종료...금융당국 대비 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
