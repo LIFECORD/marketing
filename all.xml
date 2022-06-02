@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 09:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 10:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,18 +168,18 @@
             <content:encoded><![CDATA[레미니센스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마케팅밈] 마케터 시무 5조 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39080</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39080</guid>
-            <pubDate>Thu, 26 May 2022 04:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022년 우뇌식 페이스북 세팅방법 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57860</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57860</guid>
             <pubDate>Mon, 30 May 2022 10:23:11 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[마케팅밈] 마케터 시무 5조 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39080</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39080</guid>
+            <pubDate>Thu, 26 May 2022 04:33:03 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[14일차 마케터의 꿀팁 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음은 나제일 씨가 아이보스 홈페이지에 방문한 이력입니다. 나제일 씨에 의해 구글 애널리틱스에서 세션이 발생한 횟수는 몇 번일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 02 Jun 2022 09:20:53 GMT</pubDate>
+            <pubDate>Thu, 02 Jun 2022 10:23:07 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음은 나제일 씨가 아이보스 홈페이지에 방문한 이력입니다. 나제일 씨에 의해 구글 애널리틱스에서 세션이 발생한 횟수는 몇 번일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/d4ce42690dfb77134dc9d78ed9093bac_16533829048626.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
