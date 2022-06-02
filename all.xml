@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 01:45:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 03:49:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -175,6 +175,13 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2022년 우뇌식 페이스북 세팅방법 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57860</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57860</guid>
+            <pubDate>Mon, 30 May 2022 10:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[14일차 마케터의 꿀팁 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57830</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57830</guid>
@@ -201,13 +208,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57773</guid>
             <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[호랑이마케팅]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 우뇌식 페이스북 세팅방법 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57860</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57860</guid>
-            <pubDate>Mon, 30 May 2022 10:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ROAS만 쫓다가는 맛탱이 가십니다. (아이보스 ─ 인기글)]]></title>
@@ -238,6 +238,13 @@
             <content:encoded><![CDATA[흥미진진]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[곰곰히 생각해보면 제가 여태 남들 돈만 벌어줬네요 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39129</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39129</guid>
+            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[초보 팀장을 위한 튜토리얼 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-5637-45</link>
             <guid>https://www.i-boss.co.kr/ab-5637-45</guid>
@@ -257,13 +264,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57792</guid>
             <pubDate>Tue, 17 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[곰곰히 생각해보면 제가 여태 남들 돈만 벌어줬네요 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39129</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39129</guid>
-            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뜨고 있는 근무 트렌드, 워케이션 (아이보스 ─ 인기글)]]></title>
@@ -336,18 +336,18 @@
             <content:encoded><![CDATA[체르시]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[아버지 회사에서 일하고 있는 1년차 마케터 입니다. .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57848</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57848</guid>
+            <pubDate>Wed, 25 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[marineE]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[억만 장자가 매일 실행하는 To Do List (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57838</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57838</guid>
             <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[yoorok]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[퍼포먼스 마케팅 ROAS 300% 안된다고요? 왜요? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57734</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57734</guid>
-            <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[피자맛있어]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[해외 크리에이티브] 루이 비통 x 나이키, 에어포스1 컬래버 3D 광고를 론칭하다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -593,14 +593,14 @@
             <title><![CDATA[[해외 크리에이티브] 루이 비통 x 나이키, 에어포스1 컬래버 3D 광고를 론칭하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8851</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8851</guid>
-            <pubDate>Thu, 02 Jun 2022 01:45:03 GMT</pubDate>
+            <pubDate>Thu, 02 Jun 2022 08:47:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아마존, 미국 전자 상거래 채널 광고 시장의 77% 차지할 듯 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8850</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8850</guid>
-            <pubDate>Thu, 02 Jun 2022 01:45:03 GMT</pubDate>
+            <pubDate>Thu, 02 Jun 2022 08:45:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음은 나제일 씨가 아이보스 홈페이지에 방문한 이력입니다. 나제일 씨에 의해 구글 애널리틱스에서 세션이 발생한 횟수는 몇 번일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 02 Jun 2022 01:45:16 GMT</pubDate>
+            <pubDate>Thu, 02 Jun 2022 03:48:53 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음은 나제일 씨가 아이보스 홈페이지에 방문한 이력입니다. 나제일 씨에 의해 구글 애널리틱스에서 세션이 발생한 횟수는 몇 번일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/d4ce42690dfb77134dc9d78ed9093bac_16533829048626.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
