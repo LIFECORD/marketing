@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 04:49:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 05:32:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,18 +196,18 @@
             <content:encoded><![CDATA[호랑이마케팅]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[보스님의 ‘갓생’을 도와주는 마케팅 사례 ✨ (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57797</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57797</guid>
-            <pubDate>Thu, 19 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케터의 기본기 - 미디어믹스 마스터하기 2편 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57773</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57773</guid>
             <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[호랑이마케팅]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[보스님의 ‘갓생’을 도와주는 마케팅 사례 ✨ (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57797</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57797</guid>
+            <pubDate>Thu, 19 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ROAS만 쫓다가는 맛탱이 가십니다. (아이보스 ─ 인기글)]]></title>
@@ -217,18 +217,18 @@
             <content:encoded><![CDATA[오니드]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[AI검색 확대하는 네이버 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57717</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57717</guid>
-            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[MSM] 좋은 대행사 마케터와 좋은 인하우스의 만남의 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57714</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57714</guid>
             <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레미니센스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AI검색 확대하는 네이버 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57717</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57717</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이것만 알면 기본은 하는 카드뉴스 디자인! 2탄! (아이보스 ─ 인기글)]]></title>
@@ -280,6 +280,13 @@
             <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[요즘 뜨는 통신사의 문자커머스 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57817</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57817</guid>
+            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[매출가지고 징징거리는 대표 (가격전쟁) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39104</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39104</guid>
@@ -287,11 +294,18 @@
             <content:encoded><![CDATA[귀여운나름이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[요즘 뜨는 통신사의 문자커머스 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57817</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57817</guid>
-            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
+            <title><![CDATA[아버지 회사에서 일하고 있는 1년차 마케터 입니다. .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57848</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57848</guid>
+            <pubDate>Wed, 25 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[marineE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신규 방문자가 적을 때 효과적인 광고 유형은 무엇일.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-74668-2611</link>
+            <guid>https://www.i-boss.co.kr/ab-74668-2611</guid>
+            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[bigin]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버 GFA 최신 자료 공유 1 (아이보스 ─ 인기글)]]></title>
@@ -313,20 +327,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57796</guid>
             <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[규S]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아버지 회사에서 일하고 있는 1년차 마케터 입니다. .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57848</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57848</guid>
-            <pubDate>Wed, 25 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[marineE]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신규 방문자가 적을 때 효과적인 광고 유형은 무엇일.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-74668-2611</link>
-            <guid>https://www.i-boss.co.kr/ab-74668-2611</guid>
-            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[bigin]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[블로그 마케팅, 효과 없는 이유? (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음은 나제일 씨가 아이보스 홈페이지에 방문한 이력입니다. 나제일 씨에 의해 구글 애널리틱스에서 세션이 발생한 횟수는 몇 번일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 02 Jun 2022 04:49:07 GMT</pubDate>
+            <pubDate>Thu, 02 Jun 2022 05:32:18 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음은 나제일 씨가 아이보스 홈페이지에 방문한 이력입니다. 나제일 씨에 의해 구글 애널리틱스에서 세션이 발생한 횟수는 몇 번일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/d4ce42690dfb77134dc9d78ed9093bac_16533829048626.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-02T04:49:17.685Z</updated>
+    <updated>2022-06-02T05:32:29.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[호랑이마케팅]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[보스님의 ‘갓생’을 도와주는 마케팅 사례 ✨]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57797</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57797"/>
-        <updated>2022-05-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[마케터의 기본기 - 미디어믹스 마스터하기 2편]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57773</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57773"/>
         <updated>2022-05-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[호랑이마케팅]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보스님의 ‘갓생’을 도와주는 마케팅 사례 ✨]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57797</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57797"/>
+        <updated>2022-05-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ROAS만 쫓다가는 맛탱이 가십니다.]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[오니드]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI검색 확대하는 네이버]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57717</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57717"/>
-        <updated>2022-05-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[MSM] 좋은 대행사 마케터와 좋은 인하우스의 만남의 ..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57714</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57714"/>
         <updated>2022-05-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[레미니센스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI검색 확대하는 네이버]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57717</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57717"/>
+        <updated>2022-05-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이것만 알면 기본은 하는 카드뉴스 디자인! 2탄!]]></title>
@@ -146,6 +146,13 @@
         <content type="html"><![CDATA[유리나]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[요즘 뜨는 통신사의 문자커머스]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57817</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57817"/>
+        <updated>2022-05-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[매출가지고 징징거리는 대표 (가격전쟁)]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-39104</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-39104"/>
@@ -153,11 +160,18 @@
         <content type="html"><![CDATA[귀여운나름이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[요즘 뜨는 통신사의 문자커머스]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57817</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57817"/>
-        <updated>2022-05-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
+        <title type="html"><![CDATA[아버지 회사에서 일하고 있는 1년차 마케터 입니다. ..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57848</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57848"/>
+        <updated>2022-05-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[marineE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신규 방문자가 적을 때 효과적인 광고 유형은 무엇일..]]></title>
+        <id>https://www.i-boss.co.kr/ab-74668-2611</id>
+        <link href="https://www.i-boss.co.kr/ab-74668-2611"/>
+        <updated>2022-05-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[bigin]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[네이버 GFA 최신 자료 공유 1]]></title>
@@ -179,20 +193,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57796"/>
         <updated>2022-05-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[규S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아버지 회사에서 일하고 있는 1년차 마케터 입니다. ..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57848</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57848"/>
-        <updated>2022-05-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[marineE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신규 방문자가 적을 때 효과적인 광고 유형은 무엇일..]]></title>
-        <id>https://www.i-boss.co.kr/ab-74668-2611</id>
-        <link href="https://www.i-boss.co.kr/ab-74668-2611"/>
-        <updated>2022-05-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[bigin]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[블로그 마케팅, 효과 없는 이유?]]></title>
