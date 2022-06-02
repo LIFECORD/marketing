@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-02T07:21:03.479Z</updated>
+    <updated>2022-06-02T08:26:01.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -167,13 +167,6 @@
         <content type="html"><![CDATA[marineE]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신규 방문자가 적을 때 효과적인 광고 유형은 무엇일..]]></title>
-        <id>https://www.i-boss.co.kr/ab-74668-2611</id>
-        <link href="https://www.i-boss.co.kr/ab-74668-2611"/>
-        <updated>2022-05-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[bigin]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[네이버 GFA 최신 자료 공유 1]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57733</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57733"/>
@@ -193,6 +186,13 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57796"/>
         <updated>2022-05-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[규S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피그마, 마케터의 치트키가 될 수 있을까?]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57887</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57887"/>
+        <updated>2022-06-02T08:25:09.043Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[블로그 마케팅, 효과 없는 이유?]]></title>
