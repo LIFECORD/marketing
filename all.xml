@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 01:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 03:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,18 +182,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[14일차 마케터의 꿀팁 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57830</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57830</guid>
-            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[변지현]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케터의 기본기 - 미디어믹스 마스터하기 2편 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57773</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57773</guid>
             <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[호랑이마케팅]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[14일차 마케터의 꿀팁 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57830</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57830</guid>
+            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[변지현]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케터의 기본기 - 미디어믹스 마스터하기 1편 (아이보스 ─ 인기글)]]></title>
@@ -287,6 +287,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[피그마, 마케터의 치트키가 될 수 있을까? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57887</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57887</guid>
+            <pubDate>Thu, 02 Jun 2022 08:25:09 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[매출가지고 징징거리는 대표 (가격전쟁) (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39104</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39104</guid>
@@ -299,13 +306,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57848</guid>
             <pubDate>Wed, 25 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[marineE]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[피그마, 마케터의 치트키가 될 수 있을까? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57887</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57887</guid>
-            <pubDate>Thu, 02 Jun 2022 08:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버 GFA 최신 자료 공유 1 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57838</guid>
             <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[yoorok]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[더블미, 바르셀로나에 디즈니 플러스와 스타워즈 오비완 케노비 현실세계 메타버스 체험관 개설 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8858</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8858</guid>
+            <pubDate>Fri, 03 Jun 2022 10:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[현실세계메타버스플랫폼스타트업더블미(대표이사김희관)가 디즈니 플러스(Disney+),스페인 최대OTT기업 무비스타 플러스(Movistar+)와 손잡고 바르셀로나에스타워즈오비완케노비현실세계메타버스체험관을 개설했다고 밝혔다.무비 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[인스타그램 릴스 영상 길이 90초로 확대 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,46 +590,45 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[덴츠 인터내셔널 x WFA, 쇼퍼블 미디어 2023년 가속화 될 것으로 전망 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8829</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8829</guid>
-            <pubDate>Sat, 28 May 2022 08:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[세계광고주연맹(WFA)과 덴츠(Dentsu)는소비자들에게 제품이나 서비스를 직접 구매할 수 있는 능력을 제공하는 미디어에 게재된 광고의 빈도는 여전히 주요 마케터의 `테스트` 단계에 있는 것으로 간주되지만 2023년에 가속화될 것 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[더블미, 바르셀로나에 디즈니 플러스와 스타워즈 “오비완 케노비” 현실세계 메타버스 체험관 개설 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8858</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8858</guid>
+            <pubDate>Fri, 03 Jun 2022 03:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인스타그램 릴스 영상 길이 90초로 확대 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8857</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8857</guid>
-            <pubDate>Fri, 03 Jun 2022 01:19:46 GMT</pubDate>
+            <pubDate>Fri, 03 Jun 2022 10:03:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아이언소스, 앱 개발 엔진 ‘플러터’ 공식 지원 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8856</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8856</guid>
-            <pubDate>Fri, 03 Jun 2022 01:19:46 GMT</pubDate>
+            <pubDate>Fri, 03 Jun 2022 09:52:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국PR협회, 환경의 날 ‘그린그림’ 캠페인 진행 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8855</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8855</guid>
-            <pubDate>Fri, 03 Jun 2022 01:19:46 GMT</pubDate>
+            <pubDate>Fri, 03 Jun 2022 09:52:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[MAD Pick] "다양한 제 모습을 담아낼 수 있는 광고를 많이 만나고 싶습니다" 유미라 아나운서 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8854</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8854</guid>
-            <pubDate>Fri, 03 Jun 2022 01:19:46 GMT</pubDate>
+            <pubDate>Fri, 03 Jun 2022 08:51:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 소비자가 브랜드를 바꾸는 가장 큰 이유 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8853</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8853</guid>
-            <pubDate>Fri, 03 Jun 2022 01:19:46 GMT</pubDate>
+            <pubDate>Fri, 03 Jun 2022 08:50:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[덴츠 인터내셔널 x WFA, '쇼퍼블 미디어' 2023년 가속화 될 것으로 전망 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8829</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8829</guid>
-            <pubDate>Sat, 28 May 2022 08:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 '다크패턴'의 사례에 해당하지 않는 것은 무엇일까요?(hint: 슬기로운 마케터이자 지혜로운 소비자가 되기 위해 '다크패턴' 공부하기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 03 Jun 2022 01:19:59 GMT</pubDate>
+            <pubDate>Fri, 03 Jun 2022 03:16:14 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 '다크패턴'의 사례에 해당하지 않는 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57821" target="_blank">슬기로운 마케터이자 지혜로운 소비자가 되기 위해 '다크패턴' 공부하기!</a>)</span></td>
 			</tr>

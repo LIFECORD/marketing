@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 01:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 03:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더블미, 바르셀로나에 디즈니 플러스와 스타워즈 오비완 케노비 현실세계 메타버스 체험관 개설]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8858</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8858</guid>
+            <pubDate>Fri, 03 Jun 2022 10:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[현실세계메타버스플랫폼스타트업더블미(대표이사김희관)가 디즈니 플러스(Disney+),스페인 최대OTT기업 무비스타 플러스(Movistar+)와 손잡고 바르셀로나에스타워즈오비완케노비현실세계메타버스체험관을 개설했다고 밝혔다.무비 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[인스타그램 릴스 영상 길이 90초로 확대]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8857</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8830</guid>
             <pubDate>Sat, 28 May 2022 08:51:00 GMT</pubDate>
             <content:encoded><![CDATA[평균적인 미국 가정은 12.5개의소스에서 스트리밍 비디오, 음악, 팟캐스트 등의 엔터테인먼트를 소비하며, 그 중 음악 스트리밍 서비스 스포티파이가 `가장 필수적인` 것으로 조사됐다. 16~74세의 미국 소비자 3,014명을 대상으로  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[덴츠 인터내셔널 x WFA, 쇼퍼블 미디어 2023년 가속화 될 것으로 전망]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8829</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8829</guid>
-            <pubDate>Sat, 28 May 2022 08:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[세계광고주연맹(WFA)과 덴츠(Dentsu)는소비자들에게 제품이나 서비스를 직접 구매할 수 있는 능력을 제공하는 미디어에 게재된 광고의 빈도는 여전히 주요 마케터의 `테스트` 단계에 있는 것으로 간주되지만 2023년에 가속화될 것 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
