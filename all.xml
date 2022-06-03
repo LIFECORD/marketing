@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 09:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 10:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,18 +224,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이것만 알면 기본은 하는 카드뉴스 디자인! 2탄! (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57800</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57800</guid>
-            <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[흥미진진]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[곰곰히 생각해보면 제가 여태 남들 돈만 벌어줬네요 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39129</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39129</guid>
             <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이것만 알면 기본은 하는 카드뉴스 디자인! 2탄! (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57800</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57800</guid>
+            <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[흥미진진]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[초보 팀장을 위한 튜토리얼 (아이보스 ─ 인기글)]]></title>
@@ -273,18 +273,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[요즘 뜨는 통신사의 문자커머스 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57817</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57817</guid>
-            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[SNS광고마케터 자격증 결과 확인하셨나요? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39046</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39046</guid>
             <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[유리나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[요즘 뜨는 통신사의 문자커머스 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57817</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57817</guid>
+            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[매출가지고 징징거리는 대표 (가격전쟁) (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57734</guid>
             <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[피자맛있어]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 에피 어워드 코리아, 본선 심사 진행 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8860</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8860</guid>
+            <pubDate>Fri, 03 Jun 2022 10:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022 에피 어워드 본선 심사가 3일 오후 제일기획에서 진행됐다. 에피 어워드는 실제 집행된 마케팅 캠페인의 결과(Effectiveness)를 바탕으로 소비자의 마음을 사로잡은 캠페인을 선정, 시상하는 세계 최고 권위의 마케팅 캠페인 어 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[더블미, 바르셀로나에 디즈니 플러스와 스타워즈 오비완 케노비 현실세계 메타버스 체험관 개설 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[스포티파이, 미국 가정 머스트 해브 서비스 순위에서 넷플릭스를 제치다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8830</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8830</guid>
-            <pubDate>Sat, 28 May 2022 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[평균적인 미국 가정은 12.5개의소스에서 스트리밍 비디오, 음악, 팟캐스트 등의 엔터테인먼트를 소비하며, 그 중 음악 스트리밍 서비스 스포티파이가 `가장 필수적인` 것으로 조사됐다. 16~74세의 미국 소비자 3,014명을 대상으로  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[2022 에피 어워드 코리아, 본선 심사 진행 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8860</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8860</guid>
+            <pubDate>Fri, 03 Jun 2022 10:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[더블미, 바르셀로나에 디즈니 플러스와 스타워즈 “오비완 케노비” 현실세계 메타버스 체험관 개설 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스포티파이, 미국 가정 '머스트 해브' 서비스 순위에서 넷플릭스를 제치다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8830</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8830</guid>
-            <pubDate>Sat, 28 May 2022 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 '다크패턴'의 사례에 해당하지 않는 것은 무엇일까요?(hint: 슬기로운 마케터이자 지혜로운 소비자가 되기 위해 '다크패턴' 공부하기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 03 Jun 2022 09:21:37 GMT</pubDate>
+            <pubDate>Fri, 03 Jun 2022 10:22:37 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 '다크패턴'의 사례에 해당하지 않는 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57821" target="_blank">슬기로운 마케터이자 지혜로운 소비자가 되기 위해 '다크패턴' 공부하기!</a>)</span></td>
 			</tr>
