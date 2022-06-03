@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-03T05:18:06.762Z</updated>
+    <updated>2022-06-03T06:23:05.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -83,13 +83,6 @@
         <content type="html"><![CDATA[오니드]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[MSM] 좋은 대행사 마케터와 좋은 인하우스의 만남의 ..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57714</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57714"/>
-        <updated>2022-05-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[레미니센스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI검색 확대하는 네이버]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57717</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57717"/>
@@ -139,6 +132,13 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[피그마, 마케터의 치트키가 될 수 있을까?]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57887</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57887"/>
+        <updated>2022-06-02T08:25:09.043Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[요즘 뜨는 통신사의 문자커머스]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57817</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57817"/>
@@ -151,13 +151,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-39046"/>
         <updated>2022-05-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[유리나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피그마, 마케터의 치트키가 될 수 있을까?]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57887</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57887"/>
-        <updated>2022-06-02T08:25:09.043Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[매출가지고 징징거리는 대표 (가격전쟁)]]></title>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57838"/>
         <updated>2022-05-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[yoorok]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퍼포먼스 마케팅 ROAS 300% 안된다고요? 왜요?]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57734</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57734"/>
+        <updated>2022-05-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[피자맛있어]]></content>
     </entry>
 </feed>
