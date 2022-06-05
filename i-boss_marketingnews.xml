@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 07:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 08:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계 환경의 날 50주년! 유통업계, 지속가능한 미래를 위한 넷제로 행보 가속화]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8867</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8867</guid>
+            <pubDate>Sun, 05 Jun 2022 08:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[6월5일은1972년스웨덴스톡홀름유엔인간환경회의에서처음제정된세계환경의날이50주년을맞는날이다. 최근전세계가이상기후현상으로몸살을앓으며기후위기에대한관심이그어느때보다높다.국내에서도환경이화두로떠오르며기후 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[인포그래픽] 어느 나라가 인플루언서의 영향을 가장 많이 받고 있을까]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8866</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8837</guid>
             <pubDate>Mon, 30 May 2022 09:08:00 GMT</pubDate>
             <content:encoded><![CDATA[제일기획(대표이사 사장 유정근)의 자회사 맥키니(McKinney)가 세계 1위 아몬드 전문 기업 블루 다이아몬드 그로워스(Blue Diamond Growers, 이하 블루다이아몬드)를 신규 광고주로 영입했다. 1910년 미국 캘리포니아주에서 설립된 블루다 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[폰트는 소비자의 긍정적인 반응을 최대 13%까지 높일 수 있다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8836</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8836</guid>
-            <pubDate>Mon, 30 May 2022 08:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[누구나 포스터, 광고물 등을 보면서 뭔가 이상하다고 느꼈을 때가 있다. 이 경우문제가 있다고 알려주는 것은직감이 아니라, 사용된 폰트일 가능성이 높다. 활자 주조회사(type foundry)인 모노타입과응용 신경과학 회사뉴런즈에  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

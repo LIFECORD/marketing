@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 07:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 08:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[규S]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[세계 환경의 날 50주년! 유통업계, 지속가능한 미래를 위한 넷제로 행보 가속화 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8867</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8867</guid>
+            <pubDate>Sun, 05 Jun 2022 08:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[6월5일은1972년스웨덴스톡홀름유엔인간환경회의에서처음제정된세계환경의날이50주년을맞는날이다. 최근전세계가이상기후현상으로몸살을앓으며기후위기에대한관심이그어느때보다높다.국내에서도환경이화두로떠오르며기후 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[[인포그래픽] 어느 나라가 인플루언서의 영향을 가장 많이 받고 있을까 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8866</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8866</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[폰트는 소비자의 긍정적인 반응을 최대 13%까지 높일 수 있다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8836</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8836</guid>
-            <pubDate>Mon, 30 May 2022 08:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[누구나 포스터, 광고물 등을 보면서 뭔가 이상하다고 느꼈을 때가 있다. 이 경우문제가 있다고 알려주는 것은직감이 아니라, 사용된 폰트일 가능성이 높다. 활자 주조회사(type foundry)인 모노타입과응용 신경과학 회사뉴런즈에  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[세계 환경의 날 50주년! 유통업계, 지속가능한 미래를 위한 ‘넷제로’ 행보 가속화 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8867</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8867</guid>
+            <pubDate>Sun, 05 Jun 2022 08:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 어느 나라가 인플루언서의 영향을 가장 많이 받고 있을까 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[폰트는 소비자의 긍정적인 반응을 최대 13%까지 높일 수 있다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8836</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8836</guid>
-            <pubDate>Mon, 30 May 2022 08:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 '다크패턴'의 사례에 해당하지 않는 것은 무엇일까요?(hint: 슬기로운 마케터이자 지혜로운 소비자가 되기 위해 '다크패턴' 공부하기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 05 Jun 2022 07:17:34 GMT</pubDate>
+            <pubDate>Sun, 05 Jun 2022 08:21:54 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 '다크패턴'의 사례에 해당하지 않는 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57821" target="_blank">슬기로운 마케터이자 지혜로운 소비자가 되기 위해 '다크패턴' 공부하기!</a>)</span></td>
 			</tr>
