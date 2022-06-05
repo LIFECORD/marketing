@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 19:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 20:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -322,6 +322,13 @@
             <content:encoded><![CDATA[마케팅코치마코]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[데이터스튜디오 템플릿 선착순 6명 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39150</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39150</guid>
+            <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[규S]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[어제 석가탄신일에 올리지 못해 아쉬운 짤 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39005</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39005</guid>
@@ -341,13 +348,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57734</guid>
             <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[피자맛있어]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[데이터스튜디오 템플릿 선착순 6명 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39150</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39150</guid>
-            <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[규S]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[세계 환경의 날 50주년! 유통업계, 지속가능한 미래를 위한 넷제로 행보 가속화 (아이보스 ─ 마케팅 뉴스)]]></title>
