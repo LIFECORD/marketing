@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 06:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 07:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,17 +252,17 @@
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뜨고 있는 근무 트렌드, 워케이션 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57755</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57755</guid>
-            <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[피그마, 마케터의 치트키가 될 수 있을까? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57887</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57887</guid>
             <pubDate>Thu, 02 Jun 2022 08:25:09 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뜨고 있는 근무 트렌드, 워케이션 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57755</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57755</guid>
+            <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 '다크패턴'의 사례에 해당하지 않는 것은 무엇일까요?(hint: 슬기로운 마케터이자 지혜로운 소비자가 되기 위해 '다크패턴' 공부하기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sun, 05 Jun 2022 06:21:10 GMT</pubDate>
+            <pubDate>Sun, 05 Jun 2022 07:17:34 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 '다크패턴'의 사례에 해당하지 않는 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57821" target="_blank">슬기로운 마케터이자 지혜로운 소비자가 되기 위해 '다크패턴' 공부하기!</a>)</span></td>
 			</tr>
