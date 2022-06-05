@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 23:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 01:42:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,30 @@
             <content:encoded><![CDATA[피자맛있어]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[인포그래픽] 어느 나라가 인플루언서의 영향을 가장 많이 받고 있을까 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8866</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8866</guid>
+            <pubDate>Sun, 05 Jun 2022 09:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[인플루언서 마케팅은 온라인 마케팅에서 가장 인기 있고 효과적인 형태 중 하나가 되었다. 수백만 명의 인터넷 사용자가 매일 엔터테인먼트, 영감, 제품 추천을 위해 소셜 미디어 플랫폼을 검색하고 있다. 마케터가 소셜 미디어 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[소셜 미디어, ROI 측정에 대한 브랜드의 신뢰도 순위 1위 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8865</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8865</guid>
+            <pubDate>Sun, 05 Jun 2022 09:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅 측면에서는 ROI를 참여, 측정, 최적화 및 입증하는 기술이 그 어느 때보다 보편화되었다. 글로벌 브랜드 마케터는 소셜 미디어 마케팅에서 ROI(투자 수익률)를 측정하는 능력에 대해 가장 자신이 있는 것으로 조사됐다. 닐 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[해외 크리에이티브] 기존 실종자 포스터를 3D 이미지로 대체하다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8864</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8864</guid>
+            <pubDate>Sun, 05 Jun 2022 09:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[가족, 특히 자녀를 잃어버린다는 것은 큰 슬픔이고 고통이다. 많은 부모들이 생계를 접고 자녀를 찾으러 전국을 다니기도 한다. 실제로 우리는 몇년째 자녀를 찾는 플래카드를 접하고 있다. 우리나라에서 제일기획은 경찰청,우 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[라이카 & 파나소닉, 미래의 카메라와 렌즈를 위한 전략적 포괄적 협력 계약 체결 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8863</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8863</guid>
@@ -566,28 +590,25 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 구글에서 가장 많이 검색한 나라 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8835</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8835</guid>
-            <pubDate>Mon, 30 May 2022 08:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계에서 가장 많이 사용되는 검색 사이트는 구글이다. 중국을 제외하고 전 세계에서 90% 이상 구글에서 검색되고 있기 때문에, 구글 검색을 연구하는 것은 현대 사회 연구의 중요한 리소스 중 하나이다. Anders Sundell은 구글 트 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[인포그래픽] 어느 나라가 인플루언서의 영향을 가장 많이 받고 있을까 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8866</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8866</guid>
+            <pubDate>Sun, 05 Jun 2022 01:41:44 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[5월 30일 마케팅 뉴스클리핑] 네이버, 브랜드 커넥트 정식 출시 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8826</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8826</guid>
-            <pubDate>Mon, 30 May 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 네이버, `브랜드 커넥트` 정식 출시  네이버가 창작자와 브랜드사 연결을 돕는 `브랜드 커넥트`를 정식 출시했다고 밝혔다. 네이버에서 활동하는 `인플루언서`가 협업을 희망하는 브랜드사와 제휴할 수 있도록 돕는 서비스다.  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_42bd36903d555133d5411b0f973666e0_58027_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[소셜 미디어, ROI 측정에 대한 브랜드의 신뢰도 순위 1위 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8865</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8865</guid>
+            <pubDate>Sun, 05 Jun 2022 01:41:44 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[CEO, 메타버스보다 인공 지능이 더 중요... 가트너 2022 CEO 서베이 - 관점이 바뀐 해 보고서 발표 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8834</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8834</guid>
-            <pubDate>Sun, 29 May 2022 08:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[광고 마케팅 콘텐츠 분야에서 메타버스가 가장 관심받고 있다. 그러나 대부분의 CEO는 메타버스를기업에 실질적인 가치를 제공하는 데 몇 년이 소요되는 것으로 보고 중요하게 생각하지 않고 있다.가트너(Gartner)에 따르면 인공  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[해외 크리에이티브] 기존 실종자 포스터를 3D 이미지로 대체하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8864</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8864</guid>
+            <pubDate>Sun, 05 Jun 2022 01:41:44 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[라이카 & 파나소닉, 미래의 카메라와 렌즈를 위한 전략적 포괄적 협력 계약 체결 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -779,31 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 구글에서 가장 많이 검색한 나라 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8835</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8835</guid>
-            <pubDate>Mon, 30 May 2022 08:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[5월 30일 마케팅 뉴스클리핑] 네이버, '브랜드 커넥트' 정식 출시 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8826</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8826</guid>
-            <pubDate>Mon, 30 May 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[CEO, "메타버스보다 인공 지능이 더 중요"... 가트너 '2022 CEO 서베이 - 관점이 바뀐 해' 보고서 발표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8834</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8834</guid>
-            <pubDate>Sun, 29 May 2022 08:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 '다크패턴'의 사례에 해당하지 않는 것은 무엇일까요?(hint: 슬기로운 마케터이자 지혜로운 소비자가 되기 위해 '다크패턴' 공부하기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 04 Jun 2022 23:18:17 GMT</pubDate>
+            <pubDate>Sun, 05 Jun 2022 01:41:58 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 '다크패턴'의 사례에 해당하지 않는 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57821" target="_blank">슬기로운 마케터이자 지혜로운 소비자가 되기 위해 '다크패턴' 공부하기!</a>)</span></td>
 			</tr>
