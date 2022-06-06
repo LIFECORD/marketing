@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 22:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 23:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[6월 7일 마케팅 뉴스클리핑] 인스타그램, 릴스 길이 60초에서 90초로 확대 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8859</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8859</guid>
+            <pubDate>Tue, 07 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 인스타그램, `릴스` 길이 60초에서 90초로 확대  메타는 인스타그램 릴스 영상 길이가 최대 90초로 늘어나며, 릴스에서 스티커설문퀴즈 기능이 추가된다고 알렸다. 페이스북 릴스에서 데스크톱 게재수정예약 기능, 기존 긴 영상 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_673209ae94c55f9662315f2000fdb6c9_78817_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스피도, 재활용 원사 및 플라스틱으로 만든 에코 수영복 출시]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8870</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 31 May 2022 08:36:00 GMT</pubDate>
             <content:encoded><![CDATA[S4캐피탈은 올 1분기에수익이 40% 이상 성장하는 등 강세를 이어갔다.이번 공시는 이달 초 회계감사인 프라이스워터하우스쿠퍼스(PricewaterhouseCoopers)에 의해 회계문제가 적발돼 주가에 상당한 악영향을 미친 뒤 미뤄진 연간 실적  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[5월 31일 마케팅 뉴스클리핑] 쇼핑 업계 손절한 빠른배송... 네이버는 어떻게 손에 쥘까 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8838</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8838</guid>
-            <pubDate>Tue, 31 May 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 쇼핑 업계 손절한 `빠른배송`... 네이버는 어떻게 손에 쥘까  `빠른배송` 서비스를 도입했다가 실적 악화로 서비스를 중단하는 기업이 늘어나는 가운데 뒤늦게 출사표를 던진 네이버가 어떤 전략을 펼칠지 업계가 주목하고 있 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_cb99e851685da3c25f3b1365a5627c7e_97629_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
