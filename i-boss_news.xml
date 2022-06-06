@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-06-05T23:17:35.879Z</updated>
+    <updated>2022-06-06T01:39:49.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스피도, 재활용 원사 및 플라스틱으로 만든 에코 수영복 출시]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8870</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8870"/>
+        <updated>2022-06-06T01:39:29.871Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인포그래픽] 2004년부터 2021년까지 발생한 50대 데이터 침해 사례]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8869</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8869"/>
+        <updated>2022-06-06T01:39:29.873Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Welcome To Gucci Town" 구찌, 로블록스 안에 영구적인 공간을 만들다]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8868</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8868"/>
+        <updated>2022-06-06T01:39:29.875Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세계 환경의 날 50주년! 유통업계, 지속가능한 미래를 위한 ‘넷제로’ 행보 가속화]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8867</id>
@@ -193,26 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-8838"/>
         <updated>2022-05-30T23:20:15.674Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구찌, 정신 건강에 중점을 둔 글로벌 게임 아카데미 론칭]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8840</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8840"/>
-        <updated>2022-05-30T23:20:15.675Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인포그래픽] 틱톡, 사용 시간에서 유튜브를 능가하다]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8839</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8839"/>
-        <updated>2022-05-30T23:20:15.682Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제일기획, 북미서 ‘블루다이아몬드’ 광고주 영입]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8837</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8837"/>
-        <updated>2022-05-30T01:42:07.071Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
