@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 01:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 03:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,22 @@
             <content:encoded><![CDATA[피자맛있어]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[카페24, 쇼핑 콘텐츠 제작 돕는 에디봇 전시관 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8876</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8876</guid>
+            <pubDate>Tue, 07 Jun 2022 11:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[70여개 템플릿 바탕으로 상세페이지 자유롭게 제작 가능  글로벌 전자상거래 플랫폼 카페24(대표 이재석)는 인공지능과 70여개 디자인 템플릿을 바탕으로 누구나 손쉽게 자신만의 상품 상세페이지를 제작해 볼 수 있는 `에디봇  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_9ba75be9737145bbf262c550bdd6ef81_48976_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퍼브매틱, 셀-사이드에서 데이터 활성화를 간소화해주는 커넥트 솔루션 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8875</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8875</guid>
+            <pubDate>Tue, 07 Jun 2022 11:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[프로그래매틱광고분야의혁신을이끌고 있는SSP기업으로서,디지털 광고를 위한 미래 공급망을 제공하는 독립형 애드테크 기업인퍼브매틱(PubMatic, Inc./Nasdaq: PUBM)은 오늘 미디어 바이어들이 오픈 인터넷을 통해 목표 고객과 원활하 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[사용자가 가장 많은 음악 서비스 앱은 멜론, 유튜브 뮤직, 지니뮤직, 플로 순 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8874</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8874</guid>
@@ -574,47 +590,45 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[트렌드모니터] 수면의 질이 곧 삶의 질... 꿀잠에 투자하는 현대인들 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8847</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8847</guid>
-            <pubDate>Wed, 01 Jun 2022 08:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[41.4% 수면 시간 항상 부족해...모자란 잠은 휴일에 보충하는 편  시장조사전문기업 엠브레인 트렌드모니터(trendmonitor.co.kr)가 전국 만 19~59세 성인 남녀 1,000명을 대상으로 수면의 질 및 수면용품 관련 인식 조사를 실시한 결과 평 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[카페24, 쇼핑 콘텐츠 제작 돕는 '에디봇 전시관' 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8876</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8876</guid>
+            <pubDate>Tue, 07 Jun 2022 03:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 주식 투자에 가장 좋은 달은? (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8846</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8846</guid>
-            <pubDate>Wed, 01 Jun 2022 08:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[주식 투자는 주식 시장이 특정 시기에 더 나은 성과를 낸다고 말한다. 이 주장은맞는 말일까? 비주얼 캐피털리스트는 영국 자산운용사 슈뢰더스가 수집한 자료를 활용, 인포그래픽을 제작함으로써 그 주장을 검증했다. 슈뢰더 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[퍼브매틱, 셀-사이드에서 데이터 활성화를 간소화해주는 '커넥트' 솔루션 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8875</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8875</guid>
+            <pubDate>Tue, 07 Jun 2022 03:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사용자가 가장 많은 음악 서비스 앱은 멜론, 유튜브 뮤직, 지니뮤직, 플로 순 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8874</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8874</guid>
-            <pubDate>Tue, 07 Jun 2022 01:25:22 GMT</pubDate>
+            <pubDate>Tue, 07 Jun 2022 09:35:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 1~4월 국내 풀프레임 미러리스 카메라 시장 21% 성장 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8873</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8873</guid>
-            <pubDate>Tue, 07 Jun 2022 01:25:22 GMT</pubDate>
+            <pubDate>Tue, 07 Jun 2022 08:49:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[해외 크리에이티브] 킷캣, 모바일 사용자와 눈싸움하는 게임을 론칭하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8872</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8872</guid>
-            <pubDate>Tue, 07 Jun 2022 01:25:22 GMT</pubDate>
+            <pubDate>Tue, 07 Jun 2022 08:19:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["불확실성의 시대(Era of Uncertainty)" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8871</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8871</guid>
-            <pubDate>Tue, 07 Jun 2022 01:25:22 GMT</pubDate>
+            <pubDate>Tue, 07 Jun 2022 08:18:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[트렌드모니터] "수면의 질이 곧 삶의 질"... '꿀잠'에 투자하는 현대인들 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8847</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8847</guid>
-            <pubDate>Wed, 01 Jun 2022 08:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 주식 투자에 가장 좋은 달은? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8846</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8846</guid>
-            <pubDate>Wed, 01 Jun 2022 08:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['이것'은 전통 광고 매체인 TV에 디지털 광고가 결합된 새로운 TV 광고 방식입니다. IPTV의 셋톱박스를 통해 데이터를 수집해 가구별로 관심사 기반 맞춤형 광고를 제공하는 방식의 TV 광고인 '이것'은 무엇일까요?(hint: 'TV 광고도 관심사 기반 타기팅 광고한다' 읽고 마케팅 지식 쌓기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 07 Jun 2022 01:25:36 GMT</pubDate>
+            <pubDate>Tue, 07 Jun 2022 03:19:51 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 전통 광고 매체인 TV에 디지털 광고가 결합된 새로운 TV 광고 방식입니다. IPTV의 셋톱박스를 통해 데이터를 수집해 가구별로 관심사 기반 맞춤형 광고를 제공하는 방식의 TV 광고인 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57865" target="_blank">'TV 광고도 관심사 기반 타기팅 광고한다' 읽고 마케팅 지식 쌓기!</a>)</span></td>
 			</tr>
