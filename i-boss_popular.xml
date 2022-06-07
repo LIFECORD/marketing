@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-07T11:16:50.538Z</updated>
+    <updated>2022-06-07T12:37:01.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[마케팅플랜]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이것만 알면 기본은 하는 카드뉴스 디자인! 2탄!]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57800</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57800"/>
-        <updated>2022-05-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[흥미진진]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[피그마, 마케터의 치트키가 될 수 있을까?]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57887</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57887"/>
         <updated>2022-06-02T08:25:09.043Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이것만 알면 기본은 하는 카드뉴스 디자인! 2탄!]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57800</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57800"/>
+        <updated>2022-05-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[흥미진진]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[초보 팀장을 위한 튜토리얼]]></title>
