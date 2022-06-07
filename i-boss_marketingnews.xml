@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 22:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 23:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[6월 8일 마케팅 뉴스클리핑] 네이버플러스 멤버십, 연내 누적 사용자 천만 앞둬 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8878</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8878</guid>
+            <pubDate>Wed, 08 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버플러스 멤버십, 연내 누적 사용자 천만 앞둬  네이버의 유료 구독 회원 서비스 `네이버플러스 멤버십`이 연내 누적 사용자 수 800만 명을 달성, 1000만 명 돌파를 앞두고 있다. 네이버플러스 멤버십의 높은 적립률도 큰 강 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_b223d555b3e066013cf6217fa0198e2a_34906_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디마연 6월 세미나, 메타버스 시대 게이미피케이션 마케팅(Gamification Marketing) 전략]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8880</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8851</guid>
             <pubDate>Thu, 02 Jun 2022 08:47:00 GMT</pubDate>
             <content:encoded><![CDATA[버질 아블로는 작년에 죽기 전 마지막 프로젝트 중 하나에서 나이키 에어포스1을 새로운 차원으로 끌어올렸다.지난해 6월 루이 비통의 2022 S/S컬렉션에서 버질 아블로가 나이키와 협업해 공개한 47가지의 에어포스1 에디션 중 9가 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[아마존, 미국 전자 상거래 채널 광고 시장의 77% 차지할 듯]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8850</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8850</guid>
-            <pubDate>Thu, 02 Jun 2022 08:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[아마존은 올해 전체미국 전자 상거래 채널 광고 수익359억 6000만 달러 중 77.7%로 279억 4000만 달러를 기록할 것으로 이마케터는 발표했다. 전자 상거래 채널 광고 수익에서 아마존이 차지하는 비중은 줄어들고 있지만, 이마케터가  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
