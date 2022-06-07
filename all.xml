@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 23:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 01:25:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -154,18 +154,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년 우뇌식 페이스북 세팅방법 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57860</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57860</guid>
-            <pubDate>Mon, 30 May 2022 10:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[우뇌]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[레미니] 대행사마케터가 인하우스가서 실패하는 이.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57807</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57807</guid>
             <pubDate>Thu, 19 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레미니센스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 우뇌식 페이스북 세팅방법 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57860</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57860</guid>
+            <pubDate>Mon, 30 May 2022 10:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 마케터 시무 5조 (아이보스 ─ 인기글)]]></title>
@@ -238,6 +238,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[피그마, 마케터의 치트키가 될 수 있을까? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57887</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57887</guid>
+            <pubDate>Thu, 02 Jun 2022 08:25:09 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[미디어커머스 시장이 몰락한 이유 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57741</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57741</guid>
@@ -250,13 +257,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57792</guid>
             <pubDate>Tue, 17 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[피그마, 마케터의 치트키가 될 수 있을까? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57887</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57887</guid>
-            <pubDate>Thu, 02 Jun 2022 08:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뜨고 있는 근무 트렌드, 워케이션 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,38 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57734</guid>
             <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[피자맛있어]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사용자가 가장 많은 음악 서비스 앱은 멜론, 유튜브 뮤직, 지니뮤직, 플로 순 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8874</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8874</guid>
+            <pubDate>Tue, 07 Jun 2022 09:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[사용자가 가장 많은 음악 서비스 앱은 멜론, 유튜브 뮤직, 지니뮤직, 플로 순 사용자가 가장 많은 웹툰/웹소설 앱은 네이버 웹툰, 카카오페이지, 시리즈, 카카오웹툰 순     앱/리테일 분석서비스 와이즈앱리테일굿즈가 한국인이  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16545621271596.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 1~4월 국내 풀프레임 미러리스 카메라 시장 21% 성장 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8873</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8873</guid>
+            <pubDate>Tue, 07 Jun 2022 08:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내 디지털카메라 시장이 2021년에 이어 2022년 초에도 회복세를 이어가고 있다. 글로벌 마켓 인텔리전스 기업 GfK는 국내 디지털카메라 시장이 고사양의 풀프레임 미러리스 제품군을 중심으로 2020년부터 꾸준한 성장세를 나타내 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[해외 크리에이티브] 킷캣, 모바일 사용자와 눈싸움하는 게임을 론칭하다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8872</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8872</guid>
+            <pubDate>Tue, 07 Jun 2022 08:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[킷캣(KitKat)이 인공지능(AI)을 활용한 인터랙티브 캠페인인 눈싸움콘테스트블링크 브레이크(Blink Break)를 론칭했다. 광고회사 원더맨 톰슨 영국과 시애틀 지사에서 개발하고 미디어파이프의 최첨단 페이스 메쉬 기술을 사용하는 B ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[불확실성의 시대(Era of Uncertainty) (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8871</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8871</guid>
+            <pubDate>Tue, 07 Jun 2022 08:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[22년 출발은 비교적 장미빛이었다. 그러나 상반기가 끝나가는 지금, 빅테크 기업의 혼란, 공급망 문제, 인플레이션, 그리고 전쟁은 당초 장미빛 전망을 뒤집었다. 실제 메타, 알파벳, 아마존, 넷플릭스 등의 1분기 실적과 주가의  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[6월 7일 마케팅 뉴스클리핑] 인스타그램, 릴스 길이 60초에서 90초로 확대 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -558,42 +590,38 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[Trend from Tokyo] BOPIS (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8845</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8845</guid>
-            <pubDate>Wed, 01 Jun 2022 08:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[일본에 워크맨이라고 하는 회사가 있다. 소니가 만들었던 가전제품 워크맨이 아니고 일본의 대형 의류 업체 이름이다. 사명에서도 예측이 되듯이 원래 직원들의 작업복과 같은 유니폼을 만들어 판매하는 회사였는데 코로나 시 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[사용자가 가장 많은 음악 서비스 앱은 멜론, 유튜브 뮤직, 지니뮤직, 플로 순 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8874</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8874</guid>
+            <pubDate>Tue, 07 Jun 2022 01:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버  티몬, 인플루언서로 브랜드 충성고객 잡는다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8843</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8843</guid>
-            <pubDate>Tue, 31 May 2022 09:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[네이버 `브랜드 커넥트`티몬 `브랜드 풀필먼트` 가동  인플루언서를 통한 브랜드 충성고객 확보가 이커머스 성장 방정식으로 떠올랐다.  네이버는 최근 크리에이터와 브랜드사를 연결하는 `브랜드 커넥트` 서비스를 정식 오픈했 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[2022년 1~4월 국내 풀프레임 미러리스 카메라 시장 21% 성장 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8873</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8873</guid>
+            <pubDate>Tue, 07 Jun 2022 01:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[거리두기 해제 이후 여가, 여행, 외식, 패션, 운동 관련 앱 사용자 크게 증가 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8842</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8842</guid>
-            <pubDate>Tue, 31 May 2022 09:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[4월 사용자 증가율이 큰 앱은 롯데월드 어드벤처, 에버랜드, 전주사랑상품권, 프로야구, 티켓링크 순 4월 결제금액 증가율이 큰 리테일은 모두투어, 참좋은여행, 에버랜드, 익스피디아, 부킹닷컴 순 22년 3월 대비 22년 4월 앱 사용 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16539561918743.png" length="0" type="image/png"/>
+            <title><![CDATA[[해외 크리에이티브] 킷캣, 모바일 사용자와 눈싸움하는 게임을 론칭하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8872</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8872</guid>
+            <pubDate>Tue, 07 Jun 2022 01:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[S4, 1분기 수익 40% 증가 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8841</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8841</guid>
-            <pubDate>Tue, 31 May 2022 08:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[S4캐피탈은 올 1분기에수익이 40% 이상 성장하는 등 강세를 이어갔다.이번 공시는 이달 초 회계감사인 프라이스워터하우스쿠퍼스(PricewaterhouseCoopers)에 의해 회계문제가 적발돼 주가에 상당한 악영향을 미친 뒤 미뤄진 연간 실적  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA["불확실성의 시대(Era of Uncertainty)" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8871</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8871</guid>
+            <pubDate>Tue, 07 Jun 2022 01:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[6월 7일 마케팅 뉴스클리핑] 인스타그램, '릴스' 길이 60초에서 90초로 확대 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8859</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8859</guid>
-            <pubDate>Mon, 06 Jun 2022 23:18:08 GMT</pubDate>
+            <pubDate>Tue, 07 Jun 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -772,38 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[Trend from Tokyo] BOPIS (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8845</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8845</guid>
-            <pubDate>Wed, 01 Jun 2022 08:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네이버 · 티몬, '인플루언서'로 브랜드 충성고객 잡는다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8843</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8843</guid>
-            <pubDate>Tue, 31 May 2022 09:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[거리두기 해제 이후 여가, 여행, 외식, 패션, 운동 관련 앱 사용자 크게 증가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8842</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8842</guid>
-            <pubDate>Tue, 31 May 2022 09:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[S4, 1분기 수익 40% 증가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8841</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8841</guid>
-            <pubDate>Tue, 31 May 2022 08:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['이것'은 전통 광고 매체인 TV에 디지털 광고가 결합된 새로운 TV 광고 방식입니다. IPTV의 셋톱박스를 통해 데이터를 수집해 가구별로 관심사 기반 맞춤형 광고를 제공하는 방식의 TV 광고인 '이것'은 무엇일까요?(hint: 'TV 광고도 관심사 기반 타기팅 광고한다' 읽고 마케팅 지식 쌓기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 06 Jun 2022 23:18:18 GMT</pubDate>
+            <pubDate>Tue, 07 Jun 2022 01:25:36 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 전통 광고 매체인 TV에 디지털 광고가 결합된 새로운 TV 광고 방식입니다. IPTV의 셋톱박스를 통해 데이터를 수집해 가구별로 관심사 기반 맞춤형 광고를 제공하는 방식의 TV 광고인 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57865" target="_blank">'TV 광고도 관심사 기반 타기팅 광고한다' 읽고 마케팅 지식 쌓기!</a>)</span></td>
 			</tr>
