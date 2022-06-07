@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 07:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 09:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -154,18 +154,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[레미니] 대행사마케터가 인하우스가서 실패하는 이.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57807</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57807</guid>
-            <pubDate>Thu, 19 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[레미니센스]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022년 우뇌식 페이스북 세팅방법 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57860</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57860</guid>
             <pubDate>Mon, 30 May 2022 10:23:11 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[레미니] 대행사마케터가 인하우스가서 실패하는 이.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57807</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57807</guid>
+            <pubDate>Thu, 19 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[레미니센스]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 마케터 시무 5조 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57734</guid>
             <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[피자맛있어]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[부산국제광고제, 영문 명칭을 MAD STARS로 변경... 확장된 광고 영역 반영 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8877</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8877</guid>
+            <pubDate>Tue, 07 Jun 2022 09:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제광고제가 올해 행사부터 영문 명칭을 애드 스타즈(AD STARS)에서 매드 스타즈(MAD STARS)로 변경한다고 밝혔다. 15주년을 맞는 부산국제광고제는 관련 업계의 빠른 디지털화를 반영한 영문 명칭의 변경을 시작으로 새로운 변 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[카페24, 쇼핑 콘텐츠 제작 돕는 에디봇 전시관 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[CM송, 라디오 광고 효과 최고 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8848</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8848</guid>
-            <pubDate>Wed, 01 Jun 2022 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[CM송이라디오 광고에 가장 효과적인 것으로 나타났다. 한국방송광고진흥공사(이하 코바코)가지난달 중소기업 광고마케팅 지원을 위해 실시한 중소기업 특화 소비자 조사에 따르면 청취자 절반 이상이 기억에 남는 라디오 광고  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[부산국제광고제, 영문 명칭을 ‘MAD STARS’로 변경... 확장된 광고 영역 반영 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8877</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8877</guid>
+            <pubDate>Tue, 07 Jun 2022 09:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카페24, 쇼핑 콘텐츠 제작 돕는 '에디봇 전시관' 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[CM송, 라디오 광고 효과 최고 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8848</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8848</guid>
-            <pubDate>Wed, 01 Jun 2022 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['이것'은 전통 광고 매체인 TV에 디지털 광고가 결합된 새로운 TV 광고 방식입니다. IPTV의 셋톱박스를 통해 데이터를 수집해 가구별로 관심사 기반 맞춤형 광고를 제공하는 방식의 TV 광고인 '이것'은 무엇일까요?(hint: 'TV 광고도 관심사 기반 타기팅 광고한다' 읽고 마케팅 지식 쌓기!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 07 Jun 2022 07:18:32 GMT</pubDate>
+            <pubDate>Tue, 07 Jun 2022 09:19:32 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->'이것'은 전통 광고 매체인 TV에 디지털 광고가 결합된 새로운 TV 광고 방식입니다. IPTV의 셋톱박스를 통해 데이터를 수집해 가구별로 관심사 기반 맞춤형 광고를 제공하는 방식의 TV 광고인 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57865" target="_blank">'TV 광고도 관심사 기반 타기팅 광고한다' 읽고 마케팅 지식 쌓기!</a>)</span></td>
 			</tr>

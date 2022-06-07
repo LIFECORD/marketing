@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 07:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 09:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부산국제광고제, 영문 명칭을 MAD STARS로 변경... 확장된 광고 영역 반영]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8877</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8877</guid>
+            <pubDate>Tue, 07 Jun 2022 09:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제광고제가 올해 행사부터 영문 명칭을 애드 스타즈(AD STARS)에서 매드 스타즈(MAD STARS)로 변경한다고 밝혔다. 15주년을 맞는 부산국제광고제는 관련 업계의 빠른 디지털화를 반영한 영문 명칭의 변경을 시작으로 새로운 변 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[카페24, 쇼핑 콘텐츠 제작 돕는 에디봇 전시관 공개]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8876</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8849</guid>
             <pubDate>Wed, 01 Jun 2022 09:39:00 GMT</pubDate>
             <content:encoded><![CDATA[캐다다 몬트리올에 본사를 두고 있는 세계적인 프로그래매틱 디지털 옥외 광고(Programmatic DOOH) 애드테크 기업 하이브스택(Hivestack)이 한국 최대 규모의 병의원 디지털 옥외 광고 업체 헬로미디어(Hello Media)와 파트너십 계약을 체 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[CM송, 라디오 광고 효과 최고]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8848</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8848</guid>
-            <pubDate>Wed, 01 Jun 2022 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[CM송이라디오 광고에 가장 효과적인 것으로 나타났다. 한국방송광고진흥공사(이하 코바코)가지난달 중소기업 광고마케팅 지원을 위해 실시한 중소기업 특화 소비자 조사에 따르면 청취자 절반 이상이 기억에 남는 라디오 광고  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
