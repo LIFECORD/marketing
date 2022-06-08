@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 14:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 15:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8858</guid>
             <pubDate>Fri, 03 Jun 2022 10:42:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일회성으로 소비되는 것이 아니라 10년 뒤에도 꾸준히 읽힐 정도로 오랫동안 소비자들의 관심과 공감을 불러일으킬 수 있는 콘텐츠를 일컫는 말은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 08 Jun 2022 14:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->일회성으로 소비되는 것이 아니라 10년 뒤에도 꾸준히 읽힐 정도로 오랫동안 소비자들의 관심과 공감을 불러일으킬 수 있는 콘텐츠를 일컫는 말은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1437_1" value="1" class="AB-radio" id="PQ_BD5826_1437_1_0"><label for="PQ_BD5826_1437_1_0" id="label_PQ_BD5826_1437_1_0">(A) 에코그린 콘텐츠</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1437_1" value="2" class="AB-radio" id="PQ_BD5826_1437_1_1"><label for="PQ_BD5826_1437_1_1" id="label_PQ_BD5826_1437_1_1">(B) 에버그린 콘텐츠</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1437_1" value="3" class="AB-radio" id="PQ_BD5826_1437_1_2"><label for="PQ_BD5826_1437_1_2" id="label_PQ_BD5826_1437_1_2">(C) 네버그린 콘텐츠</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1437_1" value="4" class="AB-radio" id="PQ_BD5826_1437_1_3"><label for="PQ_BD5826_1437_1_3" id="label_PQ_BD5826_1437_1_3">(D) 롱런그린 콘텐츠</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인·자영업자 대출 연장·상환유예 9월 종료...금융당국 대비 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
