@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 23:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 01:27:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,13 +210,6 @@
             <content:encoded><![CDATA[오니드]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[AI검색 확대하는 네이버 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57717</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57717</guid>
-            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[곰곰히 생각해보면 제가 여태 남들 돈만 벌어줬네요 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39129</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39129</guid>
@@ -294,18 +287,18 @@
             <content:encoded><![CDATA[marineE]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버 GFA 최신 자료 공유 1 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57733</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57733</guid>
-            <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[메리야]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[화장품 사업을 하지 말아야 하는 이유 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57725</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57725</guid>
             <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[jinhorus]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네이버 GFA 최신 자료 공유 1 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57733</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57733</guid>
+            <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[메리야]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[광고매체는 죄가 없습니다. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +341,61 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57734</guid>
             <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[피자맛있어]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[해수욕장 관련부서 연락처 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39059</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39059</guid>
+            <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[K-AD] 해태 부라보콘, 신규 캠페인 조용한 부라보송 온에어 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8886</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8886</guid>
+            <pubDate>Wed, 08 Jun 2022 09:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[메가존 계열 종합광고대행사 펜타클이 제작한 해태 아이스크림 부라보콘의 신규 캠페인`조용한 부라보송`광고 영상이 공개됐다. 이번에 공개된 광고 영상은MZ를 포함한 모든 세대에게 부라보콘CM송을 다시 한번 알리기 위해 기 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[크로스타겟, 동영상 및 글로벌 매체 광고 지면 확장 개편 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8885</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8885</guid>
+            <pubDate>Wed, 08 Jun 2022 09:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[애드테크 기업 모티브인텔리전스(대표이사 양준모)는 맞춤형 광고 전문 DSP(광고주 플랫폼) 크로스타겟(CROSS TARGET)을 확장 개편했다고 8일 밝혔다. 이번 개편의 주요 내용은 동영상 광고 지면을 보유한 모바일 매체 제휴를 대폭  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[세일즈포스 라이브 코리아 2022, 고객경험 향상 위해 국내 최초 고객 중심 디지털 혁신 사례 및 노하우 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8884</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8884</guid>
+            <pubDate>Wed, 08 Jun 2022 09:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계CRM시장을 선도하고 있는 세일즈포스가 오는6월28일 세일즈포스 라이브 코리아2022(Salesforce Live: Korea 2022)를 개최한다. How the Future Works를 주제로 진행되는 본 연례행사는 온라인으로 진행되며 라이브 토크쇼 오프닝 키노트  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스, F1 라이브 스트리밍 입찰에 참여하다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8883</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8883</guid>
+            <pubDate>Wed, 08 Jun 2022 08:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스는현재 디즈니/ESPN이 보유하고 있는 포뮬러1(F1)자동차 경주의 라이브 스트리밍 권리를 위해 입찰하고 있는 것으로 알려졌다.아마존과 컴캐스트/NBCU 역시 권리 패키지를 놓고 경쟁하고 있다. 디즈니는 현재 미국에서 F1  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 클라이언트의 답을 찾기 위해 시키지 않은 일을 할 것입니다 김대영 펜타클 전무 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8882</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8882</guid>
+            <pubDate>Wed, 08 Jun 2022 08:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[광고회사는 클라이언트가 가진 문제를 정확하게 파악하고 최적의 솔루션을 제공하는 솔루션 프로바이더(Solution Provider)다. 그렇기 때문에, 광고회사는 선제안이나 역제안을 하기도 한다. 선제안, 특히 역제안은 광고회사와 클라 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[Trend from Tokyo] 수납장은 보관이 아니라 보관된 것을 찾기 위한 것이 목적이다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8881</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8881</guid>
+            <pubDate>Wed, 08 Jun 2022 08:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[신상품 개발 #1) 수납장은 잡동사니를 보관하는 것이 목적이다. 하지만 사용자 관점에서 다시 생각해 보면 보관한 물건을 잘 찾을 수 있는 수납장이 필요하다. 내부가 보이지 않는 칼라 박스가 주류였던 기존의 수납장은 어느 상 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[6월 8일 마케팅 뉴스클리핑] 네이버플러스 멤버십, 연내 누적 사용자 천만 앞둬 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -542,58 +590,52 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8bf60b2afa6f1df435b0c567f531b397_59884_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아이언소스, 앱 개발 엔진 플러터 공식 지원 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8856</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8856</guid>
-            <pubDate>Fri, 03 Jun 2022 09:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource, NYSE:IS)는 오픈 소스 크로스 플랫폼 앱 개발 엔진 플러터(Flutter)를 지원한다고 발표했다. 이번 지원 발표에 따라 플러터를 통해 앱 및 게임을 구축한 개발자들은 자사 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[K-AD] 해태 부라보콘, 신규 캠페인 '조용한 부라보송' 온에어 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8886</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8886</guid>
+            <pubDate>Wed, 08 Jun 2022 01:27:21 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국PR협회, 환경의 날 그린그림 캠페인 진행 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8855</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8855</guid>
-            <pubDate>Fri, 03 Jun 2022 09:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국PR협회(회장 김주호)가6월5일 환경의 날을 맞아 환경보호 실천을 위한 #그린그림 캠페인을 진행한다. 이번 캠페인은 한국PR협회가PR과 소통의 사회적 가치를 제고하고 지속가능한 발전을 추구하기 위해 협회의 지속가능위원 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[크로스타겟, 동영상 및 글로벌 매체 광고 지면 확장 개편 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8885</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8885</guid>
+            <pubDate>Wed, 08 Jun 2022 01:27:21 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[MAD Pick] 다양한 제 모습을 담아낼 수 있는 광고를 많이 만나고 싶습니다 유미라 아나운서 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8854</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8854</guid>
-            <pubDate>Fri, 03 Jun 2022 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 간단하게 소개 부탁드립니다.  안녕하세요. 프리랜서 아나운서 유미라입니다. 매일 아침 SBS 모닝와이드에서 실시간e뉴스 생생지구촌 코너로 인사드리고 있어요. 이전에는 KBS 부산과 머니투데이방송의 앵커로 시사 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[‘세일즈포스 라이브 코리아 2022’, 고객경험 향상 위해 국내 최초 고객 중심 디지털 혁신 사례 및 노하우 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8884</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8884</guid>
+            <pubDate>Wed, 08 Jun 2022 01:27:21 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 소비자가 브랜드를 바꾸는 가장 큰 이유 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8853</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8853</guid>
-            <pubDate>Fri, 03 Jun 2022 08:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[브랜드는 소비자 충성도를 매우 중요하게 생각한다. 이를 위해 브랜드는 소비자에게 가치를 제공하는 다양한 활동을 제공한다. 그럼에도 많은 소비자는 브랜드를 바꾸고 있다. 특히 MZ세대가 등장하고 코로나라는 전대미문의  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[넷플릭스, F1 라이브 스트리밍 입찰에 참여하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8883</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8883</guid>
+            <pubDate>Wed, 08 Jun 2022 01:27:21 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[6월 3일 마케팅 뉴스클리핑] 멤버십 700만인데 매출은 월 80억 뿐... 가입자 부풀렸나 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8852</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8852</guid>
-            <pubDate>Fri, 03 Jun 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 멤버십 700만인데 매출은 월 80억 뿐... 가입자 부풀렸나  이커머스 업계의 유료 멤버십 경쟁이 치열해지면서 거래액 1위인 네이버가 유료 멤버십 가입자를 부풀리고 있다는 논란이 일고 있다. 지난 1분기 실적 발표에서 밝힌 멤 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_302a240768a60dc5d7243ac20a7b6f05_85864_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[인터뷰] "클라이언트의 답을 찾기 위해 시키지 않은 일을 할 것입니다" 김대영 펜타클 전무 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8882</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8882</guid>
+            <pubDate>Wed, 08 Jun 2022 01:27:21 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[해외 크리에이티브] 루이 비통 x 나이키, 에어포스1 컬래버 3D 광고를 론칭하다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8851</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8851</guid>
-            <pubDate>Thu, 02 Jun 2022 08:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[버질 아블로는 작년에 죽기 전 마지막 프로젝트 중 하나에서 나이키 에어포스1을 새로운 차원으로 끌어올렸다.지난해 6월 루이 비통의 2022 S/S컬렉션에서 버질 아블로가 나이키와 협업해 공개한 47가지의 에어포스1 에디션 중 9가 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[Trend from Tokyo] 수납장은 보관이 아니라 보관된 것을 찾기 위한 것이 목적이다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8881</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8881</guid>
+            <pubDate>Wed, 08 Jun 2022 01:27:21 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[6월 8일 마케팅 뉴스클리핑] 네이버플러스 멤버십, 연내 누적 사용자 천만 앞둬 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8878</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8878</guid>
-            <pubDate>Tue, 07 Jun 2022 23:18:09 GMT</pubDate>
+            <pubDate>Wed, 08 Jun 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -758,52 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아이언소스, 앱 개발 엔진 ‘플러터’ 공식 지원 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8856</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8856</guid>
-            <pubDate>Fri, 03 Jun 2022 09:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국PR협회, 환경의 날 ‘그린그림’ 캠페인 진행 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8855</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8855</guid>
-            <pubDate>Fri, 03 Jun 2022 09:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[MAD Pick] "다양한 제 모습을 담아낼 수 있는 광고를 많이 만나고 싶습니다" 유미라 아나운서 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8854</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8854</guid>
-            <pubDate>Fri, 03 Jun 2022 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 소비자가 브랜드를 바꾸는 가장 큰 이유 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8853</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8853</guid>
-            <pubDate>Fri, 03 Jun 2022 08:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[6월 3일 마케팅 뉴스클리핑] 멤버십 700만인데 매출은 월 80억 뿐... 가입자 부풀렸나 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8852</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8852</guid>
-            <pubDate>Fri, 03 Jun 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[해외 크리에이티브] 루이 비통 x 나이키, 에어포스1 컬래버 3D 광고를 론칭하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8851</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8851</guid>
-            <pubDate>Thu, 02 Jun 2022 08:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[일회성으로 소비되는 것이 아니라 10년 뒤에도 꾸준히 읽힐 정도로 오랫동안 소비자들의 관심과 공감을 불러일으킬 수 있는 콘텐츠를 일컫는 말은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 07 Jun 2022 23:18:22 GMT</pubDate>
+            <pubDate>Wed, 08 Jun 2022 01:27:34 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->일회성으로 소비되는 것이 아니라 10년 뒤에도 꾸준히 읽힐 정도로 오랫동안 소비자들의 관심과 공감을 불러일으킬 수 있는 콘텐츠를 일컫는 말은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
