@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 22:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 23:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[6월 9일 마케팅 뉴스클리핑] 카톡 프로필은 미니홈피처럼, 오픈채팅은 부캐 놀이터로 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8887</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8887</guid>
+            <pubDate>Thu, 09 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 카톡 프로필은 미니홈피처럼, 오픈채팅은 부캐 놀이터로  카카오가 카카오톡을 메타버스 플랫폼으로 키운다. 카톡 프로필에는 소통을 강조한 SNS 기능을 넣고, 오픈채팅은 관심사 기반으로 바꾼다. 카카오는 온라인 간담회를  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_bc35903628403f77ae8d83464d531ba5_68771_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[갤러리엑스, NEXT WEB3.0 FORUM 2022 개최... 머스크 모친 메이 머스크와 음악, 패션업계 글로벌 리더 한자리]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8888</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8860</guid>
             <pubDate>Fri, 03 Jun 2022 10:22:09 GMT</pubDate>
             <content:encoded><![CDATA[2022 에피 어워드 본선 심사가 3일 오후 제일기획에서 진행됐다. 에피 어워드는 실제 집행된 마케팅 캠페인의 결과(Effectiveness)를 바탕으로 소비자의 마음을 사로잡은 캠페인을 선정, 시상하는 세계 최고 권위의 마케팅 캠페인 어 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[더블미, 바르셀로나에 디즈니 플러스와 스타워즈 오비완 케노비 현실세계 메타버스 체험관 개설]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8858</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8858</guid>
-            <pubDate>Fri, 03 Jun 2022 10:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[현실세계메타버스플랫폼스타트업더블미(대표이사김희관)가 디즈니 플러스(Disney+),스페인 최대OTT기업 무비스타 플러스(Movistar+)와 손잡고 바르셀로나에스타워즈오비완케노비현실세계메타버스체험관을 개설했다고 밝혔다.무비 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
