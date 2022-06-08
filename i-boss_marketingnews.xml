@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 10:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 11:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갤러리엑스, NEXT WEB3.0 FORUM 2022 개최... 머스크 모친 메이 머스크와 음악, 패션업계 글로벌 리더 한자리]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8888</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8888</guid>
+            <pubDate>Wed, 08 Jun 2022 11:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[테슬라 최고경영자 일론 머스크의 모친메이 머스크와 음악,패션 업계 글로벌 리더들이 온오프라인 공간에 모여 선진 미래기술에 대해 논의하는 특별한 장이 마련된다. 갤러리엑스는 오는16일 오후7시 잠실 소피텔 서울 앰버서 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[K-AD] 해태 부라보콘, 신규 캠페인 조용한 부라보송 온에어]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8886</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Jun 2022 10:42:00 GMT</pubDate>
             <content:encoded><![CDATA[현실세계메타버스플랫폼스타트업더블미(대표이사김희관)가 디즈니 플러스(Disney+),스페인 최대OTT기업 무비스타 플러스(Movistar+)와 손잡고 바르셀로나에스타워즈오비완케노비현실세계메타버스체험관을 개설했다고 밝혔다.무비 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[인스타그램 릴스 영상 길이 90초로 확대]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8857</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8857</guid>
-            <pubDate>Fri, 03 Jun 2022 10:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[설문퀴즈 등 스티커 도입... 상호 교류 확대 기대  인스타그램은 숏폼(짧은 분량의 동영상 촬영 및 편집) 서비스 릴스 영상 길이를 최대 90초로 확대하는 등 기능을 업데이트했다.  이번 업데이트로 릴스에 새로 추가된 기능은 설 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8bf60b2afa6f1df435b0c567f531b397_59884_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
