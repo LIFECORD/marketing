@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 08:26:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 09:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[100여 년 전 일제강점기 한국의 의료광고는 어땠을까?]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8893</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8893</guid>
+            <pubDate>Thu, 09 Jun 2022 09:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[지난6월 3일, 이화여자대학교 커뮤니케이션 미디어 연구소와 한국헬스커뮤니케이션학회는 `의료커뮤니케이션 관점에서 바라본 식민지 의약품 광고와 신체정치의 심리학` 이라는 주제로 공동세미나를 개최했다. 유승철 교수(이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[인스타그램, 프로필에 게시물 고정 기능 정식 출시]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8891</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8864</guid>
             <pubDate>Sun, 05 Jun 2022 09:01:00 GMT</pubDate>
             <content:encoded><![CDATA[가족, 특히 자녀를 잃어버린다는 것은 큰 슬픔이고 고통이다. 많은 부모들이 생계를 접고 자녀를 찾으러 전국을 다니기도 한다. 실제로 우리는 몇년째 자녀를 찾는 플래카드를 접하고 있다. 우리나라에서 제일기획은 경찰청,우 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[라이카 & 파나소닉, 미래의 카메라와 렌즈를 위한 전략적 포괄적 협력 계약 체결]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8863</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8863</guid>
-            <pubDate>Sat, 04 Jun 2022 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[라이카와 파나소닉은 `새로운 영상 세계`를 위한 차세대 카메라 소프트웨어와 솔루션을 개발하기 위해 `라이카`와 `LUMIX`의 2개의 `L`을 상징적으로 사용하는 `L Technology`라는 이름의 새로운 파트너십을 맺고 두 회사의 기술과 노 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

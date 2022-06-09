@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-06-09T08:26:40.949Z</updated>
+    <updated>2022-06-09T09:21:14.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[100여 년 전 일제강점기 한국의 의료광고는 어땠을까?]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8893</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8893"/>
+        <updated>2022-06-09T09:20:50.104Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인스타그램, '프로필에 게시물 고정' 기능 정식 출시]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8891</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-8864</id>
         <link href="https://www.i-boss.co.kr/ab-2877-8864"/>
         <updated>2022-06-05T01:41:44.704Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이카 & 파나소닉, 미래의 카메라와 렌즈를 위한 전략적 포괄적 협력 계약 체결]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8863</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8863"/>
-        <updated>2022-06-04T01:21:24.161Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
