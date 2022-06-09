@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 22:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 23:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,30 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[이보영, 대기업 광고대행사 최초 여성 임원된다... JTBC 새 드라마 대행사(가제) 출연 확정 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8895</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8895</guid>
+            <pubDate>Fri, 10 Jun 2022 08:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이보영이 JTBC 새 드라마 의 출연을 확정지으며, 치열한 광고업계를 장악한 광고퀸으로 돌아온다. 드라마 는 대기업 광고대행사 최초로 여성 임원이 된 고아인이 최초를 넘어 최고의 위치까지 자신의 커리어를 만들어가는  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[6월 10일 마케팅 뉴스클리핑] 인스타그램, 프로필에 게시물 고정 기능 정식 출시 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8892</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8892</guid>
+            <pubDate>Fri, 10 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 인스타그램, `프로필에 게시물 고정` 기능 정식 출시  인스타그램이 프로필에서 게시물을 고정할 수 있는 기능을 모든 이용자를 대상으로 정식 출시했다. 인스타그램은 게시물 고정(Grid Pinning)을 선보인다고 밝혔다. 지난 4월 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_59afb6e1238abc1f081029b2e82534b6_74956_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선형 TV 광고 점유율은 지속적으로 줄어들고 있다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8894</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8894</guid>
+            <pubDate>Fri, 10 Jun 2022 07:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[이마케터에 따르면, 올해미국 비디오 광고비의 57%가 선형 TV에서 사용될 것으로 보인다.2020년 71%, 2021년 62% 등 지속적으로 선형 TV의 광고 점유율이 줄어들고 있다. 이에 비해, CTV와 소셜 비디오와 같은 다른 디지털 포맷에 대한  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[100여 년 전 일제강점기 한국의 의료광고는 어땠을까? (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8893</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8893</guid>
@@ -566,28 +590,25 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 어느 나라가 인플루언서의 영향을 가장 많이 받고 있을까 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8866</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8866</guid>
-            <pubDate>Sun, 05 Jun 2022 09:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[인플루언서 마케팅은 온라인 마케팅에서 가장 인기 있고 효과적인 형태 중 하나가 되었다. 수백만 명의 인터넷 사용자가 매일 엔터테인먼트, 영감, 제품 추천을 위해 소셜 미디어 플랫폼을 검색하고 있다. 마케터가 소셜 미디어 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[이보영, 대기업 광고대행사 최초 여성 임원된다... JTBC 새 드라마 '대행사'(가제) 출연 확정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8895</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8895</guid>
+            <pubDate>Thu, 09 Jun 2022 23:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[소셜 미디어, ROI 측정에 대한 브랜드의 신뢰도 순위 1위 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8865</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8865</guid>
-            <pubDate>Sun, 05 Jun 2022 09:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅 측면에서는 ROI를 참여, 측정, 최적화 및 입증하는 기술이 그 어느 때보다 보편화되었다. 글로벌 브랜드 마케터는 소셜 미디어 마케팅에서 ROI(투자 수익률)를 측정하는 능력에 대해 가장 자신이 있는 것으로 조사됐다. 닐 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[6월 10일 마케팅 뉴스클리핑] 인스타그램, '프로필에 게시물 고정' 기능 정식 출시 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8892</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8892</guid>
+            <pubDate>Thu, 09 Jun 2022 23:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[해외 크리에이티브] 기존 실종자 포스터를 3D 이미지로 대체하다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8864</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8864</guid>
-            <pubDate>Sun, 05 Jun 2022 09:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[가족, 특히 자녀를 잃어버린다는 것은 큰 슬픔이고 고통이다. 많은 부모들이 생계를 접고 자녀를 찾으러 전국을 다니기도 한다. 실제로 우리는 몇년째 자녀를 찾는 플래카드를 접하고 있다. 우리나라에서 제일기획은 경찰청,우 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[선형 TV 광고 점유율은 지속적으로 줄어들고 있다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8894</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8894</guid>
+            <pubDate>Thu, 09 Jun 2022 23:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[100여 년 전 일제강점기 한국의 의료광고는 어땠을까? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -779,25 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 어느 나라가 인플루언서의 영향을 가장 많이 받고 있을까 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8866</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8866</guid>
-            <pubDate>Sun, 05 Jun 2022 09:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소셜 미디어, ROI 측정에 대한 브랜드의 신뢰도 순위 1위 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8865</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8865</guid>
-            <pubDate>Sun, 05 Jun 2022 09:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[해외 크리에이티브] 기존 실종자 포스터를 3D 이미지로 대체하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8864</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8864</guid>
-            <pubDate>Sun, 05 Jun 2022 09:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[페이스북 페이지에서 "메시지 응답률 높음" 배지를 받기 위한 최소 기준은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Thu, 09 Jun 2022 23:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->페이스북 페이지에서 "메시지 응답률 높음" 배지를 받기 위한 최소 기준은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1439_1" value="1" class="AB-radio" id="PQ_BD5826_1439_1_0"><label for="PQ_BD5826_1439_1_0" id="label_PQ_BD5826_1439_1_0">(A) 응답률 80% 이상, 응답시간 30분 미만</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1439_1" value="2" class="AB-radio" id="PQ_BD5826_1439_1_1"><label for="PQ_BD5826_1439_1_1" id="label_PQ_BD5826_1439_1_1">(B) 응답률 80% 이상, 응답시간 20분 미만</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1439_1" value="3" class="AB-radio" id="PQ_BD5826_1439_1_2"><label for="PQ_BD5826_1439_1_2" id="label_PQ_BD5826_1439_1_2">(C) 응답률 90% 이상, 응답시간 15분 미만</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1439_1" value="4" class="AB-radio" id="PQ_BD5826_1439_1_3"><label for="PQ_BD5826_1439_1_3" id="label_PQ_BD5826_1439_1_3">(D) 응답률 95% 이상, 응답시간 15분 미만</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인·자영업자 대출 연장·상환유예 9월 종료...금융당국 대비 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
