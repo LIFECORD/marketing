@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 23:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 01:30:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마케터에게 물어본 2022년 하반기 마케팅은?]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1032102-%EB%A7%88%EC%BC%80%ED%84%B0%EC%97%90%EA%B2%8C_%EB%AC%BC%EC%96%B4%EB%B3%B8_2022%EB%85%84_%ED%95%98%EB%B0%98%EA%B8%B0_%EB%A7%88%EC%BC%80%ED%8C%85%EC%9D%80/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1032102-%EB%A7%88%EC%BC%80%ED%84%B0%EC%97%90%EA%B2%8C_%EB%AC%BC%EC%96%B4%EB%B3%B8_2022%EB%85%84_%ED%95%98%EB%B0%98%EA%B8%B0_%EB%A7%88%EC%BC%80%ED%8C%85%EC%9D%80/</guid>
+            <pubDate>Thu, 09 Jun 2022 01:29:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1032102-마케터에게_물어본_2022년_하반기_마케팅은/">
+						<div class="thumb"><img src="/images/qletter_1032102.png"></div>
+						<p><strong> 마케터에게 물어본 2022년 하반기 마케팅은?</strong>2022.06.09</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1032102.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[일잘러 마케터의 업무 치트키]]></title>
             <link>https://qletter.i-boss.co.kr/view/1022176-%EC%9D%BC%EC%9E%98%EB%9F%AC_%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98_%EC%97%85%EB%AC%B4_%EC%B9%98%ED%8A%B8%ED%82%A4/</link>
@@ -127,17 +138,6 @@
 						<p><strong>👥 무단 크롤링이 뭐길래 싸워? 👤👥</strong>2022.04.25</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_967377.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[색다른 경험을 주고 싶다면 ○○○○ 처럼]]></title>
-            <link>https://qletter.i-boss.co.kr/view/964230-%EC%83%89%EB%8B%A4%EB%A5%B8_%EA%B2%BD%ED%97%98%EC%9D%84_%EC%A3%BC%EA%B3%A0_%EC%8B%B6%EB%8B%A4%EB%A9%B4_%EC%B2%98%EB%9F%BC/</link>
-            <guid>https://qletter.i-boss.co.kr/view/964230-%EC%83%89%EB%8B%A4%EB%A5%B8_%EA%B2%BD%ED%97%98%EC%9D%84_%EC%A3%BC%EA%B3%A0_%EC%8B%B6%EB%8B%A4%EB%A9%B4_%EC%B2%98%EB%9F%BC/</guid>
-            <pubDate>Thu, 21 Apr 2022 03:28:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/964230-색다른_경험을_주고_싶다면_처럼/">
-						<div class="thumb"><img src="/images/qletter_964230.png"></div>
-						<p><strong> 색다른 경험을 주고 싶다면 ○○○○ 처럼</strong>2022.04.21</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_964230.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
