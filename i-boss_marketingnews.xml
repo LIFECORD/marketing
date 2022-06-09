@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 01:30:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 03:26:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스타그램, 프로필에 게시물 고정 기능 정식 출시]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8891</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8891</guid>
+            <pubDate>Thu, 09 Jun 2022 10:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[인스타그램이 프로필에서 게시물을 고정할 수 있는 기능을 모든 이용자를 대상으로 정식 출시했다.  아담 모세리 인스타그램 대표는 7일(현지시간) 자신의 트위터에서 게시물 고정(Grid Pinning)을 선보인다고 밝혔다. 회사는 지난 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16547391658602.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제일기획 BOUNCE(바운스)팀, NFT 퍼포먼스  라이브 커머스  캠페인 대시보드로 고객사 비즈니스 전천후 지원]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8890</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8863</guid>
             <pubDate>Sat, 04 Jun 2022 08:46:00 GMT</pubDate>
             <content:encoded><![CDATA[라이카와 파나소닉은 `새로운 영상 세계`를 위한 차세대 카메라 소프트웨어와 솔루션을 개발하기 위해 `라이카`와 `LUMIX`의 2개의 `L`을 상징적으로 사용하는 `L Technology`라는 이름의 새로운 파트너십을 맺고 두 회사의 기술과 노 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[애드 프로드, 연간 1,000억 달러 돌파]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8862</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8862</guid>
-            <pubDate>Sat, 04 Jun 2022 08:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[미국 전국광고주협회(Association of National Advertisers)는Marketing 360 뉴스레터에서 앱 설치 팜, SDK 스푸핑, 클릭 스팸 &amp; 광고 스택킹 등 다양한 형태의 애드 프로드로 인해 미디어구매 낭비 비용은 2021년보다 21% 증가한 1,200억 달러로 추 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
