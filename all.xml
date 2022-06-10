@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 05:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 07:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,18 +182,18 @@
             <content:encoded><![CDATA[호랑이마케팅]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[14일차 마케터의 꿀팁 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57830</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57830</guid>
-            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[변지현]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케터의 기본기 - 미디어믹스 마스터하기 1편 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57743</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57743</guid>
             <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[호랑이마케팅]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[14일차 마케터의 꿀팁 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57830</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57830</guid>
+            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[변지현]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보스님의 ‘갓생’을 도와주는 마케팅 사례 ✨ (아이보스 ─ 인기글)]]></title>
@@ -210,18 +210,18 @@
             <content:encoded><![CDATA[지카츄]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[피그마, 마케터의 치트키가 될 수 있을까? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57887</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57887</guid>
-            <pubDate>Thu, 02 Jun 2022 08:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[바보들은 한곳으로 모인다.  온라인 광고, 싸움닭 안.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57909</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57909</guid>
             <pubDate>Mon, 06 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[baljunso]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[피그마, 마케터의 치트키가 될 수 있을까? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57887</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57887</guid>
+            <pubDate>Thu, 02 Jun 2022 08:25:09 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[곰곰히 생각해보면 제가 여태 남들 돈만 벌어줬네요 .. (아이보스 ─ 인기글)]]></title>
@@ -308,6 +308,13 @@
             <content:encoded><![CDATA[노호락]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[마케터들이 모으고 있는 마케팅 정보 모음 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57930</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57930</guid>
+            <pubDate>Wed, 08 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[덕구네집]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[보스님의 떨어진 매출을 잡아줄 `다시 팔리는 것들의.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-2973-466</link>
             <guid>https://www.i-boss.co.kr/ab-2973-466</guid>
@@ -334,13 +341,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-39150</guid>
             <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[규S]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마케터들이 모으고 있는 마케팅 정보 모음 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57930</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57930</guid>
-            <pubDate>Wed, 08 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[덕구네집]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[억만 장자가 매일 실행하는 To Do List (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[페이스북 페이지에서 "메시지 응답률 높음" 배지를 받기 위한 최소 기준은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 10 Jun 2022 05:16:58 GMT</pubDate>
+            <pubDate>Fri, 10 Jun 2022 07:19:52 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->페이스북 페이지에서 "메시지 응답률 높음" 배지를 받기 위한 최소 기준은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
