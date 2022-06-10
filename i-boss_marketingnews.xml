@@ -4,9 +4,33 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 22:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 23:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[불확실성 앞에 놓은 광고업계]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8900</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8900</guid>
+            <pubDate>Sat, 11 Jun 2022 07:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[미국 노동 통계국(US Bureau of Labor Statistics)에 따르면, 미국 고용의 전반적인 증가에도 불구하고 광고와 홍보 부문은5월에 2,400개의 일자리를 잃었다.광고 회사의 고용은여전히 높은 수준이지만, 업계가 불확실한 경제 전망과 애드 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인포그래픽] 세계 항공사는 어떤 항공기를 갖고 있을까?]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8899</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8899</guid>
+            <pubDate>Sat, 11 Jun 2022 07:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[리오프닝되면서 억눌렸던 여행에 대한 수요가 폭발하고 있다. 코로나로 인해 움추렸던 세계 항공업계는 중단했던 노선을 재개하고 비행 편수를 늘리고 있다. 그럼에도 소비자의 니즈를 제대로 따라가지 못하고 있는 실정이다.  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[트렌드모니터] 은행 안전하지만, 저축은 글쎄 금융 위기 속 달라지는 투자 움직임]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8898</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8898</guid>
+            <pubDate>Sat, 11 Jun 2022 07:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나 사태, 美 연준의 금리인상 등 물가 상승 압력은 더욱 높아질 것으로 전망되고 있고,이러한 경제 불확실성으로 인해 최근 내 자산을 현명하게 지키고 성공적으로 늘리려는 사람들의 마음이 더 커진 것으로도 보인다. ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[할인쿠폰  사은품, NFT로 드립니다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8896</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 07 Jun 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 인스타그램, `릴스` 길이 60초에서 90초로 확대  메타는 인스타그램 릴스 영상 길이가 최대 90초로 늘어나며, 릴스에서 스티커설문퀴즈 기능이 추가된다고 알렸다. 페이스북 릴스에서 데스크톱 게재수정예약 기능, 기존 긴 영상 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_673209ae94c55f9662315f2000fdb6c9_78817_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스피도, 재활용 원사 및 플라스틱으로 만든 에코 수영복 출시]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8870</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8870</guid>
-            <pubDate>Mon, 06 Jun 2022 09:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[6월 5일은 전 세계에서 함께 지키는 환경의 날이다. 패션업계 역시 지속가능성 패션을 위해 폐플라스틱을 비롯한 자원 재활용, 섬유 쓰레기 줄이기 등많은 노력을 기울이고 있다. 패션 유나이티드 등에 따르면, 스피도는재활용  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 2004년부터 2021년까지 발생한 50대 데이터 침해 사례]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8869</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8869</guid>
-            <pubDate>Mon, 06 Jun 2022 09:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[세계가 온라인에 저장된 기술과 데이터에 점점 더 의존하게 됨에 따라 보안이 가장 중요한 것 중 하나다. 특히 데이터 침해는 사용자, 기업 및 정부 기관에 만연한 위협이 되고 있다. 2021년에는 59억 건 이상의 사용자 기록을 도 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[Welcome To Gucci Town 구찌, 로블록스 안에 영구적인 공간을 만들다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8868</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8868</guid>
-            <pubDate>Mon, 06 Jun 2022 09:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[구찌는 작년5월 로블록스에 메타버스에 진입한 후, 로블록스에 공식 명칭이구찌 타운(Gucci Town)인 `영구적인 디지털 공간`을 열었다. 구찌는 가상 갤러리, 카페 및 기타 공간을 만들어냄으로써, 실제 세계와 디지털 경험의 융합인 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
