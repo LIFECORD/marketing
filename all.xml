@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 05:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 06:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -273,18 +273,18 @@
             <content:encoded><![CDATA[귀여운나름이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아버지 회사에서 일하고 있는 1년차 마케터 입니다. .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57848</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57848</guid>
-            <pubDate>Wed, 25 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[marineE]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[인하우스 퍼포먼스 마케터 현실 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39172</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39172</guid>
             <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[노호락]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아버지 회사에서 일하고 있는 1년차 마케터 입니다. .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57848</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57848</guid>
+            <pubDate>Wed, 25 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[marineE]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케터들이 모으고 있는 마케팅 정보 모음 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[페이스북 페이지에서 "메시지 응답률 높음" 배지를 받기 위한 최소 기준은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 11 Jun 2022 05:16:52 GMT</pubDate>
+            <pubDate>Sat, 11 Jun 2022 06:21:18 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->페이스북 페이지에서 "메시지 응답률 높음" 배지를 받기 위한 최소 기준은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
