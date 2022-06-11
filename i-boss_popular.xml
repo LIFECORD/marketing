@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-11T06:21:28.371Z</updated>
+    <updated>2022-06-11T07:17:01.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -195,6 +195,13 @@
         <content type="html"><![CDATA[yoorok]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[사수 없는 신입을 위한 실무 치트키 95개]]></title>
+        <id>https://www.i-boss.co.kr/ab-3208-828</id>
+        <link href="https://www.i-boss.co.kr/ab-3208-828"/>
+        <updated>2022-06-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[김매니저]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[디자인 관련 법 알려주는 계정의 드립력]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-39124</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-39124"/>
@@ -207,12 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57778"/>
         <updated>2022-05-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[yoorok]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해수욕장 관련부서 연락처]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-39059</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-39059"/>
-        <updated>2022-05-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[마케팅플랜]]></content>
     </entry>
 </feed>
