@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 05:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 06:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WWD KOREA, 오는 15일 글로벌 우먼 리더스 포럼 개최]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8905</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8905</guid>
+            <pubDate>Sun, 12 Jun 2022 06:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[메이 머스크 등 각계 분야의 글로벌 여성리더들이 차세대 여성 인재들에게 리더로서 갖춰야할 역랑과 도전정신을 공유하는 시간이 마련된다. WWD KOREA는 오는 15일 오후 2시 잠실 소재 소피텔 앰배서더 서울 호텔 그랜드 볼룸 방 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[코바코, 우수 혁신 애드벤처 10개사 시상]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8904</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 07 Jun 2022 11:08:00 GMT</pubDate>
             <content:encoded><![CDATA[프로그래매틱광고분야의혁신을이끌고 있는SSP기업으로서,디지털 광고를 위한 미래 공급망을 제공하는 독립형 애드테크 기업인퍼브매틱(PubMatic, Inc./Nasdaq: PUBM)은 오늘 미디어 바이어들이 오픈 인터넷을 통해 목표 고객과 원활하 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[사용자가 가장 많은 음악 서비스 앱은 멜론, 유튜브 뮤직, 지니뮤직, 플로 순]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8874</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8874</guid>
-            <pubDate>Tue, 07 Jun 2022 09:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[사용자가 가장 많은 음악 서비스 앱은 멜론, 유튜브 뮤직, 지니뮤직, 플로 순 사용자가 가장 많은 웹툰/웹소설 앱은 네이버 웹툰, 카카오페이지, 시리즈, 카카오웹툰 순     앱/리테일 분석서비스 와이즈앱리테일굿즈가 한국인이  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16545621271596.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
