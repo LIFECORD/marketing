@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 22:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 23:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[6월 13일 마케팅 뉴스클리핑] 175만 원짜리 짝퉁 나이키 판 발란... 연이은 가품 잔혹사 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8897</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8897</guid>
+            <pubDate>Mon, 13 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 175만 원짜리 짝퉁 나이키 판 발란... 연이은 가품 잔혹사  온라인 명품 플랫폼이 잇따라 `짝퉁 판매`로 논란에 휩싸이고 있다. 무신사의 `가품 에센셜 티셔츠` 판매에 이어 발란도 가품 나이키 한정판을 판매한 사실이 드러났다 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_34751b79d173dea3023b40e0aaf834c2_18343_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WWD KOREA, 오는 15일 글로벌 우먼 리더스 포럼 개최]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8905</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 07 Jun 2022 11:52:00 GMT</pubDate>
             <content:encoded><![CDATA[70여개 템플릿 바탕으로 상세페이지 자유롭게 제작 가능  글로벌 전자상거래 플랫폼 카페24(대표 이재석)는 인공지능과 70여개 디자인 템플릿을 바탕으로 누구나 손쉽게 자신만의 상품 상세페이지를 제작해 볼 수 있는 `에디봇  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_9ba75be9737145bbf262c550bdd6ef81_48976_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼브매틱, 셀-사이드에서 데이터 활성화를 간소화해주는 커넥트 솔루션 출시]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8875</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8875</guid>
-            <pubDate>Tue, 07 Jun 2022 11:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[프로그래매틱광고분야의혁신을이끌고 있는SSP기업으로서,디지털 광고를 위한 미래 공급망을 제공하는 독립형 애드테크 기업인퍼브매틱(PubMatic, Inc./Nasdaq: PUBM)은 오늘 미디어 바이어들이 오픈 인터넷을 통해 목표 고객과 원활하 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
