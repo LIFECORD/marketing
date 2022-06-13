@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 15:27:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 16:26:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,18 +210,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[곰곰히 생각해보면 제가 여태 남들 돈만 벌어줬네요 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39129</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39129</guid>
-            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[사수 없는 신입을 위한 실무 치트키 95개 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-3208-828</link>
             <guid>https://www.i-boss.co.kr/ab-3208-828</guid>
             <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김매니저]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[곰곰히 생각해보면 제가 여태 남들 돈만 벌어줬네요 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39129</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39129</guid>
+            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[초보 팀장을 위한 튜토리얼 (아이보스 ─ 인기글)]]></title>
