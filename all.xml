@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 03:37:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 04:41:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -273,6 +273,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[마케터들이 모으고 있는 마케팅 정보 모음 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57930</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57930</guid>
+            <pubDate>Wed, 08 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[덕구네집]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[인하우스 퍼포먼스 마케터 현실 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39172</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39172</guid>
@@ -299,13 +306,6 @@
             <guid>https://www.i-boss.co.kr/ab-2973-466</guid>
             <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마케터들이 모으고 있는 마케팅 정보 모음 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57930</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57930</guid>
-            <pubDate>Wed, 08 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[덕구네집]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사수없이 인하우스에서 살아나가는 분들에게 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[최근 카카오에서 카카오톡을 메타버스 플랫폼으로 키우기 위한 비전 ‘이것’을 공개했습니다. 카카오표 메타버스인 ‘이것’의 이름은 무엇일까요?(hint: 힌트 보는 게 죄는 아니잖아, 6/9 뉴스클리핑 보고 정답 캐치하기) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 13 Jun 2022 03:37:42 GMT</pubDate>
+            <pubDate>Mon, 13 Jun 2022 04:41:16 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 카카오에서 카카오톡을 메타버스 플랫폼으로 키우기 위한 비전 ‘이것’을 공개했습니다. 카카오표 메타버스인 ‘이것’의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8887" target="_blank">힌트 보는 게 죄는 아니잖아, 6/9 뉴스클리핑 보고 정답 캐치하기</a>)</span></td>
 			</tr>
