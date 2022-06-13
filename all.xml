@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 14:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 15:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,18 +336,18 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[고객 구매 결정을 가속화시키는 영향력 원칙 3단계 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57778</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57778</guid>
-            <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[yoorok]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[제발 제발 페이스북의 본질을 알고 마케팅해주세요. .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57960</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57960</guid>
             <pubDate>Sun, 12 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고객 구매 결정을 가속화시키는 영향력 원칙 3단계 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57778</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57778</guid>
+            <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[크래프톤, 버추얼 휴먼 애나(ANA) 첫번째 티저 이미지 공개... 솜털과 잔머리까지 구현 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8881</guid>
             <pubDate>Wed, 08 Jun 2022 08:39:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최근 카카오에서 카카오톡을 메타버스 플랫폼으로 키우기 위한 비전 ‘이것’을 공개했습니다. 카카오표 메타버스인 ‘이것’의 이름은 무엇일까요?(hint: 힌트 보는 게 죄는 아니잖아, 6/9 뉴스클리핑 보고 정답 캐치하기) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 13 Jun 2022 14:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->최근 카카오에서 카카오톡을 메타버스 플랫폼으로 키우기 위한 비전 ‘이것’을 공개했습니다. 카카오표 메타버스인 ‘이것’의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8887" target="_blank">힌트 보는 게 죄는 아니잖아, 6/9 뉴스클리핑 보고 정답 캐치하기</a>)</span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1440_1" value="1" class="AB-radio" id="PQ_BD5826_1440_1_0"><label for="PQ_BD5826_1440_1_0" id="label_PQ_BD5826_1440_1_0">(A) 카카오 유니버스</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1440_1" value="2" class="AB-radio" id="PQ_BD5826_1440_1_1"><label for="PQ_BD5826_1440_1_1" id="label_PQ_BD5826_1440_1_1">(B) 카카오 오픈버스</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1440_1" value="3" class="AB-radio" id="PQ_BD5826_1440_1_2"><label for="PQ_BD5826_1440_1_2" id="label_PQ_BD5826_1440_1_2">(C) 카카오 퓨처버스</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1440_1" value="4" class="AB-radio" id="PQ_BD5826_1440_1_3"><label for="PQ_BD5826_1440_1_3" id="label_PQ_BD5826_1440_1_3">(D) 카카오 메가버스</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인·자영업자 대출 연장·상환유예 9월 종료...금융당국 대비 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

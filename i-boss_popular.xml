@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-13T14:18:18.728Z</updated>
+    <updated>2022-06-13T15:27:09.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -202,17 +202,17 @@
         <content type="html"><![CDATA[yoorok]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고객 구매 결정을 가속화시키는 영향력 원칙 3단계]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57778</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57778"/>
-        <updated>2022-05-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[yoorok]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[제발 제발 페이스북의 본질을 알고 마케팅해주세요. ..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57960</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57960"/>
         <updated>2022-06-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[우뇌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고객 구매 결정을 가속화시키는 영향력 원칙 3단계]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57778</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57778"/>
+        <updated>2022-05-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[yoorok]]></content>
     </entry>
 </feed>
