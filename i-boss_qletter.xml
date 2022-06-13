@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 23:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 01:47:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버도 뛰어든 인플루언서 매칭]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1035868-%EB%84%A4%EC%9D%B4%EB%B2%84%EB%8F%84_%EB%9B%B0%EC%96%B4%EB%93%A0_%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C_%EB%A7%A4%EC%B9%AD/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1035868-%EB%84%A4%EC%9D%B4%EB%B2%84%EB%8F%84_%EB%9B%B0%EC%96%B4%EB%93%A0_%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C_%EB%A7%A4%EC%B9%AD/</guid>
+            <pubDate>Mon, 13 Jun 2022 01:46:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1035868-네이버도_뛰어든_인플루언서_매칭/">
+						<div class="thumb"><img src="/images/qletter_1035868.png"></div>
+						<p><strong>네이버도 뛰어든 인플루언서 매칭</strong>2022.06.13</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1035868.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마케터에게 물어본 2022년 하반기 마케팅은?]]></title>
             <link>https://qletter.i-boss.co.kr/view/1032102-%EB%A7%88%EC%BC%80%ED%84%B0%EC%97%90%EA%B2%8C_%EB%AC%BC%EC%96%B4%EB%B3%B8_2022%EB%85%84_%ED%95%98%EB%B0%98%EA%B8%B0_%EB%A7%88%EC%BC%80%ED%8C%85%EC%9D%80/</link>
@@ -127,17 +138,6 @@
 						<p><strong> 브랜딩의 가치는 과정에서 나온다</strong>2022.04.28</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_974070.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[👥 무단 크롤링이 뭐길래 싸워? 👤👥]]></title>
-            <link>https://qletter.i-boss.co.kr/view/967377-%EB%AC%B4%EB%8B%A8_%ED%81%AC%EB%A1%A4%EB%A7%81%EC%9D%B4_%EB%AD%90%EA%B8%B8%EB%9E%98_%EC%8B%B8%EC%9B%8C/</link>
-            <guid>https://qletter.i-boss.co.kr/view/967377-%EB%AC%B4%EB%8B%A8_%ED%81%AC%EB%A1%A4%EB%A7%81%EC%9D%B4_%EB%AD%90%EA%B8%B8%EB%9E%98_%EC%8B%B8%EC%9B%8C/</guid>
-            <pubDate>Mon, 25 Apr 2022 01:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/967377-무단_크롤링이_뭐길래_싸워/">
-						<div class="thumb"><img src="/images/qletter_967377.png"></div>
-						<p><strong>👥 무단 크롤링이 뭐길래 싸워? 👤👥</strong>2022.04.25</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_967377.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
