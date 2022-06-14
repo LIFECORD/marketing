@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-14T01:53:06.491Z</updated>
+    <updated>2022-06-14T03:53:31.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[우뇌]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카카오톡의 대변신 예고]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57753</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57753"/>
-        <updated>2022-05-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[레미니] 대행사마케터가 인하우스가서 실패하는 이..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57807</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57807"/>
         <updated>2022-05-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[레미니센스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오톡의 대변신 예고]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57753</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57753"/>
+        <updated>2022-05-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디자이너 없이 이미지 만들고 칼퇴하는 꿀팁]]></title>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[baljunso]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[피그마, 마케터의 치트키가 될 수 있을까?]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57887</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57887"/>
-        <updated>2022-06-02T08:25:09.043Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[사수 없는 신입을 위한 실무 치트키 95개]]></title>
         <id>https://www.i-boss.co.kr/ab-3208-828</id>
         <link href="https://www.i-boss.co.kr/ab-3208-828"/>
         <updated>2022-06-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[김매니저]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피그마, 마케터의 치트키가 될 수 있을까?]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57887</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57887"/>
+        <updated>2022-06-02T08:25:09.043Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[곰곰히 생각해보면 제가 여태 남들 돈만 벌어줬네요 ..]]></title>
@@ -202,17 +202,17 @@
         <content type="html"><![CDATA[규S]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[매체별 광고 가이드 - 페이스북, 인스타그램, 네이버 ..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57915</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57915"/>
+        <updated>2022-06-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[쏭쏘]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[데이터스튜디오 템플릿 선착순 6명]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-39150</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-39150"/>
         <updated>2022-05-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[규S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[억만 장자가 매일 실행하는 To Do List]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57838</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57838"/>
-        <updated>2022-05-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[yoorok]]></content>
     </entry>
 </feed>

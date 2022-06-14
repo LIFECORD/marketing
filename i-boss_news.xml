@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-06-14T01:53:06.359Z</updated>
+    <updated>2022-06-14T03:53:31.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아마존 커머스 영토 확장 가속... 패션 매장 열고 AR 쇼핑도 선봬]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8916</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8916"/>
+        <updated>2022-06-14T03:53:09.950Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["당신의 타고난 광끼를 보여주세요" 대홍기획, 제 39회 'DCA 대학생광고대상' 개최]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8915</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-8888</id>
         <link href="https://www.i-boss.co.kr/ab-2877-8888"/>
         <updated>2022-06-08T11:15:12.770Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-AD] 해태 부라보콘, 신규 캠페인 '조용한 부라보송' 온에어]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8886</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8886"/>
-        <updated>2022-06-08T01:27:21.401Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
