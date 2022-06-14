@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-14T03:53:31.046Z</updated>
+    <updated>2022-06-14T04:53:13.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -174,18 +174,18 @@
         <content type="html"><![CDATA[marineE]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[브랜드와 인플루언서를 연결하는 네이버 `브랜드 커..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57944</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57944"/>
-        <updated>2022-06-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[제발 제발 페이스북의 본질을 알고 마케팅해주세요. ..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57960</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57960"/>
         <updated>2022-06-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[우뇌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브랜드와 인플루언서를 연결하는 네이버 `브랜드 커..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57944</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57944"/>
+        <updated>2022-06-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사수없이 인하우스에서 살아나가는 분들에게]]></title>
