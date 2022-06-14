@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 22:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 23:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[6월 15일 마케팅 뉴스클리핑] 당근마켓, 주간 이용자 1200만 돌파 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8917</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8917</guid>
+            <pubDate>Wed, 15 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 당근마켓, 주간 이용자 1200만 돌파  당근마켓은 5월 기준 주간 이용자 수(WAU)가 1,200만 명을 돌파했다고 밝혔다. 월간 이용자 수(MAU)는 1,800만, 누적 가입자 수는 3,000만을 넘어섰다. 당근마켓은 `한국인이 가장 자주 사용하는 앱` ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_6a74960071a0b05cc4a59560d42f4c0a_38207_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글 인앱결제 강제에 국내 플랫폼 기업들 요금인상 악용]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8918</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Jun 2022 08:37:00 GMT</pubDate>
             <content:encoded><![CDATA[지난 2022년 3월, 세명대학교에서는 권동현 부총장이 총장에 취임하면서 젊은 총장 다운 색다르고 이색적인 포부를 내비쳤다. 세명대학교가 세상에 보내는 10개의 부호가 바로 그것! 대학교라면 어디나 해당되는 학문의 영역을  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[6월 9일 마케팅 뉴스클리핑] 카톡 프로필은 미니홈피처럼, 오픈채팅은 부캐 놀이터로 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8887</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8887</guid>
-            <pubDate>Thu, 09 Jun 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 카톡 프로필은 미니홈피처럼, 오픈채팅은 부캐 놀이터로  카카오가 카카오톡을 메타버스 플랫폼으로 키운다. 카톡 프로필에는 소통을 강조한 SNS 기능을 넣고, 오픈채팅은 관심사 기반으로 바꾼다. 카카오는 온라인 간담회를  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_bc35903628403f77ae8d83464d531ba5_68771_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

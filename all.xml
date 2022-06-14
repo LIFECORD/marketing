@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 22:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 23:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -273,18 +273,18 @@
             <content:encoded><![CDATA[덕구네집]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[요즘 뜨는 통신사의 문자커머스 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57817</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57817</guid>
-            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[제발 제발 페이스북의 본질을 알고 마케팅해주세요. .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57960</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57960</guid>
             <pubDate>Sun, 12 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[요즘 뜨는 통신사의 문자커머스 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57817</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57817</guid>
+            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[브랜드와 인플루언서를 연결하는 네이버 `브랜드 커.. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-39229</guid>
             <pubDate>Fri, 10 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[Qfriend]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[6월 15일 마케팅 뉴스클리핑] 당근마켓, 주간 이용자 1200만 돌파 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8917</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8917</guid>
+            <pubDate>Wed, 15 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 당근마켓, 주간 이용자 1200만 돌파  당근마켓은 5월 기준 주간 이용자 수(WAU)가 1,200만 명을 돌파했다고 밝혔다. 월간 이용자 수(MAU)는 1,800만, 누적 가입자 수는 3,000만을 넘어섰다. 당근마켓은 `한국인이 가장 자주 사용하는 앱` ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_6a74960071a0b05cc4a59560d42f4c0a_38207_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구글 인앱결제 강제에 국내 플랫폼 기업들 요금인상 악용 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[6월 9일 마케팅 뉴스클리핑] 카톡 프로필은 미니홈피처럼, 오픈채팅은 부캐 놀이터로 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8887</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8887</guid>
-            <pubDate>Thu, 09 Jun 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 카톡 프로필은 미니홈피처럼, 오픈채팅은 부캐 놀이터로  카카오가 카카오톡을 메타버스 플랫폼으로 키운다. 카톡 프로필에는 소통을 강조한 SNS 기능을 넣고, 오픈채팅은 관심사 기반으로 바꾼다. 카카오는 온라인 간담회를  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_bc35903628403f77ae8d83464d531ba5_68771_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[6월 15일 마케팅 뉴스클리핑] 당근마켓, 주간 이용자 1200만 돌파 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8917</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8917</guid>
+            <pubDate>Tue, 14 Jun 2022 23:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구글 인앱결제 강제에 국내 플랫폼 기업들 요금인상 악용 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[6월 9일 마케팅 뉴스클리핑] 카톡 프로필은 미니홈피처럼, 오픈채팅은 부캐 놀이터로 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8887</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8887</guid>
-            <pubDate>Thu, 09 Jun 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[최근 운동하면서 돈을 버는 ‘이 서비스’들이 네이버·컴투스 등 핀테크 기업의 주목을 받고 있습니다. 일상에서의 움직임만으로 재화를 얻을 수 있어 접근성이 높아 많은 사람들의 호응을 얻고 있는 ‘이 서비스’는 무엇일까요?(hint: 지난 6/8 뉴스클리핑에서 소개해드렸어요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Tue, 14 Jun 2022 23:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->최근 운동하면서 돈을 버는 ‘이 서비스’들이 네이버·컴투스 등 핀테크 기업의 주목을 받고 있습니다. 일상에서의 움직임만으로 재화를 얻을 수 있어 접근성이 높아 많은 사람들의 호응을 얻고 있는 ‘이 서비스’는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8878" target="_blank">지난 6/8 뉴스클리핑에서 소개해드렸어요!</a>)</span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1442_1" value="1" class="AB-radio" id="PQ_BD5826_1442_1_0"><label for="PQ_BD5826_1442_1_0" id="label_PQ_BD5826_1442_1_0">(A) R2E</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1442_1" value="2" class="AB-radio" id="PQ_BD5826_1442_1_1"><label for="PQ_BD5826_1442_1_1" id="label_PQ_BD5826_1442_1_1">(B) M2E</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1442_1" value="3" class="AB-radio" id="PQ_BD5826_1442_1_2"><label for="PQ_BD5826_1442_1_2" id="label_PQ_BD5826_1442_1_2">(C) S2E</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1442_1" value="4" class="AB-radio" id="PQ_BD5826_1442_1_3"><label for="PQ_BD5826_1442_1_3" id="label_PQ_BD5826_1442_1_3">(D) P2E</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인·자영업자 대출 연장·상환유예 9월 종료...금융당국 대비 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
