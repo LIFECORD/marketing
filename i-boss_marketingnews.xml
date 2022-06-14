@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 06:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 08:24:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글 인앱결제 강제에 국내 플랫폼 기업들 요금인상 악용]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8918</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8918</guid>
+            <pubDate>Tue, 14 Jun 2022 08:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[구글 불공정 행태에 플랫폼 기업들이 소비자에 부담 전가  구글이 국내법을 위반하며 인앱결제 강제 정책을 고수하는 가운데 국내 플랫폼 기업이 요금인상 기회로 악용하고 있다는 시민단체의 비판이 나왔다.  14일 소비자주권 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_fa9a447251a9f868bcd6c97a587a6c28_70254_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아마존 커머스 영토 확장 가속... 패션 매장 열고 AR 쇼핑도 선봬]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8916</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Jun 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 카톡 프로필은 미니홈피처럼, 오픈채팅은 부캐 놀이터로  카카오가 카카오톡을 메타버스 플랫폼으로 키운다. 카톡 프로필에는 소통을 강조한 SNS 기능을 넣고, 오픈채팅은 관심사 기반으로 바꾼다. 카카오는 온라인 간담회를  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_bc35903628403f77ae8d83464d531ba5_68771_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갤러리엑스, NEXT WEB3.0 FORUM 2022 개최... 머스크 모친 메이 머스크와 음악, 패션업계 글로벌 리더 한자리]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8888</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8888</guid>
-            <pubDate>Wed, 08 Jun 2022 11:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[테슬라 최고경영자 일론 머스크의 모친메이 머스크와 음악,패션 업계 글로벌 리더들이 온오프라인 공간에 모여 선진 미래기술에 대해 논의하는 특별한 장이 마련된다. 갤러리엑스는 오는16일 오후7시 잠실 소피텔 서울 앰버서 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

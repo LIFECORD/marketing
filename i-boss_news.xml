@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-06-14T06:26:04.061Z</updated>
+    <updated>2022-06-14T08:24:41.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글 인앱결제 강제에 국내 플랫폼 기업들 요금인상 악용]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8918</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8918"/>
+        <updated>2022-06-14T08:24:22.033Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아마존 커머스 영토 확장 가속... 패션 매장 열고 AR 쇼핑도 선봬]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8916</id>
@@ -207,12 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-8887"/>
         <updated>2022-06-08T23:19:09.267Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갤러리엑스, 'NEXT WEB3.0 FORUM 2022' 개최... 머스크 모친 메이 머스크와 음악, 패션업계 글로벌 리더 한자리]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8888</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8888"/>
-        <updated>2022-06-08T11:15:12.770Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
