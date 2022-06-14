@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 11:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 12:35:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,18 +308,18 @@
             <content:encoded><![CDATA[노호락]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[매출가지고 징징거리는 대표 (가격전쟁) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39104</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39104</guid>
-            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[귀여운나름이]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[아버지 회사에서 일하고 있는 1년차 마케터 입니다. .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57848</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57848</guid>
             <pubDate>Wed, 25 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[marineE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[매출가지고 징징거리는 대표 (가격전쟁) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39104</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39104</guid>
+            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[귀여운나름이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[매체별 광고 가이드 - 페이스북, 인스타그램, 네이버 .. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[특정 기간 내 공통된 특성이나 경험을 갖는 사용자 집단을 분석하기 위한 통계적 수법을 뜻하는 용어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 14 Jun 2022 11:19:08 GMT</pubDate>
+            <pubDate>Tue, 14 Jun 2022 12:35:35 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->특정 기간 내 공통된 특성이나 경험을 갖는 사용자 집단을 분석하기 위한 통계적 수법을 뜻하는 용어는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
