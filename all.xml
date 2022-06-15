@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 23:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 01:43:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -154,13 +154,6 @@
             <content:encoded><![CDATA[레미니센스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오톡의 대변신 예고 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57753</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57753</guid>
-            <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[디자이너 없이 이미지 만들고 칼퇴하는 꿀팁 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57912</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57912</guid>
@@ -217,18 +210,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[곰곰히 생각해보면 제가 여태 남들 돈만 벌어줬네요 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39129</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39129</guid>
-            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[초보 팀장을 위한 튜토리얼 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-5637-45</link>
             <guid>https://www.i-boss.co.kr/ab-5637-45</guid>
             <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[곰곰히 생각해보면 제가 여태 남들 돈만 벌어줬네요 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39129</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39129</guid>
+            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이것만 알면 기본은 하는 카드뉴스 디자인! 2탄! (아이보스 ─ 인기글)]]></title>
@@ -245,13 +238,6 @@
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뜨고 있는 근무 트렌드, 워케이션 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57755</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57755</guid>
-            <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 고독하지 않은 마케터 단톡방 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39196</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39196</guid>
@@ -266,18 +252,18 @@
             <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터들이 모으고 있는 마케팅 정보 모음 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57930</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57930</guid>
-            <pubDate>Wed, 08 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[덕구네집]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[제발 제발 페이스북의 본질을 알고 마케팅해주세요. .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57960</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57960</guid>
             <pubDate>Sun, 12 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케터들이 모으고 있는 마케팅 정보 모음 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57930</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57930</guid>
+            <pubDate>Wed, 08 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[덕구네집]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[요즘 뜨는 통신사의 문자커머스 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +334,60 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-39229</guid>
             <pubDate>Fri, 10 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[Qfriend]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[데이터스튜디오 템플릿 선착순 6명 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39150</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39150</guid>
+            <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[규S]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[억만 장자가 매일 실행하는 To Do List (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57838</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57838</guid>
+            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[yoorok]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[애피어, 대화형 마케팅 솔루션 봇보니로 BMW 대만 소셜 미디어 참여 4배 향상 이끌어 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8923</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8923</guid>
+            <pubDate>Wed, 15 Jun 2022 10:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 기반 서비스형 소프트웨어 기업(Saas) 애피어는 자사 대화형 마케팅 솔루션 봇보니(BotBonnie)를 활용해 2022년 설날 연휴 BMW 대만과 메타(Meta)의 신규 기능 반복 알림(Recurring Notifications)을 활용해 소셜미디어 캠페인을 진 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[11번가, 라방 효과 톡톡... 화장품 매출 평균 6배 증가 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8922</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8922</guid>
+            <pubDate>Wed, 15 Jun 2022 10:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[11번가(대표 하형일)가 올해 새롭게 시도한 라이브방송 `LIVE11`의 뷰티 콘텐츠 `뷰티클`(뷰티 클래스)이 6배 가까이 뷰티 브랜드 매출 증대를 이끌며 성과를 내고 있다고 15일 밝혔다.  2월 출시 후 5월까지 누적 4개월간 총 2만여 명 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_ac3b94e57270ba3630e7b3c2bc116856_91427_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제일기획, 스마스(SMATh)와 손잡고 NFT 비즈니스 강화 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8921</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8921</guid>
+            <pubDate>Wed, 15 Jun 2022 09:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[제일기획이 NFT 전문 아티스트 그룹인 스마스(SMATh)와 NFT 기반의 IP 사업 경쟁력 강화를 위한 업무 협약(MOU)을 체결했다. 스마스는 한국, 미국, 독일 등 국내외에서 3D디자인, 무대미술, 파인 아트, 일러스트 등 다양하게 작품 활동 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[제 33차 아시아광고대회 엠블럼 공개... 대회 최초로 개최국 문자를 활용해 한글로 제작 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8920</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8920</guid>
+            <pubDate>Wed, 15 Jun 2022 08:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[아시아광고대회 조직위원회(위원장 김낙회, 이하 조직위)는 2023년 10월 개최 예정인 제 33차 아시아광고대회(영문 행사명, AdAsia 2023 Seoul)의 대회 엠블럼을 공개하고 본격적인 대회 준비에 들어간다고 15일 밝혔다. 조직위가 공개 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 지역 광고시장 활성화 및 경쟁력 강화를 위해 노력하겠습니다 김호영 부산광고산업협회 이사장 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8919</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8919</guid>
+            <pubDate>Wed, 15 Jun 2022 08:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 이사장님 소개 부탁드립니다.  안녕하세요.저는 현재 사단법인 부산광고산업협회 제4대 이사장을 맡고 있는 주식회사 클루엔터테인먼트 대표이사 김호영입니다.저는 1999년부터 광고제작사 및 광고회사를 운영하고 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[6월 15일 마케팅 뉴스클리핑] 당근마켓, 주간 이용자 1200만 돌파 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -550,50 +590,45 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_59afb6e1238abc1f081029b2e82534b6_74956_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[선형 TV 광고 점유율은 지속적으로 줄어들고 있다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8894</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8894</guid>
-            <pubDate>Fri, 10 Jun 2022 07:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[이마케터에 따르면, 올해미국 비디오 광고비의 57%가 선형 TV에서 사용될 것으로 보인다.2020년 71%, 2021년 62% 등 지속적으로 선형 TV의 광고 점유율이 줄어들고 있다. 이에 비해, CTV와 소셜 비디오와 같은 다른 디지털 포맷에 대한  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[애피어, 대화형 마케팅 솔루션 ‘봇보니’로 BMW 대만 소셜 미디어 참여 4배 향상 이끌어 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8923</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8923</guid>
+            <pubDate>Wed, 15 Jun 2022 01:42:52 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[100여 년 전 일제강점기 한국의 의료광고는 어땠을까? (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8893</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8893</guid>
-            <pubDate>Thu, 09 Jun 2022 09:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[지난6월 3일, 이화여자대학교 커뮤니케이션 미디어 연구소와 한국헬스커뮤니케이션학회는 `의료커뮤니케이션 관점에서 바라본 식민지 의약품 광고와 신체정치의 심리학` 이라는 주제로 공동세미나를 개최했다. 유승철 교수(이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[11번가, '라방' 효과 톡톡... 화장품 매출 평균 6배 증가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8922</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8922</guid>
+            <pubDate>Wed, 15 Jun 2022 01:42:52 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인스타그램, 프로필에 게시물 고정 기능 정식 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8891</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8891</guid>
-            <pubDate>Thu, 09 Jun 2022 10:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[인스타그램이 프로필에서 게시물을 고정할 수 있는 기능을 모든 이용자를 대상으로 정식 출시했다.  아담 모세리 인스타그램 대표는 7일(현지시간) 자신의 트위터에서 게시물 고정(Grid Pinning)을 선보인다고 밝혔다. 회사는 지난 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_16547391658602.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[제일기획, 스마스(SMATh)와 손잡고 NFT 비즈니스 강화 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8921</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8921</guid>
+            <pubDate>Wed, 15 Jun 2022 01:42:52 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제일기획 BOUNCE(바운스)팀, NFT 퍼포먼스  라이브 커머스  캠페인 대시보드로 고객사 비즈니스 전천후 지원 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8890</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8890</guid>
-            <pubDate>Thu, 09 Jun 2022 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[제일기획이 고객사의 비즈니스 성장에 기여하는 퍼포먼스 마케팅을 강화한다. 최근 국내외 기업들이 제품 판매나 거래 증가에 실질적으로 기여하는 마케팅에 대한 니즈가 높아짐에 따라, 제일기획은 데이터 등을 기반으로 광 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[제 33차 아시아광고대회 엠블럼 공개... 대회 최초로 개최국 문자를 활용해 한글로 제작 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8920</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8920</guid>
+            <pubDate>Wed, 15 Jun 2022 01:42:52 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[K-AD] 천편일률적인 대학교 라디오 광고 속에 진짜 쎈~ 대학교 광고가 나타났다! (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8889</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8889</guid>
-            <pubDate>Thu, 09 Jun 2022 08:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2022년 3월, 세명대학교에서는 권동현 부총장이 총장에 취임하면서 젊은 총장 다운 색다르고 이색적인 포부를 내비쳤다. 세명대학교가 세상에 보내는 10개의 부호가 바로 그것! 대학교라면 어디나 해당되는 학문의 영역을  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[인터뷰] "지역 광고시장 활성화 및 경쟁력 강화를 위해 노력하겠습니다" 김호영 부산광고산업협회 이사장 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8919</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8919</guid>
+            <pubDate>Wed, 15 Jun 2022 01:42:52 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[6월 15일 마케팅 뉴스클리핑] 당근마켓, 주간 이용자 1200만 돌파 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8917</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8917</guid>
-            <pubDate>Tue, 14 Jun 2022 23:17:51 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -765,45 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[선형 TV 광고 점유율은 지속적으로 줄어들고 있다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8894</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8894</guid>
-            <pubDate>Fri, 10 Jun 2022 07:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[100여 년 전 일제강점기 한국의 의료광고는 어땠을까? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8893</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8893</guid>
-            <pubDate>Thu, 09 Jun 2022 09:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인스타그램, '프로필에 게시물 고정' 기능 정식 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8891</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8891</guid>
-            <pubDate>Thu, 09 Jun 2022 10:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제일기획 ‘BOUNCE(바운스)팀’, NFT 퍼포먼스 · 라이브 커머스 · 캠페인 대시보드로 고객사 비즈니스 전천후 지원 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8890</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8890</guid>
-            <pubDate>Thu, 09 Jun 2022 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[K-AD] 천편일률적인 대학교 라디오 광고 속에 진짜 쎈~ 대학교 광고가 나타났다! (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8889</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8889</guid>
-            <pubDate>Thu, 09 Jun 2022 08:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[최근 운동하면서 돈을 버는 ‘이 서비스’들이 네이버·컴투스 등 핀테크 기업의 주목을 받고 있습니다. 일상에서의 움직임만으로 재화를 얻을 수 있어 접근성이 높아 많은 사람들의 호응을 얻고 있는 ‘이 서비스’는 무엇일까요?(hint: 지난 6/8 뉴스클리핑에서 소개해드렸어요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 14 Jun 2022 23:18:01 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2022 01:43:03 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 운동하면서 돈을 버는 ‘이 서비스’들이 네이버·컴투스 등 핀테크 기업의 주목을 받고 있습니다. 일상에서의 움직임만으로 재화를 얻을 수 있어 접근성이 높아 많은 사람들의 호응을 얻고 있는 ‘이 서비스’는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8878" target="_blank">지난 6/8 뉴스클리핑에서 소개해드렸어요!</a>)</span></td>
 			</tr>
@@ -811,6 +811,41 @@
 				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1442_1" value="1" class="AB-radio" id="PQ_BD5826_1442_1_0"><label for="PQ_BD5826_1442_1_0" id="label_PQ_BD5826_1442_1_0">(A) R2E</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1442_1" value="2" class="AB-radio" id="PQ_BD5826_1442_1_1"><label for="PQ_BD5826_1442_1_1" id="label_PQ_BD5826_1442_1_1">(B) M2E</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1442_1" value="3" class="AB-radio" id="PQ_BD5826_1442_1_2"><label for="PQ_BD5826_1442_1_2" id="label_PQ_BD5826_1442_1_2">(C) S2E</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1442_1" value="4" class="AB-radio" id="PQ_BD5826_1442_1_3"><label for="PQ_BD5826_1442_1_3" id="label_PQ_BD5826_1442_1_3">(D) P2E</label></td></tr></tbody></table></td>
 			</tr>
 		</tbody>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6월 30일부터 '손실보상금' 신청·지급 시작...특고는 13일부터 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
+            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=320</link>
+            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=320</guid>
+            <pubDate>Wed, 15 Jun 2022 01:43:12 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 방역조치로 피해를 본 소상공인과 연매출 30억원 이하 중소기업을 대상으로 하는 2022년 1분기 손실보상금 신청·지급이 이달 30일부터 시작된다.<br><br>손실보상금은 소상공인지원법(손실보상법)에 따라 방역조치 이행에 따른 손실금을 분기별로 지급하는 것으로, 지난달 30일부터 지급 중인 일회성 지원금인 '손실보전금'과는 별도다. <br><br>지원 대상은 올해 1월1일~3월31일까지 집합금지, 영업시간 제한, 시설 인원제한 조치로 피해를 입은 소상공인, 중소기업 등이다. 중소기업은 연매출액 30억원 이하여야 보상금을 받을 수 있다. 보정률은 100%로 상향, 하한액도 50만에서100만원으로 인상됐다.<br><br>이번 보상기준은 지난 5월 29일 국회에서 통과된 2022년 제2회 추경 예산 결과를 반영한 것으로, 그간 코로나19 방역조치로 누적된 손실을 온전히 보상하기 위해 보상수준도 강화했다.<br><br>중기부는 심의 결과를 바탕으로 ‘2022년 1분기 손실보상 기준 등에 관한 고시’를 행정예고할 예정이며, 손실보상금 사전산정․검증, 시스템 구축 등 집행 준비가 최종 완료되는 6월 30일부터 신속보상 신청·지급을 개시할 계획이다.<br><br>지난 1~3월 손실보상 선지급을 받은 경우, 2021년 4분기 보상금에서 공제하고 남은 선지급금은 2022년 1분기 보상금에서 추가 공제된다. <br><br>지난 2개 분기 손실보상금 정산 결과, 과세자료 오류 및 수정신고․방역조치 위반 등으로 보상금액이 변경된 사업자의 경우 차액을 추가지급하거나 상계한다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[중기부 '소상공인 쇼케이스 데이' 개최...유망 소상공인 발굴 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
+            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=319</link>
+            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=319</guid>
+            <pubDate>Wed, 15 Jun 2022 01:43:12 GMT</pubDate>
+            <content:encoded><![CDATA[중소벤처기업부는 소상공인시장진흥공단, 중소상공인희망재단과 함께 '소상공인 쇼케이스 데이'를 열고, 전국 유망 소상공인을 발굴한다고 31일 밝혔다.<br><br>'쇼케이스 데이'는 우수 제품이나 혁신적인 아이디어를 보유한 소상공인을 대상으로 제품홍보와 투자유치 기회를 제공해 기업가형 소상공인으로 육성하기 위한 국내 최초 소상공인 투자유치 피칭 대회다.<br><br>행사는 예선(서류평가), 본선(발표평가), 최종 결선리그로 이루어진다. 결선 진출팀에는 약 2개월간 '4-STEP 성장 패키지 프로그램(사업모델, 발표스킬, 브랜딩, 네트워킹)'을 제공해 투자유치 역량강화를 지원한다. 결선리그에서는 투자 기업설명회(IR) 발표를 비롯해 제품전시, 라이브커머스, 투자자와 네트워킹 등 행사가 동시 개최된다. 우수팀에는 총 3000만원 상당의 상금과 소진공 및 희망재단 지원사업 참여기회 등의 혜택을 제공한다.<br><br>특히 올해는 네이버, 와이앤아처가 쇼케이스데이에 참여해 우수기업 대상으로 투자상담 등을 진행할 예정이며, 글로벌 스타트업 콘퍼런스 'A-STREAM' 출전도 지원할 예정이다. 지난해에는 코로나 상황에도 불구하고 총 163개 업체가 예선에 참여, 9개 업체가 결선에 올라 18대 1의 높은 경쟁률을 보였다. 신청자격은 중기부 신사업창업사관학교 졸업생, 생활혁신형지원사업 수혜자, 역량강화 사업 수혜자 및 창업 5년 이내의 일반 소상공인이다.<br><br>박치형 중기부 소상공인정책관은 “소상공인만의 창의적 제품과 서비스 가치가 그동안 코로나로 인해 가려졌다”며 “IR 피칭을 통해 소상공인 아이디어를 발굴하고, 투자유치 기회를 제공해 유니콘 기업이 될 수 있다는 자긍심을 불어 넣겠다”고 말했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정부 '소상공인 풍수해공제' 혜택 강화, 보험료 최대 92% 지원 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
+            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=318</link>
+            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=318</guid>
+            <pubDate>Wed, 15 Jun 2022 01:43:12 GMT</pubDate>
+            <content:encoded><![CDATA[중소기업중앙회는 본격적인 여름철을 앞두고 지진, 태풍, 홍수 등 자연재해로부터 소상공인의 사업장을 안전하게 보호하기 위한 '소상공인 풍수해공제' 가입자 혜택을 강화했다고 밝혔다.<br><br>소상공인 풍수해공제는 중기중앙회가 행정안전부, KB손해보험과 손잡고 2020년 7월 출시해 운영중이다. 소상공인의 상가, 공장 등 사업장 건물뿐 만 아니라 각종 시설, 기계, 재고자산에 대해 풍수해로 인한 실제 손해를 가입한도 내 실손 보상한다.<br><br>정부와 지자체에서 보험료를 지원(보험료의 70~92%)해주는 정책 보험 상품으로 타 보험사 동일상품보다 더 저렴한 보험료로 같은 보장을 받을 수 있다. 모바일로 가입해 보험료를 간편하게 계산하는 방법도 있다. <br><br>특히 올해부터는 중기중앙회가 운영하는 노란우산(소기업소상공인공제)에 3개월 이상 가입한 고객이 풍수해공제에 가입시 추가로 보험료 2만원을 할인해주는 혜택이 추가됐다.<br><br>풍수해공제 관련 문의는 유선전화를 통해 가능하며 중기중앙회 파란우산공제 홈페이지에서 자세한 소식을 확인할 수 있다.<br><br>박용만 중기중앙회 공제사업본부장은 "중기중앙회는 2013년부터 화재공제 등 다양한 손해공제 상품을 운영해 왔고, 2020년부터 소상공인 풍수해공제를 출시해 운영하고 있다"며 "이런 다양한 경험을 바탕으로 앞으로도 정부, 민간보험사와 협력해 중소기업이 경영현장에서 직면하는 각종 위험에 대비할 수 있도록 손해공제 상품을 개발해 나가겠다"고 말했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[알바생과 사장님 모두 주목 '여름 알바 채용관' 오픈, 인기 알바 한눈에 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
+            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=317</link>
+            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=317</guid>
+            <pubDate>Wed, 15 Jun 2022 01:43:12 GMT</pubDate>
+            <content:encoded><![CDATA[아르바이트 플랫폼 알바몬이 여름철 아르바이트를 찾는 구직자를 위한 '여름 알바·여름 방학 관공서 알바 채용관'을 오픈했다.<br><br>여름 알바 채용관은 여름 시즌에 특화된 업직종에 해당하는 인기 여름 알바 공고를 한 곳에 모아 제공한다. 현재 알바몬 여름 알바 채용관에서는 ▲아이스크림/디저트 ▲워터파크 ▲호텔/리조트/숙박 ▲이벤트/행사 ▲사무보조 총 5개의 여름철 인기 업종 카테고리에서 5400여개 이상의 여름 알바 공고를 확인할 수 있다.<br><br>채용관 상단 탭을 통해 근무지역과 근무 기간, 성별 등 세부항목 설정도 가능해 맞춤형 여름 일자리를 찾을 수 있다. 알바 공고 외에도 알바경험담, 알바후기 등 정보들도 확인 가능하다. 여름 알바 채용관은 8월 말까지 운영하며, 인기 여름 알바 정보가 상시 업데이트 될 예정이다. <br><br>여름방학 관공서 알바 채용관도 오픈했다. 이곳에서는 각 관공서 아르바이트 공고를 지역별로 분류하고 ▲접수시작일 ▲접수마감일 ▲대상자발표일 등 채용 공고별 세부일정 등을 한 눈에 보기 쉽게 제공한다. 채용공고 클릭 시 세부 근무조건을 볼 수 있고, '공고 접수 바로가기'를 누르면 해당 관공서의 채용 공고로 즉시 연결된다.<br><br>알바몬 관계자는 "이달 말까지 전국 주요 관공서 아르바이트 채용 정보를 꾸준히 업데이트할 계획"이라며 "알바몬의 알바 채용관은 알바몬 홈페이지와 모바일 알바몬 앱에서 이용할 수 있다"고 말했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[배달앱·환경부, 친환경 문화 위해 '친환경 경영' 노하우 전수 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
+            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=316</link>
+            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=316</guid>
+            <pubDate>Wed, 15 Jun 2022 01:43:12 GMT</pubDate>
+            <content:encoded><![CDATA[배달의민족 운영사 우아한형제들은 오는 7월 7~8일 이틀간 사장님을 위한 친환경 실천 교육 프로그램 '그린클래스'를 유튜브 라이브 방송으로 진행한다.<br><br>올해 '그린클래스'는 환경부와 국제 자연보전기관 WWF(세계자연기금)가 참여해 외식업과 관련한 국내외 환경정책 및 트렌드를 중심으로 진행된다. 환경부는 빨대, 종이컵 등 매장 내 1회용품 사용 및 규제에 대한 가이드라인을 알기 쉽게 전달할 예정이며, WWF는 지속가능한 외식업계의 글로벌 동향과 소비자 트렌드를 소개한다.<br><br>사장님들이 실제 가게를 운영하면서 실천할 수 있는 친환경 활동 사례와 방법도 공유한다. 22년차 '쓰레기 박사'로 유명한 홍수열 자원순환사회경제연구소 소장은 '3R (Reduce, Reuse, Recycle : 줄이고, 다시 쓰고, 재활용)'의 방법을 통해 가게에서 쉽게 적용할 수 있는 친환경 식당운영 꿀팁을 전수한다.<br><br>이와 함께 제로웨이스트 카페로 유명한 '얼스어스', 버려지는 못난이 야채들로 음식을 만드는 '소일', 에코백 반납 시스템을 적용한 '마마플레이트' 등 실제 그린경영을 실천하고 있는 사장님들이 직접 경험담을 나누는 시간도 마련돼 있다. 기후위기 전문 미디어 '뉴스펭귄'은 친환경 포장, 비건(채식) 메뉴 옵션 등이 소비자의 식당 선택에 미치는 영향을 다양한 데이터를 통해 소개한다. <br><br>이번 '그린클래스'는 7월 4일(월)까지 배민사장님광장 홈페이지를 통해 누구나 신청할 수 있다. 평소 궁금했던 환경 관련 이슈나, 친환경 가게 운영과 관련된 질문을 등록할 수 있으며 주요 질문들은 추후 프로그램 도중 답변을 전달할 예정이다. 신청자 가운데 추첨을 통해 친환경 전기 자전거와 음식물 쓰레기 처리기, ‘가게에서 실천할 수 있는 3R 포스터’ 및 친환경 비누 등을 증정한다.<br><br>권용규 우아한형제들 가치경영실 실장은 "친환경의 필요성과 중요성에는 공감하면서도, 막상 방법을 잘 몰라 식당 운영에 적용하기 어려워하시는 사장님들이 많다"면서 "배민은 앞으로도 사장님들이 가게 운영에서 친환경을 잘 실천할 수 있도록 유용한 정보와 꿀팁을 제공하고 다양한 캠페인을 진행할 것"이라고 말했다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인·자영업자 대출 연장·상환유예 9월 종료...금융당국 대비 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
@@ -846,41 +881,6 @@
             <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=311</guid>
             <pubDate>Thu, 02 Jun 2022 01:45:25 GMT</pubDate>
             <content:encoded><![CDATA[식품의약품안전처는 6월 3일까지 17개 지방자치단체와 족발·보쌈 배달음식점의 위생관리 실태를 집중 점검한다고 밝혔다.<br><br>이는 코로나19로 배달음식 규모가 2020년 17조3,42억원(전년대비 78.1% 증가)에서 2021년 25조6783억원(48.1% 증가)으로 급증하며 위생·안전관리 문제가 대두된 데 따른 것이다.<br><br>식약처는 지난해부터 다소비 품목 배달음식점을 대상으로 점검해오고 있으며 올해는 1분기 중화요리에 이어 2분기 족발·보쌈 배달음식점을 대상으로 실시한다.<br><br>점검대상은 족발·보쌈을 취급하는 배달음식점 중 최근 2년간 점검이력이 없거나 행정처분 이력이 있는 업소 등 약 3200곳이다.<br><br>식약처는 위생 취급 기준 준수, 유통기한 경과 제품 보관·사용, 조리장 내부 방충·방서 시설 기준, 음식 재사용 여부 등을 집중 점검할 예정이다. 또 조리된 음식을 수거해 살모넬라, 장출혈성 대장균, 리스테리아 모노사이토제네스 등 식중독균 항목에 대한 검사도 병행한다.<br><br>특히 배달음식의 이물혼입 방지를 위해 위생모 착용 등 개인위생 준수여부, 조리장 내부 방충·방서 관련 시설기준 준수여부를 집중 점검한다.<br><br>식약처는 지난해부터 올해 1분기까지 배달음식점 1만8410곳을 집중 점검한 결과, 식품위생법 위반으로 177곳을 적발한 바 있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['코로나 폐업' 소상공인 3천명에 선착순 지원금 300만원 지원 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=309</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=309</guid>
-            <pubDate>Wed, 25 May 2022 23:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[서울시는 코로나19 장기화로 부득이하게 가게 문을 닫은 소상공인들에게 재기의 발판을 놓아주기 위한 취지로 폐업한 소상공인 3천명에게 선착순으로 지원금 300만원씩을 지원한다고 밝혔다. <br><br>지원 대상은 지난해 1월 1일부터 오는 6월 30일까지 기간 중 폐업했거나 폐업 예정인 서울 소재 점포형 소상공인들이다. 신청일 기준 영업일이 6개월 미만인 사업자와 과거 서울시 자영업지원센터 비용지원 사업 등의 혜택을 받은 사업자, 유흥주점업 등 사치·향락 업종 사업자, 자가에서 사업을 운영한 사업자 등은 지원 대상이 아니다.<br><br>희망자는 오는 27일부터 ‘사업정리 및 재기 지원사업’ 누리집에서 지원금을 신청할 수 있다. 사업자등록증 사본, 폐업사실증명원, 사업장 임대차계약서 사본, 폐업 전년도 부가가치세 과세표준증명원 등을 제출해야 한다. <br><br>자세한 신청 방법은 서울시 자영업지원센터 누리집이나 서울신용보증재단 콜센터(1577-6119)를 통해 확인하면 된다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정부 ‘소상공인 손실보상’ 사기문자·전화 각별한 주의 당부 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=308</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=308</guid>
-            <pubDate>Wed, 25 May 2022 23:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 최근 기승을 부리는 소상공인 손실보상금 관련 사기문자, 전화에 대한 경계를 당부했다. <br><br>중소벤처기업부와 과학기술정보통신부, 경찰청은 소상공인 손실보상·손실보전금 지급 등과 관련한 사기 문자와 전화가 극성을 부리고 있다면서 소상공인·자영업자에게 각별한 주의를 당부했다.<br><br>정부에 따르면 최근 지원금 지급을 명목으로 전화상담을 유도하거나 손실보상 신청 결과를 안내하겠다면서 사이트 접속을 요구하는 사기 사례가 증가하고 있다.<br><br>그러나 최근 정부가 발표한 추가경정예산(추경)안 편성에 따른 소상공인 손실보상·소실보전금 지급은 아직 시행되지 않고 있다. 추경안은 현재 국회에 넘어간 있는 상태로, 정부는 추경안이 국회를 통과하면 별도 홈페이지를 개설해 지원 신청을 받는다.<br><br>정부는 사기문자·전화 번호는 즉각 이용 중지 조치하고, 문자 발송자·발송업체에 대한 수사를 강화하기로 했다.<br><br>일부 기업에서도 소상공인 사이버 금융 범죄 피해를 줄이기 위한 이벤트를 진행 중이다. <br><br>KT잘나가게는 한화손해보험과 협업해 사이버 금융 범죄 피해보상을 위한 무료 보험 제공 이벤트를 실시하고 있다. 지원대상은 KT잘나가게 회원 중 보험 가입을 희망하는 누구나 해당하며 가입 혜택은 ‘사이버금융범죄(피싱, 파밍, 스미싱, 메모리해킹)’ 전반이다. 보상 한도는 500만원이다. <br><br>가입 상품은 ‘한화단체상해보험(사이버금융범죄보상특별약관)’이다. 어려운 보험가입 절차없이 간단한 인증만으로 신청이 가능하다. 지원기간은 6월 30일까지이며 보험기간은 가입일로부터 8개월이다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소상공인 400명에 종합검진...부산 '전국 최대' 규모 지원 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=307</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=307</guid>
-            <pubDate>Wed, 25 May 2022 23:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[부산시가 코로나19로 고통을 겪어온 지역 소상공인의 복지증진을 위해 종합건강검진 비용을 지원하는 등 소상공인 건강지킴이 시책을 전국 최대 규모로 시행한다.<br><br>이번 지원 사업은 지난 지난 2018년, 부산시가 전국에서 최초로 시행한 '소상공인 행복복지 지원사업'의 일환으로 생업에 종사하느라 건강검진 시기를 놓치기 쉬운 소상공인이 많다는 점에 착안해 추진됐다. 지원 대상은 부산시에 2년 이상 사업장을 유지 중인 만 19세 이상 소상공인이다.<br><br>신청은 19일부터 선착순으로 부산시 소상공인종합지원센터 누리집(busanhopecenter.or.kr)을 통해 진행한다. 연내 미검진으로 인한 취소 사례를 감안해 사업기간은 예산 소진 때까지 하기로 했다. 검진 희망자는 신청서와 사업자등록증, 소상공인확인서 등 구비서류를 첨부해 온라인으로 신청하면 된다. 유흥·향락·사치·국민보건을 해치는 업종은 제외된다.<br><br>올해 지원 인원은 총 400명으로 천국 최대 규모이다. 대상자로 선정되면, 협약병원에서 25만원 상당의 종합건강검진을 받을 수 있다.<br><br>특히 올해는 검진 후 개별적으로 비용을 청구해야 하는 번거로움을 해소하고, 질 높은 검진 서비스를 제공하기 위해 기존 14곳이던 협약병원을 18곳으로 확대했다. 소상공인의 접근성을 높이기 위해 16개 구·군 전역에 골고루 배치했다.<br><br>신청에 관한 자세한 사항은 부산경제진흥원 또는 부산광역시 소상공인종합지원센터 누리집 공고문을 참고하거나, 부산경제진흥원으로 문의하면 된다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[편의점 업계, 자사 앱 활성화로 '손목상권' 공략 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=306</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=306</guid>
-            <pubDate>Wed, 25 May 2022 23:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[편의점 업계가 자사 애플리케이션(앱) 활성화에 적극 나서는 분위기다. 기존에 현장성으로 승부했다면 현재 온라인 플랫폼 강화에도 노력을 아끼지 않고 있다. <br><br>편의점 CU가 멤버십 앱 '포켓CU'를 리빌딩 한 지 한 달 만에 앱의 하루 평균 신규 가입자 수가 전월 동기보다 2배 급증했다. 지난달 19일부터 이달 16일까지 CU 앱의 활성화 회원수는 310만명을 기록했다. 지난해 말 ‘포켓CU'의 활성화 회원 수가 250만명인 것을 감안하면 이는 5개월도 채 되지 않는 기간에 24%가 늘어난 수치다. <br><br>CU가 꼽는 앱 활성화 이유로는 예약구매와 재고 조회, 편PICK(편의점 픽업) 등 오프라인 점포에서 할 수 있는 서비스를 그대로 구현해냈기 때문이다. 앱 사용으로 인해 소비자가 원하는 상품을 찾아 점포를 수소문하거나 헛걸음을 하는 일이 사라진 것이다. <br><br>CU 관계자는 "사회적 거리두기 조치가 해제되면서 온라인보다 오프라인 수요가 점차 늘어나는 시점임에도 포켓CU를 이용하는 소비자가 지속해서 증가하고 있다는 점에 큰 의의가 있다"며 "포켓CU에 대한 투자와 개발을 지속할 것"이라고 말했다.<br><br>GS25는 지난 2020년 7월 런칭한 주류 스마트 오더 '와인25플러스'가 최근 누적 판매 200만병을 돌파했다. 이 시스템으로 소비자가 GS리테일의 '더팝' 앱으로 주류를 구매한 뒤 원하는 GS25 점포에서 찾아갈 수 있다. 매출 분석 결과 와인25플러스의 와인·위스키·리큐어 카테고리 매출액은 전체 GS25 오프라인 매장 매출의 40%에 육박하는 것으로 집계됐다.<br><br>이마트24 역시 GS25와 마찬가지로 앱을 통한 주류 구매에 적극적이다. 이마트24에 따르면 올해 초 예약구매를 통해 판매된 와인 '푸나무 쇼비뇽블랑'이 하루 최대 100병까지 판매된 바 있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서울시, 청년층 요식업 창업 돕는다 '청년쿡 비즈니스 센터' 개소 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=305</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=305</guid>
-            <pubDate>Wed, 25 May 2022 23:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[서울시는 요식업 창업을 꿈꾸는 청년들을 집중적으로 지원하는 '청년쿡 비즈니스센터'를 개소, 본격적인 운영에 들어간다고 밝혔다.<br><br>서울시에 따르면 ‘청년쿡 비즈니스센터’는 외식업 창업을 꿈꾸는 청년들을 위한 전용 보육 공간이다. 최신 트렌드에 맞는 이론 교육과 실전적인 조리 실습으로 외식 창업가를 육성하고자 설립했다.<br><br>센터는 청년 유동 인구가 많은 건대입구역 '건대맛의거리' 인근(광진구 자양동 227-17)에 연면적 259㎡ 규모로 조성됐다. 조리 실습을 위한 '오픈키친', 맛 테스팅 및 커뮤니티 공간, 창업보육공간, 촬영 스튜디오를 갖췄다.<br><br>시는 기존 외식 창업자 육성 지원사업과 차별화해 현장 체험으로 실전 경험을 쌓을 기회를 주고, 심층 역량을 갖출 수 있도록 지원하는 것이 특징이라고 설명했다. 여기에 우수 실습생에 대해서 본인이 창업을 희망하는 아이템과 유사한 업종에서 체험할 수 있도록 지원해 기존 외식 창업자 육성 지원사업과 차별화했다.<br><br>시는 지난달 '공유주방 배달창업'을 주제로 1기 청년 예비창업자 15명을 선발했으며, 이들을 대상으로 8월까지 약 4개월간 센터에서 교육을 진행한다.<br><br>서울시에 따르면 1기 참여자의 80%가 20대로, 일찍부터 외식업 창업에 뛰어든 청년이 많은 것으로 나타났다. 창업 희망 아이템도 양식, 퓨전, 세계(아시안·남미)음식 등으로 다양했다.<br><br>김철희 서울시 미래청년기획단장은 "타 업종보다 폐업률이 높은 외식업 분야에서 청년들이 성공하기 위해서는 체계적인 인큐베이팅이 필수"라며 "코로나19 이후 변화된 창업 환경 속에서 청년들이 시장 변화에 능동적으로 대응할 수 있도록 육성하겠다"고 말했다.]]></content:encoded>
         </item>
     </channel>
 </rss>
