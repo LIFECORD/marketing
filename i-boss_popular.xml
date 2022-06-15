@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-15T06:23:07.729Z</updated>
+    <updated>2022-06-15T07:18:34.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -32,13 +32,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-39080"/>
         <updated>2022-05-26T04:33:03.618Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마케터의 기본기 - 미디어믹스 마스터하기 2편]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57773</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57773"/>
-        <updated>2022-05-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[호랑이마케팅]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[14일차 마케터의 꿀팁]]></title>
@@ -207,6 +200,13 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57838"/>
         <updated>2022-05-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[yoorok]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소울리스좌 아마존송 유행이라는데 아시는 분?]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-39179</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-39179"/>
+        <updated>2022-06-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[마케팅꿈도리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고객 구매 결정을 가속화시키는 영향력 원칙 3단계]]></title>
