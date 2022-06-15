@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 01:43:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 03:41:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,18 +238,18 @@
             <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[브랜드와 인플루언서를 연결하는 네이버 `브랜드 커.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57944</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57944</guid>
+            <pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[마케팅밈] 고독하지 않은 마케터 단톡방 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39196</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39196</guid>
             <pubDate>Thu, 09 Jun 2022 07:43:47 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SNS광고마케터 자격증 결과 확인하셨나요? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39046</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39046</guid>
-            <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제발 제발 페이스북의 본질을 알고 마케팅해주세요. .. (아이보스 ─ 인기글)]]></title>
@@ -259,11 +259,11 @@
             <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터들이 모으고 있는 마케팅 정보 모음 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57930</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57930</guid>
-            <pubDate>Wed, 08 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[덕구네집]]></content:encoded>
+            <title><![CDATA[SNS광고마케터 자격증 결과 확인하셨나요? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39046</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39046</guid>
+            <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유리나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[요즘 뜨는 통신사의 문자커머스 (아이보스 ─ 인기글)]]></title>
@@ -273,11 +273,11 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[브랜드와 인플루언서를 연결하는 네이버 `브랜드 커.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57944</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57944</guid>
-            <pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
+            <title><![CDATA[마케터들이 모으고 있는 마케팅 정보 모음 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57930</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57930</guid>
+            <pubDate>Wed, 08 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[덕구네집]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보스님의 떨어진 매출을 잡아줄 `다시 팔리는 것들의.. (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57838</guid>
             <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[yoorok]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일과 삶 전반 공학적 사고 관심 늘며 코딩  데이터 분석 관련서 각광 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8924</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8924</guid>
+            <pubDate>Wed, 15 Jun 2022 10:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹 이후IT산업이 활황을 맞고 일상의 디지털 전환이 가속화되면서 일과 삶 전반의 문제 해결을 위한`공학적 사고`의 중요성이 날로 커지고 있다.취업이나 이직을 위한 코딩 테스트 참고서부터 코딩 및 데이터 분석 입문을  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[애피어, 대화형 마케팅 솔루션 봇보니로 BMW 대만 소셜 미디어 참여 4배 향상 이끌어 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,46 +590,45 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[6월 10일 마케팅 뉴스클리핑] 인스타그램, 프로필에 게시물 고정 기능 정식 출시 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8892</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8892</guid>
-            <pubDate>Fri, 10 Jun 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 인스타그램, `프로필에 게시물 고정` 기능 정식 출시  인스타그램이 프로필에서 게시물을 고정할 수 있는 기능을 모든 이용자를 대상으로 정식 출시했다. 인스타그램은 게시물 고정(Grid Pinning)을 선보인다고 밝혔다. 지난 4월 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_59afb6e1238abc1f081029b2e82534b6_74956_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[일과 삶 전반 '공학적 사고' 관심 늘며 코딩 · 데이터 분석 관련서 각광 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8924</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8924</guid>
+            <pubDate>Wed, 15 Jun 2022 03:40:59 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[애피어, 대화형 마케팅 솔루션 ‘봇보니’로 BMW 대만 소셜 미디어 참여 4배 향상 이끌어 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8923</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8923</guid>
-            <pubDate>Wed, 15 Jun 2022 01:42:52 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2022 10:12:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[11번가, '라방' 효과 톡톡... 화장품 매출 평균 6배 증가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8922</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8922</guid>
-            <pubDate>Wed, 15 Jun 2022 01:42:52 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2022 10:08:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제일기획, 스마스(SMATh)와 손잡고 NFT 비즈니스 강화 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8921</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8921</guid>
-            <pubDate>Wed, 15 Jun 2022 01:42:52 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2022 09:08:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제 33차 아시아광고대회 엠블럼 공개... 대회 최초로 개최국 문자를 활용해 한글로 제작 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8920</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8920</guid>
-            <pubDate>Wed, 15 Jun 2022 01:42:52 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2022 08:48:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] "지역 광고시장 활성화 및 경쟁력 강화를 위해 노력하겠습니다" 김호영 부산광고산업협회 이사장 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8919</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8919</guid>
-            <pubDate>Wed, 15 Jun 2022 01:42:52 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2022 08:47:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[6월 10일 마케팅 뉴스클리핑] 인스타그램, '프로필에 게시물 고정' 기능 정식 출시 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8892</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8892</guid>
-            <pubDate>Fri, 10 Jun 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[최근 운동하면서 돈을 버는 ‘이 서비스’들이 네이버·컴투스 등 핀테크 기업의 주목을 받고 있습니다. 일상에서의 움직임만으로 재화를 얻을 수 있어 접근성이 높아 많은 사람들의 호응을 얻고 있는 ‘이 서비스’는 무엇일까요?(hint: 지난 6/8 뉴스클리핑에서 소개해드렸어요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 15 Jun 2022 01:43:03 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2022 03:41:12 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 운동하면서 돈을 버는 ‘이 서비스’들이 네이버·컴투스 등 핀테크 기업의 주목을 받고 있습니다. 일상에서의 움직임만으로 재화를 얻을 수 있어 접근성이 높아 많은 사람들의 호응을 얻고 있는 ‘이 서비스’는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8878" target="_blank">지난 6/8 뉴스클리핑에서 소개해드렸어요!</a>)</span></td>
 			</tr>

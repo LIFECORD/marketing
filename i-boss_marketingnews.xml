@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 01:43:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 03:41:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일과 삶 전반 공학적 사고 관심 늘며 코딩  데이터 분석 관련서 각광]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8924</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8924</guid>
+            <pubDate>Wed, 15 Jun 2022 10:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹 이후IT산업이 활황을 맞고 일상의 디지털 전환이 가속화되면서 일과 삶 전반의 문제 해결을 위한`공학적 사고`의 중요성이 날로 커지고 있다.취업이나 이직을 위한 코딩 테스트 참고서부터 코딩 및 데이터 분석 입문을  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[애피어, 대화형 마케팅 솔루션 봇보니로 BMW 대만 소셜 미디어 참여 4배 향상 이끌어]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8923</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Jun 2022 08:07:00 GMT</pubDate>
             <content:encoded><![CDATA[배우 이보영이 JTBC 새 드라마 의 출연을 확정지으며, 치열한 광고업계를 장악한 광고퀸으로 돌아온다. 드라마 는 대기업 광고대행사 최초로 여성 임원이 된 고아인이 최초를 넘어 최고의 위치까지 자신의 커리어를 만들어가는  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[6월 10일 마케팅 뉴스클리핑] 인스타그램, 프로필에 게시물 고정 기능 정식 출시 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8892</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8892</guid>
-            <pubDate>Fri, 10 Jun 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 인스타그램, `프로필에 게시물 고정` 기능 정식 출시  인스타그램이 프로필에서 게시물을 고정할 수 있는 기능을 모든 이용자를 대상으로 정식 출시했다. 인스타그램은 게시물 고정(Grid Pinning)을 선보인다고 밝혔다. 지난 4월 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_59afb6e1238abc1f081029b2e82534b6_74956_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
