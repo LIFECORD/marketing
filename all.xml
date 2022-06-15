@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 04:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 06:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -259,13 +259,6 @@
             <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SNS광고마케터 자격증 결과 확인하셨나요? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39046</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39046</guid>
-            <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[유리나]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[요즘 뜨는 통신사의 문자커머스 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57817</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57817</guid>
@@ -347,6 +340,13 @@
             <link>https://www.i-boss.co.kr/ab-6141-57838</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57838</guid>
             <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[yoorok]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고객 구매 결정을 가속화시키는 영향력 원칙 3단계 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57778</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57778</guid>
+            <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[최근 운동하면서 돈을 버는 ‘이 서비스’들이 네이버·컴투스 등 핀테크 기업의 주목을 받고 있습니다. 일상에서의 움직임만으로 재화를 얻을 수 있어 접근성이 높아 많은 사람들의 호응을 얻고 있는 ‘이 서비스’는 무엇일까요?(hint: 지난 6/8 뉴스클리핑에서 소개해드렸어요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 15 Jun 2022 04:35:45 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2022 06:22:57 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 운동하면서 돈을 버는 ‘이 서비스’들이 네이버·컴투스 등 핀테크 기업의 주목을 받고 있습니다. 일상에서의 움직임만으로 재화를 얻을 수 있어 접근성이 높아 많은 사람들의 호응을 얻고 있는 ‘이 서비스’는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8878" target="_blank">지난 6/8 뉴스클리핑에서 소개해드렸어요!</a>)</span></td>
 			</tr>
