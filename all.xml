@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 07:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 09:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,18 +182,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[바보들은 한곳으로 모인다.  온라인 광고, 싸움닭 안.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57909</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57909</guid>
-            <pubDate>Mon, 06 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[baljunso]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[사수 없는 신입을 위한 실무 치트키 95개 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-3208-828</link>
             <guid>https://www.i-boss.co.kr/ab-3208-828</guid>
             <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김매니저]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[바보들은 한곳으로 모인다.  온라인 광고, 싸움닭 안.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57909</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57909</guid>
+            <pubDate>Mon, 06 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[baljunso]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[피그마, 마케터의 치트키가 될 수 있을까? (아이보스 ─ 인기글)]]></title>
@@ -210,13 +210,6 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[곰곰히 생각해보면 제가 여태 남들 돈만 벌어줬네요 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39129</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39129</guid>
-            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[이것만 알면 기본은 하는 카드뉴스 디자인! 2탄! (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57800</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57800</guid>
@@ -224,11 +217,11 @@
             <content:encoded><![CDATA[흥미진진]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[5.18 기념 특별한 폰트 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57792</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57792</guid>
-            <pubDate>Tue, 17 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[휴이언니]]></content:encoded>
+            <title><![CDATA[곰곰히 생각해보면 제가 여태 남들 돈만 벌어줬네요 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39129</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39129</guid>
+            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[브랜드와 인플루언서를 연결하는 네이버 `브랜드 커.. (아이보스 ─ 인기글)]]></title>
@@ -236,6 +229,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57944</guid>
             <pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5.18 기념 특별한 폰트 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57792</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57792</guid>
+            <pubDate>Tue, 17 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[휴이언니]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 고독하지 않은 마케터 단톡방 (아이보스 ─ 인기글)]]></title>
@@ -252,18 +252,18 @@
             <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[요즘 뜨는 통신사의 문자커머스 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57817</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57817</guid>
-            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마케터들이 모으고 있는 마케팅 정보 모음 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57930</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57930</guid>
             <pubDate>Wed, 08 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[덕구네집]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[요즘 뜨는 통신사의 문자커머스 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57817</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57817</guid>
+            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보스님의 떨어진 매출을 잡아줄 `다시 팔리는 것들의.. (아이보스 ─ 인기글)]]></title>
@@ -287,18 +287,18 @@
             <content:encoded><![CDATA[marineE]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[매출가지고 징징거리는 대표 (가격전쟁) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39104</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39104</guid>
-            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[귀여운나름이]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[매체별 광고 가이드 - 페이스북, 인스타그램, 네이버 .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57915</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57915</guid>
             <pubDate>Tue, 07 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[쏭쏘]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[매출가지고 징징거리는 대표 (가격전쟁) (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39104</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39104</guid>
+            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[귀여운나름이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사수없이 인하우스에서 살아나가는 분들에게 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57778</guid>
             <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[yoorok]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[물가 상승에 마감할인 플랫폼 인기 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8926</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8926</guid>
+            <pubDate>Wed, 15 Jun 2022 09:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[물가 급증하면서 저렴하게 마감 상품을 구할 수 있는 서비스 관심 라스트오더, 올해 초 대비 거래액 45%, 증가   지난 2일 앱 리테일 분석서비스 와이즈앱에서 발표한 코로나 거리두기 해제 후 앱 사용자 증가율 자료에 따르면 국 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d1f5e2f4008bf52700338088e1e6ddf1_23674_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일과 삶 전반 공학적 사고 관심 늘며 코딩  데이터 분석 관련서 각광 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_88daf57a3bbc90755b7324f9269ff212_50128_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이보영, 대기업 광고대행사 최초 여성 임원된다... JTBC 새 드라마 대행사(가제) 출연 확정 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8895</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8895</guid>
-            <pubDate>Fri, 10 Jun 2022 08:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이보영이 JTBC 새 드라마 의 출연을 확정지으며, 치열한 광고업계를 장악한 광고퀸으로 돌아온다. 드라마 는 대기업 광고대행사 최초로 여성 임원이 된 고아인이 최초를 넘어 최고의 위치까지 자신의 커리어를 만들어가는  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[물가 상승에 마감할인 플랫폼 인기 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8926</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8926</guid>
+            <pubDate>Wed, 15 Jun 2022 09:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일과 삶 전반 '공학적 사고' 관심 늘며 코딩 · 데이터 분석 관련서 각광 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이보영, 대기업 광고대행사 최초 여성 임원된다... JTBC 새 드라마 '대행사'(가제) 출연 확정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8895</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8895</guid>
-            <pubDate>Fri, 10 Jun 2022 08:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[최근 운동하면서 돈을 버는 ‘이 서비스’들이 네이버·컴투스 등 핀테크 기업의 주목을 받고 있습니다. 일상에서의 움직임만으로 재화를 얻을 수 있어 접근성이 높아 많은 사람들의 호응을 얻고 있는 ‘이 서비스’는 무엇일까요?(hint: 지난 6/8 뉴스클리핑에서 소개해드렸어요!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 15 Jun 2022 07:18:24 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2022 09:18:11 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 운동하면서 돈을 버는 ‘이 서비스’들이 네이버·컴투스 등 핀테크 기업의 주목을 받고 있습니다. 일상에서의 움직임만으로 재화를 얻을 수 있어 접근성이 높아 많은 사람들의 호응을 얻고 있는 ‘이 서비스’는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8878" target="_blank">지난 6/8 뉴스클리핑에서 소개해드렸어요!</a>)</span></td>
 			</tr>

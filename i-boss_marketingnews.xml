@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 07:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 09:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[물가 상승에 마감할인 플랫폼 인기]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8926</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8926</guid>
+            <pubDate>Wed, 15 Jun 2022 09:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[물가 급증하면서 저렴하게 마감 상품을 구할 수 있는 서비스 관심 라스트오더, 올해 초 대비 거래액 45%, 증가   지난 2일 앱 리테일 분석서비스 와이즈앱에서 발표한 코로나 거리두기 해제 후 앱 사용자 증가율 자료에 따르면 국 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d1f5e2f4008bf52700338088e1e6ddf1_23674_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일과 삶 전반 공학적 사고 관심 늘며 코딩  데이터 분석 관련서 각광]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8924</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Jun 2022 10:25:00 GMT</pubDate>
             <content:encoded><![CDATA[유통업계, 희소성 열광 2030 공략  백화점과 식품업체, 편의점 등 유통업계가 NFT(Non-Fungible Token대체 불가능 토큰) 마케팅을 잇따라 도입하고 있다.  예전에 주로 한정판 상품을 통한 마케팅을 펼쳤던 유통업계가 이를 NFT로 대체하 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_88daf57a3bbc90755b7324f9269ff212_50128_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이보영, 대기업 광고대행사 최초 여성 임원된다... JTBC 새 드라마 대행사(가제) 출연 확정]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8895</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8895</guid>
-            <pubDate>Fri, 10 Jun 2022 08:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이보영이 JTBC 새 드라마 의 출연을 확정지으며, 치열한 광고업계를 장악한 광고퀸으로 돌아온다. 드라마 는 대기업 광고대행사 최초로 여성 임원이 된 고아인이 최초를 넘어 최고의 위치까지 자신의 커리어를 만들어가는  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
