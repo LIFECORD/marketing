@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 08:31:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 09:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,18 +231,18 @@
             <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[브랜드와 인플루언서를 연결하는 네이버 `브랜드 커.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57944</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57944</guid>
-            <pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[성공을 만드는 3요소 '태도, 몰입, 행운' (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39257</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39257</guid>
             <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[디자인업]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[브랜드와 인플루언서를 연결하는 네이버 `브랜드 커.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57944</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57944</guid>
+            <pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[요즘 뜨는 통신사의 문자커머스 (아이보스 ─ 인기글)]]></title>
@@ -593,7 +593,7 @@
             <title><![CDATA[코바코, 1인 광고콘텐츠 창작자 양성 과정 "지역인재반" 및 "중급반" 수강생 모집 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8938</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8938</guid>
-            <pubDate>Thu, 16 Jun 2022 08:31:35 GMT</pubDate>
+            <pubDate>Thu, 16 Jun 2022 08:31:21 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 이미지에서 나타내고 있는 페이스북 광고 형식은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 16 Jun 2022 08:31:49 GMT</pubDate>
+            <pubDate>Thu, 16 Jun 2022 09:18:47 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 나타내고 있는 페이스북 광고 형식은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/ba64c035d6c251378512273387b35d17_16547641343002.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
