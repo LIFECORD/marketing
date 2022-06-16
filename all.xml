@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 01:40:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 03:25:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,6 +231,13 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[제발 제발 페이스북의 본질을 알고 마케팅해주세요. .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57960</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57960</guid>
+            <pubDate>Sun, 12 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[우뇌]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[5.18 기념 특별한 폰트 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57792</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57792</guid>
@@ -245,20 +252,6 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제발 제발 페이스북의 본질을 알고 마케팅해주세요. .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57960</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57960</guid>
-            <pubDate>Sun, 12 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[우뇌]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마케터들이 모으고 있는 마케팅 정보 모음 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57930</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57930</guid>
-            <pubDate>Wed, 08 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[덕구네집]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[요즘 뜨는 통신사의 문자커머스 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57817</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57817</guid>
@@ -271,6 +264,13 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-39257</guid>
             <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[디자인업]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케터들이 모으고 있는 마케팅 정보 모음 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57930</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57930</guid>
+            <pubDate>Wed, 08 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[덕구네집]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보스님의 떨어진 매출을 잡아줄 `다시 팔리는 것들의.. (아이보스 ─ 인기글)]]></title>
@@ -593,49 +593,49 @@
             <title><![CDATA[유튜브 쇼츠, 월간 이용자 15억 명 돌파 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8933</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8933</guid>
-            <pubDate>Thu, 16 Jun 2022 01:39:41 GMT</pubDate>
+            <pubDate>Thu, 16 Jun 2022 10:15:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 1~4월 국내 골프 클럽 시장 45% 성장한 2591억원 기록 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8932</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8932</guid>
-            <pubDate>Thu, 16 Jun 2022 01:39:41 GMT</pubDate>
+            <pubDate>Thu, 16 Jun 2022 09:44:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[애플, 칸타 브랜드Z 선정 ‘2022 글로벌 톱 100 브랜드’ 1위 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8931</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8931</guid>
-            <pubDate>Thu, 16 Jun 2022 01:39:41 GMT</pubDate>
+            <pubDate>Thu, 16 Jun 2022 09:34:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[브랜드 전략에 유머 활용이 필수... 오라클 설문조사 응답자 45%, “2년간 진정한 행복 느껴본 적 없어” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8930</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8930</guid>
-            <pubDate>Thu, 16 Jun 2022 01:39:41 GMT</pubDate>
+            <pubDate>Thu, 16 Jun 2022 09:26:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이노션, 광고업계 최초 ‘콘텐츠 보팅 플랫폼’ 비즈니스 론칭 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8929</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8929</guid>
-            <pubDate>Thu, 16 Jun 2022 01:39:41 GMT</pubDate>
+            <pubDate>Thu, 16 Jun 2022 09:25:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[Trend from Tokyo] 디지털 세렌디피티 (Digital Serendipity) (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8928</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8928</guid>
-            <pubDate>Thu, 16 Jun 2022 01:39:41 GMT</pubDate>
+            <pubDate>Thu, 16 Jun 2022 08:30:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[기업탐방] "마케터가 마케팅 퍼널 모든 단계에서 AI 솔루션을 지원하겠습니다" 애피어 코리아 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8927</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8927</guid>
-            <pubDate>Thu, 16 Jun 2022 01:39:41 GMT</pubDate>
+            <pubDate>Thu, 16 Jun 2022 08:29:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 이미지에서 나타내고 있는 페이스북 광고 형식은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 16 Jun 2022 01:39:53 GMT</pubDate>
+            <pubDate>Thu, 16 Jun 2022 03:25:12 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 나타내고 있는 페이스북 광고 형식은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/ba64c035d6c251378512273387b35d17_16547641343002.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
