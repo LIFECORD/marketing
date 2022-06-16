@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 07:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 08:31:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코바코, 1인 광고콘텐츠 창작자 양성 과정 지역인재반 및 중급반 수강생 모집]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8938</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8938</guid>
+            <pubDate>Thu, 16 Jun 2022 08:31:21 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송광고진흥공사(사장 이백만, 이하 코바코)는1인 광고콘텐츠 창작자 양성과정' "지역인재반" 및 "중급반"수강생을 7월 4일까지 모집한다.]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[디지털 환경에서의 고객 경험 개선은 데이터 분석부터 아이지에이웍스, CDP 활용 세미나 개최]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8936</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8908</guid>
             <pubDate>Mon, 13 Jun 2022 09:10:00 GMT</pubDate>
             <content:encoded><![CDATA[애드테크분야의글로벌리더이자프로그래매틱광고전문기업으로서전세계DSP시장을선도하고있는더트레이드데스크(The Trade Desk /나스닥: TTD)는오늘 아이치이가 유니파이드ID 2.0을 도입한다고 발표했다.아이치이(나스닥: IQ)는 시장 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[제니스, 2022년 글로벌 광고 시장 8% 성장 전망... 9.1%에서 하향 조정]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8907</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8907</guid>
-            <pubDate>Mon, 13 Jun 2022 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[퍼블리시스의 제니스는 2022년 세계 광고시장 전망을 2022년과 2023년 하향 조정하고 2024년 전망을 상향 조정했다. 제니스는 2022년 전 세계 광고비 성장률 전망치를 2021년 12월 9.1%에서 8.0%로 1.1%포인트 하향 조정했다.동계 올림픽,  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

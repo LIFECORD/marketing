@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 07:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 08:31:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -245,13 +245,6 @@
             <content:encoded><![CDATA[디자인업]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[5.18 기념 특별한 폰트 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57792</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57792</guid>
-            <pubDate>Tue, 17 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[휴이언니]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[요즘 뜨는 통신사의 문자커머스 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57817</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57817</guid>
@@ -348,6 +341,21 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-39179</guid>
             <pubDate>Sat, 04 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅꿈도리]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TV 광고도 관심사 기반 타기팅 광고한다 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57865</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57865</guid>
+            <pubDate>Mon, 30 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코바코, 1인 광고콘텐츠 창작자 양성 과정 지역인재반 및 중급반 수강생 모집 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8938</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8938</guid>
+            <pubDate>Thu, 16 Jun 2022 08:31:21 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송광고진흥공사(사장 이백만, 이하 코바코)는1인 광고콘텐츠 창작자 양성과정' "지역인재반" 및 "중급반"수강생을 7월 4일까지 모집한다.]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[디지털 환경에서의 고객 경험 개선은 데이터 분석부터 아이지에이웍스, CDP 활용 세미나 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,32 +590,31 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[제니스, 2022년 글로벌 광고 시장 8% 성장 전망... 9.1%에서 하향 조정 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8907</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8907</guid>
-            <pubDate>Mon, 13 Jun 2022 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[퍼블리시스의 제니스는 2022년 세계 광고시장 전망을 2022년과 2023년 하향 조정하고 2024년 전망을 상향 조정했다. 제니스는 2022년 전 세계 광고비 성장률 전망치를 2021년 12월 9.1%에서 8.0%로 1.1%포인트 하향 조정했다.동계 올림픽,  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[코바코, 1인 광고콘텐츠 창작자 양성 과정 "지역인재반" 및 "중급반" 수강생 모집 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8938</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8938</guid>
+            <pubDate>Thu, 16 Jun 2022 08:31:35 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["디지털 환경에서의 고객 경험 개선은 데이터 분석부터" 아이지에이웍스, CDP 활용 세미나 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8936</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8936</guid>
-            <pubDate>Thu, 16 Jun 2022 07:21:46 GMT</pubDate>
+            <pubDate>Thu, 16 Jun 2022 07:21:32 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[하바스, 클라이언트와 광고회사 간 관계 혁신이 시급하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8935</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8935</guid>
-            <pubDate>Thu, 16 Jun 2022 07:21:46 GMT</pubDate>
+            <pubDate>Thu, 16 Jun 2022 07:21:32 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아태지역 CFO 92%, 장소에 구애받지 않는 근무환경 선호 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8934</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8934</guid>
-            <pubDate>Thu, 16 Jun 2022 07:21:46 GMT</pubDate>
+            <pubDate>Thu, 16 Jun 2022 07:21:32 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제니스, 2022년 글로벌 광고 시장 8% 성장 전망... 9.1%에서 하향 조정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8907</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8907</guid>
-            <pubDate>Mon, 13 Jun 2022 08:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 이미지에서 나타내고 있는 페이스북 광고 형식은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 16 Jun 2022 07:22:00 GMT</pubDate>
+            <pubDate>Thu, 16 Jun 2022 08:31:49 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지에서 나타내고 있는 페이스북 광고 형식은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/ba64c035d6c251378512273387b35d17_16547641343002.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
