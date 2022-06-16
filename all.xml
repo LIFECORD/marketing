@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 21:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 23:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[6월 17일 마케팅 뉴스클리핑] 유튜브 쇼츠, 월간 이용자 15억 명 돌파 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8937</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8937</guid>
+            <pubDate>Fri, 17 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 유튜브 쇼츠, 월간 이용자 15억 명 돌파  유튜브 숏폼 콘텐츠 기능 쇼츠(Shorts)의 월간 활성 이용자 수(MAU)가 15억 명을 돌파했다. 틱톡은 5년 만에 MAU 10억을 확보한 것을 감안하면, 2020년 인도 베타 서비스로 시작, 지난해부터 글 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_08caa3343937701fff7b21bd5cf357fa_53556_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[코바코, 1인 광고콘텐츠 창작자 양성 과정 지역인재반 및 중급반 수강생 모집 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8938</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8938</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[OTT 분야 글로벌 리더 아이치이 (iQIYI), 유니파이드 ID 2.0 도입 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8908</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8908</guid>
-            <pubDate>Mon, 13 Jun 2022 09:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[애드테크분야의글로벌리더이자프로그래매틱광고전문기업으로서전세계DSP시장을선도하고있는더트레이드데스크(The Trade Desk /나스닥: TTD)는오늘 아이치이가 유니파이드ID 2.0을 도입한다고 발표했다.아이치이(나스닥: IQ)는 시장 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[6월 17일 마케팅 뉴스클리핑] 유튜브 쇼츠, 월간 이용자 15억 명 돌파 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8937</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8937</guid>
+            <pubDate>Thu, 16 Jun 2022 23:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코바코, 1인 광고콘텐츠 창작자 양성 과정 "지역인재반" 및 "중급반" 수강생 모집 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[OTT 분야 글로벌 리더 아이치이 (iQIYI), 유니파이드 ID 2.0 도입 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8908</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8908</guid>
-            <pubDate>Mon, 13 Jun 2022 09:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[네이버의 ‘추적 기능’은 클릭된 광고에 대한 정보를 광고주에게 제공하는 기능입니다. 다음 중 추적 기능을 통해 광고 클릭에 대한 정보를 얻을 수 없는 광고 상품은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Thu, 16 Jun 2022 23:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->네이버의 ‘추적 기능’은 클릭된 광고에 대한 정보를 광고주에게 제공하는 기능입니다. 다음 중 추적 기능을 통해 광고 클릭에 대한 정보를 얻을 수 없는 광고 상품은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1446_1" value="1" class="AB-radio" id="PQ_BD5826_1446_1_0"><label for="PQ_BD5826_1446_1_0" id="label_PQ_BD5826_1446_1_0">(A) 브랜드검색</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1446_1" value="2" class="AB-radio" id="PQ_BD5826_1446_1_1"><label for="PQ_BD5826_1446_1_1" id="label_PQ_BD5826_1446_1_1">(B) 쇼핑검색</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1446_1" value="3" class="AB-radio" id="PQ_BD5826_1446_1_2"><label for="PQ_BD5826_1446_1_2" id="label_PQ_BD5826_1446_1_2">(C) 파워링크</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1446_1" value="4" class="AB-radio" id="PQ_BD5826_1446_1_3"><label for="PQ_BD5826_1446_1_3" id="label_PQ_BD5826_1446_1_3">(D) 파워컨텐츠</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6월 30일부터 '손실보상금' 신청·지급 시작...특고는 13일부터 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

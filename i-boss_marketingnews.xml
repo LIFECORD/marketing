@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 21:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 23:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[6월 17일 마케팅 뉴스클리핑] 유튜브 쇼츠, 월간 이용자 15억 명 돌파 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8937</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8937</guid>
+            <pubDate>Fri, 17 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 유튜브 쇼츠, 월간 이용자 15억 명 돌파  유튜브 숏폼 콘텐츠 기능 쇼츠(Shorts)의 월간 활성 이용자 수(MAU)가 15억 명을 돌파했다. 틱톡은 5년 만에 MAU 10억을 확보한 것을 감안하면, 2020년 인도 베타 서비스로 시작, 지난해부터 글 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_08caa3343937701fff7b21bd5cf357fa_53556_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코바코, 1인 광고콘텐츠 창작자 양성 과정 지역인재반 및 중급반 수강생 모집]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8938</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8909</guid>
             <pubDate>Mon, 13 Jun 2022 10:10:00 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 마케팅 성과 측정 플랫폼앱스플라이어가 신뢰할 수 있는 데이터 협업 환경인 데이터 클린룸(Data Clean Room)솔루션을출시했다.데이터 클린룸은 개인정보를 철저히 보호하면서 맞춤화된 사용자 경험을 보장하고자 하는 앱 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[OTT 분야 글로벌 리더 아이치이 (iQIYI), 유니파이드 ID 2.0 도입]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8908</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8908</guid>
-            <pubDate>Mon, 13 Jun 2022 09:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[애드테크분야의글로벌리더이자프로그래매틱광고전문기업으로서전세계DSP시장을선도하고있는더트레이드데스크(The Trade Desk /나스닥: TTD)는오늘 아이치이가 유니파이드ID 2.0을 도입한다고 발표했다.아이치이(나스닥: IQ)는 시장 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
