@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 14:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 15:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8908</guid>
             <pubDate>Mon, 13 Jun 2022 09:10:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다음 이미지에서 나타내고 있는 페이스북 광고 형식은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 16 Jun 2022 14:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->다음 이미지에서 나타내고 있는 페이스북 광고 형식은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/ba64c035d6c251378512273387b35d17_16547641343002.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1445_1" value="1" class="AB-radio" id="PQ_BD5826_1445_1_0"><label for="PQ_BD5826_1445_1_0" id="label_PQ_BD5826_1445_1_0">(A) 컬렉션</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1445_1" value="2" class="AB-radio" id="PQ_BD5826_1445_1_1"><label for="PQ_BD5826_1445_1_1" id="label_PQ_BD5826_1445_1_1">(B) 슬라이드</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1445_1" value="3" class="AB-radio" id="PQ_BD5826_1445_1_2"><label for="PQ_BD5826_1445_1_2" id="label_PQ_BD5826_1445_1_2">(C) 슬라이드쇼</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1445_1" value="4" class="AB-radio" id="PQ_BD5826_1445_1_3"><label for="PQ_BD5826_1445_1_3" id="label_PQ_BD5826_1445_1_3">(D) 인스턴트 경험</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6월 30일부터 '손실보상금' 신청·지급 시작...특고는 13일부터 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
