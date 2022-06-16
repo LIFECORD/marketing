@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 23:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 01:40:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성공한 브랜드는 사라고 말하지 않는다]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1042373-%EC%84%B1%EA%B3%B5%ED%95%9C_%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%8A%94_%EC%82%AC%EB%9D%BC%EA%B3%A0_%EB%A7%90%ED%95%98%EC%A7%80_%EC%95%8A%EB%8A%94%EB%8B%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1042373-%EC%84%B1%EA%B3%B5%ED%95%9C_%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%8A%94_%EC%82%AC%EB%9D%BC%EA%B3%A0_%EB%A7%90%ED%95%98%EC%A7%80_%EC%95%8A%EB%8A%94%EB%8B%A4/</guid>
+            <pubDate>Thu, 16 Jun 2022 01:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1042373-성공한_브랜드는_사라고_말하지_않는다/">
+						<div class="thumb"><img src="/images/qletter_1042373.png"></div>
+						<p><strong> 성공한 브랜드는 사라고 말하지 않는다</strong>2022.06.16</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1042373.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버도 뛰어든 인플루언서 매칭]]></title>
             <link>https://qletter.i-boss.co.kr/view/1035868-%EB%84%A4%EC%9D%B4%EB%B2%84%EB%8F%84_%EB%9B%B0%EC%96%B4%EB%93%A0_%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C_%EB%A7%A4%EC%B9%AD/</link>
@@ -127,17 +138,6 @@
 						<p><strong>배민의 새 광고는 기회일까 부담일까 🤔</strong>2022.05.02</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_979557.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[브랜딩의 가치는 과정에서 나온다]]></title>
-            <link>https://qletter.i-boss.co.kr/view/974070-%EB%B8%8C%EB%9E%9C%EB%94%A9%EC%9D%98_%EA%B0%80%EC%B9%98%EB%8A%94_%EA%B3%BC%EC%A0%95%EC%97%90%EC%84%9C_%EB%82%98%EC%98%A8%EB%8B%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/974070-%EB%B8%8C%EB%9E%9C%EB%94%A9%EC%9D%98_%EA%B0%80%EC%B9%98%EB%8A%94_%EA%B3%BC%EC%A0%95%EC%97%90%EC%84%9C_%EB%82%98%EC%98%A8%EB%8B%A4/</guid>
-            <pubDate>Thu, 28 Apr 2022 02:05:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/974070-브랜딩의_가치는_과정에서_나온다/">
-						<div class="thumb"><img src="/images/qletter_974070.png"></div>
-						<p><strong> 브랜딩의 가치는 과정에서 나온다</strong>2022.04.28</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_974070.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
