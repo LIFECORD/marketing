@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 07:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 08:28:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -175,6 +175,13 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[바보들은 한곳으로 모인다.  온라인 광고, 싸움닭 안.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57909</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57909</guid>
+            <pubDate>Mon, 06 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[baljunso]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[14일차 마케터의 꿀팁 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57830</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57830</guid>
@@ -187,13 +194,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57797</guid>
             <pubDate>Thu, 19 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[바보들은 한곳으로 모인다.  온라인 광고, 싸움닭 안.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57909</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57909</guid>
-            <pubDate>Mon, 06 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[baljunso]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[피그마, 마케터의 치트키가 될 수 있을까? (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-39124</guid>
             <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[체르시]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LG유플러스, 통합 광고플랫폼 U+AD 론칭... 광고사업은 미래 핵심 먹거리 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8946</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8946</guid>
+            <pubDate>Fri, 17 Jun 2022 08:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[LG유플러스는 TV와 모바일 광고상품을 통합 운영하는 통합 광고 플랫폼의 브랜드 `U+AD`를 6월 16일 론칭하고, 초개인화 타기팅 광고를 선보인다. U+AD는 광고사업의 DX기반을 마련하기 위해 구축한 광고 운영 플랫폼으로, TV모바일  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[방통위, 방송광고 네거티브 규제 도입 논의 본격화.. 광고회사는 이번에도 빠져 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,18 +590,17 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_f6ef35a0d48ec3cdb59994ba8a6f9d0d_76135_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[당신의 타고난 광끼를 보여주세요 대홍기획, 제 39회 DCA 대학생광고대상 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8915</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8915</guid>
-            <pubDate>Tue, 14 Jun 2022 09:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[대홍기획(대표이사:홍성현)이제39회을개최한다. 은광고인을꿈꾸는대학생들의크리에이티브를겨루고,예비광고인을육성하기위해지난1984년제정된국내대표적인대학생광고공모전이다. 올해에는롯데칠성음료별빛청하스파클링,롯 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[LG유플러스, 통합 광고플랫폼 'U+AD' 론칭... "광고사업은 미래 핵심 먹거리" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8946</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8946</guid>
+            <pubDate>Fri, 17 Jun 2022 08:27:41 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[방통위, 방송광고 네거티브 규제 도입 논의 본격화.. 광고회사는 이번에도 빠져 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8944</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8944</guid>
-            <pubDate>Fri, 17 Jun 2022 07:25:20 GMT</pubDate>
+            <pubDate>Fri, 17 Jun 2022 07:25:07 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["당신의 타고난 광끼를 보여주세요" 대홍기획, 제 39회 'DCA 대학생광고대상' 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8915</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8915</guid>
-            <pubDate>Tue, 14 Jun 2022 09:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네이버의 ‘추적 기능’은 클릭된 광고에 대한 정보를 광고주에게 제공하는 기능입니다. 다음 중 추적 기능을 통해 광고 클릭에 대한 정보를 얻을 수 없는 광고 상품은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 17 Jun 2022 07:25:31 GMT</pubDate>
+            <pubDate>Fri, 17 Jun 2022 08:27:54 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버의 ‘추적 기능’은 클릭된 광고에 대한 정보를 광고주에게 제공하는 기능입니다. 다음 중 추적 기능을 통해 광고 클릭에 대한 정보를 얻을 수 없는 광고 상품은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>

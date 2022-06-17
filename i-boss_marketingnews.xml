@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 07:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 08:28:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG유플러스, 통합 광고플랫폼 U+AD 론칭... 광고사업은 미래 핵심 먹거리]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8946</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8946</guid>
+            <pubDate>Fri, 17 Jun 2022 08:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[LG유플러스는 TV와 모바일 광고상품을 통합 운영하는 통합 광고 플랫폼의 브랜드 `U+AD`를 6월 16일 론칭하고, 초개인화 타기팅 광고를 선보인다. U+AD는 광고사업의 DX기반을 마련하기 위해 구축한 광고 운영 플랫폼으로, TV모바일  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[방통위, 방송광고 네거티브 규제 도입 논의 본격화.. 광고회사는 이번에도 빠져]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8944</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 14 Jun 2022 11:21:00 GMT</pubDate>
             <content:encoded><![CDATA[머신러닝 기술 활용한 오프라인 매장 오픈 아마존 앱으로 신발을 시착해볼 수 있는 AR 서비스 테스트   아마존이 올 1분기 부진한 성적표를 받아들면서 성장 잠재력에 대한 부정적인 시선이 확대된 가운데서도 새로운 커머스 실 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_f6ef35a0d48ec3cdb59994ba8a6f9d0d_76135_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 타고난 광끼를 보여주세요 대홍기획, 제 39회 DCA 대학생광고대상 개최]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8915</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8915</guid>
-            <pubDate>Tue, 14 Jun 2022 09:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[대홍기획(대표이사:홍성현)이제39회을개최한다. 은광고인을꿈꾸는대학생들의크리에이티브를겨루고,예비광고인을육성하기위해지난1984년제정된국내대표적인대학생광고공모전이다. 올해에는롯데칠성음료별빛청하스파클링,롯 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
