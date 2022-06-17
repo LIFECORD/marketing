@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 06:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 07:25:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방통위, 방송광고 네거티브 규제 도입 논의 본격화.. 광고회사는 이번에도 빠져]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8944</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8944</guid>
+            <pubDate>Fri, 17 Jun 2022 07:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[방송통신위원회(위원장 한상혁, 이하 방통위)는 지난 6월 15일(수) `방송광고 네거티브 규제 체계 도입을 위한 협의체`(이하 협의체)를 출범하여 첫 논의를 시작한다. 협의체는 방송광고법률 전문가, 관련 업계, 시민단체 등 총 11 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[데이터 마케팅 실무자 위한 지침서 나왔다. 데이터 드리븐 마케팅 101 발간]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8943</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 14 Jun 2022 09:16:00 GMT</pubDate>
             <content:encoded><![CDATA[대홍기획(대표이사:홍성현)이제39회을개최한다. 은광고인을꿈꾸는대학생들의크리에이티브를겨루고,예비광고인을육성하기위해지난1984년제정된국내대표적인대학생광고공모전이다. 올해에는롯데칠성음료별빛청하스파클링,롯 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[거리두기 해제로 극장 거래액 코로나19 이전으로 회복]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8914</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8914</guid>
-            <pubDate>Tue, 14 Jun 2022 09:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 5월 극장 3사 거래액 코로나 이전 2019년 5월 수준으로 회복      거리두기 해제로 지난 5월 국내 영화관 거래액이 코로나19 발생 이전 수준을 회복한 것으로 조사됐다.  앱/리테일 분석 서비스 와이즈앱리테일굿즈가 2022년 5월  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a58df229097a3af768a095b30c2aa6f8_79128_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

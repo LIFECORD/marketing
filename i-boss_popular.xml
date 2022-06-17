@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-17T06:23:27.160Z</updated>
+    <updated>2022-06-17T07:25:41.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -97,13 +97,6 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이것만 알면 기본은 하는 카드뉴스 디자인! 2탄!]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57800</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57800"/>
-        <updated>2022-05-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[흥미진진]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[브랜드와 인플루언서를 연결하는 네이버 `브랜드 커..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57944</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57944"/>
@@ -160,18 +153,18 @@
         <content type="html"><![CDATA[marineE]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[매출가지고 징징거리는 대표 (가격전쟁)]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-39104</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-39104"/>
-        <updated>2022-05-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[귀여운나름이]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[콜라보마케팅] MZ 세대 사로 잡는 대세 마케팅, 콜라..]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-39229</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-39229"/>
         <updated>2022-06-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[Qfriend]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매출가지고 징징거리는 대표 (가격전쟁)]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-39104</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-39104"/>
+        <updated>2022-05-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[귀여운나름이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[데이터스튜디오 템플릿 선착순 6명]]></title>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57859"/>
         <updated>2022-05-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[근육돌이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디자인 관련 법 알려주는 계정의 드립력]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-39124</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-39124"/>
+        <updated>2022-05-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[체르시]]></content>
     </entry>
 </feed>
