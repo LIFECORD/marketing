@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-16T23:19:34.077Z</updated>
+    <updated>2022-06-17T01:27:05.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -76,13 +76,6 @@
         <content type="html"><![CDATA[마케팅플랜]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[초보 팀장을 위한 튜토리얼]]></title>
-        <id>https://www.i-boss.co.kr/ab-5637-45</id>
-        <link href="https://www.i-boss.co.kr/ab-5637-45"/>
-        <updated>2022-05-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[제발 제발 페이스북의 본질을 알고 마케팅해주세요. ..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57960</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57960"/>
@@ -90,18 +83,25 @@
         <content type="html"><![CDATA[우뇌]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이것만 알면 기본은 하는 카드뉴스 디자인! 2탄!]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57800</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57800"/>
-        <updated>2022-05-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[흥미진진]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[성공을 만드는 3요소 '태도, 몰입, 행운']]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-39257</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-39257"/>
         <updated>2022-06-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[디자인업]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[초보 팀장을 위한 튜토리얼]]></title>
+        <id>https://www.i-boss.co.kr/ab-5637-45</id>
+        <link href="https://www.i-boss.co.kr/ab-5637-45"/>
+        <updated>2022-05-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이것만 알면 기본은 하는 카드뉴스 디자인! 2탄!]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57800</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57800"/>
+        <updated>2022-05-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[흥미진진]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브랜드와 인플루언서를 연결하는 네이버 `브랜드 커..]]></title>
@@ -139,18 +139,18 @@
         <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인하우스 퍼포먼스 마케터 현실]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-39172</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-39172"/>
-        <updated>2022-06-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[노호락]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[매체별 광고 가이드 - 페이스북, 인스타그램, 네이버 ..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57915</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57915"/>
         <updated>2022-06-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[쏭쏘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인하우스 퍼포먼스 마케터 현실]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-39172</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-39172"/>
+        <updated>2022-06-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[노호락]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아버지 회사에서 일하고 있는 1년차 마케터 입니다. ..]]></title>
