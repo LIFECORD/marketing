@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-18T03:23:22.132Z</updated>
+    <updated>2022-06-18T04:25:38.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57912"/>
         <updated>2022-06-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[지카츄]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[레미니] 대행사마케터가 인하우스가서 실패하는 이..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57807</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57807"/>
-        <updated>2022-05-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[레미니센스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사수 없는 신입을 위한 실무 치트키 95개]]></title>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-39142"/>
         <updated>2022-05-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[나단8]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마케터들의 카톡 업데이트에 대한 생각은?]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57819</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57819"/>
+        <updated>2022-05-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
 </feed>

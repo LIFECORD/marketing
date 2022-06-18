@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 03:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 04:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,13 +152,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57912</guid>
             <pubDate>Tue, 07 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[지카츄]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[레미니] 대행사마케터가 인하우스가서 실패하는 이.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57807</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57807</guid>
-            <pubDate>Thu, 19 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[레미니센스]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사수 없는 신입을 위한 실무 치트키 95개 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +341,13 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-39142</guid>
             <pubDate>Mon, 30 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[나단8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케터들의 카톡 업데이트에 대한 생각은? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57819</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57819</guid>
+            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[파라마운트플러스, 이제 티빙에서 본다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[네이버의 ‘추적 기능’은 클릭된 광고에 대한 정보를 광고주에게 제공하는 기능입니다. 다음 중 추적 기능을 통해 광고 클릭에 대한 정보를 얻을 수 없는 광고 상품은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 18 Jun 2022 03:23:10 GMT</pubDate>
+            <pubDate>Sat, 18 Jun 2022 04:25:30 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버의 ‘추적 기능’은 클릭된 광고에 대한 정보를 광고주에게 제공하는 기능입니다. 다음 중 추적 기능을 통해 광고 클릭에 대한 정보를 얻을 수 없는 광고 상품은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
