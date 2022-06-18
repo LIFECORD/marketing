@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 14:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 15:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8921</guid>
             <pubDate>Wed, 15 Jun 2022 09:08:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네이버의 ‘추적 기능’은 클릭된 광고에 대한 정보를 광고주에게 제공하는 기능입니다. 다음 중 추적 기능을 통해 광고 클릭에 대한 정보를 얻을 수 없는 광고 상품은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 18 Jun 2022 14:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->네이버의 ‘추적 기능’은 클릭된 광고에 대한 정보를 광고주에게 제공하는 기능입니다. 다음 중 추적 기능을 통해 광고 클릭에 대한 정보를 얻을 수 없는 광고 상품은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1446_1" value="1" class="AB-radio" id="PQ_BD5826_1446_1_0"><label for="PQ_BD5826_1446_1_0" id="label_PQ_BD5826_1446_1_0">(A) 브랜드검색</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1446_1" value="2" class="AB-radio" id="PQ_BD5826_1446_1_1"><label for="PQ_BD5826_1446_1_1" id="label_PQ_BD5826_1446_1_1">(B) 쇼핑검색</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1446_1" value="3" class="AB-radio" id="PQ_BD5826_1446_1_2"><label for="PQ_BD5826_1446_1_2" id="label_PQ_BD5826_1446_1_2">(C) 파워링크</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1446_1" value="4" class="AB-radio" id="PQ_BD5826_1446_1_3"><label for="PQ_BD5826_1446_1_3" id="label_PQ_BD5826_1446_1_3">(D) 파워컨텐츠</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6월 30일부터 '손실보상금' 신청·지급 시작...특고는 13일부터 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
