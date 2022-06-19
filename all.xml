@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 22:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 23:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[6월 20일 마케팅 뉴스클리핑] 네이버 크림, 개인 간 중고거래 사업 진출 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8945</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8945</guid>
+            <pubDate>Mon, 20 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버 크림, 개인 간 중고거래 사업 진출  네이버의 리셀 플랫폼 크림이 개인 간 명품 거래로 사업을 확장한다. 크림 자회사 팹은 개인간 명품 거래 지원 서비스 플랫폼 `시크(CHIC)`를 정식 출시했다고 밝혔다. 사기 거래를 방 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_706385d1d426303143153180b66e47b5_62152_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[인포그래픽] 세 가지 유형의 인플레이션 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8955</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8955</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d78db70adaa5d91ca6846b4c6e82ca7a_30361_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[물가 상승에 마감할인 플랫폼 인기 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8926</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8926</guid>
-            <pubDate>Wed, 15 Jun 2022 09:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[물가 급증하면서 저렴하게 마감 상품을 구할 수 있는 서비스 관심 라스트오더, 올해 초 대비 거래액 45%, 증가   지난 2일 앱 리테일 분석서비스 와이즈앱에서 발표한 코로나 거리두기 해제 후 앱 사용자 증가율 자료에 따르면 국 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d1f5e2f4008bf52700338088e1e6ddf1_23674_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[6월 20일 마케팅 뉴스클리핑] 네이버 크림, 개인 간 중고거래 사업 진출 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8945</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8945</guid>
+            <pubDate>Sun, 19 Jun 2022 23:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 세 가지 유형의 인플레이션 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[물가 상승에 마감할인 플랫폼 인기 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8926</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8926</guid>
-            <pubDate>Wed, 15 Jun 2022 09:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[다음 대화에서 괄호 안에 들어갈 단어로 올바른 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Sun, 19 Jun 2022 23:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 대화에서 괄호 안에 들어갈 단어로 올바른 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/561e49499b5bb0abea796b565b9de2ad_16553684690346.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1447_1" value="1" class="AB-radio" id="PQ_BD5826_1447_1_0"><label for="PQ_BD5826_1447_1_0" id="label_PQ_BD5826_1447_1_0">(A) 디지털 노마드</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1447_1" value="2" class="AB-radio" id="PQ_BD5826_1447_1_1"><label for="PQ_BD5826_1447_1_1" id="label_PQ_BD5826_1447_1_1">(B) 디지털 리터러시</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1447_1" value="3" class="AB-radio" id="PQ_BD5826_1447_1_2"><label for="PQ_BD5826_1447_1_2" id="label_PQ_BD5826_1447_1_2">(C) 디지털 트윈</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1447_1" value="4" class="AB-radio" id="PQ_BD5826_1447_1_3"><label for="PQ_BD5826_1447_1_3" id="label_PQ_BD5826_1447_1_3">(D) 하이퍼 디지털라이제이션</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6월 30일부터 '손실보상금' 신청·지급 시작...특고는 13일부터 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

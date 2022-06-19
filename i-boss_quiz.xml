@@ -2,7 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-5826</id>
     <title>아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈</title>
-    <updated>2022-06-19T22:17:35.891Z</updated>
+    <updated>2022-06-19T23:17:58.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다음 대화에서 괄호 안에 들어갈 단어로 올바른 것은 무엇일까요?]]></title>
+        <id>https://www.i-boss.co.kr/ab-5826</id>
+        <link href="https://www.i-boss.co.kr/ab-5826"/>
+        <updated>2022-06-19T23:17:49.401Z</updated>
+        <content type="html"><![CDATA[<tbody><tr>
+				<td><!--1-->다음 대화에서 괄호 안에 들어갈 단어로 올바른 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/561e49499b5bb0abea796b565b9de2ad_16553684690346.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1447_1" value="1" class="AB-radio" id="PQ_BD5826_1447_1_0"><label for="PQ_BD5826_1447_1_0" id="label_PQ_BD5826_1447_1_0">(A) 디지털 노마드</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1447_1" value="2" class="AB-radio" id="PQ_BD5826_1447_1_1"><label for="PQ_BD5826_1447_1_1" id="label_PQ_BD5826_1447_1_1">(B) 디지털 리터러시</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1447_1" value="3" class="AB-radio" id="PQ_BD5826_1447_1_2"><label for="PQ_BD5826_1447_1_2" id="label_PQ_BD5826_1447_1_2">(C) 디지털 트윈</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1447_1" value="4" class="AB-radio" id="PQ_BD5826_1447_1_3"><label for="PQ_BD5826_1447_1_3" id="label_PQ_BD5826_1447_1_3">(D) 하이퍼 디지털라이제이션</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content>
+    </entry>
 </feed>
