@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-19T14:16:07.299Z</updated>
+    <updated>2022-06-19T15:18:06.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -209,10 +209,10 @@
         <content type="html"><![CDATA[나단8]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마케터들의 카톡 업데이트에 대한 생각은?]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57819</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57819"/>
-        <updated>2022-05-23T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[오랫동안 사랑받는 브랜드의 독자적인 미학]]></title>
+        <id>https://www.i-boss.co.kr/ab-5637-46</id>
+        <link href="https://www.i-boss.co.kr/ab-5637-46"/>
+        <updated>2022-06-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
 </feed>
