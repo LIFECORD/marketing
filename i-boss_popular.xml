@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-20T03:17:57.006Z</updated>
+    <updated>2022-06-20T04:30:18.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -195,6 +195,13 @@
         <content type="html"><![CDATA[근육돌이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[오랫동안 사랑받는 브랜드의 독자적인 미학]]></title>
+        <id>https://www.i-boss.co.kr/ab-5637-46</id>
+        <link href="https://www.i-boss.co.kr/ab-5637-46"/>
+        <updated>2022-06-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[디자인 관련 법 알려주는 계정의 드립력]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-39124</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-39124"/>
@@ -207,12 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-39142"/>
         <updated>2022-05-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[나단8]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오랫동안 사랑받는 브랜드의 독자적인 미학]]></title>
-        <id>https://www.i-boss.co.kr/ab-5637-46</id>
-        <link href="https://www.i-boss.co.kr/ab-5637-46"/>
-        <updated>2022-06-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
 </feed>
