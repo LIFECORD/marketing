@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 22:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 23:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[6월 21일 마케팅 뉴스클리핑] 메타, 아바타 의류 매장 연다 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8963</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8963</guid>
+            <pubDate>Tue, 21 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 메타, 아바타 의류 매장 연다  메타가 디지털 의류 매장을 연다고 외신이 보도했다. 미래 먹거리 사업으로 낙점한 메타버스 세계 속에서 아바타 옷을 사고파는 공간으로 활용될 전망이다. 메타는 향후 더 많은 브랜드를 추가 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8daf7b84ca98358bdf928cc724a27097_54689_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부산국제광고제, 2030 부산세계박람회 홍보 공모전 개최... 대학생주니어 광고인 대상 홍보 아이디어 공모]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8965</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8936</guid>
             <pubDate>Thu, 16 Jun 2022 07:21:32 GMT</pubDate>
             <content:encoded><![CDATA[빅데이터 플랫폼 기업 아이지에이웍스(대표 마국성)가 고객데이터플랫폼(CDP)활용 세미나를 개최한다. 세미나는디지털 환경에서의 고객 경험 개선을 위해 마케터가 봐야 하는 필수 지표를 주제로,데이터 기반의 마케팅 업무를  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[하바스, 클라이언트와 광고회사 간 관계 혁신이 시급하다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8935</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8935</guid>
-            <pubDate>Thu, 16 Jun 2022 07:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[하바스(Havas)가 6월 15일 영국 런던에서 열린 프로큐어콘 마케팅 EU 콘퍼런스(ProcureCon Marketing EU Conference)에서 의미 있는 브랜드 스페셜 리포트: 클라이언트와 광고회사의 관계 바로미터(Meaningful Brands Special Report: The Client-Agency Relati ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

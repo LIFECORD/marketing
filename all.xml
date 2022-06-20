@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 22:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 23:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[나단8]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[6월 21일 마케팅 뉴스클리핑] 메타, 아바타 의류 매장 연다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8963</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8963</guid>
+            <pubDate>Tue, 21 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 메타, 아바타 의류 매장 연다  메타가 디지털 의류 매장을 연다고 외신이 보도했다. 미래 먹거리 사업으로 낙점한 메타버스 세계 속에서 아바타 옷을 사고파는 공간으로 활용될 전망이다. 메타는 향후 더 많은 브랜드를 추가 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8daf7b84ca98358bdf928cc724a27097_54689_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[부산국제광고제, 2030 부산세계박람회 홍보 공모전 개최... 대학생주니어 광고인 대상 홍보 아이디어 공모 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8965</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8965</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[하바스, 클라이언트와 광고회사 간 관계 혁신이 시급하다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8935</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8935</guid>
-            <pubDate>Thu, 16 Jun 2022 07:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[하바스(Havas)가 6월 15일 영국 런던에서 열린 프로큐어콘 마케팅 EU 콘퍼런스(ProcureCon Marketing EU Conference)에서 의미 있는 브랜드 스페셜 리포트: 클라이언트와 광고회사의 관계 바로미터(Meaningful Brands Special Report: The Client-Agency Relati ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[6월 21일 마케팅 뉴스클리핑] 메타, 아바타 의류 매장 연다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8963</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8963</guid>
+            <pubDate>Mon, 20 Jun 2022 23:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[부산국제광고제, ‘2030 부산세계박람회’ 홍보 공모전 개최... 대학생·주니어 광고인 대상 홍보 아이디어 공모 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하바스, 클라이언트와 광고회사 간 관계 혁신이 시급하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8935</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8935</guid>
-            <pubDate>Thu, 16 Jun 2022 07:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[네이버가 인플루언서와 브랜드사의 연결을 돕는 '이 서비스'를 정식 출시했습니다. 네이버에서 활동하는 인플루언서와 협업을 희망하는 브랜드사가 서로 제휴할 수 있도록 돕는 이 서비스의 이름은 무엇일까요?(hint: 보스님을 위한 깜짝 힌트 선물! 친절한 마케팅 뉴스 읽으러 가기) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Mon, 20 Jun 2022 23:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->네이버가 인플루언서와 브랜드사의 연결을 돕는 '이 서비스'를 정식 출시했습니다. 네이버에서 활동하는 인플루언서와 협업을 희망하는 브랜드사가 서로 제휴할 수 있도록 돕는 이 서비스의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57944" target="_blank">보스님을 위한 깜짝 힌트 선물! 친절한 마케팅 뉴스 읽으러 가기</a>)</span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1448_1" value="1" class="AB-radio" id="PQ_BD5826_1448_1_0"><label for="PQ_BD5826_1448_1_0" id="label_PQ_BD5826_1448_1_0">(A) 브랜드 커넥트</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1448_1" value="2" class="AB-radio" id="PQ_BD5826_1448_1_1"><label for="PQ_BD5826_1448_1_1" id="label_PQ_BD5826_1448_1_1">(B) 인플루언서 픽</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1448_1" value="3" class="AB-radio" id="PQ_BD5826_1448_1_2"><label for="PQ_BD5826_1448_1_2" id="label_PQ_BD5826_1448_1_2">(C) 브랜드 콜라보레이션</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1448_1" value="4" class="AB-radio" id="PQ_BD5826_1448_1_3"><label for="PQ_BD5826_1448_1_3" id="label_PQ_BD5826_1448_1_3">(D) 인플루언서 솔루션</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인 61만명 2분기 손실보상금 100만원 선지급…24시간 신청 가능 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
