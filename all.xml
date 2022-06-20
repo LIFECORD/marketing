@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 01:42:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 03:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,18 +203,18 @@
             <content:encoded><![CDATA[디자인업]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[곰곰히 생각해보면 제가 여태 남들 돈만 벌어줬네요 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39129</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39129</guid>
-            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[초보 팀장을 위한 튜토리얼 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-5637-45</link>
             <guid>https://www.i-boss.co.kr/ab-5637-45</guid>
             <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[곰곰히 생각해보면 제가 여태 남들 돈만 벌어줬네요 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39129</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39129</guid>
+            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[브랜드와 인플루언서를 연결하는 네이버 `브랜드 커.. (아이보스 ─ 인기글)]]></title>
@@ -593,42 +593,42 @@
             <title><![CDATA["PR 실무 특강부터 인턴 실습까지" 한국PR협회, PR 전문인력 양성을 위한 취업특강 개설 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8961</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8961</guid>
-            <pubDate>Mon, 20 Jun 2022 01:41:43 GMT</pubDate>
+            <pubDate>Mon, 20 Jun 2022 10:15:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인크로스, 중국 크로스보더 이커머스 서비스 개시… “중국 진출 교두보 역할” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8960</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8960</guid>
-            <pubDate>Mon, 20 Jun 2022 01:41:43 GMT</pubDate>
+            <pubDate>Mon, 20 Jun 2022 09:24:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제일기획, '2022 클리오 헬스 어워드’ "더 코스트 오브 불링" 캠페인으로 대상 수상 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8959</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8959</guid>
-            <pubDate>Mon, 20 Jun 2022 01:41:43 GMT</pubDate>
+            <pubDate>Mon, 20 Jun 2022 09:01:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마그나, 글로벌 광고 시장 9.2%로 하향 전망 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8958</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8958</guid>
-            <pubDate>Mon, 20 Jun 2022 01:41:43 GMT</pubDate>
+            <pubDate>Mon, 20 Jun 2022 08:41:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[그룹M, 경제 상황에도 불구하고 올해 글로벌 광고 시장은 8.4% 성장 전망 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8957</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8957</guid>
-            <pubDate>Mon, 20 Jun 2022 01:41:43 GMT</pubDate>
+            <pubDate>Mon, 20 Jun 2022 08:40:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[방송사업자 2021년도 광고매출, 전년 대비 4,075억원(15.0%) 증가한 3조 1,247억원 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8956</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8956</guid>
-            <pubDate>Mon, 20 Jun 2022 01:41:43 GMT</pubDate>
+            <pubDate>Mon, 20 Jun 2022 08:39:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 대화에서 괄호 안에 들어갈 단어로 올바른 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 20 Jun 2022 01:41:56 GMT</pubDate>
+            <pubDate>Mon, 20 Jun 2022 03:17:46 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 대화에서 괄호 안에 들어갈 단어로 올바른 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/561e49499b5bb0abea796b565b9de2ad_16553684690346.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
