@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 06:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 07:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부산국제광고제, 2030 부산세계박람회 홍보 공모전 개최... 대학생주니어 광고인 대상 홍보 아이디어 공모]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8965</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8965</guid>
+            <pubDate>Mon, 20 Jun 2022 07:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제광고제가 국내외 대학생 및 5년 차 이하 주니어 광고인들을 대상으로 2030 부산세계박람회 유치 성공을 위한 홍보 아이디어 공모전을 개최한다. 2022 부산국제광고제는 올해 전 세계 일반인들을 대상으로 2030 부산세계박 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[에스코토스컨설팅, 명성전략연구소 설립]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8964</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8935</guid>
             <pubDate>Thu, 16 Jun 2022 07:21:32 GMT</pubDate>
             <content:encoded><![CDATA[하바스(Havas)가 6월 15일 영국 런던에서 열린 프로큐어콘 마케팅 EU 콘퍼런스(ProcureCon Marketing EU Conference)에서 의미 있는 브랜드 스페셜 리포트: 클라이언트와 광고회사의 관계 바로미터(Meaningful Brands Special Report: The Client-Agency Relati ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[아태지역 CFO 92%, 장소에 구애받지 않는 근무환경 선호]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8934</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8934</guid>
-            <pubDate>Thu, 16 Jun 2022 07:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 리모트 채용 플랫폼 글로벌리제이션 파트너스(Globalization Partners)가 전 세계260여명의CFO(최고재무책임자)를 대상으로 실시한 설문조사 결과를 발표했다.조사결과에 따르면,응답자의72%가 기업 경쟁력을 유지하는데 있어  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
