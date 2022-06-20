@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 04:30:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 05:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT IS, 택시 디스플레이 광고 결합상품 출시]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8962</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8962</guid>
+            <pubDate>Mon, 20 Jun 2022 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[KT그룹 고객서비스 전문기업 KT IS가 모빌리티 플랫폼 카카오모빌리티와 지난 1일 업무협약을 맺고, 타운보드+블루RSE 상품을 출시하며 본격적인 영업활동에 나선다고 17일 밝혔다.  KT IS는 타운보드 상품성 개선과 공간매체 사업 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_60ac0191efccdbff4005ebb5c9105ed0_36045_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[PR 실무 특강부터 인턴 실습까지 한국PR협회, PR 전문인력 양성을 위한 취업특강 개설]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8961</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Jun 2022 10:15:00 GMT</pubDate>
             <content:encoded><![CDATA[틱톡, 지난해 9월 기준 MAU 10억  미국 IT매체 엔가젯, 테크크런치 등 외신은 15일(현지시간) 쇼츠가 MAU 15억을 확보하면서 틱톡을 넘어섰다고 보도했다. 틱톡은 지난해 9월 MAU가 10억이라고 발표했다.  2016년 서비스를 시작한 틱톡은  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e753a282e2d831dc7633b8382556dc0b_96381_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 1~4월 국내 골프 클럽 시장 45% 성장한 2591억원 기록]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8932</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8932</guid>
-            <pubDate>Thu, 16 Jun 2022 09:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[코로나를 계기로 빠르게 성장하고 있는 국내 골프 클럽 시장의 규모 있는 성장이 2022년에도 이어지고 있다. 글로벌 마켓 인텔리전스 기업 GfK는 2022년 1~4월 국내 골프 클럽의 오프라인 시장 매출 금액은 지난해 같은 기간보다 45%  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
