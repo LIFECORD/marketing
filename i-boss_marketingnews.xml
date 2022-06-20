@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 05:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 06:25:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에스코토스컨설팅, 명성전략연구소 설립]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8964</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8964</guid>
+            <pubDate>Mon, 20 Jun 2022 06:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[전략 커뮤니케이션 컨설팅 회사인 에스코토스컨설팅(대표 강함수)은한국산업기술진흥협회로부터 인증받은기업부설연구소인 명성전략연구소(Reputation Strategy Institute)를 공식적으로 설립하고 연구소장으로 노형신 이사를 선임 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[KT IS, 택시 디스플레이 광고 결합상품 출시]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8962</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Jun 2022 07:21:32 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 리모트 채용 플랫폼 글로벌리제이션 파트너스(Globalization Partners)가 전 세계260여명의CFO(최고재무책임자)를 대상으로 실시한 설문조사 결과를 발표했다.조사결과에 따르면,응답자의72%가 기업 경쟁력을 유지하는데 있어  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브 쇼츠, 월간 이용자 15억 명 돌파]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8933</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8933</guid>
-            <pubDate>Thu, 16 Jun 2022 10:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[틱톡, 지난해 9월 기준 MAU 10억  미국 IT매체 엔가젯, 테크크런치 등 외신은 15일(현지시간) 쇼츠가 MAU 15억을 확보하면서 틱톡을 넘어섰다고 보도했다. 틱톡은 지난해 9월 MAU가 10억이라고 발표했다.  2016년 서비스를 시작한 틱톡은  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_e753a282e2d831dc7633b8382556dc0b_96381_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
