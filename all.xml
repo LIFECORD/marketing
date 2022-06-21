@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 22:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 23:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,6 +287,13 @@
             <content:encoded><![CDATA[귀여운나름이]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[억만 장자가 매일 실행하는 To Do List (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57838</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57838</guid>
+            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[yoorok]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[데이터스튜디오 템플릿 선착순 6명 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39150</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39150</guid>
@@ -299,13 +306,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-39168</guid>
             <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레스뿌와]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[억만 장자가 매일 실행하는 To Do List (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57838</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57838</guid>
-            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소울리스좌 아마존송 유행이라는데 아시는 분? (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-39124</guid>
             <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[체르시]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[6월 22일 마케팅 뉴스클리핑] 쇼핑 맛집 자리 뺏긴 네이버... 쿠팡과 명운 건 전투 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8971</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8971</guid>
+            <pubDate>Wed, 22 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. `쇼핑 맛집` 자리 뺏긴 네이버... 쿠팡과 명운 건 전투  증권 업계는 소비자들의 카드결제 내역으로 추산한 쿠팡의 거래액은 37조 8천억 원으로 네이버의 거래액 32조 4천억 원을 앞질렀다고 추정했다. 쿠팡이 처음으로 네이버를 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2d6a5a4fd95247c6e2e02dc7e0892992_88687_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지난 5월 한국인이 가장 많이 이용하는 모빌리티 앱 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[대학내일20대연구소] 취준생 중요 스펙 1위는 인턴십... 인턴십 경험자 절반 이상 근무한 회사 이미지 긍정적으로 변화 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8941</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8941</guid>
-            <pubDate>Fri, 17 Jun 2022 08:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[엔데믹 시대로 전환되면서 채용 시장에도 훈풍이 불고 있다. 최근 주요 대기업들이 향후 5년간 대규모 신규 채용을 약속했다. 삼성, SK, 현대차, LG, 롯데 등 5대 그룹의 채용 계획만 더해도 향후 5년간 26만 명이 넘는 규모다. 코로 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[6월 22일 마케팅 뉴스클리핑] '쇼핑 맛집' 자리 뺏긴 네이버... 쿠팡과 명운 건 전투 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8971</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8971</guid>
+            <pubDate>Tue, 21 Jun 2022 23:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지난 5월 한국인이 가장 많이 이용하는 모빌리티 앱 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[대학내일20대연구소] 취준생 중요 스펙 1위는 ‘인턴십’... 인턴십 경험자 절반 이상 “근무한 회사 이미지 긍정적으로 변화” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8941</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8941</guid>
-            <pubDate>Fri, 17 Jun 2022 08:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[다음 중 구글 Ads의 키워드 검색 유형에 해당하지 않는 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Tue, 21 Jun 2022 23:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 중 구글 Ads의 키워드 검색 유형에 해당하지 않는 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1449_1" value="1" class="AB-radio" id="PQ_BD5826_1449_1_0"><label for="PQ_BD5826_1449_1_0" id="label_PQ_BD5826_1449_1_0">(A) 확장검색</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1449_1" value="2" class="AB-radio" id="PQ_BD5826_1449_1_1"><label for="PQ_BD5826_1449_1_1" id="label_PQ_BD5826_1449_1_1">(B) 반응검색</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1449_1" value="3" class="AB-radio" id="PQ_BD5826_1449_1_2"><label for="PQ_BD5826_1449_1_2" id="label_PQ_BD5826_1449_1_2">(C) 구문검색</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1449_1" value="4" class="AB-radio" id="PQ_BD5826_1449_1_3"><label for="PQ_BD5826_1449_1_3" id="label_PQ_BD5826_1449_1_3">(D) 일치검색</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인 61만명 2분기 손실보상금 100만원 선지급…24시간 신청 가능 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

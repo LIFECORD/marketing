@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 22:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 23:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[6월 22일 마케팅 뉴스클리핑] 쇼핑 맛집 자리 뺏긴 네이버... 쿠팡과 명운 건 전투 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8971</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8971</guid>
+            <pubDate>Wed, 22 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. `쇼핑 맛집` 자리 뺏긴 네이버... 쿠팡과 명운 건 전투  증권 업계는 소비자들의 카드결제 내역으로 추산한 쿠팡의 거래액은 37조 8천억 원으로 네이버의 거래액 32조 4천억 원을 앞질렀다고 추정했다. 쿠팡이 처음으로 네이버를 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2d6a5a4fd95247c6e2e02dc7e0892992_88687_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지난 5월 한국인이 가장 많이 이용하는 모빌리티 앱]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8969</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8942</guid>
             <pubDate>Fri, 17 Jun 2022 08:33:00 GMT</pubDate>
             <content:encoded><![CDATA[최근 LG전자 스타일러 캠페인이 눈에 띄었다. 날씨에 따라 콘텐츠가 달라지기 때문이었다. 이 광고를 만든 회사가 브라이언에잇이다. 브라이언에잇은 기본의 방식, 남과 같은 방식을 거부한다. 브라이언에잇은 어떻게 광고를 만 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[대학내일20대연구소] 취준생 중요 스펙 1위는 인턴십... 인턴십 경험자 절반 이상 근무한 회사 이미지 긍정적으로 변화]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8941</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8941</guid>
-            <pubDate>Fri, 17 Jun 2022 08:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[엔데믹 시대로 전환되면서 채용 시장에도 훈풍이 불고 있다. 최근 주요 대기업들이 향후 5년간 대규모 신규 채용을 약속했다. 삼성, SK, 현대차, LG, 롯데 등 5대 그룹의 채용 계획만 더해도 향후 5년간 26만 명이 넘는 규모다. 코로 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

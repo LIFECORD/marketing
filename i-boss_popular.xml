@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-21T22:17:49.945Z</updated>
+    <updated>2022-06-21T23:20:19.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -153,6 +153,13 @@
         <content type="html"><![CDATA[귀여운나름이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[억만 장자가 매일 실행하는 To Do List]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57838</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57838"/>
+        <updated>2022-05-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[yoorok]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[데이터스튜디오 템플릿 선착순 6명]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-39150</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-39150"/>
@@ -165,13 +172,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-39168"/>
         <updated>2022-06-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[레스뿌와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[억만 장자가 매일 실행하는 To Do List]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57838</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57838"/>
-        <updated>2022-05-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[yoorok]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소울리스좌 아마존송 유행이라는데 아시는 분?]]></title>
