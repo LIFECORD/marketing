@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-21T01:44:14.272Z</updated>
+    <updated>2022-06-21T03:32:50.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[마케팅플랜]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[매체별 광고 가이드 - 페이스북, 인스타그램, 네이버 ..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57915</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57915"/>
+        <updated>2022-06-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[쏭쏘]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[요즘 뜨는 통신사의 문자커머스]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57817</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57817"/>
@@ -102,13 +109,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-39196"/>
         <updated>2022-06-09T07:43:47.787Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매체별 광고 가이드 - 페이스북, 인스타그램, 네이버 ..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57915</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57915"/>
-        <updated>2022-06-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[쏭쏘]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마케터들이 모으고 있는 마케팅 정보 모음]]></title>

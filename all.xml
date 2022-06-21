@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 01:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 03:32:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,6 +224,13 @@
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[매체별 광고 가이드 - 페이스북, 인스타그램, 네이버 .. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57915</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57915</guid>
+            <pubDate>Tue, 07 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쏭쏘]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[요즘 뜨는 통신사의 문자커머스 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57817</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57817</guid>
@@ -236,13 +243,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-39196</guid>
             <pubDate>Thu, 09 Jun 2022 07:43:47 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[매체별 광고 가이드 - 페이스북, 인스타그램, 네이버 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57915</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57915</guid>
-            <pubDate>Tue, 07 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쏭쏘]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케터들이 모으고 있는 마케팅 정보 모음 (아이보스 ─ 인기글)]]></title>
@@ -593,35 +593,35 @@
             <title><![CDATA[지난 5월 한국인이 가장 많이 이용하는 모빌리티 앱 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8969</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8969</guid>
-            <pubDate>Tue, 21 Jun 2022 01:43:53 GMT</pubDate>
+            <pubDate>Tue, 21 Jun 2022 10:30:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[하이브스택, 컴투스와 미국에서 북아시아 최초 글로벌 프로그래매틱 디지털 옥외 광고 캠페인 진행 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8970</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8970</guid>
-            <pubDate>Tue, 21 Jun 2022 01:43:53 GMT</pubDate>
+            <pubDate>Tue, 21 Jun 2022 10:09:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[메타버스 인기 반영... ‘로블록스’, 5월 MAU 152만 기록, 게임 앱 사용자 수 1위 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8968</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8968</guid>
-            <pubDate>Tue, 21 Jun 2022 01:43:53 GMT</pubDate>
+            <pubDate>Tue, 21 Jun 2022 09:24:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[글로벌 광고회사 순위 “제일기획 11위, 이노션 14위” 껑충 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8967</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8967</guid>
-            <pubDate>Tue, 21 Jun 2022 01:43:53 GMT</pubDate>
+            <pubDate>Tue, 21 Jun 2022 08:43:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2022-6월 ADPO] “여러분~ 안녕하세요~” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8966</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8966</guid>
-            <pubDate>Tue, 21 Jun 2022 01:43:53 GMT</pubDate>
+            <pubDate>Tue, 21 Jun 2022 08:42:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[네이버가 인플루언서와 브랜드사의 연결을 돕는 '이 서비스'를 정식 출시했습니다. 네이버에서 활동하는 인플루언서와 협업을 희망하는 브랜드사가 서로 제휴할 수 있도록 돕는 이 서비스의 이름은 무엇일까요?(hint: 보스님을 위한 깜짝 힌트 선물! 친절한 마케팅 뉴스 읽으러 가기) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 21 Jun 2022 01:44:04 GMT</pubDate>
+            <pubDate>Tue, 21 Jun 2022 03:32:42 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버가 인플루언서와 브랜드사의 연결을 돕는 '이 서비스'를 정식 출시했습니다. 네이버에서 활동하는 인플루언서와 협업을 희망하는 브랜드사가 서로 제휴할 수 있도록 돕는 이 서비스의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-6141-57944" target="_blank">보스님을 위한 깜짝 힌트 선물! 친절한 마케팅 뉴스 읽으러 가기</a>)</span></td>
 			</tr>
