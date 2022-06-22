@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 23:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 01:51:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,18 +168,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[14일차 마케터의 꿀팁 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57830</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57830</guid>
-            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[변지현]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[바보들은 한곳으로 모인다.  온라인 광고, 싸움닭 안.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57909</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57909</guid>
             <pubDate>Mon, 06 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[baljunso]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[14일차 마케터의 꿀팁 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57830</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57830</guid>
+            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[변지현]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제발 제발 페이스북의 본질을 알고 마케팅해주세요. .. (아이보스 ─ 인기글)]]></title>
@@ -229,13 +229,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-39129</guid>
             <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마케팅플랜]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[요즘 뜨는 통신사의 문자커머스 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57817</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57817</guid>
-            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 고독하지 않은 마케터 단톡방 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +341,61 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-39124</guid>
             <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[체르시]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[순전히 잡무없이 마케팅만 시키는 회사가 있나요? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39105</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39105</guid>
+            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[짭짭]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[케미마케팅 모델들 간 끈끈하고 자연스러운 관계 서사 속에 광고 화제성과 스토리 부여 효과까지 높여 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8977</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8977</guid>
+            <pubDate>Wed, 22 Jun 2022 10:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 광고계는 자연스러운 모습으로 현실 케미 돋는 친한 모델들이 나란히 같은 업종의 모델로 등극하는 경우를 흔히 볼 수 있다.최근배우 정유미가 코카콜라 태양의 원차 주전자차의 광고 모델로 발탁되며 찐남매 케미를 자랑 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[퀄트릭스, 유연 근무가 주 4일 근무보다 직원 근속에 더 큰 영향 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8976</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8976</guid>
+            <pubDate>Wed, 22 Jun 2022 09:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[경험 관리(XM: Experience Management)분야를 창시하고 선도하고 있는 퀄트릭스가 유연 근무에 대한 한국 직원들의 의견을 조사한 새로운 연구결과를 발표했다. 국내에서 근무 방식 유연화에 대한 논의가 활성화되면서 기업의 근무 형 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[올여름 집에서 더 자주, 화려하게 가꾼다... 에이블리, 속눈썹, 왁싱도 셀프가 대세 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8975</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8975</guid>
+            <pubDate>Wed, 22 Jun 2022 09:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[낮 기온이30도를 웃도는 무더운 날씨가 지속되고 일상 회복에 따라 외출이 잦아지며 셀프 뷰티 케어에 대한 소비자 관심이 급증했다.각종 모임,행사 등 야외활동은 물론,마스크를 벗고 이른 여름 휴가를 떠나는 등 활동 반경이  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 시대 흐름에 맞는 최적의 콘텐츠 제작 역량으로 브랜드 성장을 돕는 콘텐츠 브랜딩 컴퍼니 빅밴드 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8974</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8974</guid>
+            <pubDate>Wed, 22 Jun 2022 08:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[대표님 소개 부탁드립니다.  박재영 저는 빅밴드의 총괄대표를 맡고 있는 박재영입니다. 회사 전체 경영과 미디어커머스 부문을 총괄하고 있습니다. 김영훈 저는 빅밴드 광고사업 부문을 총괄하고 있는 김영훈 대표입니다.  빅 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[한국 갤럽] 2022년 6월 한국인이 좋아하는 TV프로그램 1위: 놀면 뭐하니? (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8973</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8973</guid>
+            <pubDate>Wed, 22 Jun 2022 08:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국갤럽이 2022년 6월 14~16일 전국 만 18세 이상 1,000명에게 요즘 가장 즐겨보는 TV프로그램을 물은 결과(2개까지 자유응답), MBC 토요일 저녁 예능 놀면 뭐하니?가 선호도 4.9%로 8개월 만에 1위로 복귀했다.2019년 7월 시작한 놀면 뭐 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 광고 시장, 15개월째 증가... 그러나 하락세는 지속 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8972</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8972</guid>
+            <pubDate>Wed, 22 Jun 2022 08:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[미디어포스트가 스탠더드미디어인덱스(SMI)의 미국 광고시장 트래커 자료를 분석한 결과, 지난 5월 미국 광고경기가 15개월 연속 성장세를 이어갔지만,침체에서 벗어난 이후 가장 미미한 성장을 보였다. 지난 5월 미국 광고시장 1 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[6월 22일 마케팅 뉴스클리핑] 쇼핑 맛집 자리 뺏긴 네이버... 쿠팡과 명운 건 전투 외 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -542,58 +590,52 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[방통위, 소상공인 방송광고 지원사업 2차 공모 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8948</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8948</guid>
-            <pubDate>Sat, 18 Jun 2022 09:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[방송통신위원회(위원장 한상혁, 이하 방통위)는 한국방송광고진흥공사(사장 이백만)와 함께 소상공인을 대상으로 하는 2022년도 방송광고 제작송출비 지원 사업의 2차 공모를 실시한다. 2차 공모에서는 총 70개사를 선정할 계획 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA["케미마케팅" 모델들 간 끈끈하고 자연스러운 관계 서사 속에 광고 화제성과 스토리 부여 효과까지 높여 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8977</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8977</guid>
+            <pubDate>Wed, 22 Jun 2022 01:51:25 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[트렌드모니터] 나를 위한, 나만의 공간... MZ세대 사로잡은 블로그의 재발견 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8947</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8947</guid>
-            <pubDate>Sat, 18 Jun 2022 09:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근 MZ세대를 중심으로 블로그 서비스가 다시 주목 받고 있다.블로그는 사진이나 영상 위주의 다른플랫폼보다 나만의 공간이라는 안락함을 주고,자신의 생각이나 일상을 긴 텍스트로 남길 수 있어 젊은 세대에게 큰 인기를 모 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[퀄트릭스, 유연 근무가 주 4일 근무보다 직원 근속에 더 큰 영향 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8976</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8976</guid>
+            <pubDate>Wed, 22 Jun 2022 01:51:25 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[LG유플러스, 통합 광고플랫폼 U+AD 론칭... 광고사업은 미래 핵심 먹거리 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8946</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8946</guid>
-            <pubDate>Fri, 17 Jun 2022 08:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 TV와 모바일 광고상품을 통합 운영하는 통합 광고 플랫폼의 브랜드 `U+AD`를 6월 16일 론칭하고, 초개인화 타기팅 광고를 선보인다. U+AD는 광고사업의 DX기반을 마련하기 위해 구축한 광고 운영 플랫폼으로, TV모바일  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA["올여름 집에서 더 자주, 화려하게 가꾼다"... 에이블리, 속눈썹, 왁싱도 셀프가 대세 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8975</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8975</guid>
+            <pubDate>Wed, 22 Jun 2022 01:51:25 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방통위, 방송광고 네거티브 규제 도입 논의 본격화.. 광고회사는 이번에도 빠져 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8944</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8944</guid>
-            <pubDate>Fri, 17 Jun 2022 07:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[방송통신위원회(위원장 한상혁, 이하 방통위)는 지난 6월 15일(수) `방송광고 네거티브 규제 체계 도입을 위한 협의체`(이하 협의체)를 출범하여 첫 논의를 시작한다. 협의체는 방송광고법률 전문가, 관련 업계, 시민단체 등 총 11 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[인터뷰] 시대 흐름에 맞는 최적의 콘텐츠 제작 역량으로 브랜드 성장을 돕는 콘텐츠 브랜딩 컴퍼니 ‘빅밴드’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8974</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8974</guid>
+            <pubDate>Wed, 22 Jun 2022 01:51:25 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[데이터 마케팅 실무자 위한 지침서 나왔다. 데이터 드리븐 마케팅 101 발간 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8943</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8943</guid>
-            <pubDate>Fri, 17 Jun 2022 08:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[빅데이터 플랫폼 기업 아이지에이웍스(대표 마국성)가 한국광고총연합회(회장 김낙회)와 함께데이터 드리븐 마케팅101(Data Driven Marketing 101)을 발간했다. 데이터 드리븐 마케팅101은 국내 최고 수준의 현업 전문가들이 제작한 데 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[한국 갤럽] 2022년 6월 한국인이 좋아하는 TV프로그램 1위: 놀면 뭐하니? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8973</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8973</guid>
+            <pubDate>Wed, 22 Jun 2022 01:51:25 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 사랑받는 브랜드를 위한 크리에이티브 솔루션을 제공하겠습니다 김동욱 브라이언에잇 대표 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8942</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8942</guid>
-            <pubDate>Fri, 17 Jun 2022 08:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근 LG전자 스타일러 캠페인이 눈에 띄었다. 날씨에 따라 콘텐츠가 달라지기 때문이었다. 이 광고를 만든 회사가 브라이언에잇이다. 브라이언에잇은 기본의 방식, 남과 같은 방식을 거부한다. 브라이언에잇은 어떻게 광고를 만 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[미국 광고 시장, 15개월째 증가... 그러나 하락세는 지속 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8972</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8972</guid>
+            <pubDate>Wed, 22 Jun 2022 01:51:25 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[6월 22일 마케팅 뉴스클리핑] '쇼핑 맛집' 자리 뺏긴 네이버... 쿠팡과 명운 건 전투 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8971</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8971</guid>
-            <pubDate>Tue, 21 Jun 2022 23:19:59 GMT</pubDate>
+            <pubDate>Wed, 22 Jun 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -758,52 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방통위, 소상공인 방송광고 지원사업 2차 공모 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8948</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8948</guid>
-            <pubDate>Sat, 18 Jun 2022 09:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[트렌드모니터] “나를 위한, 나만의 공간”... MZ세대 사로잡은 블로그의 재발견 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8947</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8947</guid>
-            <pubDate>Sat, 18 Jun 2022 09:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스, 통합 광고플랫폼 'U+AD' 론칭... "광고사업은 미래 핵심 먹거리" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8946</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8946</guid>
-            <pubDate>Fri, 17 Jun 2022 08:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[방통위, 방송광고 네거티브 규제 도입 논의 본격화.. 광고회사는 이번에도 빠져 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8944</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8944</guid>
-            <pubDate>Fri, 17 Jun 2022 07:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[데이터 마케팅 실무자 위한 지침서 나왔다. ‘데이터 드리븐 마케팅 101’ 발간 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8943</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8943</guid>
-            <pubDate>Fri, 17 Jun 2022 08:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] "사랑받는 브랜드를 위한 크리에이티브 솔루션을 제공하겠습니다" 김동욱 브라이언에잇 대표 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8942</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8942</guid>
-            <pubDate>Fri, 17 Jun 2022 08:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 구글 Ads의 키워드 검색 유형에 해당하지 않는 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 21 Jun 2022 23:20:10 GMT</pubDate>
+            <pubDate>Wed, 22 Jun 2022 01:51:39 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 구글 Ads의 키워드 검색 유형에 해당하지 않는 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
