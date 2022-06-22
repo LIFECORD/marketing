@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-22T09:18:09.390Z</updated>
+    <updated>2022-06-22T10:23:20.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[디자인업]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[초보 팀장을 위한 튜토리얼]]></title>
-        <id>https://www.i-boss.co.kr/ab-5637-45</id>
-        <link href="https://www.i-boss.co.kr/ab-5637-45"/>
-        <updated>2022-05-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[매체별 광고 가이드 - 페이스북, 인스타그램, 네이버 ..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57915</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57915"/>
         <updated>2022-06-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[쏭쏘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[초보 팀장을 위한 튜토리얼]]></title>
+        <id>https://www.i-boss.co.kr/ab-5637-45</id>
+        <link href="https://www.i-boss.co.kr/ab-5637-45"/>
+        <updated>2022-05-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브랜드와 인플루언서를 연결하는 네이버 `브랜드 커..]]></title>
