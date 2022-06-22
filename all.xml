@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 04:36:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 05:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -175,13 +175,6 @@
             <content:encoded><![CDATA[baljunso]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[14일차 마케터의 꿀팁 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57830</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57830</guid>
-            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[변지현]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[제발 제발 페이스북의 본질을 알고 마케팅해주세요. .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57960</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57960</guid>
@@ -348,6 +341,13 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57984</guid>
             <pubDate>Wed, 15 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[woodie]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[순전히 잡무없이 마케팅만 시키는 회사가 있나요? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39105</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39105</guid>
+            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[짭짭]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[케미마케팅 모델들 간 끈끈하고 자연스러운 관계 서사 속에 광고 화제성과 스토리 부여 효과까지 높여 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 중 구글 Ads의 키워드 검색 유형에 해당하지 않는 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 22 Jun 2022 04:36:18 GMT</pubDate>
+            <pubDate>Wed, 22 Jun 2022 05:23:01 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 구글 Ads의 키워드 검색 유형에 해당하지 않는 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
