@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-06-22T06:23:08.257Z</updated>
+    <updated>2022-06-22T08:27:42.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[트렌드모니터] “결국, 가장 중요한 건 적성” 나에 대한 확신이 더욱 절실한 요즘 사람들]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8981</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8981"/>
+        <updated>2022-06-22T08:27:19.241Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코바코, 한국PR협회와 공익사업 활성화를 위한 업무협약 체결]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8980</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8980"/>
+        <updated>2022-06-22T08:27:19.242Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["케미마케팅" 모델들 간 끈끈하고 자연스러운 관계 서사 속에 광고 화제성과 스토리 부여 효과까지 높여]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8977</id>
@@ -199,20 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-8951</id>
         <link href="https://www.i-boss.co.kr/ab-2877-8951"/>
         <updated>2022-06-18T01:40:53.525Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인포그래픽] CTV가 미국 TV 광고 산업에 박차를 가하고 있다]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8950</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8950"/>
-        <updated>2022-06-18T01:40:53.526Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울경제인협회, 중소기업·소상공인 대상 BI·CI 개발과 현판제작 지원 나선다]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8949</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8949"/>
-        <updated>2022-06-18T01:40:53.530Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>

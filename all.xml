@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 06:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 08:27:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,18 +147,18 @@
             <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[디자이너 없이 이미지 만들고 칼퇴하는 꿀팁 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57912</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57912</guid>
-            <pubDate>Tue, 07 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[지카츄]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[사수 없는 신입을 위한 실무 치트키 95개 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-3208-828</link>
             <guid>https://www.i-boss.co.kr/ab-3208-828</guid>
             <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김매니저]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[디자이너 없이 이미지 만들고 칼퇴하는 꿀팁 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57912</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57912</guid>
+            <pubDate>Tue, 07 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지카츄]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 마케터 시무 5조 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,22 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-39105</guid>
             <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[짭짭]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[트렌드모니터] 결국, 가장 중요한 건 적성 나에 대한 확신이 더욱 절실한 요즘 사람들 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8981</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8981</guid>
+            <pubDate>Wed, 22 Jun 2022 08:27:01 GMT</pubDate>
+            <content:encoded><![CDATA[과거 장래희망 선호도 교사, 과학자 순서...현재 직업, 공부와의 연관성은 떨어지는 모습  시장조사전문기업 엠브레인 트렌드모니터가 전국 만 19~59세 성인 남녀 1,000명을 대상으로 현대인의 꿈과 적성, 인생 목표에 대한 인식 조 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[코바코, 한국PR협회와 공익사업 활성화를 위한 업무협약 체결 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8980</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8980</guid>
+            <pubDate>Wed, 22 Jun 2022 08:27:01 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송광고진흥공사(코바코,사장 이백만)는21일 한국프레스센터에서 한국PR협회(회장 김주호)와 미디어광고홍보 산업 발전을 위한 공익사업 활성화를 내용으로 하는 업무협약(MOU)을 체결했다. 이번 협약을 통해 양 기관은 미 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[케미마케팅 모델들 간 끈끈하고 자연스러운 관계 서사 속에 광고 화제성과 스토리 부여 효과까지 높여 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -574,20 +590,18 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] CTV가 미국 TV 광고 산업에 박차를 가하고 있다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8950</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8950</guid>
-            <pubDate>Sat, 18 Jun 2022 09:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 리니어 TV 광고비는올해 683억 5천만 달러를 기록하고 2026년에는 649억 4천만 달러로 감소할 것으로 이마케터는 예상했다.리니어 TV 광고비는 감소함에도 CTV 시청률 증가에 따라 리니어 TV와 CTV를 합친 전체 광고비는 올해 87 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[트렌드모니터] “결국, 가장 중요한 건 적성” 나에 대한 확신이 더욱 절실한 요즘 사람들 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8981</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8981</guid>
+            <pubDate>Wed, 22 Jun 2022 08:27:19 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[서울경제인협회, 중소기업소상공인 대상 BICI 개발과 현판제작 지원 나선다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8949</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8949</guid>
-            <pubDate>Sat, 18 Jun 2022 09:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[서울시가 전문인력 부족 또는 비용부담 등으로 BI(Brand Identity)와 CI(Corporate Identity)가 없는 중소기업과 소상공인을 위해 개발과 현판제작 지원에 나선다. `BICI개발과 현판제작 지원사업`의운영기관인 서울경제인협회는서울시 보 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[코바코, 한국PR협회와 공익사업 활성화를 위한 업무협약 체결 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8980</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8980</guid>
+            <pubDate>Wed, 22 Jun 2022 08:27:19 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["케미마케팅" 모델들 간 끈끈하고 자연스러운 관계 서사 속에 광고 화제성과 스토리 부여 효과까지 높여 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -786,24 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] CTV가 미국 TV 광고 산업에 박차를 가하고 있다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8950</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8950</guid>
-            <pubDate>Sat, 18 Jun 2022 09:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서울경제인협회, 중소기업·소상공인 대상 BI·CI 개발과 현판제작 지원 나선다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8949</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8949</guid>
-            <pubDate>Sat, 18 Jun 2022 09:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다음 중 구글 Ads의 키워드 검색 유형에 해당하지 않는 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 22 Jun 2022 06:22:57 GMT</pubDate>
+            <pubDate>Wed, 22 Jun 2022 08:27:32 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 중 구글 Ads의 키워드 검색 유형에 해당하지 않는 것은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
