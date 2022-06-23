@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-23T08:26:32.552Z</updated>
+    <updated>2022-06-23T09:19:15.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -139,6 +139,13 @@
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[고작 이런 이미지로 ROAS 870%가 가능 하다고요?(feat. 페..]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57981</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57981"/>
+        <updated>2022-06-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[백코맨트]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[억만 장자가 매일 실행하는 To Do List]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57838</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57838"/>
@@ -165,13 +172,6 @@
         <link href="https://www.i-boss.co.kr/ab-1486505-39168"/>
         <updated>2022-06-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[레스뿌와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고작 이런 이미지로 ROAS 870%가 가능 하다고요?(feat. 페..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57981</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57981"/>
-        <updated>2022-06-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[백코맨트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소울리스좌 아마존송 유행이라는데 아시는 분?]]></title>

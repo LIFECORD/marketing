@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 08:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 09:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -273,6 +273,13 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[고작 이런 이미지로 ROAS 870%가 가능 하다고요?(feat. 페.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57981</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57981</guid>
+            <pubDate>Wed, 15 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[백코맨트]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[억만 장자가 매일 실행하는 To Do List (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57838</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57838</guid>
@@ -299,13 +306,6 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-39168</guid>
             <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레스뿌와]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고작 이런 이미지로 ROAS 870%가 가능 하다고요?(feat. 페.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57981</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57981</guid>
-            <pubDate>Wed, 15 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[백코맨트]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소울리스좌 아마존송 유행이라는데 아시는 분? (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[다음 이미지는 전통적인 마케팅 전략 중 하나인 4P에 대한 설명입니다. 보기에서 4P에 해당하지 않는 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Thu, 23 Jun 2022 08:26:22 GMT</pubDate>
+            <pubDate>Thu, 23 Jun 2022 09:19:05 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->다음 이미지는 전통적인 마케팅 전략 중 하나인 4P에 대한 설명입니다. 보기에서 4P에 해당하지 않는 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/561e49499b5bb0abea796b565b9de2ad_16553692267999.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
