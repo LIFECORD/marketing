@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 22:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 23:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[6월 24일 마케팅 뉴스클리핑] 최저가 비교 에누리닷컴, 브랜드스토어 연 이유는 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8985</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8985</guid>
+            <pubDate>Fri, 24 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 최저가 비교 `에누리닷컴`, 브랜드스토어 연 이유는  최저가 검색 사이트 `에누리닷컴`이 브랜드스토어를 오픈해 사업역량을 확대한다. 해당 브랜드스토어를 통해 판매자는 유통 채널을 확대하는 한편 구매자의 경우 쇼핑 트 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_04a2eb6276d1fa3b4d492fef89922ddc_27311_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배민, 소상공인 플랫폼 이용 확대 지원]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8984</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Jun 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 네이버 크림, 개인 간 중고거래 사업 진출  네이버의 리셀 플랫폼 크림이 개인 간 명품 거래로 사업을 확장한다. 크림 자회사 팹은 개인간 명품 거래 지원 서비스 플랫폼 `시크(CHIC)`를 정식 출시했다고 밝혔다. 사기 거래를 방 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_706385d1d426303143153180b66e47b5_62152_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 세 가지 유형의 인플레이션]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8955</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8955</guid>
-            <pubDate>Sun, 19 Jun 2022 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[미국 소비자 물가가 40년 만에 최고치를 기록하면서 인플레이션이 뉴스를 지배하고 있다.식품과 에너지를 포함한 일상용품의 가격이 가장 널리 인용되는 인플레이션 유형이지만, 더 넓은 경제 시스템 전반에 걸쳐 다른 형태가  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 22:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 23:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[체르시]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[6월 24일 마케팅 뉴스클리핑] 최저가 비교 에누리닷컴, 브랜드스토어 연 이유는 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8985</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8985</guid>
+            <pubDate>Fri, 24 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 최저가 비교 `에누리닷컴`, 브랜드스토어 연 이유는  최저가 검색 사이트 `에누리닷컴`이 브랜드스토어를 오픈해 사업역량을 확대한다. 해당 브랜드스토어를 통해 판매자는 유통 채널을 확대하는 한편 구매자의 경우 쇼핑 트 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_04a2eb6276d1fa3b4d492fef89922ddc_27311_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[배민, 소상공인 플랫폼 이용 확대 지원 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8984</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8984</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_706385d1d426303143153180b66e47b5_62152_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 세 가지 유형의 인플레이션 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8955</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8955</guid>
-            <pubDate>Sun, 19 Jun 2022 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[미국 소비자 물가가 40년 만에 최고치를 기록하면서 인플레이션이 뉴스를 지배하고 있다.식품과 에너지를 포함한 일상용품의 가격이 가장 널리 인용되는 인플레이션 유형이지만, 더 넓은 경제 시스템 전반에 걸쳐 다른 형태가  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[6월 24일 마케팅 뉴스클리핑] 최저가 비교 '에누리닷컴', 브랜드스토어 연 이유는 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8985</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8985</guid>
+            <pubDate>Thu, 23 Jun 2022 23:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[배민, 소상공인 플랫폼 이용 확대 지원 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 세 가지 유형의 인플레이션 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8955</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8955</guid>
-            <pubDate>Sun, 19 Jun 2022 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[네이버 밴드의 소셜광고는 밴드를 개설한 사업자가 밴드의 멤버 수를 늘리고, 적절한 알림을 통해 매출을 증가시키려는 목적으로 주로 이용하는 밴드 내 광고 상품입니다. 다음 중 밴드 소셜 광고가 노출되지 않는 위치는 어디일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Thu, 23 Jun 2022 23:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->네이버 밴드의 소셜광고는 밴드를 개설한 사업자가 밴드의 멤버 수를 늘리고, 적절한 알림을 통해 매출을 증가시키려는 목적으로 주로 이용하는 밴드 내 광고 상품입니다. 다음 중 밴드 소셜 광고가 노출되지 않는 위치는 어디일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1451_1" value="1" class="AB-radio" id="PQ_BD5826_1451_1_0"><label for="PQ_BD5826_1451_1_0" id="label_PQ_BD5826_1451_1_0">(A) 새소식 화면</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1451_1" value="2" class="AB-radio" id="PQ_BD5826_1451_1_1"><label for="PQ_BD5826_1451_1_1" id="label_PQ_BD5826_1451_1_1">(B) 밴드 홈화면</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1451_1" value="3" class="AB-radio" id="PQ_BD5826_1451_1_2"><label for="PQ_BD5826_1451_1_2" id="label_PQ_BD5826_1451_1_2">(C) 채팅 최상단</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1451_1" value="4" class="AB-radio" id="PQ_BD5826_1451_1_3"><label for="PQ_BD5826_1451_1_3" id="label_PQ_BD5826_1451_1_3">(D) 밴드 푸시 알림</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인 61만명 2분기 손실보상금 100만원 선지급…24시간 신청 가능 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
