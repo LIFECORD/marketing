@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 03:39:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 04:37:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배민, 소상공인 플랫폼 이용 확대 지원]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8984</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8984</guid>
+            <pubDate>Thu, 23 Jun 2022 04:37:15 GMT</pubDate>
+            <content:encoded><![CDATA[소상공인시장진흥공단과 `플랫폼 진출 지원 사업` 접수 23일 시작  배민 운영사 우아한형제들은 소진공과 함께 진행하는 플랫폼 진출 지원 사업 접수를 시작한다고 23일 밝혔다. 이 사업은 음식점을 운영하는 소상공인 온라인 판 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_92ddbb0fd21531088dda19abaeae201d_34990_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프로스트 앤드 설리번, 모바일 퍼스트 커뮤니케이션 솔루션이 다양한 하이브리드 업무 환경 강화]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8983</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8955</guid>
             <pubDate>Sun, 19 Jun 2022 08:59:00 GMT</pubDate>
             <content:encoded><![CDATA[미국 소비자 물가가 40년 만에 최고치를 기록하면서 인플레이션이 뉴스를 지배하고 있다.식품과 에너지를 포함한 일상용품의 가격이 가장 널리 인용되는 인플레이션 유형이지만, 더 넓은 경제 시스템 전반에 걸쳐 다른 형태가  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[맥킨지, 메타버스 시장 2030년 최대 5조 달러 규모로 성장]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8954</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8954</guid>
-            <pubDate>Sun, 19 Jun 2022 08:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[McKinsey &amp; Company는 메타버스 분야가 무시할 수 없을 만큼 거대한 시장이 되고 있다는 내용의 신규 보고서 메타버스의 가치 창출(Value creation in the metaverse)을 발표했다. 맥킨지의 사전 예측을 담은 보고서에 따르면, 메타버스 시장은 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
