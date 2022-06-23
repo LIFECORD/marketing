@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-23T09:19:15.383Z</updated>
+    <updated>2022-06-23T10:21:11.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -132,18 +132,18 @@
         <content type="html"><![CDATA[marineE]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[마케팅밈] 마케터가 얻는 기초 체력]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-39317</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-39317"/>
-        <updated>2022-06-23T06:23:20.248Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[고작 이런 이미지로 ROAS 870%가 가능 하다고요?(feat. 페..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57981</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57981"/>
         <updated>2022-06-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[백코맨트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마케팅밈] 마케터가 얻는 기초 체력]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-39317</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-39317"/>
+        <updated>2022-06-23T06:23:20.248Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[억만 장자가 매일 실행하는 To Do List]]></title>
@@ -202,17 +202,17 @@
         <content type="html"><![CDATA[나단8]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[카피꿀팁#1] 이걸 잘못 짚으면 매출이 안 나옵니다.]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-58051</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-58051"/>
+        <updated>2022-06-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[언카피]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이커머스 전환율 관련 지표 6가지]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-57984</id>
         <link href="https://www.i-boss.co.kr/ab-6141-57984"/>
         <updated>2022-06-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[woodie]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디자인 관련 법 알려주는 계정의 드립력]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-39124</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-39124"/>
-        <updated>2022-05-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[체르시]]></content>
     </entry>
 </feed>
