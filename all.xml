@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 22:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 01:28:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갑자기 자사 블로그를 운영하래요...😥 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1052686-%EA%B0%91%EC%9E%90%EA%B8%B0_%EC%9E%90%EC%82%AC_%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC_%EC%9A%B4%EC%98%81%ED%95%98%EB%9E%98%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1052686-%EA%B0%91%EC%9E%90%EA%B8%B0_%EC%9E%90%EC%82%AC_%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC_%EC%9A%B4%EC%98%81%ED%95%98%EB%9E%98%EC%9A%94/</guid>
+            <pubDate>Thu, 23 Jun 2022 01:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1052686-갑자기_자사_블로그를_운영하래요/">
+						<div class="thumb"><img src="/images/qletter_1052686.png"></div>
+						<p><strong>갑자기 자사 블로그를 운영하래요...😥</strong>2022.06.23</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1052686.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오가 그리는 메타버스, ‘카카오 유니버스’ (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1045920-%EC%B9%B4%EC%B9%B4%EC%98%A4%EA%B0%80_%EA%B7%B8%EB%A6%AC%EB%8A%94_%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4_%EC%B9%B4%EC%B9%B4%EC%98%A4_%EC%9C%A0%EB%8B%88%EB%B2%84%EC%8A%A4/</link>
@@ -127,17 +138,6 @@
 						<p><strong>할 일 없는 신입은 뭐 해요? 😥</strong>2022.05.12</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_993494.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인공지능으로 취향 저격하는 검색 결과 🤖 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/987962-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9C%BC%EB%A1%9C_%EC%B7%A8%ED%96%A5_%EC%A0%80%EA%B2%A9%ED%95%98%EB%8A%94_%EA%B2%80%EC%83%89_%EA%B2%B0%EA%B3%BC/</link>
-            <guid>https://qletter.i-boss.co.kr/view/987962-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9C%BC%EB%A1%9C_%EC%B7%A8%ED%96%A5_%EC%A0%80%EA%B2%A9%ED%95%98%EB%8A%94_%EA%B2%80%EC%83%89_%EA%B2%B0%EA%B3%BC/</guid>
-            <pubDate>Mon, 09 May 2022 01:39:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/987962-인공지능으로_취향_저격하는_검색_결과/">
-						<div class="thumb"><img src="/images/qletter_987962.png"></div>
-						<p><strong>인공지능으로 취향 저격하는 검색 결과 🤖</strong>2022.05.09</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_987962.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2022년 우뇌식 페이스북 세팅방법 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +348,30 @@
             <guid>https://www.i-boss.co.kr/ab-1486505-39105</guid>
             <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[짭짭]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[프로스트 앤드 설리번, 모바일 퍼스트 커뮤니케이션 솔루션이 다양한 하이브리드 업무 환경 강화 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8983</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8983</guid>
+            <pubDate>Thu, 23 Jun 2022 08:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 컨설팅 기업 프로스트 앤드 설리번이 하이브리드 업무 환경을 위한 모바일 커뮤니케이션 솔루션의 진화 분석 보고서(Evaluating Mobile Communications Solutions for the Hybrid Workforce)를 발표했다. 보고서에 따르면, 코로나19 팬데믹을 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[양질의 디지털 광고는 유저 중심에 있으며, 더 나은 미디어 경험을 제공하는 프레임워크를 제공한다 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8982</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8982</guid>
+            <pubDate>Thu, 23 Jun 2022 08:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[최근 하바스 미디어 그룹과 티즈는매체사 환경에서 유저 관여도를 증대하는 요인에 대한 공동 리서치 연구 프로젝트 트리니티의 결과를 공개했다. 2021년에 발표된 이 연구는 매체사, 광고주 및 유저의 요구사항에 균형을 맞추 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[6워 23일 마케팅 뉴스클리핑] 페이스북, 가짜 리뷰 금지 정책에 명시 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8979</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8979</guid>
+            <pubDate>Thu, 23 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 페이스북, `가짜 리뷰 금지` 정책에 명시  페이스북은 최근 커뮤니티 피드백 정책을 업데이트하면서 가짜유료 리뷰를 명시적으로 금지했다. 그동안 페이스북은 가짜유료 리뷰를 단속해왔지만 공식화한 건 이번이 처음이다.  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_107204839ea0342ef9646934673cca38_31717_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트렌드모니터] 결국, 가장 중요한 건 적성 나에 대한 확신이 더욱 절실한 요즘 사람들 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -566,28 +590,25 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 팟캐스트, 새로운 대중매체? (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8953</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8953</guid>
-            <pubDate>Sun, 19 Jun 2022 08:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근 몇 년 동안 디지털 오디오 시장이 급성장했다. 이러한 성장의 배경에는 클럽하우스를 비롯한 오디오 SNS의 부상도 있지만, 팟캐스트가 오디오 콘텐츠를 배포하는 새로운 형태로 등장했기 때문이다.팟캐스트는 일반 대중을  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[프로스트 앤드 설리번, "모바일 퍼스트 커뮤니케이션 솔루션이 다양한 하이브리드 업무 환경 강화” (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8983</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8983</guid>
+            <pubDate>Thu, 23 Jun 2022 01:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에픽게임즈, 게임 개발자를 위한 에픽 온라인 서비스 PC 크로스 플레이 무료 출시 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8952</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8952</guid>
-            <pubDate>Sun, 19 Jun 2022 08:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[게임 개발자들을 위한 에픽 온라인 서비스의 PC 크로스 플레이 구축 툴이 무료로 출시됐다. 세계적인 게임 개발사이자 언리얼 엔진, 스토어 및 디지털 창작 생태계를 위한 모든 것을 제공하는 에픽게임즈(대표 팀 스위니)가 에픽 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[양질의 디지털 광고는 유저 중심에 있으며, 더 나은 미디어 경험을 제공하는 프레임워크를 제공한다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8982</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8982</guid>
+            <pubDate>Thu, 23 Jun 2022 01:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[파라마운트플러스, 이제 티빙에서 본다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8951</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8951</guid>
-            <pubDate>Sat, 18 Jun 2022 09:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[미국 온라인동영상서비스(OTT) 파라마운트플러스가 티빙을 통해 한국 서비스를 론칭했다.파라마운트플러스가 아시아 시장에 진출하는 것은 이번이 처음이다. 티빙 서비스 내에 파라마운트 플러스 브랜드관을 열고 오리지널 콘 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[6워 23일 마케팅 뉴스클리핑] 페이스북, '가짜 리뷰 금지' 정책에 명시 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8979</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8979</guid>
+            <pubDate>Thu, 23 Jun 2022 01:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[트렌드모니터] “결국, 가장 중요한 건 적성” 나에 대한 확신이 더욱 절실한 요즘 사람들 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -779,25 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인포그래픽] 팟캐스트, 새로운 대중매체? (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8953</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8953</guid>
-            <pubDate>Sun, 19 Jun 2022 08:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[에픽게임즈, 게임 개발자를 위한 에픽 온라인 서비스 ‘PC 크로스 플레이’ 무료 출시 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8952</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8952</guid>
-            <pubDate>Sun, 19 Jun 2022 08:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[파라마운트플러스, 이제 티빙에서 본다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8951</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8951</guid>
-            <pubDate>Sat, 18 Jun 2022 09:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[다음 이미지는 전통적인 마케팅 전략 중 하나인 4P에 대한 설명입니다. 보기에서 4P에 해당하지 않는 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Thu, 23 Jun 2022 01:28:03 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->다음 이미지는 전통적인 마케팅 전략 중 하나인 4P에 대한 설명입니다. 보기에서 4P에 해당하지 않는 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/561e49499b5bb0abea796b565b9de2ad_16553692267999.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1450_1" value="1" class="AB-radio" id="PQ_BD5826_1450_1_0"><label for="PQ_BD5826_1450_1_0" id="label_PQ_BD5826_1450_1_0">(A) 가격</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1450_1" value="2" class="AB-radio" id="PQ_BD5826_1450_1_1"><label for="PQ_BD5826_1450_1_1" id="label_PQ_BD5826_1450_1_1">(B) 고객</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1450_1" value="3" class="AB-radio" id="PQ_BD5826_1450_1_2"><label for="PQ_BD5826_1450_1_2" id="label_PQ_BD5826_1450_1_2">(C) 장소</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1450_1" value="4" class="AB-radio" id="PQ_BD5826_1450_1_3"><label for="PQ_BD5826_1450_1_3" id="label_PQ_BD5826_1450_1_3">(D) 제품</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인 61만명 2분기 손실보상금 100만원 선지급…24시간 신청 가능 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
