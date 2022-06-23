@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-23T11:16:49.594Z</updated>
+    <updated>2022-06-23T12:37:37.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[덕구네집]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[보스님의 떨어진 매출을 잡아줄 `다시 팔리는 것들의..]]></title>
-        <id>https://www.i-boss.co.kr/ab-2973-466</id>
-        <link href="https://www.i-boss.co.kr/ab-2973-466"/>
-        <updated>2022-06-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[당첨대쓔]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[인하우스 퍼포먼스 마케터 현실]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-39172</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-39172"/>
         <updated>2022-06-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[노호락]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보스님의 떨어진 매출을 잡아줄 `다시 팔리는 것들의..]]></title>
+        <id>https://www.i-boss.co.kr/ab-2973-466</id>
+        <link href="https://www.i-boss.co.kr/ab-2973-466"/>
+        <updated>2022-06-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[당첨대쓔]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[콜라보마케팅] MZ 세대 사로 잡는 대세 마케팅, 콜라..]]></title>
