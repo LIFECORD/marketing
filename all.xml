@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 03:43:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 04:40:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,18 +238,18 @@
             <content:encoded><![CDATA[백코맨트]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터들이 모으고 있는 마케팅 정보 모음 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57930</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57930</guid>
-            <pubDate>Wed, 08 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[덕구네집]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 마케터가 얻는 기초 체력 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39317</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39317</guid>
             <pubDate>Thu, 23 Jun 2022 06:23:20 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케터들이 모으고 있는 마케팅 정보 모음 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57930</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57930</guid>
+            <pubDate>Wed, 08 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[덕구네집]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인하우스 퍼포먼스 마케터 현실 (아이보스 ─ 인기글)]]></title>
@@ -593,7 +593,7 @@
             <title><![CDATA[MZ세대 마음을 잡아라... 식품업계, 굿즈에 꽂히다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8988</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8988</guid>
-            <pubDate>Fri, 24 Jun 2022 03:43:10 GMT</pubDate>
+            <pubDate>Fri, 24 Jun 2022 11:25:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[네이버 밴드의 소셜광고는 밴드를 개설한 사업자가 밴드의 멤버 수를 늘리고, 적절한 알림을 통해 매출을 증가시키려는 목적으로 주로 이용하는 밴드 내 광고 상품입니다. 다음 중 밴드 소셜 광고가 노출되지 않는 위치는 어디일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 24 Jun 2022 03:43:21 GMT</pubDate>
+            <pubDate>Fri, 24 Jun 2022 04:40:13 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버 밴드의 소셜광고는 밴드를 개설한 사업자가 밴드의 멤버 수를 늘리고, 적절한 알림을 통해 매출을 증가시키려는 목적으로 주로 이용하는 밴드 내 광고 상품입니다. 다음 중 밴드 소셜 광고가 노출되지 않는 위치는 어디일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
