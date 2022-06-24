@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 23:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 01:42:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위픽코퍼레이션, 틱톡 SMB 사업부 최초 공식 파트너사 선정]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8987</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8987</guid>
+            <pubDate>Fri, 24 Jun 2022 09:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅 전문 에이전시 위픽코퍼레이션(대표 김태환)이 최근23일 글로벌 숏폼 모바일 비디오 플랫폼인틱톡(TikTok)공식 파트너에 선정되었다고 밝혔다. 틱톡측은 위픽코퍼레이션이 매체 특성을 이해한 광고 운영으로 틱톡SMB(Small M ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[Book] Ready, 네 개의 세상 : 우리는 매일 다른 세계로 로그인한다!출간]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8986</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8986</guid>
+            <pubDate>Fri, 24 Jun 2022 08:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[매일 다른 세계로 로그인 하는 우리,네 개의 세상을 현명하게 살 수 있는 법  코로나19는 많은 사람에게 고통을 주었지만. 큰 틀에서 보면 역사의 변곡점을 만드는 사회적 파괴도 가져왔다. 특히 근무 형태의 기준들이 바뀌면서  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[6월 24일 마케팅 뉴스클리핑] 최저가 비교 에누리닷컴, 브랜드스토어 연 이유는 외]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8985</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 20 Jun 2022 08:40:00 GMT</pubDate>
             <content:encoded><![CDATA[퍼블리시스의제니스 가 올해 글로벌 광고시장 전망치를 조정한데 이어, WPP의 그룹M도 광고시장 전망치를 조정했다. 그룹M 역시 위험한 경제 상화과 우크라이나 전쟁과 같은 상황에서도 글로벌 광고시장은 계속 성장할 것으로  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[방송사업자 2021년도 광고매출, 전년 대비 4,075억원(15.0%) 증가한 3조 1,247억원]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8956</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8956</guid>
-            <pubDate>Mon, 20 Jun 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 지상파, 유료방송 등 방송사업자 매출이 2020년 대비 1조 원 이상 늘었다. 특히 중간광고를 도입한 지상파TV 매출이 전년 대비 10% 이상 늘었다. 방송통신위원회가발표한 2021 회계연도 방송사업자 재산상황에 따르면,방송사 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[6월 20일 마케팅 뉴스클리핑] 네이버 크림, 개인 간 중고거래 사업 진출 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8945</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8945</guid>
-            <pubDate>Mon, 20 Jun 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 네이버 크림, 개인 간 중고거래 사업 진출  네이버의 리셀 플랫폼 크림이 개인 간 명품 거래로 사업을 확장한다. 크림 자회사 팹은 개인간 명품 거래 지원 서비스 플랫폼 `시크(CHIC)`를 정식 출시했다고 밝혔다. 사기 거래를 방 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_706385d1d426303143153180b66e47b5_62152_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
