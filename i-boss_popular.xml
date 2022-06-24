@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-24T14:15:53.639Z</updated>
+    <updated>2022-06-24T15:22:28.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -202,17 +202,17 @@
         <content type="html"><![CDATA[yoorok]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[포토샵cs6도아닌 6을 사용하는 회사 그 후..]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-39316</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-39316"/>
-        <updated>2022-06-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유리구슬]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[홈페이지 상단 이렇게 만들면 80%의 고객이 이탈한다.]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-58029</id>
         <link href="https://www.i-boss.co.kr/ab-6141-58029"/>
         <updated>2022-06-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[yoorok]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포토샵cs6도아닌 6을 사용하는 회사 그 후..]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-39316</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-39316"/>
+        <updated>2022-06-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[유리구슬]]></content>
     </entry>
 </feed>
