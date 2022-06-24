@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 08:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 09:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[솔드아웃도 무료배송 끝... 리셀 플랫폼 수익성 개선 작업 착수]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8990</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8990</guid>
+            <pubDate>Fri, 24 Jun 2022 09:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[솔드아웃, 7월부터 배송비 2000원 부과 시작...무료 이용 끝 네이버 크림은 지난해부터 배송비 부과, 다달이 인상거쳐 현재 배송비 3000원 크림은 배송비에 수수료까지 부과 시작 리셀 플랫폼 무료 이용 정책 손보기 본격화   네이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_448f3fa228d6682a565f761344c11470_15437_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MZ세대 마음을 잡아라... 식품업계, 굿즈에 꽂히다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8988</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8959</guid>
             <pubDate>Mon, 20 Jun 2022 09:01:00 GMT</pubDate>
             <content:encoded><![CDATA[제일기획(대표이사 사장 유정근)이 헬스케어&amp;웰니스 분야 유명 글로벌 광고제인 2022 클리오 헬스 어워드(Clio Health Awards)에서 대상 1개, 금상 2개, 은상 1개, 동상 3개 등 총 7개의 본상을 수상했다. 이번 클리오 헬스 어워드에서 대 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[마그나, 글로벌 광고 시장 9.2%로 하향 전망]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8958</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8958</guid>
-            <pubDate>Mon, 20 Jun 2022 08:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[IPG 미디어 브랜드 마그나(IPG Mediabrands Magna)는WPP의 그룹M 과퍼블릭리스의 제니스 가 미국 및 전 세계 광고 지출 전망을 하향 조정 발표한데에 이어 당초 2022년 전망보다 하향 조정했다. 마그나는 글로벌 광고 성장률 전망치를 2.8% ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

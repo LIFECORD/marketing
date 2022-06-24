@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 08:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 09:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,18 +182,18 @@
             <content:encoded><![CDATA[baljunso]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[피그마, 마케터의 치트키가 될 수 있을까? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57887</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57887</guid>
-            <pubDate>Thu, 02 Jun 2022 08:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[성공을 만드는 3요소 '태도, 몰입, 행운' (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39257</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39257</guid>
             <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[디자인업]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[피그마, 마케터의 치트키가 될 수 있을까? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57887</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57887</guid>
+            <pubDate>Thu, 02 Jun 2022 08:25:09 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[매체별 광고 가이드 - 페이스북, 인스타그램, 네이버 .. (아이보스 ─ 인기글)]]></title>
@@ -301,6 +301,13 @@
             <content:encoded><![CDATA[마케팅꿈도리]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[카피꿀팁#1] 이걸 잘못 짚으면 매출이 안 나옵니다. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-58051</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-58051</guid>
+            <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[언카피]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[TV 광고도 관심사 기반 타기팅 광고한다 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57865</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57865</guid>
@@ -329,13 +336,6 @@
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[카피꿀팁#1] 이걸 잘못 짚으면 매출이 안 나옵니다. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-58051</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-58051</guid>
-            <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[언카피]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[포토샵cs6도아닌 6을 사용하는 회사 그 후.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39316</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39316</guid>
@@ -348,6 +348,14 @@
             <guid>https://www.i-boss.co.kr/ab-6141-58029</guid>
             <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[yoorok]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[솔드아웃도 무료배송 끝... 리셀 플랫폼 수익성 개선 작업 착수 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8990</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8990</guid>
+            <pubDate>Fri, 24 Jun 2022 09:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[솔드아웃, 7월부터 배송비 2000원 부과 시작...무료 이용 끝 네이버 크림은 지난해부터 배송비 부과, 다달이 인상거쳐 현재 배송비 3000원 크림은 배송비에 수수료까지 부과 시작 리셀 플랫폼 무료 이용 정책 손보기 본격화   네이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_448f3fa228d6682a565f761344c11470_15437_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MZ세대 마음을 잡아라... 식품업계, 굿즈에 꽂히다 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[마그나, 글로벌 광고 시장 9.2%로 하향 전망 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8958</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8958</guid>
-            <pubDate>Mon, 20 Jun 2022 08:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[IPG 미디어 브랜드 마그나(IPG Mediabrands Magna)는WPP의 그룹M 과퍼블릭리스의 제니스 가 미국 및 전 세계 광고 지출 전망을 하향 조정 발표한데에 이어 당초 2022년 전망보다 하향 조정했다. 마그나는 글로벌 광고 성장률 전망치를 2.8% ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[솔드아웃도 무료배송 끝... 리셀 플랫폼 수익성 개선 작업 착수 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8990</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8990</guid>
+            <pubDate>Fri, 24 Jun 2022 09:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MZ세대 마음을 잡아라... 식품업계, 굿즈에 꽂히다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마그나, 글로벌 광고 시장 9.2%로 하향 전망 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8958</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8958</guid>
-            <pubDate>Mon, 20 Jun 2022 08:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네이버 밴드의 소셜광고는 밴드를 개설한 사업자가 밴드의 멤버 수를 늘리고, 적절한 알림을 통해 매출을 증가시키려는 목적으로 주로 이용하는 밴드 내 광고 상품입니다. 다음 중 밴드 소셜 광고가 노출되지 않는 위치는 어디일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Fri, 24 Jun 2022 08:26:03 GMT</pubDate>
+            <pubDate>Fri, 24 Jun 2022 09:18:43 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버 밴드의 소셜광고는 밴드를 개설한 사업자가 밴드의 멤버 수를 늘리고, 적절한 알림을 통해 매출을 증가시키려는 목적으로 주로 이용하는 밴드 내 광고 상품입니다. 다음 중 밴드 소셜 광고가 노출되지 않는 위치는 어디일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
