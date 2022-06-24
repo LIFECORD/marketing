@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 01:42:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 03:43:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MZ세대 마음을 잡아라... 식품업계, 굿즈에 꽂히다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8988</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8988</guid>
+            <pubDate>Fri, 24 Jun 2022 11:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[스타벅스 뿐 아니라 다양한 식음료 업체 굿즈 출시MZ시대와 소통하며 브랜드 인지도 높이기 위함  식품업계가 굿즈 마케팅에 빠졌다.  24일 관련 업계에 따르면 굿즈 맛집으로 통하는 스타벅스 코리아는 지난 20일 정오부터 SSG닷 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_693b3f0c4a571aa6b628da98bf4e223e_50624_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위픽코퍼레이션, 틱톡 SMB 사업부 최초 공식 파트너사 선정]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8987</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8958</guid>
             <pubDate>Mon, 20 Jun 2022 08:41:00 GMT</pubDate>
             <content:encoded><![CDATA[IPG 미디어 브랜드 마그나(IPG Mediabrands Magna)는WPP의 그룹M 과퍼블릭리스의 제니스 가 미국 및 전 세계 광고 지출 전망을 하향 조정 발표한데에 이어 당초 2022년 전망보다 하향 조정했다. 마그나는 글로벌 광고 성장률 전망치를 2.8% ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[그룹M, 경제 상황에도 불구하고 올해 글로벌 광고 시장은 8.4% 성장 전망]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8957</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8957</guid>
-            <pubDate>Mon, 20 Jun 2022 08:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[퍼블리시스의제니스 가 올해 글로벌 광고시장 전망치를 조정한데 이어, WPP의 그룹M도 광고시장 전망치를 조정했다. 그룹M 역시 위험한 경제 상화과 우크라이나 전쟁과 같은 상황에서도 글로벌 광고시장은 계속 성장할 것으로  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
