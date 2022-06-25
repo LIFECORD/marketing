@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 01:46:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 03:36:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,6 +308,13 @@
             <content:encoded><![CDATA[근육돌이]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[홈페이지 상단 이렇게 만들면 80%의 고객이 이탈한다. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-58029</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-58029</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[yoorok]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이직 생각하시는 마케터분들 계실까요? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39142</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39142</guid>
@@ -318,13 +325,6 @@
             <title><![CDATA[스티브 잡스는 4가지 방법으로 실패를 극복했다고 한.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-58027</link>
             <guid>https://www.i-boss.co.kr/ab-6141-58027</guid>
-            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[yoorok]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[홈페이지 상단 이렇게 만들면 80%의 고객이 이탈한다. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-58029</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-58029</guid>
             <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
@@ -593,21 +593,21 @@
             <title><![CDATA[[해외 크리에이티브] AI가 디자인한 코스모폴리탄 표지 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8993</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8993</guid>
-            <pubDate>Sat, 25 Jun 2022 01:46:30 GMT</pubDate>
+            <pubDate>Sat, 25 Jun 2022 09:33:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 낙관론이 서서히 퍼지는 관광산업 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8992</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8992</guid>
-            <pubDate>Sat, 25 Jun 2022 01:46:30 GMT</pubDate>
+            <pubDate>Sat, 25 Jun 2022 09:32:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이노레드, 매일유업 'Greeting Milk' 캠페인으로 칸 라이언즈 2관왕 쾌거 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8991</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8991</guid>
-            <pubDate>Sat, 25 Jun 2022 01:46:30 GMT</pubDate>
+            <pubDate>Sat, 25 Jun 2022 09:31:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[네이버 밴드의 소셜광고는 밴드를 개설한 사업자가 밴드의 멤버 수를 늘리고, 적절한 알림을 통해 매출을 증가시키려는 목적으로 주로 이용하는 밴드 내 광고 상품입니다. 다음 중 밴드 소셜 광고가 노출되지 않는 위치는 어디일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 25 Jun 2022 01:46:42 GMT</pubDate>
+            <pubDate>Sat, 25 Jun 2022 03:36:15 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버 밴드의 소셜광고는 밴드를 개설한 사업자가 밴드의 멤버 수를 늘리고, 적절한 알림을 통해 매출을 증가시키려는 목적으로 주로 이용하는 밴드 내 광고 상품입니다. 다음 중 밴드 소셜 광고가 노출되지 않는 위치는 어디일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
