@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-25T07:16:58.881Z</updated>
+    <updated>2022-06-25T09:17:33.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -167,13 +167,6 @@
         <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리 사이트 전환율 올리는 6가지 예시 사례와 가설 ..]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57859</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57859"/>
-        <updated>2022-05-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[근육돌이]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[홈페이지 상단 이렇게 만들면 80%의 고객이 이탈한다.]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-58029</id>
         <link href="https://www.i-boss.co.kr/ab-6141-58029"/>
@@ -214,5 +207,12 @@
         <link href="https://www.i-boss.co.kr/ab-6141-57998"/>
         <updated>2022-06-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[큐레터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6월 22일 사업자모임 진행 결과]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486526-278</id>
+        <link href="https://www.i-boss.co.kr/ab-1486526-278"/>
+        <updated>2022-06-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[신용성]]></content>
     </entry>
 </feed>
