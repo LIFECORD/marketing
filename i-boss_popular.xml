@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-25T06:24:39.170Z</updated>
+    <updated>2022-06-25T07:16:58.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -209,10 +209,10 @@
         <content type="html"><![CDATA[woodie]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[디자인 관련 법 알려주는 계정의 드립력]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-39124</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-39124"/>
-        <updated>2022-05-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[체르시]]></content>
+        <title type="html"><![CDATA[카카오판 메타버스, ‘카카오 유니버스’]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57998</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57998"/>
+        <updated>2022-06-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
 </feed>
