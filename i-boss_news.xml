@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-06-24T23:18:19.477Z</updated>
+    <updated>2022-06-25T01:46:51.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[해외 크리에이티브] AI가 디자인한 코스모폴리탄 표지]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8993</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8993"/>
+        <updated>2022-06-25T01:46:30.091Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인포그래픽] 낙관론이 서서히 퍼지는 관광산업]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8992</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8992"/>
+        <updated>2022-06-25T01:46:30.093Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이노레드, 매일유업 'Greeting Milk' 캠페인으로 칸 라이언즈 2관왕 쾌거]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8991</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8991"/>
+        <updated>2022-06-25T01:46:30.094Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[솔드아웃도 무료배송 끝... 리셀 플랫폼 수익성 개선 작업 착수]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8990</id>
@@ -193,26 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-8962"/>
         <updated>2022-06-20T05:17:29.019Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["PR 실무 특강부터 인턴 실습까지" 한국PR협회, PR 전문인력 양성을 위한 취업특강 개설]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8961</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8961"/>
-        <updated>2022-06-20T01:41:43.756Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인크로스, 중국 크로스보더 이커머스 서비스 개시… “중국 진출 교두보 역할”]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8960</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8960"/>
-        <updated>2022-06-20T01:41:43.757Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제일기획, '2022 클리오 헬스 어워드’ "더 코스트 오브 불링" 캠페인으로 대상 수상]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8959</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8959"/>
-        <updated>2022-06-20T01:41:43.758Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
