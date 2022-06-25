@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 16:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 17:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,13 @@
             <content:encoded><![CDATA[레스뿌와]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[홈페이지 상단 이렇게 만들면 80%의 고객이 이탈한다. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-58029</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-58029</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[yoorok]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[소울리스좌 아마존송 유행이라는데 아시는 분? (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39179</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39179</guid>
@@ -299,13 +306,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57865</guid>
             <pubDate>Mon, 30 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[홈페이지 상단 이렇게 만들면 80%의 고객이 이탈한다. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-58029</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-58029</guid>
-            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스티브 잡스는 4가지 방법으로 실패를 극복했다고 한.. (아이보스 ─ 인기글)]]></title>
