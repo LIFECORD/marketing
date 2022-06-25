@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-25T14:16:43.184Z</updated>
+    <updated>2022-06-25T15:20:09.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -83,17 +83,17 @@
         <content type="html"><![CDATA[백코맨트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[마케팅밈] 고독하지 않은 마케터 단톡방]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-39196</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-39196"/>
-        <updated>2022-06-09T07:43:47.787Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[마케팅밈] 마케터가 얻는 기초 체력]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-39317</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-39317"/>
         <updated>2022-06-23T06:23:20.248Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마케팅밈] 고독하지 않은 마케터 단톡방]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-39196</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-39196"/>
+        <updated>2022-06-09T07:43:47.787Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>

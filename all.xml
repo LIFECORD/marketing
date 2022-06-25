@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 14:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 15:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,17 +217,17 @@
             <content:encoded><![CDATA[백코맨트]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[마케팅밈] 고독하지 않은 마케터 단톡방 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39196</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39196</guid>
-            <pubDate>Thu, 09 Jun 2022 07:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 마케터가 얻는 기초 체력 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39317</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39317</guid>
             <pubDate>Thu, 23 Jun 2022 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[마케팅밈] 고독하지 않은 마케터 단톡방 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39196</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39196</guid>
+            <pubDate>Thu, 09 Jun 2022 07:43:47 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8962</guid>
             <pubDate>Mon, 20 Jun 2022 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네이버 밴드의 소셜광고는 밴드를 개설한 사업자가 밴드의 멤버 수를 늘리고, 적절한 알림을 통해 매출을 증가시키려는 목적으로 주로 이용하는 밴드 내 광고 상품입니다. 다음 중 밴드 소셜 광고가 노출되지 않는 위치는 어디일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Sat, 25 Jun 2022 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->네이버 밴드의 소셜광고는 밴드를 개설한 사업자가 밴드의 멤버 수를 늘리고, 적절한 알림을 통해 매출을 증가시키려는 목적으로 주로 이용하는 밴드 내 광고 상품입니다. 다음 중 밴드 소셜 광고가 노출되지 않는 위치는 어디일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1451_1" value="1" class="AB-radio" id="PQ_BD5826_1451_1_0"><label for="PQ_BD5826_1451_1_0" id="label_PQ_BD5826_1451_1_0">(A) 새소식 화면</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1451_1" value="2" class="AB-radio" id="PQ_BD5826_1451_1_1"><label for="PQ_BD5826_1451_1_1" id="label_PQ_BD5826_1451_1_1">(B) 밴드 홈화면</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1451_1" value="3" class="AB-radio" id="PQ_BD5826_1451_1_2"><label for="PQ_BD5826_1451_1_2" id="label_PQ_BD5826_1451_1_2">(C) 채팅 최상단</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1451_1" value="4" class="AB-radio" id="PQ_BD5826_1451_1_3"><label for="PQ_BD5826_1451_1_3" id="label_PQ_BD5826_1451_1_3">(D) 밴드 푸시 알림</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인 ‘희망플러스 특례보증’ 대출 한도 1천만→2천만원까지 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
