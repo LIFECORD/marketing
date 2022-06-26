@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 16:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 17:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,18 +280,18 @@
             <content:encoded><![CDATA[레스뿌와]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[소울리스좌 아마존송 유행이라는데 아시는 분? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39179</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39179</guid>
-            <pubDate>Sat, 04 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅꿈도리]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[카피꿀팁#1] 이걸 잘못 짚으면 매출이 안 나옵니다. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-58051</link>
             <guid>https://www.i-boss.co.kr/ab-6141-58051</guid>
             <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[언카피]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소울리스좌 아마존송 유행이라는데 아시는 분? (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39179</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39179</guid>
+            <pubDate>Sat, 04 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅꿈도리]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[TV 광고도 관심사 기반 타기팅 광고한다 (아이보스 ─ 인기글)]]></title>
