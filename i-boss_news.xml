@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-06-25T23:17:32.103Z</updated>
+    <updated>2022-06-26T01:50:10.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인포그래픽] Z세대와 브랜드]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8996</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8996"/>
+        <updated>2022-06-26T01:49:49.850Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Z세대의 65%는 자신과 개인적으로 관련된 콘텐츠가 더 중요하다... 유튜브, '문화와 트렌드' 보고서 발표]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8995</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8995"/>
+        <updated>2022-06-26T01:49:49.853Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 딜로이트, '피알게이트' 인수... 컨설팅 역량에 브랜드 커뮤니케이션 역량 강화]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-8994</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-8994"/>
+        <updated>2022-06-26T01:49:49.874Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[해외 크리에이티브] AI가 디자인한 코스모폴리탄 표지]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-8993</id>
@@ -192,27 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-8963</id>
         <link href="https://www.i-boss.co.kr/ab-2877-8963"/>
         <updated>2022-06-20T23:17:50.128Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산국제광고제, ‘2030 부산세계박람회’ 홍보 공모전 개최... 대학생·주니어 광고인 대상 홍보 아이디어 공모]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8965</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8965"/>
-        <updated>2022-06-20T07:18:05.034Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스코토스컨설팅, ‘명성전략연구소’ 설립]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8964</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8964"/>
-        <updated>2022-06-20T06:25:16.404Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT IS, 택시 디스플레이 광고 결합상품 출시]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-8962</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-8962"/>
-        <updated>2022-06-20T05:17:29.019Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
 </feed>
