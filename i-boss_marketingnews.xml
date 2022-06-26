@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 22:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 23:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[6월 27일 마케팅 뉴스클리핑] 틱톡 승승장구... 광고수익 트위터스냅 합친 것 추월 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-8989</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-8989</guid>
+            <pubDate>Mon, 27 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 틱톡 승승장구... 광고수익 트위터스냅 합친 것 추월  틱톡이 기존 빅테크 기업들의 온라인 광고 매출을 빠르게 뒤쫓고 있다. 틱톡의 지난해 광고 수익은 40억 달러를 벌었고, 올해는 120억 달러로 전망된다. 트위터와 스냅챗의  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_38a4654f80234edfc158b06b8899520a_17579_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인포그래픽] Z세대와 브랜드]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8996</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Jun 2022 08:42:00 GMT</pubDate>
             <content:encoded><![CDATA[딩~동~댕~동~ 저언국 노래자랑~ 전국에 계시는 노래자랑 가족 여러분 한 주일 동안 안녕하셨습니까 그리고 멀리 해외에서 어려운 여건 속에서도 새로운 희망 속에 열심히 살아가시는 해외동포 여러분 모두 안녕하셨습니까 여러 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[6월 21일 마케팅 뉴스클리핑] 메타, 아바타 의류 매장 연다 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8963</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8963</guid>
-            <pubDate>Tue, 21 Jun 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 메타, 아바타 의류 매장 연다  메타가 디지털 의류 매장을 연다고 외신이 보도했다. 미래 먹거리 사업으로 낙점한 메타버스 세계 속에서 아바타 옷을 사고파는 공간으로 활용될 전망이다. 메타는 향후 더 많은 브랜드를 추가 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8daf7b84ca98358bdf928cc724a27097_54689_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
