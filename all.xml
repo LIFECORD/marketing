@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 08:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 09:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,6 +231,13 @@
             <content:encoded><![CDATA[덕구네집]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[홈페이지 상단 이렇게 만들면 80%의 고객이 이탈한다. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-58029</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-58029</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[yoorok]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[인하우스 퍼포먼스 마케터 현실 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39172</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39172</guid>
@@ -250,13 +257,6 @@
             <guid>https://www.i-boss.co.kr/ab-2973-466</guid>
             <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당첨대쓔]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[홈페이지 상단 이렇게 만들면 80%의 고객이 이탈한다. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-58029</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-58029</guid>
-            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[카피꿀팁#1] 이걸 잘못 짚으면 매출이 안 나옵니다. (아이보스 ─ 인기글)]]></title>
@@ -593,7 +593,7 @@
             <title><![CDATA[카드사, 해외직구 마케팅 안한다... 석달만에 1800억 감소 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9005</link>
             <guid>https://www.i-boss.co.kr/ab-2877-9005</guid>
-            <pubDate>Mon, 27 Jun 2022 08:25:44 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 08:25:31 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
@@ -803,7 +803,7 @@
             <title><![CDATA[최근 기업 자체적으로 메타버스 플랫폼을 구축하는 사례가 늘어나고 있습니다. 다음 중 기업과 각각의 기업이 출시한 메타버스 플랫폼이 올바르게 짝지어지지 않은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 27 Jun 2022 08:25:55 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 09:18:52 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 기업 자체적으로 메타버스 플랫폼을 구축하는 사례가 늘어나고 있습니다. 다음 중 기업과 각각의 기업이 출시한 메타버스 플랫폼이 올바르게 짝지어지지 않은 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/184ec57b60892ac8894ed2ece0e39923_16559671967808.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
