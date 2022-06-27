@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 11:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 12:38:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[풀어주세요! 창의력 넘치는 청년 세대 아이디어로 우리 사회 갈등 해법 찾는다... 2022 대한민국 대학생 광고대회 개최]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9007</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9007</guid>
+            <pubDate>Mon, 27 Jun 2022 12:37:42 GMT</pubDate>
+            <content:encoded><![CDATA[(사)한국광고총연합회(회장 김낙회, 이하 총연합회)는 문화체육관광부(장관 박보균, 이하 문체부)와 함께 2022 대한민국 대학생 광고대회(KOSAC, Korea Student Advertising Competition)를 열어 대학생들의 창의력 넘치는 아이디어로 우리 사 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[카드사, 해외직구 마케팅 안한다... 석달만에 1800억 감소]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9005</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8976</guid>
             <pubDate>Wed, 22 Jun 2022 09:14:00 GMT</pubDate>
             <content:encoded><![CDATA[경험 관리(XM: Experience Management)분야를 창시하고 선도하고 있는 퀄트릭스가 유연 근무에 대한 한국 직원들의 의견을 조사한 새로운 연구결과를 발표했다. 국내에서 근무 방식 유연화에 대한 논의가 활성화되면서 기업의 근무 형 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[올여름 집에서 더 자주, 화려하게 가꾼다... 에이블리, 속눈썹, 왁싱도 셀프가 대세]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8975</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8975</guid>
-            <pubDate>Wed, 22 Jun 2022 09:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[낮 기온이30도를 웃도는 무더운 날씨가 지속되고 일상 회복에 따라 외출이 잦아지며 셀프 뷰티 케어에 대한 소비자 관심이 급증했다.각종 모임,행사 등 야외활동은 물론,마스크를 벗고 이른 여름 휴가를 떠나는 등 활동 반경이  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
