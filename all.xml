@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 01:51:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 03:51:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,18 +203,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[고작 이런 이미지로 ROAS 870%가 가능 하다고요?(feat. 페.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57981</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57981</guid>
-            <pubDate>Wed, 15 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[백코맨트]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 마케터가 얻는 기초 체력 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39317</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39317</guid>
             <pubDate>Thu, 23 Jun 2022 06:23:20 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고작 이런 이미지로 ROAS 870%가 가능 하다고요?(feat. 페.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57981</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57981</guid>
+            <pubDate>Wed, 15 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[백코맨트]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 고독하지 않은 마케터 단톡방 (아이보스 ─ 인기글)]]></title>
@@ -301,18 +301,18 @@
             <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스티브 잡스는 4가지 방법으로 실패를 극복했다고 한.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-58027</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-58027</guid>
-            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[yoorok]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[카카오판 메타버스, ‘카카오 유니버스’ (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57998</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57998</guid>
             <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[큐레터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스티브 잡스는 4가지 방법으로 실패를 극복했다고 한.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-58027</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-58027</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[yoorok]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이직 생각하시는 마케터분들 계실까요? (아이보스 ─ 인기글)]]></title>
@@ -343,11 +343,19 @@
             <content:encoded><![CDATA[신용성]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오 모먼트 광고효과 이정도면 좋은거 맞죠? (1억 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39236</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39236</guid>
-            <pubDate>Sun, 12 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[성신이]]></content:encoded>
+            <title><![CDATA[[콜라보마케팅] MZ 세대 사로 잡는 대세 마케팅, 콜라.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-58059</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-58059</guid>
+            <pubDate>Mon, 27 Jun 2022 03:50:42 GMT</pubDate>
+            <content:encoded><![CDATA[Qfriend]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카페24 리워드 링크 서비스 제공... 마케팅 기능 강화 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9003</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9003</guid>
+            <pubDate>Mon, 27 Jun 2022 11:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[카페24 스토어, 리워드 마케팅 관리 앱 리워드 링크 지원 쿠폰, 적립금 혜택 제공하는 링크 발행해 자유롭게 광고 가능   카페24가 소비자에 보상을 제공하는 방식으로 참여도를 높이는 광고 형식의 리워드 마케팅인 `리워드 링크 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_bb7915553770c6e28419b4530f49ffaa_38147_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엔데믹 시대, 올해 여름휴가 트렌드는 국내보다 해외, 즉흥보다 계획 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -582,53 +590,52 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[미국 광고 시장, 15개월째 증가... 그러나 하락세는 지속 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8972</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8972</guid>
-            <pubDate>Wed, 22 Jun 2022 08:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[미디어포스트가 스탠더드미디어인덱스(SMI)의 미국 광고시장 트래커 자료를 분석한 결과, 지난 5월 미국 광고경기가 15개월 연속 성장세를 이어갔지만,침체에서 벗어난 이후 가장 미미한 성장을 보였다. 지난 5월 미국 광고시장 1 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[카페24 '리워드 링크' 서비스 제공... 마케팅 기능 강화 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9003</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9003</guid>
+            <pubDate>Mon, 27 Jun 2022 03:51:07 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[엔데믹 시대, 올해 여름휴가 트렌드는 ‘국내보다 해외’, ‘즉흥보다 계획’ (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9002</link>
             <guid>https://www.i-boss.co.kr/ab-2877-9002</guid>
-            <pubDate>Mon, 27 Jun 2022 01:51:36 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 09:13:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[케이스 스터디] 언더아머, 인기 웹툰 윈드브레이커와 함께한 “나를 돌파” 캠페인 MZ세대에게 통하다... 유튜브 조회수 100만회, 이벤트 참여자수 10만.. (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9001</link>
             <guid>https://www.i-boss.co.kr/ab-2877-9001</guid>
-            <pubDate>Mon, 27 Jun 2022 01:51:36 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 08:43:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[해외 크리에이티브] "당신의 꿈을 실현하세요" 드라마 퀸, 우크라이나 아동을 위한 캠페인을 기획, 제작하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9000</link>
             <guid>https://www.i-boss.co.kr/ab-2877-9000</guid>
-            <pubDate>Mon, 27 Jun 2022 01:51:36 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 08:41:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] 인플레이션으로 지출을 삭감하는 카테고리 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8999</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8999</guid>
-            <pubDate>Mon, 27 Jun 2022 01:51:36 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 08:40:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인포그래픽] SEO 카피라이팅 : 콘텐츠 개선을 위한 10가지 팁 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8998</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8998</guid>
-            <pubDate>Mon, 27 Jun 2022 01:51:36 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 08:39:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] “제작사 모두가 자부심을 갖고 일할 수 있는 좋은 환경을 만들겠습니다.” 한국광고영상제작사협회 임지영, 고한기, 강찬욱 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-8997</link>
             <guid>https://www.i-boss.co.kr/ab-2877-8997</guid>
-            <pubDate>Mon, 27 Jun 2022 01:51:36 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 08:37:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미국 광고 시장, 15개월째 증가... 그러나 하락세는 지속 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8972</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8972</guid>
-            <pubDate>Wed, 22 Jun 2022 08:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[최근 기업 자체적으로 메타버스 플랫폼을 구축하는 사례가 늘어나고 있습니다. 다음 중 기업과 각각의 기업이 출시한 메타버스 플랫폼이 올바르게 짝지어지지 않은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 27 Jun 2022 01:51:47 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 03:51:18 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 기업 자체적으로 메타버스 플랫폼을 구축하는 사례가 늘어나고 있습니다. 다음 중 기업과 각각의 기업이 출시한 메타버스 플랫폼이 올바르게 짝지어지지 않은 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/184ec57b60892ac8894ed2ece0e39923_16559671967808.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>

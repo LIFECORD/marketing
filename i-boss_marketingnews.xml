@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 01:51:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 03:51:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카페24 리워드 링크 서비스 제공... 마케팅 기능 강화]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9003</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9003</guid>
+            <pubDate>Mon, 27 Jun 2022 11:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[카페24 스토어, 리워드 마케팅 관리 앱 리워드 링크 지원 쿠폰, 적립금 혜택 제공하는 링크 발행해 자유롭게 광고 가능   카페24가 소비자에 보상을 제공하는 방식으로 참여도를 높이는 광고 형식의 리워드 마케팅인 `리워드 링크 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_bb7915553770c6e28419b4530f49ffaa_38147_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔데믹 시대, 올해 여름휴가 트렌드는 국내보다 해외, 즉흥보다 계획]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9002</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8973</guid>
             <pubDate>Wed, 22 Jun 2022 08:29:00 GMT</pubDate>
             <content:encoded><![CDATA[한국갤럽이 2022년 6월 14~16일 전국 만 18세 이상 1,000명에게 요즘 가장 즐겨보는 TV프로그램을 물은 결과(2개까지 자유응답), MBC 토요일 저녁 예능 놀면 뭐하니?가 선호도 4.9%로 8개월 만에 1위로 복귀했다.2019년 7월 시작한 놀면 뭐 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 광고 시장, 15개월째 증가... 그러나 하락세는 지속]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8972</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8972</guid>
-            <pubDate>Wed, 22 Jun 2022 08:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[미디어포스트가 스탠더드미디어인덱스(SMI)의 미국 광고시장 트래커 자료를 분석한 결과, 지난 5월 미국 광고경기가 15개월 연속 성장세를 이어갔지만,침체에서 벗어난 이후 가장 미미한 성장을 보였다. 지난 5월 미국 광고시장 1 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
