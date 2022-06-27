@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 09:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 10:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이커머스가 멤버십에 꽂힌 이유 🎯 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1055565-%EC%9D%B4%EC%BB%A4%EB%A8%B8%EC%8A%A4%EA%B0%80_%EB%A9%A4%EB%B2%84%EC%8B%AD%EC%97%90_%EA%BD%82%ED%9E%8C_%EC%9D%B4%EC%9C%A0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1055565-%EC%9D%B4%EC%BB%A4%EB%A8%B8%EC%8A%A4%EA%B0%80_%EB%A9%A4%EB%B2%84%EC%8B%AD%EC%97%90_%EA%BD%82%ED%9E%8C_%EC%9D%B4%EC%9C%A0/</guid>
+            <pubDate>Mon, 27 Jun 2022 10:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1055565-이커머스가_멤버십에_꽂힌_이유/">
+						<div class="thumb"><img src="/images/qletter_1055565.png"></div>
+						<p><strong>이커머스가 멤버십에 꽂힌 이유 🎯</strong>2022.06.27</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1055565.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[갑자기 자사 블로그를 운영하래요...😥 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1052686-%EA%B0%91%EC%9E%90%EA%B8%B0_%EC%9E%90%EC%82%AC_%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC_%EC%9A%B4%EC%98%81%ED%95%98%EB%9E%98%EC%9A%94/</link>
@@ -129,17 +140,6 @@
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_996963.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[할 일 없는 신입은 뭐 해요? 😥 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/993494-%ED%95%A0_%EC%9D%BC_%EC%97%86%EB%8A%94_%EC%8B%A0%EC%9E%85%EC%9D%80_%EB%AD%90_%ED%95%B4%EC%9A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/993494-%ED%95%A0_%EC%9D%BC_%EC%97%86%EB%8A%94_%EC%8B%A0%EC%9E%85%EC%9D%80_%EB%AD%90_%ED%95%B4%EC%9A%94/</guid>
-            <pubDate>Thu, 12 May 2022 01:42:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/993494-할_일_없는_신입은_뭐_해요/">
-						<div class="thumb"><img src="/images/qletter_993494.png"></div>
-						<p><strong>할 일 없는 신입은 뭐 해요? 😥</strong>2022.05.12</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_993494.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 우뇌식 페이스북 세팅방법 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57860</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57860</guid>
@@ -224,18 +224,18 @@
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마케터들이 모으고 있는 마케팅 정보 모음 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57930</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57930</guid>
-            <pubDate>Wed, 08 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[덕구네집]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[홈페이지 상단 이렇게 만들면 80%의 고객이 이탈한다. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-58029</link>
             <guid>https://www.i-boss.co.kr/ab-6141-58029</guid>
             <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[yoorok]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마케터들이 모으고 있는 마케팅 정보 모음 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57930</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57930</guid>
+            <pubDate>Wed, 08 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[덕구네집]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인하우스 퍼포먼스 마케터 현실 (아이보스 ─ 인기글)]]></title>
@@ -322,6 +322,13 @@
             <content:encoded><![CDATA[나단8]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[6월 22일 사업자모임 진행 결과 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486526-278</link>
+            <guid>https://www.i-boss.co.kr/ab-1486526-278</guid>
+            <pubDate>Thu, 23 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[신용성]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[포토샵cs6도아닌 6을 사용하는 회사 그 후.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39316</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39316</guid>
@@ -334,13 +341,6 @@
             <guid>https://www.i-boss.co.kr/ab-6141-57984</guid>
             <pubDate>Wed, 15 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[woodie]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[6월 22일 사업자모임 진행 결과 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486526-278</link>
-            <guid>https://www.i-boss.co.kr/ab-1486526-278</guid>
-            <pubDate>Thu, 23 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[신용성]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[콜라보마케팅] MZ 세대 사로 잡는 대세 마케팅, 콜라.. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[최근 기업 자체적으로 메타버스 플랫폼을 구축하는 사례가 늘어나고 있습니다. 다음 중 기업과 각각의 기업이 출시한 메타버스 플랫폼이 올바르게 짝지어지지 않은 것은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Mon, 27 Jun 2022 09:18:52 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 10:22:48 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->최근 기업 자체적으로 메타버스 플랫폼을 구축하는 사례가 늘어나고 있습니다. 다음 중 기업과 각각의 기업이 출시한 메타버스 플랫폼이 올바르게 짝지어지지 않은 것은 무엇일까요?<br><br><center><img src="/design/upload_file/__HTMLEDITOR__/xPlNrZ0iUO/184ec57b60892ac8894ed2ece0e39923_16559671967808.gif" style="width: 100%;"></center><div><span style="font-size: 7px;"><br></span></div></td>
 			</tr>
