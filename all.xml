@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 22:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 23:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[Qfriend]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[6월 28일 마케팅 뉴스클리핑] 공정위, 거짓 후기 올린 빈 박스 마케팅 업체 제재 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9006</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9006</guid>
+            <pubDate>Tue, 28 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 공정위, 거짓 후기 올린 `빈 박스 마케팅` 업체 제재  공정위는 아르바이트생에게 빈 상자를 보낸 이후 실제로 구매한 것처럼 위장해 거짓 구매 후기를 올리게 한 판매업자와 광고대행업자를 제재한다고 밝혔다. 스마트스토어 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_469a40a666d65cbd338bb99e7903d243_28509_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[풀어주세요! 창의력 넘치는 청년 세대 아이디어로 우리 사회 갈등 해법 찾는다... 2022 대한민국 대학생 광고대회 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9007</link>
             <guid>https://www.i-boss.co.kr/ab-2877-9007</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[퀄트릭스, 유연 근무가 주 4일 근무보다 직원 근속에 더 큰 영향 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8976</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8976</guid>
-            <pubDate>Wed, 22 Jun 2022 09:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[경험 관리(XM: Experience Management)분야를 창시하고 선도하고 있는 퀄트릭스가 유연 근무에 대한 한국 직원들의 의견을 조사한 새로운 연구결과를 발표했다. 국내에서 근무 방식 유연화에 대한 논의가 활성화되면서 기업의 근무 형 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[6월 28일 마케팅 뉴스클리핑] 공정위, 거짓 후기 올린 '빈 박스 마케팅' 업체 제재 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9006</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9006</guid>
+            <pubDate>Mon, 27 Jun 2022 23:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[풀어주세요! 창의력 넘치는 청년 세대 아이디어로 우리 사회 갈등 해법 찾는다... ‘2022 대한민국 대학생 광고대회’ 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[퀄트릭스, 유연 근무가 주 4일 근무보다 직원 근속에 더 큰 영향 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8976</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8976</guid>
-            <pubDate>Wed, 22 Jun 2022 09:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
+            <title><![CDATA[정상적인 광고 서비스 네트워크를 악용하여 악성 코드를 유포하고 감염시키는 방법을 뜻하는 '이것'은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Mon, 27 Jun 2022 23:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->정상적인 광고 서비스 네트워크를 악용하여 악성 코드를 유포하고 감염시키는 방법을 뜻하는 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1453_1" value="1" class="AB-radio" id="PQ_BD5826_1453_1_0"><label for="PQ_BD5826_1453_1_0" id="label_PQ_BD5826_1453_1_0">(A) 랜섬웨어</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1453_1" value="2" class="AB-radio" id="PQ_BD5826_1453_1_1"><label for="PQ_BD5826_1453_1_1" id="label_PQ_BD5826_1453_1_1">(B) 멀버타이징</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1453_1" value="3" class="AB-radio" id="PQ_BD5826_1453_1_2"><label for="PQ_BD5826_1453_1_2" id="label_PQ_BD5826_1453_1_2">(C) 스파이웨어</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1453_1" value="4" class="AB-radio" id="PQ_BD5826_1453_1_3"><label for="PQ_BD5826_1453_1_3" id="label_PQ_BD5826_1453_1_3">(D) 스미싱</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인 ‘희망플러스 특례보증’ 대출 한도 1천만→2천만원까지 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

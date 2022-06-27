@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 22:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 23:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[6월 28일 마케팅 뉴스클리핑] 공정위, 거짓 후기 올린 빈 박스 마케팅 업체 제재 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9006</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9006</guid>
+            <pubDate>Tue, 28 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 공정위, 거짓 후기 올린 `빈 박스 마케팅` 업체 제재  공정위는 아르바이트생에게 빈 상자를 보낸 이후 실제로 구매한 것처럼 위장해 거짓 구매 후기를 올리게 한 판매업자와 광고대행업자를 제재한다고 밝혔다. 스마트스토어 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_469a40a666d65cbd338bb99e7903d243_28509_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[풀어주세요! 창의력 넘치는 청년 세대 아이디어로 우리 사회 갈등 해법 찾는다... 2022 대한민국 대학생 광고대회 개최]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9007</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8977</guid>
             <pubDate>Wed, 22 Jun 2022 10:03:00 GMT</pubDate>
             <content:encoded><![CDATA[요즘 광고계는 자연스러운 모습으로 현실 케미 돋는 친한 모델들이 나란히 같은 업종의 모델로 등극하는 경우를 흔히 볼 수 있다.최근배우 정유미가 코카콜라 태양의 원차 주전자차의 광고 모델로 발탁되며 찐남매 케미를 자랑 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[퀄트릭스, 유연 근무가 주 4일 근무보다 직원 근속에 더 큰 영향]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8976</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8976</guid>
-            <pubDate>Wed, 22 Jun 2022 09:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[경험 관리(XM: Experience Management)분야를 창시하고 선도하고 있는 퀄트릭스가 유연 근무에 대한 한국 직원들의 의견을 조사한 새로운 연구결과를 발표했다. 국내에서 근무 방식 유연화에 대한 논의가 활성화되면서 기업의 근무 형 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
