@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 14:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 15:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -138,13 +138,6 @@
 						<p><strong>카톡의 대변신 예고편 🎬</strong>2022.05.16</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_996963.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 우뇌식 페이스북 세팅방법 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57860</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57860</guid>
-            <pubDate>Mon, 30 May 2022 10:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[우뇌]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사수 없는 신입을 위한 실무 치트키 95개 (아이보스 ─ 인기글)]]></title>
@@ -348,6 +341,13 @@
             <guid>https://www.i-boss.co.kr/ab-74668-2649</guid>
             <pubDate>Fri, 17 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[위픽wepick]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[콜라보마케팅] MZ 세대 사로 잡는 대세 마케팅, 콜라.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-58059</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-58059</guid>
+            <pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Qfriend]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버, 소상공인 대상 인공지능 상품추천 솔루션 제공 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -798,19 +798,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-8990</guid>
             <pubDate>Fri, 24 Jun 2022 09:18:18 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정상적인 광고 서비스 네트워크를 악용하여 악성 코드를 유포하고 감염시키는 방법을 뜻하는 '이것'은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
-            <link>https://LIFECORD.github.io/marketing/all.xml</link>
-            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 28 Jun 2022 14:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[<tbody><tr>
-				<td><!--1-->정상적인 광고 서비스 네트워크를 악용하여 악성 코드를 유포하고 감염시키는 방법을 뜻하는 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1453_1" value="1" class="AB-radio" id="PQ_BD5826_1453_1_0"><label for="PQ_BD5826_1453_1_0" id="label_PQ_BD5826_1453_1_0">(A) 랜섬웨어</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1453_1" value="2" class="AB-radio" id="PQ_BD5826_1453_1_1"><label for="PQ_BD5826_1453_1_1" id="label_PQ_BD5826_1453_1_1">(B) 멀버타이징</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1453_1" value="3" class="AB-radio" id="PQ_BD5826_1453_1_2"><label for="PQ_BD5826_1453_1_2" id="label_PQ_BD5826_1453_1_2">(C) 스파이웨어</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1453_1" value="4" class="AB-radio" id="PQ_BD5826_1453_1_3"><label for="PQ_BD5826_1453_1_3" id="label_PQ_BD5826_1453_1_3">(D) 스미싱</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인 ‘희망플러스 특례보증’ 대출 한도 1천만→2천만원까지 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
