@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 21:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 23:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[성신이]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[6월 29일 마케팅 뉴스클리핑] 이탈리아도 구글 애널리틱스 사용 금지 권고 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9018</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9018</guid>
+            <pubDate>Wed, 29 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 이탈리아도 `구글 애널리틱스 사용 금지` 권고  프랑스 데이터 보호 기관인 CNIL이 `구글 애널리틱스` 사용을 금지한 가운데, 이탈리아 개인정보 감독 당국인 GPDP도 구글 애널리틱스 사용 금지를 권고했다. 미국에 사용자 데이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_13c003c6fd0373b9300584c9efdd8dd8_76493_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[네이버, 소상공인 대상 인공지능 상품추천 솔루션 제공 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9019</link>
             <guid>https://www.i-boss.co.kr/ab-2877-9019</guid>
@@ -582,12 +590,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[솔드아웃도 무료배송 끝... 리셀 플랫폼 수익성 개선 작업 착수 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8990</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8990</guid>
-            <pubDate>Fri, 24 Jun 2022 09:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[솔드아웃, 7월부터 배송비 2000원 부과 시작...무료 이용 끝 네이버 크림은 지난해부터 배송비 부과, 다달이 인상거쳐 현재 배송비 3000원 크림은 배송비에 수수료까지 부과 시작 리셀 플랫폼 무료 이용 정책 손보기 본격화   네이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_448f3fa228d6682a565f761344c11470_15437_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[6월 29일 마케팅 뉴스클리핑] 이탈리아도 "구글 애널리틱스 사용 금지" 권고 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9018</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9018</guid>
+            <pubDate>Tue, 28 Jun 2022 23:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버, 소상공인 대상 인공지능 상품추천 솔루션 제공 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -793,11 +800,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[솔드아웃도 무료배송 끝... 리셀 플랫폼 수익성 개선 작업 착수 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8990</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8990</guid>
-            <pubDate>Fri, 24 Jun 2022 09:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[네이버에서 선물 대상과 의도에 맞는 적절한 상품을 AI가 큐레이션 하는 '이 서비스'를 오픈했습니다. 이 서비스의 이름은 무엇일까요?(hint: 6/20 뉴스 클리핑에 정답이 숨어 있다고요?!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Tue, 28 Jun 2022 23:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->네이버에서 선물 대상과 의도에 맞는 적절한 상품을 AI가 큐레이션 하는 '이 서비스'를 오픈했습니다. 이 서비스의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8945" target="_blank">6/20 뉴스 클리핑에 정답이 숨어 있다고요?!</a>)</span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1454_1" value="1" class="AB-radio" id="PQ_BD5826_1454_1_0"><label for="PQ_BD5826_1454_1_0" id="label_PQ_BD5826_1454_1_0">(A) 똑똑선물샵</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1454_1" value="2" class="AB-radio" id="PQ_BD5826_1454_1_1"><label for="PQ_BD5826_1454_1_1" id="label_PQ_BD5826_1454_1_1">(B) 스마트기프트</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1454_1" value="3" class="AB-radio" id="PQ_BD5826_1454_1_2"><label for="PQ_BD5826_1454_1_2" id="label_PQ_BD5826_1454_1_2">(C) 클로바선물</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1454_1" value="4" class="AB-radio" id="PQ_BD5826_1454_1_3"><label for="PQ_BD5826_1454_1_3" id="label_PQ_BD5826_1454_1_3">(D) 알파선물샵</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인 ‘희망플러스 특례보증’ 대출 한도 1천만→2천만원까지 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

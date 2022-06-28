@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 21:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 23:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[6월 29일 마케팅 뉴스클리핑] 이탈리아도 구글 애널리틱스 사용 금지 권고 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9018</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9018</guid>
+            <pubDate>Wed, 29 Jun 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 이탈리아도 `구글 애널리틱스 사용 금지` 권고  프랑스 데이터 보호 기관인 CNIL이 `구글 애널리틱스` 사용을 금지한 가운데, 이탈리아 개인정보 감독 당국인 GPDP도 구글 애널리틱스 사용 금지를 권고했다. 미국에 사용자 데이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_13c003c6fd0373b9300584c9efdd8dd8_76493_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버, 소상공인 대상 인공지능 상품추천 솔루션 제공]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9019</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 25 Jun 2022 09:31:00 GMT</pubDate>
             <content:encoded><![CDATA[이노레드(대표 박현우)가 기획, 제작한매일유업의`Greeting Milk`캠페인 광고가 세계 3대 광고제 중 하나인 칸 라이언즈에서 2관왕을 차지했다. 우유안부 캠페인 광고는 브랜드익스피리언스&amp;액티베이션 부문 실버 라이언과 PR 부문  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[솔드아웃도 무료배송 끝... 리셀 플랫폼 수익성 개선 작업 착수]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8990</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8990</guid>
-            <pubDate>Fri, 24 Jun 2022 09:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[솔드아웃, 7월부터 배송비 2000원 부과 시작...무료 이용 끝 네이버 크림은 지난해부터 배송비 부과, 다달이 인상거쳐 현재 배송비 3000원 크림은 배송비에 수수료까지 부과 시작 리셀 플랫폼 무료 이용 정책 손보기 본격화   네이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_448f3fa228d6682a565f761344c11470_15437_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
