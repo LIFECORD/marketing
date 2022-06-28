@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-28T10:22:36.910Z</updated>
+    <updated>2022-06-28T11:16:52.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -153,18 +153,18 @@
         <content type="html"><![CDATA[규S]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사수없이 인하우스에서 살아나가는 분들에게]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-39168</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-39168"/>
-        <updated>2022-06-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[레스뿌와]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스티브 잡스는 4가지 방법으로 실패를 극복했다고 한..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-58027</id>
         <link href="https://www.i-boss.co.kr/ab-6141-58027"/>
         <updated>2022-06-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[yoorok]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사수없이 인하우스에서 살아나가는 분들에게]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-39168</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-39168"/>
+        <updated>2022-06-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[레스뿌와]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소울리스좌 아마존송 유행이라는데 아시는 분?]]></title>
