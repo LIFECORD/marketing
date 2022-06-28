@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 11:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 13:40:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,18 +196,18 @@
             <content:encoded><![CDATA[쏭쏘]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[브랜드와 인플루언서를 연결하는 네이버 `브랜드 커.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57944</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57944</guid>
-            <pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[고작 이런 이미지로 ROAS 870%가 가능 하다고요?(feat. 페.. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57981</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57981</guid>
             <pubDate>Wed, 15 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[백코맨트]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[브랜드와 인플루언서를 연결하는 네이버 `브랜드 커.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57944</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57944</guid>
+            <pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 마케터가 얻는 기초 체력 (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[정상적인 광고 서비스 네트워크를 악용하여 악성 코드를 유포하고 감염시키는 방법을 뜻하는 '이것'은 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Tue, 28 Jun 2022 11:16:43 GMT</pubDate>
+            <pubDate>Tue, 28 Jun 2022 13:40:28 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->정상적인 광고 서비스 네트워크를 악용하여 악성 코드를 유포하고 감염시키는 방법을 뜻하는 '이것'은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
 			</tr>
