@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-06-27T23:18:31.433Z</updated>
+    <updated>2022-06-28T01:48:33.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[마케팅밈] 고독하지 않은 마케터 단톡방]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-39196</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-39196"/>
-        <updated>2022-06-09T07:43:47.787Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[홈페이지 상단 이렇게 만들면 80%의 고객이 이탈한다.]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-58029</id>
         <link href="https://www.i-boss.co.kr/ab-6141-58029"/>
         <updated>2022-06-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[yoorok]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마케팅밈] 고독하지 않은 마케터 단톡방]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-39196</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-39196"/>
+        <updated>2022-06-09T07:43:47.787Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마케터들이 모으고 있는 마케팅 정보 모음]]></title>
@@ -160,25 +160,18 @@
         <content type="html"><![CDATA[레스뿌와]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소울리스좌 아마존송 유행이라는데 아시는 분?]]></title>
-        <id>https://www.i-boss.co.kr/ab-1486505-39179</id>
-        <link href="https://www.i-boss.co.kr/ab-1486505-39179"/>
-        <updated>2022-06-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[마케팅꿈도리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TV 광고도 관심사 기반 타기팅 광고한다]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-57865</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-57865"/>
-        <updated>2022-05-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[큐레터]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스티브 잡스는 4가지 방법으로 실패를 극복했다고 한..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-58027</id>
         <link href="https://www.i-boss.co.kr/ab-6141-58027"/>
         <updated>2022-06-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[yoorok]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소울리스좌 아마존송 유행이라는데 아시는 분?]]></title>
+        <id>https://www.i-boss.co.kr/ab-1486505-39179</id>
+        <link href="https://www.i-boss.co.kr/ab-1486505-39179"/>
+        <updated>2022-06-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[마케팅꿈도리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이직 생각하시는 마케터분들 계실까요?]]></title>
@@ -193,6 +186,13 @@
         <link href="https://www.i-boss.co.kr/ab-1486526-278"/>
         <updated>2022-06-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[신용성]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TV 광고도 관심사 기반 타기팅 광고한다]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-57865</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-57865"/>
+        <updated>2022-05-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[큐레터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[포토샵cs6도아닌 6을 사용하는 회사 그 후..]]></title>
