@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 01:48:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 03:49:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <content:encoded><![CDATA[성신이]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[신인섭 칼럼] 이영훈 교수의 한국 경제사 I, II권이 한국 광고학 교수에게 주는 시사 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9027</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9027</guid>
+            <pubDate>Wed, 29 Jun 2022 11:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[2016년 일조각에서 출판한 이용훈 교수의 한국 경제사 I. II`는 흥미진진한 자료들을 제시하고 있다.예컨대 이 책 II 권 170 페이지에는 김낙연의 한국의 경제성장을 인용한 1910~1940년 조선 국민소득에 관한 자료가 나와 있다.  소득  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1dce05152d8b8fcbf4bda8dade738b87_81422_6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[인스타그래머블한 비주얼? 패키지 리뉴얼로 MZ세대 눈길 사로잡는 유통업계 (아이보스 ─ 마케팅 뉴스)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9026</link>
             <guid>https://www.i-boss.co.kr/ab-2877-9026</guid>
@@ -582,60 +590,59 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 제작사 모두가 자부심을 갖고 일할 수 있는 좋은 환경을 만들겠습니다. 한국광고영상제작사협회 임지영, 고한기, 강찬욱 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8997</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8997</guid>
-            <pubDate>Mon, 27 Jun 2022 08:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 4월, (사)한국광고영상제작사협회는제 10대 회장에 임지영 (주)플랜잇프로덕션 대표, 부회장에러브앤드머니고한기 감독과 시대의시선강찬욱 기획실장을 선임하고 우리나라 광고영상 제작사를 대표하는 회사들로 임원진을 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[신인섭 칼럼] 이영훈 교수의 한국 경제사 I, II권이 한국 광고학 교수에게 주는 시사 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9027</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9027</guid>
+            <pubDate>Wed, 29 Jun 2022 03:49:12 GMT</pubDate>
+            <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘인스타그래머블’한 비주얼? 패키지 리뉴얼로 MZ세대 눈길 사로잡는 유통업계 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9026</link>
             <guid>https://www.i-boss.co.kr/ab-2877-9026</guid>
-            <pubDate>Wed, 29 Jun 2022 01:47:48 GMT</pubDate>
+            <pubDate>Wed, 29 Jun 2022 10:46:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구글 스타트업 캠퍼스, 창업가 공간 2년 만에 재개관 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9025</link>
             <guid>https://www.i-boss.co.kr/ab-2877-9025</guid>
-            <pubDate>Wed, 29 Jun 2022 01:47:48 GMT</pubDate>
+            <pubDate>Wed, 29 Jun 2022 10:27:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[명품 커머스 플랫폼, 지난 5월 결제 규모 역대 최대 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9024</link>
             <guid>https://www.i-boss.co.kr/ab-2877-9024</guid>
-            <pubDate>Wed, 29 Jun 2022 01:47:48 GMT</pubDate>
+            <pubDate>Wed, 29 Jun 2022 09:30:00 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 식생활 트렌드는 ‘LESS’, 취식 횟수 줄고 식단 간소화 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9023</link>
             <guid>https://www.i-boss.co.kr/ab-2877-9023</guid>
-            <pubDate>Wed, 29 Jun 2022 01:47:48 GMT</pubDate>
+            <pubDate>Wed, 29 Jun 2022 08:59:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[레드브릭, 메타버스 창작 공모전 ‘크리에이터 챌린지 시즌4’ 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9022</link>
             <guid>https://www.i-boss.co.kr/ab-2877-9022</guid>
-            <pubDate>Wed, 29 Jun 2022 01:47:48 GMT</pubDate>
+            <pubDate>Wed, 29 Jun 2022 08:43:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[텐센트 게임즈, 연례 컨퍼런스 '스파크 2022' 40여개의 신작 게임 및 게임 기술 적용 사례 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9021</link>
             <guid>https://www.i-boss.co.kr/ab-2877-9021</guid>
-            <pubDate>Wed, 29 Jun 2022 01:47:48 GMT</pubDate>
+            <pubDate>Wed, 29 Jun 2022 08:38:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] "가상 세계를 설계하는 실제 건축가가 말하는 메타버스 이야기", 건축가 이정우 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9020</link>
             <guid>https://www.i-boss.co.kr/ab-2877-9020</guid>
-            <pubDate>Wed, 29 Jun 2022 01:47:48 GMT</pubDate>
+            <pubDate>Wed, 29 Jun 2022 08:26:00 GMT</pubDate>
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
@@ -793,17 +800,10 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] “제작사 모두가 자부심을 갖고 일할 수 있는 좋은 환경을 만들겠습니다.” 한국광고영상제작사협회 임지영, 고한기, 강찬욱 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-8997</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-8997</guid>
-            <pubDate>Mon, 27 Jun 2022 08:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[네이버에서 선물 대상과 의도에 맞는 적절한 상품을 AI가 큐레이션 하는 '이 서비스'를 오픈했습니다. 이 서비스의 이름은 무엇일까요?(hint: 6/20 뉴스 클리핑에 정답이 숨어 있다고요?!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 29 Jun 2022 01:48:00 GMT</pubDate>
+            <pubDate>Wed, 29 Jun 2022 03:49:26 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버에서 선물 대상과 의도에 맞는 적절한 상품을 AI가 큐레이션 하는 '이 서비스'를 오픈했습니다. 이 서비스의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8945" target="_blank">6/20 뉴스 클리핑에 정답이 숨어 있다고요?!</a>)</span></td>
 			</tr>
