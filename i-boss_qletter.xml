@@ -4,20 +4,9 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 08:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 09:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이커머스가 멤버십에 꽂힌 이유 🎯]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1056063-%EC%9D%B4%EC%BB%A4%EB%A8%B8%EC%8A%A4%EA%B0%80_%EB%A9%A4%EB%B2%84%EC%8B%AD%EC%97%90_%EA%BD%82%ED%9E%8C_%EC%9D%B4%EC%9C%A0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1056063-%EC%9D%B4%EC%BB%A4%EB%A8%B8%EC%8A%A4%EA%B0%80_%EB%A9%A4%EB%B2%84%EC%8B%AD%EC%97%90_%EA%BD%82%ED%9E%8C_%EC%9D%B4%EC%9C%A0/</guid>
-            <pubDate>Wed, 29 Jun 2022 05:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1056063-이커머스가_멤버십에_꽂힌_이유/">
-						<div class="thumb"><img src="/images/qletter_1056063.png"></div>
-						<p><strong>이커머스가 멤버십에 꽂힌 이유 🎯</strong>2022.06.27</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1056063.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[이커머스가 멤버십에 꽂힌 이유 🎯]]></title>
             <link>https://qletter.i-boss.co.kr/view/1055565-%EC%9D%B4%EC%BB%A4%EB%A8%B8%EC%8A%A4%EA%B0%80_%EB%A9%A4%EB%B2%84%EC%8B%AD%EC%97%90_%EA%BD%82%ED%9E%8C_%EC%9D%B4%EC%9C%A0/</link>
@@ -138,6 +127,17 @@
 						<p><strong>마케팅 업계의 #갓생 열풍</strong>2022.05.19</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1003239.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[카톡의 대변신 예고편 🎬]]></title>
+            <link>https://qletter.i-boss.co.kr/view/996963-%EC%B9%B4%ED%86%A1%EC%9D%98_%EB%8C%80%EB%B3%80%EC%8B%A0_%EC%98%88%EA%B3%A0%ED%8E%B8/</link>
+            <guid>https://qletter.i-boss.co.kr/view/996963-%EC%B9%B4%ED%86%A1%EC%9D%98_%EB%8C%80%EB%B3%80%EC%8B%A0_%EC%98%88%EA%B3%A0%ED%8E%B8/</guid>
+            <pubDate>Wed, 29 Jun 2022 09:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/996963-카톡의_대변신_예고편/">
+						<div class="thumb"><img src="/images/qletter_996963.png"></div>
+						<p><strong>카톡의 대변신 예고편 🎬</strong>2022.05.16</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_996963.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,20 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 08:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 09:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이커머스가 멤버십에 꽂힌 이유 🎯 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1056063-%EC%9D%B4%EC%BB%A4%EB%A8%B8%EC%8A%A4%EA%B0%80_%EB%A9%A4%EB%B2%84%EC%8B%AD%EC%97%90_%EA%BD%82%ED%9E%8C_%EC%9D%B4%EC%9C%A0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1056063-%EC%9D%B4%EC%BB%A4%EB%A8%B8%EC%8A%A4%EA%B0%80_%EB%A9%A4%EB%B2%84%EC%8B%AD%EC%97%90_%EA%BD%82%ED%9E%8C_%EC%9D%B4%EC%9C%A0/</guid>
-            <pubDate>Wed, 29 Jun 2022 05:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1056063-이커머스가_멤버십에_꽂힌_이유/">
-						<div class="thumb"><img src="/images/qletter_1056063.png"></div>
-						<p><strong>이커머스가 멤버십에 꽂힌 이유 🎯</strong>2022.06.27</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1056063.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[이커머스가 멤버십에 꽂힌 이유 🎯 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1055565-%EC%9D%B4%EC%BB%A4%EB%A8%B8%EC%8A%A4%EA%B0%80_%EB%A9%A4%EB%B2%84%EC%8B%AD%EC%97%90_%EA%BD%82%ED%9E%8C_%EC%9D%B4%EC%9C%A0/</link>
@@ -140,6 +129,17 @@
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1003239.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[카톡의 대변신 예고편 🎬 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/996963-%EC%B9%B4%ED%86%A1%EC%9D%98_%EB%8C%80%EB%B3%80%EC%8B%A0_%EC%98%88%EA%B3%A0%ED%8E%B8/</link>
+            <guid>https://qletter.i-boss.co.kr/view/996963-%EC%B9%B4%ED%86%A1%EC%9D%98_%EB%8C%80%EB%B3%80%EC%8B%A0_%EC%98%88%EA%B3%A0%ED%8E%B8/</guid>
+            <pubDate>Wed, 29 Jun 2022 09:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/996963-카톡의_대변신_예고편/">
+						<div class="thumb"><img src="/images/qletter_996963.png"></div>
+						<p><strong>카톡의 대변신 예고편 🎬</strong>2022.05.16</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_996963.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[사수 없는 신입을 위한 실무 치트키 95개 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-3208-828</link>
             <guid>https://www.i-boss.co.kr/ab-3208-828</guid>
@@ -238,18 +238,18 @@
             <content:encoded><![CDATA[Qfriend]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인하우스 퍼포먼스 마케터 현실 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39172</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39172</guid>
-            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[노호락]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[카피꿀팁#1] 이걸 잘못 짚으면 매출이 안 나옵니다. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-58051</link>
             <guid>https://www.i-boss.co.kr/ab-6141-58051</guid>
             <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[언카피]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인하우스 퍼포먼스 마케터 현실 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39172</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39172</guid>
+            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[노호락]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보스님의 떨어진 매출을 잡아줄 `다시 팔리는 것들의.. (아이보스 ─ 인기글)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[네이버에서 선물 대상과 의도에 맞는 적절한 상품을 AI가 큐레이션 하는 '이 서비스'를 오픈했습니다. 이 서비스의 이름은 무엇일까요?(hint: 6/20 뉴스 클리핑에 정답이 숨어 있다고요?!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 29 Jun 2022 08:26:33 GMT</pubDate>
+            <pubDate>Wed, 29 Jun 2022 09:19:41 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버에서 선물 대상과 의도에 맞는 적절한 상품을 AI가 큐레이션 하는 '이 서비스'를 오픈했습니다. 이 서비스의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8945" target="_blank">6/20 뉴스 클리핑에 정답이 숨어 있다고요?!</a>)</span></td>
 			</tr>
