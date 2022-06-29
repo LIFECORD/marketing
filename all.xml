@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 06:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 07:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,18 +196,18 @@
             <content:encoded><![CDATA[백코맨트]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[브랜드와 인플루언서를 연결하는 네이버 `브랜드 커.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-57944</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-57944</guid>
-            <pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐레터]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[마케팅밈] 마케터가 얻는 기초 체력 (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-1486505-39317</link>
             <guid>https://www.i-boss.co.kr/ab-1486505-39317</guid>
             <pubDate>Thu, 23 Jun 2022 06:23:20 GMT</pubDate>
             <content:encoded><![CDATA[막내운영자]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[브랜드와 인플루언서를 연결하는 네이버 `브랜드 커.. (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-6141-57944</link>
+            <guid>https://www.i-boss.co.kr/ab-6141-57944</guid>
+            <pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[큐레터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[홈페이지 상단 이렇게 만들면 80%의 고객이 이탈한다. (아이보스 ─ 인기글)]]></title>
@@ -343,11 +343,11 @@
             <content:encoded><![CDATA[Qfriend]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오 모먼트 광고효과 이정도면 좋은거 맞죠? (1억 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39236</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39236</guid>
-            <pubDate>Sun, 12 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[성신이]]></content:encoded>
+            <title><![CDATA[헐 이런!!! 제글 누가 신고했다고 쪽지가 왔었네요 (아이보스 ─ 인기글)]]></title>
+            <link>https://www.i-boss.co.kr/ab-1486505-39331</link>
+            <guid>https://www.i-boss.co.kr/ab-1486505-39331</guid>
+            <pubDate>Thu, 23 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영업베테랑]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[신인섭 칼럼] 이영훈 교수의 한국 경제사 I, II권이 한국 광고학 교수에게 주는 시사 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[네이버에서 선물 대상과 의도에 맞는 적절한 상품을 AI가 큐레이션 하는 '이 서비스'를 오픈했습니다. 이 서비스의 이름은 무엇일까요?(hint: 6/20 뉴스 클리핑에 정답이 숨어 있다고요?!) (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
             <link>https://LIFECORD.github.io/marketing/all.xml</link>
             <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
-            <pubDate>Wed, 29 Jun 2022 06:23:27 GMT</pubDate>
+            <pubDate>Wed, 29 Jun 2022 07:18:04 GMT</pubDate>
             <content:encoded><![CDATA[<tbody><tr>
 				<td><!--1-->네이버에서 선물 대상과 의도에 맞는 적절한 상품을 AI가 큐레이션 하는 '이 서비스'를 오픈했습니다. 이 서비스의 이름은 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;">(hint: <a href="https://www.i-boss.co.kr/ab-2877-8945" target="_blank">6/20 뉴스 클리핑에 정답이 숨어 있다고요?!</a>)</span></td>
 			</tr>
