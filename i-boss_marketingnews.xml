@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 10:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 11:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 에피 어워드 코리아 시상식 개최]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9040</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9040</guid>
+            <pubDate>Thu, 30 Jun 2022 11:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[2022 에피 어워드 코리아 시상식이 6월 30일 한국광고문화회관 2층 그랜드볼룸에서 개최됐다. 궂은 날씨에도 심사위원과 수상자 100여 명이 참석, 진심어린 축하의 시간을 보냈다. 이시훈 집행위원장은 `지난 한 해 광고업계는 다 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[이노션, 2022년 애널리스트 데이 개최... C D M 3대 키워드 선포 및 미래사업 체계 재정비 통한 제2 도약 강조]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9039</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9010</guid>
             <pubDate>Tue, 28 Jun 2022 08:37:00 GMT</pubDate>
             <content:encoded><![CDATA[요동치는 국제 경제와 장기화된 전쟁 국면 속 세계사에 대한 대중적 관심이 높아지는 추세다.대한민국 대표 서점 예스24의 집계 결과 올 상반기 세계사 도서는 작년 동기 대비5.74%의 판매 성장률로 약진했다.특히 같은 기간 전체 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 비디오 콘텐츠, 모바일 데이터 트래픽에서 급증]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9009</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9009</guid>
-            <pubDate>Tue, 28 Jun 2022 08:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[버스나 지하철을 타면, 대부분의 사람은 스마트폰을 보고 있다. 인터넷을 검색하고 뉴스를 보고 소셜 미디어를 사용하고 있지만, 많은 사람은 유튜브나 넷플릭스를 통해 비디오 콘텐츠를 보고 있다. 최근 스태티스타는에릭슨의 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
