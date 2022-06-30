@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-06-30T09:18:19.220Z</updated>
+    <updated>2022-06-30T10:26:15.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이노션, ‘2022년 애널리스트 데이’ 개최... ‘C D M’ 3대 키워드 선포 및 미래사업 체계 재정비 통한 ‘제2 도약’ 강조]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9039</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9039"/>
+        <updated>2022-06-30T10:25:53.137Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘코카콜라 크리에디션’의 두 번째 프로젝트 ‘코카콜라 제로 MARSHMELLO’ 공개]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9037</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-9009</id>
         <link href="https://www.i-boss.co.kr/ab-2877-9009"/>
         <updated>2022-06-28T01:48:12.653Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Trend from Tokyo] Don’t buy this Jacket]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9008</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9008"/>
-        <updated>2022-06-28T01:48:12.655Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
