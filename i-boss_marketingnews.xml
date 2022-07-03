@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 22:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 23:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7월 4일 마케팅 뉴스클리핑] 네이버, 이용자 장소 검색 돕는 로컬 스마트블록 도입 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9046</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9046</guid>
+            <pubDate>Mon, 04 Jul 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버, 이용자 장소 검색 돕는 `로컬 스마트블록` 도입  네이버가 숨은 명소부터 맛집까지 사용자의 장소 검색을 돕는 로컬 스마트블록을 신규 제공한다. 연내 검색 결과의 약 30%까지 스마트블록 비중을 확대하는 가운데, 이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d602ee8728ae71d82fa32b25969393ac_70342_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외 크리에이티브] 윔블던 x 로블록스, 새로운 세대의 팬 참여를 위한 윔블월드 론칭]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9052</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9023</guid>
             <pubDate>Wed, 29 Jun 2022 08:59:00 GMT</pubDate>
             <content:encoded><![CDATA[코로나19가 엔데믹 단계로 접어드는 현재,국내 소비자의 식생활에서는 취식 횟수 감소와 식단 간소화 현상이 두드러진다. 오픈서베이는 지난28일Eat:엔데믹 문턱에서 돌아보는3년간의 식생활 변화웨비나에서 푸드 다이어리 데이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[레드브릭, 메타버스 창작 공모전 크리에이터 챌린지 시즌4 개최]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9022</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9022</guid>
-            <pubDate>Wed, 29 Jun 2022 08:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[메타버스 창작 플랫폼 레드브릭(대표 양영모)이 메타버스 창작 공모전 2022레드브릭 크리에이터 챌린지 시즌4를 개최한다고28일 밝혔다. 레드브릭 크리에이터 챌린지는 자사의 소프트웨어 창작 툴을 활용해 게임을 제작하는 공 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
