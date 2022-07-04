@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 07:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 08:25:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오, 소상공인에 톡스토어 활용 노하우 푼다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9060</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9060</guid>
+            <pubDate>Mon, 04 Jul 2022 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[카카오(035720)는 지역 창업자와 소상공인의 디지털 비즈니스를 지원하기 위해 2022 카카오 클래스 심화 과정을 진행한다고 4일 밝혔다.  카카오와 제주창조경제혁신센터가 2016년부터 운영해온 이 프로그램은 카카오의 다양한 서 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_ae1afdf7bebdb848d5d7a3d89429725f_63916_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 부산국제광고제, 우리 농수축산물 소비 촉진 활성화를 위한 홍보 아이디어 공모]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9058</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9030</guid>
             <pubDate>Thu, 30 Jun 2022 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[온라인에는 소셜 미디어 팔로워를 늘리는 것에 대한 다양한 조언이 있다. 정보는 많은데, 실제 도움이 되는 것은 그다지 많은 것 같지 않고. 수년간 브랜드와 기업의 소셜 미디어 활동을 지원해온 지라프 소셜 미디어(Giraffe Social ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 방식은 역주행, 결과는 정주행, 현대모비스 DOA 캠페인 제작팀을 만나다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9029</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9029</guid>
-            <pubDate>Thu, 30 Jun 2022 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[올 5월 현대모비스 유튜브에서 공개된 10분가량의 애니메이션이 아직까지도 화제다. 브랜드 홍보 애니메이션임에도 불구하고 높은 퀄리티로 호평을 받으며, 다소 긴 러닝타임에도 조회수 500만을 돌파했다. 현대모비스 오리지널 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
