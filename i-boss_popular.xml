@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-07-04T19:16:47.933Z</updated>
+    <updated>2022-07-04T20:19:09.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -75,7 +75,7 @@
         <updated>2022-06-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s8">8</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-57981" title="고작 이런 이미지로 ROAS 870%가 가능 하다고요?(feat. 페이스북 광고)"><span class="AB-LF-common">고작 이런 이미지로 ROAS 870%가 가능 하다고요?(feat. 페..</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">19</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-598203" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/template/DESIGN_shared/program/theme/01/THUMBNAIL_144_144_icon_rep_box.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>백코맨트</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-15 16:23:03">06.15</span></td><td class="LikeCount"><span class="like_31">31</span></td><td class="ViewCount">3,417</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-15 16:23:03">06.15</span></td><td class="LikeCount"><span class="like_31">31</span></td><td class="ViewCount">3,419</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브랜드와 인플루언서를 연결하는 네이버 `브랜드 커..]]></title>
@@ -165,23 +165,32 @@
         <updated>2022-06-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s18">18</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-57998" title="카카오판 메타버스, 카카오 유니버스"><span class="AB-LF-common">카카오판 메타버스, ‘카카오 유니버스’</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">4</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-598623" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1610603802_16370.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>큐레터</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-20 08:28:45">06.20</span></td><td class="LikeCount"><span class="like_16">16</span></td><td class="ViewCount">2,671</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-20 08:28:45">06.20</span></td><td class="LikeCount"><span class="like_16">16</span></td><td class="ViewCount">2,672</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이커머스가 멤버십 확대에 집중하는 이유]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-58071</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-58071"/>
+        <updated>2022-06-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s19">19</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58071" title="이커머스가 멤버십 확대에 집중하는 이유"><span class="AB-LF-common">이커머스가 멤버십 확대에 집중하는 이유</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">4</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-600614" link="/ab-5108&amp;AJAX=Y" offset="1">
+<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1610603802_16370.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>큐레터</span></p></div>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-27 08:30:23">06.27</span></td><td class="LikeCount"><span class="like_20">20</span></td><td class="ViewCount">1,825</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소비자와 브랜드의 연결고리, 참여형 마케팅 🔗]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-58101</id>
         <link href="https://www.i-boss.co.kr/ab-6141-58101"/>
         <updated>2022-06-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s19">19</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58101" title="소비자와 브랜드의 연결고리, 참여형 마케팅 🔗"><span class="AB-LF-common">소비자와 브랜드의 연결고리, 참여형 마케팅 🔗</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">4</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-601448" link="/ab-5108&amp;AJAX=Y" offset="1">
+        <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s20">20</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58101" title="소비자와 브랜드의 연결고리, 참여형 마케팅 🔗"><span class="AB-LF-common">소비자와 브랜드의 연결고리, 참여형 마케팅 🔗</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">4</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-601448" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1610603802_16370.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>큐레터</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-30 09:29:22">06.30</span></td><td class="LikeCount"><span class="like_18">18</span></td><td class="ViewCount">2,110</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-30 09:29:22">06.30</span></td><td class="LikeCount"><span class="like_18">18</span></td><td class="ViewCount">2,111</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스티브 잡스는 4가지 방법으로 실패를 극복했다고 한..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-58027</id>
         <link href="https://www.i-boss.co.kr/ab-6141-58027"/>
         <updated>2022-06-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s20">20</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58027" title="스티브 잡스는 4가지 방법으로 실패를 극복했다고 한다."><span class="AB-LF-common">스티브 잡스는 4가지 방법으로 실패를 극복했다고 한..</span></a></span><span class="AB-comm">17</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-599387" link="/ab-5108&amp;AJAX=Y" offset="1">
+        <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s21">21</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58027" title="스티브 잡스는 4가지 방법으로 실패를 극복했다고 한다."><span class="AB-LF-common">스티브 잡스는 4가지 방법으로 실패를 극복했다고 한..</span></a></span><span class="AB-comm">17</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-599387" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1642145201_10255.jpg" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>yoorok</span></p></div>
 </div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-20 23:43:20">06.20</span></td><td class="LikeCount"><span class="like_19">19</span></td><td class="ViewCount">590</td>]]></content>
     </entry>
@@ -190,18 +199,9 @@
         <id>https://www.i-boss.co.kr/ab-1486526-278</id>
         <link href="https://www.i-boss.co.kr/ab-1486526-278"/>
         <updated>2022-06-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s21">21</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486526-278" title="6월 22일 사업자모임 진행 결과"><span class="AB-LF-common">6월 22일 사업자모임 진행 결과</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">27</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-600156" link="/ab-5108&amp;AJAX=Y" offset="1">
+        <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s22">22</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486526-278" title="6월 22일 사업자모임 진행 결과"><span class="AB-LF-common">6월 22일 사업자모임 진행 결과</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">27</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-600156" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1414648808_1.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>신용성</span></p></div>
 </div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-23 11:39:24">06.23</span></td><td class="LikeCount"><span class="like_13">13</span></td><td class="ViewCount">490</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이커머스가 멤버십 확대에 집중하는 이유]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-58071</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-58071"/>
-        <updated>2022-06-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s22">22</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58071" title="이커머스가 멤버십 확대에 집중하는 이유"><span class="AB-LF-common">이커머스가 멤버십 확대에 집중하는 이유</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">3</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-600614" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1610603802_16370.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>큐레터</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-27 08:30:23">06.27</span></td><td class="LikeCount"><span class="like_19">19</span></td><td class="ViewCount">1,820</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이커머스 전환율 5배 올리는 방법 (1)]]></title>
@@ -228,7 +228,7 @@
         <updated>2022-06-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s25">25</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39316" title="포토샵cs6도아닌 6을 사용하는 회사 그 후.."><span class="AB-LF-common">포토샵cs6도아닌 6을 사용하는 회사 그 후..</span></a></span><span class="AB-comm">27</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-599732" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/template/DESIGN_shared/program/theme/01/THUMBNAIL_144_144_icon_rep_box.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>유리구슬</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-22 08:40:43">06.22</span></td><td class="LikeCount"><span class="like_11">11</span></td><td class="ViewCount">413</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-22 08:40:43">06.22</span></td><td class="LikeCount"><span class="like_11">11</span></td><td class="ViewCount">414</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이커머스 전환율 관련 지표 6가지]]></title>
@@ -246,7 +246,7 @@
         <updated>2022-06-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s27">27</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58095" title="[초보 마자이너를 위한 꿀팁] 광고에 이 거 있으면 무조건 반려?"><span class="AB-LF-common">[초보 마자이너를 위한 꿀팁] 광고에 이 거 있으면 무..</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">11</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-601308" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/template/DESIGN_shared/program/theme/01/THUMBNAIL_144_144_icon_rep_box.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>명Ai</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-28 15:57:41">06.28</span></td><td class="LikeCount"><span class="like_16">16</span></td><td class="ViewCount">891</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-28 15:57:41">06.28</span></td><td class="LikeCount"><span class="like_16">16</span></td><td class="ViewCount">892</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유료 광고인 걸 알면서도 멈출 수 없는 ‘ASUS X 장삐..]]></title>
@@ -264,7 +264,7 @@
         <updated>2022-06-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s29">29</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58118" title="페이스북 직원 다 X졌나요?"><span class="AB-LF-common">페이스북 직원 다 X졌나요?</span></a></span><span class="AB-comm">13</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-601946" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1525749867_72428.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>와이비전</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-30 19:57:30">06.30</span></td><td class="LikeCount"><span class="like_12">12</span></td><td class="ViewCount">1,045</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-30 19:57:30">06.30</span></td><td class="LikeCount"><span class="like_12">12</span></td><td class="ViewCount">1,048</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[콜라보마케팅] MZ 세대 사로 잡는 대세 마케팅, 콜라..]]></title>
