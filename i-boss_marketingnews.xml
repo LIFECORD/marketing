@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 22:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 23:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7월 5일 마케팅 뉴스클리핑] 네이버 주간일기 챌린지 성공에 카카오 일상기록 서비스 반격 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9059</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9059</guid>
+            <pubDate>Tue, 05 Jul 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버 `주간일기 챌린지` 성공에 카카오 `일상기록 서비스` 반격  한 물 갔다고 평가받던 네이버 블로그가 MZ세대의 관심에 제2의 전성기를 누리고 있다. 최근 시작한 `주간일기 챌린지`에는 58만 명이 몰렸고, 이 중 MZ세대가 90 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_535963dd0568bcc6e8140f891da733e3_89212_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오, 소상공인에 톡스토어 활용 노하우 푼다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9060</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9031</guid>
             <pubDate>Thu, 30 Jun 2022 09:01:00 GMT</pubDate>
             <content:encoded><![CDATA[이마케터에 따르면, 미국 성인의 약 3%는 이미 메타버스 환경에서 부동산을 구입했으며, 추가로 8%는 가상 부동산을 구입하지 않았지만 관심이 있다.반면,미국 성인의 52%는가상 부동산에 대해 들어본 적이 없다. 가상 토지를소유 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 소셜 미디어 플랫폼에서 잠재고객을 늘리는 7가지 팁]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9030</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9030</guid>
-            <pubDate>Thu, 30 Jun 2022 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[온라인에는 소셜 미디어 팔로워를 늘리는 것에 대한 다양한 조언이 있다. 정보는 많은데, 실제 도움이 되는 것은 그다지 많은 것 같지 않고. 수년간 브랜드와 기업의 소셜 미디어 활동을 지원해온 지라프 소셜 미디어(Giraffe Social ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
