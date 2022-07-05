@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 01:46:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 03:45:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OTT 뜨니 콘텐츠 검색 주목... 네이버도 본격 가세]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9069</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9069</guid>
+            <pubDate>Tue, 05 Jul 2022 10:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[키노라이츠, OTT 콘텐츠 검색공개 예정작 등 제공 네이버도 넷플릭스 등 4개사와 협력해 서비스 선봬   새 온라인 동영상 스트리밍(OTT) 서비스가 잇따라 등장한 가운데, 어떤 콘텐츠를 제공 중인지 찾을 수 있게 하는 통합 검색 기 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_83bd6c2e9ec1e5f7937a1c9c77d173a2_31060_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[거리두기 해제로 배달 앱 결제 추정금액 3달 연속 감소]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9068</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Jul 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 네이버, 쇼핑검색 `랭킹` 대폭 개선  네이버가 쇼핑 검색에서 랭킹(순위) 부분의 검색 결과를 개선했다. 2020년 4월 인공지능기반 L2R 모델을 쇼핑 검색에 최초 도입한 후 지속적으로 업그레이드하고 있다. 네이버는 검색 의도와  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5f3f7c026143e1eb6388ac76a97133ed_51472_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 에피 어워드 코리아 시상식 개최]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9040</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9040</guid>
-            <pubDate>Thu, 30 Jun 2022 11:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[2022 에피 어워드 코리아 시상식이 6월 30일 한국광고문화회관 2층 그랜드볼룸에서 개최됐다. 궂은 날씨에도 심사위원과 수상자 100여 명이 참석, 진심어린 축하의 시간을 보냈다. 이시훈 집행위원장은 `지난 한 해 광고업계는 다 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
