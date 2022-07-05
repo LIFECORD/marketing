@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 22:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 23:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7월 6일 마케팅 뉴스클리핑] 카톡 최신 버전 심사 거절 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9070</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9070</guid>
+            <pubDate>Wed, 06 Jul 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. `카톡` 최신 버전 심사 거절  카카오톡이 지난 6월 30일부터 구글 플레이에서 최신 버전 다운로드를 할 수 없게 된 것으로 나타났다. 구글이 카카오톡 앱의 심사 거절을 단행한 이유는 최근 카카오가 카카오톡 앱 내 아웃링크  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_04771872035936909198fa7c7cabeabc_42944_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OTT 뜨니 콘텐츠 검색 주목... 네이버도 본격 가세]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9069</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Jul 2022 08:29:00 GMT</pubDate>
             <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코, 사장 이백만)는 30일 한국프레스센터에서 EBS, IPTV 3사(KT, SK브로드밴드, LG유플러스)와 어드레서블TV 광고 사업협력을 위한 업무협약을 체결했다. 어드레서블TV 광고는 IPTV 시청 데이터를 기반 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[7월 1일 마케팅 뉴스클리핑] 네이버, 쇼핑검색 랭킹 대폭 개선 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9038</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9038</guid>
-            <pubDate>Fri, 01 Jul 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 네이버, 쇼핑검색 `랭킹` 대폭 개선  네이버가 쇼핑 검색에서 랭킹(순위) 부분의 검색 결과를 개선했다. 2020년 4월 인공지능기반 L2R 모델을 쇼핑 검색에 최초 도입한 후 지속적으로 업그레이드하고 있다. 네이버는 검색 의도와  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5f3f7c026143e1eb6388ac76a97133ed_51472_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
