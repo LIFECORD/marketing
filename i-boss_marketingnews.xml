@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 03:52:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 04:50:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티몬, 크라우드펀딩예약판매 티파인더 론칭]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9080</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9080</guid>
+            <pubDate>Wed, 06 Jul 2022 04:49:52 GMT</pubDate>
+            <content:encoded><![CDATA[티몬은 크라우드펀딩 및 예약판매 서비스인 `티파인더`를 공식 론칭했다고 5일 밝혔다.  티파인더는 사전주문 방식으로 티몬 입점 파트너의 판매 전략에 도움을 줄 것으로 예상된다. 판매자 입장에서는 제품의 본격적인 판매에  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8e39ebb4e05d77820656f91aae0c9d4c_33960_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이노션 x 경기창조경제혁신센터, 모빌리티 분야 유망 스타트업 7월 31일까지 모집]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9078</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9051</guid>
             <pubDate>Sun, 03 Jul 2022 09:33:00 GMT</pubDate>
             <content:encoded><![CDATA[에어서울이 11일까지동영상 배틀 콘테스트 스마파(스트릿 마케팅 파이터) 참가자를 모집한다. 스마파는 에어서울이 취항 노선의 홍보영상 콘텐츠를 제작하기 위해 기획한 프로모션으로, 영상 제작 및 편집 기술을 보유하고, 인 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[버스 유리창에 디지털 사이니지 광고 가능해진다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9050</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9050</guid>
-            <pubDate>Sun, 03 Jul 2022 09:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[버스 측면 유리창에 투명 LED 디스플레이를 부착해 공공정보, 상업광고 등을 표출하는 버스 유리창 디지털 사이니지 광고가 현행 규제의 문턱을 넘어 사용이 가능해졌다. 디지털 사이니지(Digital Signage)란 디지털 정보 디스플레이 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
