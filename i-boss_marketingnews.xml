@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 22:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 23:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7월 7일 마케팅 뉴스클리핑] 물가 상승에 공짜만 찾는 체리피커족 늘어난다 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9079</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9079</guid>
+            <pubDate>Thu, 07 Jul 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 물가 상승에 공짜만 찾는 `체리피커족` 늘어난다  가파른 물가 상승으로 커피 값이라도 아끼기 위해 무료 이벤트에 적극 참여하는 체리피커가 증가세다. 하지만 체리피커들의 활동이 활발해지며 이벤트를 주최한 업체들의 한 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_91bcb4fb1bedc1d2624ca81babad68d4_41934_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코바코, 1인 광고콘텐츠 창작자 양성 과정 지역인재반 및 중급반 수강생 모집 7월 10일까지 연장]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9082</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 04 Jul 2022 08:45:00 GMT</pubDate>
             <content:encoded><![CDATA[경리단길을 따라 올라가다 이면 도로에 아담하면서도 세련된 외관의 건물이 있다. 얼마 전 개관한 `이호 갤러리`. 일반적으로 갤러리의 커뮤니케이션은 수평적으로 펼쳐진다. 그러나 이호 갤러리는 전시와 스페이스 커뮤니케이 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[7월 4일 마케팅 뉴스클리핑] 네이버, 이용자 장소 검색 돕는 로컬 스마트블록 도입 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9046</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9046</guid>
-            <pubDate>Mon, 04 Jul 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 네이버, 이용자 장소 검색 돕는 `로컬 스마트블록` 도입  네이버가 숨은 명소부터 맛집까지 사용자의 장소 검색을 돕는 로컬 스마트블록을 신규 제공한다. 연내 검색 결과의 약 30%까지 스마트블록 비중을 확대하는 가운데, 이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d602ee8728ae71d82fa32b25969393ac_70342_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
