@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 01:58:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 03:52:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이노션 x 경기창조경제혁신센터, 모빌리티 분야 유망 스타트업 7월 31일까지 모집]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9078</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9078</guid>
+            <pubDate>Wed, 06 Jul 2022 11:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[이노션은경기창조경제혁신센터(이하 경기혁신센터)와 함께사업화 협력 기회를 잡을 수 있는 오픈 이노베이션 프로그램 2022 Open Bridge with INNOCEAN(이노션)에 참여할 모빌리티 분야 유망 스타트업을 모집한다고 6일 밝혔다. 2022 Open  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[소비자들이 코로나 보다 더 우려하는 이슈는? 우크라이나 사태, 인플레이션... 칸타, 글로벌 이슈 바로미터 결과 발표]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9077</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9050</guid>
             <pubDate>Sun, 03 Jul 2022 09:32:00 GMT</pubDate>
             <content:encoded><![CDATA[버스 측면 유리창에 투명 LED 디스플레이를 부착해 공공정보, 상업광고 등을 표출하는 버스 유리창 디지털 사이니지 광고가 현행 규제의 문턱을 넘어 사용이 가능해졌다. 디지털 사이니지(Digital Signage)란 디지털 정보 디스플레이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[애드엑스, 구글 공식 퍼블리싱 파트너 GCPP 선정]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9049</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9049</guid>
-            <pubDate>Sat, 02 Jul 2022 10:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[애드테크 기업 애드엑스(대표 강율빈)가 구글이 퍼블리싱 파트너로 인증하는 GCPP(Google Certified Publishing Partner)로 선정됐다. 올해 GCPP는 총 6개 기업을 발표했는데,아시아태평양(APEC) 지역에서는 애드엑스가 유일하다. 애드엑스는 G ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
