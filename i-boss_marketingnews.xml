@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 05:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 07:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플 인앱결제는 표시광고법공정거래법 위반]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9090</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9090</guid>
+            <pubDate>Thu, 07 Jul 2022 07:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[3자결제 한국만 도입했지만... 이용 못하게 막는 법 위반 행위  애플의 인앱결제 정책이 국내 표시광고법과 공정거래법을 위반했다는 시민단체의 지적이 이목을 끈다.  소비자주권시민회의는 7일 성명을 내고, 애플의 3자결제 시 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[지그재그, 상반기 거래액 30% 증가... 카테고리 확대 덕분]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9089</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 05 Jul 2022 08:33:00 GMT</pubDate>
             <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)가 신중년의 캠핑 트렌드 조사에 대해 조사, 발표했다. 임팩트피플스가 4060 신중년 캠핑용품 트렌드를 조사한 결과, 4060이 가장 선호하는 캠핑용품 브랜드 1위는 국내 아웃도어 브랜 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[7월 5일 마케팅 뉴스클리핑] 네이버 주간일기 챌린지 성공에 카카오 일상기록 서비스 반격 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9059</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9059</guid>
-            <pubDate>Tue, 05 Jul 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 네이버 `주간일기 챌린지` 성공에 카카오 `일상기록 서비스` 반격  한 물 갔다고 평가받던 네이버 블로그가 MZ세대의 관심에 제2의 전성기를 누리고 있다. 최근 시작한 `주간일기 챌린지`에는 58만 명이 몰렸고, 이 중 MZ세대가 9 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_535963dd0568bcc6e8140f891da733e3_89212_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-07-07T05:26:42.112Z</updated>
+    <updated>2022-07-07T07:18:52.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플 인앱결제는 표시광고법·공정거래법 위반]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9090</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9090"/>
+        <updated>2022-07-07T07:18:30.460Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지그재그, 상반기 거래액 30% 증가... 카테고리 확대 덕분]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9089</id>
@@ -207,12 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-9061"/>
         <updated>2022-07-05T01:46:10.025Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[7월 5일 마케팅 뉴스클리핑] 네이버 '주간일기 챌린지' 성공에 카카오 '일상기록 서비스' 반격 외]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9059</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9059"/>
-        <updated>2022-07-04T23:18:15.849Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
 </feed>
