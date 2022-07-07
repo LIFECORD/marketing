@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-07-07T22:19:46.346Z</updated>
+    <updated>2022-07-07T23:20:15.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[7월 8일 마케팅 뉴스클리핑] 공정위, 네이버 과장광고 논란 들여다본다 외]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9091</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9091"/>
+        <updated>2022-07-07T23:19:54.977Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플 인앱결제는 표시광고법·공정거래법 위반]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9090</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-9062</id>
         <link href="https://www.i-boss.co.kr/ab-2877-9062"/>
         <updated>2022-07-05T01:46:10.019Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4060 세대가 선호하는 캠핑용품 브랜드는]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9061</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9061"/>
-        <updated>2022-07-05T01:46:10.025Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>

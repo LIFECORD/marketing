@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 22:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 23:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7월 8일 마케팅 뉴스클리핑] 공정위, 네이버 과장광고 논란 들여다본다 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9091</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9091</guid>
+            <pubDate>Fri, 08 Jul 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 공정위, 네이버 과장광고 논란 들여다본다  1위 네이버의 멤버십 유치 광고가 과장됐다는 의혹이 나와 공정위가 나선다. `표시광고법` 위반 의혹으로 네이버가 멤버십 가입자를 `누적 기준` 800만 명으로 산정한 것이 문제라는  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a7801de80001c2a933c1f12b87317cc2_78951_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플 인앱결제는 표시광고법공정거래법 위반]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9090</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9062</guid>
             <pubDate>Tue, 05 Jul 2022 08:34:00 GMT</pubDate>
             <content:encoded><![CDATA[맥도날드를 대표하는 광고 중 하나는 그네를 타고 있는 아기다. 아기용 그네를 타고 있는 아기가 웃었다 울었다를 반복한다. 그네를 타고 앞으로 오면 맥도날드 로고가 보이고, 뒤로 가면 사라진다. 아기는 맥도날드 로고를 보 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[4060 세대가 선호하는 캠핑용품 브랜드는]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9061</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9061</guid>
-            <pubDate>Tue, 05 Jul 2022 08:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)가 신중년의 캠핑 트렌드 조사에 대해 조사, 발표했다. 임팩트피플스가 4060 신중년 캠핑용품 트렌드를 조사한 결과, 4060이 가장 선호하는 캠핑용품 브랜드 1위는 국내 아웃도어 브랜 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
