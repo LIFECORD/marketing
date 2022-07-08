@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 23:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 01:50:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[케이스 스터디] 인텔 x 하이브스택, 일본 최초로 글로벌 인바운드 프로그래매틱 옥외 캠페인을 집행하다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9092</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9092</guid>
+            <pubDate>Fri, 08 Jul 2022 08:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[많은 클라이언트와 광고회사가 프로그래매틱 광고를채택하면서 미디어 집행에서 프로그래매틱은 중요한 요소가 되고 있다. 프로그래매틱은 단순히 TV나 디지털 광고 집행에 머물지 않고, 디지털 옥외광고로 그 영역을 넓혀가 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[7월 8일 마케팅 뉴스클리핑] 공정위, 네이버 과장광고 논란 들여다본다 외]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9091</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9063</guid>
             <pubDate>Tue, 05 Jul 2022 08:49:00 GMT</pubDate>
             <content:encoded><![CDATA[예스24더뮤지컬,창간22주년 기념 팝업스토어 오픈 스페셜 굿즈 판매  대한민국 대표 서점 예스24가 발행하는 국내 유일의 뮤지컬 전문지 더뮤지컬이7월4일`33아파트먼트`와 협업한 창간22주년 기념 팝업스토어를 오픈하고7월 특집 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외 크리에이티브] 맥도날드 골든 아치에서 그네 타세요!]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9062</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9062</guid>
-            <pubDate>Tue, 05 Jul 2022 08:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[맥도날드를 대표하는 광고 중 하나는 그네를 타고 있는 아기다. 아기용 그네를 타고 있는 아기가 웃었다 울었다를 반복한다. 그네를 타고 앞으로 오면 맥도날드 로고가 보이고, 뒤로 가면 사라진다. 아기는 맥도날드 로고를 보 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
