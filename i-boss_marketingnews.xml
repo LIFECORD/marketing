@@ -4,9 +4,49 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 23:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 01:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인포그래픽] 미디어의 진화 : 데이터 중심의 미래]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9098</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9098</guid>
+            <pubDate>Sat, 09 Jul 2022 09:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[고도로 연결되어 있는 오늘날, 우리는 손끝으로 엄청난 양의 정보에 접근할 수 있다. 그러나 역사적으로 항상 그런 것은 아니다. 불과 20년 전만 해도 사람들은 신문이나 TV 뉴스를 통해 정보를 얻었다. 2002년에는 구글은 야후나 M ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[기업들은 왜 이렇게 라이브 커머스 개발에 집중할까]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9097</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9097</guid>
+            <pubDate>Sat, 09 Jul 2022 09:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[최근 여러 기업들과 브랜드들이 자체 라이브 커머스 서비스에 총력을 기울이고 있다. 너도나도 10조원 전망이라는 핫한 시장에 출사표를 던지고 있다. 라이브 커머스란 실시간 스트리밍으로 상품 및 서비스를 소개하고 판매하 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[한국 CEO, 전 세계 CEO 대비 지속가능성에 대한 우선 순위 낮아]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9096</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9096</guid>
+            <pubDate>Sat, 09 Jul 2022 09:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[IBM기업가치연구소(IBM Institute for Business Value, IBV)의 최신 CEO 연구*에 따르면, 전 세계적으로 지속가능성(sustainability)이 기업 경영에서 차지하는 중요성이 점차 높아지고 있으며, CEO들은 지속가능성을 비즈니스 필수 성장 동력으로 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[에픽게임즈 코리아, 언리얼 엔진 5 챌린지 개최]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9095</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9095</guid>
+            <pubDate>Sat, 09 Jul 2022 09:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[세계적인 게임 개발사이자 언리얼 엔진, 스토어 및 디지털 창작 생태계를 위한 모든 것을 제공하는 에픽게임즈의 한국법인 에픽게임즈 코리아(대표 박성철)가 언리얼 엔진 5 챌린지를 개최한다. 언리얼 엔진 5 챌린지는 언리얼  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[트렌드모니터] 자기계발 필수 시대 현대인, 재능 공유 플랫폼으로 몰린다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9094</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9094</guid>
+            <pubDate>Sat, 09 Jul 2022 09:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[85.3% 한국 사회, 안정적 직업 찾기 어려워...전반적으로 10년 후의 삶에 불안감 느껴  시장조사전문기업 엠브레인 트렌드모니터가 전국 만 19~59세 성인 남녀 1,000명을 대상으로 재능 공유 플랫폼 관련 인식 조사를 실시한 결과, 사 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[케이스 스터디] 인텔 x 하이브스택, 일본 최초로 글로벌 인바운드 프로그래매틱 옥외 캠페인을 집행하다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9092</link>
@@ -206,46 +246,6 @@
             <pubDate>Tue, 05 Jul 2022 10:18:00 GMT</pubDate>
             <content:encoded><![CDATA[거리두기 해제 이전 3월 대비 6월 결제 추정금액 21% 감소 배달 앱 3사 3월 결제 추정금액 2.35조 원 -&gt; 6월 결제 추정금액 1.87조 원   앱/리테일 분석 서비스 와이즈앱리테일굿즈가 거리두기 해제 이후 국내 주요 배달 앱의 결제 추정 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_3833d1a2dddee3950b2d83ec90a48944_77795_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[크래프톤, 버추얼 인플루언서 위니 공개... 게임과 애니메이션, 댄스와 스포츠를 좋아하는 21세 공대생]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9067</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9067</guid>
-            <pubDate>Tue, 05 Jul 2022 09:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[㈜크래프톤(대표김창한)이배틀그라운드모바일의버추얼인플루언서위니(WINNI)를공개했다고5일밝혔다. 위니는게임과애니메이션,댄스와스포츠를좋아하는21세공대생이다.다양한분야에관심이많으며사람들과소통하는것을좋아하 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[이노션 월드와이드, 이노션으로 표기명 변경]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9066</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9066</guid>
-            <pubDate>Tue, 05 Jul 2022 09:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[이노션(대표이사 이용우)이 기업 표기명을 기존 이노션 월드와이드에서 월드와이드를 떼고 이노션으로 변경했다고 5일 밝혔다. 이에 따른 CI(기업이미지, Corporate Identity) 디자인과 해외 법인 표기명도 함께 바꿨다. 이노션은 이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[모티브인텔리전스, TG360과 데이터 제휴 협약 체결]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9065</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9065</guid>
-            <pubDate>Tue, 05 Jul 2022 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[애드테크 전문 기업 모티브인텔리전스(대표이사 양준모)가 티지360테크놀로지스(이하TG360)와 데이터 제휴 협약을 체결했다고5일 밝혔다.모티브인텔리전스는TG360이 보유한DMP(Data Management Platform)기반 고객 행동 분석 솔루션몰레큘 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[데이터 마케팅 인사이트] 5월 전체 금융 앱 사용자 수 지난해 동기 대비 소폭 감소]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9064</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9064</guid>
-            <pubDate>Tue, 05 Jul 2022 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 빅데이터 플랫폼 기업 아이지에이웍스가 자사의 데이터 분석 솔루션모바일인덱스를 통해분석 리포트를 발표했다.분석 기간은2021년5월1일부터2022년6월25일까지로,일평균4000만 모바일 기기의20억건 데이터(안드로이드, ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[클라이언트 동향] 예스24 팝업스토어, 일룸 팝업스토어]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9063</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9063</guid>
-            <pubDate>Tue, 05 Jul 2022 08:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[예스24더뮤지컬,창간22주년 기념 팝업스토어 오픈 스페셜 굿즈 판매  대한민국 대표 서점 예스24가 발행하는 국내 유일의 뮤지컬 전문지 더뮤지컬이7월4일`33아파트먼트`와 협업한 창간22주년 기념 팝업스토어를 오픈하고7월 특집 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

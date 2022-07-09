@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-07-08T23:19:08.429Z</updated>
+    <updated>2022-07-09T01:28:36.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인포그래픽] 미디어의 진화 : 데이터 중심의 미래]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9098</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9098"/>
+        <updated>2022-07-09T01:28:14.608Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기업들은 왜 이렇게 라이브 커머스 개발에 집중할까]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9097</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9097"/>
+        <updated>2022-07-09T01:28:14.615Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 CEO, 전 세계 CEO 대비 지속가능성에 대한 우선 순위 낮아]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9096</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9096"/>
+        <updated>2022-07-09T01:28:14.615Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에픽게임즈 코리아, 언리얼 엔진 5 챌린지 개최]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9095</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9095"/>
+        <updated>2022-07-09T01:28:14.623Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[트렌드모니터] “자기계발 필수 시대” 현대인, 재능 공유 플랫폼으로 몰린다]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9094</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9094"/>
+        <updated>2022-07-09T01:28:14.623Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[케이스 스터디] 인텔 x 하이브스택, 일본 최초로 글로벌 인바운드 프로그래매틱 옥외 캠페인을 집행하다]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9092</id>
@@ -179,40 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-9068"/>
         <updated>2022-07-05T01:46:10.001Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크래프톤, 버추얼 인플루언서 ‘위니’ 공개... 게임과 애니메이션, 댄스와 스포츠를 좋아하는 21세 공대생]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9067</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9067"/>
-        <updated>2022-07-05T01:46:10.002Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이노션 월드와이드, ‘이노션’으로 표기명 변경]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9066</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9066"/>
-        <updated>2022-07-05T01:46:10.004Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모티브인텔리전스, TG360과 데이터 제휴 협약 체결]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9065</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9065"/>
-        <updated>2022-07-05T01:46:10.005Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데이터 마케팅 인사이트] 5월 전체 금융 앱 사용자 수 지난해 동기 대비 소폭 감소]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9064</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9064"/>
-        <updated>2022-07-05T01:46:10.014Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[클라이언트 동향] 예스24 팝업스토어, 일룸 팝업스토어]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9063</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9063"/>
-        <updated>2022-07-05T01:46:10.017Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
