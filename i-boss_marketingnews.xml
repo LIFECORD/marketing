@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 22:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 23:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7월 11일 마케팅 뉴스클리핑] 다음 블로그 17년 만에 퇴장... 티스토리와 통합 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9093</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9093</guid>
+            <pubDate>Mon, 11 Jul 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 다음 블로그 17년 만에 퇴장... 티스토리와 통합  다음 블로그가 9월 30일 서비스를 종료한다. 운영 17년 만이다. 카카오는 다음 블로그와 티스토리로 나뉘어 운영하던 블로그 플랫폼을 티스토리로 통합하기로 했다. 서비스 통합 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2010fbb1647b9ffaf55e2c514f04b6a2_17300_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외 크리에이티브] 버거킹, 경쟁자를 겨냥한 그릴 라인 캠페인을 론칭하다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9101</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9072</guid>
             <pubDate>Wed, 06 Jul 2022 08:41:00 GMT</pubDate>
             <content:encoded><![CDATA[올여름 역대급 폭염이 예상되는 가운데 계절 성수기에 들어선 음료업계가 새로운 모델을 대거 발탁하면서 다양한 마케팅 활동을 강화하고 있다.브랜드 이미지와 부합하는 모델 선정을 통해 성수기 시장 점유율 확대를 노리는  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[소셜VR 사용자 모임 VR문화권익위원회, 가상 현실 속 풍경을 담은 사진전 개최]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9071</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9071</guid>
-            <pubDate>Wed, 06 Jul 2022 08:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[소셜 가상현실(Social VR) 플랫폼 사용자들이 가상 현실에서 촬영한 사진들을 전시하는 이 7월 7일 VR 문화 권익 위원회 주최로 개최된다. VR문화권익위원회는 지난 6월 일본 최대의 가상현실/메타버스 관련 비영리단체인 npovr(NPO法 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

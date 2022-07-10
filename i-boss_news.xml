@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-07-10T22:18:52.351Z</updated>
+    <updated>2022-07-10T23:19:05.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[7월 11일 마케팅 뉴스클리핑] 다음 블로그 17년 만에 퇴장... 티스토리와 통합 외]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9093</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9093"/>
+        <updated>2022-07-10T23:18:42.425Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[해외 크리에이티브] 버거킹, 경쟁자를 겨냥한 "그릴 라인" 캠페인을 론칭하다]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9101</id>
@@ -205,13 +212,6 @@
         <title type="html"><![CDATA[여름 성수기 맞은 음료업계 새로운 모델 공식! 글로벌 흥행 드라마 배우, 음료 모델 발탁 이어져]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9072</id>
         <link href="https://www.i-boss.co.kr/ab-2877-9072"/>
-        <updated>2022-07-06T01:58:17.131Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소셜VR 사용자 모임 ‘VR문화권익위원회’, 가상 현실 속 풍경을 담은 사진전 개최]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9071</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9071"/>
         <updated>2022-07-06T01:58:17.131Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
