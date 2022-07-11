@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 01:47:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 03:39:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버, 쇼핑 스마트블록 도입... 내돈내산 후기시즌별 추천 아이템 확인]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9106</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9106</guid>
+            <pubDate>Mon, 11 Jul 2022 11:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[실제 구매자가 직접 남긴 후기(리뷰) 모아서 제공 날씨, 계절, 명절, 기념일 등 시의성 고려한 맞춤 추천도   네이버가 직접 구매 인증한 이용자의 상품평, 날씨시즌별 추천 아이템 정보 등을 확인할 수 있는 쇼핑 스마트블록을  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_7f345737e6aff5f9653da0ebd27172a7_39268_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BAT, 맥스 더 크리에이티브서 에이전시 부문 수상]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9105</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9077</guid>
             <pubDate>Wed, 06 Jul 2022 09:09:00 GMT</pubDate>
             <content:encoded><![CDATA[선도적인데이터인사이트컨설팅기업칸타가글로벌이슈바로미터결과를발표했다.이번조사결과,한국을비롯한전세계소비자들이가장우려하는글로벌이슈는우크라이나사태로드러났다. 칸타의글로벌이슈바로미터조사는한국을포 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 반려견과 펫톡하세요... 제일기획 x 펫 헬스케어 기업 우리엔. 메신저 형태의 펫톡 선보여]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9076</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9076</guid>
-            <pubDate>Wed, 06 Jul 2022 09:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[나의 반려견과 대화를 나눌 수 있으면 얼마나 좋을까? 반려견 보호자들이 상상하던 일이 현실이 된다. 제일기획(대표이사 사장 유정근)이 펫 헬스케어 기업 우리엔(대표이사 고석빈)과 함께 반려견과의 소통을 돕는 반려견 소통 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
