@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 22:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 23:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7월 12일 마케팅 뉴스클리핑] 네이버, 인공지능 검색 서비스 쇼핑 스마트블록 도입 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9108</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9108</guid>
+            <pubDate>Tue, 12 Jul 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버, 인공지능 검색 서비스 `쇼핑 스마트블록` 도입  네이버가 AI 검색 브랜드 `에어서치`(AiRSearch)로 제공하는 사용자 맞춤형 검색 결과 `스마트블록`을 쇼핑에도 확대 적용한다. 쇼핑 스마트블록은 소비자가 직접 구매해 체 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_03f87a73063c724bf2465d6a0f3cc7bf_40702_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이색적인 경험 선호하는 MZ세대 취향 공략한 경험 마케팅 활발]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9109</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Jul 2022 08:23:06 GMT</pubDate>
             <content:encoded><![CDATA[SK그룹의 디지털 광고 전문기업 인크로스가 퍼포먼스 광고 사업을 본격화하기 위해M&amp;A에 나섰다.인크로스는 애드테크 기업 솔루티온의 지분100%를 인수,완전 자회사로 편입한다고6일 밝혔다. 솔루티온은2020년 설립된 애드테크 스 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[티몬, 크라우드펀딩예약판매 티파인더 론칭]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9080</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9080</guid>
-            <pubDate>Wed, 06 Jul 2022 04:49:52 GMT</pubDate>
-            <content:encoded><![CDATA[티몬은 크라우드펀딩 및 예약판매 서비스인 `티파인더`를 공식 론칭했다고 5일 밝혔다.  티파인더는 사전주문 방식으로 티몬 입점 파트너의 판매 전략에 도움을 줄 것으로 예상된다. 판매자 입장에서는 제품의 본격적인 판매에  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8e39ebb4e05d77820656f91aae0c9d4c_33960_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

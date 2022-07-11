@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 22:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 23:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어느새 검색광고 25% 장악한 구글 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1079605-%EC%96%B4%EB%8A%90%EC%83%88_%EA%B2%80%EC%83%89%EA%B4%91%EA%B3%A0_25_%EC%9E%A5%EC%95%85%ED%95%9C_%EA%B5%AC%EA%B8%80/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1079605-%EC%96%B4%EB%8A%90%EC%83%88_%EA%B2%80%EC%83%89%EA%B4%91%EA%B3%A0_25_%EC%9E%A5%EC%95%85%ED%95%9C_%EA%B5%AC%EA%B8%80/</guid>
+            <pubDate>Mon, 11 Jul 2022 23:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1079605-어느새_검색광고_25_장악한_구글/">
+						<div class="thumb"><img src="/images/qletter_1079605.png"></div>
+						<p><strong>어느새 검색광고 25% 장악한 구글</strong>2022.07.11</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1079605.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[소비자와 찐 애착을 형성하는 방법 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1063079-%EC%86%8C%EB%B9%84%EC%9E%90%EC%99%80_%EC%B0%90_%EC%95%A0%EC%B0%A9%EC%9D%84_%ED%98%95%EC%84%B1%ED%95%98%EB%8A%94_%EB%B0%A9%EB%B2%95/</link>
@@ -129,24 +140,13 @@
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1006942.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[마케팅 업계의 #갓생 열풍 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1003239-%EB%A7%88%EC%BC%80%ED%8C%85_%EC%97%85%EA%B3%84%EC%9D%98_%EA%B0%93%EC%83%9D_%EC%97%B4%ED%92%8D/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1003239-%EB%A7%88%EC%BC%80%ED%8C%85_%EC%97%85%EA%B3%84%EC%9D%98_%EA%B0%93%EC%83%9D_%EC%97%B4%ED%92%8D/</guid>
-            <pubDate>Tue, 24 May 2022 02:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1003239-마케팅_업계의_갓생_열풍/">
-						<div class="thumb"><img src="/images/qletter_1003239.png"></div>
-						<p><strong>마케팅 업계의 #갓생 열풍</strong>2022.05.19</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1003239.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[제발 제발 페이스북의 본질을 알고 마케팅해주세요. .. (아이보스 ─ 인기글)]]></title>
             <link>https://www.i-boss.co.kr/ab-6141-57960</link>
             <guid>https://www.i-boss.co.kr/ab-6141-57960</guid>
             <pubDate>Sun, 12 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s1">1</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-57960" title="제발 제발 페이스북의 본질을 알고 마케팅해주세요. 부탁드립니다."><span class="AB-LF-common">제발 제발 페이스북의 본질을 알고 마케팅해주세요. ..</span></a></span><span class="AB-comm">12</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-597229" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1652259083_37974.jpg" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>우뇌</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-12 16:32:53">06.12</span></td><td class="LikeCount"><span class="like_62">62</span></td><td class="ViewCount">3,561</td>]]></content:encoded>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-12 16:32:53">06.12</span></td><td class="LikeCount"><span class="like_62">62</span></td><td class="ViewCount">3,563</td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[마케팅밈] 마케터가 얻는 기초 체력 (아이보스 ─ 인기글)]]></title>
@@ -209,7 +209,7 @@
             <pubDate>Thu, 30 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s8">8</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58118" title="페이스북 직원 다 X졌나요?"><span class="AB-LF-common">페이스북 직원 다 X졌나요?</span></a></span><span class="AB-comm">25</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-601946" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1525749867_72428.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>와이비전</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-30 19:57:30">06.30</span></td><td class="LikeCount"><span class="like_22">22</span></td><td class="ViewCount">2,545</td>]]></content:encoded>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-30 19:57:30">06.30</span></td><td class="LikeCount"><span class="like_22">22</span></td><td class="ViewCount">2,547</td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[기본적인것은 하지 않으면서 광고기법에 집착하진 .. (아이보스 ─ 인기글)]]></title>
@@ -218,7 +218,7 @@
             <pubDate>Mon, 27 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s9">9</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58083" title="기본적인것은 하지 않으면서 광고기법에 집착하진 않으신가요..?"><span class="AB-LF-common">기본적인것은 하지 않으면서 광고기법에 집착하진 ..</span></a></span><span class="AB-comm">22</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-601076" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/template/DESIGN_shared/program/theme/01/THUMBNAIL_144_144_icon_rep_box.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>백코맨트</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-27 19:40:12">06.27</span></td><td class="LikeCount"><span class="like_20">20</span></td><td class="ViewCount">1,758</td>]]></content:encoded>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-27 19:40:12">06.27</span></td><td class="LikeCount"><span class="like_20">20</span></td><td class="ViewCount">1,759</td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소비자와 브랜드의 연결고리, 참여형 마케팅 🔗 (아이보스 ─ 인기글)]]></title>
@@ -227,7 +227,7 @@
             <pubDate>Thu, 30 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s10">10</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58101" title="소비자와 브랜드의 연결고리, 참여형 마케팅 🔗"><span class="AB-LF-common">소비자와 브랜드의 연결고리, 참여형 마케팅 🔗</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">6</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-601448" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1610603802_16370.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>큐레터</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-30 09:29:22">06.30</span></td><td class="LikeCount"><span class="like_21">21</span></td><td class="ViewCount">2,892</td>]]></content:encoded>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-30 09:29:22">06.30</span></td><td class="LikeCount"><span class="like_21">21</span></td><td class="ViewCount">2,897</td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카카오판 메타버스, ‘카카오 유니버스’ (아이보스 ─ 인기글)]]></title>
@@ -245,7 +245,7 @@
             <pubDate>Mon, 27 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s12">12</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58082" title="UTM ROAS만 보면 안되는 이유 (ROAS 개선 2배 가능한 사고와 분석)"><span class="AB-LF-common">UTM ROAS만 보면 안되는 이유 (ROAS 개선 2배 가능한 사고..</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">11</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-601075" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_profile_img_1.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>근육돌이</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-27 19:38:28">06.27</span></td><td class="LikeCount"><span class="like_23">23</span></td><td class="ViewCount">1,754</td>]]></content:encoded>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-27 19:38:28">06.27</span></td><td class="LikeCount"><span class="like_23">23</span></td><td class="ViewCount">1,755</td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오랫동안 사랑받는 브랜드의 독자적인 미학 (아이보스 ─ 인기글)]]></title>
@@ -281,7 +281,7 @@
             <pubDate>Mon, 04 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s16">16</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39403" title="팀장님은 그러는 척 하는걸까요? 바보일까요?"><span class="AB-LF-common">팀장님은 그러는 척 하는걸까요? 바보일까요?</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">19</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-602591" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/template/DESIGN_shared/program/theme/01/THUMBNAIL_144_144_icon_rep_box.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>유리구슬</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-04 15:15:25">07.04</span></td><td class="LikeCount"><span class="like_17">17</span></td><td class="ViewCount">1,111</td>]]></content:encoded>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-04 15:15:25">07.04</span></td><td class="LikeCount"><span class="like_17">17</span></td><td class="ViewCount">1,113</td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케팅 계속 해야할지 고민됩니다. (아이보스 ─ 인기글)]]></title>
@@ -290,7 +290,7 @@
             <pubDate>Sun, 03 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s17">17</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39393" title="마케팅 계속 해야할지 고민됩니다."><span class="AB-LF-common">마케팅 계속 해야할지 고민됩니다.</span></a></span><span class="AB-comm">17</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-602301" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/template/DESIGN_shared/program/theme/01/THUMBNAIL_144_144_icon_rep_box.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>rdg</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-03 08:18:08">07.03</span></td><td class="LikeCount"><span class="like_18">18</span></td><td class="ViewCount">1,143</td>]]></content:encoded>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-03 08:18:08">07.03</span></td><td class="LikeCount"><span class="like_18">18</span></td><td class="ViewCount">1,144</td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이커머스 전환율 5배 올리는 방법 (1) (아이보스 ─ 인기글)]]></title>
@@ -326,7 +326,7 @@
             <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s21">21</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58095" title="[초보 마자이너를 위한 꿀팁] 광고에 이 거 있으면 무조건 반려?"><span class="AB-LF-common">[초보 마자이너를 위한 꿀팁] 광고에 이 거 있으면 무..</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">12</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-601308" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/template/DESIGN_shared/program/theme/01/THUMBNAIL_144_144_icon_rep_box.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>명Ai</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-28 15:57:41">06.28</span></td><td class="LikeCount"><span class="like_18">18</span></td><td class="ViewCount">1,115</td>]]></content:encoded>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-28 15:57:41">06.28</span></td><td class="LikeCount"><span class="like_18">18</span></td><td class="ViewCount">1,117</td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[포토샵cs6도아닌 6을 사용하는 회사 그 후.. (아이보스 ─ 인기글)]]></title>
@@ -408,6 +408,14 @@
             <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s30">30</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39331" title="헐 이런!!! 제글 누가 신고했다고 쪽지가 왔었네요"><span class="AB-LF-common">헐 이런!!! 제글 누가 신고했다고 쪽지가 왔었네요</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">17</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-600182" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/template/DESIGN_shared/program/theme/01/THUMBNAIL_144_144_icon_rep_box.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>영업베테랑</span></p></div>
 </div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-23 13:09:38">06.23</span></td><td class="LikeCount"><span class="like_12">12</span></td><td class="ViewCount">616</td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[7월 12일 마케팅 뉴스클리핑] 네이버, 인공지능 검색 서비스 쇼핑 스마트블록 도입 외 (아이보스 ─ 마케팅 뉴스)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9108</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9108</guid>
+            <pubDate>Tue, 12 Jul 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버, 인공지능 검색 서비스 `쇼핑 스마트블록` 도입  네이버가 AI 검색 브랜드 `에어서치`(AiRSearch)로 제공하는 사용자 맞춤형 검색 결과 `스마트블록`을 쇼핑에도 확대 적용한다. 쇼핑 스마트블록은 소비자가 직접 구매해 체 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_03f87a73063c724bf2465d6a0f3cc7bf_40702_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이색적인 경험 선호하는 MZ세대 취향 공략한 경험 마케팅 활발 (아이보스 ─ 마케팅 뉴스)]]></title>
@@ -642,12 +650,11 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[티몬, 크라우드펀딩예약판매 티파인더 론칭 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9080</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9080</guid>
-            <pubDate>Wed, 06 Jul 2022 04:49:52 GMT</pubDate>
-            <content:encoded><![CDATA[티몬은 크라우드펀딩 및 예약판매 서비스인 `티파인더`를 공식 론칭했다고 5일 밝혔다.  티파인더는 사전주문 방식으로 티몬 입점 파트너의 판매 전략에 도움을 줄 것으로 예상된다. 판매자 입장에서는 제품의 본격적인 판매에  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8e39ebb4e05d77820656f91aae0c9d4c_33960_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[7월 12일 마케팅 뉴스클리핑] 네이버, 인공지능 검색 서비스 '쇼핑 스마트블록' 도입 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9108</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9108</guid>
+            <pubDate>Mon, 11 Jul 2022 23:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[막내운영자]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이색적인 경험 선호하는 MZ세대 취향 공략한 '경험 마케팅' 활발 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
@@ -853,11 +860,17 @@
             <content:encoded><![CDATA[cookiman]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[티몬, 크라우드펀딩·예약판매 '티파인더' 론칭 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9080</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9080</guid>
-            <pubDate>Wed, 06 Jul 2022 04:49:52 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
+            <title><![CDATA[디지털 마케팅에서 대량의 데이터를 수집하여 분류·분석·선별 후 목표 고객 집단을 특정할 수 있게 도와주는 데이터 관리 플랫폼을 뜻하는 이 단어는 무엇일까요? (아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈)]]></title>
+            <link>https://LIFECORD.github.io/marketing/all.xml</link>
+            <guid>https://LIFECORD.github.io/marketing/all.xml</guid>
+            <pubDate>Mon, 11 Jul 2022 23:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[<tbody><tr>
+				<td><!--1-->디지털 마케팅에서 대량의 데이터를 수집하여 분류·분석·선별 후 목표 고객 집단을 특정할 수 있게 도와주는 데이터 관리 플랫폼을 뜻하는 이 단어는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
+			</tr>
+			<tr>
+				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1463_1" value="1" class="AB-radio" id="PQ_BD5826_1463_1_0"><label for="PQ_BD5826_1463_1_0" id="label_PQ_BD5826_1463_1_0">(A) DMP (Data Management Platform)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1463_1" value="2" class="AB-radio" id="PQ_BD5826_1463_1_1"><label for="PQ_BD5826_1463_1_1" id="label_PQ_BD5826_1463_1_1">(B) DSP (Demand Side Platform)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1463_1" value="3" class="AB-radio" id="PQ_BD5826_1463_1_2"><label for="PQ_BD5826_1463_1_2" id="label_PQ_BD5826_1463_1_2">(C) SSP (Supply Side Platform)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1463_1" value="4" class="AB-radio" id="PQ_BD5826_1463_1_3"><label for="PQ_BD5826_1463_1_3" id="label_PQ_BD5826_1463_1_3">(D) PMP (Project Management Platform)</label></td></tr></tbody></table></td>
+			</tr>
+		</tbody>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나 피해 소상공인, 20년까지 대출 원금 상환 연장 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>

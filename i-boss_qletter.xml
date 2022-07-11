@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 22:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 23:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어느새 검색광고 25% 장악한 구글]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1079605-%EC%96%B4%EB%8A%90%EC%83%88_%EA%B2%80%EC%83%89%EA%B4%91%EA%B3%A0_25_%EC%9E%A5%EC%95%85%ED%95%9C_%EA%B5%AC%EA%B8%80/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1079605-%EC%96%B4%EB%8A%90%EC%83%88_%EA%B2%80%EC%83%89%EA%B4%91%EA%B3%A0_25_%EC%9E%A5%EC%95%85%ED%95%9C_%EA%B5%AC%EA%B8%80/</guid>
+            <pubDate>Mon, 11 Jul 2022 23:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1079605-어느새_검색광고_25_장악한_구글/">
+						<div class="thumb"><img src="/images/qletter_1079605.png"></div>
+						<p><strong>어느새 검색광고 25% 장악한 구글</strong>2022.07.11</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1079605.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[소비자와 찐 애착을 형성하는 방법]]></title>
             <link>https://qletter.i-boss.co.kr/view/1063079-%EC%86%8C%EB%B9%84%EC%9E%90%EC%99%80_%EC%B0%90_%EC%95%A0%EC%B0%A9%EC%9D%84_%ED%98%95%EC%84%B1%ED%95%98%EB%8A%94_%EB%B0%A9%EB%B2%95/</link>
@@ -127,17 +138,6 @@
 						<p><strong>새로운 판매 채널 OO커머스</strong>2022.05.23</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1006942.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마케팅 업계의 #갓생 열풍]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1003239-%EB%A7%88%EC%BC%80%ED%8C%85_%EC%97%85%EA%B3%84%EC%9D%98_%EA%B0%93%EC%83%9D_%EC%97%B4%ED%92%8D/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1003239-%EB%A7%88%EC%BC%80%ED%8C%85_%EC%97%85%EA%B3%84%EC%9D%98_%EA%B0%93%EC%83%9D_%EC%97%B4%ED%92%8D/</guid>
-            <pubDate>Tue, 24 May 2022 02:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1003239-마케팅_업계의_갓생_열풍/">
-						<div class="thumb"><img src="/images/qletter_1003239.png"></div>
-						<p><strong>마케팅 업계의 #갓생 열풍</strong>2022.05.19</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1003239.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
