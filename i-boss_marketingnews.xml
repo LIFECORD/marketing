@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 09:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 10:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이색적인 경험 선호하는 MZ세대 취향 공략한 경험 마케팅 활발]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9109</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9109</guid>
+            <pubDate>Mon, 11 Jul 2022 10:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부에서 발표한 2022년 5월 주요 유통업체 매출동향에 따르면, 사회적 거리두기 해제로 외부 활동이 증가하면서 주요 유통업체 매출이 전년도 5월 및 동월 기준 약 10% 상승했다. 특히 대부분의 매출이 오프라인에서  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[무신사, 버추얼 쇼룸  무신사 VR 룸 오픈]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9107</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Jul 2022 04:49:52 GMT</pubDate>
             <content:encoded><![CDATA[티몬은 크라우드펀딩 및 예약판매 서비스인 `티파인더`를 공식 론칭했다고 5일 밝혔다.  티파인더는 사전주문 방식으로 티몬 입점 파트너의 판매 전략에 도움을 줄 것으로 예상된다. 판매자 입장에서는 제품의 본격적인 판매에  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8e39ebb4e05d77820656f91aae0c9d4c_33960_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이노션 x 경기창조경제혁신센터, 모빌리티 분야 유망 스타트업 7월 31일까지 모집]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9078</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9078</guid>
-            <pubDate>Wed, 06 Jul 2022 11:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[이노션은경기창조경제혁신센터(이하 경기혁신센터)와 함께사업화 협력 기회를 잡을 수 있는 오픈 이노베이션 프로그램 2022 Open Bridge with INNOCEAN(이노션)에 참여할 모빌리티 분야 유망 스타트업을 모집한다고 6일 밝혔다. 2022 Open  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
