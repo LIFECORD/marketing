@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-07-11T03:39:39.767Z</updated>
+    <updated>2022-07-11T04:38:43.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[무신사, 버추얼 쇼룸  '무신사 VR 룸' 오픈]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9107</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9107"/>
+        <updated>2022-07-11T04:38:22.088Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버, 쇼핑 스마트블록 도입... '내돈내산' 후기·시즌별 추천 아이템 확인]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9106</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-9078</id>
         <link href="https://www.i-boss.co.kr/ab-2877-9078"/>
         <updated>2022-07-06T03:51:55.227Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소비자들이 코로나 보다 더 우려하는 이슈는? ‘우크라이나 사태’, ‘인플레이션’... 칸타, ‘글로벌 이슈 바로미터’ 결과 발표]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9077</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9077"/>
-        <updated>2022-07-06T01:58:17.129Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>

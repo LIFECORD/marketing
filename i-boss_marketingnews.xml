@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 03:39:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 04:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무신사, 버추얼 쇼룸  무신사 VR 룸 오픈]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9107</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9107</guid>
+            <pubDate>Mon, 11 Jul 2022 04:38:09 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 스토어 스테디셀러 브랜드와 5개 패션 전문관 3D로 구현  무신사가 버추얼 쇼룸 무신사 VR 룸을 11일 오픈한다.   이번 무신사 VR 룸에서는 무신사가 지난해부터 강화하고 있는 골프, 키즈, 뷰티 등 특정 패션 카테고리에 특 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c32079b535b7c0b527b749b0fa48be6c_99982_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버, 쇼핑 스마트블록 도입... 내돈내산 후기시즌별 추천 아이템 확인]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9106</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9078</guid>
             <pubDate>Wed, 06 Jul 2022 11:52:00 GMT</pubDate>
             <content:encoded><![CDATA[이노션은경기창조경제혁신센터(이하 경기혁신센터)와 함께사업화 협력 기회를 잡을 수 있는 오픈 이노베이션 프로그램 2022 Open Bridge with INNOCEAN(이노션)에 참여할 모빌리티 분야 유망 스타트업을 모집한다고 6일 밝혔다. 2022 Open  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[소비자들이 코로나 보다 더 우려하는 이슈는? 우크라이나 사태, 인플레이션... 칸타, 글로벌 이슈 바로미터 결과 발표]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9077</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9077</guid>
-            <pubDate>Wed, 06 Jul 2022 09:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[선도적인데이터인사이트컨설팅기업칸타가글로벌이슈바로미터결과를발표했다.이번조사결과,한국을비롯한전세계소비자들이가장우려하는글로벌이슈는우크라이나사태로드러났다. 칸타의글로벌이슈바로미터조사는한국을포 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
