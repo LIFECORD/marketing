@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 04:01:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 07:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멜론, 음악 맛집 추천해준다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9116</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9116</guid>
+            <pubDate>Tue, 12 Jul 2022 07:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[서울 34개 우선 선정...음악과 문화 돋보이는 추천마크 부착  카카오엔터테인먼트(대표 이진수, 김성수)의 뮤직플랫폼 멜론은 브랜드 캠페인 `세상의 모든 톱100`의 핵심 프로젝트이자 MZ세대에게 지금 가장 음악으로 핫한 공간들 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_086048814d2487ead662fc5ca1c798d1_57661_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[거리두기 해제 이후 온라인 여행숙박 플랫폼 결제 추정금액 역대 최대 갱신!]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9115</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9087</guid>
             <pubDate>Thu, 07 Jul 2022 09:24:00 GMT</pubDate>
             <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource, NYSE:IS)는 국내 앱 및 게임 개발자들과 긴밀히 협력하여 앱을 성공적이고 확장 가능한 비즈니스로 성장시키고자 아이언소스 한국 현지 법인을 정식으로 설립했다고  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[대홍기획, 블로코 지분 인수로 NFT 사업 본격 시행]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9086</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9086</guid>
-            <pubDate>Thu, 07 Jul 2022 09:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[롯데 그룹 광고회사 대홍기획(대표이사:홍성현)이NFT(대체불가능토큰)사업을 본격 추진하고 있다.대홍기획은NFT신사업 전담팀을 구성한 데에 이어,최근 블록체인 전문 기업 블로코에 지분 인수를 마무리 지으며NFT사업을 본격화 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
