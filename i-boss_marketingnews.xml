@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 08:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 09:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1% 적립 아니야? 네이버페이 혜택 슬며시 축소폐지]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9118</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9118</guid>
+            <pubDate>Tue, 12 Jul 2022 09:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[예스24 등 타사 사이트 적립률 0.50%로 변경  간편결제 서비스 `네이버페이`가 별다른 고지 없이 적립 혜택을 축소폐지하는 등 이용자에게 불리하게 바꿔 논란이 되고 있다.  12일 정보기술(IT) 업계 등에 따르면 네이버페이를 운영 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[멜론, 음악 맛집 추천해준다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9116</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9088</guid>
             <pubDate>Thu, 07 Jul 2022 09:39:00 GMT</pubDate>
             <content:encoded><![CDATA[세계 최고의 경영사상가이자 마케팅 학계의 구루인 필립 코틀러(Philip Kotler) 켈로그경영대학원 석좌교수가 2022 부산국제광고제에서 국제명예상을 수상한다. 부산국제광고제는 매년 관련 업계와 학계 등에서 혁신적인 업적과 성 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[아이언소스 코리아 법인 출범... 기록적인 성장세를 기록하는 한국 앱 생태계 중요성 반영]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9087</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9087</guid>
-            <pubDate>Thu, 07 Jul 2022 09:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource, NYSE:IS)는 국내 앱 및 게임 개발자들과 긴밀히 협력하여 앱을 성공적이고 확장 가능한 비즈니스로 성장시키고자 아이언소스 한국 현지 법인을 정식으로 설립했다고  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
