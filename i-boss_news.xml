@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-07-12T22:19:20.506Z</updated>
+    <updated>2022-07-12T23:19:19.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[7월 13일 마케팅 뉴스클리핑] 틱톡, 중소기업 마케팅 지원 '폴로 미' 캠페인 외]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9117</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9117"/>
+        <updated>2022-07-12T23:18:56.762Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[순수한 본능 낫싱 '폰원', 투명하게 베일 벗다]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9123</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9123"/>
+        <updated>2022-07-12T23:18:56.762Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Trend from Tokyo] 아메리칸 우먼 (American Woman)의 기적]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9122</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9122"/>
+        <updated>2022-07-12T23:18:56.762Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인포그래픽] 아마존의 핵심 비즈니스는 무엇일까?]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9121</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9121"/>
+        <updated>2022-07-12T23:18:56.762Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, BTS 관련 이미지로 ‘스트리트뷰’를 꾸미다]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9120</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9120"/>
+        <updated>2022-07-12T23:18:56.762Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1% 적립 아니야? 네이버페이 혜택 슬며시 축소·폐지]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9118</id>
@@ -178,41 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-9094</id>
         <link href="https://www.i-boss.co.kr/ab-2877-9094"/>
         <updated>2022-07-09T01:28:14.623Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[케이스 스터디] 인텔 x 하이브스택, 일본 최초로 글로벌 인바운드 프로그래매틱 옥외 캠페인을 집행하다]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9092</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9092"/>
-        <updated>2022-07-08T01:50:31.069Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[7월 8일 마케팅 뉴스클리핑] 공정위, 네이버 과장광고 논란 들여다본다 외]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9091</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9091"/>
-        <updated>2022-07-07T23:19:54.977Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플 인앱결제는 표시광고법·공정거래법 위반]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9090</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9090"/>
-        <updated>2022-07-07T07:18:30.460Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지그재그, 상반기 거래액 30% 증가... 카테고리 확대 덕분]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9089</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9089"/>
-        <updated>2022-07-07T03:51:41.550Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[필립 코틀러 · 임대기 전 사장, 부산국제광고제 국제명예상 수상]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9088</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9088"/>
-        <updated>2022-07-07T03:51:41.552Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
