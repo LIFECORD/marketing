@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 22:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 23:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7월 14일 마케팅 뉴스클리핑] 광고주 지갑 닫았나... 네이버카카오 2분기 광고 실적 먹구름 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9125</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9125</guid>
+            <pubDate>Thu, 14 Jul 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 광고주 지갑 닫았나... 네이버카카오 2분기 광고 실적 `먹구름`  네이버와 카카오의 매출과 이익 성장률이 저조할 것으로 예상됐다. 캐시카우 역할을 하는 광고의 성장이 정체될 전망이기 때문이다. 팬데믹 기간 많은 기업 고 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d3f15699c3997c6d2f0c196c31956700_28517_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MZ세대가 푹 빠진 라이브 커머스... 완판 행진에 시장 급성장]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9124</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9096</guid>
             <pubDate>Sat, 09 Jul 2022 09:32:00 GMT</pubDate>
             <content:encoded><![CDATA[IBM기업가치연구소(IBM Institute for Business Value, IBV)의 최신 CEO 연구*에 따르면, 전 세계적으로 지속가능성(sustainability)이 기업 경영에서 차지하는 중요성이 점차 높아지고 있으며, CEO들은 지속가능성을 비즈니스 필수 성장 동력으로 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[에픽게임즈 코리아, 언리얼 엔진 5 챌린지 개최]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9095</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9095</guid>
-            <pubDate>Sat, 09 Jul 2022 09:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[세계적인 게임 개발사이자 언리얼 엔진, 스토어 및 디지털 창작 생태계를 위한 모든 것을 제공하는 에픽게임즈의 한국법인 에픽게임즈 코리아(대표 박성철)가 언리얼 엔진 5 챌린지를 개최한다. 언리얼 엔진 5 챌린지는 언리얼  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
