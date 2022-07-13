@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 05:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 07:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MZ세대가 푹 빠진 라이브 커머스... 완판 행진에 시장 급성장]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9124</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9124</guid>
+            <pubDate>Wed, 13 Jul 2022 07:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[유명작가 손잡고 단독 기획 개최 고객 집에 찾아가 인테리어 조언 가수 출연해 콘서트 열고 판매도 소비자와 양방향 소통 큰 장점 인플루언서 대거 등장해 판 키워 향후 10조원대 시장 성장할 것   티몬이 아프리카TV 자회사 프리 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_47ced179dae9039f8b25f60b93c2cd70_96085_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[7월 13일 마케팅 뉴스클리핑] 틱톡, 중소기업 마케팅 지원 폴로 미 캠페인 외]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9117</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9095</guid>
             <pubDate>Sat, 09 Jul 2022 09:31:00 GMT</pubDate>
             <content:encoded><![CDATA[세계적인 게임 개발사이자 언리얼 엔진, 스토어 및 디지털 창작 생태계를 위한 모든 것을 제공하는 에픽게임즈의 한국법인 에픽게임즈 코리아(대표 박성철)가 언리얼 엔진 5 챌린지를 개최한다. 언리얼 엔진 5 챌린지는 언리얼  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[트렌드모니터] 자기계발 필수 시대 현대인, 재능 공유 플랫폼으로 몰린다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9094</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9094</guid>
-            <pubDate>Sat, 09 Jul 2022 09:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[85.3% 한국 사회, 안정적 직업 찾기 어려워...전반적으로 10년 후의 삶에 불안감 느껴  시장조사전문기업 엠브레인 트렌드모니터가 전국 만 19~59세 성인 남녀 1,000명을 대상으로 재능 공유 플랫폼 관련 인식 조사를 실시한 결과, 사 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
