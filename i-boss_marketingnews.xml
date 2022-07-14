@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 04:52:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 05:31:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국소비자원, 머지포인트 사태 플랫폼사 책임 일부 인정]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9130</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9130</guid>
+            <pubDate>Thu, 14 Jul 2022 05:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[`소비자 오인 표시광고 책임 등`...5천467명 소비자 배상 대상  한국소비자원 소비자분쟁조정위원회는 머지포인트를 구입한 소비자들이 제휴업체 대폭 축소 등을 이유로 판매업자와 통신판매중개업자 등에 대금 환급을 요구한  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c513af77725891bf69651863de59b110_99390_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세일즈포스 커넥티드 커스터머 보고서, 소비자 10명 중 9명 브랜드 경험이 기업 신뢰도와 직결]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9129</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9101</guid>
             <pubDate>Sun, 10 Jul 2022 09:20:00 GMT</pubDate>
             <content:encoded><![CDATA[버거킹이 다른 브랜드 버거와 다른 것은 그릴에 구운 패티다. 그래서 와퍼의 패티에는 7줄의 그릴 자국이 확실하게 보인다. 버거킹 UK와 광고회사 BBH는 이 점에 착안, `그릴 라인`이라는 옥외 캠페인을 진행한다. 기본적으로 옥외 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 우주를 지배하는 나라는?]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9100</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9100</guid>
-            <pubDate>Sun, 10 Jul 2022 09:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 6월 21일 한국형 발사체 누리호가 우주로 날라올랐다. 이로서미국, 러시아, 프랑스, 일본, 중국, 인도에 이어 1톤 이상 위성을 자체 발사할 수 있는 세계 7 번째 국가가 됐다. 이번 누리호에는 큐브 위성 4개가 실려져 지구 궤 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-07-14T04:52:13.422Z</updated>
+    <updated>2022-07-14T05:31:46.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국소비자원, 머지포인트 사태 플랫폼사 책임 일부 인정]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9130</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9130"/>
+        <updated>2022-07-14T05:31:25.209Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세일즈포스 커넥티드 커스터머 보고서, 소비자 10명 중 9명 “브랜드 경험이 기업 신뢰도와 직결”]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9129</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-9101</id>
         <link href="https://www.i-boss.co.kr/ab-2877-9101"/>
         <updated>2022-07-10T01:57:26.515Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인포그래픽] 우주를 지배하는 나라는?]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9100</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9100"/>
-        <updated>2022-07-10T01:57:26.516Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
