@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 07:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 08:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틱톡, 중소기업 마케팅 돕는 Follow Me 캠페인 진행]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9133</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9133</guid>
+            <pubDate>Thu, 14 Jul 2022 08:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 숏폼 모바일 비디오 플랫폼 `틱톡(TikTok)`이 오는 8월 초까지 약 6주간 중소기업의 틱톡 마케팅 지원을 위한 `Follow Me` 캠페인을 진행한다. Follow Me 캠페인은 예산과 인력에 어려움을 겪는 중소기업들이 틱톡을 활용해 효율 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[크래프톤, 딥러닝 게임 개발팀 스페셜 프로젝트 2 모집]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9132</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9132</guid>
+            <pubDate>Thu, 14 Jul 2022 08:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[㈜크래프톤(대표김창한)이딥러닝기술로게임의재미를찾는인큐베이팅프로그램스페셜프로젝트2(Special Project,이하SP2)의4기개발팀을모집한다. SP2는7월14일부터8월7일까지게임개발경험이있거나게임제작에대한의지가있는지원자를 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[한국소비자원, 머지포인트 사태 플랫폼사 책임 일부 인정]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9130</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9102</guid>
             <pubDate>Mon, 11 Jul 2022 08:56:00 GMT</pubDate>
             <content:encoded><![CDATA[디지털마케팅 연구회(Digital Marketing Forum) 7월 세미나가 7월 13일 오후 7시 비욘드마케팅 그룹에서 오프라인으로 진행된다. 메조미디어 배종희 국장이 `디지털미디어와 디지털광고 트렌드 및 전망 : 엔데믹을 바라보며`라는 주제로 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[7월 11일 마케팅 뉴스클리핑] 다음 블로그 17년 만에 퇴장... 티스토리와 통합 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9093</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9093</guid>
-            <pubDate>Mon, 11 Jul 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 다음 블로그 17년 만에 퇴장... 티스토리와 통합  다음 블로그가 9월 30일 서비스를 종료한다. 운영 17년 만이다. 카카오는 다음 블로그와 티스토리로 나뉘어 운영하던 블로그 플랫폼을 티스토리로 통합하기로 했다. 서비스 통합 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2010fbb1647b9ffaf55e2c514f04b6a2_17300_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외 크리에이티브] 버거킹, 경쟁자를 겨냥한 그릴 라인 캠페인을 론칭하다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9101</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9101</guid>
-            <pubDate>Sun, 10 Jul 2022 09:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[버거킹이 다른 브랜드 버거와 다른 것은 그릴에 구운 패티다. 그래서 와퍼의 패티에는 7줄의 그릴 자국이 확실하게 보인다. 버거킹 UK와 광고회사 BBH는 이 점에 착안, `그릴 라인`이라는 옥외 캠페인을 진행한다. 기본적으로 옥외 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
