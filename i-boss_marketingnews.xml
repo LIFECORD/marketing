@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 22:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 23:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7월 15일 마케팅 뉴스클리핑] MAU가 곧 경쟁력 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9131</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9131</guid>
+            <pubDate>Fri, 15 Jul 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. MAU가 곧 경쟁력  `토스`는 1천 걸음을 걸으면 10원, 5천 걸음에 10원 등 최대 40원을 주며 미션 장소에 도착하면 20원, 최대 100원을 준다. 방문 미션 개편 후 사용자 수가 46만 명에서 1년 만에 400만 명을 기록했다. 기업들이 보상 시 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8b1e8bbdc48292a0ca3dcaf2d1cc1476_20627_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[틱톡, 중소기업 마케팅 돕는 Follow Me 캠페인 진행]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9133</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9103</guid>
             <pubDate>Mon, 11 Jul 2022 08:56:00 GMT</pubDate>
             <content:encoded><![CDATA[잭 칼슨(Jack Carlson)이라는 미국의 10대 유튜버가 2021년 6월에 레고 4,000피스(piece)로 아랍 에미레이트 항공의 A380 모형을 비행기 안의 모든 시설과 다양한 인종과 성별연령대의 승객들까지 정교하게 만들어 유튜브와 인스타그램에  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[디마연 7월 세미나, 디지털미디어와 디지털광고 트렌드 및 전망 : 엔데믹을 바라보며 오프라인 개최]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9102</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9102</guid>
-            <pubDate>Mon, 11 Jul 2022 08:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[디지털마케팅 연구회(Digital Marketing Forum) 7월 세미나가 7월 13일 오후 7시 비욘드마케팅 그룹에서 오프라인으로 진행된다. 메조미디어 배종희 국장이 `디지털미디어와 디지털광고 트렌드 및 전망 : 엔데믹을 바라보며`라는 주제로 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
