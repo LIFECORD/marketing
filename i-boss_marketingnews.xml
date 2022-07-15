@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 07:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 08:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 예비창업패키지 창업프리스쿨 예비창업자 모집 공고]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9140</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9140</guid>
+            <pubDate>Fri, 15 Jul 2022 08:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[생애최초로 창업에 도전하는 예비창업자의 창업준비를 지원하는 2022년 예비창업패키지 창업프리스쿨 참가 희망자를 오는 25일까지 모집한다.창업프리스쿨은 생애 최초로 창업에 도전하는 예비창업자의 창업 준비를 위해 비즈 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4692ecee83ba5cf9cce55550ea2844a1_16578715499959.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[BI 커뮤니티 비저블, 비저블 런웨이 2022 컨퍼런스 연다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9139</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Jul 2022 08:40:00 GMT</pubDate>
             <content:encoded><![CDATA[빅데이터 플랫폼 기업 아이지에이웍스가모바일인덱스리포트를 발표했다.이번 보고서는게임 사용자 수 순위TOP 50,게임 매출 순위TOP 50에 관한 데이터 분석을 다루고 있다. 모바일인덱스 분석 결과,지난6월20일 출시된우마무스메  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[7월 12일 마케팅 뉴스클리핑] 네이버, 인공지능 검색 서비스 쇼핑 스마트블록 도입 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9108</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9108</guid>
-            <pubDate>Tue, 12 Jul 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 네이버, 인공지능 검색 서비스 `쇼핑 스마트블록` 도입  네이버가 AI 검색 브랜드 `에어서치`(AiRSearch)로 제공하는 사용자 맞춤형 검색 결과 `스마트블록`을 쇼핑에도 확대 적용한다. 쇼핑 스마트블록은 소비자가 직접 구매해 체 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_03f87a73063c724bf2465d6a0f3cc7bf_40702_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
