@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 04:01:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 05:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BI 커뮤니티 비저블, 비저블 런웨이 2022 컨퍼런스 연다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9139</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9139</guid>
+            <pubDate>Fri, 15 Jul 2022 05:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최초의 비즈니스 인텔리전스 커뮤니티 비저블(Vizable, 대표 전서연)이 오는 7월 16일 오후 2시부터 비저블 런웨이 2022 데이터 시각화 컨퍼런스를 온오프라인으로 개최한다. 비저블 커뮤니티는 데이터 분석 및 시각화를 주제 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[디즈니 애드버타이징과 AWS, 유니파이드 ID 2.0 분야에서 더 트레이드 데스크와 협력]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9138</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Jul 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 네이버, 인공지능 검색 서비스 `쇼핑 스마트블록` 도입  네이버가 AI 검색 브랜드 `에어서치`(AiRSearch)로 제공하는 사용자 맞춤형 검색 결과 `스마트블록`을 쇼핑에도 확대 적용한다. 쇼핑 스마트블록은 소비자가 직접 구매해 체 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_03f87a73063c724bf2465d6a0f3cc7bf_40702_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이색적인 경험 선호하는 MZ세대 취향 공략한 경험 마케팅 활발]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9109</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9109</guid>
-            <pubDate>Mon, 11 Jul 2022 10:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부에서 발표한 2022년 5월 주요 유통업체 매출동향에 따르면, 사회적 거리두기 해제로 외부 활동이 증가하면서 주요 유통업체 매출이 전년도 5월 및 동월 기준 약 10% 상승했다. 특히 대부분의 매출이 오프라인에서  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
