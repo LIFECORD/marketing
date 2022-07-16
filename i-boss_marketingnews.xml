@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 23:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 01:48:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싸이 강남스타일 10주년유튜브, 빌리언 뷰 클럽 뮤직비디오 기념]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9142</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9142</guid>
+            <pubDate>Sat, 16 Jul 2022 09:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[2012년7월15일 싸이의강남스타일은 뮤직비디오의 역사를 바꿨다. 이 뮤직비디오는 공개된 지 불과6개월밖에 되지 않은2012년12월21일,뮤직비디오로는 최초로 유튜브에서 조회수10억 회를 기록하며유튜브 빌리언 뷰 클럽(BVC)을 출범 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[트렌드모니터] 작은 습관이 미라클 라이프 만든다... 계획적인 삶에 대한 선호도 높아져]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9141</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9141</guid>
+            <pubDate>Sat, 16 Jul 2022 09:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[작년 대비 계획적인 삶에 대한 선호도 늘어...20대 응답자, 루틴에 대한 강박 수준 큰 편  시장조사전문기업 엠브레인 트렌드모니터가 전국 만 19~59세 성인 남녀 1,000명을 대상으로 일상생활 루틴(습관) 및 미라클 모닝 관련 조사 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2022년 예비창업패키지 창업프리스쿨 예비창업자 모집 공고]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9140</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9112</guid>
             <pubDate>Tue, 12 Jul 2022 09:02:00 GMT</pubDate>
             <content:encoded><![CDATA[전통시장의 멋과 아름다움을 알릴 새얼굴을 찾는 2022년 전통시장 홍보모델 선발대회가 개최된다. 이번 행사는 소상공인시장진흥공단소상공인방송정보원이 주최하고, 사단법인 한국광고모델에이전시협회가 주관하는 행사로 20 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[따뜻한 아이디어로 세상을 아름답게 이노션, S.O.S 공모전 개최]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9111</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9111</guid>
-            <pubDate>Tue, 12 Jul 2022 09:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[이노션(대표이사 이용우)은 환경부와 함께하는S.O.S(Social Problem Solver)공모전을 통해 탄소중립 이행 관련 캠페인 아이디어를 모집한다고12일 밝혔다. 따뜻한 아이디어로 세상을 아름답게라는 슬로건의S.O.S공모전은 사회문제에 대 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[데이터 마케팅 인사이트] 출시 한달 디아블로 이모탈, 6월 게임 매출 종합 4위 기록]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9110</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9110</guid>
-            <pubDate>Tue, 12 Jul 2022 08:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[빅데이터 플랫폼 기업 아이지에이웍스가모바일인덱스리포트를 발표했다.이번 보고서는게임 사용자 수 순위TOP 50,게임 매출 순위TOP 50에 관한 데이터 분석을 다루고 있다. 모바일인덱스 분석 결과,지난6월20일 출시된우마무스메  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
