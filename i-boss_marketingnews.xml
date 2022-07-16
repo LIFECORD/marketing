@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 01:48:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 03:29:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방통위, 2차 중소기업 방송광고 지원대상 17곳 선정]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9143</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9143</guid>
+            <pubDate>Sat, 16 Jul 2022 10:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[방송통신위원회(위원장 한상혁)는 한국방송광고진흥공사(사장 이백만)와 함께 혁신형 중소기업을 대상으로 2022년도 방송광고 제작비 지원사업의 2차 지원기업 총 17개사를 선정했다. 중소기업 17개사 중 텔레비전광고 지원 대상 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[싸이 강남스타일 10주년유튜브, 빌리언 뷰 클럽 뮤직비디오 기념]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9142</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9113</guid>
             <pubDate>Tue, 12 Jul 2022 09:12:00 GMT</pubDate>
             <content:encoded><![CDATA[대홍기획(대표이사:홍성현)이 제11회 인구의 날을 기념해저출산 문제 해결에 기여한 공로를 인정 받아 대통령 표창을 받았다. 보건복지부가 주최하는 인구의 날 유공 포상은 초저출산 등 인구 위기 대응에 대한 공감대 형성 및  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[소상공인방송정보원, 2022년 전통시장 홍보모델 선발대회 개최]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9112</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9112</guid>
-            <pubDate>Tue, 12 Jul 2022 09:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[전통시장의 멋과 아름다움을 알릴 새얼굴을 찾는 2022년 전통시장 홍보모델 선발대회가 개최된다. 이번 행사는 소상공인시장진흥공단소상공인방송정보원이 주최하고, 사단법인 한국광고모델에이전시협회가 주관하는 행사로 20 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
