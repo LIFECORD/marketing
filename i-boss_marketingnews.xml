@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 09:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 10:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가상인간 리아 한복 화보 NFT, C2X NFT 마켓플레이스에서 판다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9144</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9144</guid>
+            <pubDate>Sat, 16 Jul 2022 10:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[컴투스홀딩스(대표 이용국)는 자회사 컴투스플랫폼(대표 송재준)과 글로벌 지사 컴투스USA가 함께 개발한 C2X NFT 마켓플레이스를 통해 가상인간 리아(Ria)의 미공개 한복 화보 NFT를 선보인다고 밝혔다. 15일 정오부터 판매되는 리 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[방통위, 2차 중소기업 방송광고 지원대상 17곳 선정]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9143</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9114</guid>
             <pubDate>Tue, 12 Jul 2022 10:01:00 GMT</pubDate>
             <content:encoded><![CDATA[코카콜라가코카콜라제로MARSHMELLO(마시멜로)출시를기념해오는16일부터23일까지8일간서울성수동에위치한피치스도원(Peaches. D8NE)에서하우스파티콘셉트의체험존을운영한다고밝혔다. 코카콜라제로MARSHMELLO(마시멜로)는올해초선보 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[대홍기획, 보건복지부 인구의 날 대통령 표창... 기업 단체 중 유일하게 대통령 표창]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9113</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9113</guid>
-            <pubDate>Tue, 12 Jul 2022 09:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[대홍기획(대표이사:홍성현)이 제11회 인구의 날을 기념해저출산 문제 해결에 기여한 공로를 인정 받아 대통령 표창을 받았다. 보건복지부가 주최하는 인구의 날 유공 포상은 초저출산 등 인구 위기 대응에 대한 공감대 형성 및  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
