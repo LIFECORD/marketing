@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 22:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 23:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7월 18일 마케팅 뉴스클리핑] 네이버 선불충전금 증가액 1위]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9150</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9150</guid>
+            <pubDate>Mon, 18 Jul 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버 `선불충전금` 증가액 1위  국내 주요 이커머스 플랫폼에 예치된 선불충전금이 지난해보다 100억 원 이상 증가했다. 쇼핑몰에 미리 쓸 금액을 결제해 두고 적립 등 리워드 혜택을 노리는 고객이 늘었기 때문이다. 선불충 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dc271fea5760f4b29f3afdac79cf472b_1658051232735.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG AI 아티스트 틸다, 뉴욕 페스티벌 금은상 동시 수상]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9149</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9122</guid>
             <pubDate>Wed, 13 Jul 2022 07:30:00 GMT</pubDate>
             <content:encoded><![CDATA[7월 1일은 캐나다 데이(Canada Day)로 캐나다의 건국 기념일이다. 2022년 이날에는 동경에 있는 캐나다 대사관에서 이색적인 이벤트가 열렸다. Canada-Japan Friendship Concert with Randy Bachman and TAKESHI라는 소규모로 진행된 공연인데 그 공연 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 아마존의 핵심 비즈니스는 무엇일까?]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9121</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9121</guid>
-            <pubDate>Wed, 13 Jul 2022 07:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[아마존의 성장은 매우 놀랍다. 아마존은 설립 이후 매년 성장했다. 이러한 매출의대부분은 소매 및 전자상거래 사업에서 발생한다. 그래서 전자상거래 회사로 알려져있다. 그런데 수익원을 들여다 보면완전히 다르다. 아마존  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
