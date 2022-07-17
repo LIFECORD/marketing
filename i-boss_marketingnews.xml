@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 06:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 08:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG AI 아티스트 틸다, 뉴욕 페스티벌 금은상 동시 수상]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9149</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9149</guid>
+            <pubDate>Sun, 17 Jul 2022 08:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[LG는 인공지능(AI) 아티스트 `틸다`가 현시지간으로 15일 2022 뉴욕 페스티벌`에서 `The Future Now` 부문 금상과 은상을 동시에 수상했다고밝혔다. 뉴욕 페스티벌은 칸 라이언즈, 클리오 광고제(CLIO Awards)와 함께 세계 3대 광고제로 손꼽 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[코카콜라 x 멀린 엔터테인먼트, 역자판기로 페트병 재활용 장려]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9148</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9121</guid>
             <pubDate>Wed, 13 Jul 2022 07:29:00 GMT</pubDate>
             <content:encoded><![CDATA[아마존의 성장은 매우 놀랍다. 아마존은 설립 이후 매년 성장했다. 이러한 매출의대부분은 소매 및 전자상거래 사업에서 발생한다. 그래서 전자상거래 회사로 알려져있다. 그런데 수익원을 들여다 보면완전히 다르다. 아마존  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, BTS 관련 이미지로 스트리트뷰를 꾸미다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9120</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9120</guid>
-            <pubDate>Wed, 13 Jul 2022 07:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 방탄소년단(BTS) 멤버의 사진이나 관련 예술작품을 구글 지도의 스트리트 뷰(Street View)에 합성한 서비스를 선보였다. 구글은 BTS의 팬덤 아미(ARMY)의 탄생일인 7월 9일을 기념해 BTS와 독특한 컬래버레이션 BTS x Street Galleries ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
