@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-07-18T06:26:16.298Z</updated>
+    <updated>2022-07-18T07:18:03.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2022-06-23T06:23:20.248Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s1">1</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39317" title="[마케팅밈] 마케터가 얻는 기초 체력"><span class="AB-LF-common">[마케팅밈] 마케터가 얻는 기초 체력</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">23</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-599787" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1637570831_61450.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>막내운영자</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-23 09:30:00">06.23</span></td><td class="LikeCount"><span class="like_39">39</span></td><td class="ViewCount">3,582</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-23 09:30:00">06.23</span></td><td class="LikeCount"><span class="like_39">39</span></td><td class="ViewCount">3,583</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[카피꿀팁#1] 이걸 잘못 짚으면 매출이 안 나옵니다.]]></title>
@@ -30,43 +30,43 @@
         <updated>2022-07-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s3">3</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39307" title="[마케팅밈] 마케터인 내가 이세계에서는...?"><span class="AB-LF-common">[마케팅밈] 마케터인 내가 이세계에서는...?</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">30</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-599644" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1637570831_61450.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>막내운영자</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-14 08:30:00">07.14</span></td><td class="LikeCount"><span class="like_31">31</span></td><td class="ViewCount">2,260</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페이스북 직원 다 X졌나요?]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-58118</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-58118"/>
-        <updated>2022-06-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s4">4</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58118" title="페이스북 직원 다 X졌나요?"><span class="AB-LF-common">페이스북 직원 다 X졌나요?</span></a></span><span class="AB-comm">26</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-601946" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1525749867_72428.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>와이비전</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-30 19:57:30">06.30</span></td><td class="LikeCount"><span class="like_24">24</span></td><td class="ViewCount">2,964</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홈페이지 상단 이렇게 만들면 80%의 고객이 이탈한다.]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-58029</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-58029"/>
-        <updated>2022-06-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s5">5</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58029" title="홈페이지 상단 이렇게 만들면 80%의 고객이 이탈한다."><span class="AB-LF-common">홈페이지 상단 이렇게 만들면 80%의 고객이 이탈한다.</span></a></span><span class="AB-comm">15</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-599389" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1657550532_49328.jpg" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>yoorok</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-20 23:52:52">06.20</span></td><td class="LikeCount"><span class="like_38">38</span></td><td class="ViewCount">1,728</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검색광고 1위는 네이버, 그런데 2위는?]]></title>
-        <id>https://www.i-boss.co.kr/ab-6141-58172</id>
-        <link href="https://www.i-boss.co.kr/ab-6141-58172"/>
-        <updated>2022-07-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s6">6</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58172" title="검색광고 1위는 네이버, 그런데 2위는?"><span class="AB-LF-common">검색광고 1위는 네이버, 그런데 2위는?</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">10</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-604146" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1610603802_16370.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>큐레터</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-11 10:30:41">07.11</span></td><td class="LikeCount"><span class="like_22">22</span></td><td class="ViewCount">4,016</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-14 08:30:00">07.14</span></td><td class="LikeCount"><span class="like_31">31</span></td><td class="ViewCount">2,268</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이것 만은 알고 가야 하는 디지털 마케팅 필수 용어..]]></title>
         <id>https://www.i-boss.co.kr/ab-6141-58200</id>
         <link href="https://www.i-boss.co.kr/ab-6141-58200"/>
         <updated>2022-07-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s7">7</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58200" title="이것 만은 알고 가야 하는 디지털 마케팅 필수 용어집 180개"><span class="AB-LF-common">이것 만은 알고 가야 하는 디지털 마케팅 필수 용어..</span></a></span><span class="AB-comm">18</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-604970" link="/ab-5108&amp;AJAX=Y" offset="1">
+        <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s4">4</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58200" title="이것 만은 알고 가야 하는 디지털 마케팅 필수 용어집 180개"><span class="AB-LF-common">이것 만은 알고 가야 하는 디지털 마케팅 필수 용어..</span></a></span><span class="AB-comm">28</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-604970" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/template/DESIGN_shared/program/theme/01/THUMBNAIL_144_144_icon_rep_box.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>BATkks</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-13 10:53:43">07.13</span></td><td class="LikeCount"><span class="like_34">34</span></td><td class="ViewCount">1,188</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-13 10:53:43">07.13</span></td><td class="LikeCount"><span class="like_35">35</span></td><td class="ViewCount">1,230</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페이스북 직원 다 X졌나요?]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-58118</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-58118"/>
+        <updated>2022-06-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s5">5</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58118" title="페이스북 직원 다 X졌나요?"><span class="AB-LF-common">페이스북 직원 다 X졌나요?</span></a></span><span class="AB-comm">26</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-601946" link="/ab-5108&amp;AJAX=Y" offset="1">
+<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1525749867_72428.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>와이비전</span></p></div>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-30 19:57:30">06.30</span></td><td class="LikeCount"><span class="like_24">24</span></td><td class="ViewCount">2,978</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홈페이지 상단 이렇게 만들면 80%의 고객이 이탈한다.]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-58029</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-58029"/>
+        <updated>2022-06-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s6">6</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58029" title="홈페이지 상단 이렇게 만들면 80%의 고객이 이탈한다."><span class="AB-LF-common">홈페이지 상단 이렇게 만들면 80%의 고객이 이탈한다.</span></a></span><span class="AB-comm">15</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-599389" link="/ab-5108&amp;AJAX=Y" offset="1">
+<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1657550532_49328.jpg" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>yoorok</span></p></div>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-20 23:52:52">06.20</span></td><td class="LikeCount"><span class="like_38">38</span></td><td class="ViewCount">1,729</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[검색광고 1위는 네이버, 그런데 2위는?]]></title>
+        <id>https://www.i-boss.co.kr/ab-6141-58172</id>
+        <link href="https://www.i-boss.co.kr/ab-6141-58172"/>
+        <updated>2022-07-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s7">7</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58172" title="검색광고 1위는 네이버, 그런데 2위는?"><span class="AB-LF-common">검색광고 1위는 네이버, 그런데 2위는?</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">10</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-604146" link="/ab-5108&amp;AJAX=Y" offset="1">
+<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1610603802_16370.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>큐레터</span></p></div>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-11 10:30:41">07.11</span></td><td class="LikeCount"><span class="like_22">22</span></td><td class="ViewCount">4,030</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소비자와 브랜드의 연결고리, 참여형 마케팅 🔗]]></title>
@@ -75,7 +75,7 @@
         <updated>2022-06-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s8">8</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58101" title="소비자와 브랜드의 연결고리, 참여형 마케팅 🔗"><span class="AB-LF-common">소비자와 브랜드의 연결고리, 참여형 마케팅 🔗</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">7</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-601448" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1610603802_16370.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>큐레터</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-30 09:29:22">06.30</span></td><td class="LikeCount"><span class="like_23">23</span></td><td class="ViewCount">3,499</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-30 09:29:22">06.30</span></td><td class="LikeCount"><span class="like_23">23</span></td><td class="ViewCount">3,503</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기본적인것은 하지 않으면서 광고기법에 집착하진 ..]]></title>
@@ -84,7 +84,7 @@
         <updated>2022-06-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s9">9</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58083" title="기본적인것은 하지 않으면서 광고기법에 집착하진 않으신가요..?"><span class="AB-LF-common">기본적인것은 하지 않으면서 광고기법에 집착하진 ..</span></a></span><span class="AB-comm">24</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-601076" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/template/DESIGN_shared/program/theme/01/THUMBNAIL_144_144_icon_rep_box.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>백코맨트</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-27 19:40:12">06.27</span></td><td class="LikeCount"><span class="like_22">22</span></td><td class="ViewCount">1,871</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-27 19:40:12">06.27</span></td><td class="LikeCount"><span class="like_22">22</span></td><td class="ViewCount">1,873</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카카오판 메타버스, ‘카카오 유니버스’]]></title>
@@ -93,7 +93,7 @@
         <updated>2022-06-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s10">10</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-57998" title="카카오판 메타버스, 카카오 유니버스"><span class="AB-LF-common">카카오판 메타버스, ‘카카오 유니버스’</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">7</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-598623" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1610603802_16370.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>큐레터</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-20 08:28:45">06.20</span></td><td class="LikeCount"><span class="like_22">22</span></td><td class="ViewCount">3,425</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-20 08:28:45">06.20</span></td><td class="LikeCount"><span class="like_22">22</span></td><td class="ViewCount">3,428</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[UTM ROAS만 보면 안되는 이유 (ROAS 개선 2배 가능한 사고..]]></title>
@@ -102,7 +102,7 @@
         <updated>2022-06-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s11">11</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58082" title="UTM ROAS만 보면 안되는 이유 (ROAS 개선 2배 가능한 사고와 분석)"><span class="AB-LF-common">UTM ROAS만 보면 안되는 이유 (ROAS 개선 2배 가능한 사고..</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">11</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-601075" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_profile_img_1.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>근육돌이</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-27 19:38:28">06.27</span></td><td class="LikeCount"><span class="like_23">23</span></td><td class="ViewCount">1,905</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-27 19:38:28">06.27</span></td><td class="LikeCount"><span class="like_23">23</span></td><td class="ViewCount">1,907</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SA검색광고 마케팅 관련]]></title>
@@ -111,7 +111,7 @@
         <updated>2022-07-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s12">12</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39438" title="SA검색광고 마케팅 관련"><span class="AB-LF-common">SA검색광고 마케팅 관련</span></a></span><span class="AB-comm">32</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-604114" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/template/DESIGN_shared/program/theme/01/THUMBNAIL_144_144_icon_rep_box.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>alalali</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-09 17:48:54">07.09</span></td><td class="LikeCount"><span class="like_15">15</span></td><td class="ViewCount">988</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-09 17:48:54">07.09</span></td><td class="LikeCount"><span class="like_15">15</span></td><td class="ViewCount">993</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[퍼포먼스가 종말이라구요????? 초현실적인 7가지 요소]]></title>
@@ -120,7 +120,7 @@
         <updated>2022-07-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s13">13</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58180" title="퍼포먼스가 종말이라구요????? 초현실적인 7가지 요소"><span class="AB-LF-common">퍼포먼스가 종말이라구요????? 초현실적인 7가지 요소</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">15</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-604537" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_profile_img_1.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>근육돌이</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-11 23:01:47">07.11</span></td><td class="LikeCount"><span class="like_17">17</span></td><td class="ViewCount">2,350</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-11 23:01:47">07.11</span></td><td class="LikeCount"><span class="like_17">17</span></td><td class="ViewCount">2,358</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이커머스가 멤버십 확대에 집중하는 이유]]></title>
@@ -129,7 +129,7 @@
         <updated>2022-06-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s14">14</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58071" title="이커머스가 멤버십 확대에 집중하는 이유"><span class="AB-LF-common">이커머스가 멤버십 확대에 집중하는 이유</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">5</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-600614" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1610603802_16370.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>큐레터</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-27 08:30:23">06.27</span></td><td class="LikeCount"><span class="like_22">22</span></td><td class="ViewCount">2,453</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-27 08:30:23">06.27</span></td><td class="LikeCount"><span class="like_22">22</span></td><td class="ViewCount">2,455</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[팀장님은 그러는 척 하는걸까요? 바보일까요?]]></title>
@@ -138,7 +138,7 @@
         <updated>2022-07-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s15">15</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39403" title="팀장님은 그러는 척 하는걸까요? 바보일까요?"><span class="AB-LF-common">팀장님은 그러는 척 하는걸까요? 바보일까요?</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">20</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-602591" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/template/DESIGN_shared/program/theme/01/THUMBNAIL_144_144_icon_rep_box.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>유리구슬</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-04 15:15:25">07.04</span></td><td class="LikeCount"><span class="like_20">20</span></td><td class="ViewCount">1,285</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-04 15:15:25">07.04</span></td><td class="LikeCount"><span class="like_20">20</span></td><td class="ViewCount">1,287</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[참고 참다 이렇게 글 올립니다 사기꾼 송x현 조심하..]]></title>
@@ -183,7 +183,7 @@
         <updated>2022-07-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s20">20</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39395" title="상황이 나쁘다고 근심, 걱정이 생기는 걸까요? 아니죠. 상황이 문제가 아닙니다."><span class="AB-LF-common">상황이 나쁘다고 근심, 걱정이 생기는 걸까요? 아니..</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">24</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-602328" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1599011855_18430.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>디자인업</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-03 17:16:19">07.03</span></td><td class="LikeCount"><span class="like_18">18</span></td><td class="ViewCount">431</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-03 17:16:19">07.03</span></td><td class="LikeCount"><span class="like_18">18</span></td><td class="ViewCount">433</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스티브 잡스는 4가지 방법으로 실패를 극복했다고 한..]]></title>
@@ -201,7 +201,7 @@
         <updated>2022-06-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s22">22</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486526-278" title="6월 22일 사업자모임 진행 결과"><span class="AB-LF-common">6월 22일 사업자모임 진행 결과</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">27</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-600156" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1414648808_1.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>신용성</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-23 11:39:24">06.23</span></td><td class="LikeCount"><span class="like_14">14</span></td><td class="ViewCount">639</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-23 11:39:24">06.23</span></td><td class="LikeCount"><span class="like_14">14</span></td><td class="ViewCount">640</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[네이버, 쇼핑검색 '랭킹' 대폭 개선]]></title>
@@ -237,16 +237,16 @@
         <updated>2022-07-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s26">26</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58202" title="브랜드를 만든다는것의 2가지 의미"><span class="AB-LF-common">브랜드를 만든다는것의 2가지 의미</span></a></span><span class="AB-comm">10</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-605049" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1650156901_79354.jpg" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>르와즈</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-13 13:21:01">07.13</span></td><td class="LikeCount"><span class="like_18">18</span></td><td class="ViewCount">470</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-13 13:21:01">07.13</span></td><td class="LikeCount"><span class="like_18">18</span></td><td class="ViewCount">476</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마케팅판을 여행하는 돈없는 마케터를 위한 안내서/ ..]]></title>
         <id>https://www.i-boss.co.kr/ab-1486505-39496</id>
         <link href="https://www.i-boss.co.kr/ab-1486505-39496"/>
         <updated>2022-07-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s27">27</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39496" title="마케팅판을 여행하는 돈없는 마케터를 위한 안내서/ 마지막"><span class="AB-LF-common">마케팅판을 여행하는 돈없는 마케터를 위한 안내서/ .. <img src="images/new.gif" border="0"></span></a></span><span class="AB-comm">13</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-605887" link="/ab-5108&amp;AJAX=Y" offset="1">
+        <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s27">27</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39496" title="마케팅판을 여행하는 돈없는 마케터를 위한 안내서/ 마지막"><span class="AB-LF-common">마케팅판을 여행하는 돈없는 마케터를 위한 안내서/ ..</span></a></span><span class="AB-comm">13</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-605887" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/template/DESIGN_shared/program/theme/01/THUMBNAIL_144_144_icon_rep_box.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>DV360</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-17 14:36:56">07.17</span></td><td class="LikeCount"><span class="like_16">16</span></td><td class="ViewCount">464</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-17 14:36:56">07.17</span></td><td class="LikeCount"><span class="like_16">16</span></td><td class="ViewCount">477</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6천개 재고 처리.. 건기식.. 유통기한 임박]]></title>
@@ -264,7 +264,7 @@
         <updated>2022-06-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s29">29</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58097" title="대행사 통수로 좀 당황스럽습니다."><span class="AB-LF-common">대행사 통수로 좀 당황스럽습니다.</span></a></span><span class="AB-comm">15</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-601347" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/template/DESIGN_shared/program/theme/01/THUMBNAIL_144_144_icon_rep_box.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>러버러버</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-28 17:50:15">06.28</span></td><td class="LikeCount"><span class="like_8">8</span></td><td class="ViewCount">1,471</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-06-28 17:50:15">06.28</span></td><td class="LikeCount"><span class="like_8">8</span></td><td class="ViewCount">1,472</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[목표는 확고해야 한다? 목표는 내 도전의 도착지점이..]]></title>
