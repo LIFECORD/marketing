@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 23:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 01:51:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이커머스 시장이 주목하는 애그리게이터]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1087882-%EC%9D%B4%EC%BB%A4%EB%A8%B8%EC%8A%A4_%EC%8B%9C%EC%9E%A5%EC%9D%B4_%EC%A3%BC%EB%AA%A9%ED%95%98%EB%8A%94_%EC%95%A0%EA%B7%B8%EB%A6%AC%EA%B2%8C%EC%9D%B4%ED%84%B0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1087882-%EC%9D%B4%EC%BB%A4%EB%A8%B8%EC%8A%A4_%EC%8B%9C%EC%9E%A5%EC%9D%B4_%EC%A3%BC%EB%AA%A9%ED%95%98%EB%8A%94_%EC%95%A0%EA%B7%B8%EB%A6%AC%EA%B2%8C%EC%9D%B4%ED%84%B0/</guid>
+            <pubDate>Mon, 18 Jul 2022 01:50:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1087882-이커머스_시장이_주목하는_애그리게이터/">
+						<div class="thumb"><img src="/images/qletter_1087882.png"></div>
+						<p><strong>이커머스 시장이 주목하는 애그리게이터</strong>2022.07.18</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1087882.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아버지를 돕고 싶은 1년 차 마케터의 고민]]></title>
             <link>https://qletter.i-boss.co.kr/view/1084400-%EC%95%84%EB%B2%84%EC%A7%80%EB%A5%BC_%EB%8F%95%EA%B3%A0_%EC%8B%B6%EC%9D%80_1%EB%85%84_%EC%B0%A8_%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98_%EA%B3%A0%EB%AF%BC/</link>
@@ -127,17 +138,6 @@
 						<p><strong>디지털에서 배운 타기팅, TV 광고에서 뽐내기</strong>2022.05.30</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1017432.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[어느 날 갑자기 Lv.1 팀장이 되었다]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1013737-%EC%96%B4%EB%8A%90_%EB%82%A0_%EA%B0%91%EC%9E%90%EA%B8%B0_Lv1_%ED%8C%80%EC%9E%A5%EC%9D%B4_%EB%90%98%EC%97%88%EB%8B%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1013737-%EC%96%B4%EB%8A%90_%EB%82%A0_%EA%B0%91%EC%9E%90%EA%B8%B0_Lv1_%ED%8C%80%EC%9E%A5%EC%9D%B4_%EB%90%98%EC%97%88%EB%8B%A4/</guid>
-            <pubDate>Thu, 26 May 2022 01:43:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1013737-어느_날_갑자기_Lv1_팀장이_되었다/">
-						<div class="thumb"><img src="/images/qletter_1013737.png"></div>
-						<p><strong>어느 날 갑자기 Lv.1 팀장이 되었다</strong>2022.05.26</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1013737.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
