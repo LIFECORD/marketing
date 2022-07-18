@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 21:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 23:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7월 19일 마케팅 뉴스클리핑] 덴츠, 올해 글로벌 광고비 지출 7,385억 달러 전망 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9155</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9155</guid>
+            <pubDate>Tue, 19 Jul 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 덴츠, 올해 글로벌 광고비 지출 7,385억 달러 전망  2022년 글로벌 광고비 지출 규모가 전년 대비 8.7% 성장할 것으로 전망됐다. 아태 지역 광고비는 약 2,500억 달러에 달할 것으로 예측된다. 덴츠는 오는 2023년 글로벌 광고 시장 규 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_dac0c6bc5d2bad17a7df73be0e88f4dd_25161_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[K-AD] 제일기획, 휴가철 해양 쓰레기 문제 해결 나선다... 쓰레기가 돈이 되는 과자 상점 씨낵(SEANACK) 캠페인 론칭]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9154</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 14 Jul 2022 08:41:00 GMT</pubDate>
             <content:encoded><![CDATA[광고산업이 발전하기 위해서는 다양한 광고산업의 주체들이 균형있게 발전해야 한다. 그 중에 하나는 지방 광고산업의 발전도 빼놓을 수 없다. 대구경북광고산업협회는 지난 2003년에 결성되어 대구 경북 지역의 광고산업 발전 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[7월 14일 마케팅 뉴스클리핑] 광고주 지갑 닫았나... 네이버카카오 2분기 광고 실적 먹구름 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9125</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9125</guid>
-            <pubDate>Thu, 14 Jul 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 광고주 지갑 닫았나... 네이버카카오 2분기 광고 실적 `먹구름`  네이버와 카카오의 매출과 이익 성장률이 저조할 것으로 예상됐다. 캐시카우 역할을 하는 광고의 성장이 정체될 전망이기 때문이다. 팬데믹 기간 많은 기업 고 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d3f15699c3997c6d2f0c196c31956700_28517_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
