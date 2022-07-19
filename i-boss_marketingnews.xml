@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 22:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 23:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7월 20일 마케팅 뉴스클리핑] 인스타그램, 채팅 도중 쇼핑도 가능 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9161</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9161</guid>
+            <pubDate>Wed, 20 Jul 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 인스타그램, 채팅 도중 쇼핑도 가능  인스타그램이 채팅에서 바로 물건을 구매할 수 있는 기능을 내놨다. 우선 이용자는 일정 자격을 갖춘 중소 브랜드 인스타그램 계정에 제품을 메시지를 보낸 뒤, 커스터마이징 여부 등을  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_6e53c60b2b04ddf52026698904e986f2_83541_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캠핑용품, 브랜드보다 실용성이 중요... 3040 남성 구매 의향 제일 높아]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9164</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9135</guid>
             <pubDate>Fri, 15 Jul 2022 08:30:00 GMT</pubDate>
             <content:encoded><![CDATA[30년 동안의 광고회사 생활에서 겪은 에피소드를 모은 이 최근 출간되었다. LG애드 30년의 추억 여행이라는 부제가 붙은 이 책은 저자가 1979년 신입사원으로 희성산업에 입사한 이래 LG애드, HS애드로 회사 이름이 바뀌는 모습을  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[트렌드모니터] 비거니즘 실천은 개인의 영역, 유의미하나 필수 아닌 선택으로 여겨]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9134</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9134</guid>
-            <pubDate>Fri, 15 Jul 2022 08:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근 MZ세대 중심의 가치 소비 트렌드가 확산되며 비거니즘에 대한 관심이 또 한 번 주목 받고 있다.비거노믹스라는 신조어가 등장할 만큼 단순 채식 위주의 식습관을 넘어 다양한 산업 분야에서 동물성 제품 소비를 배제하려는 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
