@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 11:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 12:38:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캠핑용품, 브랜드보다 실용성이 중요... 3040 남성 구매 의향 제일 높아]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9164</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9164</guid>
+            <pubDate>Tue, 19 Jul 2022 12:37:31 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코, 사장 이백만)는 여름 휴가철을 맞아 캠핑용품 소비자에 대한 분석 결과를 발표했다. 캠핑용품을 구매하는 소비자들은 브랜드보다 실용성을 중시하는 것으로 나타났다. 이번 조사는 상대적 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[문체부, 광고산업 유공자 정부포상 후보자 추천 접수]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9163</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 15 Jul 2022 08:29:00 GMT</pubDate>
             <content:encoded><![CDATA[최근 MZ세대 중심의 가치 소비 트렌드가 확산되며 비거니즘에 대한 관심이 또 한 번 주목 받고 있다.비거노믹스라는 신조어가 등장할 만큼 단순 채식 위주의 식습관을 넘어 다양한 산업 분야에서 동물성 제품 소비를 배제하려는 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[7월 15일 마케팅 뉴스클리핑] MAU가 곧 경쟁력 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9131</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9131</guid>
-            <pubDate>Fri, 15 Jul 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. MAU가 곧 경쟁력  `토스`는 1천 걸음을 걸으면 10원, 5천 걸음에 10원 등 최대 40원을 주며 미션 장소에 도착하면 20원, 최대 100원을 준다. 방문 미션 개편 후 사용자 수가 46만 명에서 1년 만에 400만 명을 기록했다. 기업들이 보상 시 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8b1e8bbdc48292a0ca3dcaf2d1cc1476_20627_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
