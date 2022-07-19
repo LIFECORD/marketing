@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 02:02:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 04:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당근마켓, 이웃이랑 공동구매하는 같이사요 서비스 오픈]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9159</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9159</guid>
+            <pubDate>Tue, 19 Jul 2022 11:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[대량으로 물건 구입해 소분하거나 배달 서비스 이용시 배달비 절약 등에 활용 최대 참여 인원 4인...개설된 채팅방에서 구매 방법, 비용 지불 등 자유롭게 결정   당근마켓이 동네생활 서비스에서 이웃들을 모아 물품이나 서비스 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5abccace067e3fc9ab230644f6919ecf_77712_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국내 에스프레소 머신 시장, 올 상반기 성장률 전년 동기 대비 18% 기록]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9158</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 14 Jul 2022 05:31:11 GMT</pubDate>
             <content:encoded><![CDATA[`소비자 오인 표시광고 책임 등`...5천467명 소비자 배상 대상  한국소비자원 소비자분쟁조정위원회는 머지포인트를 구입한 소비자들이 제휴업체 대폭 축소 등을 이유로 판매업자와 통신판매중개업자 등에 대금 환급을 요구한  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c513af77725891bf69651863de59b110_99390_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세일즈포스 커넥티드 커스터머 보고서, 소비자 10명 중 9명 브랜드 경험이 기업 신뢰도와 직결]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9129</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9129</guid>
-            <pubDate>Thu, 14 Jul 2022 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 CRM 시장을 선도하고 있는 세일즈포스는 디지털 퍼스트 시대 소비자의 기대치와 선호도에 대한 조사 결과와 고객경험(CX)에 대한 인사이트를 포함한 스테이트 오브 커넥티드 커스터머(State of Connected Customer) 보고서를 발 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
