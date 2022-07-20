@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 22:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 23:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7월 21일 마케팅 뉴스클리핑] 쿠팡, 여행업 도발... 하루 전 취소해도 전액 환불 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9176</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9176</guid>
+            <pubDate>Thu, 21 Jul 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 쿠팡, 여행업 도발... 하루 전 취소해도 전액 환불  `이커머스 공룡`이 된 쿠팡이 이번에는 온라인 여행 예약 대행숙박(OTA) 사업을 정조준했다. 로켓배송으로 유통업계에 파란을 일으킨 데 이어, 배달과 OTT 등으로 영역 확장한  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_ef521e48714fa0350b76de849dae371d_29705_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[180만 구독자 유튜버 신사임당, 채널 매각]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9175</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9147</guid>
             <pubDate>Sun, 17 Jul 2022 09:19:00 GMT</pubDate>
             <content:encoded><![CDATA[6개의 광고가 뛰어난 광고로 에미상 후보에 올랐다.텔레비전 예술 과학 아카데미(Academy of Television Arts and Sciences)는 1997년부터 매년 뛰어난 상업 광고를 선정해왔다. 올해의 뛰어난 상업 광고 수상자는9월 12일 시상식에서 발표된 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 이모티콘의 짧은 역사 : 2023년 글로벌 이모티콘 수는 3,491개로 증가할 수 있다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9146</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9146</guid>
-            <pubDate>Sun, 17 Jul 2022 09:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[오늘(7월 17일)은 세계 이모티콘의 날이다. 이 날에 맞춰 2023년에 휴대폰에 사용될 새로운 이모티콘이 발표됐다. 내년에는 핑크 하트, 헤어 픽, 시크교의 상징인 칸다 등 31개의 새로운 이모티콘이 출시될 것으로 보이고, 이에 따 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
