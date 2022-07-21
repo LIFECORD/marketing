@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 05:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 06:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[본격화하는 멀티버스 시장, 국내 최고 버추얼 프로덕션 기업들이 뭉쳤다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9181</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9181</guid>
+            <pubDate>Thu, 21 Jul 2022 06:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[에픽게임즈 코리아가 국내 최고 버추얼 프로덕션 기업들과 손을 잡았다. 세계적인 게임 개발사이자 언리얼 엔진, 스토어 및 디지털 창작 생태계를 위한 모든 것을 제공하는 에픽게임즈의 한국법인 에픽게임즈 코리아(대표 박성 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[연애 상대는 성격이 최우선... 나이 들수록 외모나 체형 고려 줄어]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9180</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9152</guid>
             <pubDate>Mon, 18 Jul 2022 08:51:00 GMT</pubDate>
             <content:encoded><![CDATA[네트워크 용량이 계속 증가하고 모바일 기기 기능이 개선되어 그 어느 때보다 쉽게 사람들에게 비디오 콘텐츠를 항상 스트리밍할 수 있게 됐다. 비디오 콘텐츠는 이제 온라인에서 가장 매력적인 콘텐츠 유형이다. 비디오 전략 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[박재항의 反轉 커뮤니케이션] 침묵의 방을 백화점에 둔 까닭]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9151</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9151</guid>
-            <pubDate>Mon, 18 Jul 2022 08:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[We are going to show the world how to make shopping thrilling(쇼핑이 얼마나 짜릿할 수 있는 지 보여드리겠습니다).  나비넥타이에 잘 차려입은 허풍기 있어 보이는 중년의 남성이 팡파르 나팔 소리가 울리는 가운데 큰 소리로 외친다. 세련된  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
