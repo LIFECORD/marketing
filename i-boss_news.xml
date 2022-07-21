@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-07-20T23:20:05.778Z</updated>
+    <updated>2022-07-21T01:50:09.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연애 상대는 '성격'이 최우선... 나이 들수록 '외모'나 '체형' 고려 줄어]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9180</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9180"/>
+        <updated>2022-07-21T01:49:44.773Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 광고시장, 16개월 만에 하락]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9179</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9179"/>
+        <updated>2022-07-21T01:49:44.791Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[트렌드모니터] 피할 수 없는 다문화 흐름 “다양성 존중으로 마음의 국경 지워야”]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9178</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9178"/>
+        <updated>2022-07-21T01:49:44.795Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘도심 속 거대 분수대’ 구현… 현대 도시의 문화유산, 미디어 아트로 재현되다]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9177</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9177"/>
+        <updated>2022-07-21T01:49:44.799Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[7월 21일 마케팅 뉴스클리핑] 쿠팡, 여행업 도발... 하루 전 취소해도 전액 환불 외]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9176</id>
@@ -185,34 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-9151</id>
         <link href="https://www.i-boss.co.kr/ab-2877-9151"/>
         <updated>2022-07-18T01:51:06.046Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[7월 18일 마케팅 뉴스클리핑] 네이버 '선불충전금' 증가액 1위]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9150</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9150"/>
-        <updated>2022-07-17T23:18:33.210Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG AI 아티스트 '틸다', 뉴욕 페스티벌 '금·은상' 동시 수상]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9149</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9149"/>
-        <updated>2022-07-17T08:21:16.413Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코카콜라 x 멀린 엔터테인먼트, '역자판기'로 페트병 재활용 장려]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9148</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9148"/>
-        <updated>2022-07-17T01:55:13.117Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[해외 크리에이티브] 2022년 에미상 후보에 오른 광고]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9147</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9147"/>
-        <updated>2022-07-17T01:55:13.117Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
