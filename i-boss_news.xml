@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-07-22T01:52:12.470Z</updated>
+    <updated>2022-07-22T03:51:34.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국인 89%, 예방적 건강관리의 중요성 인식... 그러나 개인건강관리 수준의 격차가 있는 것으로 나타나]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9190</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9190"/>
+        <updated>2022-07-22T03:51:15.545Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인크로스, 중국 이커머스 진출 신규 고객사 대상 ‘실크로드’ 프로모션 실시]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9189</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9189"/>
+        <updated>2022-07-22T03:51:15.547Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나이키, 'AR 제네시스 후디' 출시... RTFKT와 웹3 시대 정신을 형성하다]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9188</id>
@@ -199,20 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-9162</id>
         <link href="https://www.i-boss.co.kr/ab-2877-9162"/>
         <updated>2022-07-19T08:23:39.429Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애드저스트, 광고 투자대비 효용 극대화(ROI) 위해서는 정확한 데이터 측정 필요]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9160</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9160"/>
-        <updated>2022-07-19T08:23:39.430Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당근마켓, 이웃이랑 공동구매하는 '같이사요' 서비스 오픈]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9159</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9159"/>
-        <updated>2022-07-19T04:03:45.711Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
 </feed>

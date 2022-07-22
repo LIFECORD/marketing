@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 01:52:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 03:51:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국인 89%, 예방적 건강관리의 중요성 인식... 그러나 개인건강관리 수준의 격차가 있는 것으로 나타나]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9190</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9190</guid>
+            <pubDate>Fri, 22 Jul 2022 11:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[필립스가새롭게발표한아시아국가개인건강관리실태조사(Healthy Living in Asia Survey)결과에따르면,개인화된건강관리기술이예방적건강관리측면에서더큰역할을할수있을것으로보이며,한국은개인건강관리수준의격차가있는것으로나 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[인크로스, 중국 이커머스 진출 신규 고객사 대상 실크로드 프로모션 실시]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9189</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9189</guid>
+            <pubDate>Fri, 22 Jul 2022 11:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[SK그룹의 디지털 광고 전문기업 인크로스는22일부터 중국 이커머스 시장 진출을 원하는 고객사를 대상으로 실크로드 프로모션을 실시한다고 밝혔다. 이번 프로모션은 중국 하반기 최대 쇼핑 축제인 광군제(쌍11절,싱글데이),쌍12 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[나이키, AR 제네시스 후디 출시... RTFKT와 웹3 시대 정신을 형성하다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9188</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 19 Jul 2022 08:23:27 GMT</pubDate>
             <content:encoded><![CDATA[제페토 내 맛있성 맵 리뉴얼...드라마, 크리에이터, 패션 위주의 다양한 콘텐츠 제공  GS25가 네이버 제페토를 활용한 드라마를 선보이는 등 메타버스를 활용한 다양한 프로그램과 콘텐츠를 단계적으로 오픈한다고 19일 밝혔다.    ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_40559e41391a932e49930fdacd7799df_51670_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애드저스트, 광고 투자대비 효용 극대화(ROI) 위해서는 정확한 데이터 측정 필요]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9160</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9160</guid>
-            <pubDate>Tue, 19 Jul 2022 08:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[`광고주는 정해진 광고비용을 가지고 높은 효율을 보이는 채널에 집행하기를 원한다. 궁극적으로 광고주가 원하는 것은 투자 대비 효용(ROI) 극대화를 하는 것이기 때문이다.`라고 사이먼 `바비` 뒤사르 애드저스트 CEO는 밝혔다.  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[당근마켓, 이웃이랑 공동구매하는 같이사요 서비스 오픈]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9159</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9159</guid>
-            <pubDate>Tue, 19 Jul 2022 11:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[대량으로 물건 구입해 소분하거나 배달 서비스 이용시 배달비 절약 등에 활용 최대 참여 인원 4인...개설된 채팅방에서 구매 방법, 비용 지불 등 자유롭게 결정   당근마켓이 동네생활 서비스에서 이웃들을 모아 물품이나 서비스 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5abccace067e3fc9ab230644f6919ecf_77712_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
