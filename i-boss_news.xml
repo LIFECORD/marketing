@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-07-22T05:27:39.291Z</updated>
+    <updated>2022-07-22T06:26:06.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[틱톡, 자동 자막·텍스트 스티커 번역 기능 추가]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9193</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9193"/>
+        <updated>2022-07-22T06:25:44.820Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국광고홍보인협회 특별 세미나, "메타버스 세계는 로그인이 아닌, 점프인입니다"]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9192</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9192"/>
+        <updated>2022-07-22T06:25:44.821Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국인 89%, 예방적 건강관리의 중요성 인식... 그러나 개인건강관리 수준의 격차가 있는 것으로 나타나]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9190</id>
@@ -200,19 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-9164"/>
         <updated>2022-07-19T12:37:45.415Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문체부, ‘광고산업 유공자 정부포상’ 후보자 추천 접수]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9163</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9163"/>
-        <updated>2022-07-19T08:23:39.428Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GS25, 제페토 기반 드라마 제작... 메타버스 콘텐츠 강화]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9162</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9162"/>
-        <updated>2022-07-19T08:23:39.429Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
 </feed>
