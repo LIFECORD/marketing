@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 22:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 23:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7월 25일 마케팅 뉴스클리핑] 삼성 새벽 조깅하는 여성 광고 위반 사항 없다 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9191</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9191</guid>
+            <pubDate>Mon, 25 Jul 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 삼성 `새벽 조깅하는 여성` 광고 `위반 사항 없다`  논란됐던 삼성전자 광고가 광고 규정에 어긋난 것이 없다고 결론 났다. 영국 광고표준위원회는 삼성전자의 새벽에 혼자 달리는 여성 광고가 광고 규정을 위반하지 않았다고  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_25ef6df2df0547dfbd8b2ad1b57ad6e7_76592_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국광고홍보학회 특별 세미나, PR 구루에게 듣는다 : 콘텐츠가 만드는 소통의 힘, PR의 미래]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9200</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9171</guid>
             <pubDate>Wed, 20 Jul 2022 09:04:00 GMT</pubDate>
             <content:encoded><![CDATA[국내 최대 모바일 빅데이터 플랫폼 기업 아이지에이웍스가 자사의 데이터 분석 솔루션 모바일인덱스를 통해  리포트를 발표했다. 분석 기간은 2021년 12월 1일부터 2022년 6월 30일까지로, 일평균 4000만 모바일 기기의 20억건 데이터 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[AI가 광고 카피까지 직접 써준다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9170</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9170</guid>
-            <pubDate>Wed, 20 Jul 2022 08:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국방송광고진흥공사(사장 이백만, 이하 코바코)는 국내 최초로 AI 광고 카피 작성 서비스를 개발해 올해 연말부터 제공할 계획이라고 밝혔다. 해당 서비스는 빅데이터로 소비자의 트렌드를 분석하고, 제품에 대한 정보를 입력 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
