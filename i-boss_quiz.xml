@@ -2,20 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-5826</id>
     <title>아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈</title>
-    <updated>2022-07-24T14:17:37.798Z</updated>
+    <updated>2022-07-24T15:20:01.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[IT기술을 뜻하는 테크(Technology)와 합쳐진 다양한 신조어가 탄생하고 있습니다. 다음 중 이러한 트렌드와 관련 없는 단어는 무엇일까요?]]></title>
-        <id>https://www.i-boss.co.kr/ab-5826</id>
-        <link href="https://www.i-boss.co.kr/ab-5826"/>
-        <updated>2022-07-24T14:17:28.295Z</updated>
-        <content type="html"><![CDATA[<tbody><tr>
-				<td><!--1-->IT기술을 뜻하는 테크(Technology)와 합쳐진 다양한 신조어가 탄생하고 있습니다. 다음 중 이러한 트렌드와 관련 없는 단어는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1471_1" value="1" class="AB-radio" id="PQ_BD5826_1471_1_0"><label for="PQ_BD5826_1471_1_0" id="label_PQ_BD5826_1471_1_0">(A) 프롭테크(Proptech)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1471_1" value="2" class="AB-radio" id="PQ_BD5826_1471_1_1"><label for="PQ_BD5826_1471_1_1" id="label_PQ_BD5826_1471_1_1">(B) 레그테크(Regtech)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1471_1" value="3" class="AB-radio" id="PQ_BD5826_1471_1_2"><label for="PQ_BD5826_1471_1_2" id="label_PQ_BD5826_1471_1_2">(C) 핀테크(Fintech)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1471_1" value="4" class="AB-radio" id="PQ_BD5826_1471_1_3"><label for="PQ_BD5826_1471_1_3" id="label_PQ_BD5826_1471_1_3">(D) 디지테크(Digitech)</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content>
-    </entry>
 </feed>
