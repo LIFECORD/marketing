@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 03:41:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 04:35:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국광고홍보학회 특별 세미나, PR 구루에게 듣는다 : 콘텐츠가 만드는 소통의 힘, PR의 미래]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9200</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9200</guid>
+            <pubDate>Sun, 24 Jul 2022 04:34:35 GMT</pubDate>
+            <content:encoded><![CDATA[한국광고홍보학회(회장 차영란)는`PR 구루에게 듣는다: 콘텐츠가 만드는 소통의 힘, PR의 미래` 라는 주제로 온라인으로 특별 세미나를 개최했다. 전에 없던 팬데믹, 빠르게 변화하는 미디어 환경 속에서 PR 산업과 학계를 이끌어  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[인포그래픽] 세계에서 가장 빠르게 인구가 감소하는 나라]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9199</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9170</guid>
             <pubDate>Wed, 20 Jul 2022 08:41:00 GMT</pubDate>
             <content:encoded><![CDATA[한국방송광고진흥공사(사장 이백만, 이하 코바코)는 국내 최초로 AI 광고 카피 작성 서비스를 개발해 올해 연말부터 제공할 계획이라고 밝혔다. 해당 서비스는 빅데이터로 소비자의 트렌드를 분석하고, 제품에 대한 정보를 입력 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[NBCU, 피콕에서 쇼퍼블TV를 러브 아일랜드 USA 에 제공]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9169</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9169</guid>
-            <pubDate>Wed, 20 Jul 2022 08:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[러브 아일랜드 USA의 참가자들이 사랑을 찾는 동안, 시청자들은 살 물건을 찾을 것이다. NBC유니버셜은 스트리밍 플랫폼 피콕에서 7월 19일 첫 방송되는 데이트 쇼 에 쇼퍼블 TV(ShoppableTV) 기술을 적용하여참가자가 시즌 내내 사용 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

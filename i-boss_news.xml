@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-07-24T03:41:03.447Z</updated>
+    <updated>2022-07-24T04:35:10.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국광고홍보학회 특별 세미나, "PR 구루에게 듣는다 : 콘텐츠가 만드는 소통의 힘, PR의 미래"]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9200</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9200"/>
+        <updated>2022-07-24T04:34:48.785Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인포그래픽] 세계에서 가장 빠르게 인구가 감소하는 나라]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9199</id>
@@ -205,13 +212,6 @@
         <title type="html"><![CDATA[AI가 광고 카피까지 직접 써준다]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9170</id>
         <link href="https://www.i-boss.co.kr/ab-2877-9170"/>
-        <updated>2022-07-20T01:46:42.607Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NBCU, 피콕에서 쇼퍼블TV를 '러브 아일랜드 USA' 에 제공]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9169</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9169"/>
         <updated>2022-07-20T01:46:42.607Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
