@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 23:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 01:50:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OO 안 하면 페북·인스타 못한다고?]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1097798-OO_%EC%95%88_%ED%95%98%EB%A9%B4_%ED%8E%98%EB%B6%81%EC%9D%B8%EC%8A%A4%ED%83%80_%EB%AA%BB%ED%95%9C%EB%8B%A4%EA%B3%A0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1097798-OO_%EC%95%88_%ED%95%98%EB%A9%B4_%ED%8E%98%EB%B6%81%EC%9D%B8%EC%8A%A4%ED%83%80_%EB%AA%BB%ED%95%9C%EB%8B%A4%EA%B3%A0/</guid>
+            <pubDate>Mon, 25 Jul 2022 01:49:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1097798-OO_안_하면_페북인스타_못한다고/">
+						<div class="thumb"><img src="/images/qletter_1097798.png"></div>
+						<p><strong>OO 안 하면 페북·인스타 못한다고?</strong>2022.07.25</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1097798.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[요즘 마케팅 업계가 주목한 키워드, 휴식 😌]]></title>
             <link>https://qletter.i-boss.co.kr/view/1094247-%EC%9A%94%EC%A6%98_%EB%A7%88%EC%BC%80%ED%8C%85_%EC%97%85%EA%B3%84%EA%B0%80_%EC%A3%BC%EB%AA%A9%ED%95%9C_%ED%82%A4%EC%9B%8C%EB%93%9C_%ED%9C%B4%EC%8B%9D/</link>
@@ -127,17 +138,6 @@
 						<p><strong> 마케터에게 물어본 2022년 하반기 마케팅은?</strong>2022.06.09</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1032102.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[일잘러 마케터의 업무 치트키]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1022176-%EC%9D%BC%EC%9E%98%EB%9F%AC_%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98_%EC%97%85%EB%AC%B4_%EC%B9%98%ED%8A%B8%ED%82%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1022176-%EC%9D%BC%EC%9E%98%EB%9F%AC_%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98_%EC%97%85%EB%AC%B4_%EC%B9%98%ED%8A%B8%ED%82%A4/</guid>
-            <pubDate>Thu, 02 Jun 2022 01:44:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1022176-일잘러_마케터의_업무_치트키/">
-						<div class="thumb"><img src="/images/qletter_1022176.png"></div>
-						<p><strong>일잘러 마케터의 업무 치트키</strong>2022.06.02</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1022176.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
