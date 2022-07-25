@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 22:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 23:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7월 26일 마케팅 뉴스클리핑] 틱톡 월평균 사용시간, 유튜브 제쳤다 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9211</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9211</guid>
+            <pubDate>Tue, 26 Jul 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 틱톡 월평균 사용시간, 유튜브 제쳤다  올해 1분기 전 세계 틱톡 이용자는 월평균 23.6 시간을 틱톡에 소비한 것으로 나타났다. 이는 23.2 시간을 기록한 유튜브와 19.4 시간을 기록한 페이스북 앱 보다 높은 수치다. 1분기 틱톡 이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c0dc12a9cab77f6e8eedec2cc9c54b43_13461_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머스크의 인수 취소 변덕에... 트위터, 2분기 어닝쇼크]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9210</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 22 Jul 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 쿠팡, 이커머스 1위 향해 거침없이 질주  글로벌 투자은행들은 쿠팡이 국내 이커머스 시장에서 부동의 1위가 될 것이라는 관측을 내놨다. 시장점유율은 2020년 16%에서 2023년 26%로, 매출은 올해 205억 달러에서 2024년 274억 달러로  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_35d8a4cd5bcaa3e3e728e555671496f7_17683_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[본격화하는 멀티버스 시장, 국내 최고 버추얼 프로덕션 기업들이 뭉쳤다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9181</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9181</guid>
-            <pubDate>Thu, 21 Jul 2022 06:24:24 GMT</pubDate>
-            <content:encoded><![CDATA[에픽게임즈 코리아가 국내 최고 버추얼 프로덕션 기업들과 손을 잡았다. 세계적인 게임 개발사이자 언리얼 엔진, 스토어 및 디지털 창작 생태계를 위한 모든 것을 제공하는 에픽게임즈의 한국법인 에픽게임즈 코리아(대표 박성 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
