@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 01:50:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 03:49:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애피어, 클라랑스 마케팅 캠페인 신규 사용자 획득 효율화 개선 및 구매 전환율 증가]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9209</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9209</guid>
+            <pubDate>Mon, 25 Jul 2022 00:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 기반 서비스형 소프트웨어(SaaS) 기업 애피어는 프랑스 대표 뷰티 브랜드 클라랑스(Clarins)의 AI를 통해 고가치 사용자를 찾아주는 자사 광고 솔루션 크로스엑스(CrossX)와 자사 온사이트 구매 트리거인 아이딜(AiDeal)을  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[패션 아이템, 전문성, 재미에 웃음까지 더한 신개념 스포츠 콘텐츠 오늘의 챌린지 인기]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9208</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9180</guid>
             <pubDate>Thu, 21 Jul 2022 09:12:00 GMT</pubDate>
             <content:encoded><![CDATA[전 세대 모두 연애 상대 성격 최우선 고려 나이 들수록 외모체형 고려 줄어  연애 상대와 만날 때 어떤 부분을 고려하는지 86세대를 제외한 세대별로 5순위까지 확인했을 때, Z세대, 후기 밀레니얼, 전기 밀레니얼, X세대 모두 가 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 광고시장, 16개월 만에 하락]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9179</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9179</guid>
-            <pubDate>Thu, 21 Jul 2022 08:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[미디어포스트가 스탠더드미디어인덱스(SMI)의 미국 광고시장 트래커 자료를 분석한 결과,미국 광고 시장은 6월에 3% 감소, 2021년 2월 이후 처음으로 하락했다.코로나19로 인한 광고 불황에 벗어나 미국 광고 시장의 확장세가 둔화 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
