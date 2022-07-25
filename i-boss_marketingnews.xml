@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 05:30:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 06:25:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머스크의 인수 취소 변덕에... 트위터, 2분기 어닝쇼크]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9210</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9210</guid>
+            <pubDate>Mon, 25 Jul 2022 06:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[트위터가 2분기 어닝 쇼크를 냈다. 매출의 핵심인 광고 사업이 인플레이션과 우크라이나 전쟁 여파 등으로 부진한 탓이다. 트위터를 인수하기로 한 일론 머스크 테슬라 최고경영자(CEO)가 계약 파기 선언을 하는 등 미래 불확실 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[애피어, 클라랑스 마케팅 캠페인 신규 사용자 획득 효율화 개선 및 구매 전환율 증가]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9209</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9181</guid>
             <pubDate>Thu, 21 Jul 2022 06:24:24 GMT</pubDate>
             <content:encoded><![CDATA[에픽게임즈 코리아가 국내 최고 버추얼 프로덕션 기업들과 손을 잡았다. 세계적인 게임 개발사이자 언리얼 엔진, 스토어 및 디지털 창작 생태계를 위한 모든 것을 제공하는 에픽게임즈의 한국법인 에픽게임즈 코리아(대표 박성 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연애 상대는 성격이 최우선... 나이 들수록 외모나 체형 고려 줄어]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9180</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9180</guid>
-            <pubDate>Thu, 21 Jul 2022 09:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[전 세대 모두 연애 상대 성격 최우선 고려 나이 들수록 외모체형 고려 줄어  연애 상대와 만날 때 어떤 부분을 고려하는지 86세대를 제외한 세대별로 5순위까지 확인했을 때, Z세대, 후기 밀레니얼, 전기 밀레니얼, X세대 모두 가 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
