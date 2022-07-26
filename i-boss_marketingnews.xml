@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 05:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 06:25:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[적자폭 커지자... 밀키트 1위 프레시지도 새벽배송 중단]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9218</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9218</guid>
+            <pubDate>Tue, 26 Jul 2022 06:24:57 GMT</pubDate>
+            <content:encoded><![CDATA[밀키트 업계 1위 기업인 프레시지가 새벽배송을 중단한다. 최근 2017년부터 새벽배송을 운영했던 GS프레시몰도 새벽배송 서비스 중단을 공지하는 등 유통업계의 새벽배송 시스템이 바뀌고 있다.  프레시지는 밀키트 시장 성장과  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[부산국제광고제, 58개국 1,745편 본선 진출작 발표...아랍에미리트 최다작 본선 진출 영광, 한국은 공동 7위]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9217</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9189</guid>
             <pubDate>Fri, 22 Jul 2022 11:03:00 GMT</pubDate>
             <content:encoded><![CDATA[SK그룹의 디지털 광고 전문기업 인크로스는22일부터 중국 이커머스 시장 진출을 원하는 고객사를 대상으로 실크로드 프로모션을 실시한다고 밝혔다. 이번 프로모션은 중국 하반기 최대 쇼핑 축제인 광군제(쌍11절,싱글데이),쌍12 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키, AR 제네시스 후디 출시... RTFKT와 웹3 시대 정신을 형성하다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9188</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9188</guid>
-            <pubDate>Fri, 22 Jul 2022 10:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[나이키가 NFT 운동화에 이어, 이번에는 AR 후디를 론칭한다. 이 프로젝트 역시 작년 12월 나이키가 인수한RTFKT스튜디오와 함께 했다. 나이키가 이번에 RTFKT와 함께 선보이는 `RTFKT x 나이키 AR Genesis Hoodie(제네시스 후디)`는 첫 번째  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
