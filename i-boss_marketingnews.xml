@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 22:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 23:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7월 27일 마케팅 뉴스클리핑] 메타, 음악 수익 공유 서비스 출시 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9219</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9219</guid>
+            <pubDate>Wed, 27 Jul 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 메타, 음악 수익 공유 서비스 출시  메타는 음악 수익 공유 서비스 라이츠 매니저(Rights Manager)를 공개했다. 그간 메타의 유저들이 저작권이 있는 음악을 영상에 사용할 수 있었지만, 이를 통한 수익 창출 방안이 마련된 것은 이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_372a2a661a11a7c2d37224c2daa8cf08_51554_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[적자폭 커지자... 밀키트 1위 프레시지도 새벽배송 중단]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9218</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9190</guid>
             <pubDate>Fri, 22 Jul 2022 11:16:00 GMT</pubDate>
             <content:encoded><![CDATA[필립스가새롭게발표한아시아국가개인건강관리실태조사(Healthy Living in Asia Survey)결과에따르면,개인화된건강관리기술이예방적건강관리측면에서더큰역할을할수있을것으로보이며,한국은개인건강관리수준의격차가있는것으로나 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[인크로스, 중국 이커머스 진출 신규 고객사 대상 실크로드 프로모션 실시]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9189</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9189</guid>
-            <pubDate>Fri, 22 Jul 2022 11:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[SK그룹의 디지털 광고 전문기업 인크로스는22일부터 중국 이커머스 시장 진출을 원하는 고객사를 대상으로 실크로드 프로모션을 실시한다고 밝혔다. 이번 프로모션은 중국 하반기 최대 쇼핑 축제인 광군제(쌍11절,싱글데이),쌍12 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
