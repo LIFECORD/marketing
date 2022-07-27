@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 22:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 23:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7월 28일 마케팅 뉴스클리핑] 카톡 사용량 최대 40%가 오픈채팅 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9225</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9225</guid>
+            <pubDate>Thu, 28 Jul 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 카톡 사용량 최대 40%가 오픈채팅  카카오톡 전체 대화량에서 오픈채팅 비중은 최대 40%에 달했다. 올해 오픈채팅 사용자 수는 2019년 대비 76% 늘었다. 오픈채팅 수신발신량도 같은 기간 78% 증가했다. 카카오는 다른 사람과 필요  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2c7e2b889682127936ebc935e777f8ee_40669_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[골린이, 테린이의 등장 MZ가 빠진 귀족 스포츠]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9224</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9197</guid>
             <pubDate>Sun, 24 Jul 2022 10:00:00 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 기술 연구자문 기업 인포메이션 서비스 그룹(Information Services Group, 이하 ISG)(나스닥: III)이 발표한 최신 업계 동향 보고서에 따르면, 일부 핵심 지역의 수요 둔화로 2022년 2분기 아시아 태평양 IT비즈니스 서비스 시장이 빠 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외 크리에이티브] 티파니 블루가 마커로 나온다고?]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9196</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9196</guid>
-            <pubDate>Sat, 23 Jul 2022 10:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[여성들이 가장 좋아하는 블루는 무엇일까? 아마도 약간 민트 색에 가까운 연한 블루, 티파니 블루가 아닐까 싶다. 티파니 하면 티파니 블루를 떠올릴 정도로 티파니는 컬러 마케팅의 진수를 보여준다. 그런데 이번에 티파니는  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
