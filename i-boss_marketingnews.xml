@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 01:51:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 04:56:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[골린이, 테린이의 등장 MZ가 빠진 귀족 스포츠]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9224</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9224</guid>
+            <pubDate>Wed, 27 Jul 2022 04:56:15 GMT</pubDate>
+            <content:encoded><![CDATA[웰빙과 건강에 대한 트렌드는 몇 년 새 계속해서 인기다. 필라테스, 헬스 등이 인기있는 운동으로 오운완 (오늘 운동 완료)라는 말도 여전히 유행 중이다. 최근 MZ는 일명 귀족 스포츠라고 불리는 운동들에 빠졌다. 바로 골프와  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[세대별 한국인이 가장 많이 사용하는 금융/결제 앱은?]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9223</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9196</guid>
             <pubDate>Sat, 23 Jul 2022 10:26:00 GMT</pubDate>
             <content:encoded><![CDATA[여성들이 가장 좋아하는 블루는 무엇일까? 아마도 약간 민트 색에 가까운 연한 블루, 티파니 블루가 아닐까 싶다. 티파니 하면 티파니 블루를 떠올릴 정도로 티파니는 컬러 마케팅의 진수를 보여준다. 그런데 이번에 티파니는  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑 앱도 취미처럼 활용 자주 보고 다양하게 즐긴다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9195</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9195</guid>
-            <pubDate>Sat, 23 Jul 2022 10:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[MZ세대를 중심으로 패션 플랫폼 활용 방법이 다변화하고 있다.단순 의류 구매를 위해 애플리케이션에 접속하는 것을 넘어 앱 사용이 하나의 취미생활로 자리 잡았다.구매 후기를SNS즐기듯 보고,내 손안에 작은 매거진처럼 패션  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
