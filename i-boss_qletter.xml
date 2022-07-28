@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 23:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 01:48:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고객을 사로잡는 상품 언어]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1104481-%EA%B3%A0%EA%B0%9D%EC%9D%84_%EC%82%AC%EB%A1%9C%EC%9E%A1%EB%8A%94_%EC%83%81%ED%92%88_%EC%96%B8%EC%96%B4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1104481-%EA%B3%A0%EA%B0%9D%EC%9D%84_%EC%82%AC%EB%A1%9C%EC%9E%A1%EB%8A%94_%EC%83%81%ED%92%88_%EC%96%B8%EC%96%B4/</guid>
+            <pubDate>Thu, 28 Jul 2022 01:47:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1104481-고객을_사로잡는_상품_언어/">
+						<div class="thumb"><img src="/images/qletter_1104481.png"></div>
+						<p><strong>고객을 사로잡는 상품 언어</strong>2022.07.28</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1104481.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[OO 안 하면 페북·인스타 못한다고?]]></title>
             <link>https://qletter.i-boss.co.kr/view/1097798-OO_%EC%95%88_%ED%95%98%EB%A9%B4_%ED%8E%98%EB%B6%81%EC%9D%B8%EC%8A%A4%ED%83%80_%EB%AA%BB%ED%95%9C%EB%8B%A4%EA%B3%A0/</link>
@@ -127,17 +138,6 @@
 						<p><strong>네이버도 뛰어든 인플루언서 매칭</strong>2022.06.13</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1035868.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마케터에게 물어본 2022년 하반기 마케팅은?]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1032102-%EB%A7%88%EC%BC%80%ED%84%B0%EC%97%90%EA%B2%8C_%EB%AC%BC%EC%96%B4%EB%B3%B8_2022%EB%85%84_%ED%95%98%EB%B0%98%EA%B8%B0_%EB%A7%88%EC%BC%80%ED%8C%85%EC%9D%80/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1032102-%EB%A7%88%EC%BC%80%ED%84%B0%EC%97%90%EA%B2%8C_%EB%AC%BC%EC%96%B4%EB%B3%B8_2022%EB%85%84_%ED%95%98%EB%B0%98%EA%B8%B0_%EB%A7%88%EC%BC%80%ED%8C%85%EC%9D%80/</guid>
-            <pubDate>Thu, 09 Jun 2022 01:29:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1032102-마케터에게_물어본_2022년_하반기_마케팅은/">
-						<div class="thumb"><img src="/images/qletter_1032102.png"></div>
-						<p><strong> 마케터에게 물어본 2022년 하반기 마케팅은?</strong>2022.06.09</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1032102.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
