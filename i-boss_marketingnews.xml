@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 12:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 13:43:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글, 쿠키없는 미래를 더 지연시키다... 2024년까지 쿠키 폐지 연기]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9238</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9238</guid>
+            <pubDate>Thu, 28 Jul 2022 13:42:49 GMT</pubDate>
+            <content:encoded><![CDATA[구글은 제3자 쿠키의 폐지를2024년까지 연기한다고 발표했다. 구글의 프라이버시 샌드박스(Privacy Sandbox)의 앤서니 차베스(Anthony Chavez) 부사장은 구글의 블로그에서`우리가 받은 가장 일관된 피드백은 크롬에서 타사 쿠키를 사용 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[KAI] 8월 광고 시장, 여름 축제와 함께 뜨겁다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9237</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9208</guid>
             <pubDate>Mon, 25 Jul 2022 10:37:00 GMT</pubDate>
             <content:encoded><![CDATA[한성에프아이(대표 김영철)의 스포츠 캐주얼 `올포유`가 선보이는 스포츠 콘텐츠의 인기가 뜨겁다.최근 골프에 이어 테니스를 즐기는 젊은 세대가 늘어나면서 `올포유`의 풍성한 스포츠 콘텐츠 `오늘의 챌린지`가 일상 속 스포 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[오감 만족의 시대! 친환경도 직접 경험해야 하니까 유통업계, 친환경 콘셉트 오프라인 체험존 인기]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9207</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9207</guid>
-            <pubDate>Mon, 25 Jul 2022 10:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[유통업계에서친환경동참을돕기위해마련한오프라인체험공간이인기를끌고있다.이는친환경에대한소비자관심이날로높아지고있는배경때문이다.실제한설문조사에따르면소비자10명중8명은환경이나윤리측면을고려한가치소비경 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
