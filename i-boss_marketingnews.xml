@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 22:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 23:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7월 29일 마케팅 뉴스클리핑] 메타, 사상 첫 분기 매출 감소... 불황에 광고수익 타격 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9235</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9235</guid>
+            <pubDate>Fri, 29 Jul 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 메타, 사상 첫 분기 매출 감소... 불황에 광고수익 타격  메타의 분기 매출이 사상 처음으로 감소했다. 메타는 2분기 288억 달러의 매출을 기록했다고 발표했다. 전년 대비 약 1% 줄었다. 67억 달러로 집계된 영업이익은 세 분기  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_ce0e7d93017f306d88db0d5a5a9f6410_95127_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글, 쿠키없는 미래를 더 지연시키다... 2024년까지 쿠키 폐지 연기]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9238</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9209</guid>
             <pubDate>Mon, 25 Jul 2022 00:03:00 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 기반 서비스형 소프트웨어(SaaS) 기업 애피어는 프랑스 대표 뷰티 브랜드 클라랑스(Clarins)의 AI를 통해 고가치 사용자를 찾아주는 자사 광고 솔루션 크로스엑스(CrossX)와 자사 온사이트 구매 트리거인 아이딜(AiDeal)을  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 아이템, 전문성, 재미에 웃음까지 더한 신개념 스포츠 콘텐츠 오늘의 챌린지 인기]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9208</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9208</guid>
-            <pubDate>Mon, 25 Jul 2022 10:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[한성에프아이(대표 김영철)의 스포츠 캐주얼 `올포유`가 선보이는 스포츠 콘텐츠의 인기가 뜨겁다.최근 골프에 이어 테니스를 즐기는 젊은 세대가 늘어나면서 `올포유`의 풍성한 스포츠 콘텐츠 `오늘의 챌린지`가 일상 속 스포 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

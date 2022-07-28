@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-07-28T22:18:32.460Z</updated>
+    <updated>2022-07-28T23:22:44.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[7월 29일 마케팅 뉴스클리핑] 메타, 사상 첫 분기 매출 감소... 불황에 광고수익 타격 외]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9235</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9235"/>
+        <updated>2022-07-28T23:22:25.209Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글, 쿠키없는 미래를 더 지연시키다... 2024년까지 쿠키 폐지 연기]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9238</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-9209</id>
         <link href="https://www.i-boss.co.kr/ab-2877-9209"/>
         <updated>2022-07-25T03:48:49.104Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패션 아이템, 전문성, 재미에 웃음까지 더한 신개념 스포츠 콘텐츠 '오늘의 챌린지' 인기]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9208</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9208"/>
-        <updated>2022-07-25T01:49:44.528Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
