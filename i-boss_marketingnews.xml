@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 01:59:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 04:36:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 전 세계 랜드마크서 갤럭시 언팩 2022 디지털 옥외 광고 진행]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9252</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9252</guid>
+            <pubDate>Sun, 31 Jul 2022 11:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 갤럭시 언팩 2022(Unfold Your World)를 앞두고 전 세계 주요 랜드마크에서 옥외 광고를 진행한다. 삼성전자는 7월 29일(현지 시각)부터 미국 뉴욕 타임스스퀘어(Times Square) 영국 런던 피카딜리 광장(Piccadilly Circus) 중국 청두  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[ANA, 조달 2022 : 좋은 놈, 나쁜 놈, 못생긴 놈 보고서 발간]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9251</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9222</guid>
             <pubDate>Wed, 27 Jul 2022 08:39:00 GMT</pubDate>
             <content:encoded><![CDATA[점점 더 유튜브에서 시간을 보내는 소비자가 증가하고 있다.닐슨 스트리밍 레이팅스(Nielsen Streaming Ratings)에 따르면, 18세 이상 소비자 중 미국 내 CTV에서 광고지원 스트리밍 시청 시간의 50% 이상을 유튜브가 차지하고 있다. 따라 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 미디어 에이전시 성장 반등... 비전통적인 서비스가 대부분 차지]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9221</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9221</guid>
-            <pubDate>Wed, 27 Jul 2022 08:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[RECMA가 발표한 새로운 데이터에 따르면, 미디어 에이전시 산업은 2020년에 감소한 후 2021년에 회복되어 총 미디어 청구액이 15.2% 증가했다. 미디어포스트에 따르면, OMD, 마인드셰어, 캐럿 등 빅 3 미디어 에이전시의 성장률은 산업  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
