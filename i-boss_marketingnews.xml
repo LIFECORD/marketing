@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 22:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 23:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[8월 1일 마케팅 뉴스클리핑] 백기든 메타, 동의 안 하면 서비스 중단 방침 철회 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9245</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9245</guid>
+            <pubDate>Mon, 01 Aug 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 백기든 메타, `동의 안 하면 서비스 중단` 방침 철회  메타가 `개인정보 처리방침에 동의하지 않으면 서비스 이용을 중지한다`는 방침을 철회했다. 국내 이용자들의 거센 반발을 의식한 조치로 풀이된다. 메타는 지난 26일까지  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_f351cce451b450c7dcafddf8553c2711_42577_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 전 세계 랜드마크서 갤럭시 언팩 2022 디지털 옥외 광고 진행]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9252</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Jul 2022 09:10:00 GMT</pubDate>
             <content:encoded><![CDATA[2022년 6월 한국인이 가장 많이 사용한 금융 앱 TOP 3는 삼성페이, 토스, 카카오뱅크 10대와 20대는 간편결제 앱, 30대 이상은 은행 앱, 카드 앱 이용이 활발   앱/리테일 분석서비스 와이즈앱리테일굿즈가 세대별 한국인이 가장 많이  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_54da2a8e79c711a3c3854dec8871a528_33638_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[닐슨, 유튜브용 4 스크린 광고 중복 제거(Four-Screen Ad Deduplication) 론칭]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9222</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9222</guid>
-            <pubDate>Wed, 27 Jul 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[점점 더 유튜브에서 시간을 보내는 소비자가 증가하고 있다.닐슨 스트리밍 레이팅스(Nielsen Streaming Ratings)에 따르면, 18세 이상 소비자 중 미국 내 CTV에서 광고지원 스트리밍 시청 시간의 50% 이상을 유튜브가 차지하고 있다. 따라 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
