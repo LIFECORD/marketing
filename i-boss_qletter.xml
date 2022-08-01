@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 23:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 02:00:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비 내리는 광고 매체 성적표 ☔]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1108531-%EB%B9%84_%EB%82%B4%EB%A6%AC%EB%8A%94_%EA%B4%91%EA%B3%A0_%EB%A7%A4%EC%B2%B4_%EC%84%B1%EC%A0%81%ED%91%9C/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1108531-%EB%B9%84_%EB%82%B4%EB%A6%AC%EB%8A%94_%EA%B4%91%EA%B3%A0_%EB%A7%A4%EC%B2%B4_%EC%84%B1%EC%A0%81%ED%91%9C/</guid>
+            <pubDate>Mon, 01 Aug 2022 01:59:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1108531-비_내리는_광고_매체_성적표/">
+						<div class="thumb"><img src="/images/qletter_1108531.png"></div>
+						<p><strong>비 내리는 광고 매체 성적표 ☔</strong>2022.08.01</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1108531.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[고객을 사로잡는 상품 언어]]></title>
             <link>https://qletter.i-boss.co.kr/view/1104481-%EA%B3%A0%EA%B0%9D%EC%9D%84_%EC%82%AC%EB%A1%9C%EC%9E%A1%EB%8A%94_%EC%83%81%ED%92%88_%EC%96%B8%EC%96%B4/</link>
@@ -127,17 +138,6 @@
 						<p><strong> 성공한 브랜드는 사라고 말하지 않는다</strong>2022.06.16</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1042373.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버도 뛰어든 인플루언서 매칭]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1035868-%EB%84%A4%EC%9D%B4%EB%B2%84%EB%8F%84_%EB%9B%B0%EC%96%B4%EB%93%A0_%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C_%EB%A7%A4%EC%B9%AD/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1035868-%EB%84%A4%EC%9D%B4%EB%B2%84%EB%8F%84_%EB%9B%B0%EC%96%B4%EB%93%A0_%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C_%EB%A7%A4%EC%B9%AD/</guid>
-            <pubDate>Mon, 13 Jun 2022 01:46:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1035868-네이버도_뛰어든_인플루언서_매칭/">
-						<div class="thumb"><img src="/images/qletter_1035868.png"></div>
-						<p><strong>네이버도 뛰어든 인플루언서 매칭</strong>2022.06.13</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1035868.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
