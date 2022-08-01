@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 22:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 23:24:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[8월 2일 마케팅 뉴스클리핑] 트렌비, 국내 매출액 1위 허위 광고에 공정위 경고 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9256</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9256</guid>
+            <pubDate>Tue, 02 Aug 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 트렌비, `국내 매출액 1위` 허위 광고에 공정위 경고  명품 쇼핑 플랫폼 트렌비가 `국내 매출액이 1위`라고 허위과장 광고를 한 사실이 드러나 공정위의 경고 처분을 받았다. 공정위는 트렌비가 작년부터 최근까지 SNS와 TV 광고  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_168524bce8eda8ad829c8bf20ad733a7_19655_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[테슬라, 잘못된 정보 위험에 기반한 새로운 지수 1위]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9255</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9227</guid>
             <pubDate>Thu, 28 Jul 2022 09:45:00 GMT</pubDate>
             <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)가 에이풀(Aful)을 통해 2022년 5월 10일부터 23일까지 4060 남녀 359명을 대상으로 실시한 명품 기능성 화장품 구매 트렌드 조사 결과를 발표했다. 4060 신중년에게 16가지 브랜드 항목 중 선 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 스트리밍 서비스, 1분기 부진 이후 2분기 반등]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9226</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9226</guid>
-            <pubDate>Thu, 28 Jul 2022 09:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[칸타의 Entertainment on Demand 스트리밍 분석에 따르면, 비디오 스트리밍 서비스를 구독하는 미국 가구의 비율은1분기에 성장이 없었으나 2분기에 성장을 재개하여 6월 현재 미국에서 1억 1,300만 가구에 도달했다. 2분기 증가에 따라 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
