@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-08-02T18:23:31.928Z</updated>
+    <updated>2022-08-02T19:16:18.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -57,7 +57,7 @@
         <updated>2022-07-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s6">6</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58282" title="30분 편집 기획 ROAS 300% 이상 나오는 영상 꿀팁"><span class="AB-LF-common">30분 편집 기획 ROAS 300% 이상 나오는 영상 꿀팁</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">17</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-607972" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_profile_img_1.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>근육돌이</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-25 17:49:57">07.25</span></td><td class="LikeCount"><span class="like_44">44</span></td><td class="ViewCount">2,345</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-25 17:49:57">07.25</span></td><td class="LikeCount"><span class="like_44">44</span></td><td class="ViewCount">2,347</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마케팅밈] 마케터가 사랑하는 방식]]></title>
@@ -228,7 +228,7 @@
         <updated>2022-07-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s25">25</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58269" title="블로그마케터란? 창작자"><span class="AB-LF-common">블로그마케터란? 창작자</span></a></span><span class="AB-comm">19</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-607464" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1633605797_40694.jpg" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>마케팅첫인상</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-21 22:03:28">07.21</span></td><td class="LikeCount"><span class="like_18">18</span></td><td class="ViewCount">655</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-21 22:03:28">07.21</span></td><td class="LikeCount"><span class="like_18">18</span></td><td class="ViewCount">656</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자영업자 카페는 대출받는 분위기네요;]]></title>
@@ -273,6 +273,6 @@
         <updated>2022-07-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s30">30</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-5637-50" title="이제는 듣는 말보다 보는 글에 집중하세요 👀"><span class="AB-LF-common">이제는 듣는 말보다 보는 글에 집중하세요 👀</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">7</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-608564" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1610603802_16370.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>큐레터</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-28 08:28:35">07.28</span></td><td class="LikeCount"><span class="like_15">15</span></td><td class="ViewCount">2,052</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-28 08:28:35">07.28</span></td><td class="LikeCount"><span class="like_15">15</span></td><td class="ViewCount">2,053</td>]]></content>
     </entry>
 </feed>
