@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 07:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 09:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[9월부터 카카오톡 채널 챗봇 일반상품 이용 요금 무료]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9263</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9263</guid>
+            <pubDate>Tue, 02 Aug 2022 09:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[9월부터 카카오톡 채널 `챗봇` 일반상품 이용 요금 무료  카카오가 카카오톡 채널 인공지능(AI) 대화형 인터페이스인 `챗봇` 서비스 일반 상품 이용 요금을 오는 9월 1일부터 무료로 제공한다고 2일 밝혔다.  챗봇은 채팅창 안에서  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_ade9e7952fb3465ab1f839e260323859_87009_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애피어, 미래 디지털 마케팅 이끌 핵심 키워드로 대화형 마케팅 제시]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9262</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9234</guid>
             <pubDate>Thu, 28 Jul 2022 11:15:00 GMT</pubDate>
             <content:encoded><![CDATA[현실과 가상을 넘나들며 브랜드 세계관을 확장해온MCM이M2O(모바일투오프라인)콘셉트의 복합 문화 플랫폼을 열고Z세대와 소통의 폭을 넓힌다. 글로벌 럭셔리 패션 하우스MCM이 오는7월29일 컬렉터블(Collectible) NFT플랫폼meta[Z](메타 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[서울산업진흥원, 대시민 아이디어 공모 공간 데저트리(DeserTree)오픈]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9233</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9233</guid>
-            <pubDate>Thu, 28 Jul 2022 11:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[서울시 중소기업 지원기관 서울산업진흥원(SBA, 대표이사 김현우)은 본사 1층 유휴공간의 효과적 활용을 위해 시행한 SBA 쇼미더스페이스 당선 아이디어가 구현된공간 데저트리(DeserTree)를 오픈했다고 밝혔다. SBA 쇼미더스페이스  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
