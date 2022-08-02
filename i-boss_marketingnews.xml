@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 22:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 23:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[8월 3일 마케팅 뉴스클리핑] AI가 원하는 장면 찾아준다... 네이버 장면 탐색 검색 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9264</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9264</guid>
+            <pubDate>Wed, 03 Aug 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. AI가 원하는 장면 찾아준다... 네이버 `장면 탐색` 검색  네이버가 사용자가 원하는 장면으로 쉽고 빠르게 이동할 수 있는 `장면 탐색` 기능을 내놓았다. 검색어와 관련성 높은 장면을 인공지능이 자동으로 보여준다. 네이버는  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8a1754d5599d9b03fecccc06d29d5ff9_59993_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[9월부터 카카오톡 채널 챗봇 일반상품 이용 요금 무료]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9263</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9236</guid>
             <pubDate>Thu, 28 Jul 2022 08:25:49 GMT</pubDate>
             <content:encoded><![CDATA[방송통신위원회(위원장 한상혁, 이하 방통위)는 7월 28일(목) 김도연 교수 등 제4기 방송광고균형발전위원회 위원들에게 위촉장을 수여하고 첫 회의를 개최하였다. 방송광고균형발전위원회 위원은 방송광고판매대행 등에 관한  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[MCM x meta[Z], 복합문화 체험형 매장 메타지 가로수 오픈]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9234</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9234</guid>
-            <pubDate>Thu, 28 Jul 2022 11:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[현실과 가상을 넘나들며 브랜드 세계관을 확장해온MCM이M2O(모바일투오프라인)콘셉트의 복합 문화 플랫폼을 열고Z세대와 소통의 폭을 넓힌다. 글로벌 럭셔리 패션 하우스MCM이 오는7월29일 컬렉터블(Collectible) NFT플랫폼meta[Z](메타 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
