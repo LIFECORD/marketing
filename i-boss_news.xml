@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-08-02T23:19:50.334Z</updated>
+    <updated>2022-08-03T03:56:21.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네오위즈, 아이언소스 미디에이션 레벨플레이 도입으로 게임 ‘고양이와 스프’ 게임 수익 확대]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9267</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9267"/>
+        <updated>2022-08-03T03:56:01.165Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[해외 크리에이티브] 전설적인 광고 "임신한 남자"가 돌아오다]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9266</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9266"/>
+        <updated>2022-08-03T03:56:01.166Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인포그래픽] 미국, 2분기에 기술적 불황에 돌입]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9265</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9265"/>
+        <updated>2022-08-03T03:56:01.179Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[8월 3일 마케팅 뉴스클리핑] AI가 원하는 장면 찾아준다... 네이버 '장면 탐색' 검색 외]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9264</id>
@@ -193,26 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-9235"/>
         <updated>2022-07-28T23:22:25.209Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, 쿠키없는 미래를 더 지연시키다... 2024년까지 쿠키 폐지 연기]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9238</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9238"/>
-        <updated>2022-07-28T13:43:02.972Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KAI] 8월 광고 시장, 여름 축제와 함께 뜨겁다]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9237</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9237"/>
-        <updated>2022-07-28T08:26:01.073Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방통위, 제4기 방송광고균형발전위원회 위원 위촉... 첫 회의 개최]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9236</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9236"/>
-        <updated>2022-07-28T08:26:01.074Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
