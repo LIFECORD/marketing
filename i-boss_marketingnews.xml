@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 22:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 23:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[8월 4일 마케팅 뉴스클리핑] 인스타그램의 틱톡 따라하기 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9268</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9268</guid>
+            <pubDate>Thu, 04 Aug 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 인스타그램, 틱톡 좀 그만 따라해  틱톡에 Z세대 이용자를 대거 빼앗긴 인스타그램이 틱톡을 모방하려다 이용자들의 반발에 부딪혔다. 인스타그램은 무작위로 추천하는 짧은 영상을 보여주는 기능을 추가하겠다고 밝혔다. 이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16595399889691.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네오위즈, 아이언소스 미디에이션 레벨플레이 도입으로 게임 고양이와 스프 게임 수익 확대]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9267</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 29 Jul 2022 08:35:00 GMT</pubDate>
             <content:encoded><![CDATA[많은 사람이 함께 살아가는 사회 속에서 모든 갈등은 필연적으로 존재하기 마련이나 우리 사회의 갈등 문제는 더 과격해지고 있다.지난 대선에서도 드러났듯 성별과 세대별 갈등 문제는 갈수록 심각해지고 있고, 글로벌 경기  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[7월 29일 마케팅 뉴스클리핑] 메타, 사상 첫 분기 매출 감소... 불황에 광고수익 타격 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9235</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9235</guid>
-            <pubDate>Fri, 29 Jul 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 메타, 사상 첫 분기 매출 감소... 불황에 광고수익 타격  메타의 분기 매출이 사상 처음으로 감소했다. 메타는 2분기 288억 달러의 매출을 기록했다고 발표했다. 전년 대비 약 1% 줄었다. 67억 달러로 집계된 영업이익은 세 분기  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_ce0e7d93017f306d88db0d5a5a9f6410_95127_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
