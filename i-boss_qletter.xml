@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 23:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 01:46:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고객과의 소통을 돕는 서베이 툴 4가지]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1115152-%EA%B3%A0%EA%B0%9D%EA%B3%BC%EC%9D%98_%EC%86%8C%ED%86%B5%EC%9D%84_%EB%8F%95%EB%8A%94_%EC%84%9C%EB%B2%A0%EC%9D%B4_%ED%88%B4_4%EA%B0%80%EC%A7%80/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1115152-%EA%B3%A0%EA%B0%9D%EA%B3%BC%EC%9D%98_%EC%86%8C%ED%86%B5%EC%9D%84_%EB%8F%95%EB%8A%94_%EC%84%9C%EB%B2%A0%EC%9D%B4_%ED%88%B4_4%EA%B0%80%EC%A7%80/</guid>
+            <pubDate>Thu, 04 Aug 2022 01:45:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1115152-고객과의_소통을_돕는_서베이_툴_4가지/">
+						<div class="thumb"><img src="/images/qletter_1115152.png"></div>
+						<p><strong> 고객과의 소통을 돕는 서베이 툴 4가지</strong>2022.08.04</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1115152.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[비 내리는 광고 매체 성적표 ☔]]></title>
             <link>https://qletter.i-boss.co.kr/view/1108531-%EB%B9%84_%EB%82%B4%EB%A6%AC%EB%8A%94_%EA%B4%91%EA%B3%A0_%EB%A7%A4%EC%B2%B4_%EC%84%B1%EC%A0%81%ED%91%9C/</link>
@@ -127,17 +138,6 @@
 						<p><strong> 카카오가 그리는 메타버스, ‘카카오 유니버스’</strong>2022.06.20</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1045920.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[성공한 브랜드는 사라고 말하지 않는다]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1042373-%EC%84%B1%EA%B3%B5%ED%95%9C_%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%8A%94_%EC%82%AC%EB%9D%BC%EA%B3%A0_%EB%A7%90%ED%95%98%EC%A7%80_%EC%95%8A%EB%8A%94%EB%8B%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1042373-%EC%84%B1%EA%B3%B5%ED%95%9C_%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%8A%94_%EC%82%AC%EB%9D%BC%EA%B3%A0_%EB%A7%90%ED%95%98%EC%A7%80_%EC%95%8A%EB%8A%94%EB%8B%A4/</guid>
-            <pubDate>Thu, 16 Jun 2022 01:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1042373-성공한_브랜드는_사라고_말하지_않는다/">
-						<div class="thumb"><img src="/images/qletter_1042373.png"></div>
-						<p><strong> 성공한 브랜드는 사라고 말하지 않는다</strong>2022.06.16</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1042373.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
