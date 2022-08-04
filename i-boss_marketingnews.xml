@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 06:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 07:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페이스북, 라이브쇼핑 서비스 10월 종료]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9278</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9278</guid>
+            <pubDate>Thu, 04 Aug 2022 07:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[페이스북이 10월1일 라이브쇼핑 서비스를 종료한다. 페이스북의 모회사 메타는 3일(현지시간) 이같은 내용을 발표하며, 페이스북인스타그램의 릴스가 라이브쇼핑을 대체할 것이라고 공지했다.  라이브쇼핑은 실시간으로 시청자 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1c14a5588d0d287f0fd02ca42e923a80_16150_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부산국제광고제, 2030 부산세계박람회 유치 전략 포럼 등 마케팅광고디지털 주제로 콘퍼런스 개최]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9276</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9249</guid>
             <pubDate>Sun, 31 Jul 2022 09:37:00 GMT</pubDate>
             <content:encoded><![CDATA[이제 미국인 10명 중 8명 이상이디지털 기기를 통해서 앱, 팟캐스트또는 소셜 미디어 피드에서 뉴스를 접하고 있다. 지난 한 해 동안미국에서 가장 인기 있는 상위 25개 신문 중 단 한 곳만이 발행부수가 증가한 것은 더이상 놀라 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 사상 첫 분기 매출 감소]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9248</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9248</guid>
-            <pubDate>Sat, 30 Jul 2022 09:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[페이스북 모기업 메타의 분기 매출이 처음으로 감소하면서 비즈니스 모든 면에서 도전에 직면했다. 광고 수익이 4억 3천만 달러 감소하면서 메타의 매출은 1년 전 같은 분기의 291억 달러에서 288억 달러로 1% 감소했다.순이익은 66 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
