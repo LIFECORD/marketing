@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 06:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 07:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[런던국제어워즈 심사실(JUDGING ROOM) 엿보기]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9283</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9283</guid>
+            <pubDate>Fri, 05 Aug 2022 07:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[런던국제어워즈(London International Awards)은 쿼터, 사전심사, 편견 등 항상 많은 논란이 뒤따르고 있는 광고상 심사에 대한 의구심을 없애주기 위해, 금년 10월 라스베가스에서 열릴 심사과정을 모든 사람들에게 솔직하게 정확히 알 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[유통업계, MZ세대 취향 저격할 댄스 마케팅 인기]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9282</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 01 Aug 2022 08:52:00 GMT</pubDate>
             <content:encoded><![CDATA[숨 쉬듯 말하고 글을 쓰지만 머릿속에 떠오른 생각이 아무리 좋아도 막상 바깥으로 꺼내면 내용은 모호하고 상대에게 전달되지 못할 때도 부지기수다. 콘텐츠가 넘쳐나 나의 말과 글이 자연스럽게 스킵(Skip)되는 시대에, 스킵되 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[8월 1일 마케팅 뉴스클리핑] 백기든 메타, 동의 안 하면 서비스 중단 방침 철회 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9245</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9245</guid>
-            <pubDate>Mon, 01 Aug 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 백기든 메타, `동의 안 하면 서비스 중단` 방침 철회  메타가 `개인정보 처리방침에 동의하지 않으면 서비스 이용을 중지한다`는 방침을 철회했다. 국내 이용자들의 거센 반발을 의식한 조치로 풀이된다. 메타는 지난 26일까지  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_f351cce451b450c7dcafddf8553c2711_42577_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
