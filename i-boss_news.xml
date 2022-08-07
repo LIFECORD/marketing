@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-08-07T22:19:19.586Z</updated>
+    <updated>2022-08-07T23:18:43.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[8월 8일 마케팅 뉴스클리핑] 네이버, 2분기 매출 2조 원 돌파 외]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9281</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9281"/>
+        <updated>2022-08-07T23:18:19.210Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인포그래픽] 어느 나라가 맥주를 가장 많이 마실까?]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9291</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-9262</id>
         <link href="https://www.i-boss.co.kr/ab-2877-9262"/>
         <updated>2022-08-02T04:26:40.812Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국PR협회, 제30회 한국PR대상 공모... 9월 19일부터 10월 14일까지 한국PR협회 홈페이지 접수]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9261</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9261"/>
-        <updated>2022-08-02T04:26:40.813Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
