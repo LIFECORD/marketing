@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 23:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 01:43:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스타그램, NFT 기능 한국 포함 전 세계로 확대 도입]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9293</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9293</guid>
+            <pubDate>Mon, 08 Aug 2022 10:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[인스타그램이 자신이 발행하거나 소유한 NFT(대체 불가능 토큰) 작품을 게시할 수 있는 기능을 한국을 포함한 전 세계 100여 개 국가에 확대 도입한다. 본 기능은 아티스트 및 크리에이터를 대상으로 먼저 선보이며 향후 모든 이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_410356c79ce5bb6e5a20d04d16964bf9_19365_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 애드저스트는 항상 혁신의 최전선에 있겠습니다, 사이먼 바비 뒤사르 애드저스트 CEO]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9292</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9292</guid>
+            <pubDate>Mon, 08 Aug 2022 08:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계적으로 모바일 광고 시장은 가히 `격변기`라 불릴 만하다. 앱 생태계에전통적인 비즈니스들도 진입하며 경쟁이 치열해지고 있다. 여기에 애플 앱 추적 투명성(ATT) 정책 등 개인 정보 이슈에 대응하는 한편, 다양해진 매체 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[8월 8일 마케팅 뉴스클리핑] 네이버, 2분기 매출 2조 원 돌파 외]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9281</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 03 Aug 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. AI가 원하는 장면 찾아준다... 네이버 `장면 탐색` 검색  네이버가 사용자가 원하는 장면으로 쉽고 빠르게 이동할 수 있는 `장면 탐색` 기능을 내놓았다. 검색어와 관련성 높은 장면을 인공지능이 자동으로 보여준다. 네이버는  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8a1754d5599d9b03fecccc06d29d5ff9_59993_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9월부터 카카오톡 채널 챗봇 일반상품 이용 요금 무료]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9263</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9263</guid>
-            <pubDate>Tue, 02 Aug 2022 09:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[9월부터 카카오톡 채널 `챗봇` 일반상품 이용 요금 무료  카카오가 카카오톡 채널 인공지능(AI) 대화형 인터페이스인 `챗봇` 서비스 일반 상품 이용 요금을 오는 9월 1일부터 무료로 제공한다고 2일 밝혔다.  챗봇은 채팅창 안에서  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_ade9e7952fb3465ab1f839e260323859_87009_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애피어, 미래 디지털 마케팅 이끌 핵심 키워드로 대화형 마케팅 제시]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9262</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9262</guid>
-            <pubDate>Tue, 02 Aug 2022 11:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 인공지능(AI) 서비스형 소프트웨어(SaaS) 기업 애피어(Appier Group Inc, TSE: 4180)가 인터내셔날데이터코퍼레이션(이하 IDC)이 진행하는 팟캐스트 방송에서 향후 디지털 마케팅에서의 애피어의 미래 전망과, 여기에서 대화형 마 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
