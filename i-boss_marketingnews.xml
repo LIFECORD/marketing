@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 21:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 23:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[8월 9일 마케팅 뉴스클리핑] 카카오 비즈보드, 친구 탭까지 도입 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9294</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9294</guid>
+            <pubDate>Tue, 09 Aug 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 카카오 비즈보드, 친구 탭까지 도입  카카오가 비즈보드를 친구탭까지 확장한다. 지금까지는 채팅목록 탭의 최상단에서만 서비스했지만, 조만간 친구탭의 상단에서도 보게 될 전망이다. 다만, 카카오는 대화 흐름을 방해하지 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8d33d6a2fd6a717ab675f365aa05765f_57232_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인스타그램, NFT 기능 한국 포함 전 세계로 확대 도입]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9293</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 03 Aug 2022 08:30:00 GMT</pubDate>
             <content:encoded><![CDATA[미국 경제는 2022년 2분기에 기술적 불황에 접어들었다고 스태티스타는 보도했다. 미국 경제분석국(Bureau of Economic Analysis)이 발표한 2분기 실질 GDP는0.9% 감소했다. 1분기에 경제는 이미 1.6%하락했다. 그러나 스태티스타는 현재의  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[8월 3일 마케팅 뉴스클리핑] AI가 원하는 장면 찾아준다... 네이버 장면 탐색 검색 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9264</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9264</guid>
-            <pubDate>Wed, 03 Aug 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. AI가 원하는 장면 찾아준다... 네이버 `장면 탐색` 검색  네이버가 사용자가 원하는 장면으로 쉽고 빠르게 이동할 수 있는 `장면 탐색` 기능을 내놓았다. 검색어와 관련성 높은 장면을 인공지능이 자동으로 보여준다. 네이버는  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8a1754d5599d9b03fecccc06d29d5ff9_59993_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
