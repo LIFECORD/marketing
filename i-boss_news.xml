@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-08-09T06:25:46.922Z</updated>
+    <updated>2022-08-09T07:18:01.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[루트임팩트, 구글닷오알지 지원으로 청년 직무역량 강화 위한 ‘임팩트캠퍼스’ 시즌2 운영]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9303</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9303"/>
+        <updated>2022-08-09T07:17:42.994Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BC카드, 수도권 폭우 피해 지원... 카드 대금 최대 6개월 청구 유예]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9301</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9301"/>
+        <updated>2022-08-09T07:17:42.995Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리마, ‘디자인 만족도 상위 여성패션 쇼핑몰’ 발표]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9300</id>
@@ -199,20 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-9273</id>
         <link href="https://www.i-boss.co.kr/ab-2877-9273"/>
         <updated>2022-08-04T01:46:21.091Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오, 소상공인 디지털 마케팅 지원 나선다... 카카오톡 채널 메시지 발송 비용 지원]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9272</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9272"/>
-        <updated>2022-08-04T01:46:21.091Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메조미디어, 국내 미디어렙 최초 '앱스플라이어' 파트너사 선정]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9271</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9271"/>
-        <updated>2022-08-04T01:46:21.099Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
