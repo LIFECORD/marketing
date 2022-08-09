@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 22:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 23:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[8월 10일 마케팅 뉴스클리핑] 인스타그램에 NFT 작품 게시 가능해져 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9302</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9302</guid>
+            <pubDate>Wed, 10 Aug 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 인스타그램에 NFT 작품 게시 가능해져  인스타그램이 NFT 작품을 게시할 수 있는 기능을 한국 포함 전 세계에 확대 도입한다. 아티스트 및 크리에이터를 대상으로 먼저 선보이며, 향후 모든 이용자가 사용할 수 있도록 순차 확 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_3aec573d6d5109795265f8c5849e089a_28925_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[루트임팩트, 구글닷오알지 지원으로 청년 직무역량 강화 위한 임팩트캠퍼스 시즌2 운영]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9303</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9274</guid>
             <pubDate>Thu, 04 Aug 2022 09:17:00 GMT</pubDate>
             <content:encoded><![CDATA[업계에서 가장 신뢰받는 데이터 및 분석 플랫폼data.ai(구 앱애니)가 전 세계 식음료 앱 시장의 트렌드와 변화를 분석한 보고서 2022년 식음료 모바일 앱 시장 현황을 발간했다. data.ai의App IQ에 기반한 해당 보고서에 따르면 올해3월 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[크래프톤, 버추얼 휴먼 애나(ANA) 세계관 공개]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9273</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9273</guid>
-            <pubDate>Thu, 04 Aug 2022 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[㈜크래프톤(대표김창한)이버추얼휴먼애나(ANA)만의독특한세계관과 애나의 일상을 담은 숏폼 콘텐츠를 공개했다. 애나는음악과엔터테인먼트를통해세상에긍정적인영향력을전달하는긍정에너지전도사다.게임과노래,춤,패션을좋 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
