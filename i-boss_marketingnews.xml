@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 03:06:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 04:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오, 정기구독 플랫폼 구독ON 서비스 1년 만에 종료]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9309</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9309</guid>
+            <pubDate>Wed, 10 Aug 2022 00:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[카카오가 지난해 6월 출시한 정기구독 플랫폼 구독온(ON) 서비스를 종료한다.  구독온은 카카오가 지난해 6월 플랫폼들 사이에서 구독 경제 열풍이 불 때 시작한 상품 서비스 정기구독 서비스다. 현재 구독온 서비스는 카카오 전 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[지금은 무지출, 짠테크 시대... 플렉스, 욜로는 옛말]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9308</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9280</guid>
             <pubDate>Fri, 05 Aug 2022 08:45:00 GMT</pubDate>
             <content:encoded><![CDATA[국내 데이터 부문 최초의 유니콘 아이지에이웍스가 성공적인IPO(기업공개)를 위해 본격적으로 나선다. 국내 최대 빅데이터 플랫폼 기업 아이지에이웍스(대표 마국성)는IPO대표주관사인 미래에셋증권에 이어 공동주관사로 삼성 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 소비자가 소셜 커머스에서 가장 신뢰하는 소셜 플랫폼은?]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9279</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9279</guid>
-            <pubDate>Fri, 05 Aug 2022 08:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[이제 소셜 미디어는 커머스에서도 중요한 플랫폼이 되고 있다. 소비자는 소셜 미디어에서 제품을 찾고 구매하고 있다. 그렇다면 소비자는 어떤 소셜 플랫폼을 가장 신뢰하고 있을까? 인사이더 인텔리전스에 따르면, 미국에서소 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
