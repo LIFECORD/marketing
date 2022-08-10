@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 22:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 23:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[8월 11일 마케팅 뉴스클리핑] 카카오 구독ON, 1년 만에 OFF 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9311</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9311</guid>
+            <pubDate>Thu, 11 Aug 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 카카오 구독ON, 1년 만에 `OFF`  카카오가 `카카오 구독온(ON)`을 출시 1년 만에 종료하고, 새로운 구독 서비스 운영 방안을 마련하기로 했다. 다양한 구독 서비스를 구독ON에서 한 번에 모아 보여주는 방법 대신, 선물하기쇼핑하기 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_68dfc7073817e0977ad389e2a1b2bc12_96965_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국광고주협회-닐슨미디어코리아 업무협약 체결]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9310</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9283</guid>
             <pubDate>Fri, 05 Aug 2022 07:17:46 GMT</pubDate>
             <content:encoded><![CDATA[런던국제어워즈(London International Awards)은 쿼터, 사전심사, 편견 등 항상 많은 논란이 뒤따르고 있는 광고상 심사에 대한 의구심을 없애주기 위해, 금년 10월 라스베가스에서 열릴 심사과정을 모든 사람들에게 솔직하게 정확히 알 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[유통업계, MZ세대 취향 저격할 댄스 마케팅 인기]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9282</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9282</guid>
-            <pubDate>Fri, 05 Aug 2022 06:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[유통업계, 짜릿한 리듬의 중독성 강한 광고로 MZ세대 취향 저격 코카콜라, 씨그램 짜릿함 새롭게 전할 모델 YGX댄서 리정 선정   유통업계에 MZ세대 취향 저격할 짜릿한 댄스를 활용한 댄스 마케팅이 인기를 끌고 있다. 지난해부터 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
