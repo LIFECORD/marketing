@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-08-11T22:18:42.207Z</updated>
+    <updated>2022-08-11T23:19:43.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[8월 12일 마케팅 뉴스클리핑] 카카오, 1:1 오픈채팅에 송금 기능 추가 외]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9316</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9316"/>
+        <updated>2022-08-11T23:19:22.091Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디즈니플러스, 구독료 인상 예고... 12월 광고 포함 옵션 상품 출시]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9315</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-9288</id>
         <link href="https://www.i-boss.co.kr/ab-2877-9288"/>
         <updated>2022-08-07T03:24:23.702Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방통위, ‘2022년 디지털윤리 창작콘텐츠 공모전’]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9287</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9287"/>
-        <updated>2022-08-06T01:39:54.654Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>

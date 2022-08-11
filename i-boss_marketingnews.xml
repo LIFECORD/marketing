@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 22:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 23:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[8월 12일 마케팅 뉴스클리핑] 카카오, 1:1 오픈채팅에 송금 기능 추가 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9316</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9316</guid>
+            <pubDate>Fri, 12 Aug 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 카카오, 1:1 오픈채팅에 송금 기능 추가  카카오가 지난달부터 오픈채팅에서 송금 기능을 베타로 제공 중이라고 밝혔다. 카카오는 베타 기간 소비자 의견을 취합해 서비스를 개선한 뒤, 해당 기능의 정식 출시 시점을 정할 방 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a71eeb77316588726f942896f5b71d68_57070_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디즈니플러스, 구독료 인상 예고... 12월 광고 포함 옵션 상품 출시]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9315</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9288</guid>
             <pubDate>Sun, 07 Aug 2022 09:28:00 GMT</pubDate>
             <content:encoded><![CDATA[코로나로 인해 바뀐 것 중 하나가 바로 음주 문화다. 영업 제한 등으로 인해 매장 보다는 가정에서의 음주가 증가한 것. 실제로 스태티스타의 소비자 시장 전망에 따르면, 팬데믹 이전 보다 더 많은 사람이 집에서 맥주를 마시는 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[방통위, 2022년 디지털윤리 창작콘텐츠 공모전]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9287</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9287</guid>
-            <pubDate>Sat, 06 Aug 2022 10:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[방송통신위원회(위원장 한상혁, 이하 방통위)는 전 국민의 디지털윤리 역량 강화를 위한 2022년 디지털윤리 창작콘텐츠 공모전을 개최하여, 9월 30일까지 콘텐츠를 접수(www.아인세.kr)한다고 밝혔다. 최근 디지털 기술의 발전과 코 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
