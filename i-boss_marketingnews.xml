@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 04:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 05:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니플러스, 구독료 인상 예고... 12월 광고 포함 옵션 상품 출시]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9315</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9315</guid>
+            <pubDate>Thu, 11 Aug 2022 05:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[기존처럼 광고 없는 요금제 10.99달러로 인상 훌루ESPN+까지 합친 가입자 2억2110만명... 넷플릭스 제쳐   온라인 동영상 스트리밍(OTT) 서비스 디즈니플러스가 오는 12월 광고가 포함된 새 요금제를 내놓기로 했다. 이에 따라 기존처 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[앱러빈, 구보람 신임 APAC 비즈니스 개발 총괄 부장 선임]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9314</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9287</guid>
             <pubDate>Sat, 06 Aug 2022 10:03:00 GMT</pubDate>
             <content:encoded><![CDATA[방송통신위원회(위원장 한상혁, 이하 방통위)는 전 국민의 디지털윤리 역량 강화를 위한 2022년 디지털윤리 창작콘텐츠 공모전을 개최하여, 9월 30일까지 콘텐츠를 접수(www.아인세.kr)한다고 밝혔다. 최근 디지털 기술의 발전과 코 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 라이언&춘식의 라춘댄스 시즌2 공개... K팝 인플루언서로서의 활동 본격화]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9286</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9286</guid>
-            <pubDate>Sat, 06 Aug 2022 09:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[아이돌 커버댄스로 지난해 여름을 뜨겁게 달군 `라춘듀오`가 휴식기를 마치고 시즌2로 컴백한다. 카카오(각자대표 남궁훈, 홍은택)는 지난 5일 라이언 인스타그램 등 SNS에서 라이언&amp;춘식(이하 라춘듀오)의 라춘댄스 시즌2를 공개 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
