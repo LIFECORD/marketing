@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 23:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 01:41:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[광고주와 대화만 하면 머리가 하얘져요]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1125022-%EA%B4%91%EA%B3%A0%EC%A3%BC%EC%99%80_%EB%8C%80%ED%99%94%EB%A7%8C_%ED%95%98%EB%A9%B4_%EB%A8%B8%EB%A6%AC%EA%B0%80_%ED%95%98%EC%96%98%EC%A0%B8%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1125022-%EA%B4%91%EA%B3%A0%EC%A3%BC%EC%99%80_%EB%8C%80%ED%99%94%EB%A7%8C_%ED%95%98%EB%A9%B4_%EB%A8%B8%EB%A6%AC%EA%B0%80_%ED%95%98%EC%96%98%EC%A0%B8%EC%9A%94/</guid>
+            <pubDate>Thu, 11 Aug 2022 01:40:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1125022-광고주와_대화만_하면_머리가_하얘져요/">
+						<div class="thumb"><img src="/images/qletter_1125022.png"></div>
+						<p><strong>광고주와 대화만 하면 머리가 하얘져요</strong>2022.08.11</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1125022.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한물간 줄 알았던 네이버 블로그의 부활]]></title>
             <link>https://qletter.i-boss.co.kr/view/1118379-%ED%95%9C%EB%AC%BC%EA%B0%84_%EC%A4%84_%EC%95%8C%EC%95%98%EB%8D%98_%EB%84%A4%EC%9D%B4%EB%B2%84_%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9D%98_%EB%B6%80%ED%99%9C/</link>
@@ -127,17 +138,6 @@
 						<p><strong>이커머스가 멤버십에 꽂힌 이유 🎯</strong>2022.06.27</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1055565.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[갑자기 자사 블로그를 운영하래요...😥]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1052686-%EA%B0%91%EC%9E%90%EA%B8%B0_%EC%9E%90%EC%82%AC_%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC_%EC%9A%B4%EC%98%81%ED%95%98%EB%9E%98%EC%9A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1052686-%EA%B0%91%EC%9E%90%EA%B8%B0_%EC%9E%90%EC%82%AC_%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC_%EC%9A%B4%EC%98%81%ED%95%98%EB%9E%98%EC%9A%94/</guid>
-            <pubDate>Thu, 23 Jun 2022 01:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1052686-갑자기_자사_블로그를_운영하래요/">
-						<div class="thumb"><img src="/images/qletter_1052686.png"></div>
-						<p><strong>갑자기 자사 블로그를 운영하래요...😥</strong>2022.06.23</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1052686.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
