@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-1886</id>
     <title>아이보스 ─ 인기글</title>
-    <updated>2022-08-12T20:19:44.497Z</updated>
+    <updated>2022-08-12T21:17:29.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
     <entry>
@@ -138,7 +138,7 @@
         <updated>2022-07-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s15">15</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58302" title="페이스북 앞으로 몰락의 길로 갈 수밖에 없습니다. "><span class="AB-LF-common">페이스북 앞으로 몰락의 길로 갈 수밖에 없습니다. </span></a></span><span class="AB-comm">17</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-608623" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/template/DESIGN_shared/program/theme/01/THUMBNAIL_144_144_icon_rep_box.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>도로롱롱</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-28 06:15:09">07.28</span></td><td class="LikeCount"><span class="like_29">29</span></td><td class="ViewCount">1,766</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-28 06:15:09">07.28</span></td><td class="LikeCount"><span class="like_29">29</span></td><td class="ViewCount">1,767</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신입의 고비인걸까요? + 면담 후 이야기 추가]]></title>
@@ -210,7 +210,7 @@
         <updated>2022-08-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s23">23</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58335" title="[카피꿀팁#2] 잘못 따라하면 매출 하락하는 카피"><span class="AB-LF-common">[카피꿀팁#2] 잘못 따라하면 매출 하락하는 카피</span></a></span><span class="AB-comm">21</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-609728" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1614081596_81862.jpg" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>언카피</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-08-02 12:16:28">08.02</span></td><td class="LikeCount"><span class="like_22">22</span></td><td class="ViewCount">1,175</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-08-02 12:16:28">08.02</span></td><td class="LikeCount"><span class="like_22">22</span></td><td class="ViewCount">1,176</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이제는 듣는 말보다 보는 글에 집중하세요 👀]]></title>
@@ -273,6 +273,6 @@
         <updated>2022-07-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s30">30</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58269" title="블로그마케터란? 창작자"><span class="AB-LF-common">블로그마케터란? 창작자</span></a></span><span class="AB-comm">19</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-607464" link="/ab-5108&amp;AJAX=Y" offset="1">
 <img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1633605797_40694.jpg" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>마케팅첫인상</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-21 22:03:28">07.21</span></td><td class="LikeCount"><span class="like_20">20</span></td><td class="ViewCount">791</td>]]></content>
+</div></td><td class="DateTime"><span class="bstip" data-tip="2022-07-21 22:03:28">07.21</span></td><td class="LikeCount"><span class="like_20">20</span></td><td class="ViewCount">792</td>]]></content>
     </entry>
 </feed>
