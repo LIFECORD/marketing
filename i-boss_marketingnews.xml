@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 01:44:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 03:30:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오톡 변신 시작됐다...친구탭에 광고 도입]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9321</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9321</guid>
+            <pubDate>Fri, 12 Aug 2022 11:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[카카오 남궁훈 대표가 선언했던 카카오톡 변신이 본격화된다. 시작은 `광고` 사업 확장이다. 카카오는 카카오톡 광고판으로 불리는 `비즈보드`를 친구탭에 확대 적용하며 출발선을 끊었다. 그동안 비즈보드는 카카오톡 대화 목 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d064b9d369103e596ea94bdd9607dfcb_73984_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[data.ai, 2022년 2분기 전 세계 게이머들 모바일 게임 140억 건 다운로드 받고 28조 원 소비해]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9320</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 08 Aug 2022 08:28:00 GMT</pubDate>
             <content:encoded><![CDATA[전 세계적으로 모바일 광고 시장은 가히 `격변기`라 불릴 만하다. 앱 생태계에전통적인 비즈니스들도 진입하며 경쟁이 치열해지고 있다. 여기에 애플 앱 추적 투명성(ATT) 정책 등 개인 정보 이슈에 대응하는 한편, 다양해진 매체 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[8월 8일 마케팅 뉴스클리핑] 네이버, 2분기 매출 2조 원 돌파 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9281</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9281</guid>
-            <pubDate>Mon, 08 Aug 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 네이버, 2분기 매출 2조 원 돌파  네이버가 올해 2분기 매출 2조 458억 원, 영업이익 3,362억 원을 기록했다고 밝혔다. 각각 전년 동기 대비 23.0%, 0.2% 증가한 수치다. 서치플랫폼 매출은 전년 동기 대비 9.3% 성장했고, 커머스 매출은 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16596808647243.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
