@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-08-11T23:19:43.018Z</updated>
+    <updated>2022-08-12T01:44:18.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[data.ai, “2022년 2분기 전 세계 게이머들 모바일 게임 140억 건 다운로드 받고 28조 원 소비해”]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9320</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9320"/>
+        <updated>2022-08-12T01:43:54.948Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘우리동네 핫플 사진 공모전’ 9월 7일(수)까지 개최... 총상금 3000만원]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9319</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9319"/>
+        <updated>2022-08-12T01:43:54.949Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[해외 크리에이티브] 포켓몬고, 3D 옥외광고로 고양이의 날을 축하하다]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9318</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9318"/>
+        <updated>2022-08-12T01:43:54.950Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인포그래픽] 지난 10년간 국가별 전기 자동차 판매량]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9317</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9317"/>
+        <updated>2022-08-12T01:43:54.954Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[8월 12일 마케팅 뉴스클리핑] 카카오, 1:1 오픈채팅에 송금 기능 추가 외]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9316</id>
@@ -186,33 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-9281"/>
         <updated>2022-08-07T23:18:19.210Z</updated>
         <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인포그래픽] 어느 나라가 맥주를 가장 많이 마실까?]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9291</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9291"/>
-        <updated>2022-08-07T03:24:23.699Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인포그래픽] 커넥티드 피트니스 사용 현황]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9290</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9290"/>
-        <updated>2022-08-07T03:24:23.700Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[해외 크리에이티브] 나이키, 예술적 창의성으로 스포츠 상상력의 경계를 허물다]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9289</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9289"/>
-        <updated>2022-08-07T03:24:23.701Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인포그래픽] 코로나 이후 맥주 마시는 습관은 어떻게 변했을까?]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9288</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9288"/>
-        <updated>2022-08-07T03:24:23.702Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
