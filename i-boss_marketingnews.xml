@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 22:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 23:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[8월 16일 마케팅 뉴스클리핑] 카카오톡 친구탭에 광고 도입 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9322</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9322</guid>
+            <pubDate>Tue, 16 Aug 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 카카오톡 `친구탭`에 광고 도입  카카오는 카카오톡 광고판으로 불리는 `비즈보드`를 지난 12일 친구탭에 확대 적용했다. 광고주들의 커버리지 확장 요청 및 다양한 요구 충족을 위해 논의를 거쳐 친구탭에도 적용하게 됐다면 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a15c7c72924ce50a5e33b763d67e3356_68783_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 트레이드 데스크, 2Q 실적 전년 동기간 대비 35% 매출 성장... CTV, 유니파이드 ID 2.0 등 주요 부문에서 상승세 지속]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9332</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9303</guid>
             <pubDate>Tue, 09 Aug 2022 07:17:31 GMT</pubDate>
             <content:encoded><![CDATA[소셜벤처 중간지원조직 루트임팩트(대표 허재형)가 진행하는 청년 직무 역량 강화 사업 임팩트캠퍼스(Impact Campus)가 작년에 이어 올해도 구글의 사회공헌 조직인 구글닷오알지(Google.org)로 부터11억원(100만 달러)의 지원을 받아  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[BC카드, 수도권 폭우 피해 지원... 카드 대금 최대 6개월 청구 유예]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9301</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9301</guid>
-            <pubDate>Tue, 09 Aug 2022 07:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[BC카드(대표이사 사장 최원석)가 지난8일 수도권 등 중부지방 폭우 피해 고객 및 가맹점주 대상으로 금융지원책을 마련해 실시한다. 먼저 카드결제대금을 최대6개월까지 청구 유예 받을 수 있다. BC카드로 결제한 일시불,할부,단 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
