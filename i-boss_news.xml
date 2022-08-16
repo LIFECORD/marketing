@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-08-16T01:57:20.098Z</updated>
+    <updated>2022-08-16T03:48:54.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지그재그 '라이프관' 정식 오픈... 600여개 브랜드 입점]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9338</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9338"/>
+        <updated>2022-08-16T03:48:31.496Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[불황 속 커피 전문점 결제 규모 코로나 이전보다 더 커져]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9337</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-9308</id>
         <link href="https://www.i-boss.co.kr/ab-2877-9308"/>
         <updated>2022-08-10T01:38:52.278Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[틱톡, 국내 스타트업∙중소기업에 추석 마케팅 전략을 공유한다]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9307</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9307"/>
-        <updated>2022-08-10T01:38:52.282Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 01:57:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 03:48:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지그재그 라이프관 정식 오픈... 600여개 브랜드 입점]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9338</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9338</guid>
+            <pubDate>Tue, 16 Aug 2022 11:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[패션, 뷰티 쇼핑 빅데이터 연계한 개인 맞춤형 라이프 상품 추천  카카오스타일이 운영하는 스타일 커머스 플랫폼 지그재그가 가구, 가전 등 라이프 상품들을 모아 판매하는 라이프관`을 16일 정식 오픈했다.   지그재그 라이프 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_21d5f82479428a27ec9e974646e28108_64201_1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[불황 속 커피 전문점 결제 규모 코로나 이전보다 더 커져]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9337</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9308</guid>
             <pubDate>Wed, 10 Aug 2022 09:18:00 GMT</pubDate>
             <content:encoded><![CDATA[2021년 하반기부터 2022년 상반기까지 소비 행태에 대한 빅데이터를 분석 결과, 소비를 극단적으로 줄이는 무지출과 무소비 언급량은 30% 증가한 반면에 명품 소비를 지칭하는 플렉스, 욜로 언급량은 11% 하락한 것으로 나타났다.  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡, 국내 스타트업중소기업에 추석 마케팅 전략을 공유한다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9307</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9307</guid>
-            <pubDate>Wed, 10 Aug 2022 08:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 숏폼 모바일 비디오 플랫폼 틱톡(TikTok)은 추석 연휴기간을 타깃으로 마케팅을 준비하는 국내 스타트업 및 중소형 규모 기업을 위한 웨비나 `추석 온 틱톡(Chuseok on TikTok)`을 오는 11일 오후 2시 줌(Zoom)을 통해 개최한다. 이 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
