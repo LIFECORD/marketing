@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 06:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 07:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[교감형 디지털광고 급부상]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9340</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9340</guid>
+            <pubDate>Tue, 16 Aug 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[스마트폰으로 콘텐츠 시청이 일상화되면서 사용자에게 실제와 같은 경험을 선사하는 인터렉티브 동영상이 주목을 받고 있다. 인터렉티브 동영상이란 스마트폰 화면에 손가락을 갖다 대고 재생 중인 영상을 조작하면 다양한 기 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[지그재그 라이프관 정식 오픈... 600여개 브랜드 입점]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9338</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9309</guid>
             <pubDate>Wed, 10 Aug 2022 00:30:00 GMT</pubDate>
             <content:encoded><![CDATA[카카오가 지난해 6월 출시한 정기구독 플랫폼 구독온(ON) 서비스를 종료한다.  구독온은 카카오가 지난해 6월 플랫폼들 사이에서 구독 경제 열풍이 불 때 시작한 상품 서비스 정기구독 서비스다. 현재 구독온 서비스는 카카오 전 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[지금은 무지출, 짠테크 시대... 플렉스, 욜로는 옛말]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9308</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9308</guid>
-            <pubDate>Wed, 10 Aug 2022 09:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 하반기부터 2022년 상반기까지 소비 행태에 대한 빅데이터를 분석 결과, 소비를 극단적으로 줄이는 무지출과 무소비 언급량은 30% 증가한 반면에 명품 소비를 지칭하는 플렉스, 욜로 언급량은 11% 하락한 것으로 나타났다.  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
