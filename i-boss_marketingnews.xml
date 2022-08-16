@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 22:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 23:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[8월 17일 마케팅 뉴스클리핑] 애플, 자체 지도 앱부터 광고 확대할 듯 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9339</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9339</guid>
+            <pubDate>Wed, 17 Aug 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 애플, 자체 지도 앱부터 광고 확대할 듯  애플이 자체 지도 앱인 `애플 맵스`를 시작으로 각종 서비스에 광고를 실을 것으로 보인다. 사용자들이 지도 앱에서 특정 지역의 식당, 매장 등을 검색하면 광고비를 지불한 곳이 검색  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8ed90bd4fcfbca7e55144500bf1ca224_37775_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[교감형 디지털광고 급부상]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9340</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9310</guid>
             <pubDate>Wed, 10 Aug 2022 07:17:36 GMT</pubDate>
             <content:encoded><![CDATA[한국광고주협회(회장 최선목)와 닐슨미디어코리아(대표 조선국)는 8월 10일 오후 3시 한국프레스센터에서데이터 기반의 투명한 광고시장 조성을 위한 업무협약(MOU)을 체결했다고 밝혔다. 이번 협약을 통해 양 사는통합 시청 지 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 정기구독 플랫폼 구독ON 서비스 1년 만에 종료]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9309</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9309</guid>
-            <pubDate>Wed, 10 Aug 2022 00:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[카카오가 지난해 6월 출시한 정기구독 플랫폼 구독온(ON) 서비스를 종료한다.  구독온은 카카오가 지난해 6월 플랫폼들 사이에서 구독 경제 열풍이 불 때 시작한 상품 서비스 정기구독 서비스다. 현재 구독온 서비스는 카카오 전 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
