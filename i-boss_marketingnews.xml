@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 22:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 23:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[8월 18일 마케팅 뉴스클리핑] 공정위, 뒷 광고거짓 후기 감시 강화 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9347</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9347</guid>
+            <pubDate>Thu, 18 Aug 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 공정위, 뒷 광고거짓 후기 감시 강화  공정위가 SNS 뒷광고, 거짓 후기 등 다크 패턴에 대한 감시를 강화한다. 게임 아이템, 명품 커머스 등과 셀프빨래방, 배달앱 등 생활여가 품목의 불공정 행위약관 등을 시정한다. 소비자가  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d228228169d319e501fb1a8571c8cd4e_49153_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코리아센터-다나와 합병... 이커머스 덩치 키운다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9348</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9318</guid>
             <pubDate>Fri, 12 Aug 2022 08:37:00 GMT</pubDate>
             <content:encoded><![CDATA[포켓몬 컴퍼니는세계 고양이의 날을 기념해서 일본 신주쿠에 있는 크로스 비전 광고판에 특별 프로모션 캠페인을 진행한다. 크로스 신주쿠 비전 광고판에는 피카츄(Pikachu), 나옹(Meowth), 알로라나옹(Alolan Meowth), 가라르나옹(Galaria ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 지난 10년간 국가별 전기 자동차 판매량]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9317</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9317</guid>
-            <pubDate>Fri, 12 Aug 2022 08:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[지구 곳곳에서 일어나고 있는 이상 기후는 사람에게 환경에 대한 관심을 불러일으키고 환경 보호를 위한 행동에 나서게 하고 있다. 그 중 하나가 내연기관 자동차 대신 전기 자동차를 구입, 사용하는 것도 있다. 또한많은 자동 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
