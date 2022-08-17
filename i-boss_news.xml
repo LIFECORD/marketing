@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-08-17T07:17:38.209Z</updated>
+    <updated>2022-08-17T08:26:06.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코리아센터-다나와 합병... 이커머스 덩치 키운다]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9348</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9348"/>
+        <updated>2022-08-17T08:25:44.093Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카카오톡 프로필에 SNS처럼 좋아요 생긴다]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9346</id>
@@ -207,12 +214,5 @@
         <link href="https://www.i-boss.co.kr/ab-2877-9317"/>
         <updated>2022-08-12T01:43:54.954Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[8월 12일 마케팅 뉴스클리핑] 카카오, 1:1 오픈채팅에 송금 기능 추가 외]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9316</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9316"/>
-        <updated>2022-08-11T23:19:22.091Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
     </entry>
 </feed>
