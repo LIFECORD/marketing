@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 02:02:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 04:03:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오톡 프로필에 SNS처럼 좋아요 생긴다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9346</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9346</guid>
+            <pubDate>Wed, 17 Aug 2022 00:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[카카오가 `카카오톡` 프로필에 공감을 표시하는 기능을 강화해 인터랙티브 공간으로 변신시킨다는 계획이다.   카카오는 카카오톡 상단 탭의 프로필과 오픈채팅을 강화하는 하반기 사업전략을 밝히면서, 인스타그램이나 페이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_f204732f2cb4a7812bc6155fc6f14ef7_31616_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[닐슨코리아, 2022년 상반기 아태지역 20대 광고주 및 업종별 광고비 지출 규모 발표]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9345</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 12 Aug 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 카카오, 1:1 오픈채팅에 송금 기능 추가  카카오가 지난달부터 오픈채팅에서 송금 기능을 베타로 제공 중이라고 밝혔다. 카카오는 베타 기간 소비자 의견을 취합해 서비스를 개선한 뒤, 해당 기능의 정식 출시 시점을 정할 방 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a71eeb77316588726f942896f5b71d68_57070_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니플러스, 구독료 인상 예고... 12월 광고 포함 옵션 상품 출시]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9315</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9315</guid>
-            <pubDate>Thu, 11 Aug 2022 05:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[기존처럼 광고 없는 요금제 10.99달러로 인상 훌루ESPN+까지 합친 가입자 2억2110만명... 넷플릭스 제쳐   온라인 동영상 스트리밍(OTT) 서비스 디즈니플러스가 오는 12월 광고가 포함된 새 요금제를 내놓기로 했다. 이에 따라 기존처 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
