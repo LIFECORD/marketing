@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-08-18T01:59:37.802Z</updated>
+    <updated>2022-08-18T04:06:44.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[런던국제어워즈 2022, 알리 레즈(임팩트 BBDO CCO) TV/시네마 및 온라인 필름 심사위원장 선짐]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9359</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9359"/>
+        <updated>2022-08-18T04:06:20.932Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Nielsen Digital Now] 지금 한국은 ‘이상한 변호사 우영우’ 열풍... ENA 버즈량 169% 증가, 시즌 주간 순이용자 44% 증가]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9358</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9358"/>
+        <updated>2022-08-18T04:06:20.933Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국콘텐츠진흥원, ‘게임더하기 지원사업’, 3차 협력사 모집]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9357</id>
@@ -199,20 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-9331</id>
         <link href="https://www.i-boss.co.kr/ab-2877-9331"/>
         <updated>2022-08-15T01:54:55.432Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[덴츠, 포레스터 보고서에서 'Strong Performer'로 선정]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9330</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9330"/>
-        <updated>2022-08-15T01:54:55.433Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박재항의 反轉 커뮤니케이션] 찾아가라]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9328</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9328"/>
-        <updated>2022-08-15T01:54:55.434Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
