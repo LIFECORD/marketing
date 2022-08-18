@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 22:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 23:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[8월 19일 마케팅 뉴스클리핑] 메타버스, 실제 이용률 10% 불과 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9360</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9360</guid>
+            <pubDate>Fri, 19 Aug 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 메타버스, 실제 이용률 10% 불과  메타버스를 들어본 사람은 10명 중 8명으로 많지만, 실제 이용해본 사람은 1명에 불과했다. 가장 많이 이용해본 메타버스 플랫폼은 제페토, 마인크래프트, 로블록스 등 게임 기반 서비스에 집중 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8a590ee09c018236b8057fc34950aa49_49550_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[런던국제어워즈 2022, 알리 레즈(임팩트 BBDO CCO) TV/시네마 및 온라인 필름 심사위원장 선짐]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9359</link>
@@ -241,14 +249,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9332</guid>
             <pubDate>Mon, 15 Aug 2022 10:13:00 GMT</pubDate>
             <content:encoded><![CDATA[애드테크 분야의 글로벌 리더 및 프로그래매틱 광고 전문 기업으로전 세계DSP시장을 선도하고 있는 더 트레이드 데스크는6월30일자로 마감된2022년 회계연도2분기 실적을 발표했다. 더 트레이드 데스크의 공동 창업자이자CEO인 제 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 세계에서 가장 살기 좋은 도시와 살기 힘든 도시]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9331</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9331</guid>
-            <pubDate>Mon, 15 Aug 2022 08:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[비주얼 캐피털리스트는안정성, 의료, 문화 및 환경, 교육 및 인프라를 포함한 다양한 범주를 측정한 EIU(Economist Intelligence Unit)의 세계에서 가장 살기좋은 도시 순위를 인포그래픽으로 표현했다. EIU는의료(20%)문화 및 환경(25%)안정 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
