@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 01:53:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 03:52:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유통업계, 플레이리스트 문화 확산에 MZ세대 정조준한 뮤직 마케팅 진행]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9368</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9368</guid>
+            <pubDate>Fri, 19 Aug 2022 00:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[여름유통업계가음악을활용해감성과취향을중요시하는MZ세대를겨냥한마케팅에나서고있다. 이는음악으로도자신만의개성을표현하려는플레이리스트문화가MZ세대내에서하나의취미활동으로자리잡은것과관련이있다.자신만의경 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[LG U+ 무너 커뮤니티, ICT 어워드 코리아 2022 수상]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9367</link>
@@ -242,14 +250,6 @@
             <pubDate>Tue, 16 Aug 2022 07:15:17 GMT</pubDate>
             <content:encoded><![CDATA[스마트폰으로 콘텐츠 시청이 일상화되면서 사용자에게 실제와 같은 경험을 선사하는 인터렉티브 동영상이 주목을 받고 있다. 인터렉티브 동영상이란 스마트폰 화면에 손가락을 갖다 대고 재생 중인 영상을 조작하면 다양한 기 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[지그재그 라이프관 정식 오픈... 600여개 브랜드 입점]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9338</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9338</guid>
-            <pubDate>Tue, 16 Aug 2022 11:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[패션, 뷰티 쇼핑 빅데이터 연계한 개인 맞춤형 라이프 상품 추천  카카오스타일이 운영하는 스타일 커머스 플랫폼 지그재그가 가구, 가전 등 라이프 상품들을 모아 판매하는 라이프관`을 16일 정식 오픈했다.   지그재그 라이프 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_21d5f82479428a27ec9e974646e28108_64201_1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
