@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 09:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 10:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 부산국제광고제 특별 전시, 부산역 유라시아 플랫폼에서 개최... 우크라이나 반전(反戰) 공익광고 등 출품작 포함 무료 전시]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9370</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9370</guid>
+            <pubDate>Fri, 19 Aug 2022 10:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제광고제 조직위원회가 8월 19일(금)부터 24일(수)까지 부산역 유라시아 플랫폼에서 시민들을 대상으로 특별 전시를 개최한다고 밝혔다. 부산국제광고제는 아시아 최대 규모이자 국내 유일의 국제 광고제로, 8월 25일(목)부 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[유통업계, 플레이리스트 문화 확산에 MZ세대 정조준한 뮤직 마케팅 진행]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9368</link>
@@ -242,14 +250,6 @@
             <pubDate>Wed, 17 Aug 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 애플, 자체 지도 앱부터 광고 확대할 듯  애플이 자체 지도 앱인 `애플 맵스`를 시작으로 각종 서비스에 광고를 실을 것으로 보인다. 사용자들이 지도 앱에서 특정 지역의 식당, 매장 등을 검색하면 광고비를 지불한 곳이 검색 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8ed90bd4fcfbca7e55144500bf1ca224_37775_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교감형 디지털광고 급부상]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9340</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9340</guid>
-            <pubDate>Tue, 16 Aug 2022 07:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[스마트폰으로 콘텐츠 시청이 일상화되면서 사용자에게 실제와 같은 경험을 선사하는 인터렉티브 동영상이 주목을 받고 있다. 인터렉티브 동영상이란 스마트폰 화면에 손가락을 갖다 대고 재생 중인 영상을 조작하면 다양한 기 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
