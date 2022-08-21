@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 22:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 23:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[8월 22일 마케팅 뉴스클리핑] 페이스북 국내 월 이용자 2년여 만에 25 줄어 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9369</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9369</guid>
+            <pubDate>Mon, 22 Aug 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 페이스북 국내 월 이용자 2년여 만에 25 줄어  페이스북의 국내 MAU가 지난 2년여 동안 4분의 1 가량 줄었다. 페이스북의 지난달 국내 MAU는 1,109만 6,919명이었다. 2020년 5월 이후 25 넘게 감소한 수치다. 업계는 페이스북 주 이용층 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_b31bd427d4f7674ff77a1e0db472cae3_73772_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Tip!] 콘텐츠 캘린더를 만드는 방법]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9374</link>
@@ -241,14 +249,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9345</guid>
             <pubDate>Wed, 17 Aug 2022 10:35:00 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 미디어 정보 분석 기업 닐슨미디어코리아(대표 조선국)가2022년 상반기 아시아 태평양 지역의20대 광고주 및 업종별 광고비 지출 규모를 발표했다. 닐슨의Nielsen Ad Intel솔루션을 기반으로 작성된 이번 자료는 마케팅 및 광 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[유니클로, UT 그랑프리 2023 티셔츠 디자인 콘테스트 개최... 디즈니, 픽사, 스타워즈, 마블 주제로 9월 10일까지 접수]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9344</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9344</guid>
-            <pubDate>Wed, 17 Aug 2022 09:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 패션 브랜드 유니클로(UNIQLO)가 티셔츠를 캔버스 삼아 그래픽과 메시지로 자유롭게 아이디어를 표현하는 그래픽 티셔츠 디자인 콘테스트 UT 그랑프리(Grand Prix) 2023 티셔츠 디자인 콘테스트를 개최한다. 디즈니, 픽사, 스타 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
