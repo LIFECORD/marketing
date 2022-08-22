@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 23:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 01:52:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플이 어플에 광고한다]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1138727-%EC%95%A0%ED%94%8C%EC%9D%B4_%EC%96%B4%ED%94%8C%EC%97%90_%EA%B4%91%EA%B3%A0%ED%95%9C%EB%8B%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1138727-%EC%95%A0%ED%94%8C%EC%9D%B4_%EC%96%B4%ED%94%8C%EC%97%90_%EA%B4%91%EA%B3%A0%ED%95%9C%EB%8B%A4/</guid>
+            <pubDate>Mon, 22 Aug 2022 01:51:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1138727-애플이_어플에_광고한다/">
+						<div class="thumb"><img src="/images/qletter_1138727.png"></div>
+						<p><strong>애플이 어플에 광고한다</strong>2022.08.22</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1138727.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[커지는 펫코노미, 집사를 공략하라!]]></title>
             <link>https://qletter.i-boss.co.kr/view/1133860-%EC%BB%A4%EC%A7%80%EB%8A%94_%ED%8E%AB%EC%BD%94%EB%85%B8%EB%AF%B8_%EC%A7%91%EC%82%AC%EB%A5%BC_%EA%B3%B5%EB%9E%B5%ED%95%98%EB%9D%BC/</link>
@@ -127,17 +138,6 @@
 						<p><strong>어느새 검색광고 25% 장악한 구글</strong>2022.07.11</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1079605.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소비자와 찐 애착을 형성하는 방법]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1063079-%EC%86%8C%EB%B9%84%EC%9E%90%EC%99%80_%EC%B0%90_%EC%95%A0%EC%B0%A9%EC%9D%84_%ED%98%95%EC%84%B1%ED%95%98%EB%8A%94_%EB%B0%A9%EB%B2%95/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1063079-%EC%86%8C%EB%B9%84%EC%9E%90%EC%99%80_%EC%B0%90_%EC%95%A0%EC%B0%A9%EC%9D%84_%ED%98%95%EC%84%B1%ED%95%98%EB%8A%94_%EB%B0%A9%EB%B2%95/</guid>
-            <pubDate>Thu, 30 Jun 2022 01:45:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1063079-소비자와_찐_애착을_형성하는_방법/">
-						<div class="thumb"><img src="/images/qletter_1063079.png"></div>
-						<p><strong>소비자와 찐 애착을 형성하는 방법</strong>2022.06.30</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1063079.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
