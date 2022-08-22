@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 22:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 23:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[한국갤럽]2022년 8월 한국인이 좋아하는 TV프로그램 1위: 이상한 변호사 우영우, 2개월 연속 1위]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9384</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9384</guid>
+            <pubDate>Tue, 23 Aug 2022 08:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국갤럽이 2022년 8월 16~18일 전국 만 18세 이상 1,000명에게 요즘 가장 즐겨보는 TV프로그램을 물은 결과(2개까지 자유응답), ENA 수목 드라마 이상한 변호사 우영우(이하 우영우)가 선호도 16.4%로 두 달 연속 1위를 차지했다. 우영우 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[8월 23일 마케팅 뉴스클리핑] 마이플레이스 리뷰 4억 건 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9383</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9383</guid>
+            <pubDate>Tue, 23 Aug 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 마이플레이스 리뷰 4억 건  네이버 MY플레이스 리뷰가 누적 4억 건을 돌파했다. 2019년 11월 영수증 리뷰를 도입한 이후 매년 1억 건을 훌쩍 넘는 리뷰가 쌓였다. 방문객 리뷰가 이용자 맞춤형 로컬 정보로 `콘텐츠화`되고 공유되 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1afc9cdd1e441644137b1ac199edf233_13016_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글, 낚시성 링크 추방에 나섰다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9382</link>
@@ -234,22 +250,6 @@
             <pubDate>Thu, 18 Aug 2022 09:33:00 GMT</pubDate>
             <content:encoded><![CDATA[SM C&amp;C가 다가오는 추석을 맞아 워시밤3종으로 구성된 한가위 에디션을 선보였다. 한가위 에디션은한가위 테라피 워시밤 세트1종한가위 듀오 세트2종으로 출시됐다.한가위 느낌이 물씬 나는 보자기와 프리저브드 플라워로 포장 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[데이터 마케팅 인사이트] 2022 골프 시장 분석 요약 리포트(2) 방송 광고의 구매전환 및 오디언스 타깃효과 분석]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9354</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9354</guid>
-            <pubDate>Thu, 18 Aug 2022 09:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[아이지에이웍스가모바일인덱스리포트를 발표했다.이보고서는3년간 골프마켓 성장 현황,골퍼 유형별 연령 비중,여성 골퍼 연령별 비중 비교,골프시장 디지털 세일즈 성장률,광고 시청 골퍼 구매 전환율 비교 등에 관한 데이터  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_97af60480edaac589f52968c96a00e58_97335_6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[데이터 마케팅 인사이트] 2022 골프 시장 분석 요약 리포트(1) 골프 앱, 골퍼 오디언스, 골프 커머스 분석]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9353</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9353</guid>
-            <pubDate>Thu, 18 Aug 2022 09:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[아이지에이웍스가모바일인덱스리포트를 발표했다.이보고서는3년간 골프마켓 성장 현황,골퍼 유형별 연령 비중,여성 골퍼 연령별 비중 비교,골프시장 디지털 세일즈 성장률,광고 시청 골퍼 구매 전환율 비교 등에 관한 데이터  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2f5f75cda2788f9116e043704477acd4_47740_6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
