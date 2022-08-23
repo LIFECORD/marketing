@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 22:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 23:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[8월 24일 마케팅 뉴스클리핑] 카카오톡채널 웰컴 메시지에 광고 내용 넣는다 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9391</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9391</guid>
+            <pubDate>Wed, 24 Aug 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 카카오톡채널 웰컴 메시지에 광고 내용 넣는다  카카오가 8월 23일부터 카카오톡채널의 웰컴 메시지에 광고성 내용을 입력할 수 있도록 개선했다고 밝혔다. 기존 정보성 메시지만 입력할 수 있었으나 이번 개편으로 카카오톡 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_b332b53cbce0ceb703af9e5fe058d669_92381_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몰로코, 새로운 글로벌 리더들과 함께 성장 모멘텀 이어가겠다... 강남 센터필드로 사무실 이전]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9390</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9362</guid>
             <pubDate>Fri, 19 Aug 2022 08:27:00 GMT</pubDate>
             <content:encoded><![CDATA[비즈니스 및 일상생활의 모든 것들을 송두리째 바꿔 놓고 있는 디지털트랜스포메이션 시대! 이 시대의 마케터에겐 디지털 기술, 고객 인사이트, 데이터 분석 등 디지털트랜스포메이션 전략 중심의 실무 역량이 필요하다. 또한  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[해시태그로 말하는 태그니티 마케팅이 뜬다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9361</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9361</guid>
-            <pubDate>Fri, 19 Aug 2022 08:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[MZ세대를 중심으로태그니티라는 신조어가 등장했다.태그니티는 해시태그의 태그와 공동체를 의미하는 커뮤니티의 합성어로, 취향 공동체를 의미한다.회사나 학교 같은 공적 공동체와 달리 개개인의 취향이나 지향하는 가치관 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
