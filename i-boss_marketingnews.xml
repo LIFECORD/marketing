@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 12:38:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 13:38:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KPR, 국제PR협회(IPRA) 골든 월드 어워드 2022 수상]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9397</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9397</guid>
+            <pubDate>Wed, 24 Aug 2022 13:37:52 GMT</pubDate>
+            <content:encoded><![CDATA[종합커뮤니케이션그룹 KPR(사장 김주호)이 포스코 SNS 프로젝트로 국제PR협회(IPRA)가 수여하는 골든 월드 어워드 2022 (GWA, Golden World Award) 소셜미디어 부문 최고상을 수상했다. 골든 월드 어워드는 전세계에 1,000여명의 회원을 두고  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[롯데홈쇼핑, MZ세대용 이색 모바일 콘텐츠 연이어 출시]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9395</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9367</guid>
             <pubDate>Fri, 19 Aug 2022 09:47:00 GMT</pubDate>
             <content:encoded><![CDATA[메가존 계열 종합 광고회사 펜타클이LG유플러스`무너 커뮤니티 사이트로 ICT어워드 코리아2022에서 디지털 콘텐츠&amp;마케팅 부문 통합 대상(경기도지사상)을 수상했다. ICT어워드 코리아는 한국정보과학진흥협회가 주최하는 국내  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[아이언소스, 국내 최대 광고 축제 부산국제광고제 2022 참가]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9366</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9366</guid>
-            <pubDate>Fri, 19 Aug 2022 09:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource, NYSE:IS)는 오는8월25일부터 부산 벡스코에서 개최되는 부산국제광고제2022에 참여해 앱 및 게임 비즈니스 성장을 지원하는 주요 플랫폼과광고 관련 솔루션을 소개한다 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
