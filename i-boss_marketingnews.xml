@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 22:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 23:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[8월 25일 마케팅 뉴스클리핑] 쿠팡, 판매자 울리던 환불제도 개선 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9396</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9396</guid>
+            <pubDate>Thu, 25 Aug 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 쿠팡, 판매자 울리던 환불제도 개선  쿠팡이 반품에 대한 판매자 보상 신청제도를 개선한다. 기존 72시간 이내에 신청해야 했던 규정을 최대 14일 이내로 변경하고 제품을 회수 못한 경우에도 보상 신청을 할 수 있도록 했다.  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1e4d75311791f728a6fc819e574f1f2b_8213_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KPR, 국제PR협회(IPRA) 골든 월드 어워드 2022 수상]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9397</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9368</guid>
             <pubDate>Fri, 19 Aug 2022 00:01:00 GMT</pubDate>
             <content:encoded><![CDATA[여름유통업계가음악을활용해감성과취향을중요시하는MZ세대를겨냥한마케팅에나서고있다. 이는음악으로도자신만의개성을표현하려는플레이리스트문화가MZ세대내에서하나의취미활동으로자리잡은것과관련이있다.자신만의경 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[LG U+ 무너 커뮤니티, ICT 어워드 코리아 2022 수상]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9367</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9367</guid>
-            <pubDate>Fri, 19 Aug 2022 09:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[메가존 계열 종합 광고회사 펜타클이LG유플러스`무너 커뮤니티 사이트로 ICT어워드 코리아2022에서 디지털 콘텐츠&amp;마케팅 부문 통합 대상(경기도지사상)을 수상했다. ICT어워드 코리아는 한국정보과학진흥협회가 주최하는 국내  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
