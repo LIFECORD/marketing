@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 01:56:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 04:10:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롯데홈쇼핑, MZ세대용 이색 모바일 콘텐츠 연이어 출시]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9395</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9395</guid>
+            <pubDate>Wed, 24 Aug 2022 11:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[메이크업 숏폼부터 먹방까지  롯데홈쇼핑(대표 이완신)은 뷰티, 식품, 명품 등 각 상품 카테고리별 이색 모바일 콘텐츠를 대거 출시한다고 24일 밝혔다.  매주 수요일 오전 11시에는 명품에 관심이 많은 MZ세대를 위해 옆집 언니가 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_ffde8a24dd1db59575ca6d5a8c999045_61170_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크리마, 뷰티 리뷰 분석해 효과 만족도 상위 쇼핑몰 랭킹 발표]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9394</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 19 Aug 2022 09:30:00 GMT</pubDate>
             <content:encoded><![CDATA[앱 경제를 위한 강력한 비즈니스 플랫폼 아이언소스(ironSource, NYSE:IS)는 오는8월25일부터 부산 벡스코에서 개최되는 부산국제광고제2022에 참여해 앱 및 게임 비즈니스 성장을 지원하는 주요 플랫폼과광고 관련 솔루션을 소개한다 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[OTT 시청 점유율, 케이블-지상파 다 제쳤다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9365</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9365</guid>
-            <pubDate>Fri, 19 Aug 2022 09:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[OTT와 같은 스트리밍 서비스의 시청 점유율이 전통적인 방송 시청 방식을 모두 넘어섰다는 조사 결과가 나왔다.  18일(현지시간) 닐슨에 따르면, 지난 7월 기준 스트리밍 서비스의 시청 점유율은 34.8%를 기록했다.  이 기간 케이블T ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_af465a9bb852f2f2c6e9234bb84c269a_57969_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
