@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-08-25T13:42:46.254Z</updated>
+    <updated>2022-08-25T14:18:32.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[광고인들이 함께 한 부산국제광고제 개막하다]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9403</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9403"/>
+        <updated>2022-08-25T14:18:10.273Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산국제광고제, 광고산업 발전을 위한 다양한 협력 이어져]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9402</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-9374</id>
         <link href="https://www.i-boss.co.kr/ab-2877-9374"/>
         <updated>2022-08-21T01:47:01.935Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에픽게임즈, ‘광고 산업의 미래: 리얼타임 3D’를 주제로 부산국제광고제에서 26일 발표]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9373</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9373"/>
-        <updated>2022-08-20T01:50:01.789Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 13:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 14:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[광고인들이 함께 한 부산국제광고제 개막하다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9403</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9403</guid>
+            <pubDate>Thu, 25 Aug 2022 14:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[광고인들이 함께 축하하며 부산국제광고제 개막식이 열렸다. 박형준 부산국제광고제 조직위원장, 최환진 부산국제광고제 집행위원장, 장인화 부산상공회의소 회장, 김낙회 한국광고총연합회 회장, 최선목 한국광고주협회 회 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[부산국제광고제, 광고산업 발전을 위한 다양한 협력 이어져]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9402</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9374</guid>
             <pubDate>Sun, 21 Aug 2022 09:04:00 GMT</pubDate>
             <content:encoded><![CDATA[대부분의 브랜드는 소셜 미디어 마케팅 전략으로 정기적으로 콘테츠를 업로드하고 있다. 이를 효율적으로 진행하기 위해서는콘텐츠 캘린더 작성이 매우 중요하다.콘텐츠 캘린더는 게시할 디지털 콘텐츠를 계획하고 구성하는  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[에픽게임즈, 광고 산업의 미래: 리얼타임 3D를 주제로 부산국제광고제에서 26일 발표]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9373</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9373</guid>
-            <pubDate>Sat, 20 Aug 2022 08:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[에픽게임즈가 메타버스 시대의 새로운 광고 경험에 대한 비전을 제시하는 강연을 부산국제광고제에서 진행한다. 세계적인 게임 개발사이자 언리얼 엔진, 스토어 및 디지털 창작 생태계를 위한 모든 것을 제공하는 에픽게임즈  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
