@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 12:38:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 13:42:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부산국제광고제, 광고산업 발전을 위한 다양한 협력 이어져]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9402</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9402</guid>
+            <pubDate>Thu, 25 Aug 2022 13:42:09 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제광고제가 3년 만에 오프라인으로 개최됐다. 부산국제광고제에서광고산업 발전을 위한 다양한 협력이 이어져 눈길을 끌었다. 우선 2023년 서울에서 열리는 애드아시아 서울 조직위원회와 부산국제광고제가 광고산업 발 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2022 부산국제광고제, 3년 만의 현장 개최]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9400</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9373</guid>
             <pubDate>Sat, 20 Aug 2022 08:56:00 GMT</pubDate>
             <content:encoded><![CDATA[에픽게임즈가 메타버스 시대의 새로운 광고 경험에 대한 비전을 제시하는 강연을 부산국제광고제에서 진행한다. 세계적인 게임 개발사이자 언리얼 엔진, 스토어 및 디지털 창작 생태계를 위한 모든 것을 제공하는 에픽게임즈  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[트렌드 아티클] 웹툰에 한 달 얼마 쓸까? 웹툰 감상 트렌드 주목할 포인트 4가지]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9372</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9372</guid>
-            <pubDate>Sat, 20 Aug 2022 08:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[한때 서브컬처로 분류되기도 했던 웹툰은 이제 대중적인 콘텐츠로 확실히 자리 잡은 듯합니다. 한국 웹툰 시장은 2020년 이미 1조 원 규모를 넘어서며 성장하는 중입니다(한국콘텐츠진흥원).기사 에 따르면 2022년 1분기 네이버의  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
