@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 23:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 01:58:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크롬으로 일잘러 되는 방법 ✨]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1144022-%ED%81%AC%EB%A1%AC%EC%9C%BC%EB%A1%9C_%EC%9D%BC%EC%9E%98%EB%9F%AC_%EB%90%98%EB%8A%94_%EB%B0%A9%EB%B2%95/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1144022-%ED%81%AC%EB%A1%AC%EC%9C%BC%EB%A1%9C_%EC%9D%BC%EC%9E%98%EB%9F%AC_%EB%90%98%EB%8A%94_%EB%B0%A9%EB%B2%95/</guid>
+            <pubDate>Thu, 25 Aug 2022 01:57:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1144022-크롬으로_일잘러_되는_방법/">
+						<div class="thumb"><img src="/images/qletter_1144022.png"></div>
+						<p><strong> 크롬으로 일잘러 되는 방법 ✨</strong>2022.08.25</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1144022.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애플이 어플에 광고한다]]></title>
             <link>https://qletter.i-boss.co.kr/view/1138727-%EC%95%A0%ED%94%8C%EC%9D%B4_%EC%96%B4%ED%94%8C%EC%97%90_%EA%B4%91%EA%B3%A0%ED%95%9C%EB%8B%A4/</link>
@@ -127,17 +138,6 @@
 						<p><strong>아버지를 돕고 싶은 1년 차 마케터의 고민</strong>2022.07.14</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1084400.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[어느새 검색광고 25% 장악한 구글]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1079605-%EC%96%B4%EB%8A%90%EC%83%88_%EA%B2%80%EC%83%89%EA%B4%91%EA%B3%A0_25_%EC%9E%A5%EC%95%85%ED%95%9C_%EA%B5%AC%EA%B8%80/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1079605-%EC%96%B4%EB%8A%90%EC%83%88_%EA%B2%80%EC%83%89%EA%B4%91%EA%B3%A0_25_%EC%9E%A5%EC%95%85%ED%95%9C_%EA%B5%AC%EA%B8%80/</guid>
-            <pubDate>Mon, 11 Jul 2022 23:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1079605-어느새_검색광고_25_장악한_구글/">
-						<div class="thumb"><img src="/images/qletter_1079605.png"></div>
-						<p><strong>어느새 검색광고 25% 장악한 구글</strong>2022.07.11</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1079605.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
