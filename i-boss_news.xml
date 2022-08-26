@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-08-25T23:32:02.381Z</updated>
+    <updated>2022-08-26T02:01:50.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트렌드마이크로, 메타버스를 악용하여 만든 가상공간 ‘다크버스(Darkverse)’에서의 ‘사이버 물리 위협’ 경고]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9405</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9405"/>
+        <updated>2022-08-26T02:01:28.696Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여름도 프로답게 즐기는 MZ세대 위해 ‘프로OO러’ 캠페인 펼치는 유통업계]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9404</id>
@@ -206,13 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-9376</id>
         <link href="https://www.i-boss.co.kr/ab-2877-9376"/>
         <updated>2022-08-22T01:51:49.457Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] “광고사진 산업의 신시장 개척 및 광고사진가 위상 제고에 힘쓸 것" 심현준 한국광고사진가협회 신임 회장]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9375</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9375"/>
-        <updated>2022-08-22T01:51:49.459Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
