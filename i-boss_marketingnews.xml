@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 23:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 01:58:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황보승희 의원, 광고지원 확대 중소기업진흥법방송광고판매대행법 개정안 발의]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9409</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9409</guid>
+            <pubDate>Sat, 27 Aug 2022 09:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[국민의힘 황보승희 의원(부산 중구 영도구)은 25일 광고지원 확대를 위한 중소기업진흥에 관한 법률 일부개정법률안(중소기업진흥법), 방송광고판매대행 등에 관한 법률 일부개정법률안(방송광고판매대행법)을 대표발의했다.  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[매드타임스, 한국방송진행자연합과 업무협력 체결... 부산국제광고제, 광고산업 발전을 위한 협력은 계속되다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9408</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9379</guid>
             <pubDate>Mon, 22 Aug 2022 09:17:00 GMT</pubDate>
             <content:encoded><![CDATA[이노션(대표이사 이용우)은 아시아 대표 독립 에이전시인 TSLA(The Secret Little Agency)와 크리에이티브 역량 강화 등을 위한 양해각서(MOU)를 체결했다고 22일 밝혔다. 이노션 글로벌 CEO인 이용우 대표이사와 TSLA 설립자인 니콜라스 예( ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[하바스, 퍼브매틱과 제휴해서 광고주의 투자 수익을 높인다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9378</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9378</guid>
-            <pubDate>Mon, 22 Aug 2022 08:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[애드테크 회사인 퍼브매틱(나스닥: PUBM)은 HMG(Havas Media Group) 북미와 확장된 공급 경로 최적화(SPO) 파트너십을 발표했다. 이 파트너십을 통해 퍼브매틱은 북미 지역 광고회사의브랜드 클라이언트에게 선호되는 SSP로, HMG 독점 Conver ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
