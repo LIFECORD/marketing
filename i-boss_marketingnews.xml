@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 22:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 23:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[8월 29일 마케팅 뉴스클리핑] 메타, 고객 서비스 부서 신설 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9406</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9406</guid>
+            <pubDate>Mon, 29 Aug 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 메타, 고객 서비스 부서 신설  외신은 메타가 계정을 분실하거나 게시물이 제거된 이용자들을 돕는 고객 서비스 부서를 만든다고 보도했다. 그간 계정 권한을 잃은 이용자는 계정을 되찾을 방법이 거의 없었다. 지속 제기돼온 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_235d61031802e8a2da9393496914e53f_66483_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대영박물관 진실 투어 & 수소 청소 트럭2022, 부산국제광고제 올해의 그랑프리 수상]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9410</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9381</guid>
             <pubDate>Mon, 22 Aug 2022 10:26:00 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 모바일 플랫폼 서비스 회사 라인플러스(LINE PLUS/이하 라인,대표:이은정)가 오는9월6일 대만태국 시장 디지털 마케팅을 위한 라인 광고 플랫폼 소개 웨비나를 진행한다.대만과 태국의 신규 고객 확보를 고민하는 국내 사업 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[에스코토스컨설팅, 포스트코로나 시대의 사내 커뮤니케이션 전략 세미나 개최]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9380</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9380</guid>
-            <pubDate>Mon, 22 Aug 2022 10:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[전략 커뮤니케이션 컨설팅사에스코토스컨설팅㈜(대표 강함수)은 오는8월30일(화)오후6시에 웨스틴조선호텔(서울 소공동)에서포스트 코로나 시대의 사내커뮤니케이션의 전략 세미나를 개최한다고22일 밝혔다. 에스코토스컨설팅 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
