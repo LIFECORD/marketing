@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 06:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 07:25:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KAI] 광고업계 올 추석에는 광고비 늘릴 것]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9417</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9417</guid>
+            <pubDate>Mon, 29 Aug 2022 07:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코, 사장 이백만)는 2022년 9월 광고경기를 전망하는 광고경기전망지수(KAI ; Korea Advertising Index)를102.9으로 발표했다. 통계청 국가승인통계인 광고경기전망지수(KAI)는 매월 국내 560여 개 광고주에 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[닐슨미디어코리아, 닐슨 스포츠 데이터 사업부서 신설... 스포츠 마케팅 기업 출신 김동호씨 영입]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9415</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9387</guid>
             <pubDate>Tue, 23 Aug 2022 09:14:00 GMT</pubDate>
             <content:encoded><![CDATA[모바일 마케팅 애널리틱스 플랫폼 애드저스트(Adjust)가 마테크 브레이크스루 어워즈(MarTech Breakthrough Awards)에서 자사 데이터스케이프(Datascape)가 최고의 종합 마케팅 솔루션(best overall)에 선정되었다고23일 밝혔다. 마테크 브레이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[데이터 마케팅 인사이트] 쿠팡플레이, 전월 대비 사용자 수 108만명 증가, 엔터테인먼트 카테고리 신규설치 순위에서도 1위]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9386</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9386</guid>
-            <pubDate>Tue, 23 Aug 2022 08:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[빅데이터 플랫폼 기업 아이지에이웍스가모바일인덱스리포트를 발표했다.이번 보고서는사용자 수 급상승 순위TOP 50,업종별 신규설치 순위TOP 10에 관한 데이터 분석을 다루고 있다. 모바일인덱스 분석 결과,쿠팡플레이는6월 대비 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
