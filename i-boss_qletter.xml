@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 23:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 02:07:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글 검색 순위 알고리즘의 중요한 변화]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1148874-%EA%B5%AC%EA%B8%80_%EA%B2%80%EC%83%89_%EC%88%9C%EC%9C%84_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98_%EC%A4%91%EC%9A%94%ED%95%9C_%EB%B3%80%ED%99%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1148874-%EA%B5%AC%EA%B8%80_%EA%B2%80%EC%83%89_%EC%88%9C%EC%9C%84_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98_%EC%A4%91%EC%9A%94%ED%95%9C_%EB%B3%80%ED%99%94/</guid>
+            <pubDate>Mon, 29 Aug 2022 02:06:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1148874-구글_검색_순위_알고리즘의_중요한_변화/">
+						<div class="thumb"><img src="/images/qletter_1148874.png"></div>
+						<p><strong>구글 검색 순위 알고리즘의 중요한 변화</strong>2022.08.29</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1148874.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[크롬으로 일잘러 되는 방법 ✨]]></title>
             <link>https://qletter.i-boss.co.kr/view/1144022-%ED%81%AC%EB%A1%AC%EC%9C%BC%EB%A1%9C_%EC%9D%BC%EC%9E%98%EB%9F%AC_%EB%90%98%EB%8A%94_%EB%B0%A9%EB%B2%95/</link>
@@ -127,17 +138,6 @@
 						<p><strong>이커머스 시장이 주목하는 애그리게이터</strong>2022.07.18</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1087882.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아버지를 돕고 싶은 1년 차 마케터의 고민]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1084400-%EC%95%84%EB%B2%84%EC%A7%80%EB%A5%BC_%EB%8F%95%EA%B3%A0_%EC%8B%B6%EC%9D%80_1%EB%85%84_%EC%B0%A8_%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98_%EA%B3%A0%EB%AF%BC/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1084400-%EC%95%84%EB%B2%84%EC%A7%80%EB%A5%BC_%EB%8F%95%EA%B3%A0_%EC%8B%B6%EC%9D%80_1%EB%85%84_%EC%B0%A8_%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98_%EA%B3%A0%EB%AF%BC/</guid>
-            <pubDate>Thu, 14 Jul 2022 01:56:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1084400-아버지를_돕고_싶은_1년_차_마케터의_고민/">
-						<div class="thumb"><img src="/images/qletter_1084400.png"></div>
-						<p><strong>아버지를 돕고 싶은 1년 차 마케터의 고민</strong>2022.07.14</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1084400.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
