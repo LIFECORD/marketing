@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 06:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 07:38:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대학생들의 방학의 꽃, 2022 3대 광고 공모전]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9435</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9435</guid>
+            <pubDate>Wed, 31 Aug 2022 07:37:31 GMT</pubDate>
+            <content:encoded><![CDATA[방학 하면 생각나는 것들이 있다. 그 중에서도 대학생들은 다양한 경험을 위해 공모전, 동아리, 대외활동, 봉사활동 등에 힘쓴다. 정부와 공공 기관 혹은 다양한 기업에서도 이 시즌을 맞아 다양한 아이디어 공모전을 내놓는다.  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[광고업계 취업 박람회, 광고에 꿈을 더하다, ADD JOB 페스티벌 개최]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9434</link>
@@ -56,7 +64,7 @@
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[해외 크리에이티브] 써브웨이, 완전한 대화형 3D 옥외광고 론칭]]></title>
+            <title><![CDATA[[해외 크리에이티브] 써브웨이, 매장 내 경험을 제공하는 대화형 3D 옥외광고 론칭]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9428</link>
             <guid>https://www.i-boss.co.kr/ab-2877-9428</guid>
             <pubDate>Wed, 31 Aug 2022 08:43:00 GMT</pubDate>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9407</guid>
             <pubDate>Fri, 26 Aug 2022 15:21:31 GMT</pubDate>
             <content:encoded><![CDATA[애드아시아 서울 조직위원회(조직위원장 김낙회)는 부산국제광고제에서 기본 애드아시아와는 차별화된`애드아시아 서울`을 발표했다. 김낙회 애드아시아 서울 조직위원회 위원장은 `아시아 광고인의 축제인 애드아시아를 우 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[트렌드마이크로, 메타버스를 악용하여 만든 가상공간 다크버스(Darkverse)에서의 사이버 물리 위협 경고]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9405</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9405</guid>
-            <pubDate>Fri, 26 Aug 2022 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드 보안 솔루션 글로벌 리더 트렌드마이크로(지사장 김진광)가 인터넷 경험을 노리는 사이버 보안 위협 보고서를 발표해 법적 규제의 사각지대에 있는 다크버스에 대해 경고했다.다크버스는 메타버스를 악용하여 만든  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
