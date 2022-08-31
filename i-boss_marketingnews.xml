@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 22:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 23:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[9월 1일 마케팅 뉴스클리핑] 실검은 사라졌지만... 네이버 서비스에 소통 기능 보완 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9436</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9436</guid>
+            <pubDate>Thu, 01 Sep 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 실검은 사라졌지만... 네이버 서비스에 소통 기능 보완  검색 비즈니스를 중심에 뒀던 네이버가 차세대 커뮤니티 서비스를 강화하고 있다. 네이버의 여러 주제형 서비스에 커뮤니티, 소통 기능을 보완해주는 형태로 확장하려 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_3f8fe3022287aca6267dfb85dc3a058b_12387_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대학생들의 방학의 꽃, 2022 3대 광고 공모전]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9435</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9408</guid>
             <pubDate>Fri, 26 Aug 2022 15:21:31 GMT</pubDate>
             <content:encoded><![CDATA[매드타임스는 부산국제광고제에서 한국방송진행자연합과 협력을 위한 업무협약을 체결했다. 광고 커뮤니케이션 영역에서 아나운서, MC, 모델 및 인플루언서의 역할은 점점 커지고 중요해지고 있다. 이에 매드타임스는 한국방 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[애드아시아 서울은 디지털 마케팅 엑스포입니다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9407</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9407</guid>
-            <pubDate>Fri, 26 Aug 2022 15:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[애드아시아 서울 조직위원회(조직위원장 김낙회)는 부산국제광고제에서 기본 애드아시아와는 차별화된`애드아시아 서울`을 발표했다. 김낙회 애드아시아 서울 조직위원회 위원장은 `아시아 광고인의 축제인 애드아시아를 우 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
