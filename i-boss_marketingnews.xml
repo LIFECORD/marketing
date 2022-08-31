@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 02:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 04:57:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[광고업계 취업 박람회, 광고에 꿈을 더하다, ADD JOB 페스티벌 개최]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9434</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9434</guid>
+            <pubDate>Wed, 31 Aug 2022 00:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[광고업계 인력난이 계속 심화되고 있다. 몇년 전부터 광고인들이 광고업계를 떠나 플랫폼, IT 회사, 스타트업으로 자리를 옮기고 있다.캠페인을 기획, 실행할 수 있고, 크리에이티브가 뛰어나며, 다양한 이해관계자를 조율할 수  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[MCM, MCM HAUS서 패션과 예술의 만남 F.A.M 프로젝트 특별 전시 개최]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9433</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9405</guid>
             <pubDate>Fri, 26 Aug 2022 08:51:00 GMT</pubDate>
             <content:encoded><![CDATA[클라우드 보안 솔루션 글로벌 리더 트렌드마이크로(지사장 김진광)가 인터넷 경험을 노리는 사이버 보안 위협 보고서를 발표해 법적 규제의 사각지대에 있는 다크버스에 대해 경고했다.다크버스는 메타버스를 악용하여 만든  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[여름도 프로답게 즐기는 MZ세대 위해 프로OO러 캠페인 펼치는 유통업계]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9404</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9404</guid>
-            <pubDate>Fri, 26 Aug 2022 08:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[유통업계에서최근프로OO러를위한마케팅이활발하다. 프로OO러는MZ세대사이에서특정행동을잘하는사람을일컫는말로, 프로불참러, 프로결심러등다양한상황에따라적용돼쓰이고있다. 특히뜨거운여름을맞아시원한탄산음료나야외 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
