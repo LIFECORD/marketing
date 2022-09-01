@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 08:27:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 09:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콘텐츠 구독 플랫폼 KPR 인사이트 트리 새단장 오픈... 이용자 지원 강화]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9441</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9441</guid>
+            <pubDate>Thu, 01 Sep 2022 09:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[종합커뮤니케이션그룹KPR(사장 김주호)이 콘텐츠 구독 플랫폼 KPR인사이트 트리(KPR Insight Tree) 공식 홈페이지를 새롭게 개편하고 멤버십을 보강해 사용자 편의성을 한층 강화했다. KPR인사이트 트리는KPR이빅데이터 미닝 사이언스( ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[data.ai, 전 세계 소비자 올해 2분기에 모바일 앱 348억 건 다운로드받고 44조 원 소비해]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9439</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 29 Aug 2022 08:44:00 GMT</pubDate>
             <content:encoded><![CDATA[광고주들이 대가를 지급하지 않으면서 가외 일들을 시킨다는 불평은 광고 회사 쪽에서 자주 나오기 마련이다. 이전에 함께했던 대표이사 한 분은 광고주라는 사람들이 말이야, 줘야 할 돈도 안 주고 말이야라고 불평에 동조해 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[8월 29일 마케팅 뉴스클리핑] 메타, 고객 서비스 부서 신설 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9406</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9406</guid>
-            <pubDate>Mon, 29 Aug 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 메타, 고객 서비스 부서 신설  외신은 메타가 계정을 분실하거나 게시물이 제거된 이용자들을 돕는 고객 서비스 부서를 만든다고 보도했다. 그간 계정 권한을 잃은 이용자는 계정을 되찾을 방법이 거의 없었다. 지속 제기돼온 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_235d61031802e8a2da9393496914e53f_66483_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
