@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 22:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 23:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[9월 2일 마케팅 뉴스클리핑] 광고수익 감소한 메타 페북인스타 유료 기능 비중 높인다 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9440</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9440</guid>
+            <pubDate>Fri, 02 Sep 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 광고수익 감소한 메타 `페북인스타` 유료 기능 비중 높인다  메타는 페이스북, 인스타그램, 왓츠앱에 추가할 유료 기능을 검토하고 개발하기 위해 새로운 부서를 꾸릴 것이라고 외신이 보도했다. 광고 사업이 타격을 받고 디 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_fbb5cf6f85a6edc5550fd152914c8b7c_88140_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[콘텐츠 구독 플랫폼 KPR 인사이트 트리 새단장 오픈... 이용자 지원 강화]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9441</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9412</guid>
             <pubDate>Mon, 29 Aug 2022 09:01:00 GMT</pubDate>
             <content:encoded><![CDATA[머신러닝 솔루션 분야 선두기업 몰로코(Moloco, 대표 안익진)가 국내 대표 인테리어 플랫폼 오늘의집 운영사 버킷플레이스와 함께 자사의 리테일 미디어 플랫폼(Retail Media Platform, RMP) 협업 사례를 공개했다. 오늘의집은 몰로코 딥 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[박재항의 反轉 커뮤니케이션] 정체성과 안전의 두 마리 토끼를 잡다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9411</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9411</guid>
-            <pubDate>Mon, 29 Aug 2022 08:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[광고주들이 대가를 지급하지 않으면서 가외 일들을 시킨다는 불평은 광고 회사 쪽에서 자주 나오기 마련이다. 이전에 함께했던 대표이사 한 분은 광고주라는 사람들이 말이야, 줘야 할 돈도 안 주고 말이야라고 불평에 동조해 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>

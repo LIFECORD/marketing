@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-09-01T22:19:58.190Z</updated>
+    <updated>2022-09-01T23:21:19.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[9월 2일 마케팅 뉴스클리핑] 광고수익 감소한 메타 '페북·인스타' 유료 기능 비중 높인다 외]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9440</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9440"/>
+        <updated>2022-09-01T23:20:58.985Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콘텐츠 구독 플랫폼 ‘KPR 인사이트 트리’ 새단장 오픈... 이용자 지원 강화]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9441</id>
@@ -205,13 +212,6 @@
         <title type="html"><![CDATA[오늘의집, 몰로코 RMP 도입해 리테일 광고 비즈니스 강화]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9412</id>
         <link href="https://www.i-boss.co.kr/ab-2877-9412"/>
-        <updated>2022-08-29T02:06:46.168Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박재항의 反轉 커뮤니케이션] 정체성과 안전의 두 마리 토끼를 잡다]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9411</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9411"/>
         <updated>2022-08-29T02:06:46.168Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
