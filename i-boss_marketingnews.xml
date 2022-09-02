@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 07:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 08:25:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대홍기획, 한국관광공사와 메타버스로 전세계에 한국 알린다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9443</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9443</guid>
+            <pubDate>Fri, 02 Sep 2022 08:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[대홍기획(대표이사:홍성현)이 한국관광공사 하노이 지사와 함께 해긴의 메타버스 게임 플레이투게더에코리아 트래블 센터(Korea Travel Center)를 오픈하고,전세계 사용자에게 한국의 대표 관광지를 소개하는 메타버스 브랜드 마케 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[9월 2일 마케팅 뉴스클리핑] 광고수익 감소한 메타 페북인스타 유료 기능 비중 높인다 외]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9440</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9413</guid>
             <pubDate>Mon, 29 Aug 2022 09:35:00 GMT</pubDate>
             <content:encoded><![CDATA[플레이디의 건강기능식품 브랜드 데이팩(디에센셜)이 다가오는 환절기를 대비한 신제품 데이팩 에너지와 데이팩 이뮨을 출시했다고 29일 밝혔다. 이번 신제품은 기존 제품에 들어있던 각종 멀티비타민과 미네랄을 포함하여, 활 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘의집, 몰로코 RMP 도입해 리테일 광고 비즈니스 강화]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9412</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9412</guid>
-            <pubDate>Mon, 29 Aug 2022 09:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[머신러닝 솔루션 분야 선두기업 몰로코(Moloco, 대표 안익진)가 국내 대표 인테리어 플랫폼 오늘의집 운영사 버킷플레이스와 함께 자사의 리테일 미디어 플랫폼(Retail Media Platform, RMP) 협업 사례를 공개했다. 오늘의집은 몰로코 딥 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
