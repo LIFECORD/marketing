@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 22:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 23:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[9월 5일 마케팅 뉴스클리핑] 인기 직종은 옛말... IT스타트업으로 떠나는 광고인 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9442</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9442</guid>
+            <pubDate>Mon, 05 Sep 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 인기 직종은 옛말... IT스타트업으로 떠나는 광고인  광고회사의 꽃으로 불렸던 AE 인기가 곤두박질치고 있다. 상위 대행사로 옮기거나 아예 네카라쿠배당토나 게임, 스타트업의 마케팅커뮤니케이션으로 옮기는 식이다. 업계 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_61448afa98a40e43a622733c7edcc4a2_68543_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글, 구글플레이 인디 게임 페스티벌 2022 Top 3 선정... 던전 로그:전설의 모험가, 로스트페이지-굴레의 시작, The Greater]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9448</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9419</guid>
             <pubDate>Tue, 30 Aug 2022 08:59:00 GMT</pubDate>
             <content:encoded><![CDATA[광고회사들의 최근 가장 큰 고민은 무엇일까? 회사의 지속적인 성장을 이루기 위해서는 창의적이고 우수한 인력의 확보가 무엇보다도 중요할 것이다. 따라서, 종합광고회사나 디지털 광고회사의 대표와 인사관련 부서들 업무 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 유기묘 아이돌 그룹, 11키티즈를 아시나요? 11번가 x 아이디엇]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9418</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9418</guid>
-            <pubDate>Tue, 30 Aug 2022 08:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 6월 혜성처럼 등장한화제의 신인 아이돌,11키티즈! 데뷔곡 Take Me는 프로듀서 코드 쿤스트가 제작하고 뮤지션 미노이가 작사와 노래에 참여했다.6마리의 메인 멤버, 5마리의 연습생으로 구성된11키티즈는 광고 모델은 물론이 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
