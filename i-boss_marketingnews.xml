@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 08:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 09:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TV 광고도 이제는 가구별로 맞춤 시대... SK브로드밴드, 한국리서치와] 어드레서블TV 광고 효과 검증 나서]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9455</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9455</guid>
+            <pubDate>Mon, 05 Sep 2022 09:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[SK브로드밴드가 TV를 시청하는 집마다 서로 다른 광고를 보여주는 어드레서블TV(Addressable TV) 광고 효과 검증에 나선다. SK브로드밴드(대표이사 사장 : 최진환)는 국내 대표 여론조사 전문기관인 한국리서치와 어드레서블TV 광고효 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스, 광고 요금제 11월 출시 전망]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9454</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9426</guid>
             <pubDate>Wed, 31 Aug 2022 08:41:00 GMT</pubDate>
             <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)가2022년 6월 8일부터 21일까지 4060 남녀 360명을 대상으로 국산 맥주 이용 트렌드 조사를 진행했다. 4060 신중년이 가장 많이 구매하는 국내 맥주는 카스(39.9%)며, 향후 구매를 희망하는  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[유통업계, 신선함으로 MZ세대 눈길 사로잡는 부캐 마케팅 열풍]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9425</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9425</guid>
-            <pubDate>Wed, 31 Aug 2022 08:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[올해에도유통업계내부캐마케팅이이어지고있다.기존브랜드의이미지에서조금벗어나신선한매력으로새로운즐거움을추구하는MZ세대취향저격에나서고있기때문이다. 부캐의진화도활발하다.연예인의부캐를브랜드모델로기용하는 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
