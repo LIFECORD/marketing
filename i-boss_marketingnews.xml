@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 04:47:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 06:03:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스, 광고 요금제 11월 출시 전망]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9454</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9454</guid>
+            <pubDate>Mon, 05 Sep 2022 06:02:46 GMT</pubDate>
+            <content:encoded><![CDATA[회사 경영진, 광고 구매자에 요금제 출시일 알린 것으로 전해져  월스트리트저널, 테크크런치 등 외신은 3일(현지시간) 넷플릭스가 내년 초 출시하기로 한 광고요금제 출시 일정을 11월로 앞당길 수도 있다고 보도했다.  넷플릭 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[GfK, 2022년 상반기 국내 가전 시장 성장률 발표... 2021년 상반기 대비 -4.6% 감소]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9453</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 31 Aug 2022 08:40:00 GMT</pubDate>
             <content:encoded><![CDATA[올해에도유통업계내부캐마케팅이이어지고있다.기존브랜드의이미지에서조금벗어나신선한매력으로새로운즐거움을추구하는MZ세대취향저격에나서고있기때문이다. 부캐의진화도활발하다.연예인의부캐를브랜드모델로기용하는 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[8월 31일 마케팅 뉴스클리핑] 카카오 뷰 1년만 개편 수순 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9424</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9424</guid>
-            <pubDate>Wed, 31 Aug 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. `카카오 뷰` 1년만 개편 수순  카카오의 콘텐츠 구독 서비스 `카카오 뷰`가 계속되는 이용자 불만에 결국 출시 1년 만에 개편 수순을 밟는다. 서비스의 큰 틀은 유지하되 전반적인 이용자 경험을 개선할 계획이다. 구체적인 개 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_d0eac4c280616d9e013e00441d0ad199_90768_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
