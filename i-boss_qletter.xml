@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 23:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 02:07:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 검색 결과 변화를 주목해야 하는 이유]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1160050-%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B2%80%EC%83%89_%EA%B2%B0%EA%B3%BC_%EB%B3%80%ED%99%94%EB%A5%BC_%EC%A3%BC%EB%AA%A9%ED%95%B4%EC%95%BC_%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1160050-%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B2%80%EC%83%89_%EA%B2%B0%EA%B3%BC_%EB%B3%80%ED%99%94%EB%A5%BC_%EC%A3%BC%EB%AA%A9%ED%95%B4%EC%95%BC_%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0/</guid>
+            <pubDate>Mon, 05 Sep 2022 02:06:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1160050-네이버_검색_결과_변화를_주목해야_하는_이유/">
+						<div class="thumb"><img src="/images/qletter_1160050.png"></div>
+						<p><strong>네이버 검색 결과 변화를 주목해야 하는 이유</strong>2022.09.05</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1160050.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[숫자로 일하는 법! 스킬을 획득했습니다.]]></title>
             <link>https://qletter.i-boss.co.kr/view/1156094-%EC%88%AB%EC%9E%90%EB%A1%9C_%EC%9D%BC%ED%95%98%EB%8A%94_%EB%B2%95_%EC%8A%A4%ED%82%AC%EC%9D%84_%ED%9A%8D%EB%93%9D%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4/</link>
@@ -127,17 +138,6 @@
 						<p><strong>OO 안 하면 페북·인스타 못한다고?</strong>2022.07.25</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1097798.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 마케팅 업계가 주목한 키워드, 휴식 😌]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1094247-%EC%9A%94%EC%A6%98_%EB%A7%88%EC%BC%80%ED%8C%85_%EC%97%85%EA%B3%84%EA%B0%80_%EC%A3%BC%EB%AA%A9%ED%95%9C_%ED%82%A4%EC%9B%8C%EB%93%9C_%ED%9C%B4%EC%8B%9D/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1094247-%EC%9A%94%EC%A6%98_%EB%A7%88%EC%BC%80%ED%8C%85_%EC%97%85%EA%B3%84%EA%B0%80_%EC%A3%BC%EB%AA%A9%ED%95%9C_%ED%82%A4%EC%9B%8C%EB%93%9C_%ED%9C%B4%EC%8B%9D/</guid>
-            <pubDate>Thu, 21 Jul 2022 01:48:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1094247-요즘_마케팅_업계가_주목한_키워드_휴식/">
-						<div class="thumb"><img src="/images/qletter_1094247.png"></div>
-						<p><strong> 요즘 마케팅 업계가 주목한 키워드, 휴식 😌</strong>2022.07.21</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1094247.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
