@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-09-05T22:20:38.034Z</updated>
+    <updated>2022-09-05T23:21:58.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[9월 6일 마케팅 뉴스클리핑] 중개만 하는데 수수료 40%... 백화점 뺨치는 선물하기 외]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9456</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9456"/>
+        <updated>2022-09-05T23:21:34.841Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘TV 광고도 이제는 가구별로 맞춤 시대’... SK브로드밴드, 한국리서치와] 어드레서블TV 광고 효과 검증 나서]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9455</id>
@@ -205,13 +212,6 @@
         <title type="html"><![CDATA[커세어, 사용자가 손으로 구부릴 수 있는 모니터를 만들다]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9427</id>
         <link href="https://www.i-boss.co.kr/ab-2877-9427"/>
-        <updated>2022-08-31T02:16:12.725Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4060이 선택한 국내 맥주 브랜드 1위는 "카스"... MZ세대 1위는 "테라"]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9426</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9426"/>
         <updated>2022-08-31T02:16:12.725Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>

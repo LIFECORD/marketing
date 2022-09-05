@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 22:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 23:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[9월 6일 마케팅 뉴스클리핑] 중개만 하는데 수수료 40%... 백화점 뺨치는 선물하기 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9456</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9456</guid>
+            <pubDate>Tue, 06 Sep 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 중개만 하는데 수수료 40%... 백화점 뺨치는 선물하기  카카오 선물하기는 매장 및 주차장 등 공간을 내어주는 백화점, 재고 처리 및 고객관리 서비스를 제공하는 타 온라인 플랫폼들과 달리 중개 서비스로만 받는 판매 수수료 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_a5dc9294e70e1a989570e4a9d3f028f7_16554_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TV 광고도 이제는 가구별로 맞춤 시대... SK브로드밴드, 한국리서치와] 어드레서블TV 광고 효과 검증 나서]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9455</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9427</guid>
             <pubDate>Wed, 31 Aug 2022 08:42:00 GMT</pubDate>
             <content:encoded><![CDATA[컴퓨터 모니터는 현재 커브드 모니터와 플랫 모니터 크게 두가지로 나뉠 수 있다. 양 모니터는 각각 확실한 장점과 이에 대한 소비자의 선호가 분명하다. 어떤 사람들은 덜 왜곡된 이미지를 보여주고 반사를 확대하는 경향이 적 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[4060이 선택한 국내 맥주 브랜드 1위는 카스... MZ세대 1위는 테라]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9426</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9426</guid>
-            <pubDate>Wed, 31 Aug 2022 08:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)가2022년 6월 8일부터 21일까지 4060 남녀 360명을 대상으로 국산 맥주 이용 트렌드 조사를 진행했다. 4060 신중년이 가장 많이 구매하는 국내 맥주는 카스(39.9%)며, 향후 구매를 희망하는  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
