@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 06:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 07:39:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지그재그, 데이터 분석 솔루션 지그재그 인사이트 출시]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9464</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9464</guid>
+            <pubDate>Tue, 06 Sep 2022 07:38:55 GMT</pubDate>
+            <content:encoded><![CDATA[입점 스토어들의 사업 전략 수립 돕는 지그재그 인사이트 선봬  지그재그가 커머스 분석 솔루션 지그재그 인사이트를 출시했다고 6일 밝혔다.  지그재그 인사이트는 연간 거래액 1조원, 누적 거래액 4조원 이상을 달성한 지그재 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8a06d89c7e26bc51020e54045ab30919_63377_1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[카페24, 틱톡 손잡고 숏폼 마케팅 지원 사격]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9463</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9435</guid>
             <pubDate>Wed, 31 Aug 2022 07:37:31 GMT</pubDate>
             <content:encoded><![CDATA[방학 하면 생각나는 것들이 있다. 그 중에서도 대학생들은 다양한 경험을 위해 공모전, 동아리, 대외활동, 봉사활동 등에 힘쓴다. 정부와 공공 기관 혹은 다양한 기업에서도 이 시즌을 맞아 다양한 아이디어 공모전을 내놓는다.  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[광고업계 취업 박람회, 광고에 꿈을 더하다, ADD JOB 페스티벌 개최]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9434</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9434</guid>
-            <pubDate>Wed, 31 Aug 2022 00:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[광고업계 인력난이 계속 심화되고 있다. 몇년 전부터 광고인들이 광고업계를 떠나 플랫폼, IT 회사, 스타트업으로 자리를 옮기고 있다.캠페인을 기획, 실행할 수 있고, 크리에이티브가 뛰어나며, 다양한 이해관계자를 조율할 수  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
