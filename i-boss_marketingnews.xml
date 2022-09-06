@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 22:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 23:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[9월 7일 마케팅 뉴스클리핑] 배민 CPC 광고, 일부 업종서 주문 전환율 10%대 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9465</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9465</guid>
+            <pubDate>Wed, 07 Sep 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 배민 CPC 광고, 일부 업종서 주문 전환율 10%대  자영업자들 광고비 부담을 늘릴 수 있다는 일부 우려 속에 6월 시작한 배민 CPC 광고 서비스 `우리가게클릭`이 상대적으로 높은 주문전환율을 기록하며 우호적인 평가를 받고 있다 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_f3540d0f5bfee3b4f06f0ebeae763f53_95564_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지그재그, 데이터 분석 솔루션 지그재그 인사이트 출시]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9464</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 01 Sep 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 실검은 사라졌지만... 네이버 서비스에 소통 기능 보완  검색 비즈니스를 중심에 뒀던 네이버가 차세대 커뮤니티 서비스를 강화하고 있다. 네이버의 여러 주제형 서비스에 커뮤니티, 소통 기능을 보완해주는 형태로 확장하려 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_3f8fe3022287aca6267dfb85dc3a058b_12387_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대학생들의 방학의 꽃, 2022 3대 광고 공모전]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9435</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9435</guid>
-            <pubDate>Wed, 31 Aug 2022 07:37:31 GMT</pubDate>
-            <content:encoded><![CDATA[방학 하면 생각나는 것들이 있다. 그 중에서도 대학생들은 다양한 경험을 위해 공모전, 동아리, 대외활동, 봉사활동 등에 힘쓴다. 정부와 공공 기관 혹은 다양한 기업에서도 이 시즌을 맞아 다양한 아이디어 공모전을 내놓는다.  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
