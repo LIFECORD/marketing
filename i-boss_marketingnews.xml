@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 02:01:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 04:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[와디즈, 펀딩 중개 수수료 최대 45% 인하]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9474</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9474</guid>
+            <pubDate>Thu, 08 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[`개인, 중소상공인, 크리에이터 등 메이커 다양화 목적  라이프디자인 펀딩플랫폼 와디즈(대표 신혜성)는 펀딩 진입 허들을 낮추고 개인부터 기업까지 메이커의 필요에 맞게 다양한 요금제를 선택할 수 있도록 하는 `펀딩 수수 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_722a842ceb2a0777fd25ca183b3ed935_53121_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[데이터 마케팅 인사이트] 8월 게임 앱 시장은? 방학 시즌 사용량 급증한 Roblox & 돌풍 일으키는 히트2]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9473</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9446</guid>
             <pubDate>Sun, 04 Sep 2022 09:03:00 GMT</pubDate>
             <content:encoded><![CDATA[NPD 그룹의 새로운 예측에 따르면, 소비자 테크 채택의급증 이후 미국인들은 올해 새로운 테크 기기를 구입하는 데 6%, 내년에는 3%를 덜 지출할 것으로 보인다. 반면,평균 판매 가격(ASP)이 높아져 2019년 산업 매출보다 높은 수준을 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 大퇴사(Great Resignation)에서 큰 후회(Great Regret)로?]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9445</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9445</guid>
-            <pubDate>Sat, 03 Sep 2022 09:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 시대를 겪으며 특별한 사유가 없이도 직장인들의 자발적인 퇴직 러시가 이뤄졌다. 대퇴사((Great Resignation) 또는 대개편Great Reshuffle)이라고 불리는 상황에서, 거의 5천만 명의 미국인들이 더 높은 임금, 더 많은 혜택 또는  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
