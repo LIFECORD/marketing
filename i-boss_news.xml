@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-09-07T23:25:39.385Z</updated>
+    <updated>2022-09-08T02:01:54.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데이터 마케팅 인사이트] 8월 게임 앱 시장은? 방학 시즌 사용량 급증한 ‘Roblox’ & 돌풍 일으키는 ‘히트2’]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9473</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9473"/>
+        <updated>2022-09-08T02:01:31.562Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인포그래픽] 2022년 가장 많이 검색된 소비자 브랜드(2) 산업별]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9471</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9471"/>
+        <updated>2022-09-08T02:01:31.562Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인포그래픽] 2022년 가장 많이 검색된 소비자 브랜드(1) 지역별]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9470</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9470"/>
+        <updated>2022-09-08T02:01:31.562Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[9월 8일 마케팅 뉴스클리핑] 네이버, '플레이스 쿠폰' 출시 외]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9472</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9472"/>
+        <updated>2022-09-08T02:01:31.563Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버, 사업자가 직접 쿠폰 발행하고 배포하는 '플레이스 쿠폰' 출시]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9469</id>
@@ -185,34 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-9445</id>
         <link href="https://www.i-boss.co.kr/ab-2877-9445"/>
         <updated>2022-09-03T02:00:54.235Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광고는 죽지 않았다! 광고에 대한 뜨거운 열정의 현장을 다녀오다]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9444</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9444"/>
-        <updated>2022-09-02T10:22:34.749Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대홍기획, 한국관광공사와 메타버스로 전세계에 한국 알린다]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9443</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9443"/>
-        <updated>2022-09-02T08:24:45.292Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[9월 2일 마케팅 뉴스클리핑] 광고수익 감소한 메타 '페북·인스타' 유료 기능 비중 높인다 외]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9440</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9440"/>
-        <updated>2022-09-01T23:20:58.985Z</updated>
-        <content type="html"><![CDATA[막내운영자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콘텐츠 구독 플랫폼 ‘KPR 인사이트 트리’ 새단장 오픈... 이용자 지원 강화]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9441</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9441"/>
-        <updated>2022-09-01T09:19:35.133Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
