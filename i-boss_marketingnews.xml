@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 23:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 02:05:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈퍼볼 LVII 광고 95% 판매, 30초 광고 단가 700만 달러 돌파]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9479</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9479</guid>
+            <pubDate>Sat, 10 Sep 2022 09:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼볼LVII가 2023년 2월 12일애리조나주 글렌데일의 스테이트 팜 스타디움에서 열린다. 폭스 텔레비전 네트워크에 따르면, 전국 TV 광고 인벤토리의 95%가 판매됐으며, 30초광고비는7백만 달러를 돌파했다. 폭스가판매할 수 있는 30 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인포그래픽] 국가별 부(富)와 행복의 관계]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9478</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9478</guid>
+            <pubDate>Sat, 10 Sep 2022 09:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[많은 사람들이 행복을 추구한다.행복의 조건은 어떤 것들이 있을까? 수십억 명의 사람들이 있는 만큼, 행복의 조건은 주관적이고 다양할 것이다. 그러나 시간이 지남에 따라 가족, 사랑, 목적, 재산은 공통적으로 행복의 조건으 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[틱톡, 카페24에 틱톡채널 론칭... 숏폼 마케팅 지원]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9477</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 05 Sep 2022 08:44:00 GMT</pubDate>
             <content:encoded><![CDATA[8월 초만 해도 경쟁 PT의 감소로 싸늘한 여름에 대한 염려했던 분위기가 본격적인 한여름이 되면서, 광고업계는 폭염과 함께 그 치열함이 더해졌다. 광고업계는 지난 8월 경쟁 PT의 뜨거워진 기세로 이열치열로 보내는 분위기였 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 식품 및 에너지 가격 상승이 경제에 미치는 영향]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9449</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9449</guid>
-            <pubDate>Mon, 05 Sep 2022 08:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[러시아의 우크라이나 침공 이후, 에너지 공급 차질의 영향은 식품 가격에서 전기, 소비 심리에 이르기까지 모든 영역에서 발생하고 있다. 치솟는 물가에 대응해서 많은 OECD 국가들은 전략적 석유 비축량을 활용하고 있다. 사실,  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[9월 5일 마케팅 뉴스클리핑] 인기 직종은 옛말... IT스타트업으로 떠나는 광고인 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9442</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9442</guid>
-            <pubDate>Mon, 05 Sep 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 인기 직종은 옛말... IT스타트업으로 떠나는 광고인  광고회사의 꽃으로 불렸던 AE 인기가 곤두박질치고 있다. 상위 대행사로 옮기거나 아예 네카라쿠배당토나 게임, 스타트업의 마케팅커뮤니케이션으로 옮기는 식이다. 업계 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_61448afa98a40e43a622733c7edcc4a2_68543_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
