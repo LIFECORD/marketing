@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Sep 2022 23:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 02:03:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로블록스, 메타버스에서 새로운 광고 플랫폼으로 성장을 꾀하다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9481</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9481</guid>
+            <pubDate>Sun, 11 Sep 2022 09:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[로블록스는 팬데믹 시대의 성장 물결을 타고 7배가치 증가, 폭발적인 사용자 증가, 수천만 명의 참석자와 함께 폭발적인 인기를 얻은 Lil Nas X 콘서트를 선보였다. 이러한 성공은 대부분 로블록스의 젊고 참여도가 높은 플레이어 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[디렉터스컴퍼니, 두뇌 건강 전문 브랜드 더비랩 인수]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9480</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9480</guid>
+            <pubDate>Sun, 11 Sep 2022 09:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[브랜드 스케일업 전문기업 디렉터스컴퍼니(대표이사 신재혁)가 두뇌 건강 전문 브랜드 더비랩을 인수했다. 디렉터스컴퍼니가 인수한 더비랩은 지난 2019년 7월 브랜드를 론칭하고 공부할 때 필요한 기억력과 눈 건강, 지구력 개 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[슈퍼볼 LVII 광고 95% 판매, 30초 광고 단가 700만 달러 돌파]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9479</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9452</guid>
             <pubDate>Mon, 05 Sep 2022 09:19:00 GMT</pubDate>
             <content:encoded><![CDATA[대홍기획(대표이사:홍성현)이D.시그널(D.SIGNAL)프로젝트의 첫 결과물, D.비즈.시그널(D.BIZ.SIGNAL) Vol. 1 리포트를 발간했다. 정보와 데이터의 홍수 속에서 변화의 속도는 더욱 빨라지며 불확실성은 더욱 커지는 가운데,고객과 시장을 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[Nielsen Digital Now] 쿠팡플레이 월간순이용자수 6개월간 54% 증가]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9451</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9451</guid>
-            <pubDate>Mon, 05 Sep 2022 09:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 미디어 정보 분석 기업 닐슨미디어코리아에 따르면 온라인동영상서비스(OTT)쿠팡플레이의 앱 순이용자수가4월227만명에서7월456만명으로2배가량 급격히 늘었고,지난6개월 간54%증가했다. 6월 수지 주연 오리지널 드라마`안 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[Account Action] 8월 한여름을 이열치열로 광고업계, 치열한 경쟁 PT 진행 중]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9450</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9450</guid>
-            <pubDate>Mon, 05 Sep 2022 08:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[8월 초만 해도 경쟁 PT의 감소로 싸늘한 여름에 대한 염려했던 분위기가 본격적인 한여름이 되면서, 광고업계는 폭염과 함께 그 치열함이 더해졌다. 광고업계는 지난 8월 경쟁 PT의 뜨거워진 기세로 이열치열로 보내는 분위기였 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
