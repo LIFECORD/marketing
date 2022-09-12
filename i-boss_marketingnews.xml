@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 22:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 23:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[9월 13일 마케팅 뉴스클리핑] 네이버 영수증 리뷰 이벤트 종료 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9487</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9487</guid>
+            <pubDate>Tue, 13 Sep 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 앱테크 맛집 네이버 영수증 리뷰 이벤트 10월 말 종료  네이버는 MY플레이스의 영수증 리뷰 포인트 지급 이벤트를 종료한다고 밝혔다. 영수증을 인증하고 리뷰를 작성하면 네이버페이 포인트를 지급해왔다. 토스 만보기 등과  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16629901461199.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외 크리에이티브] 울마크 컴퍼니, 기름으로 채워진 수영장으로 패션의 환경적 현실을 드러내다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9486</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9458</guid>
             <pubDate>Tue, 06 Sep 2022 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[광고 산업은 끊임없이 경기 침체에 도전하며발전해왔다. 지난 역사를 돌이켜 보면, 경기 침체가 없었던 적이 없었다. 1965년 광고 산업에 뛰어들어 1973년 TBWA를 공동 설립했고 1982년 바틀 보글 헤가티(BBH)를 공동 설립한 존 헤가티 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[4060, 받고 싶은 추석 선물 1위는 백화점 상품권 2위 건강기능식품]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9457</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9457</guid>
-            <pubDate>Tue, 06 Sep 2022 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)가 다가오는 추석을 맞이해 4060 선물 트렌드 조사 결과를 발표했다. 올해 추석에는 고물가 경제상황의 여파로 얼리버드 이벤트 등의 추석 선물 사전예약이 역대 최대 매출을 기록했 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
