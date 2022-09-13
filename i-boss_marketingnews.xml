@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 22:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 23:30:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[9월 14일 마케팅 뉴스클리핑] 인스타그램, 피드서 리포스트 기능 도입 검토 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9493</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9493</guid>
+            <pubDate>Wed, 14 Sep 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 인스타그램, 피드서 `리포스트` 기능 도입 검토  인스타그램에서 게시물을 공유하거나 다시 올리는 `리포스트` 기능이 도입될 전망이다. 외신은 메타가 엄선된 사용자를 대상으로 해당 기능을 테스트할 예정이라고 보도했다.  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_25d8aefa8fafa23d9b1df3bef9b47f41_87936_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국PR협회, 숏폼 영상 콘텐츠를 주제로 김용태 더에스엠씨그룹 대표와 권기정 호프만에이전시코리아 대표 PR 토크 개최]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9494</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 07 Sep 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 배민 CPC 광고, 일부 업종서 주문 전환율 10%대  자영업자들 광고비 부담을 늘릴 수 있다는 일부 우려 속에 6월 시작한 배민 CPC 광고 서비스 `우리가게클릭`이 상대적으로 높은 주문전환율을 기록하며 우호적인 평가를 받고 있다 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_f3540d0f5bfee3b4f06f0ebeae763f53_95564_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지그재그, 데이터 분석 솔루션 지그재그 인사이트 출시]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9464</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9464</guid>
-            <pubDate>Tue, 06 Sep 2022 07:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[입점 스토어들의 사업 전략 수립 돕는 지그재그 인사이트 선봬  지그재그가 커머스 분석 솔루션 지그재그 인사이트를 출시했다고 6일 밝혔다.  지그재그 인사이트는 연간 거래액 1조원, 누적 거래액 4조원 이상을 달성한 지그재 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8a06d89c7e26bc51020e54045ab30919_63377_1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
