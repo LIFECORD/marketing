@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 06:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 07:38:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발란, 사전사후 감정 강화한 발란 케어 출시]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9492</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9492</guid>
+            <pubDate>Tue, 13 Sep 2022 07:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[고이비토 명품감정원 통한 사전사후 케어 비롯, 상품 및 구매 보호 프로세스 강화  온라인 명품 플랫폼 발란이 명품 사전 관리부터 사후 관리까지 고객이 안심하고 플랫폼을 이용할 수 있는 토탈 서비스 발란 케어를 론칭한다고 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_79a378d146b51b48fccc096aabda3b76_74459_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국인이 가장 많이 사용하는 전문몰 앱은?]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9491</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 06 Sep 2022 11:24:00 GMT</pubDate>
             <content:encoded><![CDATA[틱톡 채널로 온라인몰-틱톡 간 콘텐츠상품광고 연동 쉬워져  카페24는 틱톡과 함께 온라인 브랜드가 숏폼 마케팅을 쉽고 편리하게 할 수 있도록 지원하는 서비스인 `틱톡 채널`을 론칭했다고 6일 밝혔다.   틱톡 채널은 온라인 브 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2b57790c5e91b94da10c4df4b3c4c60c_38090_1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[상반기 온라인에서 가장 많이 판매된 화장품 브랜드 TOP10은?]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9461</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9461</guid>
-            <pubDate>Tue, 06 Sep 2022 10:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[올해 상반기 온라인에서 가장 많이 구매한 화장품 브랜드는 설화수, 헤라, 가히 순 올해 상반기 온라인에서 가장 많이 구매한 화장품류는 스킨케어, 화장품 전체 50% 차지     앱/리테일 분석 서비스 와이즈앱리테일굿즈가 올해  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_df57ed19630c1242bc1cd5c6ab364dfe_22801_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
