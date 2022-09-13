@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 08:27:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 09:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국PR협회, 숏폼 영상 콘텐츠를 주제로 김용태 더에스엠씨그룹 대표와 권기정 호프만에이전시코리아 대표 PR 토크 개최]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9494</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9494</guid>
+            <pubDate>Tue, 13 Sep 2022 09:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[한국PR협회(회장 김주호)는9월15일 오후4시,왜 영상콘텐츠인가,왜 숏폼인가?를 주제로 열다섯번째PR피플 토크(People Talk)행사를 진행한다고 밝혔다. 이번9월PR피플 토크에서는 콘텐츠 브랜딩 기업인 더에스엠씨(The SMC)김용태 대표 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[발란, 사전사후 감정 강화한 발란 케어 출시]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9492</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 06 Sep 2022 07:38:55 GMT</pubDate>
             <content:encoded><![CDATA[입점 스토어들의 사업 전략 수립 돕는 지그재그 인사이트 선봬  지그재그가 커머스 분석 솔루션 지그재그 인사이트를 출시했다고 6일 밝혔다.  지그재그 인사이트는 연간 거래액 1조원, 누적 거래액 4조원 이상을 달성한 지그재 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_8a06d89c7e26bc51020e54045ab30919_63377_1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[카페24, 틱톡 손잡고 숏폼 마케팅 지원 사격]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9463</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9463</guid>
-            <pubDate>Tue, 06 Sep 2022 11:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[틱톡 채널로 온라인몰-틱톡 간 콘텐츠상품광고 연동 쉬워져  카페24는 틱톡과 함께 온라인 브랜드가 숏폼 마케팅을 쉽고 편리하게 할 수 있도록 지원하는 서비스인 `틱톡 채널`을 론칭했다고 6일 밝혔다.   틱톡 채널은 온라인 브 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_2b57790c5e91b94da10c4df4b3c4c60c_38090_1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
