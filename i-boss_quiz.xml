@@ -2,20 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-5826</id>
     <title>아이보스 ─ 콘텐츠 ─ 마케팅 퀴즈</title>
-    <updated>2022-09-14T14:27:53.180Z</updated>
+    <updated>2022-09-14T15:22:35.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[사용자 본인은 모르게 해당 사용자의 콘텐츠를 다른 사람이 보지 못하도록 차단하는 행위로, 트위터나 인스타그램 등 플랫폼에서는 하고 있지 않다며 공식적으로 해명한 바 있는 이 행위를 가리키는 용어는 무엇일까요?]]></title>
-        <id>https://www.i-boss.co.kr/ab-5826</id>
-        <link href="https://www.i-boss.co.kr/ab-5826"/>
-        <updated>2022-09-14T14:27:43.239Z</updated>
-        <content type="html"><![CDATA[<tbody><tr>
-				<td><!--1-->사용자 본인은 모르게 해당 사용자의 콘텐츠를 다른 사람이 보지 못하도록 차단하는 행위로, 트위터나 인스타그램 등 플랫폼에서는 하고 있지 않다며 공식적으로 해명한 바 있는 이 행위를 가리키는 용어는 무엇일까요?<span style="display:block;font-size:12px;color:#999;margin-bottom:20px;"></span></td>
-			</tr>
-			<tr>
-				<td><table class="items" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="PQ_BD5826_1506_1" value="1" class="AB-radio" id="PQ_BD5826_1506_1_0"><label for="PQ_BD5826_1506_1_0" id="label_PQ_BD5826_1506_1_0">(A) 키워드블락 (Keyword block)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1506_1" value="2" class="AB-radio" id="PQ_BD5826_1506_1_1"><label for="PQ_BD5826_1506_1_1" id="label_PQ_BD5826_1506_1_1">(B) 서치클로즈 (Search close)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1506_1" value="3" class="AB-radio" id="PQ_BD5826_1506_1_2"><label for="PQ_BD5826_1506_1_2" id="label_PQ_BD5826_1506_1_2">(C) 알고리즘벤 (Algorithm ban)</label></td></tr><tr><td><input type="radio" name="PQ_BD5826_1506_1" value="4" class="AB-radio" id="PQ_BD5826_1506_1_3"><label for="PQ_BD5826_1506_1_3" id="label_PQ_BD5826_1506_1_3">(D) 쉐도우밴 (Shadow ban)</label></td></tr></tbody></table></td>
-			</tr>
-		</tbody>]]></content>
-    </entry>
 </feed>
