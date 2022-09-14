@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 02:02:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 04:21:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스타그램, 크리에이터 수익화 기능 기프트 테스트]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9500</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9500</guid>
+            <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[인스타그램이 새로운 크리에이터 수익화 기능인 `기프트(Gifts)`를 내부 테스트 중이다.  비즈니스인사이더, 테크크런치 등 외신은 14일(현지시간) 인스타그램이 크리에이터가 숏폼 콘텐츠 `릴스(Reels)`를 통해 돈을 벌 수 있는 팁  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[SSG닷컴, 오픈마켓 종료... 이베이 중복 사업 정리]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9499</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 08 Sep 2022 08:30:00 GMT</pubDate>
             <content:encoded><![CDATA[치열한 경쟁 속에서 인기있는 브랜드는 비즈니스에 도움이 된다. 인기있는 브랜드는 어떻게 알 수 있을까? 방법 중 하나는 구글 검색을 통해 소비자들이 온라인에서 무엇을 검색하는지 확인하는 것이다. BusinessFinancing.co.uk는 구 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[9월 8일 마케팅 뉴스클리핑] 네이버, 플레이스 쿠폰 출시 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9472</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9472</guid>
-            <pubDate>Thu, 08 Sep 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 네이버, `플레이스 쿠폰` 출시  네이버가 로컬 소상공인을 위한 새로운 비즈니스 솔루션을 출시했다. 신규 고객을 유치하거나 단골고객의 만족도를 높이는 데 활용할 수 있는 `플레이스 쿠폰`이다. 할인쿠폰, 증정쿠폰 두 가 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_faedf8a894c3ab55866cfadbb1710338_76015_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
