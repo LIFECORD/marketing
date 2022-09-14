@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-09-14T22:21:55.721Z</updated>
+    <updated>2022-09-14T23:22:09.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[9월 15일 마케팅 뉴스클리핑] 네이버 스마트스토어, 6년간 49만 개... 연평균 37% 증가 외]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9501</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9501"/>
+        <updated>2022-09-14T23:21:45.624Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인스타그램, 크리에이터 수익화 기능 '기프트' 테스트]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9500</id>
@@ -205,13 +212,6 @@
         <title type="html"><![CDATA[[인포그래픽] 2022년 가장 많이 검색된 소비자 브랜드(2) 산업별]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9471</id>
         <link href="https://www.i-boss.co.kr/ab-2877-9471"/>
-        <updated>2022-09-08T02:01:31.562Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인포그래픽] 2022년 가장 많이 검색된 소비자 브랜드(1) 지역별]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9470</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9470"/>
         <updated>2022-09-08T02:01:31.562Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>

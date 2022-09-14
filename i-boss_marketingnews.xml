@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 22:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 23:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[9월 15일 마케팅 뉴스클리핑] 네이버 스마트스토어, 6년간 49만 개... 연평균 37% 증가 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9501</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9501</guid>
+            <pubDate>Thu, 15 Sep 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 네이버 스마트스토어, 6년간 49만 개... 연평균 37% 증가  스마트스토어는 2016년 10만 개에서 2021년 말 49만 개로 늘었다. 연평균 증가율은 37%에 달한다. 지난해 스마트스토어 매출 발생 판매자 중 55%가 가입 1년 이하의 초기 판매 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_07a5b70064025cf943bc3de70125cb2d_58224_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인스타그램, 크리에이터 수익화 기능 기프트 테스트]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9500</link>
@@ -235,14 +243,6 @@
             <title><![CDATA[[인포그래픽] 2022년 가장 많이 검색된 소비자 브랜드(2) 산업별]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9471</link>
             <guid>https://www.i-boss.co.kr/ab-2877-9471</guid>
-            <pubDate>Thu, 08 Sep 2022 08:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[치열한 경쟁 속에서 인기있는 브랜드는 비즈니스에 도움이 된다. 인기있는 브랜드는 어떻게 알 수 있을까? 방법 중 하나는 구글 검색을 통해 소비자들이 온라인에서 무엇을 검색하는지 확인하는 것이다. BusinessFinancing.co.uk는 구 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 2022년 가장 많이 검색된 소비자 브랜드(1) 지역별]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9470</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9470</guid>
             <pubDate>Thu, 08 Sep 2022 08:30:00 GMT</pubDate>
             <content:encoded><![CDATA[치열한 경쟁 속에서 인기있는 브랜드는 비즈니스에 도움이 된다. 인기있는 브랜드는 어떻게 알 수 있을까? 방법 중 하나는 구글 검색을 통해 소비자들이 온라인에서 무엇을 검색하는지 확인하는 것이다. BusinessFinancing.co.uk는 구 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
