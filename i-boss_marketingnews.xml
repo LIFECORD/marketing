@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 22:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 23:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[9월 16일 마케팅 뉴스클리핑] 유튜브, 공짜로 영상 보려면 광고 5개 봐 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9511</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9511</guid>
+            <pubDate>Fri, 16 Sep 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 유튜브, 공짜로 영상 보려면 광고 5개 봐  유튜브가 무료 이용자들을 대상으로 최대 5개의 광고를 넣는 새로운 광고 형식을 테스트 중인 것으로 전해졌다. 새롭게 테스트하는 광고 형식은 건너뛰기조차 불가능해 5개를 모두 봐 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1b733876d40321fde02c1f899e6b8271_24368_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크래프톤 버추얼 휴먼 애나(ANA), 첫 디지털 싱글 공개]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9510</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9482</guid>
             <pubDate>Mon, 12 Sep 2022 09:28:00 GMT</pubDate>
             <content:encoded><![CDATA[영국은 여자만 왕이 될 수 있어요? 예전에 어떤 친구가 진지하게 물었다. 대부분사람이 지난 70년 동안 영국의 군주로는 엘리자베스 여왕만 봤으니, 그런 질문을 던질 만도 하다. 70년을 왕으로서 한자리를 지킨 어머니처럼, 아들 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[로블록스, 메타버스에서 새로운 광고 플랫폼으로 성장을 꾀하다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9481</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9481</guid>
-            <pubDate>Sun, 11 Sep 2022 09:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[로블록스는 팬데믹 시대의 성장 물결을 타고 7배가치 증가, 폭발적인 사용자 증가, 수천만 명의 참석자와 함께 폭발적인 인기를 얻은 Lil Nas X 콘서트를 선보였다. 이러한 성공은 대부분 로블록스의 젊고 참여도가 높은 플레이어 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
