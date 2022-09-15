@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.i-boss.co.kr/ab-7214</id>
     <title>아이보스 ─ 뉴스 ─ 전체보기</title>
-    <updated>2022-09-15T02:11:06.007Z</updated>
+    <updated>2022-09-15T04:49:17.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.i-boss.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크래프톤 버추얼 휴먼 ‘애나(ANA)’, 첫 디지털 싱글 공개]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9510</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9510"/>
+        <updated>2022-09-15T04:48:55.379Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고프로, 히어로11 블랙 국내 정식 출시... "역대 최고의 촬영 환경 제공"]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9509</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9509"/>
+        <updated>2022-09-15T04:48:55.380Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국립중앙박물관, 올 가을 ‘MZ세대 놀이터’로 변신하다]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9508</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9508"/>
+        <updated>2022-09-15T04:48:55.395Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더에스엠씨그룹, 네이버 브랜드 커넥트 서비스 협력사 선정]]></title>
         <id>https://www.i-boss.co.kr/ab-2877-9507</id>
@@ -192,27 +213,6 @@
         <id>https://www.i-boss.co.kr/ab-2877-9481</id>
         <link href="https://www.i-boss.co.kr/ab-2877-9481"/>
         <updated>2022-09-11T02:02:44.073Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디렉터스컴퍼니, 두뇌 건강 전문 브랜드 ‘더비랩’ 인수]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9480</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9480"/>
-        <updated>2022-09-11T02:02:44.073Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈퍼볼 LVII 광고 95% 판매, 30초 광고 단가 700만 달러 돌파]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9479</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9479"/>
-        <updated>2022-09-10T02:04:58.537Z</updated>
-        <content type="html"><![CDATA[cookiman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인포그래픽] 국가별 부(富)와 행복의 관계]]></title>
-        <id>https://www.i-boss.co.kr/ab-2877-9478</id>
-        <link href="https://www.i-boss.co.kr/ab-2877-9478"/>
-        <updated>2022-09-10T02:04:58.538Z</updated>
         <content type="html"><![CDATA[cookiman]]></content>
     </entry>
 </feed>
