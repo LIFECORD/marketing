@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 23:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 01:58:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[광고주가 선호하는 디지털플랫폼은 포털 코바코, 디지털 플랫폼 이용 행태 조사]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9517</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9517</guid>
+            <pubDate>Sat, 17 Sep 2022 09:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코, 사장 이백만)가 광고주를 대상으로 디지털 플랫폼 활용 현황을 조사한 결과, 전체 광고주의29.5%가 종합포털, 오픈마켓 등 디지털 플랫폼을 이용하고 있는 것으로 나타났으며, 디지털 플랫폼  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[이노레드, 칸 라이언즈 2022 아시아 에이전시 톱20 선정... 국내 광고회사 유일]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9516</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9516</guid>
+            <pubDate>Sat, 17 Sep 2022 09:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[독립 광고회사 이노레드(대표 박현우)가 국내 광고회사 중 유일하게 칸 라이언즈가 선정한 `아시아 에이전시 톱 20위` 안에 이름을 올리며, 세계적으로 크리에이티브 능력을 인정 받았다. 이노레드는칸 라이언즈가 발행하는라이 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[메타브, 와디즈와 제휴 마케팅 웹 콘텐츠 제작&홍보 지원한다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9514</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 13 Sep 2022 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 앱테크 맛집 네이버 영수증 리뷰 이벤트 10월 말 종료  네이버는 MY플레이스의 영수증 리뷰 포인트 지급 이벤트를 종료한다고 밝혔다. 영수증을 인증하고 리뷰를 작성하면 네이버페이 포인트를 지급해왔다. 토스 만보기 등과  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16629901461199.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외 크리에이티브] 울마크 컴퍼니, 기름으로 채워진 수영장으로 패션의 환경적 현실을 드러내다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9486</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9486</guid>
-            <pubDate>Mon, 12 Sep 2022 09:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[울마크 컴퍼니(Woolmark Company)의 최신 캠페인 `화석 연료가 아닌 울을 입어라(Wear Wool, Not Fossil Fuel)`는 합성섬유 옷을 만드는 데 사용되는 원유의 양을 강조하기 위해 모델을 석유에 빠트렸다. 캠페인 비디오에서 모델들은 기름에  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[마더, 방탄 레저웨어로 커머스 사업 론칭]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9485</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9485</guid>
-            <pubDate>Mon, 12 Sep 2022 09:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[많은 광고회사가 커머스에 진출하고 있다. 그런데 단순히 회사의 성장과 수익이 아닌, 사회의 특정 문제에 대해 생각하고 행동하는 방식을 바꾸기 위해 커머스에 진출한 광고회사가 있다. 바로 마더(Mother). 마더는 마더 굿즈라 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
