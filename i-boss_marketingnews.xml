@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 22:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 23:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[9월 19일 마케팅 뉴스클리핑] 카카오 오픈채팅 광고 실험... 두 마리 토끼 잡는다 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9515</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9515</guid>
+            <pubDate>Mon, 19 Sep 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 카카오 오픈채팅 광고 실험... 두 마리 토끼 잡는다  카카오가 오픈채팅에 광고를 시범 적용하고 수익성 개선에 나선다. 카카오는 지난 7일부터 일부 이벤트성 오픈채팅방 상단에 광고를 도입해 시범 운영 중이다. 앞서 카카오 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_3661a1fa336554e0de214b8683006f0e_80027_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외 크리에이티브] 줌, 새로운 로고와 제품 리브랜딩 발표... 더이상 화상회의 앱이 아니다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9519</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9490</guid>
             <pubDate>Tue, 13 Sep 2022 08:45:00 GMT</pubDate>
             <content:encoded><![CDATA[임팩트피플스(대표 신철호)가 에이풀(Aful)을 통해 2022년 5월 25일부터 6월 7일까지 4060 남녀 353명을 대상으로 제주 호텔 이용 트렌드 조사를 진행했다. 코로나19로 인해 해외여행을 준비하던 많은 이들이 국내여행을 택했다.특히  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외 크리에이티브] 캔디 크러쉬 사가, 10주년을 축하하다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9489</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9489</guid>
-            <pubDate>Tue, 13 Sep 2022 08:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[캔디 크러쉬 사가(Candy Crush Saga)가 10살이 됐다. 캔디 크러쉬 사가가 무엇이냐고? 아마 한번은 해본 게임이다. 나타나는 캔디를 바꾸면서 3개 이상 같은 캔디를 매치하면 스테이지를 클리어하는 모바일 퍼즐게임이다. 2012년 이후,  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
