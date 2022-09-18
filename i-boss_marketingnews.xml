@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 23:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 02:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외 크리에이티브] 줌, 새로운 로고와 제품 리브랜딩 발표... 더이상 화상회의 앱이 아니다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9519</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9519</guid>
+            <pubDate>Sun, 18 Sep 2022 09:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[줌은 새로운 로고를 공개했다. 줌이 더이상 화상 회의 앱이 아닌본격적인 커뮤니케이션 및 협업 플랫폼을 표현하기 위해, 각각의 `o`가 팀 대화, 미팅, 회의실 등을 나타내는 새로운 로고를 만들었고 이에 따른 글로벌 캠페인도  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인포그래픽] 세계에서 게이머 비중이 높은 나라]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9518</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9518</guid>
+            <pubDate>Sun, 18 Sep 2022 09:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[코로나 바이러스 팬데믹의 영향으로 2년 동안 온라인으로 진행된 도쿄게임쇼가 9월 15일부터 9월 18일까지 치바시 마쿠하리 멧세에서 다시 문을 연다. 비디오 게임 무역 박람회는 2019년 26만 2,000명의 관람객을 끌어모으는 세계 최 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[광고주가 선호하는 디지털플랫폼은 포털 코바코, 디지털 플랫폼 이용 행태 조사]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9517</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 13 Sep 2022 08:43:00 GMT</pubDate>
             <content:encoded><![CDATA[캔디 크러쉬 사가(Candy Crush Saga)가 10살이 됐다. 캔디 크러쉬 사가가 무엇이냐고? 아마 한번은 해본 게임이다. 나타나는 캔디를 바꾸면서 3개 이상 같은 캔디를 매치하면 스테이지를 클리어하는 모바일 퍼즐게임이다. 2012년 이후,  ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[Tip!] 추적해야 할 소셜 미디어 KPI]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9488</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9488</guid>
-            <pubDate>Tue, 13 Sep 2022 08:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[많은 브랜드, 조직, 개인이 결과를 기대하면서 소셜 미디어를 활용하고 있다. 그러나 생각보다 효과적인 결과를 얻는다는 것은 항상 쉬운 것은 아니다. 원하는 결과를 얻기 위한 최소한의 조건은 올바른 목표와 측정 항목을 설 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[9월 13일 마케팅 뉴스클리핑] 네이버 영수증 리뷰 이벤트 종료 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9487</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9487</guid>
-            <pubDate>Tue, 13 Sep 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 앱테크 맛집 네이버 영수증 리뷰 이벤트 10월 말 종료  네이버는 MY플레이스의 영수증 리뷰 포인트 지급 이벤트를 종료한다고 밝혔다. 영수증을 인증하고 리뷰를 작성하면 네이버페이 포인트를 지급해왔다. 토스 만보기 등과  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_4132a0a5cca02e341fe6cdd337cb450c_16629901461199.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
