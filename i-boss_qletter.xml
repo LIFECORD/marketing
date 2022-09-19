@@ -4,9 +4,20 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 23:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 02:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 덕에 주목받는 CTV 광고 📺]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1184897-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4_%EB%8D%95%EC%97%90_%EC%A3%BC%EB%AA%A9%EB%B0%9B%EB%8A%94_CTV_%EA%B4%91%EA%B3%A0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1184897-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4_%EB%8D%95%EC%97%90_%EC%A3%BC%EB%AA%A9%EB%B0%9B%EB%8A%94_CTV_%EA%B4%91%EA%B3%A0/</guid>
+            <pubDate>Mon, 19 Sep 2022 02:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1184897-넷플릭스_덕에_주목받는_CTV_광고/">
+						<div class="thumb"><img src="/images/qletter_1184897.png"></div>
+						<p><strong>넷플릭스 덕에 주목받는 CTV 광고 📺</strong>2022.09.19</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1184897.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[대세는 숏폼, 그런데 어떻게 활용해요?]]></title>
             <link>https://qletter.i-boss.co.kr/view/1180511-%EB%8C%80%EC%84%B8%EB%8A%94_%EC%88%8F%ED%8F%BC_%EA%B7%B8%EB%9F%B0%EB%8D%B0_%EC%96%B4%EB%96%BB%EA%B2%8C_%ED%99%9C%EC%9A%A9%ED%95%B4%EC%9A%94/</link>
@@ -127,17 +138,6 @@
 						<p><strong>비 내리는 광고 매체 성적표 ☔</strong>2022.08.01</p>
 					</a>]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1108531.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[고객을 사로잡는 상품 언어]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1104481-%EA%B3%A0%EA%B0%9D%EC%9D%84_%EC%82%AC%EB%A1%9C%EC%9E%A1%EB%8A%94_%EC%83%81%ED%92%88_%EC%96%B8%EC%96%B4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1104481-%EA%B3%A0%EA%B0%9D%EC%9D%84_%EC%82%AC%EB%A1%9C%EC%9E%A1%EB%8A%94_%EC%83%81%ED%92%88_%EC%96%B8%EC%96%B4/</guid>
-            <pubDate>Thu, 28 Jul 2022 01:47:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1104481-고객을_사로잡는_상품_언어/">
-						<div class="thumb"><img src="/images/qletter_1104481.png"></div>
-						<p><strong>고객을 사로잡는 상품 언어</strong>2022.07.28</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1104481.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
