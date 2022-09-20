@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 06:06:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 07:29:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[PR People Talk] 숏폼의 미래는 무궁무진한 가능성이 열려 있습니다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9533</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9533</guid>
+            <pubDate>Tue, 20 Sep 2022 07:28:35 GMT</pubDate>
+            <content:encoded><![CDATA[한국PR협회(회장 김주호)는 9월 15일 오후 4시, 왜 영상콘텐츠인가, 왜 숏폼인가?를 주제로 김용태 더에스엠씨(The SMC)대표와 권기정 호프만에이전시코리아 대표의토크 프로그램을 진행했다. 더 에스엠씨에서 진행된 이번 프로그 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2022 데이터 연합 강연회 성료... GA와 온라인광고, 그로스해킹까지]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9532</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9504</guid>
             <pubDate>Thu, 15 Sep 2022 09:23:00 GMT</pubDate>
             <content:encoded><![CDATA[일상 생활에서 불필요한 것들을 덜어내는 제로(Zero)트렌드가 식음료 업계 뿐 아니라 유통,뷰티,여행 등 다양한 산업군으로 폭넓게 확산하고 있다. 종합커뮤니케이션그룹KPR(사장 김주호)부설KPR디지털커뮤니케이션연구소가 매스 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[트렌드 모니터] 요즘 가족, 책임감 남았지만 유대감 희미해져...]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9503</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9503</guid>
-            <pubDate>Thu, 15 Sep 2022 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[개인주의 문화가 부상하고 더 이상 결혼이나 출산을 필수로 여기지 않는 사람들이 많아지며 1인 가구 증가 흐름은 더욱 가속화되면서가족 간 유대감은 더욱 희미해진 모습이다.가족을 위한 책임감이나 희생 정신 등은 사회 전 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
