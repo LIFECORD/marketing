@@ -4,9 +4,17 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 11:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 12:41:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코바코 x 한국지방재정공제회, 고속도로 옥외광고로 공익광고 확산]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9535</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9535</guid>
+            <pubDate>Tue, 20 Sep 2022 12:40:52 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코, 사장 이백만)는 한국지방재정공제회(이하 공제회, 이사장 이인재)와 9월 19일 한국프레스센터에서사회공헌 및 광고홍보산업 진흥을 위한 업무협약을 체결하고, 공익광고와 옥외광고를 활용 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[PR People Talk] 숏폼의 미래는 무궁무진한 가능성이 열려 있습니다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9533</link>
@@ -237,14 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9506</guid>
             <pubDate>Thu, 15 Sep 2022 09:56:00 GMT</pubDate>
             <content:encoded><![CDATA[8월 중순 이후 무더위가 한풀 꺾이며 초가을 날씨가 이어지고 있다.일교차가15도 내외로 크게 벌어지며 옷차림도 조금씩 두꺼워지고 있는 추세다.에이블리코퍼레이션(대표 강석훈)이 운영하는 스타일 커머스 플랫폼,에이블리는 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[지금은 제로(Zero)의 시대! 설탕, 쓰레기, 칼로리를 줄이자]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9504</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9504</guid>
-            <pubDate>Thu, 15 Sep 2022 09:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[일상 생활에서 불필요한 것들을 덜어내는 제로(Zero)트렌드가 식음료 업계 뿐 아니라 유통,뷰티,여행 등 다양한 산업군으로 폭넓게 확산하고 있다. 종합커뮤니케이션그룹KPR(사장 김주호)부설KPR디지털커뮤니케이션연구소가 매스 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
