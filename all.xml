@@ -1,933 +1,217 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Combined feed</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 16:29:47 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[넷플릭스 덕에 주목받는 CTV 광고 📺 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1184897-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4_%EB%8D%95%EC%97%90_%EC%A3%BC%EB%AA%A9%EB%B0%9B%EB%8A%94_CTV_%EA%B4%91%EA%B3%A0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1184897-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4_%EB%8D%95%EC%97%90_%EC%A3%BC%EB%AA%A9%EB%B0%9B%EB%8A%94_CTV_%EA%B4%91%EA%B3%A0/</guid>
-            <pubDate>Mon, 19 Sep 2022 02:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1184897-넷플릭스_덕에_주목받는_CTV_광고/">
-						<div class="thumb"><img src="/images/qletter_1184897.png"></div>
-						<p><strong>넷플릭스 덕에 주목받는 CTV 광고 📺</strong>2022.09.19</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1184897.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[대세는 숏폼, 그런데 어떻게 활용해요? (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1180511-%EB%8C%80%EC%84%B8%EB%8A%94_%EC%88%8F%ED%8F%BC_%EA%B7%B8%EB%9F%B0%EB%8D%B0_%EC%96%B4%EB%96%BB%EA%B2%8C_%ED%99%9C%EC%9A%A9%ED%95%B4%EC%9A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1180511-%EB%8C%80%EC%84%B8%EB%8A%94_%EC%88%8F%ED%8F%BC_%EA%B7%B8%EB%9F%B0%EB%8D%B0_%EC%96%B4%EB%96%BB%EA%B2%8C_%ED%99%9C%EC%9A%A9%ED%95%B4%EC%9A%94/</guid>
-            <pubDate>Thu, 15 Sep 2022 02:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1180511-대세는_숏폼_그런데_어떻게_활용해요/">
-						<div class="thumb"><img src="/images/qletter_1180511.png"></div>
-						<p><strong> 대세는 숏폼, 그런데 어떻게 활용해요?</strong>2022.09.15</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1180511.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 검색 결과 변화를 주목해야 하는 이유 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1160050-%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B2%80%EC%83%89_%EA%B2%B0%EA%B3%BC_%EB%B3%80%ED%99%94%EB%A5%BC_%EC%A3%BC%EB%AA%A9%ED%95%B4%EC%95%BC_%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1160050-%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B2%80%EC%83%89_%EA%B2%B0%EA%B3%BC_%EB%B3%80%ED%99%94%EB%A5%BC_%EC%A3%BC%EB%AA%A9%ED%95%B4%EC%95%BC_%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0/</guid>
-            <pubDate>Mon, 05 Sep 2022 02:06:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1160050-네이버_검색_결과_변화를_주목해야_하는_이유/">
-						<div class="thumb"><img src="/images/qletter_1160050.png"></div>
-						<p><strong>네이버 검색 결과 변화를 주목해야 하는 이유</strong>2022.09.05</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1160050.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[숫자로 일하는 법! 스킬을 획득했습니다. (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1156094-%EC%88%AB%EC%9E%90%EB%A1%9C_%EC%9D%BC%ED%95%98%EB%8A%94_%EB%B2%95_%EC%8A%A4%ED%82%AC%EC%9D%84_%ED%9A%8D%EB%93%9D%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1156094-%EC%88%AB%EC%9E%90%EB%A1%9C_%EC%9D%BC%ED%95%98%EB%8A%94_%EB%B2%95_%EC%8A%A4%ED%82%AC%EC%9D%84_%ED%9A%8D%EB%93%9D%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4/</guid>
-            <pubDate>Thu, 01 Sep 2022 01:52:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1156094-숫자로_일하는_법_스킬을_획득했습니다/">
-						<div class="thumb"><img src="/images/qletter_1156094.png"></div>
-						<p><strong> 숫자로 일하는 법! 스킬을 획득했습니다.</strong>2022.09.01</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1156094.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 검색 순위 알고리즘의 중요한 변화 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1148874-%EA%B5%AC%EA%B8%80_%EA%B2%80%EC%83%89_%EC%88%9C%EC%9C%84_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98_%EC%A4%91%EC%9A%94%ED%95%9C_%EB%B3%80%ED%99%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1148874-%EA%B5%AC%EA%B8%80_%EA%B2%80%EC%83%89_%EC%88%9C%EC%9C%84_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98_%EC%A4%91%EC%9A%94%ED%95%9C_%EB%B3%80%ED%99%94/</guid>
-            <pubDate>Mon, 29 Aug 2022 02:06:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1148874-구글_검색_순위_알고리즘의_중요한_변화/">
-						<div class="thumb"><img src="/images/qletter_1148874.png"></div>
-						<p><strong>구글 검색 순위 알고리즘의 중요한 변화</strong>2022.08.29</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1148874.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[크롬으로 일잘러 되는 방법 ✨ (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1144022-%ED%81%AC%EB%A1%AC%EC%9C%BC%EB%A1%9C_%EC%9D%BC%EC%9E%98%EB%9F%AC_%EB%90%98%EB%8A%94_%EB%B0%A9%EB%B2%95/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1144022-%ED%81%AC%EB%A1%AC%EC%9C%BC%EB%A1%9C_%EC%9D%BC%EC%9E%98%EB%9F%AC_%EB%90%98%EB%8A%94_%EB%B0%A9%EB%B2%95/</guid>
-            <pubDate>Thu, 25 Aug 2022 01:57:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1144022-크롬으로_일잘러_되는_방법/">
-						<div class="thumb"><img src="/images/qletter_1144022.png"></div>
-						<p><strong> 크롬으로 일잘러 되는 방법 ✨</strong>2022.08.25</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1144022.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플이 어플에 광고한다 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1138727-%EC%95%A0%ED%94%8C%EC%9D%B4_%EC%96%B4%ED%94%8C%EC%97%90_%EA%B4%91%EA%B3%A0%ED%95%9C%EB%8B%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1138727-%EC%95%A0%ED%94%8C%EC%9D%B4_%EC%96%B4%ED%94%8C%EC%97%90_%EA%B4%91%EA%B3%A0%ED%95%9C%EB%8B%A4/</guid>
-            <pubDate>Mon, 22 Aug 2022 01:51:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1138727-애플이_어플에_광고한다/">
-						<div class="thumb"><img src="/images/qletter_1138727.png"></div>
-						<p><strong>애플이 어플에 광고한다</strong>2022.08.22</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1138727.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[커지는 펫코노미, 집사를 공략하라! (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1133860-%EC%BB%A4%EC%A7%80%EB%8A%94_%ED%8E%AB%EC%BD%94%EB%85%B8%EB%AF%B8_%EC%A7%91%EC%82%AC%EB%A5%BC_%EA%B3%B5%EB%9E%B5%ED%95%98%EB%9D%BC/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1133860-%EC%BB%A4%EC%A7%80%EB%8A%94_%ED%8E%AB%EC%BD%94%EB%85%B8%EB%AF%B8_%EC%A7%91%EC%82%AC%EB%A5%BC_%EA%B3%B5%EB%9E%B5%ED%95%98%EB%9D%BC/</guid>
-            <pubDate>Thu, 18 Aug 2022 01:58:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1133860-커지는_펫코노미_집사를_공략하라/">
-						<div class="thumb"><img src="/images/qletter_1133860.png"></div>
-						<p><strong> 커지는 펫코노미, 집사를 공략하라!</strong>2022.08.18</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1133860.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[광고주와 대화만 하면 머리가 하얘져요 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1125022-%EA%B4%91%EA%B3%A0%EC%A3%BC%EC%99%80_%EB%8C%80%ED%99%94%EB%A7%8C_%ED%95%98%EB%A9%B4_%EB%A8%B8%EB%A6%AC%EA%B0%80_%ED%95%98%EC%96%98%EC%A0%B8%EC%9A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1125022-%EA%B4%91%EA%B3%A0%EC%A3%BC%EC%99%80_%EB%8C%80%ED%99%94%EB%A7%8C_%ED%95%98%EB%A9%B4_%EB%A8%B8%EB%A6%AC%EA%B0%80_%ED%95%98%EC%96%98%EC%A0%B8%EC%9A%94/</guid>
-            <pubDate>Thu, 11 Aug 2022 01:40:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1125022-광고주와_대화만_하면_머리가_하얘져요/">
-						<div class="thumb"><img src="/images/qletter_1125022.png"></div>
-						<p><strong>광고주와 대화만 하면 머리가 하얘져요</strong>2022.08.11</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1125022.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한물간 줄 알았던 네이버 블로그의 부활 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1118379-%ED%95%9C%EB%AC%BC%EA%B0%84_%EC%A4%84_%EC%95%8C%EC%95%98%EB%8D%98_%EB%84%A4%EC%9D%B4%EB%B2%84_%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9D%98_%EB%B6%80%ED%99%9C/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1118379-%ED%95%9C%EB%AC%BC%EA%B0%84_%EC%A4%84_%EC%95%8C%EC%95%98%EB%8D%98_%EB%84%A4%EC%9D%B4%EB%B2%84_%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9D%98_%EB%B6%80%ED%99%9C/</guid>
-            <pubDate>Mon, 08 Aug 2022 01:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1118379-한물간_줄_알았던_네이버_블로그의_부활/">
-						<div class="thumb"><img src="/images/qletter_1118379.png"></div>
-						<p><strong>한물간 줄 알았던 네이버 블로그의 부활</strong>2022.08.08</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1118379.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[고객과의 소통을 돕는 서베이 툴 4가지 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1115152-%EA%B3%A0%EA%B0%9D%EA%B3%BC%EC%9D%98_%EC%86%8C%ED%86%B5%EC%9D%84_%EB%8F%95%EB%8A%94_%EC%84%9C%EB%B2%A0%EC%9D%B4_%ED%88%B4_4%EA%B0%80%EC%A7%80/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1115152-%EA%B3%A0%EA%B0%9D%EA%B3%BC%EC%9D%98_%EC%86%8C%ED%86%B5%EC%9D%84_%EB%8F%95%EB%8A%94_%EC%84%9C%EB%B2%A0%EC%9D%B4_%ED%88%B4_4%EA%B0%80%EC%A7%80/</guid>
-            <pubDate>Thu, 04 Aug 2022 01:45:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1115152-고객과의_소통을_돕는_서베이_툴_4가지/">
-						<div class="thumb"><img src="/images/qletter_1115152.png"></div>
-						<p><strong> 고객과의 소통을 돕는 서베이 툴 4가지</strong>2022.08.04</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1115152.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[비 내리는 광고 매체 성적표 ☔ (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1108531-%EB%B9%84_%EB%82%B4%EB%A6%AC%EB%8A%94_%EA%B4%91%EA%B3%A0_%EB%A7%A4%EC%B2%B4_%EC%84%B1%EC%A0%81%ED%91%9C/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1108531-%EB%B9%84_%EB%82%B4%EB%A6%AC%EB%8A%94_%EA%B4%91%EA%B3%A0_%EB%A7%A4%EC%B2%B4_%EC%84%B1%EC%A0%81%ED%91%9C/</guid>
-            <pubDate>Mon, 01 Aug 2022 01:59:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/view/1108531-비_내리는_광고_매체_성적표/">
-						<div class="thumb"><img src="/images/qletter_1108531.png"></div>
-						<p><strong>비 내리는 광고 매체 성적표 ☔</strong>2022.08.01</p>
-					</a>]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1108531.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마케터의 업무 생산성 높여주는 ‘이것’ list 4️⃣ (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-58472</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-58472</guid>
-            <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s1">1</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58472" title="마케터의 업무 생산성 높여주는 이것 list 4"><span class="AB-LF-common">마케터의 업무 생산성 높여주는 ‘이것’ list 4️⃣</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">29</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-614597" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1610603802_16370.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>큐레터</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-08-25 08:59:54">08.25</span></td><td class="LikeCount"><span class="like_60">60</span></td><td class="ViewCount">5,480</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네이버 검색 결과의 형태가 더 다양해진다 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-58519</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-58519</guid>
-            <pubDate>Mon, 05 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s2">2</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58519" title="네이버 검색 결과의 형태가 더 다양해진다 "><span class="AB-LF-common">네이버 검색 결과의 형태가 더 다양해진다 </span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">11</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-616336" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1610603802_16370.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>큐레터</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-09-05 08:29:35">09.05</span></td><td class="LikeCount"><span class="like_34">34</span></td><td class="ViewCount">4,301</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한달에 책 몇권씩 읽으시나요? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39828</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39828</guid>
-            <pubDate>Tue, 30 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s3">3</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39828" title="한달에 책 몇권씩 읽으시나요?"><span class="AB-LF-common">한달에 책 몇권씩 읽으시나요?</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">51</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-615695" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/template/DESIGN_shared/program/theme/01/THUMBNAIL_144_144_icon_rep_box.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>스마트트</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-08-30 13:17:57">08.30</span></td><td class="LikeCount"><span class="like_28">28</span></td><td class="ViewCount">608</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[구글 검색 순위 알고리즘의 중요한 변화 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-58484</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-58484</guid>
-            <pubDate>Mon, 29 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s4">4</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58484" title="구글 검색 순위 알고리즘의 중요한 변화"><span class="AB-LF-common">구글 검색 순위 알고리즘의 중요한 변화</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">20</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-614959" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1610603802_16370.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>큐레터</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-08-29 08:29:39">08.29</span></td><td class="LikeCount"><span class="like_26">26</span></td><td class="ViewCount">4,024</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일잘러들의 강력한 무기!  도서 이벤트 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2973-476</link>
-            <guid>https://www.i-boss.co.kr/ab-2973-476</guid>
-            <pubDate>Thu, 01 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s5">5</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-2973-476" title="일잘러들의 강력한 무기! 숫자로 일하는 법 도서 이벤트"><span class="AB-LF-common">일잘러들의 강력한 무기!  도서 이벤트</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">41</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-615165" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1638759491_19926.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>당첨대쓔</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-09-01 10:00:00">09.01</span></td><td class="LikeCount"><span class="like_28">28</span></td><td class="ViewCount">1,506</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[매출 2배 증가시킨 팔리는 상세페이지 공유 (삭제될.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-58562</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-58562</guid>
-            <pubDate>Sat, 10 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s6">6</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58562" title="매출 2배 증가시킨 팔리는 상세페이지 공유 (삭제될수도 있습니다)"><span class="AB-LF-common">매출 2배 증가시킨 팔리는 상세페이지 공유 (삭제될..</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">20</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-617870" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1662387758_02877.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>니엘연구소</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-09-10 18:40:31">09.10</span></td><td class="LikeCount"><span class="like_39">39</span></td><td class="ViewCount">1,442</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[퇴사 후 스마트스토어 사업 생각중인데, 월 500만원 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39972</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39972</guid>
-            <pubDate>Sun, 18 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s7">7</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39972" title="퇴사 후 스마트스토어 사업 생각중인데, 월 500만원 순이익 낼 수 있을까요?"><span class="AB-LF-common">퇴사 후 스마트스토어 사업 생각중인데, 월 500만원 ..</span></a></span><span class="AB-comm">38</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-619143" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/template/DESIGN_shared/program/theme/01/THUMBNAIL_144_144_icon_rep_box.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>퇴사준비</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-09-18 16:49:16">09.18</span></td><td class="LikeCount"><span class="like_24">24</span></td><td class="ViewCount">1,455</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마케팅 컨설팅 받았는데, 이게 맞는건가요...? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39800</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39800</guid>
-            <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s8">8</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39800" title="마케팅 컨설팅 받았는데, 이게 맞는건가요...?"><span class="AB-LF-common">마케팅 컨설팅 받았는데, 이게 맞는건가요...?</span></a></span><span class="AB-comm">47</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-614804" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1655271214_021495.jpg" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>미또링</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-08-25 12:47:49">08.25</span></td><td class="LikeCount"><span class="like_20">20</span></td><td class="ViewCount">1,206</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아이보스도 이제 유명해지기 시작했나봅니다 ㅎㅎ (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39824</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39824</guid>
-            <pubDate>Mon, 29 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s9">9</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39824" title="아이보스도 이제 유명해지기 시작했나봅니다 ㅎㅎ"><span class="AB-LF-common">아이보스도 이제 유명해지기 시작했나봅니다 ㅎㅎ</span></a></span><span class="AB-comm">32</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-615515" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1653366443_77023.jpg" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>미니맨</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-08-29 18:03:57">08.29</span></td><td class="LikeCount"><span class="like_28">28</span></td><td class="ViewCount">1,360</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사람들이 르라보 향수를 40만원이나 주고 사는 이유 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-58565</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-58565</guid>
-            <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s10">10</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58565" title=" 사람들이 르라보 향수를 40만원이나 주고 사는 이유"><span class="AB-LF-common"> 사람들이 르라보 향수를 40만원이나 주고 사는 이유</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">15</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-618037" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1647564616_08251.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>jinhorus</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-09-13 11:44:43">09.13</span></td><td class="LikeCount"><span class="like_21">21</span></td><td class="ViewCount">4,079</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[마케팅밈] 사회적 약속 마케팅ver (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39740</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39740</guid>
-            <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s11">11</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39740" title="[마케팅밈] 사회적 약속 마케팅ver"><span class="AB-LF-common">[마케팅밈] 사회적 약속 마케팅ver</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">21</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-613210" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1637570831_61450.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>막내운영자</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-08-25 08:30:00">08.25</span></td><td class="LikeCount"><span class="like_29">29</span></td><td class="ViewCount">1,956</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[페이스북 광고 계정 정지 힘들어하시는 분 계실까요? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39879</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39879</guid>
-            <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s12">12</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39879" title="페이스북 광고 계정 정지 힘들어하시는 분 계실까요?"><span class="AB-LF-common">페이스북 광고 계정 정지 힘들어하시는 분 계실까요?</span></a></span><span class="AB-comm">45</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-616754" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/template/DESIGN_shared/program/theme/01/THUMBNAIL_144_144_icon_rep_box.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>fhb</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-09-04 13:55:22">09.04</span></td><td class="LikeCount"><span class="like_20">20</span></td><td class="ViewCount">679</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마감! 레벨업!업! 기념 선착순 20명~1000리터-마감 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39808</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39808</guid>
-            <pubDate>Fri, 26 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s13">13</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39808" title="마감! 레벨업!업! 기념 선착순 20명~1000리터-마감"><span class="AB-LF-common">마감! 레벨업!업! 기념 선착순 20명~1000리터-마감</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">52</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-614960" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1485447468_1.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>얼음마녀님</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-08-26 07:58:28">08.26</span></td><td class="LikeCount"><span class="like_18">18</span></td><td class="ViewCount">301</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[혼자 마켓팅하려니 힘드네요.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39810</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39810</guid>
-            <pubDate>Fri, 26 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s14">14</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39810" title="혼자 마켓팅하려니 힘드네요.."><span class="AB-LF-common">혼자 마켓팅하려니 힘드네요..</span></a></span><span class="AB-comm">44</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-615068" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/template/DESIGN_shared/program/theme/01/THUMBNAIL_144_144_icon_rep_box.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>스마트트</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-08-26 11:49:25">08.26</span></td><td class="LikeCount"><span class="like_18">18</span></td><td class="ViewCount">901</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[N년차 마케터의 넋누리 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39778</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39778</guid>
-            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s15">15</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39778" title="N년차 마케터의 넋누리"><span class="AB-LF-common">N년차 마케터의 넋누리</span></a></span><span class="AB-comm">18</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-614105" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1659271041_62416.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>보이는마케팅</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-08-22 21:59:26">08.22</span></td><td class="LikeCount"><span class="like_32">32</span></td><td class="ViewCount">1,150</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[퇴사를 하고 싶습니다. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39792</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39792</guid>
-            <pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s16">16</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39792" title="퇴사를 하고 싶습니다."><span class="AB-LF-common">퇴사를 하고 싶습니다.</span></a></span><span class="AB-comm">36</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-614525" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1646993487_274518.jpg" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>마드리스타</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-08-24 12:27:56">08.24</span></td><td class="LikeCount"><span class="like_20">20</span></td><td class="ViewCount">1,297</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네이버 블로그 로직 (리브라, C랭크, 다이아) 의 성장 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-58508</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-58508</guid>
-            <pubDate>Wed, 31 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s17">17</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58508" title="네이버 블로그 로직 (리브라, C랭크, 다이아) 의 성장 이야기"><span class="AB-LF-common">네이버 블로그 로직 (리브라, C랭크, 다이아) 의 성장 ..</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">16</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-616017" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1599011855_18430.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>디자인업</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-08-31 14:36:01">08.31</span></td><td class="LikeCount"><span class="like_29">29</span></td><td class="ViewCount">1,676</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[N초 만에 소비자 사로잡는 법, 숏폼 마케팅 🎥 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-58572</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-58572</guid>
-            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s18">18</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58572" title="N초 만에 소비자 사로잡는 법, 숏폼 마케팅 🎥"><span class="AB-LF-common">N초 만에 소비자 사로잡는 법, 숏폼 마케팅 🎥</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">12</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-618377" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1610603802_16370.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>큐레터</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-09-15 09:00:32">09.15</span></td><td class="LikeCount"><span class="like_26">26</span></td><td class="ViewCount">2,184</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대행사 다니시는 분중 저같은 분 있으신가요? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39927</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39927</guid>
-            <pubDate>Mon, 12 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s19">19</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39927" title="대행사 다니시는 분중 저같은 분 있으신가요?"><span class="AB-LF-common">대행사 다니시는 분중 저같은 분 있으신가요?</span></a></span><span class="AB-comm">19</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-617932" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/template/DESIGN_shared/program/theme/01/THUMBNAIL_144_144_icon_rep_box.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>claude</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-09-12 20:26:59">09.12</span></td><td class="LikeCount"><span class="like_23">23</span></td><td class="ViewCount">1,716</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이커머스 용어 모음 44개: 마케팅 / 운영 / 관리 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-58540</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-58540</guid>
-            <pubDate>Tue, 06 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s20">20</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58540" title="이커머스 용어 모음 44개: 마케팅 / 운영 / 관리"><span class="AB-LF-common">이커머스 용어 모음 44개: 마케팅 / 운영 / 관리</span></a></span><span class="AB-comm">12</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-617201" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/template/DESIGN_shared/program/theme/01/THUMBNAIL_144_144_icon_rep_box.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>woodie</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-09-06 13:59:03">09.06</span></td><td class="LikeCount"><span class="like_29">29</span></td><td class="ViewCount">1,200</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[자질구레한 마케팅 고민 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39884</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39884</guid>
-            <pubDate>Mon, 05 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s21">21</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39884" title="자질구레한 마케팅 고민"><span class="AB-LF-common">자질구레한 마케팅 고민</span></a></span><span class="AB-comm">23</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-616912" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/template/DESIGN_shared/program/theme/01/THUMBNAIL_144_144_icon_rep_box.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>마사초</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-09-05 12:05:15">09.05</span></td><td class="LikeCount"><span class="like_23">23</span></td><td class="ViewCount">802</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[자동으로 n행시 지어주는 사이트 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39784</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39784</guid>
-            <pubDate>Tue, 23 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s22">22</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39784" title="자동으로 n행시 지어주는 사이트"><span class="AB-LF-common">자동으로 n행시 지어주는 사이트</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">14</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-614325" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1613628832_09863.jpg" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>체르시</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-08-23 15:42:53">08.23</span></td><td class="LikeCount"><span class="like_14">14</span></td><td class="ViewCount">3,143</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[요즘 유행하는 스마트스토어 로직 악용한 악질적인 .. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-58539</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-58539</guid>
-            <pubDate>Tue, 06 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s23">23</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58539" title="요즘 유행하는 스마트스토어 로직 악용한 악질적인 꼼수 조심하세요"><span class="AB-LF-common">요즘 유행하는 스마트스토어 로직 악용한 악질적인 ..</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">8</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-617169" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1662429330_48869.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>애드낫컴퍼니</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-09-06 12:11:58">09.06</span></td><td class="LikeCount"><span class="like_26">26</span></td><td class="ViewCount">1,682</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡이 또 쿠팡했다. (제트배송 딱지를 없애다니) (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39945</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39945</guid>
-            <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s24">24</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39945" title="쿠팡이 또 쿠팡했다. (제트배송 딱지를 없애다니)"><span class="AB-LF-common">쿠팡이 또 쿠팡했다. (제트배송 딱지를 없애다니)</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">26</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-618426" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1594193780_41791.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>꿈꾸는이팀장</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-09-14 15:26:47">09.14</span></td><td class="LikeCount"><span class="like_21">21</span></td><td class="ViewCount">637</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(우뇌) 기본 공식 대로 해서 매출 2배 이상 띄우고 있.. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-58597</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-58597</guid>
-            <pubDate>Sun, 18 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s25">25</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58597" title="(우뇌) 기본 공식 대로 해서 매출 2배 이상 띄우고 있는 썰"><span class="AB-LF-common">(우뇌) 기본 공식 대로 해서 매출 2배 이상 띄우고 있..</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">13</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-619125" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1652259083_37974.jpg" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>우뇌</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-09-18 00:54:54">09.18</span></td><td class="LikeCount"><span class="like_26">26</span></td><td class="ViewCount">660</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[의류 쇼핑 주로 어디서 하시나요? (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39931</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39931</guid>
-            <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s26">26</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39931" title="의류 쇼핑 주로 어디서 하시나요?"><span class="AB-LF-common">의류 쇼핑 주로 어디서 하시나요?</span></a></span><span class="AB-comm">35</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-618094" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/template/DESIGN_shared/program/theme/01/THUMBNAIL_144_144_icon_rep_box.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>심심해이</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-09-13 14:48:35">09.13</span></td><td class="LikeCount"><span class="like_15">15</span></td><td class="ViewCount">286</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[배우는 게 빨라서 굉장히 고민입니다. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39832</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39832</guid>
-            <pubDate>Tue, 30 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s27">27</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39832" title="배우는 게 빨라서 굉장히 고민입니다. "><span class="AB-LF-common">배우는 게 빨라서 굉장히 고민입니다. </span></a></span><span class="AB-comm">22</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-615813" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1631689199_719847.jpg" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>하드워커H</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-08-30 17:37:50">08.30</span></td><td class="LikeCount"><span class="like_18">18</span></td><td class="ViewCount">1,035</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[해시태그로 통해요! 태그니티 마케팅 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-6141-58452</link>
-            <guid>https://www.i-boss.co.kr/ab-6141-58452</guid>
-            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s28">28</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-6141-58452" title="해시태그로 통해요! 태그니티 마케팅"><span class="AB-LF-common">해시태그로 통해요! 태그니티 마케팅</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">11</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-613623" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1610603802_16370.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>큐레터</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-08-22 09:27:54">08.22</span></td><td class="LikeCount"><span class="like_20">20</span></td><td class="ViewCount">1,739</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대표유형 테스트라는데 재밌네요 (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39943</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39943</guid>
-            <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s29">29</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39943" title="대표유형 테스트라는데 재밌네요"><span class="AB-LF-common">대표유형 테스트라는데 재밌네요</span></a></span><img src="images/icon_img.png" style="margin-left:5px;" class="bstip" data-tip="이미지가 포함된 게시글" width="14" height="14" border="0"><span class="AB-comm">23</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-618335" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/user_dir/member/THUMBNAIL_40_40_1600663208_57164.png" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>videocon</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-09-14 12:51:35">09.14</span></td><td class="LikeCount"><span class="like_19">19</span></td><td class="ViewCount">433</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[실력에 비해 경력이 짧은 것이 고민입니다. (아이보스 ─ 인기글)]]></title>
-            <link>https://www.i-boss.co.kr/ab-1486505-39889</link>
-            <guid>https://www.i-boss.co.kr/ab-1486505-39889</guid>
-            <pubDate>Mon, 05 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td class="SerialNum" width="40" align="center"><span class="snum s30">30</span> </td><td style="padding-left:5px" height="47px"><span class="mb_subject"><a href="/ab-1486505-39889" title="실력에 비해 경력이 짧은 것이 고민입니다."><span class="AB-LF-common">실력에 비해 경력이 짧은 것이 고민입니다.</span></a></span><span class="AB-comm">17</span></td><td class="tdvel-2" width="120" align="left"><div><div><p style="font-size:13px;" class="mb_writer" id="ABP-btn-fdmenu-board-instead_union-617056" link="/ab-5108&amp;AJAX=Y" offset="1">
-<img src="https://cdn.ibos.kr/template/DESIGN_shared/program/theme/01/THUMBNAIL_144_144_icon_rep_box.gif" class="bd_R50" style="margin-right:4px;" width="20" height="20" border="0"><span>프리티보이</span></p></div>
-</div></td><td class="DateTime"><span class="bstip" data-tip="2022-09-05 23:40:05">09.05</span></td><td class="LikeCount"><span class="like_21">21</span></td><td class="ViewCount">656</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코바코 x 한국지방재정공제회, 고속도로 옥외광고로 공익광고 확산 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9535</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9535</guid>
-            <pubDate>Tue, 20 Sep 2022 12:40:52 GMT</pubDate>
-            <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코, 사장 이백만)는 한국지방재정공제회(이하 공제회, 이사장 이인재)와 9월 19일 한국프레스센터에서사회공헌 및 광고홍보산업 진흥을 위한 업무협약을 체결하고, 공익광고와 옥외광고를 활용 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[PR People Talk] 숏폼의 미래는 무궁무진한 가능성이 열려 있습니다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9533</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9533</guid>
-            <pubDate>Tue, 20 Sep 2022 07:28:35 GMT</pubDate>
-            <content:encoded><![CDATA[한국PR협회(회장 김주호)는 9월 15일 오후 4시, 왜 영상콘텐츠인가, 왜 숏폼인가?를 주제로 김용태 더에스엠씨(The SMC)대표와 권기정 호프만에이전시코리아 대표의토크 프로그램을 진행했다. 더 에스엠씨에서 진행된 이번 프로그 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 데이터 연합 강연회 성료... GA와 온라인광고, 그로스해킹까지 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9532</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9532</guid>
-            <pubDate>Tue, 20 Sep 2022 06:05:56 GMT</pubDate>
-            <content:encoded><![CDATA[직장인 커뮤니티 청년마케터(헤드디렉터 박윤찬)가 디지털 마케터를 대상으로 2022 청년마케터 데이터 연합강연회 세미나를 프론트원에서 개최하였다고 20일 밝혔다. 이날 행사는 김자유(누구나데이터 대표) 박기정(K마케팅컴퍼 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년도 제2차 DMC XR 코워킹오피스 입주기업 모집... 10월 7일(금)까지 SBA 홈페이지에서 신청 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9531</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9531</guid>
-            <pubDate>Tue, 20 Sep 2022 06:05:56 GMT</pubDate>
-            <content:encoded><![CDATA[서울시중소기업 지원기관 서울산업진흥원(SBA, 대표이사 김현우)은 서울 마포구 상암동 디지털미디어시티(DMC)에 위치한 DMC XR 코워킹오피스의 신규 입주기업을 모집한다고 밝혔다. DMC XR 코워킹오피스(마포구 성암로 330, DMC첨단 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[서울창업허브 x 현대건설, 스마트 건설 분야 혁신기업 찾는다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9530</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9530</guid>
-            <pubDate>Tue, 20 Sep 2022 10:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[서울시의 대표 창업지원기관 서울산업진흥원(SBA, 대표이사 김현우)이 운영하는 서울창업허브는 현대건설(대표 윤영준)과 손잡고 에너지 사용의 효율성은 극대화하고, 건설현장 안전사고는 사전에 예방하고 제거할 수 있는 건 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[한국인 스마트폰 사용자의 39% 중고거래 앱 이용... 지난 2년 동안 중고거래 앱 사용자 65% 증가 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9529</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9529</guid>
-            <pubDate>Tue, 20 Sep 2022 08:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[앱/리테일 분석 서비스와이즈앱리테일굿즈가 지난8월 한국인이 가장 많이 사용한 중고거래 앱을 조사하여 발표했다. 중고거래가 소비자에게 하나의 재미이자 가치 소비로 인식되면서 주요 중고거래 앱의 순 사용자 수가2020년9 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[신중년 10명 중 8명은 현재 주식 투자 중.. 가장 선호하는 주식 앱은 KB증권 M-able (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9528</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9528</guid>
-            <pubDate>Tue, 20 Sep 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)는 에이풀(Aful)을 통해 2022년 8월 23일부터 9월 5일까지 4060 남녀 402명을 대상으로 주식 앱 이용 트렌드 조사를 진행했다. 조사 결과, 4060 10명 중 8명은 현재 주식 투자 중(88.8%)이며, 그중 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[9월 20일 마케팅 뉴스클리핑] 네이버, 대학생 전용 멤버십 출시 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9527</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9527</guid>
-            <pubDate>Tue, 20 Sep 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 네이버, 대학생 전용 멤버십 출시  네이버가 `네이버플러스 멤버십 스튜던트`를 출시한다. 20대 사용자들에게 인기를 끌고 있는 교육, 게임, 카메라 앱 등을 추가해 혜택을 늘렸다. 가입하려면 네이버 앱 학생동문인증 서비스 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_7d4cbc1be1ca4d5578730f197b14b14b_52391_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022대한민국광고대상 올해의 빛나는 수상작을 기다립니다! (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9526</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9526</guid>
-            <pubDate>Mon, 19 Sep 2022 07:40:20 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최고 권위와 영예를 자랑하는 2022대한민국광고대상이 오는 9월 19일(월)부터 10월 7일(금)까지 19일간 작품 접수를 진행한다. 올해로 29회를 맞이하는 대한민국광고대상은 TV, 온라인, OOH, 인쇄, 오디오 등 전 매체를 아우르는  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[서울의 아름다움을 발견할 수 있는 서울 뷰티패션 라운지 B the B(Be the Beautiful) 공식 SNS 오픈 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9525</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9525</guid>
-            <pubDate>Mon, 19 Sep 2022 07:40:20 GMT</pubDate>
-            <content:encoded><![CDATA[서울시의 중소기업 브랜드 경쟁력을 만드는 중소기업 지원기관 서울산업진흥원(SBA, 대표이사 김현우)은 글로벌 뷰티산업의 중심지가 될 서울 뷰티패션 라운지 B the B (Be the Beautiful) 공간에 대한 다양한 정보 제공을 위해 공식 SNS ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[MZ세대 일상에 침투하자... 식음료업계, 공감 마케팅 승부수 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9524</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9524</guid>
-            <pubDate>Mon, 19 Sep 2022 11:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[식음료업계 마케팅, 빅모델 아닌 MZ세대를 주인공으로  식음료업계는 트렌드를 주도하는 MZ세대(1980년 이후 출생)을 사로잡기 위해 그들의 일상에 침투하는 마케팅 활동을 펼치고있다.  18일 식음료업계에 따르면 현재 트렌드는  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_5cff6eaf0f21e3303e5ab4589f06d47a_77129_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한불상공회의소, 프렌치 테크 커뮤니티와 함께 스타트업 생태계 활성화를 위한 테크포굿 투어 2022 개최 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9523</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9523</guid>
-            <pubDate>Mon, 19 Sep 2022 09:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[스타트업 육성을 지원하는 프렌치 테크 커뮤니티 서울(FTCS: French Tech Community Seoul)과 한불 비즈니스 커뮤니티를 대표하는 한불상공회의소(FKCCI)가9월19일부터23일까지 스타트업 생태계 활성화를 위한 테크포굿 투어2022(Tech4Good Tour  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[오라클 클라우드 생태계의 주인공을 찾아라! 서울창업허브 창동 x 한국오라클,스타트업 공동발굴 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9522</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9522</guid>
-            <pubDate>Mon, 19 Sep 2022 09:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[서울시 스타트업이 스케일업하는 데 일조하는 중소기업 지원기관 서울산업진흥원(SBA, 대표이사 김현우)은 대기업 협력 기회를 통해 자사 기술 고도화를 희망하는 서울시 우수 스타트업을 위해, 서울창업허브 창동-한국오라클  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[이노션, 달리는 자동차에 디지털 광고 태운다... 모빌리티 광고 플랫폼 첫 신호탄 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9521</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9521</guid>
-            <pubDate>Mon, 19 Sep 2022 09:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[이노션(대표이사 이용우)은전기 화물차를 이용한 디지털 사이니지(Digital Signage)광고에 대한 규제 샌드박스 실증특례를 승인 받았다고19일 밝혔다. 이노션은2023년부터24개월간 전기 화물차 측면에 디스플레이를 설치하고,동영상  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[박재항의 反轉 커뮤니케이션] 신은 여왕을 지키고, 우린 빅엿을 먹이지 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9520</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9520</guid>
-            <pubDate>Mon, 19 Sep 2022 08:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 9월 19일은 한동안 영국 여왕 엘리자베스(Elizabeth) 2세의 국장이 행해진 날로 기억될 것이다. 영국 역사에 기억에 남을 날들은 많겠지만, 21세기 들어서 이후 오래도록 영향을 미칠 날들은 손꼽을 만하다. 국장일은 지금이야  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[9월 19일 마케팅 뉴스클리핑] 카카오 오픈채팅 광고 실험... 두 마리 토끼 잡는다 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9515</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9515</guid>
-            <pubDate>Mon, 19 Sep 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 카카오 오픈채팅 광고 실험... 두 마리 토끼 잡는다  카카오가 오픈채팅에 광고를 시범 적용하고 수익성 개선에 나선다. 카카오는 지난 7일부터 일부 이벤트성 오픈채팅방 상단에 광고를 도입해 시범 운영 중이다. 앞서 카카오 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_3661a1fa336554e0de214b8683006f0e_80027_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외 크리에이티브] 줌, 새로운 로고와 제품 리브랜딩 발표... 더이상 화상회의 앱이 아니다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9519</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9519</guid>
-            <pubDate>Sun, 18 Sep 2022 09:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[줌은 새로운 로고를 공개했다. 줌이 더이상 화상 회의 앱이 아닌본격적인 커뮤니케이션 및 협업 플랫폼을 표현하기 위해, 각각의 `o`가 팀 대화, 미팅, 회의실 등을 나타내는 새로운 로고를 만들었고 이에 따른 글로벌 캠페인도  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 세계에서 게이머 비중이 높은 나라 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9518</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9518</guid>
-            <pubDate>Sun, 18 Sep 2022 09:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[코로나 바이러스 팬데믹의 영향으로 2년 동안 온라인으로 진행된 도쿄게임쇼가 9월 15일부터 9월 18일까지 치바시 마쿠하리 멧세에서 다시 문을 연다. 비디오 게임 무역 박람회는 2019년 26만 2,000명의 관람객을 끌어모으는 세계 최 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[광고주가 선호하는 디지털플랫폼은 포털 코바코, 디지털 플랫폼 이용 행태 조사 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9517</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9517</guid>
-            <pubDate>Sat, 17 Sep 2022 09:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코, 사장 이백만)가 광고주를 대상으로 디지털 플랫폼 활용 현황을 조사한 결과, 전체 광고주의29.5%가 종합포털, 오픈마켓 등 디지털 플랫폼을 이용하고 있는 것으로 나타났으며, 디지털 플랫폼  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[이노레드, 칸 라이언즈 2022 아시아 에이전시 톱20 선정... 국내 광고회사 유일 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9516</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9516</guid>
-            <pubDate>Sat, 17 Sep 2022 09:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[독립 광고회사 이노레드(대표 박현우)가 국내 광고회사 중 유일하게 칸 라이언즈가 선정한 `아시아 에이전시 톱 20위` 안에 이름을 올리며, 세계적으로 크리에이티브 능력을 인정 받았다. 이노레드는칸 라이언즈가 발행하는라이 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[메타브, 와디즈와 제휴 마케팅 웹 콘텐츠 제작&홍보 지원한다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9514</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9514</guid>
-            <pubDate>Fri, 16 Sep 2022 09:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[웹 콘텐츠 전문 기업 소프트스피어(대표 임하은)의 웹 콘텐츠 플랫폼 메타브가 크라우드펀딩 플랫폼 와디즈와 제휴를 맺고 메타브x와디즈 심리테스트 마케팅 스쿨 강의를 실시한다고 16일 밝혔다. 해당 강의는 MZ세대를 공략하 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[데이터 마케팅 인사이트] 8월 OTT 시장, 가장 많이 보는 넷플릭스, 오래 보는 웨이브 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9513</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9513</guid>
-            <pubDate>Fri, 16 Sep 2022 09:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 빅데이터 플랫폼 기업 아이지에이웍스가 자사의 데이터 분석 솔루션 모바일인덱스를 통해  발표했다. 분석 기간은 2022년 1월 1일부터 2022년 9월 11일까지로, 일평균 4000만 모바일 기기의 20억건 데이터(안드로이드, iOS  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[덴츠, 웹3 클럽 론칭... 새로운 조직은 건정한 시장을 개발할 예정 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9512</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9512</guid>
-            <pubDate>Fri, 16 Sep 2022 08:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[덴츠는 덴츠인터내셔널 미디어 운영의 해체와 일본 지주회사의 새로운 `원 매니지먼트` 접근 방식에 대한 통합을 발표한 지 며칠 지나지 않아, 그룹 전체의 웹3를 감독하는 새로운 조직을 발표했다. `웹3 클럽`으로 불리는 이 조 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[9월 16일 마케팅 뉴스클리핑] 유튜브, 공짜로 영상 보려면 광고 5개 봐 외 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9511</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9511</guid>
-            <pubDate>Fri, 16 Sep 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 유튜브, 공짜로 영상 보려면 광고 5개 봐  유튜브가 무료 이용자들을 대상으로 최대 5개의 광고를 넣는 새로운 광고 형식을 테스트 중인 것으로 전해졌다. 새롭게 테스트하는 광고 형식은 건너뛰기조차 불가능해 5개를 모두 봐 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_1b733876d40321fde02c1f899e6b8271_24368_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크래프톤 버추얼 휴먼 애나(ANA), 첫 디지털 싱글 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9510</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9510</guid>
-            <pubDate>Thu, 15 Sep 2022 00:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[㈜크래프톤(대표김창한)의버추얼휴먼애나(ANA)가15일오후12시(한국시간)국내외온라인음원사이트를통해디지털싱글을공개하며가수로공식데뷔했다. 첫디지털싱글인SHINE BRIGHT는그루비한비트감과세련된멜로디가돋보이는팝장르의 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[고프로, 히어로11 블랙 국내 정식 출시... 역대 최고의 촬영 환경 제공 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9509</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9509</guid>
-            <pubDate>Thu, 15 Sep 2022 00:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[고프로(GoPro)가 팬데믹 이후 첫 기자간담회를 열고,역대 최고의 촬영 환경을 제공하는 신제품 카메라 히어로11블랙(HERO11 Black)을 출시했다고15일 밝혔다. 히어로11블랙은 혁신적인 성능 개선을 통해 액션 카메라의 장점을 강화하 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[국립중앙박물관, 올 가을 MZ세대 놀이터로 변신하다 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9508</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9508</guid>
-            <pubDate>Thu, 15 Sep 2022 11:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[올 가을,글로벌 독립광고회사TBWA코리아의 대학생 교육 프로그램TBWA주니어보드가 다양한 분야 예술가들과 함께국립중앙박물관 변신시키기에 도전한다. TBWA주니어보드는 중장년층이나 가족단위 방문객 대비MZ세대의 방문율이  ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[더에스엠씨그룹, 네이버 브랜드 커넥트 서비스 협력사 선정 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9507</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9507</guid>
-            <pubDate>Thu, 15 Sep 2022 10:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴미디어 종합 콘텐츠 기업 더에스엠씨그룹(대표 김용태)이 네이버 브랜드 커넥트 서비스 협력사로 선정 됐다고 15일 밝혔다. 브랜드 커넥트 서비스는 콘텐츠 제휴를 원하는 다양한 브랜드가 주제별 전문성을 갖춘 네이버 인플 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[로블록스, 2023년부터 게임 내 광고 허용 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9505</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9505</guid>
-            <pubDate>Thu, 15 Sep 2022 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게임 내에 3D로 구성...`개발자 수익 창출 기회 될 것`  로블록스가 오는 2023년부터 게임 내 광고를 허용할 예정이라고 영국 게임산업 매체 게임인더스트리가 14일(현지시간) 보도했다.  로블록스 내 광고는 3D로 구성되며 로블록스 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[추워져도 Y2K 인기는 지속된다... 에이블리, 가을 패션 트렌드 공개 (아이보스 ─ 마케팅 뉴스)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9506</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9506</guid>
-            <pubDate>Thu, 15 Sep 2022 09:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[8월 중순 이후 무더위가 한풀 꺾이며 초가을 날씨가 이어지고 있다.일교차가15도 내외로 크게 벌어지며 옷차림도 조금씩 두꺼워지고 있는 추세다.에이블리코퍼레이션(대표 강석훈)이 운영하는 스타일 커머스 플랫폼,에이블리는 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[코바코 x 한국지방재정공제회, 고속도로 옥외광고로 '공익광고' 확산 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9535</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9535</guid>
-            <pubDate>Tue, 20 Sep 2022 12:40:52 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[PR People Talk] "숏폼의 미래는 무궁무진한 가능성이 열려 있습니다" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9533</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9533</guid>
-            <pubDate>Tue, 20 Sep 2022 07:28:35 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 데이터 연합 강연회 성료... GA와 온라인광고, 그로스해킹까지 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9532</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9532</guid>
-            <pubDate>Tue, 20 Sep 2022 06:05:56 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년도 제2차 DMC XR 코워킹오피스 입주기업 모집... 10월 7일(금)까지 SBA 홈페이지에서 신청 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9531</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9531</guid>
-            <pubDate>Tue, 20 Sep 2022 06:05:56 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서울창업허브 x 현대건설, 스마트 건설 분야 혁신기업 찾는다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9530</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9530</guid>
-            <pubDate>Tue, 20 Sep 2022 10:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국인 스마트폰 사용자의 39% ‘중고거래 앱’ 이용... 지난 2년 동안 중고거래 앱 사용자 65% 증가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9529</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9529</guid>
-            <pubDate>Tue, 20 Sep 2022 08:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신중년 10명 중 8명은 현재 주식 투자 중.. 가장 선호하는 주식 앱은 KB증권 M-able (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9528</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9528</guid>
-            <pubDate>Tue, 20 Sep 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[9월 20일 마케팅 뉴스클리핑] 네이버, 대학생 전용 멤버십 출시 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9527</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9527</guid>
-            <pubDate>Tue, 20 Sep 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘2022대한민국광고대상’ 올해의 빛나는 수상작을 기다립니다! (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9526</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9526</guid>
-            <pubDate>Mon, 19 Sep 2022 07:40:20 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서울의 아름다움을 발견할 수 있는 서울 뷰티·패션 라운지 ‘B the B’(Be the Beautiful) 공식 SNS 오픈 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9525</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9525</guid>
-            <pubDate>Mon, 19 Sep 2022 07:40:20 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MZ세대 일상에 침투하자... 식음료업계, 공감 마케팅 승부수 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9524</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9524</guid>
-            <pubDate>Mon, 19 Sep 2022 11:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한불상공회의소, 프렌치 테크 커뮤니티와 함께 스타트업 생태계 활성화를 위한 ‘테크포굿 투어 2022’ 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9523</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9523</guid>
-            <pubDate>Mon, 19 Sep 2022 09:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["오라클 클라우드 생태계의 주인공을 찾아라!" 서울창업허브 창동 x 한국오라클,스타트업 공동발굴 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9522</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9522</guid>
-            <pubDate>Mon, 19 Sep 2022 09:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이노션, 달리는 자동차에 디지털 광고 태운다... 모빌리티 광고 플랫폼 첫 신호탄 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9521</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9521</guid>
-            <pubDate>Mon, 19 Sep 2022 09:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박재항의 反轉 커뮤니케이션] 신은 여왕을 지키고, 우린 빅엿을 먹이지 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9520</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9520</guid>
-            <pubDate>Mon, 19 Sep 2022 08:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[9월 19일 마케팅 뉴스클리핑] 카카오 오픈채팅 광고 실험... 두 마리 토끼 잡는다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9515</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9515</guid>
-            <pubDate>Mon, 19 Sep 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[해외 크리에이티브] 줌, 새로운 로고와 제품 리브랜딩 발표... "더이상 화상회의 앱이 아니다" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9519</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9519</guid>
-            <pubDate>Sun, 18 Sep 2022 09:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[인포그래픽] 세계에서 게이머 비중이 높은 나라 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9518</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9518</guid>
-            <pubDate>Sun, 18 Sep 2022 09:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["광고주가 선호하는 디지털플랫폼은 포털"… 코바코, 디지털 플랫폼 이용 행태 조사 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9517</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9517</guid>
-            <pubDate>Sat, 17 Sep 2022 09:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이노레드, 칸 라이언즈 '2022 아시아 에이전시 톱20' 선정... 국내 광고회사 유일 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9516</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9516</guid>
-            <pubDate>Sat, 17 Sep 2022 09:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[메타브, 와디즈와 제휴 ‘마케팅 웹 콘텐츠 제작&홍보 지원한다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9514</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9514</guid>
-            <pubDate>Fri, 16 Sep 2022 09:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[데이터 마케팅 인사이트] 8월 OTT 시장, 가장 많이 보는 '넷플릭스', 오래 보는 '웨이브' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9513</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9513</guid>
-            <pubDate>Fri, 16 Sep 2022 09:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[덴츠, 웹3 클럽 론칭... 새로운 조직은 '건정한 시장'을 개발할 예정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9512</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9512</guid>
-            <pubDate>Fri, 16 Sep 2022 08:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[9월 16일 마케팅 뉴스클리핑] 유튜브, 공짜로 영상 보려면 광고 5개 봐 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9511</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9511</guid>
-            <pubDate>Fri, 16 Sep 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[크래프톤 버추얼 휴먼 ‘애나(ANA)’, 첫 디지털 싱글 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9510</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9510</guid>
-            <pubDate>Thu, 15 Sep 2022 00:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고프로, 히어로11 블랙 국내 정식 출시... "역대 최고의 촬영 환경 제공" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9509</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9509</guid>
-            <pubDate>Thu, 15 Sep 2022 00:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[국립중앙박물관, 올 가을 ‘MZ세대 놀이터’로 변신하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9508</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9508</guid>
-            <pubDate>Thu, 15 Sep 2022 11:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더에스엠씨그룹, 네이버 브랜드 커넥트 서비스 협력사 선정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9507</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9507</guid>
-            <pubDate>Thu, 15 Sep 2022 10:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[로블록스, 2023년부터 게임 내 광고 허용 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9505</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9505</guid>
-            <pubDate>Thu, 15 Sep 2022 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[막내운영자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["추워져도 Y2K 인기는 지속된다"... 에이블리, 가을 패션 트렌드 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9506</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9506</guid>
-            <pubDate>Thu, 15 Sep 2022 09:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[cookiman]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소상공인 마지막 '2분기' 손실보상, 9월 말부터 지급 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=387</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=387</guid>
-            <pubDate>Tue, 20 Sep 2022 02:03:43 GMT</pubDate>
-            <content:encoded><![CDATA[정부는 올해 4월 코로나19 방역 조치인 '사회적 거리두기'로 피해를 본 소상공인들에 손실보상금을 이달 말부터 지급한다고 밝혔다. <br><br>중소벤처기업부에 따르면 중기부는 '제28차 손실보상 심의위원회'를 열어 '2022년 2분기 손실보상 기준'을 의결했다. <br><br>손실보상금은 소상공인지원법(손실보상법)에 따라 방역조치 이행에 따른 손실금을 분기별로 지급 한다. 일회성 지원금인 '손실보전금'과는 다르다. <br><br>손실보상금 지원 대상은 ▲사회적 거리두기가 유지된 올해 4월 1∼17일에 집합금지 ▲영업시간 제한 ▲시설 인원제한 조치를 이행해 심각한 손실을 입은 중소기업이다. 지난 1분기와 동일하게 연매출 30억원 이하인 중기업도 지원 대상에 포함된다.<br><br>손실보상금은 코로나19 영향이 없었던 2019년 동월 대비 2022년 일평균 손실액에 방역조치 이행 기간과 보정률(100%)을 적용하는 방식으로 산정된다. 중기부는 2분기에는 4월 1∼17일에만 거리두기가 이어졌던 점도 산정하기로 했다. <br><br>거리두기 이행 기간은 1분기보다 짧지만 분기별 하한액은 100만원으로 유지한다. 앞서 6월 이미 2분기 손실보상금을 선지급 받았다면 해당 금액이 2분기 보상금에서 공제된다. 2분기 보상금 공제 이후 선지급금이 남는 경우라면 해당 금액은 선지급시 체결한 약정에 따라 1%의 초저금리 융자로 전환된다. 지난해 3·4분기와 올해 1분기 손실보상금 정산 결과 과세자료 오류 및 수정신고, 방역조치 위반 등으로 보상금액이 변경된 사업자에게는 차액을 추가로 지급하거나 상계한다.<br><br>사전 산정·검증, 시스템 구축 등 집행 준비가 완료되는 이달 말부터 2분기 손실보상금 신청 접수와 함께 지급한다. 거리두기 조치가 지난 4월 17일자로 끝난 만큼 보상금 지급은 현재로서는 이번이 마지막이다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[올해 추석연휴, 알바 없이 일한 '나홀로' 자영업자 늘었다 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=386</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=386</guid>
-            <pubDate>Tue, 20 Sep 2022 02:03:43 GMT</pubDate>
-            <content:encoded><![CDATA[이번 추석 연휴 동안 직원 없이 가게를 운영한 '나홀로 사장'이 늘어난 것으로 나타났다. <br><br>아르바이트 전문 포털 알바천국에 따르면 기업회원 128명 중 '(연휴 기간) 혼자 근무한다'는 응답자는 전체의 24.8%를 차지했다. 이는 전년(11.6%) 대비 13.2%포인트 늘어난 수치다. 예년보다 매출 회복 기대로 명절 기간 가게 문을 연 사람이 늘어났으며 고물가와 아르바이트 구인난 등 자영업자들의 어려움은 여전한 실정이다. <br><br>아르바이트생은 주로 원하는 시간에 수익을 낼 수 있는 배달 플랫폼 등으로 몰리고 전반적으로 최저시급과 물가가 오르면서 아르바이트생 고용이 어려워진 영향도 있는 것으로 분석된다.<br><br>통계청 조사에서도 고용원 없는 자영업자 수는 전년 대비 지난 7월 0.6%포인트 늘어났고, 올해 들어서도 △1월 4124명 △2월 4143명 △3월 4176명 △4월 4241명 △5월 4316명 등 매월 증가 추세를 보였다.<br><br>추석에 매장을 운영하는 이유로 '조금이나마 수익을 창출하고자(38.3%·복수응답)'라는 답변이 가장 많았고, '추석 연휴가 대목이라서(25%)'가 그 뒤를 이었다. 또 전체 응답자의 52.3%가 '연휴 기간 매출·손님이 늘어날 것으로 예측한다'고 답했다.<br><br>반면 연휴 동안 가게를 운영하더라도 고물가 등으로 인해 코로나가 한창 유행이던 지난해와 매출이 크게 차이 나지 않는다는 자영업자들도 적지 않은 것으로 나타났다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네이버, 로컬 중소상인 위한 '플레이스 쿠폰' 출시 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=385</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=385</guid>
-            <pubDate>Tue, 20 Sep 2022 02:03:43 GMT</pubDate>
-            <content:encoded><![CDATA[네이버가 로컬 중소상인(SME)을 위한 새로운 비즈니스 솔루션을 출시했다. 신규고객을 유치하거나 단골고객의 만족도를 높이는 데 활용할 수 있는 '플레이스 쿠폰'이다.<br><br>네이버 스마트플레이스에 내 가게 정보를 등록한 로컬SME는 ▲스마트콜 ▲네이버 예약 ▲네이버 주문 등 사업에 도움을 주는 다양한 솔루션을 무료로 사용할 수 있다. '플레이스 쿠폰'은 고객이 온라인과 오프라인에서 사용할 수 있는 쿠폰을 점주가 직접 발행하고 배포할 수 있는 마케팅 솔루션이다.<br><br>쿠폰의 종류로는 ▲할인쿠폰 ▲증정쿠폰 두 가지를 선택할 수 있다. 할인 금액이나 할인율, 증정상품의 정보는 직접 입력할 수 있다.<br><br>쿠폰 조건도 정할 수 있다. ▲가게에 방문하거나 ▲네이버로 예약하거나 ▲네이버 주문을 할 때 사용할 수 있도록 사용환경을 정하고, '3000원 이상 구매 시' 사용할 수 있는 쿠폰 등 사용조건도 설정 가능하다.<br><br>이렇게 발급한 쿠폰을 내 플레이스 페이지에 게재하면 고객이 다운로드해서 사용할 수 있다. 추후에는 사장님이 직접 내 가게 혜택을 받아보는 고객에게 '톡톡 마케팅 메시지'로 쿠폰을 전송할 수도 있게 된다.<br><br>톡톡 마케팅 메시지와 쿠폰 솔루션을 시작으로 스마트플레이스가 로컬SME의 영업 실무에 도움을 주는 비즈니스 플랫폼에서 더 나아가 SME가 성장을 가속하고 단골을 관리할 수 있는 '마케팅' 플랫폼으로도 성장시킬 계획이라고 네이버 측은 설명했다.<br><br>권혁상 네이버 스마트플레이스 리더는 "스마트플레이스는 한 발 더 나아가 SME의 성장을 가속할 수 있는 플랫폼"이라며 "장기적으로 가게 홍보, 리소스 절감, 마케팅, 전략 분석 등 로컬SME가 필요로 하는 모든 영역에서 도움을 줄 수 있는 플랫폼으로 나아갈 예정"이라고 말했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['배민사장님광장'에서 외식업 사장님과 고객 소통한다...'설문조사·댓글참여' (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=384</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=384</guid>
-            <pubDate>Tue, 20 Sep 2022 02:03:43 GMT</pubDate>
-            <content:encoded><![CDATA[배달의민족(이하 배민) 운영사 우아한형제들은 ‘배민사장님광장’ 사이트에 다양한 설문조사와 댓글을 통해 활발하게 의견을 나눌 수 있는 ‘참여광장’ 페이지를 오픈했다고 밝혔다.<br><br>참여광장에는 매일 새로운 설문조사가 게시되고, 외식업 소상공인들은 자유로운 투표와 댓글로 지혜와 지식을 나눌 수 있다.<br><br>예를 들면 ▲배달을 나갈 때 가장 신경 쓰는 것 ▲여름철 가장 효과적인 날벌레 퇴치 방법 ▲마감시간에 찾아온 단골손님의 응대 등 외식업주라면 누구나 공감할 수 있는 주제들이 설문조사로 올라와 있다. 사장님들은 이를 통해 여러가지 팁과 해결법을 묻고 답하며 소통할 수 있다.<br><br>앞서 ‘참여광장’에서는 추석을 앞두고 지난달 23일부터 9월7일까지 휴무 예정일에 대한 설문조사를 진행한 바 있다. 그 결과, 전체 사장님 응답자(2842명) 중 43.6%(1240명)가 ‘이번 추석 연휴에는 휴무가 없다’고 답했다. 이어 ‘추석 당일만 휴무’를 선택한 응답자도 전체의 35.7%(1016명)를 차지했다. ‘추석 연휴 모두 쉰다’고 한 응답자는 20.6%(586명)이었다.<br><br>설문 댓글에는 “동네 상권이다 보니 매년 명절 연휴 기간이 대목이라 쉬기 어렵다”, “오랜만에 가족들과 좋은 추억을 만들며 함께 한가위를 보내겠다”, “가게 오픈 후 처음으로 맞이하는 명절이라서 단축 운영을 하며 분위기를 보겠다” 등 외식업주의 다양한 의견이 이어졌다.<br><br>배민 관계자는 “상대적으로 짧은 연휴에 정상영업을 할지, 재충전의 시간을 가질지 사장님들이 고민중이신 것 같다”며 “추석 명절 특별한 계획을 세우고 계신 사장님은 배민 앱 내 가게 공지를 통해 연휴 동안 변경된 가게 운영시간 등을 안내한다면 고객 응대에 더 효과적일 것”이라고 조언했다.<br><br>우아한형제들은 ‘배민사장님광장’에 외식업 종사자들을 위한 양질의 정보와 콘텐츠를 강화해 급변하는 외식산업 환경에 맞춰 사장님들의 생각과 지혜를 교류할 수 있도록 고도화해 나갈 방침이다. 이에 배민은 지난 7월 ‘테이의 브레이크 타임’이라는 오디오 콘텐츠도 새롭게 선보였다.<br><br>단순히 정보 전달 기능을 넘어 사장님들의 소통 커뮤니티 성격을 강화한 결과, 올해 7월 말 기준 ‘배민사장님광장’ 사이트의 콘텐츠 이용자 수는 작년 10월 대비 187% 증가했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[명절 연휴 편의점 '의약품·택배' 매출 증가...'新생활플랫폼' (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=383</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=383</guid>
-            <pubDate>Tue, 20 Sep 2022 02:03:43 GMT</pubDate>
-            <content:encoded><![CDATA[올해 추석 연휴 기간 편의점의 안전 상비의약품, 택배 서비스 매출이 늘어난 것으로 나타났다.  <br><br>편의점업계에 따르면 CU는 명절 연휴 안전상비의약품 매출이 2018년에는 전년 대비 16.5%, 2019년에는 10.5% 각각 증가했다. 올해 설 연휴 기간에도 20.5% 매출이 늘었다.<br><br>지난 2020년에는 5.6% 늘어나는 데 그치고 2021년에는 8.1% 감소했지만 당시 코로나19 대유행 상황이었던 점을 고려하면 이때를 제외하고는 평균적으로 매년 전년 대비 매출이 두 자릿수 증가하는 셈이다. 명절 연휴에는 특히 소화제 매출이 증가하는 것으로 나타났다. 평소 전체 안전상비의약품 매출에서 소화제가 차지하는 비중은 20% 수준이지만 연휴 기간에는 35%까지 늘어난다.<br><br>CU의 'CU끼리택배' 명절 연휴 이용 건수는 전주 동기간 대비 2020년에는 125.3%, 2021년에는 194.5% 각각 늘었고 올해 설에도 231.7% 증가했다.<br><br>GS25에서도 지난해 추석 연휴 기간 안전상비약품의 매출이 122% 증가했다. 편의점에서는 명절 기간 택배 접수도 증가한다. 일반 택배사들의 택배 접수와 배송이 중단되면서 편의점 자체망을 이용한 택배 이용자가 늘기 때문이다.<br><br>GS25의 '반값택배' 역시 지난해 추석 연휴 기간 이용 건수가 전년 추석 대비 257% 늘었다.<br><br>편의점들은 추석을 혼자 보내는 소비자들을 겨냥해 매년 명절 음식으로 구성된 도시락도 내놓고 있다. 올해도 CU는 소갈비 도시락과 소고기 골동반 도시락을, 이마트24는 모둠전과 삼색나물, 잡채 등으로 구성된 '한가위한상도시락'을 내놨다. GS25 역시 비빔밥과 모둠전 등으로 구성된 '오색한가위도시락'을 판매하고 있다.<br><br>이밖에도 명절 연휴 기간 동안 편의점 현금자동입출금기(ATM) 이용이 늘어난 것으로 나타났다. 향후 편의점이 '생활 밀착 플랫폼'으로서 역할을 해낼 것으로 예상된다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[브런치북 대상 수상작 '안녕하세요, 자영업자입니다'...자영업자 생존 분투기 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=381</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=381</guid>
-            <pubDate>Thu, 15 Sep 2022 02:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[제9회 브런치북 대상 수상작 ‘안녕하세요, 자영업자입니다’가 출간됐다. <br><br>사회적 거리두기 방역수칙이 발표될 때마다 마음을 졸이는 코로나 시대 한국 자영업자의 현실을 생생하게 담아낸 극사실주의 소설이다. 회사를 다니던 직장인이 장사를 시작하며 자신의 가게에 사활을 건 치열한 날들을 담았다. <br><br>언제 끝날지 알 수 없는 전염병 시대를 지나며 일상은 여러가지 변화를 맞이했다. 마스크를 쓰는 것이 익숙해졌고 거리두기 방침에 따른 집합금지 인원과 가게 영업시간 제한을 살피는 것이 일상화되었다. 사람들은 만나지 못했고, 학생들은 학교에 가지 못했으며, 직장인들은 재택근무에 돌입했다. <br><br>백신 접종이 본격화된 뒤로는 실내에 들어갈 때 백신 접종 여부를 의무적으로 알려야 하는 시기가 찾아왔다. 이후 돌파감염과 변이 바이러스의 출몰, 그리고 단계적 일상회복에 들어서기까지, 이 모든 지난한 과정을 전 세계가 나란히 거쳐왔다. <br><br>이 책은 금방 종식될지도 모른다고 기대했던 코로나19가 장기화되면서 모두가 비슷하고도 조금씩은 다른 모양으로 감내한 어려움과 불편을 살핀다. 그 중에서도 방역 조치에 따라 장기간 영업을 제한당하며 생계가 휘청거렸던 소상공인 자영업자에게 초점을 맞춘다. <br><br>주인공으로 이대한이라는 평범한 인물이 등장한다. 회사를 그만두고 막연히 생각만 해본 자영업을 시작하며 스터디 카페 '사장님'이 되지만 세상은 녹록하지 않다. 코로나19와 경기침체로 벼랑 끝에 내몰린 자영업자가 긴 시간 견뎌야 했던 외로움과 고통을 오롯이 담아낸 코로나 시대 한국 자영업자의 피 땀 눈물이 담긴 생존 보고서라 하겠다. <br><br>대한은 경험하지 못한 일상의 돌발들로 우여곡절을 겪지만 각박한 현실에서도 얻은 것은 '자영업자들은 모두가 마음을 튼 친구고 동료'라는 점이다. 힘든 때일수록 나란히 손잡고 나아가보려는 마음, 그 애씀이 내일로 나아가는 서로의 발걸음에 힘을 실어준다. 그 덕에 대한을 비롯한 자영업자들은 미끄러지고 넘어져도 다시 일어서기 위해 한번 더 용기를 낸다.<br><br>한편 문학동네와 협업한 KT잘나가게가 ‘안녕하세요, 자영업자입니다’ 도서 증정 이벤트를 진행한다. KT잘나가게 홈페이지에서 진행되는 이번 이벤트는 ‘상권 퀴즈’ 두개의 정답을 맞히는 이벤트로 정답을 적고 하단의 ‘응모하기’를 누르면 된다. 기간은 10월 6일(목)까지이며, 당첨발표는 이벤트 종료 후 당첨자에게 개별 연락할 예정이다. <br><br>이벤트 바로가기: https://jalnagage.kt.co.kr/event/?eventNo=E000009]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[중기부-금융위-금감원, 중기·소상공인 위해 뭉쳤다 '금융문제 해결' 맞손 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=380</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=380</guid>
-            <pubDate>Thu, 15 Sep 2022 02:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[중소벤처기업부가 금융위원회, 금융감독원과 함께 '금융 현안 관련 중소기업‧소상공인 업계 간담회'를 개최했다. <br><br>중소기업과 소상공인의 금융 애로를 듣기 위해 중기부 장관, 금융위원장, 금융감독원장이 한자리에 모인 건 이번이 처음이다. 2020년 4월부터 시행 중인 코로나19 만기연장·상환유예의 연착륙 방안과 10월부터 시행될 예정인 새출발기금 등에 대해 현장 목소리를 듣고 이를 정책에 반영할 방침이다. <br><br>정부는 금융위원회, 금융감독원을 중심으로 전 금융권이 참여하는 '만기연장상환유예 연착륙을 위한 협의체'를 운영해왔다. 지난달 29일에는 만기 연장 연착륙 방안 중 하나로 최초의 소상공인 전용 채무조정 프로그램인 새출발기금 운영안이 발표된 바 있다.<br><br>새출발기금은 코로나19 사회적 거리두기 등 정부의 방역 조치에 협조하는 과정에서 빚을 늘렸다가 대출상환에 어려움을 겪는 소상공인 취약차주의 빚 상환 부담을 줄여주는 제도다.<br><br>이영 장관은 "정부 노력에도 고금리, 고환율, 고물가로 인한 어려움이 당분간 지속될 것으로 예상된다"며 "회의에 나온 업계 건의 사항은 면밀히 검토해 금융위, 금감원과 협력하겠다"고 말했다.<br><br>김주현 금융위원장은 “중소기업·자영업자들의 금융 애로 해소를 위해 고금리 부채 저금리 대환, 맞춤형 정책자금 지원, 새출발기금 등 맞춤형 금융지원방안을 마련했다”며 “중소기업·자영업자의 어려움을 면밀히 살펴 필요 시 추가 금융지원대책을 마련할 것”이라고 말했다. <br><br>한편 이날 간담회는 중소기업중앙회, 소상공인연합회, 전국상인연합회, 한국외식업중앙회, 한국수퍼마켓협동조합연합회 등 10개 협·단체 관계자가 참여했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서울시, '폭우피해' 소상공인에 재난지원금 500만원 지급 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=379</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=379</guid>
-            <pubDate>Thu, 15 Sep 2022 02:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[서울시가 추석 전까지 수해피해를 입은 소상공인 8804개소에 재난지원금 500만원을 지급한다고밝혔다.<br><br>서울시는 피해 소상공인이 하루빨리 영업을 정상화 할 수 있도록 기존 계획된 서울시 긴급복구비 및 정부지원금 외 예비비를 활용해 개소당 100만원을 추가한 총 500만원을 긴급 지원하기로 했다. 이번 지원금은 ▲긴급복구비(시비) 200만원 ▲서울시(추가)지원금 100만원 ▲중앙정부 지원금(국비70%~50%+시비9%~20%+구비18%~35%) 200만원을 합친 금액이다.<br><br>이를 위해 지난 달 8~31일까지 피해 소상공인으로부터 지원금 신청접수를 받았다. 이 중 구청장이 피해사실을 확인하는 등 지원 요건에 해당하는 소상공인 8804개소를 선정했다. 접수 결과 관악구가 2040개소로 가장 많았고 다음이 동작구(1895개소), 서초구(1538개소) 등의 순이었다.<br><br>풍수해 피해를 입은 서울소재 중소기업, 소상공인을 대상을 업체당 최대 2억원의 특별자금융자도 추진한다. 특별자금융자는 업체당 2억원 이내, 2% 고정금리며 1년 거치 4년 균등분활 또는 2년 만기 일시상환 중 선택할 수 있다. 피해 소상공인 대상 특별보증지원(100%, 2억원이내)과 중소기업육성자금 상환유예(1년이내) 또는 연장도 함께 진행한다.<br><br>매년 반복적으로 발생하는 자연재해 피해 보상을 위한 ‘소상공인 풍수해보험료’도 추가로 지원하기로 했다. 현재 풍수해보험은 정부가 보험료의 70%를 지원하고 있는데 여기에 추가로 최대 21%까지 지원해 소상공인의 부담을 줄인다는 계획이다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[배달앱 "자영업자 정산대금 830억 추석 전 조기 지급" (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=378</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=378</guid>
-            <pubDate>Thu, 15 Sep 2022 02:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[배달의민족을 운영하는 우아한형제들이 추석 연휴를 앞두고 자영업자들이 자금난을 겪지 않도록 830억원 규모의 정산대금을 조기 지급한다고 밝혔다.<br><br>현재 우아한형제들의 정산주기는 3영업일로 기존대라로면 추석연휴(9~12일)로 인해 오는 13일에 지급될 예정이지만 이를 앞당겨 오는 8일에 정산키로 했다. 다만 이번엔 전자지급결제대행(PG)사 도움 없이 배민 자체 보유 자금만으로 이뤄진다.<br><br>배민에 입점한 모든 가게(배달의민족, 배민1, 포장 주문 등)라면 조기 지급 대상으로, 일자별 정산 금액과 입금 일정은 배민셀프서비스 내 정산내역 항목에서 확인할 수 있다.<br><br>배민은 자영업자의 원활한 현금흐름을 위해 정산 시스템을 꾸준히 개선해왔다. 지난 2019년 4월 업계 최초로 일 정산 시스템을 구축한 데 이어, 지난해 10월 입금시간을 기존 오전 11시~오후 3시에서 오전 8시~오후 12시로 앞당겼다. 1월부턴 정산주기도 4영업일에서 3영업일로 단축했다.<br><br>최성길 우아한형제들 정산플랫폼팀장은 "추석 연휴로 늦어지는 매출 정산으로 사장님들이 자금 운용에 어려움을 겪지 않도록 올해도 조기 지급을 결정했다"며 "정산 시스템을 지속 개선하는 등 가게 운영을 돕기 위한 다양한 방안을 고민하고 실천할 것"이라고 설명했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네이버, 배달시장 진출…11월 'N배달' 론칭 (KT 잘나가게 ─ 트렌드/이슈 ─ 소상공인뉴스)]]></title>
-            <link>https://jalnagage.kt.co.kr/trend/news/?trendCode=377</link>
-            <guid>https://jalnagage.kt.co.kr/trend/news/?trendCode=377</guid>
-            <pubDate>Thu, 15 Sep 2022 02:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[네이버가 소상공인(SME)의 배달비용 부담을 덜어주고자 배달 서비스 시장에 진출한다. <br><br>네이버는 지역 음식점을 운영 중인 소상공인 및 자영업자를 위한 ‘N배달 서비스’를 론칭할 계획이다. N배달 서비스가 출시되면 기존에 제공하고 있던 네이버 예약과 주문 서비스 등이 배달 서비스에 연동되는 것으로 이용자는 네이버 지도를 통해 지역 내 소상공인 사업자의 음식을 배달 받을 수 있다.<br><br>네이버 예약의 경우 스마트 플레이스 내 지역 소상공인의 사업장 예약이 가능하게 만들어놓은 서비스다. 주로 음식점 및 미용실, 팬션 등에서 이용하고 있다. 주문 서비스는 지역 음식점에서 QR코드를 통해 주문을 하거나 네이버 지도 애플리케이션(앱)에서 픽업 주문을 진행하면 바로 주문 정보가 해당 사업체로 들어가는 기능이다. 간편 주문 서비스의 경우 네이버가 다양한 배달 플랫폼 및 일부 외식 프랜차이즈사와 주문 전산을 연동해 주문이 발생할 경우 주문정보를 넘겨주는 방식이다.<br><br>업계 관계자에 따르면 네이버는 배달앱 연동 개발을 완료했으며 오는 11월 서비스를 선보일 것으로 예상된다. N배달 서비스 배달은 생각대로가 맡을 것으로 보인다. 생각대로는 2020년 네이버로부터 400억원을 투자받아 지분의 10.3%가 네이버 소유다. 아울러 생각대로의 모회사였던 인성데이타는 국내 퀵서비스 분야 시장 점유율이 약 80%에 달하며 월 1300만건 이상의 배달 주문을 수행하는 등 배달 및 퀵 시장에서의 점유율이 독보적이다.<br><br>이 외에도 업계에서는 바로고 또한 배달 사업자로 선정될 것이라는 의견이 나오고 있다. 바로고가 2020년 5월 모아콜을 인수하며 수도권 지역에서 배달 서비스 강세를 보이고 있기 때문이다. 인수 후 바로고의 월 평균 주문 건수는 1000만건에서 1700만건으로 뛰었다. 물량을 빠르게 소화해야 하는 배달업 특성상 라이더 수와 평균 주문 건수는 주요 고려 대상이다.<br><br>네이버가 이같이 배달 사업에 뛰어드는 이유는 배달 시장이 지속 성장하고 있기 때문이다. 통계청에 따르면 음식 배달 시장 규모는 25조6783억원으로, 2019년 9조7365억원과 비교해 2년 동안 2.6배 이상 성장했다. 모바일인덱스는 3대 배달앱인 배달의민족, 쿠팡이츠, 요기요 분기별 이용자 수가 매 분기 약 10% 증가율을 기록하며 올해 상반기 총 2억454만명이 이용한 것으로 집계했다.<br><br>N배달 결제 수단으로 활용될 네이버 페이 역시 소상공인을 위한 주요 지원 수단으로 활용될 전망이다. 네이버는 소상공인을 대상으로 네이버 페이는 영세 사업자에 한해 수수료 1.98%를 일률적으로 적용하고 있다.<br><br>네이버는 타 '배달' 서비스 사업자와 달리 스마트스토어를 통해 소상공인과의 직접적인 거래 경험을 다수 보유하고 있다는 점도 진출 과정에서 활용될 것으로 보인다. 스마트플레이스와 네이버 지도, 그리고 N배달이 연동되는 만큼 이를 기반으로 한 배달, 쇼핑 생태계가 연결될 것으로 보인다.]]></content:encoded>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://LIFECORD.github.io/marketing/all.xml</id>
+    <title>Combined feed</title>
+    <updated>2022-09-20T17:30:12.369Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[코바코 x 한국지방재정공제회, 고속도로 옥외광고로 '공익광고' 확산 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9535</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9535"/>
+        <updated>2022-09-20T12:40:52.512Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PR People Talk] "숏폼의 미래는 무궁무진한 가능성이 열려 있습니다" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9533</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9533"/>
+        <updated>2022-09-20T07:28:35.111Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 데이터 연합 강연회 성료... GA와 온라인광고, 그로스해킹까지 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9532</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9532"/>
+        <updated>2022-09-20T06:05:56.942Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년도 제2차 DMC XR 코워킹오피스 입주기업 모집... 10월 7일(금)까지 SBA 홈페이지에서 신청 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9531</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9531"/>
+        <updated>2022-09-20T06:05:56.951Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울창업허브 x 현대건설, 스마트 건설 분야 혁신기업 찾는다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9530</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9530"/>
+        <updated>2022-09-20T10:57:00.000Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국인 스마트폰 사용자의 39% ‘중고거래 앱’ 이용... 지난 2년 동안 중고거래 앱 사용자 65% 증가 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9529</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9529"/>
+        <updated>2022-09-20T08:58:00.000Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신중년 10명 중 8명은 현재 주식 투자 중.. 가장 선호하는 주식 앱은 KB증권 M-able (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9528</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9528"/>
+        <updated>2022-09-20T08:39:00.000Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[9월 20일 마케팅 뉴스클리핑] 네이버, 대학생 전용 멤버십 출시 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9527</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9527"/>
+        <updated>2022-09-20T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘2022대한민국광고대상’ 올해의 빛나는 수상작을 기다립니다! (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9526</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9526"/>
+        <updated>2022-09-19T07:40:20.621Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울의 아름다움을 발견할 수 있는 서울 뷰티·패션 라운지 ‘B the B’(Be the Beautiful) 공식 SNS 오픈 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9525</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9525"/>
+        <updated>2022-09-19T07:40:20.623Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MZ세대 일상에 침투하자... 식음료업계, 공감 마케팅 승부수 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9524</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9524"/>
+        <updated>2022-09-19T11:07:00.000Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한불상공회의소, 프렌치 테크 커뮤니티와 함께 스타트업 생태계 활성화를 위한 ‘테크포굿 투어 2022’ 개최 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9523</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9523"/>
+        <updated>2022-09-19T09:21:00.000Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["오라클 클라우드 생태계의 주인공을 찾아라!" 서울창업허브 창동 x 한국오라클,스타트업 공동발굴 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9522</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9522"/>
+        <updated>2022-09-19T09:20:00.000Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이노션, 달리는 자동차에 디지털 광고 태운다... 모빌리티 광고 플랫폼 첫 신호탄 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9521</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9521"/>
+        <updated>2022-09-19T09:01:00.000Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[박재항의 反轉 커뮤니케이션] 신은 여왕을 지키고, 우린 빅엿을 먹이지 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9520</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9520"/>
+        <updated>2022-09-19T08:33:00.000Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[9월 19일 마케팅 뉴스클리핑] 카카오 오픈채팅 광고 실험... 두 마리 토끼 잡는다 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9515</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9515"/>
+        <updated>2022-09-19T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[해외 크리에이티브] 줌, 새로운 로고와 제품 리브랜딩 발표... "더이상 화상회의 앱이 아니다" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9519</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9519"/>
+        <updated>2022-09-18T09:26:00.000Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인포그래픽] 세계에서 게이머 비중이 높은 나라 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9518</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9518"/>
+        <updated>2022-09-18T09:25:00.000Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["광고주가 선호하는 디지털플랫폼은 포털"… 코바코, 디지털 플랫폼 이용 행태 조사 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9517</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9517"/>
+        <updated>2022-09-17T09:29:00.000Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이노레드, 칸 라이언즈 '2022 아시아 에이전시 톱20' 선정... 국내 광고회사 유일 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9516</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9516"/>
+        <updated>2022-09-17T09:28:00.000Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메타브, 와디즈와 제휴 ‘마케팅 웹 콘텐츠 제작&홍보 지원한다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9514</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9514"/>
+        <updated>2022-09-16T09:19:00.000Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데이터 마케팅 인사이트] 8월 OTT 시장, 가장 많이 보는 '넷플릭스', 오래 보는 '웨이브' (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9513</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9513"/>
+        <updated>2022-09-16T09:18:00.000Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[덴츠, 웹3 클럽 론칭... 새로운 조직은 '건정한 시장'을 개발할 예정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9512</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9512"/>
+        <updated>2022-09-16T08:43:00.000Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[9월 16일 마케팅 뉴스클리핑] 유튜브, 공짜로 영상 보려면 광고 5개 봐 외 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9511</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9511"/>
+        <updated>2022-09-16T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크래프톤 버추얼 휴먼 ‘애나(ANA)’, 첫 디지털 싱글 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9510</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9510"/>
+        <updated>2022-09-15T00:24:00.000Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고프로, 히어로11 블랙 국내 정식 출시... "역대 최고의 촬영 환경 제공" (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9509</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9509"/>
+        <updated>2022-09-15T00:21:00.000Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국립중앙박물관, 올 가을 ‘MZ세대 놀이터’로 변신하다 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9508</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9508"/>
+        <updated>2022-09-15T11:13:00.000Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더에스엠씨그룹, 네이버 브랜드 커넥트 서비스 협력사 선정 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9507</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9507"/>
+        <updated>2022-09-15T10:12:00.000Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로블록스, 2023년부터 게임 내 광고 허용 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9505</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9505"/>
+        <updated>2022-09-15T10:00:00.000Z</updated>
+        <content type="html"><![CDATA[막내운영자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["추워져도 Y2K 인기는 지속된다"... 에이블리, 가을 패션 트렌드 공개 (아이보스 ─ 뉴스 ─ 전체보기)]]></title>
+        <id>https://www.i-boss.co.kr/ab-2877-9506</id>
+        <link href="https://www.i-boss.co.kr/ab-2877-9506"/>
+        <updated>2022-09-15T09:56:00.000Z</updated>
+        <content type="html"><![CDATA[cookiman]]></content>
+    </entry>
+</feed>
