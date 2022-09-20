@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 04:49:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 06:06:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 데이터 연합 강연회 성료... GA와 온라인광고, 그로스해킹까지]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9532</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9532</guid>
+            <pubDate>Tue, 20 Sep 2022 06:05:56 GMT</pubDate>
+            <content:encoded><![CDATA[직장인 커뮤니티 청년마케터(헤드디렉터 박윤찬)가 디지털 마케터를 대상으로 2022 청년마케터 데이터 연합강연회 세미나를 프론트원에서 개최하였다고 20일 밝혔다. 이날 행사는 김자유(누구나데이터 대표) 박기정(K마케팅컴퍼 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년도 제2차 DMC XR 코워킹오피스 입주기업 모집... 10월 7일(금)까지 SBA 홈페이지에서 신청]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9531</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9531</guid>
+            <pubDate>Tue, 20 Sep 2022 06:05:56 GMT</pubDate>
+            <content:encoded><![CDATA[서울시중소기업 지원기관 서울산업진흥원(SBA, 대표이사 김현우)은 서울 마포구 상암동 디지털미디어시티(DMC)에 위치한 DMC XR 코워킹오피스의 신규 입주기업을 모집한다고 밝혔다. DMC XR 코워킹오피스(마포구 성암로 330, DMC첨단 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[서울창업허브 x 현대건설, 스마트 건설 분야 혁신기업 찾는다]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9530</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 15 Sep 2022 08:53:00 GMT</pubDate>
             <content:encoded><![CDATA[개인주의 문화가 부상하고 더 이상 결혼이나 출산을 필수로 여기지 않는 사람들이 많아지며 1인 가구 증가 흐름은 더욱 가속화되면서가족 간 유대감은 더욱 희미해진 모습이다.가족을 위한 책임감이나 희생 정신 등은 사회 전 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[익숙함에 새로움을 더한다... 유통업계, MZ세대가 즐겨보는 유튜브 활용한 뉴클래식 마케팅 펼치다]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9502</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9502</guid>
-            <pubDate>Thu, 15 Sep 2022 08:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[유튜브의영향력확대가지속되는가운데유통업계에서도유튜브를활용해색다름을선사하는뉴클래식마케팅이확산되고있다. 뉴클래식이란기존에있던제품이나방식에새로움을더하는것으로복고적인것을강조하는뉴트로와달리새로 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[9월 15일 마케팅 뉴스클리핑] 네이버 스마트스토어, 6년간 49만 개... 연평균 37% 증가 외]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9501</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9501</guid>
-            <pubDate>Thu, 15 Sep 2022 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 네이버 스마트스토어, 6년간 49만 개... 연평균 37% 증가  스마트스토어는 2016년 10만 개에서 2021년 말 49만 개로 늘었다. 연평균 증가율은 37%에 달한다. 지난해 스마트스토어 매출 발생 판매자 중 55%가 가입 1년 이하의 초기 판매 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_07a5b70064025cf943bc3de70125cb2d_58224_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
