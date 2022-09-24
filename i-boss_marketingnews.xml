@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.i-boss.co.kr/ab-7301</id>
-    <title>아이보스 ─ 마케팅 뉴스</title>
-    <updated>2022-09-24T08:25:59.654Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.i-boss.co.kr/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>아이보스 ─ 마케팅 뉴스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 24 Sep 2022 09:21:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[딜로이트, 메타버스 시장 21년 170조에서 25년 400조 원 대로 성장 전망]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9559</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9559</guid>
+            <pubDate>Sat, 24 Sep 2022 09:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국 딜로이트 그룹(총괄대표 홍종성)이 메타버스 시장 전망과 기업 대응 전략 등을 전반적으로 다룬 딜로이트 인사이트 23호: 기회의 땅 메타버스로의 초대(이하 기회의 땅 메타버스로의 초대) 비즈니스 저널을 발간했다. 가상 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[트렌드모니터] 지역과 사람을 잇는 하이퍼 로컬 플랫폼, 우리 동네, 더 즐겁고 편리해질까?]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9558</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9558</guid>
+            <pubDate>Sat, 24 Sep 2022 09:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[지역 기반 서비스 플랫폼을 의미하는 하이퍼 로컬 플랫폼은 코로나19로 외부 활동이 제한되며 관심을 받게 되었다.또한 합리적 소비에 대한 관심이 늘어남에 따라 중고 거래에 대한 인식이 개선된 점도 하이퍼 로컬 플랫폼의 성 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[한국디지털광고협회, 2022 디지털 광고 정책 세미나 개최... 맞춤형 광고 산업과 개인정보보호 상생방안]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9557</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9557</guid>
+            <pubDate>Sat, 24 Sep 2022 09:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[사단법인 한국디지털광고협회(회장 목영도)가 주관하는 2022 디지털 광고 정책 세미나가 오는 9월 29일(목) 오후 14시, 서울 강남 IP디지털혁신센터 훈민정음홀에서 개최된다. 한국디지털광고협회는 매년 디지털 광고 업계에 주요  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[대홍기획, 롯데리아 불고기버거 30주년 기념 NFT 발행]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9556</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9556</guid>
+            <pubDate>Fri, 23 Sep 2022 09:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[대홍기획(대표이사:홍성현)이 롯데GRS(대표이사:차우철)롯데리아와 실물가치형NFT를 발행하고,실물가치를 기반으로 한NFT마케팅 활동을 이어간다. 롯데리아 불고기버거 출시30주년을 기념해 발행된롯데리아1992 NFT는NFT와 불고기 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[9월 23일 마케팅 뉴스클리핑] 애플, 인앱결제 가격 기습인상 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9555</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9555</guid>
+            <pubDate>Fri, 23 Sep 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 애플, 인앱결제 가격 기습인상  인앱결제 공방이 계속되고 있는 가운데 애플이 미국을 제외한 전 세계 일부 국가의 앱스토어 거래 가격을 전격 인상했다. 이번 가격 인상 조치로 한국 앱스토어에서는 0.99달러당 1,200원이던 가 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_46a0530c2e1ef22c57eb37ee9aecd9d6_73217_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국디지털광고협회, 디지털광고 콘텐츠 개발과정프로그램 통한 청년 일자리 제공]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9554</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9554</guid>
+            <pubDate>Sat, 24 Sep 2022 09:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[한국디지털광고협회(회장 목영도)는 디지털광고업계의 인력난을 해소하기 위해 디지털 광고 콘텐츠 개발과정을 진행 중이라고 23일 밝혔다. 디지털 광고 콘텐츠 개발과정은 한국언론진흥재단에서 후원하는 사업으로 청년 구직 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, 10월 5일부터 앱스토어 가격 인상... 한국도 포함]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9553</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9553</guid>
+            <pubDate>Sat, 24 Sep 2022 09:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 10월 5일(현지시간)부터 아시아와 유럽 여러 국가들을 상대로 자사 앱스토어에서 앱 및 인앱 구매 가격을 인상한다.  애플 새 가격 정책은 한국을 포함해 칠레, 이집트, 일본, 말레이시아, 파키스탄, 폴란드, 스웨덴, 베트 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[트렌비, 라이브 커머스 트렌비LIVE 공개]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9552</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9552</guid>
+            <pubDate>Thu, 22 Sep 2022 11:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[명품 플랫폼 트렌비가 라이브 커머스를 런칭한다고 22일 밝혔다.   트렌비는 향후 월 1회 정기적으로 라이브 커머스를 진행할 예정으로 시즌별 인기 상품군을 트렌비LIVE 특별 혜택으로 만나볼 수 있다.  첫 번째 트렌비LIVE는 트렌 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_679940817d419a493d42b562cf862c1b_16295_1.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[세일즈포스, 전세계 최초 실시간 CRM 플랫폼 지니(Genie) 발표... 지속가능한 디지털 혁신 가속화 위한 데이터 연결성 강조]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9551</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9551</guid>
+            <pubDate>Thu, 22 Sep 2022 09:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계CRM시장을 선도하는 세일즈포스가21일(현지시각)글로벌 연례행사 드림포스2022에서 전세계 최초 실시간CRM플랫폼 지니(Genie),탄소배출권 거래 플랫폼 넷제로 마켓플레이스,세일즈포스 커스터머360(Customer 360)연동 디지털 본 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[아드리엘, 광고 소재 별 성과까지 한눈에 파악하는 애드옵스 신규 기능 출시]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9550</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9550</guid>
+            <pubDate>Thu, 22 Sep 2022 09:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 애드테크 기업 아드리엘(대표 엄수원)이 자사의 마케팅 솔루션 애드옵스(AdOps)에 광고 소재 별 성과까지 실시간으로 한눈에 파악할 수 있는 신규 기능을 출시했다. 애드옵스(AdOps)는 구글네이버카카오 등 여러 매체에 분 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 카타르 월드컵, 가장 영향력 높은 선수는 크라스티아누 호날두]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9549</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9549</guid>
+            <pubDate>Thu, 22 Sep 2022 08:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022카타르 월드컵 출전 선수 중 소셜 미디어에서 가장 영향력 있는 선수는 크리스티아누 호날두,리오넬 메시와 네이마르 순인 것으로 나타났다. 글로벌 미디어 정보 분석 기업 닐슨미디어코리아는 자사 인플루언서 마케팅 솔루 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[퍼브매틱, 퍼블리셔에게 더욱 우수한 제어 기능을 제공하는 새롭게 업그레이드된 오픈랩 발표]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9548</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9548</guid>
+            <pubDate>Thu, 22 Sep 2022 08:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[프로그래매틱 광고분야의혁신을이끌고 있는SSP기업으로서,디지털 광고를 위한 미래 공급망을 제공하는 독립형 애드테크 기업인 퍼브매틱(PubMatic, Inc./Nasdaq: PUBM)은 오늘 퍼블리셔를 위한 자사의 통합형 경매 솔루션인 오픈랩(Open ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[데이터 비즈니스 가능성 세계에 알렸다 아이지에이웍스, 한-미 스타트업 서밋서 성장 사례 발표]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9547</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9547</guid>
+            <pubDate>Thu, 22 Sep 2022 08:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최대 빅데이터 플랫폼 기업 아이지에이웍스(대표 마국성)가 미국 뉴욕에서 열린한-미 스타트업 서밋에서대한민국 데이터 유니콘 성장 사례를 발표했다고22일 밝혔다. 중소벤처기업부가 주최하고 창업진흥원,한국벤처투자 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[전략가는 브랜드에 중요한 가치를 제공하지만, 인재 부족은 우려 사항이다.]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9546</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9546</guid>
+            <pubDate>Thu, 22 Sep 2022 08:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[변화하는 세계에 적응하려는 클라이언트의 요구에 대응함에 따라 전략 기능은 가치와 영향력을 얻었지만, 인재 부족은 현재 가장 큰 우려 사항이 되고 있다. 이는 WARC가 발표한  보고서에 포함된 연구 결과 중 일부이다. 연례 WAR ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[황인선 작가, Ready, 네 개의 세상 출간 기념 북토크 개최... 9월 30일 KT&G 북서울 본부 상상 아틀리에]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9545</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9545</guid>
+            <pubDate>Thu, 22 Sep 2022 08:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[황인선 작각가  출판 기념 북토크를 9월 30일 오후 7시부터KT&amp;G 북서울본부 상상아틀리에에서 진행한다. `메타버스+ 세상, 어떻게 설계하고 살아야하는가?`라는 주제로 진행되는 이번 북토크에서메타버스, ESG, 재택근무, 디지털 소 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[8월 미국 광고 시장 3개월 연속 하락]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9544</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9544</guid>
+            <pubDate>Thu, 22 Sep 2022 08:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[스탠더드 미디어 인덱스(SMI)의 미국 광고시장 트래커에 따르면, 8월 광고 지출이 3.3% 감소하여 미국 광고 경제가 3개월 연속 하락세를 기록했다. 미디어포스트의 분석에 따르면, 지난 7월의 거의 13%의 하락율에 비해 하락율은 완 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[9월 22일 마케팅 뉴스클리핑] 유튜브, 쇼츠 창작자와 수익 나눈다 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9543</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9543</guid>
+            <pubDate>Thu, 22 Sep 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 유튜브, `쇼츠` 창작자와 수익 나눈다  유튜브가 숏폼 콘텐츠 플랫폼 `쇼츠(Shorts)`에 광고를 도입하고, 크리에이터들에게 수익을 배분한다. 유튜브는 `메이드 온 유튜브` 행사에서 내년부터 동영상 조회수를 바탕으로 쇼츠 수 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_c4774194cd34b9073405f9856851f4ff_62462_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이노션, 2년 연속 동반성장지수평가 최우수 획득]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9542</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9542</guid>
+            <pubDate>Sat, 24 Sep 2022 09:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[이노션(대표이사 이용우)은 동반성장위원회의 2021 동반성장지수평가에서 최고 등급인 최우수를 2년 연속 획득했다고 21일 밝혔다. 동반성장지수는 기업의 공정거래와 동반성장 수준을 계량화한 지표로서, 매년 동반위의 동반성 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[방구석연구소 x 유니버설뮤직, 연애 온도 테스트 100만 참여 돌파]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9541</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9541</guid>
+            <pubDate>Wed, 21 Sep 2022 10:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[웹 콘텐츠 전문 기업 소프트스피어(대표 임하은)의 웹 콘텐츠 프로덕션 방구석연구소와 유니버설뮤직의 컬래버레이션으로 제작된 연애 온도 테스트가 참여수 100만을 돌파했다고 21일 밝혔다. 연애 온도 테스트는 연애를 대하는 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[검색 데이터에 모든 답이 있다 인텐트 마케팅 솔루션 리스닝마인드 시리즈A 투자유치]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9540</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9540</guid>
+            <pubDate>Wed, 21 Sep 2022 09:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[검색 데이터 기반의 인텐트 마케팅 솔루션 리스닝마인드 허블(이하, 리스닝마인드)를 제공하는 어센트코리아(대표 박세용)가 35억원 규모의 시리즈A 투자를 유치했다고 밝혔다. 이번 라운드는 주식회사 신한벤처투자, 다올인베 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[M세대와 Z세대, 어떻게 구별하세요?]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9539</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9539</guid>
+            <pubDate>Wed, 21 Sep 2022 09:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 세대의 대명사로 불리는 MZ세대(밀레니얼+Z세대)는 서로 비슷하면서도 세대 간에 보여지는 차이도 상당한 것으로 나타났다. 종합커뮤니케이션그룹 KPR(사장 김주호) 부설 KPR 디지털커뮤니케이션연구소가 KPR 창립 33주년을  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[세일즈포스 글로벌 연례 행사, 드림포스2022 개최... 혁신사례  신기능  신제품 공개, 지속가능한 디지털 혁신 트렌드 선도할 것]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9538</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9538</guid>
+            <pubDate>Wed, 21 Sep 2022 09:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 CRM 시장을 선도하는 세일즈포스가 이달 20일부터 22일까지(현지 시간) 미국 샌프란시스코에서 글로벌 연례 행사인 드림포스 2022를 개최한다고 21일 밝혔다. 이번 드림포스 2022는 하이브리드 형식으로 세일즈포스의 온라 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[SPOTV NOW, 전월 대비 사용자 48만 명 증가.. 8월 급상승 순위 1위]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9537</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9537</guid>
+            <pubDate>Wed, 21 Sep 2022 09:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[빅데이터 플랫폼 기업 아이지에이웍스가모바일인덱스  리포트를 발표했다. 모바일인덱스 분석 결과, 해외축구 프리미어 리그 독점 중계를 진행한 SPOTV NOW는 7월 대비 8월 사용자 수가 47만 5376명 증가하며 사용자 수 급상승 순위  ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[케이스 스터디] GC녹십자웰빙 관절연골엔 구절초 론칭 캠페인]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9536</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9536</guid>
+            <pubDate>Wed, 21 Sep 2022 08:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[엄마하면, 가장 먼저 생각나는 것은 무엇일까? 아마 `사랑`, `희생` 아닐까? 그래서 그런지 무릎꿇고 기도하는 엄마의 모습이 가장 많이 떠오른다. 엄마의 기도가 우리를 만들었지만, 엄마의 무릎은 망가졌다. 엄마의 무릎에 도움 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[9월 21일 마케팅 뉴스클리핑] 포토샵 어도비, 경쟁업체 피그마 200억 달러에 인수 외]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9534</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9534</guid>
+            <pubDate>Wed, 21 Sep 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. `포토샵` 어도비, 경쟁업체 피그마 200억 달러에 인수  어도비는 디자인 소프트웨어 기업 피그마(Figma)를 인수한다고 발표했다. 어도비는 200억 달러에 피그마를 인수하는 계약을 체결했다. 피그마는 협업 디자인 플랫폼으로 많 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/design/upload_file/BD2876/THUMBNAIL_300_224_bfacb98510f6ccb2ec58a258315b34bd_17244_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코바코 x 한국지방재정공제회, 고속도로 옥외광고로 공익광고 확산]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9535</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9535</guid>
+            <pubDate>Sat, 24 Sep 2022 09:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송광고진흥공사(이하 코바코, 사장 이백만)는 한국지방재정공제회(이하 공제회, 이사장 이인재)와 9월 19일 한국프레스센터에서사회공헌 및 광고홍보산업 진흥을 위한 업무협약을 체결하고, 공익광고와 옥외광고를 활용 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[PR People Talk] 숏폼의 미래는 무궁무진한 가능성이 열려 있습니다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9533</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9533</guid>
+            <pubDate>Sat, 24 Sep 2022 09:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[한국PR협회(회장 김주호)는 9월 15일 오후 4시, 왜 영상콘텐츠인가, 왜 숏폼인가?를 주제로 김용태 더에스엠씨(The SMC)대표와 권기정 호프만에이전시코리아 대표의토크 프로그램을 진행했다. 더 에스엠씨에서 진행된 이번 프로그 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 데이터 연합 강연회 성료... GA와 온라인광고, 그로스해킹까지]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9532</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9532</guid>
+            <pubDate>Sat, 24 Sep 2022 09:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[직장인 커뮤니티 청년마케터(헤드디렉터 박윤찬)가 디지털 마케터를 대상으로 2022 청년마케터 데이터 연합강연회 세미나를 프론트원에서 개최하였다고 20일 밝혔다. 이날 행사는 김자유(누구나데이터 대표) 박기정(K마케팅컴퍼 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년도 제2차 DMC XR 코워킹오피스 입주기업 모집... 10월 7일(금)까지 SBA 홈페이지에서 신청]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9531</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9531</guid>
+            <pubDate>Sat, 24 Sep 2022 09:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[서울시중소기업 지원기관 서울산업진흥원(SBA, 대표이사 김현우)은 서울 마포구 상암동 디지털미디어시티(DMC)에 위치한 DMC XR 코워킹오피스의 신규 입주기업을 모집한다고 밝혔다. DMC XR 코워킹오피스(마포구 성암로 330, DMC첨단 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[서울창업허브 x 현대건설, 스마트 건설 분야 혁신기업 찾는다]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9530</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9530</guid>
+            <pubDate>Tue, 20 Sep 2022 10:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[서울시의 대표 창업지원기관 서울산업진흥원(SBA, 대표이사 김현우)이 운영하는 서울창업허브는 현대건설(대표 윤영준)과 손잡고 에너지 사용의 효율성은 극대화하고, 건설현장 안전사고는 사전에 예방하고 제거할 수 있는 건 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+    </channel>
+</rss>
