@@ -4,9 +4,25 @@
         <title>아이보스 ─ 마케팅 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Sep 2022 23:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Sep 2022 02:05:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[딜로이트, 메타버스 시장 21년 170조에서 25년 400조 원 대로 성장 전망]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9559</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9559</guid>
+            <pubDate>Sat, 24 Sep 2022 09:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국 딜로이트 그룹(총괄대표 홍종성)이 메타버스 시장 전망과 기업 대응 전략 등을 전반적으로 다룬 딜로이트 인사이트 23호: 기회의 땅 메타버스로의 초대(이하 기회의 땅 메타버스로의 초대) 비즈니스 저널을 발간했다. 가상 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[트렌드모니터] 지역과 사람을 잇는 하이퍼 로컬 플랫폼, 우리 동네, 더 즐겁고 편리해질까?]]></title>
+            <link>https://www.i-boss.co.kr/ab-2877-9558</link>
+            <guid>https://www.i-boss.co.kr/ab-2877-9558</guid>
+            <pubDate>Sat, 24 Sep 2022 09:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[지역 기반 서비스 플랫폼을 의미하는 하이퍼 로컬 플랫폼은 코로나19로 외부 활동이 제한되며 관심을 받게 되었다.또한 합리적 소비에 대한 관심이 늘어남에 따라 중고 거래에 대한 인식이 개선된 점도 하이퍼 로컬 플랫폼의 성 ...]]></content:encoded>
+            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[한국디지털광고협회, 2022 디지털 광고 정책 세미나 개최... 맞춤형 광고 산업과 개인정보보호 상생방안]]></title>
             <link>https://www.i-boss.co.kr/ab-2877-9557</link>
@@ -229,22 +245,6 @@
             <guid>https://www.i-boss.co.kr/ab-2877-9530</guid>
             <pubDate>Tue, 20 Sep 2022 10:57:00 GMT</pubDate>
             <content:encoded><![CDATA[서울시의 대표 창업지원기관 서울산업진흥원(SBA, 대표이사 김현우)이 운영하는 서울창업허브는 현대건설(대표 윤영준)과 손잡고 에너지 사용의 효율성은 극대화하고, 건설현장 안전사고는 사전에 예방하고 제거할 수 있는 건 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[한국인 스마트폰 사용자의 39% 중고거래 앱 이용... 지난 2년 동안 중고거래 앱 사용자 65% 증가]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9529</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9529</guid>
-            <pubDate>Tue, 20 Sep 2022 08:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[앱/리테일 분석 서비스와이즈앱리테일굿즈가 지난8월 한국인이 가장 많이 사용한 중고거래 앱을 조사하여 발표했다. 중고거래가 소비자에게 하나의 재미이자 가치 소비로 인식되면서 주요 중고거래 앱의 순 사용자 수가2020년9 ...]]></content:encoded>
-            <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[신중년 10명 중 8명은 현재 주식 투자 중.. 가장 선호하는 주식 앱은 KB증권 M-able]]></title>
-            <link>https://www.i-boss.co.kr/ab-2877-9528</link>
-            <guid>https://www.i-boss.co.kr/ab-2877-9528</guid>
-            <pubDate>Tue, 20 Sep 2022 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[시니어 소셜벤처 임팩트피플스(대표 신철호)는 에이풀(Aful)을 통해 2022년 8월 23일부터 9월 5일까지 4060 남녀 402명을 대상으로 주식 앱 이용 트렌드 조사를 진행했다. 조사 결과, 4060 10명 중 8명은 현재 주식 투자 중(88.8%)이며, 그중 ...]]></content:encoded>
             <enclosure url="https://cdn.ibos.kr/images/THUMBNAIL_300_224_newstrend_img.gif" length="0" type="image/gif"/>
         </item>
     </channel>
