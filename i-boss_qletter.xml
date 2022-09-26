@@ -1,8 +1,143 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://qletter.i-boss.co.kr/list/1/</id>
-    <title>큐레터 저장소</title>
-    <updated>2022-09-26T02:11:04.992Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://qletter.i-boss.co.kr/list/1/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>큐레터 저장소</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 26 Sep 2022 04:56:55 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맞춤형 광고 시장, 타격 받을까 🤔]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1197662-%EB%A7%9E%EC%B6%A4%ED%98%95_%EA%B4%91%EA%B3%A0_%EC%8B%9C%EC%9E%A5_%ED%83%80%EA%B2%A9_%EB%B0%9B%EC%9D%84%EA%B9%8C/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1197662-%EB%A7%9E%EC%B6%A4%ED%98%95_%EA%B4%91%EA%B3%A0_%EC%8B%9C%EC%9E%A5_%ED%83%80%EA%B2%A9_%EB%B0%9B%EC%9D%84%EA%B9%8C/</guid>
+            <pubDate>Mon, 26 Sep 2022 04:55:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1197662-맞춤형_광고_시장_타격_받을까/">
+						<div class="thumb"><img src="/images/qletter_1197662.png"></div>
+						<p><strong>맞춤형 광고 시장, 타격 받을까 🤔</strong>2022.09.26</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1197662.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[성과가 왜 줄었냐고 물어보신다면... 😟]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1192290-%EC%84%B1%EA%B3%BC%EA%B0%80_%EC%99%9C_%EC%A4%84%EC%97%88%EB%83%90%EA%B3%A0_%EB%AC%BC%EC%96%B4%EB%B3%B4%EC%8B%A0%EB%8B%A4%EB%A9%B4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1192290-%EC%84%B1%EA%B3%BC%EA%B0%80_%EC%99%9C_%EC%A4%84%EC%97%88%EB%83%90%EA%B3%A0_%EB%AC%BC%EC%96%B4%EB%B3%B4%EC%8B%A0%EB%8B%A4%EB%A9%B4/</guid>
+            <pubDate>Mon, 26 Sep 2022 04:55:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1192290-성과가_왜_줄었냐고_물어보신다면/">
+						<div class="thumb"><img src="/images/qletter_1192290.png"></div>
+						<p><strong>성과가 왜 줄었냐고 물어보신다면... 😟</strong>2022.09.22</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1192290.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스 덕에 주목받는 CTV 광고 📺]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1184897-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4_%EB%8D%95%EC%97%90_%EC%A3%BC%EB%AA%A9%EB%B0%9B%EB%8A%94_CTV_%EA%B4%91%EA%B3%A0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1184897-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4_%EB%8D%95%EC%97%90_%EC%A3%BC%EB%AA%A9%EB%B0%9B%EB%8A%94_CTV_%EA%B4%91%EA%B3%A0/</guid>
+            <pubDate>Mon, 26 Sep 2022 04:55:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1184897-넷플릭스_덕에_주목받는_CTV_광고/">
+						<div class="thumb"><img src="/images/qletter_1184897.png"></div>
+						<p><strong>넷플릭스 덕에 주목받는 CTV 광고 📺</strong>2022.09.19</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1184897.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[대세는 숏폼, 그런데 어떻게 활용해요?]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1180511-%EB%8C%80%EC%84%B8%EB%8A%94_%EC%88%8F%ED%8F%BC_%EA%B7%B8%EB%9F%B0%EB%8D%B0_%EC%96%B4%EB%96%BB%EA%B2%8C_%ED%99%9C%EC%9A%A9%ED%95%B4%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1180511-%EB%8C%80%EC%84%B8%EB%8A%94_%EC%88%8F%ED%8F%BC_%EA%B7%B8%EB%9F%B0%EB%8D%B0_%EC%96%B4%EB%96%BB%EA%B2%8C_%ED%99%9C%EC%9A%A9%ED%95%B4%EC%9A%94/</guid>
+            <pubDate>Mon, 26 Sep 2022 04:55:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1180511-대세는_숏폼_그런데_어떻게_활용해요/">
+						<div class="thumb"><img src="/images/qletter_1180511.png"></div>
+						<p><strong> 대세는 숏폼, 그런데 어떻게 활용해요?</strong>2022.09.15</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1180511.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버 검색 결과 변화를 주목해야 하는 이유]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1160050-%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B2%80%EC%83%89_%EA%B2%B0%EA%B3%BC_%EB%B3%80%ED%99%94%EB%A5%BC_%EC%A3%BC%EB%AA%A9%ED%95%B4%EC%95%BC_%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1160050-%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B2%80%EC%83%89_%EA%B2%B0%EA%B3%BC_%EB%B3%80%ED%99%94%EB%A5%BC_%EC%A3%BC%EB%AA%A9%ED%95%B4%EC%95%BC_%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0/</guid>
+            <pubDate>Mon, 26 Sep 2022 04:55:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1160050-네이버_검색_결과_변화를_주목해야_하는_이유/">
+						<div class="thumb"><img src="/images/qletter_1160050.png"></div>
+						<p><strong>네이버 검색 결과 변화를 주목해야 하는 이유</strong>2022.09.05</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1160050.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[숫자로 일하는 법! 스킬을 획득했습니다.]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1156094-%EC%88%AB%EC%9E%90%EB%A1%9C_%EC%9D%BC%ED%95%98%EB%8A%94_%EB%B2%95_%EC%8A%A4%ED%82%AC%EC%9D%84_%ED%9A%8D%EB%93%9D%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1156094-%EC%88%AB%EC%9E%90%EB%A1%9C_%EC%9D%BC%ED%95%98%EB%8A%94_%EB%B2%95_%EC%8A%A4%ED%82%AC%EC%9D%84_%ED%9A%8D%EB%93%9D%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4/</guid>
+            <pubDate>Mon, 26 Sep 2022 04:55:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1156094-숫자로_일하는_법_스킬을_획득했습니다/">
+						<div class="thumb"><img src="/images/qletter_1156094.png"></div>
+						<p><strong> 숫자로 일하는 법! 스킬을 획득했습니다.</strong>2022.09.01</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1156094.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[구글 검색 순위 알고리즘의 중요한 변화]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1148874-%EA%B5%AC%EA%B8%80_%EA%B2%80%EC%83%89_%EC%88%9C%EC%9C%84_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98_%EC%A4%91%EC%9A%94%ED%95%9C_%EB%B3%80%ED%99%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1148874-%EA%B5%AC%EA%B8%80_%EA%B2%80%EC%83%89_%EC%88%9C%EC%9C%84_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98_%EC%A4%91%EC%9A%94%ED%95%9C_%EB%B3%80%ED%99%94/</guid>
+            <pubDate>Mon, 26 Sep 2022 04:55:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1148874-구글_검색_순위_알고리즘의_중요한_변화/">
+						<div class="thumb"><img src="/images/qletter_1148874.png"></div>
+						<p><strong>구글 검색 순위 알고리즘의 중요한 변화</strong>2022.08.29</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1148874.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[크롬으로 일잘러 되는 방법 ✨]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1144022-%ED%81%AC%EB%A1%AC%EC%9C%BC%EB%A1%9C_%EC%9D%BC%EC%9E%98%EB%9F%AC_%EB%90%98%EB%8A%94_%EB%B0%A9%EB%B2%95/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1144022-%ED%81%AC%EB%A1%AC%EC%9C%BC%EB%A1%9C_%EC%9D%BC%EC%9E%98%EB%9F%AC_%EB%90%98%EB%8A%94_%EB%B0%A9%EB%B2%95/</guid>
+            <pubDate>Mon, 26 Sep 2022 04:55:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1144022-크롬으로_일잘러_되는_방법/">
+						<div class="thumb"><img src="/images/qletter_1144022.png"></div>
+						<p><strong> 크롬으로 일잘러 되는 방법 ✨</strong>2022.08.25</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1144022.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[애플이 어플에 광고한다]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1138727-%EC%95%A0%ED%94%8C%EC%9D%B4_%EC%96%B4%ED%94%8C%EC%97%90_%EA%B4%91%EA%B3%A0%ED%95%9C%EB%8B%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1138727-%EC%95%A0%ED%94%8C%EC%9D%B4_%EC%96%B4%ED%94%8C%EC%97%90_%EA%B4%91%EA%B3%A0%ED%95%9C%EB%8B%A4/</guid>
+            <pubDate>Mon, 26 Sep 2022 04:55:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1138727-애플이_어플에_광고한다/">
+						<div class="thumb"><img src="/images/qletter_1138727.png"></div>
+						<p><strong>애플이 어플에 광고한다</strong>2022.08.22</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1138727.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[커지는 펫코노미, 집사를 공략하라!]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1133860-%EC%BB%A4%EC%A7%80%EB%8A%94_%ED%8E%AB%EC%BD%94%EB%85%B8%EB%AF%B8_%EC%A7%91%EC%82%AC%EB%A5%BC_%EA%B3%B5%EB%9E%B5%ED%95%98%EB%9D%BC/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1133860-%EC%BB%A4%EC%A7%80%EB%8A%94_%ED%8E%AB%EC%BD%94%EB%85%B8%EB%AF%B8_%EC%A7%91%EC%82%AC%EB%A5%BC_%EA%B3%B5%EB%9E%B5%ED%95%98%EB%9D%BC/</guid>
+            <pubDate>Mon, 26 Sep 2022 04:55:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1133860-커지는_펫코노미_집사를_공략하라/">
+						<div class="thumb"><img src="/images/qletter_1133860.png"></div>
+						<p><strong> 커지는 펫코노미, 집사를 공략하라!</strong>2022.08.18</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1133860.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[광고주와 대화만 하면 머리가 하얘져요]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1125022-%EA%B4%91%EA%B3%A0%EC%A3%BC%EC%99%80_%EB%8C%80%ED%99%94%EB%A7%8C_%ED%95%98%EB%A9%B4_%EB%A8%B8%EB%A6%AC%EA%B0%80_%ED%95%98%EC%96%98%EC%A0%B8%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1125022-%EA%B4%91%EA%B3%A0%EC%A3%BC%EC%99%80_%EB%8C%80%ED%99%94%EB%A7%8C_%ED%95%98%EB%A9%B4_%EB%A8%B8%EB%A6%AC%EA%B0%80_%ED%95%98%EC%96%98%EC%A0%B8%EC%9A%94/</guid>
+            <pubDate>Mon, 26 Sep 2022 04:55:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1125022-광고주와_대화만_하면_머리가_하얘져요/">
+						<div class="thumb"><img src="/images/qletter_1125022.png"></div>
+						<p><strong>광고주와 대화만 하면 머리가 하얘져요</strong>2022.08.11</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1125022.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한물간 줄 알았던 네이버 블로그의 부활]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1118379-%ED%95%9C%EB%AC%BC%EA%B0%84_%EC%A4%84_%EC%95%8C%EC%95%98%EB%8D%98_%EB%84%A4%EC%9D%B4%EB%B2%84_%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9D%98_%EB%B6%80%ED%99%9C/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1118379-%ED%95%9C%EB%AC%BC%EA%B0%84_%EC%A4%84_%EC%95%8C%EC%95%98%EB%8D%98_%EB%84%A4%EC%9D%B4%EB%B2%84_%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9D%98_%EB%B6%80%ED%99%9C/</guid>
+            <pubDate>Mon, 26 Sep 2022 04:55:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/view/1118379-한물간_줄_알았던_네이버_블로그의_부활/">
+						<div class="thumb"><img src="/images/qletter_1118379.png"></div>
+						<p><strong>한물간 줄 알았던 네이버 블로그의 부활</strong>2022.08.08</p>
+					</a>]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1118379.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
