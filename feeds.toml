@@ -9,12 +9,4 @@ titleSelector = "p strong"
 linkSelector = "a"
 imageSelector = "div.thumb img"
 waitForSelector = "div.list"
-
-[i-boss_popular]
-title = "아이보스 ─ 인기글"
-url = "https://www.i-boss.co.kr/ab-1886"
-entrySelector = "table.table-mbb tbody tr.is_notice_"
-titleSelector = "span.mb_subject a span.AB-LF-common"
-linkSelector = "span.mb_subject a"
-contentSelector = "span.mb_writer"
-waitUntil = "networkidle"
+onFail = "stale"
