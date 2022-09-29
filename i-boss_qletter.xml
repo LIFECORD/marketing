@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Sep 2022 07:39:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Sep 2022 08:29:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계적인 기업들이 주목하는 이것 😮]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1203801-%EC%84%B8%EA%B3%84%EC%A0%81%EC%9D%B8_%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%B4_%EC%A3%BC%EB%AA%A9%ED%95%98%EB%8A%94_%EC%9D%B4%EA%B2%83/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1203801-%EC%84%B8%EA%B3%84%EC%A0%81%EC%9D%B8_%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%B4_%EC%A3%BC%EB%AA%A9%ED%95%98%EB%8A%94_%EC%9D%B4%EA%B2%83/</guid>
+            <pubDate>Thu, 29 Sep 2022 08:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[세계적인 기업들이 주목하는 이것 😮]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1203801.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[맞춤형 광고 시장, 타격 받을까 🤔]]></title>
             <link>https://qletter.i-boss.co.kr/view/1197662-%EB%A7%9E%EC%B6%A4%ED%98%95_%EA%B4%91%EA%B3%A0_%EC%8B%9C%EC%9E%A5_%ED%83%80%EA%B2%A9_%EB%B0%9B%EC%9D%84%EA%B9%8C/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 27 Sep 2022 02:16:29 GMT</pubDate>
             <content:encoded><![CDATA[광고주와 대화만 하면 머리가 하얘져요]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1125022.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한물간 줄 알았던 네이버 블로그의 부활]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1118379-%ED%95%9C%EB%AC%BC%EA%B0%84_%EC%A4%84_%EC%95%8C%EC%95%98%EB%8D%98_%EB%84%A4%EC%9D%B4%EB%B2%84_%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9D%98_%EB%B6%80%ED%99%9C/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1118379-%ED%95%9C%EB%AC%BC%EA%B0%84_%EC%A4%84_%EC%95%8C%EC%95%98%EB%8D%98_%EB%84%A4%EC%9D%B4%EB%B2%84_%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9D%98_%EB%B6%80%ED%99%9C/</guid>
-            <pubDate>Tue, 27 Sep 2022 02:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[한물간 줄 알았던 네이버 블로그의 부활]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1118379.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
