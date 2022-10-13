@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Oct 2022 09:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Oct 2022 10:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폭풍 성장하는 중고 시장, 뛰어드는 기업들 🏃‍]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1223857-%ED%8F%AD%ED%92%8D_%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94_%EC%A4%91%EA%B3%A0_%EC%8B%9C%EC%9E%A5_%EB%9B%B0%EC%96%B4%EB%93%9C%EB%8A%94_%EA%B8%B0%EC%97%85%EB%93%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1223857-%ED%8F%AD%ED%92%8D_%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94_%EC%A4%91%EA%B3%A0_%EC%8B%9C%EC%9E%A5_%EB%9B%B0%EC%96%B4%EB%93%9C%EB%8A%94_%EA%B8%B0%EC%97%85%EB%93%A4/</guid>
+            <pubDate>Thu, 13 Oct 2022 10:24:29 GMT</pubDate>
+            <content:encoded><![CDATA[폭풍 성장하는 중고 시장, 뛰어드는 기업들 🏃‍]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1223857.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버 카카오는 왜 커뮤니티를 다음 전략으로 삼았을까?]]></title>
             <link>https://qletter.i-boss.co.kr/view/1214076-%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%8A%94_%EC%99%9C_%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EB%A5%BC_%EB%8B%A4%EC%9D%8C_%EC%A0%84%EB%9E%B5%EC%9C%BC%EB%A1%9C_%EC%82%BC%EC%95%98%EC%9D%84%EA%B9%8C/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 27 Sep 2022 02:16:29 GMT</pubDate>
             <content:encoded><![CDATA[애플이 어플에 광고한다]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1138727.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[커지는 펫코노미, 집사를 공략하라!]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1133860-%EC%BB%A4%EC%A7%80%EB%8A%94_%ED%8E%AB%EC%BD%94%EB%85%B8%EB%AF%B8_%EC%A7%91%EC%82%AC%EB%A5%BC_%EA%B3%B5%EB%9E%B5%ED%95%98%EB%9D%BC/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1133860-%EC%BB%A4%EC%A7%80%EB%8A%94_%ED%8E%AB%EC%BD%94%EB%85%B8%EB%AF%B8_%EC%A7%91%EC%82%AC%EB%A5%BC_%EA%B3%B5%EB%9E%B5%ED%95%98%EB%9D%BC/</guid>
-            <pubDate>Tue, 27 Sep 2022 02:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[커지는 펫코노미, 집사를 공략하라!]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1133860.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
