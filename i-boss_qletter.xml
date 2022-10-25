@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Oct 2022 04:58:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Oct 2022 06:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오와 이별까지 생각했어 🥺]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1240342-%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%99%80_%EC%9D%B4%EB%B3%84%EA%B9%8C%EC%A7%80_%EC%83%9D%EA%B0%81%ED%96%88%EC%96%B4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1240342-%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%99%80_%EC%9D%B4%EB%B3%84%EA%B9%8C%EC%A7%80_%EC%83%9D%EA%B0%81%ED%96%88%EC%96%B4/</guid>
+            <pubDate>Tue, 25 Oct 2022 06:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[카카오와 이별까지 생각했어 🥺]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1240342.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2023년을 대표할 트렌드 키워드는?]]></title>
             <link>https://qletter.i-boss.co.kr/view/1234892-2023%EB%85%84%EC%9D%84_%EB%8C%80%ED%91%9C%ED%95%A0_%ED%8A%B8%EB%A0%8C%EB%93%9C_%ED%82%A4%EC%9B%8C%EB%93%9C%EB%8A%94/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 22 Oct 2022 14:21:43 GMT</pubDate>
             <content:encoded><![CDATA[숫자로 일하는 법! 스킬을 획득했습니다.]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1156094.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 검색 순위 알고리즘의 중요한 변화]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1148874-%EA%B5%AC%EA%B8%80_%EA%B2%80%EC%83%89_%EC%88%9C%EC%9C%84_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98_%EC%A4%91%EC%9A%94%ED%95%9C_%EB%B3%80%ED%99%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1148874-%EA%B5%AC%EA%B8%80_%EA%B2%80%EC%83%89_%EC%88%9C%EC%9C%84_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98_%EC%A4%91%EC%9A%94%ED%95%9C_%EB%B3%80%ED%99%94/</guid>
-            <pubDate>Sat, 22 Oct 2022 14:21:43 GMT</pubDate>
-            <content:encoded><![CDATA[구글 검색 순위 알고리즘의 중요한 변화]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1148874.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
