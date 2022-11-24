@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 23:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 01:26:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NO. 1 커뮤니티에는 이것이 있다?! 👆]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1287642-NO_1_%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EC%97%90%EB%8A%94_%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%9E%88%EB%8B%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1287642-NO_1_%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EC%97%90%EB%8A%94_%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%9E%88%EB%8B%A4/</guid>
+            <pubDate>Thu, 24 Nov 2022 01:26:42 GMT</pubDate>
+            <content:encoded><![CDATA[NO. 1 커뮤니티에는 이것이 있다?! 👆]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1287642.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버의 도착보장, 쿠팡과 차별점은? 📦]]></title>
             <link>https://qletter.i-boss.co.kr/view/1281539-%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9D%98_%EB%8F%84%EC%B0%A9%EB%B3%B4%EC%9E%A5_%EC%BF%A0%ED%8C%A1%EA%B3%BC_%EC%B0%A8%EB%B3%84%EC%A0%90%EC%9D%80/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 22 Oct 2022 14:21:42 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스와 SKB, 망 사용료 논쟁 🔫]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1229337.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[폭풍 성장하는 중고 시장, 뛰어드는 기업들 🏃‍]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1223857-%ED%8F%AD%ED%92%8D_%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94_%EC%A4%91%EA%B3%A0_%EC%8B%9C%EC%9E%A5_%EB%9B%B0%EC%96%B4%EB%93%9C%EB%8A%94_%EA%B8%B0%EC%97%85%EB%93%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1223857-%ED%8F%AD%ED%92%8D_%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94_%EC%A4%91%EA%B3%A0_%EC%8B%9C%EC%9E%A5_%EB%9B%B0%EC%96%B4%EB%93%9C%EB%8A%94_%EA%B8%B0%EC%97%85%EB%93%A4/</guid>
-            <pubDate>Sat, 22 Oct 2022 14:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[폭풍 성장하는 중고 시장, 뛰어드는 기업들 🏃‍]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1223857.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
