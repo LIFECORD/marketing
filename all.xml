@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 06:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 07:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 카피라이팅, 제가 써봤습니다! (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1298771-AI_%EC%B9%B4%ED%94%BC%EB%9D%BC%EC%9D%B4%ED%8C%85_%EC%A0%9C%EA%B0%80_%EC%8D%A8%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1298771-AI_%EC%B9%B4%ED%94%BC%EB%9D%BC%EC%9D%B4%ED%8C%85_%EC%A0%9C%EA%B0%80_%EC%8D%A8%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4/</guid>
+            <pubDate>Thu, 01 Dec 2022 07:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[AI 카피라이팅, 제가 써봤습니다!]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1298771.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[월드컵에 기업들이 시큰둥한 이유는? ⚽ (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1291571-%EC%9B%94%EB%93%9C%EC%BB%B5%EC%97%90_%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%B4_%EC%8B%9C%ED%81%B0%EB%91%A5%ED%95%9C_%EC%9D%B4%EC%9C%A0%EB%8A%94/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 25 Oct 2022 06:16:24 GMT</pubDate>
             <content:encoded><![CDATA[카카오와 이별까지 생각했어 🥺]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1240342.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2023년을 대표할 트렌드 키워드는? (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1234892-2023%EB%85%84%EC%9D%84_%EB%8C%80%ED%91%9C%ED%95%A0_%ED%8A%B8%EB%A0%8C%EB%93%9C_%ED%82%A4%EC%9B%8C%EB%93%9C%EB%8A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1234892-2023%EB%85%84%EC%9D%84_%EB%8C%80%ED%91%9C%ED%95%A0_%ED%8A%B8%EB%A0%8C%EB%93%9C_%ED%82%A4%EC%9B%8C%EB%93%9C%EB%8A%94/</guid>
-            <pubDate>Sat, 22 Oct 2022 14:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[2023년을 대표할 트렌드 키워드는?]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1234892.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
