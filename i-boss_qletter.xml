@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 04:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 05:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI가 만든 콘텐츠는 마케팅에 도움이 될까 🤔]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1302259-AI%EA%B0%80_%EB%A7%8C%EB%93%A0_%EC%BD%98%ED%85%90%EC%B8%A0%EB%8A%94_%EB%A7%88%EC%BC%80%ED%8C%85%EC%97%90_%EB%8F%84%EC%9B%80%EC%9D%B4_%EB%90%A0%EA%B9%8C/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1302259-AI%EA%B0%80_%EB%A7%8C%EB%93%A0_%EC%BD%98%ED%85%90%EC%B8%A0%EB%8A%94_%EB%A7%88%EC%BC%80%ED%8C%85%EC%97%90_%EB%8F%84%EC%9B%80%EC%9D%B4_%EB%90%A0%EA%B9%8C/</guid>
+            <pubDate>Mon, 05 Dec 2022 05:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[AI가 만든 콘텐츠는 마케팅에 도움이 될까 🤔]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1302259.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI 카피라이팅, 제가 써봤습니다!]]></title>
             <link>https://qletter.i-boss.co.kr/view/1298771-AI_%EC%B9%B4%ED%94%BC%EB%9D%BC%EC%9D%B4%ED%8C%85_%EC%A0%9C%EA%B0%80_%EC%8D%A8%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 02 Nov 2022 04:02:07 GMT</pubDate>
             <content:encoded><![CDATA[고가의 상품은 마케팅 전략을 어떻게 세워야 할까요?]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1245571.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오와 이별까지 생각했어 🥺]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1240342-%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%99%80_%EC%9D%B4%EB%B3%84%EA%B9%8C%EC%A7%80_%EC%83%9D%EA%B0%81%ED%96%88%EC%96%B4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1240342-%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%99%80_%EC%9D%B4%EB%B3%84%EA%B9%8C%EC%A7%80_%EC%83%9D%EA%B0%81%ED%96%88%EC%96%B4/</guid>
-            <pubDate>Tue, 25 Oct 2022 06:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[카카오와 이별까지 생각했어 🥺]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1240342.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
