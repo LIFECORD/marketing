@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 08:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 09:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사례로 알아보는 슈퍼앱 전략 🚩]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1309202-%EC%82%AC%EB%A1%80%EB%A1%9C_%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94_%EC%8A%88%ED%8D%BC%EC%95%B1_%EC%A0%84%EB%9E%B5/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1309202-%EC%82%AC%EB%A1%80%EB%A1%9C_%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94_%EC%8A%88%ED%8D%BC%EC%95%B1_%EC%A0%84%EB%9E%B5/</guid>
+            <pubDate>Thu, 08 Dec 2022 09:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[사례로 알아보는 슈퍼앱 전략 🚩]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1309202.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI가 만든 콘텐츠는 마케팅에 도움이 될까 🤔]]></title>
             <link>https://qletter.i-boss.co.kr/view/1302259-AI%EA%B0%80_%EB%A7%8C%EB%93%A0_%EC%BD%98%ED%85%90%EC%B8%A0%EB%8A%94_%EB%A7%88%EC%BC%80%ED%8C%85%EC%97%90_%EB%8F%84%EC%9B%80%EC%9D%B4_%EB%90%A0%EA%B9%8C/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 02 Nov 2022 04:02:07 GMT</pubDate>
             <content:encoded><![CDATA[광고 시장에 먼저 찾아온 겨울 🤧]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1249373.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[고가의 상품은 마케팅 전략을 어떻게 세워야 할까요?]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1245571-%EA%B3%A0%EA%B0%80%EC%9D%98_%EC%83%81%ED%92%88%EC%9D%80_%EB%A7%88%EC%BC%80%ED%8C%85_%EC%A0%84%EB%9E%B5%EC%9D%84_%EC%96%B4%EB%96%BB%EA%B2%8C_%EC%84%B8%EC%9B%8C%EC%95%BC_%ED%95%A0%EA%B9%8C%EC%9A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1245571-%EA%B3%A0%EA%B0%80%EC%9D%98_%EC%83%81%ED%92%88%EC%9D%80_%EB%A7%88%EC%BC%80%ED%8C%85_%EC%A0%84%EB%9E%B5%EC%9D%84_%EC%96%B4%EB%96%BB%EA%B2%8C_%EC%84%B8%EC%9B%8C%EC%95%BC_%ED%95%A0%EA%B9%8C%EC%9A%94/</guid>
-            <pubDate>Wed, 02 Nov 2022 04:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[고가의 상품은 마케팅 전략을 어떻게 세워야 할까요?]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1245571.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
