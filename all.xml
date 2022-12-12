@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 08:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 09:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타, 맞춤형 광고 못하게 될까 😲 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1312760-%EB%A9%94%ED%83%80_%EB%A7%9E%EC%B6%A4%ED%98%95_%EA%B4%91%EA%B3%A0_%EB%AA%BB%ED%95%98%EA%B2%8C_%EB%90%A0%EA%B9%8C/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1312760-%EB%A9%94%ED%83%80_%EB%A7%9E%EC%B6%A4%ED%98%95_%EA%B4%91%EA%B3%A0_%EB%AA%BB%ED%95%98%EA%B2%8C_%EB%90%A0%EA%B9%8C/</guid>
+            <pubDate>Mon, 12 Dec 2022 09:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[메타, 맞춤형 광고 못하게 될까 😲]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1312760.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[사례로 알아보는 슈퍼앱 전략 🚩 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1309202-%EC%82%AC%EB%A1%80%EB%A1%9C_%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94_%EC%8A%88%ED%8D%BC%EC%95%B1_%EC%A0%84%EB%9E%B5/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 08 Nov 2022 01:41:46 GMT</pubDate>
             <content:encoded><![CDATA[마케터의 연말은 바쁘다! 😵]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1256356.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[광고 시장에 먼저 찾아온 겨울 🤧 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1249373-%EA%B4%91%EA%B3%A0_%EC%8B%9C%EC%9E%A5%EC%97%90_%EB%A8%BC%EC%A0%80_%EC%B0%BE%EC%95%84%EC%98%A8_%EA%B2%A8%EC%9A%B8/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1249373-%EA%B4%91%EA%B3%A0_%EC%8B%9C%EC%9E%A5%EC%97%90_%EB%A8%BC%EC%A0%80_%EC%B0%BE%EC%95%84%EC%98%A8_%EA%B2%A8%EC%9A%B8/</guid>
-            <pubDate>Wed, 02 Nov 2022 04:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[광고 시장에 먼저 찾아온 겨울 🤧]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1249373.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
