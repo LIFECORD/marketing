@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 03:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 04:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[17년 차… 저의 면접관이 돼주실래요? 😢]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1319156-17%EB%85%84_%EC%B0%A8_%EC%A0%80%EC%9D%98_%EB%A9%B4%EC%A0%91%EA%B4%80%EC%9D%B4_%EB%8F%BC%EC%A3%BC%EC%8B%A4%EB%9E%98%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1319156-17%EB%85%84_%EC%B0%A8_%EC%A0%80%EC%9D%98_%EB%A9%B4%EC%A0%91%EA%B4%80%EC%9D%B4_%EB%8F%BC%EC%A3%BC%EC%8B%A4%EB%9E%98%EC%9A%94/</guid>
+            <pubDate>Thu, 15 Dec 2022 04:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[17년 차… 저의 면접관이 돼주실래요? 😢]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1319156.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메타, 맞춤형 광고 못하게 될까 😲]]></title>
             <link>https://qletter.i-boss.co.kr/view/1312760-%EB%A9%94%ED%83%80_%EB%A7%9E%EC%B6%A4%ED%98%95_%EA%B4%91%EA%B3%A0_%EB%AA%BB%ED%95%98%EA%B2%8C_%EB%90%A0%EA%B9%8C/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 08 Nov 2022 01:41:46 GMT</pubDate>
             <content:encoded><![CDATA[트위터 인수 후 논란이 되고 있는 4가지]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1260817.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마케터의 연말은 바쁘다! 😵]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1256356-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98_%EC%97%B0%EB%A7%90%EC%9D%80_%EB%B0%94%EC%81%98%EB%8B%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1256356-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98_%EC%97%B0%EB%A7%90%EC%9D%80_%EB%B0%94%EC%81%98%EB%8B%A4/</guid>
-            <pubDate>Tue, 08 Nov 2022 01:41:46 GMT</pubDate>
-            <content:encoded><![CDATA[마케터의 연말은 바쁘다! 😵]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1256356.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
