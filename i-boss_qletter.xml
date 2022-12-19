@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 02:35:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 03:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 쇼핑 알고리즘 판결, 어떤 영향 있을까 ⚖️]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1322547-%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%87%BC%ED%95%91_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%ED%8C%90%EA%B2%B0_%EC%96%B4%EB%96%A4_%EC%98%81%ED%96%A5_%EC%9E%88%EC%9D%84%EA%B9%8C/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1322547-%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%87%BC%ED%95%91_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%ED%8C%90%EA%B2%B0_%EC%96%B4%EB%96%A4_%EC%98%81%ED%96%A5_%EC%9E%88%EC%9D%84%EA%B9%8C/</guid>
+            <pubDate>Mon, 19 Dec 2022 03:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[네이버 쇼핑 알고리즘 판결, 어떤 영향 있을까 ⚖️]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1322547.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[17년 차… 저의 면접관이 돼주실래요? 😢]]></title>
             <link>https://qletter.i-boss.co.kr/view/1319156-17%EB%85%84_%EC%B0%A8_%EC%A0%80%EC%9D%98_%EB%A9%B4%EC%A0%91%EA%B4%80%EC%9D%B4_%EB%8F%BC%EC%A3%BC%EC%8B%A4%EB%9E%98%EC%9A%94/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 10 Nov 2022 07:17:59 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스 광고, CPM 단가는? 💰]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1266680.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터 인수 후 논란이 되고 있는 4가지]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1260817-%ED%8A%B8%EC%9C%84%ED%84%B0_%EC%9D%B8%EC%88%98_%ED%9B%84_%EB%85%BC%EB%9E%80%EC%9D%B4_%EB%90%98%EA%B3%A0_%EC%9E%88%EB%8A%94_4%EA%B0%80%EC%A7%80/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1260817-%ED%8A%B8%EC%9C%84%ED%84%B0_%EC%9D%B8%EC%88%98_%ED%9B%84_%EB%85%BC%EB%9E%80%EC%9D%B4_%EB%90%98%EA%B3%A0_%EC%9E%88%EB%8A%94_4%EA%B0%80%EC%A7%80/</guid>
-            <pubDate>Tue, 08 Nov 2022 01:41:46 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 인수 후 논란이 되고 있는 4가지]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1260817.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
