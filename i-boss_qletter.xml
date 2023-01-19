@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 04:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 05:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 조합 신선하네~ 컬래버레이션 사례.🏠]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1370240-%EC%9D%B4_%EC%A1%B0%ED%95%A9_%EC%8B%A0%EC%84%A0%ED%95%98%EB%84%A4_%EC%BB%AC%EB%9E%98%EB%B2%84%EB%A0%88%EC%9D%B4%EC%85%98_%EC%82%AC%EB%A1%80/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1370240-%EC%9D%B4_%EC%A1%B0%ED%95%A9_%EC%8B%A0%EC%84%A0%ED%95%98%EB%84%A4_%EC%BB%AC%EB%9E%98%EB%B2%84%EB%A0%88%EC%9D%B4%EC%85%98_%EC%82%AC%EB%A1%80/</guid>
+            <pubDate>Thu, 19 Jan 2023 05:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[이 조합 신선하네~ 컬래버레이션 사례.🏠]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1370240.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오가 티스토리 광고 정책을 바꾼 이유는? 🤔]]></title>
             <link>https://qletter.i-boss.co.kr/view/1363134-%EC%B9%B4%EC%B9%B4%EC%98%A4%EA%B0%80_%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC_%EA%B4%91%EA%B3%A0_%EC%A0%95%EC%B1%85%EC%9D%84_%EB%B0%94%EA%BE%BC_%EC%9D%B4%EC%9C%A0%EB%8A%94/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 01 Dec 2022 07:16:13 GMT</pubDate>
             <content:encoded><![CDATA[AI 카피라이팅, 제가 써봤습니다!]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1298771.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[월드컵에 기업들이 시큰둥한 이유는? ⚽]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1291571-%EC%9B%94%EB%93%9C%EC%BB%B5%EC%97%90_%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%B4_%EC%8B%9C%ED%81%B0%EB%91%A5%ED%95%9C_%EC%9D%B4%EC%9C%A0%EB%8A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1291571-%EC%9B%94%EB%93%9C%EC%BB%B5%EC%97%90_%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%B4_%EC%8B%9C%ED%81%B0%EB%91%A5%ED%95%9C_%EC%9D%B4%EC%9C%A0%EB%8A%94/</guid>
-            <pubDate>Mon, 28 Nov 2022 03:30:15 GMT</pubDate>
-            <content:encoded><![CDATA[월드컵에 기업들이 시큰둥한 이유는? ⚽]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1291571.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
