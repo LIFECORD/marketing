@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 15:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 16:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마케팅, 관련 대학을 나와야 할까요? 🎓]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1376950-%EB%A7%88%EC%BC%80%ED%8C%85_%EA%B4%80%EB%A0%A8_%EB%8C%80%ED%95%99%EC%9D%84_%EB%82%98%EC%99%80%EC%95%BC_%ED%95%A0%EA%B9%8C%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1376950-%EB%A7%88%EC%BC%80%ED%8C%85_%EA%B4%80%EB%A0%A8_%EB%8C%80%ED%95%99%EC%9D%84_%EB%82%98%EC%99%80%EC%95%BC_%ED%95%A0%EA%B9%8C%EC%9A%94/</guid>
+            <pubDate>Thu, 26 Jan 2023 16:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[마케팅, 관련 대학을 나와야 할까요? 🎓]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1376950.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이 조합 신선하네~ 컬래버레이션 사례.🏠]]></title>
             <link>https://qletter.i-boss.co.kr/view/1370240-%EC%9D%B4_%EC%A1%B0%ED%95%A9_%EC%8B%A0%EC%84%A0%ED%95%98%EB%84%A4_%EC%BB%AC%EB%9E%98%EB%B2%84%EB%A0%88%EC%9D%B4%EC%85%98_%EC%82%AC%EB%A1%80/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 05 Dec 2022 05:15:47 GMT</pubDate>
             <content:encoded><![CDATA[AI가 만든 콘텐츠는 마케팅에 도움이 될까 🤔]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1302259.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 카피라이팅, 제가 써봤습니다!]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1298771-AI_%EC%B9%B4%ED%94%BC%EB%9D%BC%EC%9D%B4%ED%8C%85_%EC%A0%9C%EA%B0%80_%EC%8D%A8%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1298771-AI_%EC%B9%B4%ED%94%BC%EB%9D%BC%EC%9D%B4%ED%8C%85_%EC%A0%9C%EA%B0%80_%EC%8D%A8%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4/</guid>
-            <pubDate>Thu, 01 Dec 2022 07:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[AI 카피라이팅, 제가 써봤습니다!]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1298771.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
