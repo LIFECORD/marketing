@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 11:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 12:31:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글을 위협하는 새로운 검색이 온다 🌊 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1380892-%EA%B5%AC%EA%B8%80%EC%9D%84_%EC%9C%84%ED%98%91%ED%95%98%EB%8A%94_%EC%83%88%EB%A1%9C%EC%9A%B4_%EA%B2%80%EC%83%89%EC%9D%B4_%EC%98%A8%EB%8B%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1380892-%EA%B5%AC%EA%B8%80%EC%9D%84_%EC%9C%84%ED%98%91%ED%95%98%EB%8A%94_%EC%83%88%EB%A1%9C%EC%9A%B4_%EA%B2%80%EC%83%89%EC%9D%B4_%EC%98%A8%EB%8B%A4/</guid>
+            <pubDate>Mon, 30 Jan 2023 12:31:06 GMT</pubDate>
+            <content:encoded><![CDATA[구글을 위협하는 새로운 검색이 온다 🌊]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1380892.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마케팅, 관련 대학을 나와야 할까요? 🎓 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1376950-%EB%A7%88%EC%BC%80%ED%8C%85_%EA%B4%80%EB%A0%A8_%EB%8C%80%ED%95%99%EC%9D%84_%EB%82%98%EC%99%80%EC%95%BC_%ED%95%A0%EA%B9%8C%EC%9A%94/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 08 Dec 2022 09:15:50 GMT</pubDate>
             <content:encoded><![CDATA[사례로 알아보는 슈퍼앱 전략 🚩]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1309202.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI가 만든 콘텐츠는 마케팅에 도움이 될까 🤔 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1302259-AI%EA%B0%80_%EB%A7%8C%EB%93%A0_%EC%BD%98%ED%85%90%EC%B8%A0%EB%8A%94_%EB%A7%88%EC%BC%80%ED%8C%85%EC%97%90_%EB%8F%84%EC%9B%80%EC%9D%B4_%EB%90%A0%EA%B9%8C/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1302259-AI%EA%B0%80_%EB%A7%8C%EB%93%A0_%EC%BD%98%ED%85%90%EC%B8%A0%EB%8A%94_%EB%A7%88%EC%BC%80%ED%8C%85%EC%97%90_%EB%8F%84%EC%9B%80%EC%9D%B4_%EB%90%A0%EA%B9%8C/</guid>
-            <pubDate>Mon, 05 Dec 2022 05:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[AI가 만든 콘텐츠는 마케팅에 도움이 될까 🤔]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1302259.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
