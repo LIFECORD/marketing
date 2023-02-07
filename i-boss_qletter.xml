@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 05:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 06:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마케터가 생각하는 성장과 야근의 관계]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1392467-%EB%A7%88%EC%BC%80%ED%84%B0%EA%B0%80_%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94_%EC%84%B1%EC%9E%A5%EA%B3%BC_%EC%95%BC%EA%B7%BC%EC%9D%98_%EA%B4%80%EA%B3%84/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1392467-%EB%A7%88%EC%BC%80%ED%84%B0%EA%B0%80_%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94_%EC%84%B1%EC%9E%A5%EA%B3%BC_%EC%95%BC%EA%B7%BC%EC%9D%98_%EA%B4%80%EA%B3%84/</guid>
+            <pubDate>Tue, 07 Feb 2023 06:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[마케터가 생각하는 성장과 야근의 관계]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1392467.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[요즘 소비자, 체리슈머 공략하는 법 🏹]]></title>
             <link>https://qletter.i-boss.co.kr/view/1388366-%EC%9A%94%EC%A6%98_%EC%86%8C%EB%B9%84%EC%9E%90_%EC%B2%B4%EB%A6%AC%EC%8A%88%EB%A8%B8_%EA%B3%B5%EB%9E%B5%ED%95%98%EB%8A%94_%EB%B2%95/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 15 Dec 2022 04:20:28 GMT</pubDate>
             <content:encoded><![CDATA[17년 차… 저의 면접관이 돼주실래요? 😢]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1319156.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 맞춤형 광고 못하게 될까 😲]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1312760-%EB%A9%94%ED%83%80_%EB%A7%9E%EC%B6%A4%ED%98%95_%EA%B4%91%EA%B3%A0_%EB%AA%BB%ED%95%98%EA%B2%8C_%EB%90%A0%EA%B9%8C/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1312760-%EB%A9%94%ED%83%80_%EB%A7%9E%EC%B6%A4%ED%98%95_%EA%B4%91%EA%B3%A0_%EB%AA%BB%ED%95%98%EA%B2%8C_%EB%90%A0%EA%B9%8C/</guid>
-            <pubDate>Mon, 12 Dec 2022 09:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[메타, 맞춤형 광고 못하게 될까 😲]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1312760.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
