@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 01:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 02:48:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단순 업무가 커리어에 도움이 될까요? 😩 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1399752-%EB%8B%A8%EC%88%9C_%EC%97%85%EB%AC%B4%EA%B0%80_%EC%BB%A4%EB%A6%AC%EC%96%B4%EC%97%90_%EB%8F%84%EC%9B%80%EC%9D%B4_%EB%90%A0%EA%B9%8C%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1399752-%EB%8B%A8%EC%88%9C_%EC%97%85%EB%AC%B4%EA%B0%80_%EC%BB%A4%EB%A6%AC%EC%96%B4%EC%97%90_%EB%8F%84%EC%9B%80%EC%9D%B4_%EB%90%A0%EA%B9%8C%EC%9A%94/</guid>
+            <pubDate>Thu, 09 Feb 2023 02:48:33 GMT</pubDate>
+            <content:encoded><![CDATA[단순 업무가 커리어에 도움이 될까요? 😩]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1399752.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마케터가 생각하는 성장과 야근의 관계 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1392467-%EB%A7%88%EC%BC%80%ED%84%B0%EA%B0%80_%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94_%EC%84%B1%EC%9E%A5%EA%B3%BC_%EC%95%BC%EA%B7%BC%EC%9D%98_%EA%B4%80%EA%B3%84/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 19 Dec 2022 03:17:06 GMT</pubDate>
             <content:encoded><![CDATA[네이버 쇼핑 알고리즘 판결, 어떤 영향 있을까 ⚖️]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1322547.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[17년 차… 저의 면접관이 돼주실래요? 😢 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1319156-17%EB%85%84_%EC%B0%A8_%EC%A0%80%EC%9D%98_%EB%A9%B4%EC%A0%91%EA%B4%80%EC%9D%B4_%EB%8F%BC%EC%A3%BC%EC%8B%A4%EB%9E%98%EC%9A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1319156-17%EB%85%84_%EC%B0%A8_%EC%A0%80%EC%9D%98_%EB%A9%B4%EC%A0%91%EA%B4%80%EC%9D%B4_%EB%8F%BC%EC%A3%BC%EC%8B%A4%EB%9E%98%EC%9A%94/</guid>
-            <pubDate>Thu, 15 Dec 2022 04:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[17년 차… 저의 면접관이 돼주실래요? 😢]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1319156.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
