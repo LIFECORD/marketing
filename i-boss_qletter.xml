@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 23:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 01:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페북 MAU가 심상치 않다 😧]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1449176-%ED%8E%98%EB%B6%81_MAU%EA%B0%80_%EC%8B%AC%EC%83%81%EC%B9%98_%EC%95%8A%EB%8B%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1449176-%ED%8E%98%EB%B6%81_MAU%EA%B0%80_%EC%8B%AC%EC%83%81%EC%B9%98_%EC%95%8A%EB%8B%A4/</guid>
+            <pubDate>Mon, 13 Mar 2023 01:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[페북 MAU가 심상치 않다 😧]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1449176.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[퍼포먼스 마케팅 효율 어떠세요? (ft.설문 총정리)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1444993-%ED%8D%BC%ED%8F%AC%EB%A8%BC%EC%8A%A4_%EB%A7%88%EC%BC%80%ED%8C%85_%ED%9A%A8%EC%9C%A8_%EC%96%B4%EB%96%A0%EC%84%B8%EC%9A%94_ft%EC%84%A4%EB%AC%B8_%EC%B4%9D%EC%A0%95%EB%A6%AC/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 02 Feb 2023 07:14:44 GMT</pubDate>
             <content:encoded><![CDATA[요즘 소비자, 체리슈머 공략하는 법 🏹]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1388366.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글을 위협하는 새로운 검색이 온다 🌊]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1380892-%EA%B5%AC%EA%B8%80%EC%9D%84_%EC%9C%84%ED%98%91%ED%95%98%EB%8A%94_%EC%83%88%EB%A1%9C%EC%9A%B4_%EA%B2%80%EC%83%89%EC%9D%B4_%EC%98%A8%EB%8B%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1380892-%EA%B5%AC%EA%B8%80%EC%9D%84_%EC%9C%84%ED%98%91%ED%95%98%EB%8A%94_%EC%83%88%EB%A1%9C%EC%9A%B4_%EA%B2%80%EC%83%89%EC%9D%B4_%EC%98%A8%EB%8B%A4/</guid>
-            <pubDate>Mon, 30 Jan 2023 12:31:06 GMT</pubDate>
-            <content:encoded><![CDATA[구글을 위협하는 새로운 검색이 온다 🌊]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1380892.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
