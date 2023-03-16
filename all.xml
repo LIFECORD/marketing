@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 23:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 01:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인공지능 vs 큐레터 담당자, 카피 작성 대결의 결말은? (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1456684-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_vs_%ED%81%90%EB%A0%88%ED%84%B0_%EB%8B%B4%EB%8B%B9%EC%9E%90_%EC%B9%B4%ED%94%BC_%EC%9E%91%EC%84%B1_%EB%8C%80%EA%B2%B0%EC%9D%98_%EA%B2%B0%EB%A7%90%EC%9D%80/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1456684-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_vs_%ED%81%90%EB%A0%88%ED%84%B0_%EB%8B%B4%EB%8B%B9%EC%9E%90_%EC%B9%B4%ED%94%BC_%EC%9E%91%EC%84%B1_%EB%8C%80%EA%B2%B0%EC%9D%98_%EA%B2%B0%EB%A7%90%EC%9D%80/</guid>
+            <pubDate>Thu, 16 Mar 2023 01:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능 vs 큐레터 담당자, 카피 작성 대결의 결말은?]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1456684.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[페북 MAU가 심상치 않다 😧 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1449176-%ED%8E%98%EB%B6%81_MAU%EA%B0%80_%EC%8B%AC%EC%83%81%EC%B9%98_%EC%95%8A%EB%8B%A4/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 07 Feb 2023 06:19:33 GMT</pubDate>
             <content:encoded><![CDATA[마케터가 생각하는 성장과 야근의 관계]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1392467.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 소비자, 체리슈머 공략하는 법 🏹 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1388366-%EC%9A%94%EC%A6%98_%EC%86%8C%EB%B9%84%EC%9E%90_%EC%B2%B4%EB%A6%AC%EC%8A%88%EB%A8%B8_%EA%B3%B5%EB%9E%B5%ED%95%98%EB%8A%94_%EB%B2%95/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1388366-%EC%9A%94%EC%A6%98_%EC%86%8C%EB%B9%84%EC%9E%90_%EC%B2%B4%EB%A6%AC%EC%8A%88%EB%A8%B8_%EA%B3%B5%EB%9E%B5%ED%95%98%EB%8A%94_%EB%B2%95/</guid>
-            <pubDate>Thu, 02 Feb 2023 07:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 소비자, 체리슈머 공략하는 법 🏹]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1388366.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
