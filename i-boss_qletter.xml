@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 23:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 01:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[병원 진료비도 가격비교 가능해질까 🤔]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1460902-%EB%B3%91%EC%9B%90_%EC%A7%84%EB%A3%8C%EB%B9%84%EB%8F%84_%EA%B0%80%EA%B2%A9%EB%B9%84%EA%B5%90_%EA%B0%80%EB%8A%A5%ED%95%B4%EC%A7%88%EA%B9%8C/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1460902-%EB%B3%91%EC%9B%90_%EC%A7%84%EB%A3%8C%EB%B9%84%EB%8F%84_%EA%B0%80%EA%B2%A9%EB%B9%84%EA%B5%90_%EA%B0%80%EB%8A%A5%ED%95%B4%EC%A7%88%EA%B9%8C/</guid>
+            <pubDate>Mon, 20 Mar 2023 01:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[병원 진료비도 가격비교 가능해질까 🤔]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1460902.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인공지능 vs 큐레터 담당자, 카피 작성 대결의 결말은?]]></title>
             <link>https://qletter.i-boss.co.kr/view/1456684-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_vs_%ED%81%90%EB%A0%88%ED%84%B0_%EB%8B%B4%EB%8B%B9%EC%9E%90_%EC%B9%B4%ED%94%BC_%EC%9E%91%EC%84%B1_%EB%8C%80%EA%B2%B0%EC%9D%98_%EA%B2%B0%EB%A7%90%EC%9D%80/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 09 Feb 2023 02:48:33 GMT</pubDate>
             <content:encoded><![CDATA[단순 업무가 커리어에 도움이 될까요? 😩]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1399752.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마케터가 생각하는 성장과 야근의 관계]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1392467-%EB%A7%88%EC%BC%80%ED%84%B0%EA%B0%80_%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94_%EC%84%B1%EC%9E%A5%EA%B3%BC_%EC%95%BC%EA%B7%BC%EC%9D%98_%EA%B4%80%EA%B3%84/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1392467-%EB%A7%88%EC%BC%80%ED%84%B0%EA%B0%80_%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94_%EC%84%B1%EC%9E%A5%EA%B3%BC_%EC%95%BC%EA%B7%BC%EC%9D%98_%EA%B4%80%EA%B3%84/</guid>
-            <pubDate>Tue, 07 Feb 2023 06:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[마케터가 생각하는 성장과 야근의 관계]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1392467.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
