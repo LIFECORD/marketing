@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 23:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 01:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다른 기업의 커뮤니티 마케팅에서 영감 찾기 🔎 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1504355-%EB%8B%A4%EB%A5%B8_%EA%B8%B0%EC%97%85%EC%9D%98_%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0_%EB%A7%88%EC%BC%80%ED%8C%85%EC%97%90%EC%84%9C_%EC%98%81%EA%B0%90_%EC%B0%BE%EA%B8%B0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1504355-%EB%8B%A4%EB%A5%B8_%EA%B8%B0%EC%97%85%EC%9D%98_%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0_%EB%A7%88%EC%BC%80%ED%8C%85%EC%97%90%EC%84%9C_%EC%98%81%EA%B0%90_%EC%B0%BE%EA%B8%B0/</guid>
+            <pubDate>Thu, 13 Apr 2023 01:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[다른 기업의 커뮤니티 마케팅에서 영감 찾기 🔎]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1504355.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버가 연결해주는 인플루언서 마케팅 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1498076-%EB%84%A4%EC%9D%B4%EB%B2%84%EA%B0%80_%EC%97%B0%EA%B2%B0%ED%95%B4%EC%A3%BC%EB%8A%94_%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C_%EB%A7%88%EC%BC%80%ED%8C%85/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 06 Mar 2023 01:19:58 GMT</pubDate>
             <content:encoded><![CDATA[9년째 다투는 플랫폼과 전문가 단체 💢]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1438749.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[작은 회사로의 이직, 커리어에 괜찮을까요? 🤔 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1431641-%EC%9E%91%EC%9D%80_%ED%9A%8C%EC%82%AC%EB%A1%9C%EC%9D%98_%EC%9D%B4%EC%A7%81_%EC%BB%A4%EB%A6%AC%EC%96%B4%EC%97%90_%EA%B4%9C%EC%B0%AE%EC%9D%84%EA%B9%8C%EC%9A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1431641-%EC%9E%91%EC%9D%80_%ED%9A%8C%EC%82%AC%EB%A1%9C%EC%9D%98_%EC%9D%B4%EC%A7%81_%EC%BB%A4%EB%A6%AC%EC%96%B4%EC%97%90_%EA%B4%9C%EC%B0%AE%EC%9D%84%EA%B9%8C%EC%9A%94/</guid>
-            <pubDate>Thu, 02 Mar 2023 01:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[작은 회사로의 이직, 커리어에 괜찮을까요? 🤔]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1431641.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
