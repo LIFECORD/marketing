@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 23:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 01:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플랫폼들의 1분기 성적표는? 📑 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1542204-%ED%94%8C%EB%9E%AB%ED%8F%BC%EB%93%A4%EC%9D%98_1%EB%B6%84%EA%B8%B0_%EC%84%B1%EC%A0%81%ED%91%9C%EB%8A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1542204-%ED%94%8C%EB%9E%AB%ED%8F%BC%EB%93%A4%EC%9D%98_1%EB%B6%84%EA%B8%B0_%EC%84%B1%EC%A0%81%ED%91%9C%EB%8A%94/</guid>
+            <pubDate>Mon, 08 May 2023 01:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[플랫폼들의 1분기 성적표는? 📑]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1542204.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[15년 차 경력직의 배신 😖 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1538766-15%EB%85%84_%EC%B0%A8_%EA%B2%BD%EB%A0%A5%EC%A7%81%EC%9D%98_%EB%B0%B0%EC%8B%A0/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 27 Mar 2023 01:11:10 GMT</pubDate>
             <content:encoded><![CDATA[SNS가 인증배지를 유료화하는 이유 💸]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1472803.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[봄 마케팅 사례를 찾아봄 🌸 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1468505-%EB%B4%84_%EB%A7%88%EC%BC%80%ED%8C%85_%EC%82%AC%EB%A1%80%EB%A5%BC_%EC%B0%BE%EC%95%84%EB%B4%84/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1468505-%EB%B4%84_%EB%A7%88%EC%BC%80%ED%8C%85_%EC%82%AC%EB%A1%80%EB%A5%BC_%EC%B0%BE%EC%95%84%EB%B4%84/</guid>
-            <pubDate>Thu, 23 Mar 2023 01:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[봄 마케팅 사례를 찾아봄 🌸]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1468505.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
