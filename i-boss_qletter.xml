@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 23:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 01:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잊히는 뉴미디어의 대표주자 💡]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1552968-%EC%9E%8A%ED%9E%88%EB%8A%94_%EB%89%B4%EB%AF%B8%EB%94%94%EC%96%B4%EC%9D%98_%EB%8C%80%ED%91%9C%EC%A3%BC%EC%9E%90/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1552968-%EC%9E%8A%ED%9E%88%EB%8A%94_%EB%89%B4%EB%AF%B8%EB%94%94%EC%96%B4%EC%9D%98_%EB%8C%80%ED%91%9C%EC%A3%BC%EC%9E%90/</guid>
+            <pubDate>Mon, 15 May 2023 01:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[잊히는 뉴미디어의 대표주자 💡]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1552968.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[OOH는 변신 중! 👾]]></title>
             <link>https://qletter.i-boss.co.kr/view/1548982-OOH%EB%8A%94_%EB%B3%80%EC%8B%A0_%EC%A4%91/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 03 Apr 2023 01:09:00 GMT</pubDate>
             <content:encoded><![CDATA[메타버스, 신기술이었나 아니면 신기루였나]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1484799.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[예산이 적어도, 1인 기업도 할 수 있는 '원 위크' 마케팅]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1480327-%EC%98%88%EC%82%B0%EC%9D%B4_%EC%A0%81%EC%96%B4%EB%8F%84_1%EC%9D%B8_%EA%B8%B0%EC%97%85%EB%8F%84_%ED%95%A0_%EC%88%98_%EC%9E%88%EB%8A%94_%EC%9B%90_%EC%9C%84%ED%81%AC_%EB%A7%88%EC%BC%80%ED%8C%85/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1480327-%EC%98%88%EC%82%B0%EC%9D%B4_%EC%A0%81%EC%96%B4%EB%8F%84_1%EC%9D%B8_%EA%B8%B0%EC%97%85%EB%8F%84_%ED%95%A0_%EC%88%98_%EC%9E%88%EB%8A%94_%EC%9B%90_%EC%9C%84%ED%81%AC_%EB%A7%88%EC%BC%80%ED%8C%85/</guid>
-            <pubDate>Thu, 30 Mar 2023 01:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[예산이 적어도, 1인 기업도 할 수 있는 '원 위크' 마케팅]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1480327.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
