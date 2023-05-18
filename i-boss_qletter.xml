@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 23:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 01:10:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마케터의 즐겨찾기 [⭐] - 아이콘 편]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1560378-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98_%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0_%EC%95%84%EC%9D%B4%EC%BD%98_%ED%8E%B8/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1560378-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98_%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0_%EC%95%84%EC%9D%B4%EC%BD%98_%ED%8E%B8/</guid>
+            <pubDate>Thu, 18 May 2023 01:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[마케터의 즐겨찾기 [⭐] - 아이콘 편]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1560378.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[잊히는 뉴미디어의 대표주자 💡]]></title>
             <link>https://qletter.i-boss.co.kr/view/1552968-%EC%9E%8A%ED%9E%88%EB%8A%94_%EB%89%B4%EB%AF%B8%EB%94%94%EC%96%B4%EC%9D%98_%EB%8C%80%ED%91%9C%EC%A3%BC%EC%9E%90/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 06 Apr 2023 01:07:53 GMT</pubDate>
             <content:encoded><![CDATA[대행사의 업무 요청, 고민이에요 😞]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1492904.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타버스, 신기술이었나 아니면 신기루였나]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1484799-%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4_%EC%8B%A0%EA%B8%B0%EC%88%A0%EC%9D%B4%EC%97%88%EB%82%98_%EC%95%84%EB%8B%88%EB%A9%B4_%EC%8B%A0%EA%B8%B0%EB%A3%A8%EC%98%80%EB%82%98/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1484799-%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4_%EC%8B%A0%EA%B8%B0%EC%88%A0%EC%9D%B4%EC%97%88%EB%82%98_%EC%95%84%EB%8B%88%EB%A9%B4_%EC%8B%A0%EA%B8%B0%EB%A3%A8%EC%98%80%EB%82%98/</guid>
-            <pubDate>Mon, 03 Apr 2023 01:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[메타버스, 신기술이었나 아니면 신기루였나]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1484799.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
