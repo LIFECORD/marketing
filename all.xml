@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 23:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 01:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈채팅 내세운 카카오, 다음 스텝은? 🐾 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1564389-%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85_%EB%82%B4%EC%84%B8%EC%9A%B4_%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%8B%A4%EC%9D%8C_%EC%8A%A4%ED%85%9D%EC%9D%80/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1564389-%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85_%EB%82%B4%EC%84%B8%EC%9A%B4_%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%8B%A4%EC%9D%8C_%EC%8A%A4%ED%85%9D%EC%9D%80/</guid>
+            <pubDate>Mon, 22 May 2023 01:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[오픈채팅 내세운 카카오, 다음 스텝은? 🐾]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1564389.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마케터의 즐겨찾기 [⭐] - 아이콘 편 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1560378-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98_%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0_%EC%95%84%EC%9D%B4%EC%BD%98_%ED%8E%B8/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 10 Apr 2023 01:08:34 GMT</pubDate>
             <content:encoded><![CDATA[네이버가 연결해주는 인플루언서 마케팅]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1498076.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[대행사의 업무 요청, 고민이에요 😞 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1492904-%EB%8C%80%ED%96%89%EC%82%AC%EC%9D%98_%EC%97%85%EB%AC%B4_%EC%9A%94%EC%B2%AD_%EA%B3%A0%EB%AF%BC%EC%9D%B4%EC%97%90%EC%9A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1492904-%EB%8C%80%ED%96%89%EC%82%AC%EC%9D%98_%EC%97%85%EB%AC%B4_%EC%9A%94%EC%B2%AD_%EA%B3%A0%EB%AF%BC%EC%9D%B4%EC%97%90%EC%9A%94/</guid>
-            <pubDate>Thu, 06 Apr 2023 01:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[대행사의 업무 요청, 고민이에요 😞]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1492904.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
