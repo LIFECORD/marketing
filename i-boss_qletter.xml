@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 23:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 01:24:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 때문에 트래픽 빼앗기는 웹사이트들 🤖]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1587277-AI_%EB%95%8C%EB%AC%B8%EC%97%90_%ED%8A%B8%EB%9E%98%ED%94%BD_%EB%B9%BC%EC%95%97%EA%B8%B0%EB%8A%94_%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%93%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1587277-AI_%EB%95%8C%EB%AC%B8%EC%97%90_%ED%8A%B8%EB%9E%98%ED%94%BD_%EB%B9%BC%EC%95%97%EA%B8%B0%EB%8A%94_%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%93%A4/</guid>
+            <pubDate>Mon, 05 Jun 2023 01:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[AI 때문에 트래픽 빼앗기는 웹사이트들 🤖]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1587277.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[채용... 저만 힘든가요...? 😥😢😭]]></title>
             <link>https://qletter.i-boss.co.kr/view/1582506-%EC%B1%84%EC%9A%A9_%EC%A0%80%EB%A7%8C_%ED%9E%98%EB%93%A0%EA%B0%80%EC%9A%94/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 20 Apr 2023 01:09:27 GMT</pubDate>
             <content:encoded><![CDATA[커뮤니티 계의 새로운 강자, 디스코드 🎮]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1515700.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[큐텐이 티메파크를 인수한 이유는? 😲]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1509878-%ED%81%90%ED%85%90%EC%9D%B4_%ED%8B%B0%EB%A9%94%ED%8C%8C%ED%81%AC%EB%A5%BC_%EC%9D%B8%EC%88%98%ED%95%9C_%EC%9D%B4%EC%9C%A0%EB%8A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1509878-%ED%81%90%ED%85%90%EC%9D%B4_%ED%8B%B0%EB%A9%94%ED%8C%8C%ED%81%AC%EB%A5%BC_%EC%9D%B8%EC%88%98%ED%95%9C_%EC%9D%B4%EC%9C%A0%EB%8A%94/</guid>
-            <pubDate>Mon, 17 Apr 2023 01:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[큐텐이 티메파크를 인수한 이유는? 😲]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1509878.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
