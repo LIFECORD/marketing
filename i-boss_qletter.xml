@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 23:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 01:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 신규 광고, 다크패턴인가 아닌가 🤔]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1610003-%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%8B%A0%EA%B7%9C_%EA%B4%91%EA%B3%A0_%EB%8B%A4%ED%81%AC%ED%8C%A8%ED%84%B4%EC%9D%B8%EA%B0%80_%EC%95%84%EB%8B%8C%EA%B0%80/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1610003-%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%8B%A0%EA%B7%9C_%EA%B4%91%EA%B3%A0_%EB%8B%A4%ED%81%AC%ED%8C%A8%ED%84%B4%EC%9D%B8%EA%B0%80_%EC%95%84%EB%8B%8C%EA%B0%80/</guid>
+            <pubDate>Mon, 19 Jun 2023 01:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[네이버 신규 광고, 다크패턴인가 아닌가 🤔]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1610003.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스노우피크에게 배우는 브랜드 철학 🧐]]></title>
             <link>https://qletter.i-boss.co.kr/view/1604851-%EC%8A%A4%EB%85%B8%EC%9A%B0%ED%94%BC%ED%81%AC%EC%97%90%EA%B2%8C_%EB%B0%B0%EC%9A%B0%EB%8A%94_%EB%B8%8C%EB%9E%9C%EB%93%9C_%EC%B2%A0%ED%95%99/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 08 May 2023 01:09:02 GMT</pubDate>
             <content:encoded><![CDATA[플랫폼들의 1분기 성적표는? 📑]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1542204.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[15년 차 경력직의 배신 😖]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1538766-15%EB%85%84_%EC%B0%A8_%EA%B2%BD%EB%A0%A5%EC%A7%81%EC%9D%98_%EB%B0%B0%EC%8B%A0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1538766-15%EB%85%84_%EC%B0%A8_%EA%B2%BD%EB%A0%A5%EC%A7%81%EC%9D%98_%EB%B0%B0%EC%8B%A0/</guid>
-            <pubDate>Thu, 04 May 2023 01:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[15년 차 경력직의 배신 😖]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1538766.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
