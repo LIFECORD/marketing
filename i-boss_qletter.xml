@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 23:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 01:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨일, 이렇게 쓸 수 있는고래? 🐋]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1616471-%EC%9B%A8%EC%9D%BC_%EC%9D%B4%EB%A0%87%EA%B2%8C_%EC%93%B8_%EC%88%98_%EC%9E%88%EB%8A%94%EA%B3%A0%EB%9E%98/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1616471-%EC%9B%A8%EC%9D%BC_%EC%9D%B4%EB%A0%87%EA%B2%8C_%EC%93%B8_%EC%88%98_%EC%9E%88%EB%8A%94%EA%B3%A0%EB%9E%98/</guid>
+            <pubDate>Thu, 22 Jun 2023 01:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[웨일, 이렇게 쓸 수 있는고래? 🐋]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1616471.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버 신규 광고, 다크패턴인가 아닌가 🤔]]></title>
             <link>https://qletter.i-boss.co.kr/view/1610003-%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%8B%A0%EA%B7%9C_%EA%B4%91%EA%B3%A0_%EB%8B%A4%ED%81%AC%ED%8C%A8%ED%84%B4%EC%9D%B8%EA%B0%80_%EC%95%84%EB%8B%8C%EA%B0%80/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 11 May 2023 01:11:38 GMT</pubDate>
             <content:encoded><![CDATA[OOH는 변신 중! 👾]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1548982.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[플랫폼들의 1분기 성적표는? 📑]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1542204-%ED%94%8C%EB%9E%AB%ED%8F%BC%EB%93%A4%EC%9D%98_1%EB%B6%84%EA%B8%B0_%EC%84%B1%EC%A0%81%ED%91%9C%EB%8A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1542204-%ED%94%8C%EB%9E%AB%ED%8F%BC%EB%93%A4%EC%9D%98_1%EB%B6%84%EA%B8%B0_%EC%84%B1%EC%A0%81%ED%91%9C%EB%8A%94/</guid>
-            <pubDate>Mon, 08 May 2023 01:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[플랫폼들의 1분기 성적표는? 📑]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1542204.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
