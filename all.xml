@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 23:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 01:28:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버의 Ai 챗봇 검색, 어디까지 왔나? (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1621559-%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9D%98_Ai_%EC%B1%97%EB%B4%87_%EA%B2%80%EC%83%89_%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80_%EC%99%94%EB%82%98/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1621559-%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9D%98_Ai_%EC%B1%97%EB%B4%87_%EA%B2%80%EC%83%89_%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80_%EC%99%94%EB%82%98/</guid>
+            <pubDate>Mon, 26 Jun 2023 01:28:56 GMT</pubDate>
+            <content:encoded><![CDATA[네이버의 Ai 챗봇 검색, 어디까지 왔나?]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1621559.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[웨일, 이렇게 쓸 수 있는고래? 🐋 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1616471-%EC%9B%A8%EC%9D%BC_%EC%9D%B4%EB%A0%87%EA%B2%8C_%EC%93%B8_%EC%88%98_%EC%9E%88%EB%8A%94%EA%B3%A0%EB%9E%98/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 15 May 2023 01:13:24 GMT</pubDate>
             <content:encoded><![CDATA[잊히는 뉴미디어의 대표주자 💡]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1552968.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[OOH는 변신 중! 👾 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1548982-OOH%EB%8A%94_%EB%B3%80%EC%8B%A0_%EC%A4%91/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1548982-OOH%EB%8A%94_%EB%B3%80%EC%8B%A0_%EC%A4%91/</guid>
-            <pubDate>Thu, 11 May 2023 01:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[OOH는 변신 중! 👾]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1548982.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
