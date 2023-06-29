@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 23:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 03:08:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그냥 말고 '잘' 말하는 25가지 테크닉 💬]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1628564-%EA%B7%B8%EB%83%A5_%EB%A7%90%EA%B3%A0_%EC%9E%98_%EB%A7%90%ED%95%98%EB%8A%94_25%EA%B0%80%EC%A7%80_%ED%85%8C%ED%81%AC%EB%8B%89/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1628564-%EA%B7%B8%EB%83%A5_%EB%A7%90%EA%B3%A0_%EC%9E%98_%EB%A7%90%ED%95%98%EB%8A%94_25%EA%B0%80%EC%A7%80_%ED%85%8C%ED%81%AC%EB%8B%89/</guid>
+            <pubDate>Thu, 29 Jun 2023 03:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[그냥 말고 '잘' 말하는 25가지 테크닉 💬]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1628564.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버의 Ai 챗봇 검색, 어디까지 왔나?]]></title>
             <link>https://qletter.i-boss.co.kr/view/1621559-%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9D%98_Ai_%EC%B1%97%EB%B4%87_%EA%B2%80%EC%83%89_%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80_%EC%99%94%EB%82%98/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 18 May 2023 01:10:44 GMT</pubDate>
             <content:encoded><![CDATA[마케터의 즐겨찾기 [⭐] - 아이콘 편]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1560378.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[잊히는 뉴미디어의 대표주자 💡]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1552968-%EC%9E%8A%ED%9E%88%EB%8A%94_%EB%89%B4%EB%AF%B8%EB%94%94%EC%96%B4%EC%9D%98_%EB%8C%80%ED%91%9C%EC%A3%BC%EC%9E%90/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1552968-%EC%9E%8A%ED%9E%88%EB%8A%94_%EB%89%B4%EB%AF%B8%EB%94%94%EC%96%B4%EC%9D%98_%EB%8C%80%ED%91%9C%EC%A3%BC%EC%9E%90/</guid>
-            <pubDate>Mon, 15 May 2023 01:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[잊히는 뉴미디어의 대표주자 💡]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1552968.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
