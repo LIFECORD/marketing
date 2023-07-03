@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 23:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 01:38:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜브가 직접 라방한다 🛒]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1633139-%EC%9C%A0%ED%8A%9C%EB%B8%8C%EA%B0%80_%EC%A7%81%EC%A0%91_%EB%9D%BC%EB%B0%A9%ED%95%9C%EB%8B%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1633139-%EC%9C%A0%ED%8A%9C%EB%B8%8C%EA%B0%80_%EC%A7%81%EC%A0%91_%EB%9D%BC%EB%B0%A9%ED%95%9C%EB%8B%A4/</guid>
+            <pubDate>Mon, 03 Jul 2023 01:38:02 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브가 직접 라방한다 🛒]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1633139.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[그냥 말고 '잘' 말하는 25가지 테크닉 💬]]></title>
             <link>https://qletter.i-boss.co.kr/view/1628564-%EA%B7%B8%EB%83%A5_%EB%A7%90%EA%B3%A0_%EC%9E%98_%EB%A7%90%ED%95%98%EB%8A%94_25%EA%B0%80%EC%A7%80_%ED%85%8C%ED%81%AC%EB%8B%89/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 22 May 2023 01:15:12 GMT</pubDate>
             <content:encoded><![CDATA[오픈채팅 내세운 카카오, 다음 스텝은? 🐾]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1564389.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마케터의 즐겨찾기 [⭐] - 아이콘 편]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1560378-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98_%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0_%EC%95%84%EC%9D%B4%EC%BD%98_%ED%8E%B8/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1560378-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98_%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0_%EC%95%84%EC%9D%B4%EC%BD%98_%ED%8E%B8/</guid>
-            <pubDate>Thu, 18 May 2023 01:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[마케터의 즐겨찾기 [⭐] - 아이콘 편]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1560378.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
