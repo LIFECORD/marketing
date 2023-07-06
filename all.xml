@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 23:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 01:37:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마케터 되고 싶은데… 취업 vs 대학? (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1640822-%EB%A7%88%EC%BC%80%ED%84%B0_%EB%90%98%EA%B3%A0_%EC%8B%B6%EC%9D%80%EB%8D%B0_%EC%B7%A8%EC%97%85_vs_%EB%8C%80%ED%95%99/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1640822-%EB%A7%88%EC%BC%80%ED%84%B0_%EB%90%98%EA%B3%A0_%EC%8B%B6%EC%9D%80%EB%8D%B0_%EC%B7%A8%EC%97%85_vs_%EB%8C%80%ED%95%99/</guid>
+            <pubDate>Thu, 06 Jul 2023 01:37:58 GMT</pubDate>
+            <content:encoded><![CDATA[마케터 되고 싶은데… 취업 vs 대학?]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1640822.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유튜브가 직접 라방한다 🛒 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1633139-%EC%9C%A0%ED%8A%9C%EB%B8%8C%EA%B0%80_%EC%A7%81%EC%A0%91_%EB%9D%BC%EB%B0%A9%ED%95%9C%EB%8B%A4/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 25 May 2023 01:12:00 GMT</pubDate>
             <content:encoded><![CDATA[마케터가 사랑한 책 📖 - 컨테이저스 전략적 입소문]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1571564.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈채팅 내세운 카카오, 다음 스텝은? 🐾 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1564389-%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85_%EB%82%B4%EC%84%B8%EC%9A%B4_%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%8B%A4%EC%9D%8C_%EC%8A%A4%ED%85%9D%EC%9D%80/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1564389-%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85_%EB%82%B4%EC%84%B8%EC%9A%B4_%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%8B%A4%EC%9D%8C_%EC%8A%A4%ED%85%9D%EC%9D%80/</guid>
-            <pubDate>Mon, 22 May 2023 01:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[오픈채팅 내세운 카카오, 다음 스텝은? 🐾]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1564389.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
