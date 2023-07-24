@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 05:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 06:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TV 안 보는 시대, 위기의 홈쇼핑?! (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1667856-TV_%EC%95%88_%EB%B3%B4%EB%8A%94_%EC%8B%9C%EB%8C%80_%EC%9C%84%EA%B8%B0%EC%9D%98_%ED%99%88%EC%87%BC%ED%95%91/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1667856-TV_%EC%95%88_%EB%B3%B4%EB%8A%94_%EC%8B%9C%EB%8C%80_%EC%9C%84%EA%B8%B0%EC%9D%98_%ED%99%88%EC%87%BC%ED%95%91/</guid>
+            <pubDate>Mon, 24 Jul 2023 06:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[TV 안 보는 시대, 위기의 홈쇼핑?!]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1667856.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마케터의 즐겨찾기 [⭐] - 마케팅 뉴스레터 편 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1663650-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98_%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0_%EB%A7%88%EC%BC%80%ED%8C%85_%EB%89%B4%EC%8A%A4%EB%A0%88%ED%84%B0_%ED%8E%B8/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 15 Jun 2023 01:18:13 GMT</pubDate>
             <content:encoded><![CDATA[스노우피크에게 배우는 브랜드 철학 🧐]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1604851.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 동의 없으면, OO 못 보여준다고? 👀 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1597551-%EC%9D%B4%EC%A0%9C_%EB%8F%99%EC%9D%98_%EC%97%86%EC%9C%BC%EB%A9%B4_OO_%EB%AA%BB_%EB%B3%B4%EC%97%AC%EC%A4%80%EB%8B%A4%EA%B3%A0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1597551-%EC%9D%B4%EC%A0%9C_%EB%8F%99%EC%9D%98_%EC%97%86%EC%9C%BC%EB%A9%B4_OO_%EB%AA%BB_%EB%B3%B4%EC%97%AC%EC%A4%80%EB%8B%A4%EA%B3%A0/</guid>
-            <pubDate>Mon, 12 Jun 2023 02:53:50 GMT</pubDate>
-            <content:encoded><![CDATA[이제 동의 없으면, OO 못 보여준다고? 👀]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1597551.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
