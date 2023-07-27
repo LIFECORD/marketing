@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 01:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 02:25:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[논리적인 글을 쓰고 싶다면 '피라미드'를 기억하세요! (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1676149-%EB%85%BC%EB%A6%AC%EC%A0%81%EC%9D%B8_%EA%B8%80%EC%9D%84_%EC%93%B0%EA%B3%A0_%EC%8B%B6%EB%8B%A4%EB%A9%B4_%ED%94%BC%EB%9D%BC%EB%AF%B8%EB%93%9C%EB%A5%BC_%EA%B8%B0%EC%96%B5%ED%95%98%EC%84%B8%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1676149-%EB%85%BC%EB%A6%AC%EC%A0%81%EC%9D%B8_%EA%B8%80%EC%9D%84_%EC%93%B0%EA%B3%A0_%EC%8B%B6%EB%8B%A4%EB%A9%B4_%ED%94%BC%EB%9D%BC%EB%AF%B8%EB%93%9C%EB%A5%BC_%EA%B8%B0%EC%96%B5%ED%95%98%EC%84%B8%EC%9A%94/</guid>
+            <pubDate>Thu, 27 Jul 2023 02:25:51 GMT</pubDate>
+            <content:encoded><![CDATA[논리적인 글을 쓰고 싶다면 '피라미드'를 기억하세요!]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1676149.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[TV 안 보는 시대, 위기의 홈쇼핑?! (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1667856-TV_%EC%95%88_%EB%B3%B4%EB%8A%94_%EC%8B%9C%EB%8C%80_%EC%9C%84%EA%B8%B0%EC%9D%98_%ED%99%88%EC%87%BC%ED%95%91/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 19 Jun 2023 01:20:17 GMT</pubDate>
             <content:encoded><![CDATA[네이버 신규 광고, 다크패턴인가 아닌가 🤔]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1610003.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스노우피크에게 배우는 브랜드 철학 🧐 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1604851-%EC%8A%A4%EB%85%B8%EC%9A%B0%ED%94%BC%ED%81%AC%EC%97%90%EA%B2%8C_%EB%B0%B0%EC%9A%B0%EB%8A%94_%EB%B8%8C%EB%9E%9C%EB%93%9C_%EC%B2%A0%ED%95%99/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1604851-%EC%8A%A4%EB%85%B8%EC%9A%B0%ED%94%BC%ED%81%AC%EC%97%90%EA%B2%8C_%EB%B0%B0%EC%9A%B0%EB%8A%94_%EB%B8%8C%EB%9E%9C%EB%93%9C_%EC%B2%A0%ED%95%99/</guid>
-            <pubDate>Thu, 15 Jun 2023 01:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[스노우피크에게 배우는 브랜드 철학 🧐]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1604851.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
