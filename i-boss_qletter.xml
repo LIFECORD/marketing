@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 01:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 02:32:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡이 올리브영을 신고했다고?]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1679794-%EC%BF%A0%ED%8C%A1%EC%9D%B4_%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81%EC%9D%84_%EC%8B%A0%EA%B3%A0%ED%96%88%EB%8B%A4%EA%B3%A0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1679794-%EC%BF%A0%ED%8C%A1%EC%9D%B4_%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81%EC%9D%84_%EC%8B%A0%EA%B3%A0%ED%96%88%EB%8B%A4%EA%B3%A0/</guid>
+            <pubDate>Mon, 31 Jul 2023 02:32:08 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡이 올리브영을 신고했다고?]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1679794.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[논리적인 글을 쓰고 싶다면 '피라미드'를 기억하세요!]]></title>
             <link>https://qletter.i-boss.co.kr/view/1676149-%EB%85%BC%EB%A6%AC%EC%A0%81%EC%9D%B8_%EA%B8%80%EC%9D%84_%EC%93%B0%EA%B3%A0_%EC%8B%B6%EB%8B%A4%EB%A9%B4_%ED%94%BC%EB%9D%BC%EB%AF%B8%EB%93%9C%EB%A5%BC_%EA%B8%B0%EC%96%B5%ED%95%98%EC%84%B8%EC%9A%94/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 22 Jun 2023 01:20:14 GMT</pubDate>
             <content:encoded><![CDATA[웨일, 이렇게 쓸 수 있는고래? 🐋]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1616471.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 신규 광고, 다크패턴인가 아닌가 🤔]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1610003-%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%8B%A0%EA%B7%9C_%EA%B4%91%EA%B3%A0_%EB%8B%A4%ED%81%AC%ED%8C%A8%ED%84%B4%EC%9D%B8%EA%B0%80_%EC%95%84%EB%8B%8C%EA%B0%80/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1610003-%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%8B%A0%EA%B7%9C_%EA%B4%91%EA%B3%A0_%EB%8B%A4%ED%81%AC%ED%8C%A8%ED%84%B4%EC%9D%B8%EA%B0%80_%EC%95%84%EB%8B%8C%EA%B0%80/</guid>
-            <pubDate>Mon, 19 Jun 2023 01:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[네이버 신규 광고, 다크패턴인가 아닌가 🤔]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1610003.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
