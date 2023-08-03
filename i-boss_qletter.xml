@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 02:27:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 03:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이런 것까지 마케터가 해야 하나요?]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1688091-%EC%9D%B4%EB%9F%B0_%EA%B2%83%EA%B9%8C%EC%A7%80_%EB%A7%88%EC%BC%80%ED%84%B0%EA%B0%80_%ED%95%B4%EC%95%BC_%ED%95%98%EB%82%98%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1688091-%EC%9D%B4%EB%9F%B0_%EA%B2%83%EA%B9%8C%EC%A7%80_%EB%A7%88%EC%BC%80%ED%84%B0%EA%B0%80_%ED%95%B4%EC%95%BC_%ED%95%98%EB%82%98%EC%9A%94/</guid>
+            <pubDate>Thu, 03 Aug 2023 03:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[이런 것까지 마케터가 해야 하나요?]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1688091.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡이 올리브영을 신고했다고?]]></title>
             <link>https://qletter.i-boss.co.kr/view/1679794-%EC%BF%A0%ED%8C%A1%EC%9D%B4_%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81%EC%9D%84_%EC%8B%A0%EA%B3%A0%ED%96%88%EB%8B%A4%EA%B3%A0/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 26 Jun 2023 01:28:56 GMT</pubDate>
             <content:encoded><![CDATA[네이버의 Ai 챗봇 검색, 어디까지 왔나?]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1621559.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[웨일, 이렇게 쓸 수 있는고래? 🐋]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1616471-%EC%9B%A8%EC%9D%BC_%EC%9D%B4%EB%A0%87%EA%B2%8C_%EC%93%B8_%EC%88%98_%EC%9E%88%EB%8A%94%EA%B3%A0%EB%9E%98/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1616471-%EC%9B%A8%EC%9D%BC_%EC%9D%B4%EB%A0%87%EA%B2%8C_%EC%93%B8_%EC%88%98_%EC%9E%88%EB%8A%94%EA%B3%A0%EB%9E%98/</guid>
-            <pubDate>Thu, 22 Jun 2023 01:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[웨일, 이렇게 쓸 수 있는고래? 🐋]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1616471.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
