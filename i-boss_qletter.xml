@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 01:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 02:30:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버가 추가하는 두 가지 '블록']]></title>
+            <link>https://qletter.i-boss.co.kr/view/1690256-%EB%84%A4%EC%9D%B4%EB%B2%84%EA%B0%80_%EC%B6%94%EA%B0%80%ED%95%98%EB%8A%94_%EB%91%90_%EA%B0%80%EC%A7%80_%EB%B8%94%EB%A1%9D/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1690256-%EB%84%A4%EC%9D%B4%EB%B2%84%EA%B0%80_%EC%B6%94%EA%B0%80%ED%95%98%EB%8A%94_%EB%91%90_%EA%B0%80%EC%A7%80_%EB%B8%94%EB%A1%9D/</guid>
+            <pubDate>Mon, 07 Aug 2023 02:30:14 GMT</pubDate>
+            <content:encoded><![CDATA[네이버가 추가하는 두 가지 '블록']]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1690256.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이런 것까지 마케터가 해야 하나요?]]></title>
             <link>https://qletter.i-boss.co.kr/view/1688091-%EC%9D%B4%EB%9F%B0_%EA%B2%83%EA%B9%8C%EC%A7%80_%EB%A7%88%EC%BC%80%ED%84%B0%EA%B0%80_%ED%95%B4%EC%95%BC_%ED%95%98%EB%82%98%EC%9A%94/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 29 Jun 2023 03:08:46 GMT</pubDate>
             <content:encoded><![CDATA[그냥 말고 '잘' 말하는 25가지 테크닉 💬]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1628564.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버의 Ai 챗봇 검색, 어디까지 왔나?]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1621559-%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9D%98_Ai_%EC%B1%97%EB%B4%87_%EA%B2%80%EC%83%89_%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80_%EC%99%94%EB%82%98/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1621559-%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9D%98_Ai_%EC%B1%97%EB%B4%87_%EA%B2%80%EC%83%89_%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80_%EC%99%94%EB%82%98/</guid>
-            <pubDate>Mon, 26 Jun 2023 01:28:56 GMT</pubDate>
-            <content:encoded><![CDATA[네이버의 Ai 챗봇 검색, 어디까지 왔나?]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1621559.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
