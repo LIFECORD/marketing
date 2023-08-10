@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 01:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 02:34:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기업이 마케팅에 예술을 곁들이는 이유 🎨 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1702448-%EA%B8%B0%EC%97%85%EC%9D%B4_%EB%A7%88%EC%BC%80%ED%8C%85%EC%97%90_%EC%98%88%EC%88%A0%EC%9D%84_%EA%B3%81%EB%93%A4%EC%9D%B4%EB%8A%94_%EC%9D%B4%EC%9C%A0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1702448-%EA%B8%B0%EC%97%85%EC%9D%B4_%EB%A7%88%EC%BC%80%ED%8C%85%EC%97%90_%EC%98%88%EC%88%A0%EC%9D%84_%EA%B3%81%EB%93%A4%EC%9D%B4%EB%8A%94_%EC%9D%B4%EC%9C%A0/</guid>
+            <pubDate>Thu, 10 Aug 2023 02:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[기업이 마케팅에 예술을 곁들이는 이유 🎨]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1702448.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버가 추가하는 두 가지 '블록' (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1690256-%EB%84%A4%EC%9D%B4%EB%B2%84%EA%B0%80_%EC%B6%94%EA%B0%80%ED%95%98%EB%8A%94_%EB%91%90_%EA%B0%80%EC%A7%80_%EB%B8%94%EB%A1%9D/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 03 Jul 2023 01:38:02 GMT</pubDate>
             <content:encoded><![CDATA[유튜브가 직접 라방한다 🛒]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1633139.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[그냥 말고 '잘' 말하는 25가지 테크닉 💬 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1628564-%EA%B7%B8%EB%83%A5_%EB%A7%90%EA%B3%A0_%EC%9E%98_%EB%A7%90%ED%95%98%EB%8A%94_25%EA%B0%80%EC%A7%80_%ED%85%8C%ED%81%AC%EB%8B%89/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1628564-%EA%B7%B8%EB%83%A5_%EB%A7%90%EA%B3%A0_%EC%9E%98_%EB%A7%90%ED%95%98%EB%8A%94_25%EA%B0%80%EC%A7%80_%ED%85%8C%ED%81%AC%EB%8B%89/</guid>
-            <pubDate>Thu, 29 Jun 2023 03:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[그냥 말고 '잘' 말하는 25가지 테크닉 💬]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1628564.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
