@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 06:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 07:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[40대 남성들이 픽한 쇼핑몰은?]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1705856-40%EB%8C%80_%EB%82%A8%EC%84%B1%EB%93%A4%EC%9D%B4_%ED%94%BD%ED%95%9C_%EC%87%BC%ED%95%91%EB%AA%B0%EC%9D%80/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1705856-40%EB%8C%80_%EB%82%A8%EC%84%B1%EB%93%A4%EC%9D%B4_%ED%94%BD%ED%95%9C_%EC%87%BC%ED%95%91%EB%AA%B0%EC%9D%80/</guid>
+            <pubDate>Mon, 14 Aug 2023 07:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[40대 남성들이 픽한 쇼핑몰은?]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1705856.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[기업이 마케팅에 예술을 곁들이는 이유 🎨]]></title>
             <link>https://qletter.i-boss.co.kr/view/1702448-%EA%B8%B0%EC%97%85%EC%9D%B4_%EB%A7%88%EC%BC%80%ED%8C%85%EC%97%90_%EC%98%88%EC%88%A0%EC%9D%84_%EA%B3%81%EB%93%A4%EC%9D%B4%EB%8A%94_%EC%9D%B4%EC%9C%A0/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 06 Jul 2023 01:37:58 GMT</pubDate>
             <content:encoded><![CDATA[마케터 되고 싶은데… 취업 vs 대학?]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1640822.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브가 직접 라방한다 🛒]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1633139-%EC%9C%A0%ED%8A%9C%EB%B8%8C%EA%B0%80_%EC%A7%81%EC%A0%91_%EB%9D%BC%EB%B0%A9%ED%95%9C%EB%8B%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1633139-%EC%9C%A0%ED%8A%9C%EB%B8%8C%EA%B0%80_%EC%A7%81%EC%A0%91_%EB%9D%BC%EB%B0%A9%ED%95%9C%EB%8B%A4/</guid>
-            <pubDate>Mon, 03 Jul 2023 01:38:02 GMT</pubDate>
-            <content:encoded><![CDATA[유튜브가 직접 라방한다 🛒]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1633139.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
