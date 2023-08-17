@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 00:57:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 01:45:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['안 사면 손해'가 통하는 이유 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1712223-%EC%95%88_%EC%82%AC%EB%A9%B4_%EC%86%90%ED%95%B4%EA%B0%80_%ED%86%B5%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1712223-%EC%95%88_%EC%82%AC%EB%A9%B4_%EC%86%90%ED%95%B4%EA%B0%80_%ED%86%B5%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0/</guid>
+            <pubDate>Thu, 17 Aug 2023 01:45:01 GMT</pubDate>
+            <content:encoded><![CDATA['안 사면 손해'가 통하는 이유]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1712223.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[40대 남성들이 픽한 쇼핑몰은? (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1705856-40%EB%8C%80_%EB%82%A8%EC%84%B1%EB%93%A4%EC%9D%B4_%ED%94%BD%ED%95%9C_%EC%87%BC%ED%95%91%EB%AA%B0%EC%9D%80/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 10 Jul 2023 01:27:51 GMT</pubDate>
             <content:encoded><![CDATA[새로운 SNS의 등장, 스레드 살펴보기 👀]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1644942.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마케터 되고 싶은데… 취업 vs 대학? (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1640822-%EB%A7%88%EC%BC%80%ED%84%B0_%EB%90%98%EA%B3%A0_%EC%8B%B6%EC%9D%80%EB%8D%B0_%EC%B7%A8%EC%97%85_vs_%EB%8C%80%ED%95%99/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1640822-%EB%A7%88%EC%BC%80%ED%84%B0_%EB%90%98%EA%B3%A0_%EC%8B%B6%EC%9D%80%EB%8D%B0_%EC%B7%A8%EC%97%85_vs_%EB%8C%80%ED%95%99/</guid>
-            <pubDate>Thu, 06 Jul 2023 01:37:58 GMT</pubDate>
-            <content:encoded><![CDATA[마케터 되고 싶은데… 취업 vs 대학?]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1640822.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
