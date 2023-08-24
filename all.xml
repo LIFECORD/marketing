@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 00:58:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 01:49:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마케터의 즐겨찾기 [⭐] - 광고 관리 센터 편 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1724335-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98_%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0_%EA%B4%91%EA%B3%A0_%EA%B4%80%EB%A6%AC_%EC%84%BC%ED%84%B0_%ED%8E%B8/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1724335-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98_%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0_%EA%B4%91%EA%B3%A0_%EA%B4%80%EB%A6%AC_%EC%84%BC%ED%84%B0_%ED%8E%B8/</guid>
+            <pubDate>Thu, 24 Aug 2023 01:49:22 GMT</pubDate>
+            <content:encoded><![CDATA[마케터의 즐겨찾기 [⭐] - 광고 관리 센터 편]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1724335.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버 카카오 바짝 추격하는 유튜브 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1716585-%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B0%94%EC%A7%9D_%EC%B6%94%EA%B2%A9%ED%95%98%EB%8A%94_%EC%9C%A0%ED%8A%9C%EB%B8%8C/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 17 Jul 2023 01:42:02 GMT</pubDate>
             <content:encoded><![CDATA[다음 스텝으로 도약하려는 다음(DAUM)]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1656458.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[직원인 내가 이 세계에서는 인플루언서?! (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1652450-%EC%A7%81%EC%9B%90%EC%9D%B8_%EB%82%B4%EA%B0%80_%EC%9D%B4_%EC%84%B8%EA%B3%84%EC%97%90%EC%84%9C%EB%8A%94_%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1652450-%EC%A7%81%EC%9B%90%EC%9D%B8_%EB%82%B4%EA%B0%80_%EC%9D%B4_%EC%84%B8%EA%B3%84%EC%97%90%EC%84%9C%EB%8A%94_%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C/</guid>
-            <pubDate>Thu, 13 Jul 2023 02:59:55 GMT</pubDate>
-            <content:encoded><![CDATA[직원인 내가 이 세계에서는 인플루언서?!]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1652450.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
