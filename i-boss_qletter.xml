@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 00:59:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 01:52:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한계가 느껴지는 요즘, 이직이 답일까요? 😓]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1749029-%ED%95%9C%EA%B3%84%EA%B0%80_%EB%8A%90%EA%BB%B4%EC%A7%80%EB%8A%94_%EC%9A%94%EC%A6%98_%EC%9D%B4%EC%A7%81%EC%9D%B4_%EB%8B%B5%EC%9D%BC%EA%B9%8C%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1749029-%ED%95%9C%EA%B3%84%EA%B0%80_%EB%8A%90%EA%BB%B4%EC%A7%80%EB%8A%94_%EC%9A%94%EC%A6%98_%EC%9D%B4%EC%A7%81%EC%9D%B4_%EB%8B%B5%EC%9D%BC%EA%B9%8C%EC%9A%94/</guid>
+            <pubDate>Thu, 07 Sep 2023 01:52:19 GMT</pubDate>
+            <content:encoded><![CDATA[한계가 느껴지는 요즘, 이직이 답일까요? 😓]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1749029.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[케이블 TV에서 홈쇼핑 못 볼 수도 있다고?]]></title>
             <link>https://qletter.i-boss.co.kr/view/1742700-%EC%BC%80%EC%9D%B4%EB%B8%94_TV%EC%97%90%EC%84%9C_%ED%99%88%EC%87%BC%ED%95%91_%EB%AA%BB_%EB%B3%BC_%EC%88%98%EB%8F%84_%EC%9E%88%EB%8B%A4%EA%B3%A0/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 31 Jul 2023 02:32:08 GMT</pubDate>
             <content:encoded><![CDATA[쿠팡이 올리브영을 신고했다고?]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1679794.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[논리적인 글을 쓰고 싶다면 '피라미드'를 기억하세요!]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1676149-%EB%85%BC%EB%A6%AC%EC%A0%81%EC%9D%B8_%EA%B8%80%EC%9D%84_%EC%93%B0%EA%B3%A0_%EC%8B%B6%EB%8B%A4%EB%A9%B4_%ED%94%BC%EB%9D%BC%EB%AF%B8%EB%93%9C%EB%A5%BC_%EA%B8%B0%EC%96%B5%ED%95%98%EC%84%B8%EC%9A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1676149-%EB%85%BC%EB%A6%AC%EC%A0%81%EC%9D%B8_%EA%B8%80%EC%9D%84_%EC%93%B0%EA%B3%A0_%EC%8B%B6%EB%8B%A4%EB%A9%B4_%ED%94%BC%EB%9D%BC%EB%AF%B8%EB%93%9C%EB%A5%BC_%EA%B8%B0%EC%96%B5%ED%95%98%EC%84%B8%EC%9A%94/</guid>
-            <pubDate>Thu, 27 Jul 2023 02:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[논리적인 글을 쓰고 싶다면 '피라미드'를 기억하세요!]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1676149.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
