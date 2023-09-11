@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 01:00:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 01:54:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타가 유료 구독을 고민하는 이유는?]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1753213-%EB%A9%94%ED%83%80%EA%B0%80_%EC%9C%A0%EB%A3%8C_%EA%B5%AC%EB%8F%85%EC%9D%84_%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0%EB%8A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1753213-%EB%A9%94%ED%83%80%EA%B0%80_%EC%9C%A0%EB%A3%8C_%EA%B5%AC%EB%8F%85%EC%9D%84_%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0%EB%8A%94/</guid>
+            <pubDate>Mon, 11 Sep 2023 01:54:12 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 유료 구독을 고민하는 이유는?]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1753213.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한계가 느껴지는 요즘, 이직이 답일까요? 😓]]></title>
             <link>https://qletter.i-boss.co.kr/view/1749029-%ED%95%9C%EA%B3%84%EA%B0%80_%EB%8A%90%EA%BB%B4%EC%A7%80%EB%8A%94_%EC%9A%94%EC%A6%98_%EC%9D%B4%EC%A7%81%EC%9D%B4_%EB%8B%B5%EC%9D%BC%EA%B9%8C%EC%9A%94/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 03 Aug 2023 03:14:24 GMT</pubDate>
             <content:encoded><![CDATA[이런 것까지 마케터가 해야 하나요?]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1688091.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡이 올리브영을 신고했다고?]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1679794-%EC%BF%A0%ED%8C%A1%EC%9D%B4_%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81%EC%9D%84_%EC%8B%A0%EA%B3%A0%ED%96%88%EB%8B%A4%EA%B3%A0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1679794-%EC%BF%A0%ED%8C%A1%EC%9D%B4_%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81%EC%9D%84_%EC%8B%A0%EA%B3%A0%ED%96%88%EB%8B%A4%EA%B3%A0/</guid>
-            <pubDate>Mon, 31 Jul 2023 02:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[쿠팡이 올리브영을 신고했다고?]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1679794.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
