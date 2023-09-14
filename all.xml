@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 00:59:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 01:52:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GA4 전환 후 2개월, 장점과 단점은 무엇일까? (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1761333-GA4_%EC%A0%84%ED%99%98_%ED%9B%84_2%EA%B0%9C%EC%9B%94_%EC%9E%A5%EC%A0%90%EA%B3%BC_%EB%8B%A8%EC%A0%90%EC%9D%80_%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1761333-GA4_%EC%A0%84%ED%99%98_%ED%9B%84_2%EA%B0%9C%EC%9B%94_%EC%9E%A5%EC%A0%90%EA%B3%BC_%EB%8B%A8%EC%A0%90%EC%9D%80_%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C/</guid>
+            <pubDate>Thu, 14 Sep 2023 01:52:27 GMT</pubDate>
+            <content:encoded><![CDATA[GA4 전환 후 2개월, 장점과 단점은 무엇일까?]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1761333.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메타가 유료 구독을 고민하는 이유는? (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1753213-%EB%A9%94%ED%83%80%EA%B0%80_%EC%9C%A0%EB%A3%8C_%EA%B5%AC%EB%8F%85%EC%9D%84_%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0%EB%8A%94/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 07 Aug 2023 02:30:14 GMT</pubDate>
             <content:encoded><![CDATA[네이버가 추가하는 두 가지 '블록']]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1690256.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이런 것까지 마케터가 해야 하나요? (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1688091-%EC%9D%B4%EB%9F%B0_%EA%B2%83%EA%B9%8C%EC%A7%80_%EB%A7%88%EC%BC%80%ED%84%B0%EA%B0%80_%ED%95%B4%EC%95%BC_%ED%95%98%EB%82%98%EC%9A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1688091-%EC%9D%B4%EB%9F%B0_%EA%B2%83%EA%B9%8C%EC%A7%80_%EB%A7%88%EC%BC%80%ED%84%B0%EA%B0%80_%ED%95%B4%EC%95%BC_%ED%95%98%EB%82%98%EC%9A%94/</guid>
-            <pubDate>Thu, 03 Aug 2023 03:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[이런 것까지 마케터가 해야 하나요?]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1688091.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
