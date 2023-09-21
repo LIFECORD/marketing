@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 01:00:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 01:53:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[절기마다 이벤트 하기 힘드네 😵]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1772956-%EC%A0%88%EA%B8%B0%EB%A7%88%EB%8B%A4_%EC%9D%B4%EB%B2%A4%ED%8A%B8_%ED%95%98%EA%B8%B0_%ED%9E%98%EB%93%9C%EB%84%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1772956-%EC%A0%88%EA%B8%B0%EB%A7%88%EB%8B%A4_%EC%9D%B4%EB%B2%A4%ED%8A%B8_%ED%95%98%EA%B8%B0_%ED%9E%98%EB%93%9C%EB%84%A4/</guid>
+            <pubDate>Thu, 21 Sep 2023 01:53:01 GMT</pubDate>
+            <content:encoded><![CDATA[절기마다 이벤트 하기 힘드네 😵]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1772956.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡이 카카오의 1%밖에 안 되는 이 시장은? 🤔]]></title>
             <link>https://qletter.i-boss.co.kr/view/1765542-%EC%BF%A0%ED%8C%A1%EC%9D%B4_%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9D%98_1%EB%B0%96%EC%97%90_%EC%95%88_%EB%90%98%EB%8A%94_%EC%9D%B4_%EC%8B%9C%EC%9E%A5%EC%9D%80/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 14 Aug 2023 07:14:24 GMT</pubDate>
             <content:encoded><![CDATA[40대 남성들이 픽한 쇼핑몰은?]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1705856.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기업이 마케팅에 예술을 곁들이는 이유 🎨]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1702448-%EA%B8%B0%EC%97%85%EC%9D%B4_%EB%A7%88%EC%BC%80%ED%8C%85%EC%97%90_%EC%98%88%EC%88%A0%EC%9D%84_%EA%B3%81%EB%93%A4%EC%9D%B4%EB%8A%94_%EC%9D%B4%EC%9C%A0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1702448-%EA%B8%B0%EC%97%85%EC%9D%B4_%EB%A7%88%EC%BC%80%ED%8C%85%EC%97%90_%EC%98%88%EC%88%A0%EC%9D%84_%EA%B3%81%EB%93%A4%EC%9D%B4%EB%8A%94_%EC%9D%B4%EC%9C%A0/</guid>
-            <pubDate>Thu, 10 Aug 2023 02:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[기업이 마케팅에 예술을 곁들이는 이유 🎨]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1702448.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
