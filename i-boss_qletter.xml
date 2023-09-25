@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 01:01:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 01:55:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아마존과 틱톡, 필요함과 불편함 사이]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1777482-%EC%95%84%EB%A7%88%EC%A1%B4%EA%B3%BC_%ED%8B%B1%ED%86%A1_%ED%95%84%EC%9A%94%ED%95%A8%EA%B3%BC_%EB%B6%88%ED%8E%B8%ED%95%A8_%EC%82%AC%EC%9D%B4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1777482-%EC%95%84%EB%A7%88%EC%A1%B4%EA%B3%BC_%ED%8B%B1%ED%86%A1_%ED%95%84%EC%9A%94%ED%95%A8%EA%B3%BC_%EB%B6%88%ED%8E%B8%ED%95%A8_%EC%82%AC%EC%9D%B4/</guid>
+            <pubDate>Mon, 25 Sep 2023 01:55:52 GMT</pubDate>
+            <content:encoded><![CDATA[아마존과 틱톡, 필요함과 불편함 사이]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1777482.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[절기마다 이벤트 하기 힘드네 😵]]></title>
             <link>https://qletter.i-boss.co.kr/view/1772956-%EC%A0%88%EA%B8%B0%EB%A7%88%EB%8B%A4_%EC%9D%B4%EB%B2%A4%ED%8A%B8_%ED%95%98%EA%B8%B0_%ED%9E%98%EB%93%9C%EB%84%A4/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 17 Aug 2023 01:45:01 GMT</pubDate>
             <content:encoded><![CDATA['안 사면 손해'가 통하는 이유]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1712223.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[40대 남성들이 픽한 쇼핑몰은?]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1705856-40%EB%8C%80_%EB%82%A8%EC%84%B1%EB%93%A4%EC%9D%B4_%ED%94%BD%ED%95%9C_%EC%87%BC%ED%95%91%EB%AA%B0%EC%9D%80/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1705856-40%EB%8C%80_%EB%82%A8%EC%84%B1%EB%93%A4%EC%9D%B4_%ED%94%BD%ED%95%9C_%EC%87%BC%ED%95%91%EB%AA%B0%EC%9D%80/</guid>
-            <pubDate>Mon, 14 Aug 2023 07:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[40대 남성들이 픽한 쇼핑몰은?]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1705856.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
