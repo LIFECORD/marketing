@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 01:01:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 01:57:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일잘러 마케터가 팔로우하는 SNS 계정]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1791242-%EC%9D%BC%EC%9E%98%EB%9F%AC_%EB%A7%88%EC%BC%80%ED%84%B0%EA%B0%80_%ED%8C%94%EB%A1%9C%EC%9A%B0%ED%95%98%EB%8A%94_SNS_%EA%B3%84%EC%A0%95/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1791242-%EC%9D%BC%EC%9E%98%EB%9F%AC_%EB%A7%88%EC%BC%80%ED%84%B0%EA%B0%80_%ED%8C%94%EB%A1%9C%EC%9A%B0%ED%95%98%EB%8A%94_SNS_%EA%B3%84%EC%A0%95/</guid>
+            <pubDate>Thu, 05 Oct 2023 01:57:56 GMT</pubDate>
+            <content:encoded><![CDATA[일잘러 마케터가 팔로우하는 SNS 계정]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1791242.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아마존과 틱톡, 필요함과 불편함 사이]]></title>
             <link>https://qletter.i-boss.co.kr/view/1777482-%EC%95%84%EB%A7%88%EC%A1%B4%EA%B3%BC_%ED%8B%B1%ED%86%A1_%ED%95%84%EC%9A%94%ED%95%A8%EA%B3%BC_%EB%B6%88%ED%8E%B8%ED%95%A8_%EC%82%AC%EC%9D%B4/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 21 Aug 2023 01:50:14 GMT</pubDate>
             <content:encoded><![CDATA[네이버 카카오 바짝 추격하는 유튜브]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1716585.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['안 사면 손해'가 통하는 이유]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1712223-%EC%95%88_%EC%82%AC%EB%A9%B4_%EC%86%90%ED%95%B4%EA%B0%80_%ED%86%B5%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1712223-%EC%95%88_%EC%82%AC%EB%A9%B4_%EC%86%90%ED%95%B4%EA%B0%80_%ED%86%B5%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0/</guid>
-            <pubDate>Thu, 17 Aug 2023 01:45:01 GMT</pubDate>
-            <content:encoded><![CDATA['안 사면 손해'가 통하는 이유]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1712223.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
