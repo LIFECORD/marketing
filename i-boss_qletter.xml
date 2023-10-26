@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 01:00:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 01:53:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인플루언서 활용 방법 모음, 이런 방법도 있었네! 🫢]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1827358-%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C_%ED%99%9C%EC%9A%A9_%EB%B0%A9%EB%B2%95_%EB%AA%A8%EC%9D%8C_%EC%9D%B4%EB%9F%B0_%EB%B0%A9%EB%B2%95%EB%8F%84_%EC%9E%88%EC%97%88%EB%84%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1827358-%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C_%ED%99%9C%EC%9A%A9_%EB%B0%A9%EB%B2%95_%EB%AA%A8%EC%9D%8C_%EC%9D%B4%EB%9F%B0_%EB%B0%A9%EB%B2%95%EB%8F%84_%EC%9E%88%EC%97%88%EB%84%A4/</guid>
+            <pubDate>Thu, 26 Oct 2023 01:53:11 GMT</pubDate>
+            <content:encoded><![CDATA[인플루언서 활용 방법 모음, 이런 방법도 있었네! 🫢]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1827358.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[요즘 많이 보이는 유명인 사칭 광고의 정체]]></title>
             <link>https://qletter.i-boss.co.kr/view/1819407-%EC%9A%94%EC%A6%98_%EB%A7%8E%EC%9D%B4_%EB%B3%B4%EC%9D%B4%EB%8A%94_%EC%9C%A0%EB%AA%85%EC%9D%B8_%EC%82%AC%EC%B9%AD_%EA%B4%91%EA%B3%A0%EC%9D%98_%EC%A0%95%EC%B2%B4/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 07 Sep 2023 01:52:19 GMT</pubDate>
             <content:encoded><![CDATA[한계가 느껴지는 요즘, 이직이 답일까요? 😓]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1749029.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[케이블 TV에서 홈쇼핑 못 볼 수도 있다고?]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1742700-%EC%BC%80%EC%9D%B4%EB%B8%94_TV%EC%97%90%EC%84%9C_%ED%99%88%EC%87%BC%ED%95%91_%EB%AA%BB_%EB%B3%BC_%EC%88%98%EB%8F%84_%EC%9E%88%EB%8B%A4%EA%B3%A0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1742700-%EC%BC%80%EC%9D%B4%EB%B8%94_TV%EC%97%90%EC%84%9C_%ED%99%88%EC%87%BC%ED%95%91_%EB%AA%BB_%EB%B3%BC_%EC%88%98%EB%8F%84_%EC%9E%88%EB%8B%A4%EA%B3%A0/</guid>
-            <pubDate>Mon, 04 Sep 2023 01:54:14 GMT</pubDate>
-            <content:encoded><![CDATA[케이블 TV에서 홈쇼핑 못 볼 수도 있다고?]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1742700.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
