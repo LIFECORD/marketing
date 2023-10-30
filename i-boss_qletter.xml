@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 01:01:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 02:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I am 다이소, 이제는 beauty 해요]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1831978-I_am_%EB%8B%A4%EC%9D%B4%EC%86%8C_%EC%9D%B4%EC%A0%9C%EB%8A%94_beauty_%ED%95%B4%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1831978-I_am_%EB%8B%A4%EC%9D%B4%EC%86%8C_%EC%9D%B4%EC%A0%9C%EB%8A%94_beauty_%ED%95%B4%EC%9A%94/</guid>
+            <pubDate>Mon, 30 Oct 2023 02:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[I am 다이소, 이제는 beauty 해요]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1831978.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인플루언서 활용 방법 모음, 이런 방법도 있었네! 🫢]]></title>
             <link>https://qletter.i-boss.co.kr/view/1827358-%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C_%ED%99%9C%EC%9A%A9_%EB%B0%A9%EB%B2%95_%EB%AA%A8%EC%9D%8C_%EC%9D%B4%EB%9F%B0_%EB%B0%A9%EB%B2%95%EB%8F%84_%EC%9E%88%EC%97%88%EB%84%A4/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 11 Sep 2023 01:54:12 GMT</pubDate>
             <content:encoded><![CDATA[메타가 유료 구독을 고민하는 이유는?]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1753213.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한계가 느껴지는 요즘, 이직이 답일까요? 😓]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1749029-%ED%95%9C%EA%B3%84%EA%B0%80_%EB%8A%90%EA%BB%B4%EC%A7%80%EB%8A%94_%EC%9A%94%EC%A6%98_%EC%9D%B4%EC%A7%81%EC%9D%B4_%EB%8B%B5%EC%9D%BC%EA%B9%8C%EC%9A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1749029-%ED%95%9C%EA%B3%84%EA%B0%80_%EB%8A%90%EA%BB%B4%EC%A7%80%EB%8A%94_%EC%9A%94%EC%A6%98_%EC%9D%B4%EC%A7%81%EC%9D%B4_%EB%8B%B5%EC%9D%BC%EA%B9%8C%EC%9A%94/</guid>
-            <pubDate>Thu, 07 Sep 2023 01:52:19 GMT</pubDate>
-            <content:encoded><![CDATA[한계가 느껴지는 요즘, 이직이 답일까요? 😓]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1749029.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
