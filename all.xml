@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 01:04:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 02:27:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 벌써 3년, 큐레터가 준비한 첫 번째 선물이에요 💖 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1865767-%EC%9A%B0%EB%A6%AC_%EB%B2%8C%EC%8D%A8_3%EB%85%84_%ED%81%90%EB%A0%88%ED%84%B0%EA%B0%80_%EC%A4%80%EB%B9%84%ED%95%9C_%EC%B2%AB_%EB%B2%88%EC%A7%B8_%EC%84%A0%EB%AC%BC%EC%9D%B4%EC%97%90%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1865767-%EC%9A%B0%EB%A6%AC_%EB%B2%8C%EC%8D%A8_3%EB%85%84_%ED%81%90%EB%A0%88%ED%84%B0%EA%B0%80_%EC%A4%80%EB%B9%84%ED%95%9C_%EC%B2%AB_%EB%B2%88%EC%A7%B8_%EC%84%A0%EB%AC%BC%EC%9D%B4%EC%97%90%EC%9A%94/</guid>
+            <pubDate>Thu, 16 Nov 2023 02:27:11 GMT</pubDate>
+            <content:encoded><![CDATA[우리 벌써 3년, 큐레터가 준비한 첫 번째 선물이에요 💖]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1865767.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[웃는 네이버와 불안한 카카오톡과 그걸 지켜보는 당근 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1857568-%EC%9B%83%EB%8A%94_%EB%84%A4%EC%9D%B4%EB%B2%84%EC%99%80_%EB%B6%88%EC%95%88%ED%95%9C_%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1%EA%B3%BC_%EA%B7%B8%EA%B1%B8_%EC%A7%80%EC%BC%9C%EB%B3%B4%EB%8A%94_%EB%8B%B9%EA%B7%BC/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 05 Oct 2023 01:57:56 GMT</pubDate>
             <content:encoded><![CDATA[일잘러 마케터가 팔로우하는 SNS 계정]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1791242.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아마존과 틱톡, 필요함과 불편함 사이 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1777482-%EC%95%84%EB%A7%88%EC%A1%B4%EA%B3%BC_%ED%8B%B1%ED%86%A1_%ED%95%84%EC%9A%94%ED%95%A8%EA%B3%BC_%EB%B6%88%ED%8E%B8%ED%95%A8_%EC%82%AC%EC%9D%B4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1777482-%EC%95%84%EB%A7%88%EC%A1%B4%EA%B3%BC_%ED%8B%B1%ED%86%A1_%ED%95%84%EC%9A%94%ED%95%A8%EA%B3%BC_%EB%B6%88%ED%8E%B8%ED%95%A8_%EC%82%AC%EC%9D%B4/</guid>
-            <pubDate>Mon, 25 Sep 2023 01:55:52 GMT</pubDate>
-            <content:encoded><![CDATA[아마존과 틱톡, 필요함과 불편함 사이]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1777482.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
