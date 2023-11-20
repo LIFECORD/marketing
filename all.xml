@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 01:05:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 02:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글 애드센스의 CPC 중단, 어떤 영향이 있을까? (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1870015-%EA%B5%AC%EA%B8%80_%EC%95%A0%EB%93%9C%EC%84%BC%EC%8A%A4%EC%9D%98_CPC_%EC%A4%91%EB%8B%A8_%EC%96%B4%EB%96%A4_%EC%98%81%ED%96%A5%EC%9D%B4_%EC%9E%88%EC%9D%84%EA%B9%8C/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1870015-%EA%B5%AC%EA%B8%80_%EC%95%A0%EB%93%9C%EC%84%BC%EC%8A%A4%EC%9D%98_CPC_%EC%A4%91%EB%8B%A8_%EC%96%B4%EB%96%A4_%EC%98%81%ED%96%A5%EC%9D%B4_%EC%9E%88%EC%9D%84%EA%B9%8C/</guid>
+            <pubDate>Mon, 20 Nov 2023 02:28:08 GMT</pubDate>
+            <content:encoded><![CDATA[구글 애드센스의 CPC 중단, 어떤 영향이 있을까?]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1870015.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[우리 벌써 3년, 큐레터가 준비한 첫 번째 선물이에요 💖 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1865767-%EC%9A%B0%EB%A6%AC_%EB%B2%8C%EC%8D%A8_3%EB%85%84_%ED%81%90%EB%A0%88%ED%84%B0%EA%B0%80_%EC%A4%80%EB%B9%84%ED%95%9C_%EC%B2%AB_%EB%B2%88%EC%A7%B8_%EC%84%A0%EB%AC%BC%EC%9D%B4%EC%97%90%EC%9A%94/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 12 Oct 2023 01:52:20 GMT</pubDate>
             <content:encoded><![CDATA[큐GPT, 2024년 트렌드 키워드 알려줘!]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1802297.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[일잘러 마케터가 팔로우하는 SNS 계정 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1791242-%EC%9D%BC%EC%9E%98%EB%9F%AC_%EB%A7%88%EC%BC%80%ED%84%B0%EA%B0%80_%ED%8C%94%EB%A1%9C%EC%9A%B0%ED%95%98%EB%8A%94_SNS_%EA%B3%84%EC%A0%95/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1791242-%EC%9D%BC%EC%9E%98%EB%9F%AC_%EB%A7%88%EC%BC%80%ED%84%B0%EA%B0%80_%ED%8C%94%EB%A1%9C%EC%9A%B0%ED%95%98%EB%8A%94_SNS_%EA%B3%84%EC%A0%95/</guid>
-            <pubDate>Thu, 05 Oct 2023 01:57:56 GMT</pubDate>
-            <content:encoded><![CDATA[일잘러 마케터가 팔로우하는 SNS 계정]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1791242.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
