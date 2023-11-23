@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 01:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 02:26:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연차가 쌓이면 실력도 늘 줄 알았어요 😥]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1878195-%EC%97%B0%EC%B0%A8%EA%B0%80_%EC%8C%93%EC%9D%B4%EB%A9%B4_%EC%8B%A4%EB%A0%A5%EB%8F%84_%EB%8A%98_%EC%A4%84_%EC%95%8C%EC%95%98%EC%96%B4%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1878195-%EC%97%B0%EC%B0%A8%EA%B0%80_%EC%8C%93%EC%9D%B4%EB%A9%B4_%EC%8B%A4%EB%A0%A5%EB%8F%84_%EB%8A%98_%EC%A4%84_%EC%95%8C%EC%95%98%EC%96%B4%EC%9A%94/</guid>
+            <pubDate>Thu, 23 Nov 2023 02:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[연차가 쌓이면 실력도 늘 줄 알았어요 😥]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1878195.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구글 애드센스의 CPC 중단, 어떤 영향이 있을까?]]></title>
             <link>https://qletter.i-boss.co.kr/view/1870015-%EA%B5%AC%EA%B8%80_%EC%95%A0%EB%93%9C%EC%84%BC%EC%8A%A4%EC%9D%98_CPC_%EC%A4%91%EB%8B%A8_%EC%96%B4%EB%96%A4_%EC%98%81%ED%96%A5%EC%9D%B4_%EC%9E%88%EC%9D%84%EA%B9%8C/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 17 Oct 2023 02:22:14 GMT</pubDate>
             <content:encoded><![CDATA[두 달만에 100만 MAU넘은 초저가 이커머스 테무]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1806809.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[큐GPT, 2024년 트렌드 키워드 알려줘!]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1802297-%ED%81%90GPT_2024%EB%85%84_%ED%8A%B8%EB%A0%8C%EB%93%9C_%ED%82%A4%EC%9B%8C%EB%93%9C_%EC%95%8C%EB%A0%A4%EC%A4%98/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1802297-%ED%81%90GPT_2024%EB%85%84_%ED%8A%B8%EB%A0%8C%EB%93%9C_%ED%82%A4%EC%9B%8C%EB%93%9C_%EC%95%8C%EB%A0%A4%EC%A4%98/</guid>
-            <pubDate>Thu, 12 Oct 2023 01:52:20 GMT</pubDate>
-            <content:encoded><![CDATA[큐GPT, 2024년 트렌드 키워드 알려줘!]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1802297.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
