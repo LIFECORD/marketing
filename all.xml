@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 01:04:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 02:28:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 업체가 제품을 다운그레이드한 이유 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1895103-%EC%9D%B4_%EC%97%85%EC%B2%B4%EA%B0%80_%EC%A0%9C%ED%92%88%EC%9D%84_%EB%8B%A4%EC%9A%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%ED%95%9C_%EC%9D%B4%EC%9C%A0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1895103-%EC%9D%B4_%EC%97%85%EC%B2%B4%EA%B0%80_%EC%A0%9C%ED%92%88%EC%9D%84_%EB%8B%A4%EC%9A%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%ED%95%9C_%EC%9D%B4%EC%9C%A0/</guid>
+            <pubDate>Mon, 04 Dec 2023 02:28:21 GMT</pubDate>
+            <content:encoded><![CDATA[이 업체가 제품을 다운그레이드한 이유]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1895103.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[수학에 정석이 있다면 광고에는 불변의 법칙이 있다 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1890450-%EC%88%98%ED%95%99%EC%97%90_%EC%A0%95%EC%84%9D%EC%9D%B4_%EC%9E%88%EB%8B%A4%EB%A9%B4_%EA%B4%91%EA%B3%A0%EC%97%90%EB%8A%94_%EB%B6%88%EB%B3%80%EC%9D%98_%EB%B2%95%EC%B9%99%EC%9D%B4_%EC%9E%88%EB%8B%A4/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 22 Nov 2023 20:15:08 GMT</pubDate>
             <content:encoded><![CDATA[인플루언서 활용 방법 모음, 이런 방법도 있었네! 🫢]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1827358.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 많이 보이는 유명인 사칭 광고의 정체 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1819407-%EC%9A%94%EC%A6%98_%EB%A7%8E%EC%9D%B4_%EB%B3%B4%EC%9D%B4%EB%8A%94_%EC%9C%A0%EB%AA%85%EC%9D%B8_%EC%82%AC%EC%B9%AD_%EA%B4%91%EA%B3%A0%EC%9D%98_%EC%A0%95%EC%B2%B4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1819407-%EC%9A%94%EC%A6%98_%EB%A7%8E%EC%9D%B4_%EB%B3%B4%EC%9D%B4%EB%8A%94_%EC%9C%A0%EB%AA%85%EC%9D%B8_%EC%82%AC%EC%B9%AD_%EA%B4%91%EA%B3%A0%EC%9D%98_%EC%A0%95%EC%B2%B4/</guid>
-            <pubDate>Wed, 22 Nov 2023 20:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 많이 보이는 유명인 사칭 광고의 정체]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1819407.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
