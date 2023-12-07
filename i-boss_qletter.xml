@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 04:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 05:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마케터 101명의 2024년 마케팅 계획 미리보기]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1903108-%EB%A7%88%EC%BC%80%ED%84%B0_101%EB%AA%85%EC%9D%98_2024%EB%85%84_%EB%A7%88%EC%BC%80%ED%8C%85_%EA%B3%84%ED%9A%8D_%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1903108-%EB%A7%88%EC%BC%80%ED%84%B0_101%EB%AA%85%EC%9D%98_2024%EB%85%84_%EB%A7%88%EC%BC%80%ED%8C%85_%EA%B3%84%ED%9A%8D_%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0/</guid>
+            <pubDate>Thu, 07 Dec 2023 05:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[마케터 101명의 2024년 마케팅 계획 미리보기]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1903108.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이 업체가 제품을 다운그레이드한 이유]]></title>
             <link>https://qletter.i-boss.co.kr/view/1895103-%EC%9D%B4_%EC%97%85%EC%B2%B4%EA%B0%80_%EC%A0%9C%ED%92%88%EC%9D%84_%EB%8B%A4%EC%9A%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%ED%95%9C_%EC%9D%B4%EC%9C%A0/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 30 Oct 2023 02:22:46 GMT</pubDate>
             <content:encoded><![CDATA[I am 다이소, 이제는 beauty 해요]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1831978.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인플루언서 활용 방법 모음, 이런 방법도 있었네! 🫢]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1827358-%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C_%ED%99%9C%EC%9A%A9_%EB%B0%A9%EB%B2%95_%EB%AA%A8%EC%9D%8C_%EC%9D%B4%EB%9F%B0_%EB%B0%A9%EB%B2%95%EB%8F%84_%EC%9E%88%EC%97%88%EB%84%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1827358-%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C_%ED%99%9C%EC%9A%A9_%EB%B0%A9%EB%B2%95_%EB%AA%A8%EC%9D%8C_%EC%9D%B4%EB%9F%B0_%EB%B0%A9%EB%B2%95%EB%8F%84_%EC%9E%88%EC%97%88%EB%84%A4/</guid>
-            <pubDate>Thu, 26 Oct 2023 01:53:11 GMT</pubDate>
-            <content:encoded><![CDATA[인플루언서 활용 방법 모음, 이런 방법도 있었네! 🫢]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1827358.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
