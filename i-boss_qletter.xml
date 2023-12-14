@@ -4,17 +4,9 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 02:26:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 03:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2023년을 빛낸 광고 톺아보기]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1915427-2023%EB%85%84%EC%9D%84_%EB%B9%9B%EB%82%B8_%EA%B4%91%EA%B3%A0_%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1915427-2023%EB%85%84%EC%9D%84_%EB%B9%9B%EB%82%B8_%EA%B4%91%EA%B3%A0_%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0/</guid>
-            <pubDate>Thu, 14 Dec 2023 02:26:56 GMT</pubDate>
-            <content:encoded><![CDATA[2023년을 빛낸 광고 톺아보기]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1915427.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[2023년을 빛낸 광고 톺아보기]]></title>
             <link>https://qletter.i-boss.co.kr/view/1915432-2023%EB%85%84%EC%9D%84_%EB%B9%9B%EB%82%B8_%EA%B4%91%EA%B3%A0_%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0/</link>
@@ -102,6 +94,14 @@
             <pubDate>Thu, 09 Nov 2023 02:22:46 GMT</pubDate>
             <content:encoded><![CDATA[리뷰 솔루션 사용자들의 실제 경험담 💬]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1853097.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[메타 타깃광고, 이제 못한다고?]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1845139-%EB%A9%94%ED%83%80_%ED%83%80%EA%B9%83%EA%B4%91%EA%B3%A0_%EC%9D%B4%EC%A0%9C_%EB%AA%BB%ED%95%9C%EB%8B%A4%EA%B3%A0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1845139-%EB%A9%94%ED%83%80_%ED%83%80%EA%B9%83%EA%B4%91%EA%B3%A0_%EC%9D%B4%EC%A0%9C_%EB%AA%BB%ED%95%9C%EB%8B%A4%EA%B3%A0/</guid>
+            <pubDate>Thu, 14 Dec 2023 03:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[메타 타깃광고, 이제 못한다고?]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1845139.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
