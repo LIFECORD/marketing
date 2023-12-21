@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 01:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 02:26:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디자인이 어려운 마케터를 위한 즐겨찾기 모음.zip (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1927675-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%B4_%EC%96%B4%EB%A0%A4%EC%9A%B4_%EB%A7%88%EC%BC%80%ED%84%B0%EB%A5%BC_%EC%9C%84%ED%95%9C_%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0_%EB%AA%A8%EC%9D%8Czip/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1927675-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%B4_%EC%96%B4%EB%A0%A4%EC%9A%B4_%EB%A7%88%EC%BC%80%ED%84%B0%EB%A5%BC_%EC%9C%84%ED%95%9C_%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0_%EB%AA%A8%EC%9D%8Czip/</guid>
+            <pubDate>Thu, 21 Dec 2023 02:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[디자인이 어려운 마케터를 위한 즐겨찾기 모음.zip]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1927675.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[진격의 알리, 위기의 K-커머스 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1919637-%EC%A7%84%EA%B2%A9%EC%9D%98_%EC%95%8C%EB%A6%AC_%EC%9C%84%EA%B8%B0%EC%9D%98_K%EC%BB%A4%EB%A8%B8%EC%8A%A4/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 22 Nov 2023 20:15:08 GMT</pubDate>
             <content:encoded><![CDATA[웃는 네이버와 불안한 카카오톡과 그걸 지켜보는 당근]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1857568.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[리뷰 솔루션 사용자들의 실제 경험담 💬 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1853097-%EB%A6%AC%EB%B7%B0_%EC%86%94%EB%A3%A8%EC%85%98_%EC%82%AC%EC%9A%A9%EC%9E%90%EB%93%A4%EC%9D%98_%EC%8B%A4%EC%A0%9C_%EA%B2%BD%ED%97%98%EB%8B%B4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1853097-%EB%A6%AC%EB%B7%B0_%EC%86%94%EB%A3%A8%EC%85%98_%EC%82%AC%EC%9A%A9%EC%9E%90%EB%93%A4%EC%9D%98_%EC%8B%A4%EC%A0%9C_%EA%B2%BD%ED%97%98%EB%8B%B4/</guid>
-            <pubDate>Wed, 22 Nov 2023 20:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[리뷰 솔루션 사용자들의 실제 경험담 💬]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1853097.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
