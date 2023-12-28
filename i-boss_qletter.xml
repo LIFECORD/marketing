@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 01:01:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 02:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[00년생 신입 직원이 심상치 않다..😐]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1937687-00%EB%85%84%EC%83%9D_%EC%8B%A0%EC%9E%85_%EC%A7%81%EC%9B%90%EC%9D%B4_%EC%8B%AC%EC%83%81%EC%B9%98_%EC%95%8A%EB%8B%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1937687-00%EB%85%84%EC%83%9D_%EC%8B%A0%EC%9E%85_%EC%A7%81%EC%9B%90%EC%9D%B4_%EC%8B%AC%EC%83%81%EC%B9%98_%EC%95%8A%EB%8B%A4/</guid>
+            <pubDate>Thu, 28 Dec 2023 02:23:41 GMT</pubDate>
+            <content:encoded><![CDATA[00년생 신입 직원이 심상치 않다..😐]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1937687.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[디자인이 어려운 마케터를 위한 즐겨찾기 모음.zip]]></title>
             <link>https://qletter.i-boss.co.kr/view/1927675-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%B4_%EC%96%B4%EB%A0%A4%EC%9A%B4_%EB%A7%88%EC%BC%80%ED%84%B0%EB%A5%BC_%EC%9C%84%ED%95%9C_%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0_%EB%AA%A8%EC%9D%8Czip/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 16 Nov 2023 02:27:11 GMT</pubDate>
             <content:encoded><![CDATA[우리 벌써 3년, 큐레터가 준비한 첫 번째 선물이에요 💖]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1865767.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[웃는 네이버와 불안한 카카오톡과 그걸 지켜보는 당근]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1857568-%EC%9B%83%EB%8A%94_%EB%84%A4%EC%9D%B4%EB%B2%84%EC%99%80_%EB%B6%88%EC%95%88%ED%95%9C_%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1%EA%B3%BC_%EA%B7%B8%EA%B1%B8_%EC%A7%80%EC%BC%9C%EB%B3%B4%EB%8A%94_%EB%8B%B9%EA%B7%BC/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1857568-%EC%9B%83%EB%8A%94_%EB%84%A4%EC%9D%B4%EB%B2%84%EC%99%80_%EB%B6%88%EC%95%88%ED%95%9C_%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1%EA%B3%BC_%EA%B7%B8%EA%B1%B8_%EC%A7%80%EC%BC%9C%EB%B3%B4%EB%8A%94_%EB%8B%B9%EA%B7%BC/</guid>
-            <pubDate>Mon, 13 Nov 2023 02:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[웃는 네이버와 불안한 카카오톡과 그걸 지켜보는 당근]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1857568.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
