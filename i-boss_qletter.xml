@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 01:05:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 02:28:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주가 99% 하락한 명품 플랫폼을 인수한 쿠팡의 속내]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1948210-%EC%A3%BC%EA%B0%80_99_%ED%95%98%EB%9D%BD%ED%95%9C_%EB%AA%85%ED%92%88_%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%84_%EC%9D%B8%EC%88%98%ED%95%9C_%EC%BF%A0%ED%8C%A1%EC%9D%98_%EC%86%8D%EB%82%B4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1948210-%EC%A3%BC%EA%B0%80_99_%ED%95%98%EB%9D%BD%ED%95%9C_%EB%AA%85%ED%92%88_%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%84_%EC%9D%B8%EC%88%98%ED%95%9C_%EC%BF%A0%ED%8C%A1%EC%9D%98_%EC%86%8D%EB%82%B4/</guid>
+            <pubDate>Mon, 08 Jan 2024 02:28:50 GMT</pubDate>
+            <content:encoded><![CDATA[주가 99% 하락한 명품 플랫폼을 인수한 쿠팡의 속내]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1948210.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[경력 5년 차, 신생 스타트업 입사 한다 vs 안 한다]]></title>
             <link>https://qletter.i-boss.co.kr/view/1943976-%EA%B2%BD%EB%A0%A5_5%EB%85%84_%EC%B0%A8_%EC%8B%A0%EC%83%9D_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85_%EC%9E%85%EC%82%AC_%ED%95%9C%EB%8B%A4_vs_%EC%95%88_%ED%95%9C%EB%8B%A4/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 23 Nov 2023 02:26:06 GMT</pubDate>
             <content:encoded><![CDATA[연차가 쌓이면 실력도 늘 줄 알았어요 😥]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1878195.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 애드센스의 CPC 중단, 어떤 영향이 있을까?]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1870015-%EA%B5%AC%EA%B8%80_%EC%95%A0%EB%93%9C%EC%84%BC%EC%8A%A4%EC%9D%98_CPC_%EC%A4%91%EB%8B%A8_%EC%96%B4%EB%96%A4_%EC%98%81%ED%96%A5%EC%9D%B4_%EC%9E%88%EC%9D%84%EA%B9%8C/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1870015-%EA%B5%AC%EA%B8%80_%EC%95%A0%EB%93%9C%EC%84%BC%EC%8A%A4%EC%9D%98_CPC_%EC%A4%91%EB%8B%A8_%EC%96%B4%EB%96%A4_%EC%98%81%ED%96%A5%EC%9D%B4_%EC%9E%88%EC%9D%84%EA%B9%8C/</guid>
-            <pubDate>Mon, 20 Nov 2023 02:28:08 GMT</pubDate>
-            <content:encoded><![CDATA[구글 애드센스의 CPC 중단, 어떤 영향이 있을까?]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1870015.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
