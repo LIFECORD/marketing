@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 01:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 02:32:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[13OO만 반려인 시대, 이들을 공략할 펫코노미 전략은?]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1960332-13OO%EB%A7%8C_%EB%B0%98%EB%A0%A4%EC%9D%B8_%EC%8B%9C%EB%8C%80_%EC%9D%B4%EB%93%A4%EC%9D%84_%EA%B3%B5%EB%9E%B5%ED%95%A0_%ED%8E%AB%EC%BD%94%EB%85%B8%EB%AF%B8_%EC%A0%84%EB%9E%B5%EC%9D%80/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1960332-13OO%EB%A7%8C_%EB%B0%98%EB%A0%A4%EC%9D%B8_%EC%8B%9C%EB%8C%80_%EC%9D%B4%EB%93%A4%EC%9D%84_%EA%B3%B5%EB%9E%B5%ED%95%A0_%ED%8E%AB%EC%BD%94%EB%85%B8%EB%AF%B8_%EC%A0%84%EB%9E%B5%EC%9D%80/</guid>
+            <pubDate>Mon, 15 Jan 2024 02:32:49 GMT</pubDate>
+            <content:encoded><![CDATA[13OO만 반려인 시대, 이들을 공략할 펫코노미 전략은?]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1960332.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스님에게 빗 팔기? '이것' 활용하면 가능! 😎]]></title>
             <link>https://qletter.i-boss.co.kr/view/1957915-%EC%8A%A4%EB%8B%98%EC%97%90%EA%B2%8C_%EB%B9%97_%ED%8C%94%EA%B8%B0_%EC%9D%B4%EA%B2%83_%ED%99%9C%EC%9A%A9%ED%95%98%EB%A9%B4_%EA%B0%80%EB%8A%A5/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 30 Nov 2023 02:27:37 GMT</pubDate>
             <content:encoded><![CDATA[수학에 정석이 있다면 광고에는 불변의 법칙이 있다]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1890450.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2024년 광고 시장은 어떤 모습을 보일까요? 🙄]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1879414-2024%EB%85%84_%EA%B4%91%EA%B3%A0_%EC%8B%9C%EC%9E%A5%EC%9D%80_%EC%96%B4%EB%96%A4_%EB%AA%A8%EC%8A%B5%EC%9D%84_%EB%B3%B4%EC%9D%BC%EA%B9%8C%EC%9A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1879414-2024%EB%85%84_%EA%B4%91%EA%B3%A0_%EC%8B%9C%EC%9E%A5%EC%9D%80_%EC%96%B4%EB%96%A4_%EB%AA%A8%EC%8A%B5%EC%9D%84_%EB%B3%B4%EC%9D%BC%EA%B9%8C%EC%9A%94/</guid>
-            <pubDate>Mon, 27 Nov 2023 02:27:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 광고 시장은 어떤 모습을 보일까요? 🙄]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1879414.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
