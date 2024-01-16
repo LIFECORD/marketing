@@ -4,17 +4,9 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 23:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 01:05:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[13OO만 반려인 시대, 이들을 공략할 펫코노미 전략은?]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1966429-13OO%EB%A7%8C_%EB%B0%98%EB%A0%A4%EC%9D%B8_%EC%8B%9C%EB%8C%80_%EC%9D%B4%EB%93%A4%EC%9D%84_%EA%B3%B5%EB%9E%B5%ED%95%A0_%ED%8E%AB%EC%BD%94%EB%85%B8%EB%AF%B8_%EC%A0%84%EB%9E%B5%EC%9D%80/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1966429-13OO%EB%A7%8C_%EB%B0%98%EB%A0%A4%EC%9D%B8_%EC%8B%9C%EB%8C%80_%EC%9D%B4%EB%93%A4%EC%9D%84_%EA%B3%B5%EB%9E%B5%ED%95%A0_%ED%8E%AB%EC%BD%94%EB%85%B8%EB%AF%B8_%EC%A0%84%EB%9E%B5%EC%9D%80/</guid>
-            <pubDate>Mon, 15 Jan 2024 09:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[13OO만 반려인 시대, 이들을 공략할 펫코노미 전략은?]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1966429.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[13OO만 반려인 시대, 이들을 공략할 펫코노미 전략은?]]></title>
             <link>https://qletter.i-boss.co.kr/view/1960332-13OO%EB%A7%8C_%EB%B0%98%EB%A0%A4%EC%9D%B8_%EC%8B%9C%EB%8C%80_%EC%9D%B4%EB%93%A4%EC%9D%84_%EA%B3%B5%EB%9E%B5%ED%95%A0_%ED%8E%AB%EC%BD%94%EB%85%B8%EB%AF%B8_%EC%A0%84%EB%9E%B5%EC%9D%80/</link>
@@ -102,6 +94,14 @@
             <pubDate>Mon, 04 Dec 2023 02:28:21 GMT</pubDate>
             <content:encoded><![CDATA[이 업체가 제품을 다운그레이드한 이유]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1895103.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[수학에 정석이 있다면 광고에는 불변의 법칙이 있다]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1890450-%EC%88%98%ED%95%99%EC%97%90_%EC%A0%95%EC%84%9D%EC%9D%B4_%EC%9E%88%EB%8B%A4%EB%A9%B4_%EA%B4%91%EA%B3%A0%EC%97%90%EB%8A%94_%EB%B6%88%EB%B3%80%EC%9D%98_%EB%B2%95%EC%B9%99%EC%9D%B4_%EC%9E%88%EB%8B%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1890450-%EC%88%98%ED%95%99%EC%97%90_%EC%A0%95%EC%84%9D%EC%9D%B4_%EC%9E%88%EB%8B%A4%EB%A9%B4_%EA%B4%91%EA%B3%A0%EC%97%90%EB%8A%94_%EB%B6%88%EB%B3%80%EC%9D%98_%EB%B2%95%EC%B9%99%EC%9D%B4_%EC%9E%88%EB%8B%A4/</guid>
+            <pubDate>Tue, 16 Jan 2024 01:05:10 GMT</pubDate>
+            <content:encoded><![CDATA[수학에 정석이 있다면 광고에는 불변의 법칙이 있다]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1890450.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
