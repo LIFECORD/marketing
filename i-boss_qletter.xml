@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 01:08:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 02:32:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마케터 비상! 🚨 AI로부터 밥그릇 지키기]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1971279-%EB%A7%88%EC%BC%80%ED%84%B0_%EB%B9%84%EC%83%81_AI%EB%A1%9C%EB%B6%80%ED%84%B0_%EB%B0%A5%EA%B7%B8%EB%A6%87_%EC%A7%80%ED%82%A4%EA%B8%B0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1971279-%EB%A7%88%EC%BC%80%ED%84%B0_%EB%B9%84%EC%83%81_AI%EB%A1%9C%EB%B6%80%ED%84%B0_%EB%B0%A5%EA%B7%B8%EB%A6%87_%EC%A7%80%ED%82%A4%EA%B8%B0/</guid>
+            <pubDate>Mon, 22 Jan 2024 02:32:46 GMT</pubDate>
+            <content:encoded><![CDATA[마케터 비상! 🚨 AI로부터 밥그릇 지키기]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1971279.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[다른 마케터들의 커리어 고민과 계획이 궁금하다면? 👀]]></title>
             <link>https://qletter.i-boss.co.kr/view/1969844-%EB%8B%A4%EB%A5%B8_%EB%A7%88%EC%BC%80%ED%84%B0%EB%93%A4%EC%9D%98_%EC%BB%A4%EB%A6%AC%EC%96%B4_%EA%B3%A0%EB%AF%BC%EA%B3%BC_%EA%B3%84%ED%9A%8D%EC%9D%B4_%EA%B6%81%EA%B8%88%ED%95%98%EB%8B%A4%EB%A9%B4/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 07 Dec 2023 05:14:37 GMT</pubDate>
             <content:encoded><![CDATA[마케터 101명의 2024년 마케팅 계획 미리보기]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1903108.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이 업체가 제품을 다운그레이드한 이유]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1895103-%EC%9D%B4_%EC%97%85%EC%B2%B4%EA%B0%80_%EC%A0%9C%ED%92%88%EC%9D%84_%EB%8B%A4%EC%9A%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%ED%95%9C_%EC%9D%B4%EC%9C%A0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1895103-%EC%9D%B4_%EC%97%85%EC%B2%B4%EA%B0%80_%EC%A0%9C%ED%92%88%EC%9D%84_%EB%8B%A4%EC%9A%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%ED%95%9C_%EC%9D%B4%EC%9C%A0/</guid>
-            <pubDate>Mon, 04 Dec 2023 02:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[이 업체가 제품을 다운그레이드한 이유]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1895103.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
