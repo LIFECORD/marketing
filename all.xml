@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 01:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 02:24:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잘 나가는 마케터는 여기서 인사이트를 얻는다는 거죠? 👀 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/1990454-%EC%9E%98_%EB%82%98%EA%B0%80%EB%8A%94_%EB%A7%88%EC%BC%80%ED%84%B0%EB%8A%94_%EC%97%AC%EA%B8%B0%EC%84%9C_%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%A5%BC_%EC%96%BB%EB%8A%94%EB%8B%A4%EB%8A%94_%EA%B1%B0%EC%A3%A0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/1990454-%EC%9E%98_%EB%82%98%EA%B0%80%EB%8A%94_%EB%A7%88%EC%BC%80%ED%84%B0%EB%8A%94_%EC%97%AC%EA%B8%B0%EC%84%9C_%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%A5%BC_%EC%96%BB%EB%8A%94%EB%8B%A4%EB%8A%94_%EA%B1%B0%EC%A3%A0/</guid>
+            <pubDate>Thu, 01 Feb 2024 02:23:59 GMT</pubDate>
+            <content:encoded><![CDATA[잘 나가는 마케터는 여기서 인사이트를 얻는다는 거죠? 👀]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1990454.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[치열한 빅3 패션 플랫폼 경쟁, 각각의 생존 전략은? (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/1985566-%EC%B9%98%EC%97%B4%ED%95%9C_%EB%B9%853_%ED%8C%A8%EC%85%98_%ED%94%8C%EB%9E%AB%ED%8F%BC_%EA%B2%BD%EC%9F%81_%EA%B0%81%EA%B0%81%EC%9D%98_%EC%83%9D%EC%A1%B4_%EC%A0%84%EB%9E%B5%EC%9D%80/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 18 Dec 2023 02:28:23 GMT</pubDate>
             <content:encoded><![CDATA[진격의 알리, 위기의 K-커머스]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1919637.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2023년을 빛낸 광고 톺아보기 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1915427-2023%EB%85%84%EC%9D%84_%EB%B9%9B%EB%82%B8_%EA%B4%91%EA%B3%A0_%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1915427-2023%EB%85%84%EC%9D%84_%EB%B9%9B%EB%82%B8_%EA%B4%91%EA%B3%A0_%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0/</guid>
-            <pubDate>Thu, 14 Dec 2023 06:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[2023년을 빛낸 광고 톺아보기]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1915427.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
