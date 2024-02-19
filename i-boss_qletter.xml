@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 01:01:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 02:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저출산으로 타깃이 바뀐 업종은? 👶]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2015409-%EC%A0%80%EC%B6%9C%EC%82%B0%EC%9C%BC%EB%A1%9C_%ED%83%80%EA%B9%83%EC%9D%B4_%EB%B0%94%EB%80%90_%EC%97%85%EC%A2%85%EC%9D%80/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2015409-%EC%A0%80%EC%B6%9C%EC%82%B0%EC%9C%BC%EB%A1%9C_%ED%83%80%EA%B9%83%EC%9D%B4_%EB%B0%94%EB%80%90_%EC%97%85%EC%A2%85%EC%9D%80/</guid>
+            <pubDate>Mon, 19 Feb 2024 02:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[저출산으로 타깃이 바뀐 업종은? 👶]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2015409.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[그 회사는 왜 "우리는 2등에 불과하다"고 했을까?]]></title>
             <link>https://qletter.i-boss.co.kr/view/2014256-%EA%B7%B8_%ED%9A%8C%EC%82%AC%EB%8A%94_%EC%99%9C_%EC%9A%B0%EB%A6%AC%EB%8A%94_2%EB%93%B1%EC%97%90_%EB%B6%88%EA%B3%BC%ED%95%98%EB%8B%A4%EA%B3%A0_%ED%96%88%EC%9D%84%EA%B9%8C/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 08 Jan 2024 02:28:50 GMT</pubDate>
             <content:encoded><![CDATA[주가 99% 하락한 명품 플랫폼을 인수한 쿠팡의 속내]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1948210.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[경력 5년 차, 신생 스타트업 입사 한다 vs 안 한다]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1943976-%EA%B2%BD%EB%A0%A5_5%EB%85%84_%EC%B0%A8_%EC%8B%A0%EC%83%9D_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85_%EC%9E%85%EC%82%AC_%ED%95%9C%EB%8B%A4_vs_%EC%95%88_%ED%95%9C%EB%8B%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1943976-%EA%B2%BD%EB%A0%A5_5%EB%85%84_%EC%B0%A8_%EC%8B%A0%EC%83%9D_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85_%EC%9E%85%EC%82%AC_%ED%95%9C%EB%8B%A4_vs_%EC%95%88_%ED%95%9C%EB%8B%A4/</guid>
-            <pubDate>Fri, 05 Jan 2024 01:04:23 GMT</pubDate>
-            <content:encoded><![CDATA[경력 5년 차, 신생 스타트업 입사 한다 vs 안 한다]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1943976.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
