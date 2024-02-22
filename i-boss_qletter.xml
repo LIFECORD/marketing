@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 01:00:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 01:51:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마케터는 OOOO할 때 AI를 활용한다.]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2023937-%EB%A7%88%EC%BC%80%ED%84%B0%EB%8A%94_OOOO%ED%95%A0_%EB%95%8C_AI%EB%A5%BC_%ED%99%9C%EC%9A%A9%ED%95%9C%EB%8B%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2023937-%EB%A7%88%EC%BC%80%ED%84%B0%EB%8A%94_OOOO%ED%95%A0_%EB%95%8C_AI%EB%A5%BC_%ED%99%9C%EC%9A%A9%ED%95%9C%EB%8B%A4/</guid>
+            <pubDate>Thu, 22 Feb 2024 01:51:38 GMT</pubDate>
+            <content:encoded><![CDATA[마케터는 OOOO할 때 AI를 활용한다.]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2023937.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[저출산으로 타깃이 바뀐 업종은? 👶]]></title>
             <link>https://qletter.i-boss.co.kr/view/2015409-%EC%A0%80%EC%B6%9C%EC%82%B0%EC%9C%BC%EB%A1%9C_%ED%83%80%EA%B9%83%EC%9D%B4_%EB%B0%94%EB%80%90_%EC%97%85%EC%A2%85%EC%9D%80/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 11 Jan 2024 02:28:56 GMT</pubDate>
             <content:encoded><![CDATA[스님에게 빗 팔기? '이것' 활용하면 가능! 😎]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1957915.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[주가 99% 하락한 명품 플랫폼을 인수한 쿠팡의 속내]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1948210-%EC%A3%BC%EA%B0%80_99_%ED%95%98%EB%9D%BD%ED%95%9C_%EB%AA%85%ED%92%88_%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%84_%EC%9D%B8%EC%88%98%ED%95%9C_%EC%BF%A0%ED%8C%A1%EC%9D%98_%EC%86%8D%EB%82%B4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1948210-%EC%A3%BC%EA%B0%80_99_%ED%95%98%EB%9D%BD%ED%95%9C_%EB%AA%85%ED%92%88_%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%84_%EC%9D%B8%EC%88%98%ED%95%9C_%EC%BF%A0%ED%8C%A1%EC%9D%98_%EC%86%8D%EB%82%B4/</guid>
-            <pubDate>Mon, 08 Jan 2024 02:28:50 GMT</pubDate>
-            <content:encoded><![CDATA[주가 99% 하락한 명품 플랫폼을 인수한 쿠팡의 속내]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1948210.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
