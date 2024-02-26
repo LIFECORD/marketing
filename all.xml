@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 01:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 02:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잘 나가는 이커머스 사이, 눈에 띄는 오프매장이 있다? (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2026783-%EC%9E%98_%EB%82%98%EA%B0%80%EB%8A%94_%EC%9D%B4%EC%BB%A4%EB%A8%B8%EC%8A%A4_%EC%82%AC%EC%9D%B4_%EB%88%88%EC%97%90_%EB%9D%84%EB%8A%94_%EC%98%A4%ED%94%84%EB%A7%A4%EC%9E%A5%EC%9D%B4_%EC%9E%88%EB%8B%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2026783-%EC%9E%98_%EB%82%98%EA%B0%80%EB%8A%94_%EC%9D%B4%EC%BB%A4%EB%A8%B8%EC%8A%A4_%EC%82%AC%EC%9D%B4_%EB%88%88%EC%97%90_%EB%9D%84%EB%8A%94_%EC%98%A4%ED%94%84%EB%A7%A4%EC%9E%A5%EC%9D%B4_%EC%9E%88%EB%8B%A4/</guid>
+            <pubDate>Mon, 26 Feb 2024 02:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[잘 나가는 이커머스 사이, 눈에 띄는 오프매장이 있다?]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2026783.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마케터는 OOOO할 때 AI를 활용한다. (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/2023937-%EB%A7%88%EC%BC%80%ED%84%B0%EB%8A%94_OOOO%ED%95%A0_%EB%95%8C_AI%EB%A5%BC_%ED%99%9C%EC%9A%A9%ED%95%9C%EB%8B%A4/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 15 Jan 2024 02:32:49 GMT</pubDate>
             <content:encoded><![CDATA[13OO만 반려인 시대, 이들을 공략할 펫코노미 전략은?]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1960332.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스님에게 빗 팔기? '이것' 활용하면 가능! 😎 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1957915-%EC%8A%A4%EB%8B%98%EC%97%90%EA%B2%8C_%EB%B9%97_%ED%8C%94%EA%B8%B0_%EC%9D%B4%EA%B2%83_%ED%99%9C%EC%9A%A9%ED%95%98%EB%A9%B4_%EA%B0%80%EB%8A%A5/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1957915-%EC%8A%A4%EB%8B%98%EC%97%90%EA%B2%8C_%EB%B9%97_%ED%8C%94%EA%B8%B0_%EC%9D%B4%EA%B2%83_%ED%99%9C%EC%9A%A9%ED%95%98%EB%A9%B4_%EA%B0%80%EB%8A%A5/</guid>
-            <pubDate>Thu, 11 Jan 2024 02:28:56 GMT</pubDate>
-            <content:encoded><![CDATA[스님에게 빗 팔기? '이것' 활용하면 가능! 😎]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1957915.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
