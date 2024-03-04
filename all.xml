@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 01:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 02:59:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국인 1/3이 사용한다는 신규 광고 매체는 어디? 😮 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2043420-%ED%95%9C%EA%B5%AD%EC%9D%B8_13%EC%9D%B4_%EC%82%AC%EC%9A%A9%ED%95%9C%EB%8B%A4%EB%8A%94_%EC%8B%A0%EA%B7%9C_%EA%B4%91%EA%B3%A0_%EB%A7%A4%EC%B2%B4%EB%8A%94_%EC%96%B4%EB%94%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2043420-%ED%95%9C%EA%B5%AD%EC%9D%B8_13%EC%9D%B4_%EC%82%AC%EC%9A%A9%ED%95%9C%EB%8B%A4%EB%8A%94_%EC%8B%A0%EA%B7%9C_%EA%B4%91%EA%B3%A0_%EB%A7%A4%EC%B2%B4%EB%8A%94_%EC%96%B4%EB%94%94/</guid>
+            <pubDate>Mon, 04 Mar 2024 02:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[한국인 1/3이 사용한다는 신규 광고 매체는 어디? 😮]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2043420.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[사수도 없는데 광고비도 없는 신입 마케터입니다 😭 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/2037433-%EC%82%AC%EC%88%98%EB%8F%84_%EC%97%86%EB%8A%94%EB%8D%B0_%EA%B4%91%EA%B3%A0%EB%B9%84%EB%8F%84_%EC%97%86%EB%8A%94_%EC%8B%A0%EC%9E%85_%EB%A7%88%EC%BC%80%ED%84%B0%EC%9E%85%EB%8B%88%EB%8B%A4/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 22 Jan 2024 02:32:46 GMT</pubDate>
             <content:encoded><![CDATA[마케터 비상! 🚨 AI로부터 밥그릇 지키기]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1971279.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[다른 마케터들의 커리어 고민과 계획이 궁금하다면? 👀 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1969844-%EB%8B%A4%EB%A5%B8_%EB%A7%88%EC%BC%80%ED%84%B0%EB%93%A4%EC%9D%98_%EC%BB%A4%EB%A6%AC%EC%96%B4_%EA%B3%A0%EB%AF%BC%EA%B3%BC_%EA%B3%84%ED%9A%8D%EC%9D%B4_%EA%B6%81%EA%B8%88%ED%95%98%EB%8B%A4%EB%A9%B4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1969844-%EB%8B%A4%EB%A5%B8_%EB%A7%88%EC%BC%80%ED%84%B0%EB%93%A4%EC%9D%98_%EC%BB%A4%EB%A6%AC%EC%96%B4_%EA%B3%A0%EB%AF%BC%EA%B3%BC_%EA%B3%84%ED%9A%8D%EC%9D%B4_%EA%B6%81%EA%B8%88%ED%95%98%EB%8B%A4%EB%A9%B4/</guid>
-            <pubDate>Thu, 18 Jan 2024 02:28:50 GMT</pubDate>
-            <content:encoded><![CDATA[다른 마케터들의 커리어 고민과 계획이 궁금하다면? 👀]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1969844.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
