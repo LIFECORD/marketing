@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 00:50:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 01:30:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사수가 필요한 1-3년 차 마케터에게 필요한 책 10권]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2051278-%EC%82%AC%EC%88%98%EA%B0%80_%ED%95%84%EC%9A%94%ED%95%9C_13%EB%85%84_%EC%B0%A8_%EB%A7%88%EC%BC%80%ED%84%B0%EC%97%90%EA%B2%8C_%ED%95%84%EC%9A%94%ED%95%9C_%EC%B1%85_10%EA%B6%8C/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2051278-%EC%82%AC%EC%88%98%EA%B0%80_%ED%95%84%EC%9A%94%ED%95%9C_13%EB%85%84_%EC%B0%A8_%EB%A7%88%EC%BC%80%ED%84%B0%EC%97%90%EA%B2%8C_%ED%95%84%EC%9A%94%ED%95%9C_%EC%B1%85_10%EA%B6%8C/</guid>
+            <pubDate>Thu, 07 Mar 2024 01:30:32 GMT</pubDate>
+            <content:encoded><![CDATA[사수가 필요한 1-3년 차 마케터에게 필요한 책 10권]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2051278.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국인 1/3이 사용한다는 신규 광고 매체는 어디? 😮]]></title>
             <link>https://qletter.i-boss.co.kr/view/2043420-%ED%95%9C%EA%B5%AD%EC%9D%B8_13%EC%9D%B4_%EC%82%AC%EC%9A%A9%ED%95%9C%EB%8B%A4%EB%8A%94_%EC%8B%A0%EA%B7%9C_%EA%B4%91%EA%B3%A0_%EB%A7%A4%EC%B2%B4%EB%8A%94_%EC%96%B4%EB%94%94/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 25 Jan 2024 02:30:49 GMT</pubDate>
             <content:encoded><![CDATA[픽사가 알려주는 스토리텔링 비법 공개! 🙌]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1977917.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마케터 비상! 🚨 AI로부터 밥그릇 지키기]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1971279-%EB%A7%88%EC%BC%80%ED%84%B0_%EB%B9%84%EC%83%81_AI%EB%A1%9C%EB%B6%80%ED%84%B0_%EB%B0%A5%EA%B7%B8%EB%A6%87_%EC%A7%80%ED%82%A4%EA%B8%B0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1971279-%EB%A7%88%EC%BC%80%ED%84%B0_%EB%B9%84%EC%83%81_AI%EB%A1%9C%EB%B6%80%ED%84%B0_%EB%B0%A5%EA%B7%B8%EB%A6%87_%EC%A7%80%ED%82%A4%EA%B8%B0/</guid>
-            <pubDate>Mon, 22 Jan 2024 02:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[마케터 비상! 🚨 AI로부터 밥그릇 지키기]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1971279.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
