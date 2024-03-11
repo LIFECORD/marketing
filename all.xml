@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 01:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 02:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[점점 다양해지는 검색 채널, 2024 검색 트렌드 살펴보기 🔎 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2051626-%EC%A0%90%EC%A0%90_%EB%8B%A4%EC%96%91%ED%95%B4%EC%A7%80%EB%8A%94_%EA%B2%80%EC%83%89_%EC%B1%84%EB%84%90_2024_%EA%B2%80%EC%83%89_%ED%8A%B8%EB%A0%8C%EB%93%9C_%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2051626-%EC%A0%90%EC%A0%90_%EB%8B%A4%EC%96%91%ED%95%B4%EC%A7%80%EB%8A%94_%EA%B2%80%EC%83%89_%EC%B1%84%EB%84%90_2024_%EA%B2%80%EC%83%89_%ED%8A%B8%EB%A0%8C%EB%93%9C_%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/</guid>
+            <pubDate>Mon, 11 Mar 2024 02:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[점점 다양해지는 검색 채널, 2024 검색 트렌드 살펴보기 🔎]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2051626.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[사수가 필요한 1-3년 차 마케터에게 필요한 책 10권 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/2051278-%EC%82%AC%EC%88%98%EA%B0%80_%ED%95%84%EC%9A%94%ED%95%9C_13%EB%85%84_%EC%B0%A8_%EB%A7%88%EC%BC%80%ED%84%B0%EC%97%90%EA%B2%8C_%ED%95%84%EC%9A%94%ED%95%9C_%EC%B1%85_10%EA%B6%8C/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 29 Jan 2024 02:19:54 GMT</pubDate>
             <content:encoded><![CDATA[치열한 빅3 패션 플랫폼 경쟁, 각각의 생존 전략은?]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1985566.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[픽사가 알려주는 스토리텔링 비법 공개! 🙌 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1977917-%ED%94%BD%EC%82%AC%EA%B0%80_%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94_%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%85%94%EB%A7%81_%EB%B9%84%EB%B2%95_%EA%B3%B5%EA%B0%9C/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1977917-%ED%94%BD%EC%82%AC%EA%B0%80_%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94_%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%85%94%EB%A7%81_%EB%B9%84%EB%B2%95_%EA%B3%B5%EA%B0%9C/</guid>
-            <pubDate>Thu, 25 Jan 2024 02:30:49 GMT</pubDate>
-            <content:encoded><![CDATA[픽사가 알려주는 스토리텔링 비법 공개! 🙌]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1977917.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
