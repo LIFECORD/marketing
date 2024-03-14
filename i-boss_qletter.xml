@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 01:00:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 01:52:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요새는 이것 때문에 물건 산다면서요 🤔]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2060235-%EC%9A%94%EC%83%88%EB%8A%94_%EC%9D%B4%EA%B2%83_%EB%95%8C%EB%AC%B8%EC%97%90_%EB%AC%BC%EA%B1%B4_%EC%82%B0%EB%8B%A4%EB%A9%B4%EC%84%9C%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2060235-%EC%9A%94%EC%83%88%EB%8A%94_%EC%9D%B4%EA%B2%83_%EB%95%8C%EB%AC%B8%EC%97%90_%EB%AC%BC%EA%B1%B4_%EC%82%B0%EB%8B%A4%EB%A9%B4%EC%84%9C%EC%9A%94/</guid>
+            <pubDate>Thu, 14 Mar 2024 01:52:41 GMT</pubDate>
+            <content:encoded><![CDATA[요새는 이것 때문에 물건 산다면서요 🤔]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2060235.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[점점 다양해지는 검색 채널, 2024 검색 트렌드 살펴보기 🔎]]></title>
             <link>https://qletter.i-boss.co.kr/view/2051626-%EC%A0%90%EC%A0%90_%EB%8B%A4%EC%96%91%ED%95%B4%EC%A7%80%EB%8A%94_%EA%B2%80%EC%83%89_%EC%B1%84%EB%84%90_2024_%EA%B2%80%EC%83%89_%ED%8A%B8%EB%A0%8C%EB%93%9C_%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 01 Feb 2024 02:23:59 GMT</pubDate>
             <content:encoded><![CDATA[잘 나가는 마케터는 여기서 인사이트를 얻는다는 거죠? 👀]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1990454.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[치열한 빅3 패션 플랫폼 경쟁, 각각의 생존 전략은?]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1985566-%EC%B9%98%EC%97%B4%ED%95%9C_%EB%B9%853_%ED%8C%A8%EC%85%98_%ED%94%8C%EB%9E%AB%ED%8F%BC_%EA%B2%BD%EC%9F%81_%EA%B0%81%EA%B0%81%EC%9D%98_%EC%83%9D%EC%A1%B4_%EC%A0%84%EB%9E%B5%EC%9D%80/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1985566-%EC%B9%98%EC%97%B4%ED%95%9C_%EB%B9%853_%ED%8C%A8%EC%85%98_%ED%94%8C%EB%9E%AB%ED%8F%BC_%EA%B2%BD%EC%9F%81_%EA%B0%81%EA%B0%81%EC%9D%98_%EC%83%9D%EC%A1%B4_%EC%A0%84%EB%9E%B5%EC%9D%80/</guid>
-            <pubDate>Mon, 29 Jan 2024 02:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[치열한 빅3 패션 플랫폼 경쟁, 각각의 생존 전략은?]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1985566.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
