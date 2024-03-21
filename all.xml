@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 01:02:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 02:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연차별, 직무별, 기업별 마케터의 평균 연봉은 얼마일까? (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2074851-%EC%97%B0%EC%B0%A8%EB%B3%84_%EC%A7%81%EB%AC%B4%EB%B3%84_%EA%B8%B0%EC%97%85%EB%B3%84_%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98_%ED%8F%89%EA%B7%A0_%EC%97%B0%EB%B4%89%EC%9D%80_%EC%96%BC%EB%A7%88%EC%9D%BC%EA%B9%8C/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2074851-%EC%97%B0%EC%B0%A8%EB%B3%84_%EC%A7%81%EB%AC%B4%EB%B3%84_%EA%B8%B0%EC%97%85%EB%B3%84_%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98_%ED%8F%89%EA%B7%A0_%EC%97%B0%EB%B4%89%EC%9D%80_%EC%96%BC%EB%A7%88%EC%9D%BC%EA%B9%8C/</guid>
+            <pubDate>Thu, 21 Mar 2024 02:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[연차별, 직무별, 기업별 마케터의 평균 연봉은 얼마일까?]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2074851.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인기 아이돌보다 클릭률이 높았던 모델은 누구? (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/2064480-%EC%9D%B8%EA%B8%B0_%EC%95%84%EC%9D%B4%EB%8F%8C%EB%B3%B4%EB%8B%A4_%ED%81%B4%EB%A6%AD%EB%A5%A0%EC%9D%B4_%EB%86%92%EC%95%98%EB%8D%98_%EB%AA%A8%EB%8D%B8%EC%9D%80_%EB%88%84%EA%B5%AC/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 08 Feb 2024 01:51:44 GMT</pubDate>
             <content:encoded><![CDATA[에이전시 이직 vs 인하우스 스테이, 도와주세요! 😣]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2000624.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버가 공개한 새로운 광고 상품 미리보기 👀 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/1994113-%EB%84%A4%EC%9D%B4%EB%B2%84%EA%B0%80_%EA%B3%B5%EA%B0%9C%ED%95%9C_%EC%83%88%EB%A1%9C%EC%9A%B4_%EA%B4%91%EA%B3%A0_%EC%83%81%ED%92%88_%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/1994113-%EB%84%A4%EC%9D%B4%EB%B2%84%EA%B0%80_%EA%B3%B5%EA%B0%9C%ED%95%9C_%EC%83%88%EB%A1%9C%EC%9A%B4_%EA%B4%91%EA%B3%A0_%EC%83%81%ED%92%88_%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0/</guid>
-            <pubDate>Mon, 05 Feb 2024 02:26:22 GMT</pubDate>
-            <content:encoded><![CDATA[네이버가 공개한 새로운 광고 상품 미리보기 👀]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_1994113.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
