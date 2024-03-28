@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 01:01:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 02:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검은 화면과 GPT만 있으면 어느 카피든 만들 수 있어]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2088523-%EA%B2%80%EC%9D%80_%ED%99%94%EB%A9%B4%EA%B3%BC_GPT%EB%A7%8C_%EC%9E%88%EC%9C%BC%EB%A9%B4_%EC%96%B4%EB%8A%90_%EC%B9%B4%ED%94%BC%EB%93%A0_%EB%A7%8C%EB%93%A4_%EC%88%98_%EC%9E%88%EC%96%B4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2088523-%EA%B2%80%EC%9D%80_%ED%99%94%EB%A9%B4%EA%B3%BC_GPT%EB%A7%8C_%EC%9E%88%EC%9C%BC%EB%A9%B4_%EC%96%B4%EB%8A%90_%EC%B9%B4%ED%94%BC%EB%93%A0_%EB%A7%8C%EB%93%A4_%EC%88%98_%EC%9E%88%EC%96%B4/</guid>
+            <pubDate>Thu, 28 Mar 2024 02:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[검은 화면과 GPT만 있으면 어느 카피든 만들 수 있어]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2088523.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[쿠키 없는 시대, 마케터는 어떻게 해야 되나요? 🍪]]></title>
             <link>https://qletter.i-boss.co.kr/view/2077529-%EC%BF%A0%ED%82%A4_%EC%97%86%EB%8A%94_%EC%8B%9C%EB%8C%80_%EB%A7%88%EC%BC%80%ED%84%B0%EB%8A%94_%EC%96%B4%EB%96%BB%EA%B2%8C_%ED%95%B4%EC%95%BC_%EB%90%98%EB%82%98%EC%9A%94/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 19 Feb 2024 02:21:51 GMT</pubDate>
             <content:encoded><![CDATA[저출산으로 타깃이 바뀐 업종은? 👶]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2015409.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[그 회사는 왜 "우리는 2등에 불과하다"고 했을까?]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2014256-%EA%B7%B8_%ED%9A%8C%EC%82%AC%EB%8A%94_%EC%99%9C_%EC%9A%B0%EB%A6%AC%EB%8A%94_2%EB%93%B1%EC%97%90_%EB%B6%88%EA%B3%BC%ED%95%98%EB%8B%A4%EA%B3%A0_%ED%96%88%EC%9D%84%EA%B9%8C/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2014256-%EA%B7%B8_%ED%9A%8C%EC%82%AC%EB%8A%94_%EC%99%9C_%EC%9A%B0%EB%A6%AC%EB%8A%94_2%EB%93%B1%EC%97%90_%EB%B6%88%EA%B3%BC%ED%95%98%EB%8B%A4%EA%B3%A0_%ED%96%88%EC%9D%84%EA%B9%8C/</guid>
-            <pubDate>Thu, 15 Feb 2024 01:53:32 GMT</pubDate>
-            <content:encoded><![CDATA[그 회사는 왜 "우리는 2등에 불과하다"고 했을까?]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2014256.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
