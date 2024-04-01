@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 01:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 02:28:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1.5조 투자한다는 알리 vs 3조로 진입장벽 쌓는 쿠팡]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2093640-15%EC%A1%B0_%ED%88%AC%EC%9E%90%ED%95%9C%EB%8B%A4%EB%8A%94_%EC%95%8C%EB%A6%AC_vs_3%EC%A1%B0%EB%A1%9C_%EC%A7%84%EC%9E%85%EC%9E%A5%EB%B2%BD_%EC%8C%93%EB%8A%94_%EC%BF%A0%ED%8C%A1/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2093640-15%EC%A1%B0_%ED%88%AC%EC%9E%90%ED%95%9C%EB%8B%A4%EB%8A%94_%EC%95%8C%EB%A6%AC_vs_3%EC%A1%B0%EB%A1%9C_%EC%A7%84%EC%9E%85%EC%9E%A5%EB%B2%BD_%EC%8C%93%EB%8A%94_%EC%BF%A0%ED%8C%A1/</guid>
+            <pubDate>Mon, 01 Apr 2024 02:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[1.5조 투자한다는 알리 vs 3조로 진입장벽 쌓는 쿠팡]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2093640.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[검은 화면과 GPT만 있으면 어느 카피든 만들 수 있어]]></title>
             <link>https://qletter.i-boss.co.kr/view/2088523-%EA%B2%80%EC%9D%80_%ED%99%94%EB%A9%B4%EA%B3%BC_GPT%EB%A7%8C_%EC%9E%88%EC%9C%BC%EB%A9%B4_%EC%96%B4%EB%8A%90_%EC%B9%B4%ED%94%BC%EB%93%A0_%EB%A7%8C%EB%93%A4_%EC%88%98_%EC%9E%88%EC%96%B4/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 22 Feb 2024 01:51:38 GMT</pubDate>
             <content:encoded><![CDATA[마케터는 OOOO할 때 AI를 활용한다.]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2023937.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[저출산으로 타깃이 바뀐 업종은? 👶]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2015409-%EC%A0%80%EC%B6%9C%EC%82%B0%EC%9C%BC%EB%A1%9C_%ED%83%80%EA%B9%83%EC%9D%B4_%EB%B0%94%EB%80%90_%EC%97%85%EC%A2%85%EC%9D%80/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2015409-%EC%A0%80%EC%B6%9C%EC%82%B0%EC%9C%BC%EB%A1%9C_%ED%83%80%EA%B9%83%EC%9D%B4_%EB%B0%94%EB%80%90_%EC%97%85%EC%A2%85%EC%9D%80/</guid>
-            <pubDate>Mon, 19 Feb 2024 02:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[저출산으로 타깃이 바뀐 업종은? 👶]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2015409.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
