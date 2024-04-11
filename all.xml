@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 01:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 02:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서른여섯에 갑자기 마케팅이 하고 싶어졌다 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2115190-%EC%84%9C%EB%A5%B8%EC%97%AC%EC%84%AF%EC%97%90_%EA%B0%91%EC%9E%90%EA%B8%B0_%EB%A7%88%EC%BC%80%ED%8C%85%EC%9D%B4_%ED%95%98%EA%B3%A0_%EC%8B%B6%EC%96%B4%EC%A1%8C%EB%8B%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2115190-%EC%84%9C%EB%A5%B8%EC%97%AC%EC%84%AF%EC%97%90_%EA%B0%91%EC%9E%90%EA%B8%B0_%EB%A7%88%EC%BC%80%ED%8C%85%EC%9D%B4_%ED%95%98%EA%B3%A0_%EC%8B%B6%EC%96%B4%EC%A1%8C%EB%8B%A4/</guid>
+            <pubDate>Thu, 11 Apr 2024 02:23:44 GMT</pubDate>
+            <content:encoded><![CDATA[서른여섯에 갑자기 마케팅이 하고 싶어졌다]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2115190.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[매출이 오르는 광고주와 대행사의 협업 팁🍯 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/2109930-%EB%A7%A4%EC%B6%9C%EC%9D%B4_%EC%98%A4%EB%A5%B4%EB%8A%94_%EA%B4%91%EA%B3%A0%EC%A3%BC%EC%99%80_%EB%8C%80%ED%96%89%EC%82%AC%EC%9D%98_%ED%98%91%EC%97%85_%ED%8C%81/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 04 Mar 2024 02:59:03 GMT</pubDate>
             <content:encoded><![CDATA[한국인 1/3이 사용한다는 신규 광고 매체는 어디? 😮]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2043420.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사수도 없는데 광고비도 없는 신입 마케터입니다 😭 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2037433-%EC%82%AC%EC%88%98%EB%8F%84_%EC%97%86%EB%8A%94%EB%8D%B0_%EA%B4%91%EA%B3%A0%EB%B9%84%EB%8F%84_%EC%97%86%EB%8A%94_%EC%8B%A0%EC%9E%85_%EB%A7%88%EC%BC%80%ED%84%B0%EC%9E%85%EB%8B%88%EB%8B%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2037433-%EC%82%AC%EC%88%98%EB%8F%84_%EC%97%86%EB%8A%94%EB%8D%B0_%EA%B4%91%EA%B3%A0%EB%B9%84%EB%8F%84_%EC%97%86%EB%8A%94_%EC%8B%A0%EC%9E%85_%EB%A7%88%EC%BC%80%ED%84%B0%EC%9E%85%EB%8B%88%EB%8B%A4/</guid>
-            <pubDate>Tue, 09 Apr 2024 01:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[사수도 없는데 광고비도 없는 신입 마케터입니다 😭]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2037433.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
