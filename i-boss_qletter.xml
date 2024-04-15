@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 00:02:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 03:49:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시장을 뒤집어 놓은 2위의 반란 (aka. 홍진호)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2115459-%EC%8B%9C%EC%9E%A5%EC%9D%84_%EB%92%A4%EC%A7%91%EC%96%B4_%EB%86%93%EC%9D%80_2%EC%9C%84%EC%9D%98_%EB%B0%98%EB%9E%80_aka_%ED%99%8D%EC%A7%84%ED%98%B8/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2115459-%EC%8B%9C%EC%9E%A5%EC%9D%84_%EB%92%A4%EC%A7%91%EC%96%B4_%EB%86%93%EC%9D%80_2%EC%9C%84%EC%9D%98_%EB%B0%98%EB%9E%80_aka_%ED%99%8D%EC%A7%84%ED%98%B8/</guid>
+            <pubDate>Mon, 15 Apr 2024 03:49:06 GMT</pubDate>
+            <content:encoded><![CDATA[시장을 뒤집어 놓은 2위의 반란 (aka. 홍진호)]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2115459.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[서른여섯에 갑자기 마케팅이 하고 싶어졌다]]></title>
             <link>https://qletter.i-boss.co.kr/view/2115190-%EC%84%9C%EB%A5%B8%EC%97%AC%EC%84%AF%EC%97%90_%EA%B0%91%EC%9E%90%EA%B8%B0_%EB%A7%88%EC%BC%80%ED%8C%85%EC%9D%B4_%ED%95%98%EA%B3%A0_%EC%8B%B6%EC%96%B4%EC%A1%8C%EB%8B%A4/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 07 Apr 2024 17:13:11 GMT</pubDate>
             <content:encoded><![CDATA[사수가 필요한 1-3년 차 마케터에게 필요한 책 10권]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2051278.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국인 1/3이 사용한다는 신규 광고 매체는 어디? 😮]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2043420-%ED%95%9C%EA%B5%AD%EC%9D%B8_13%EC%9D%B4_%EC%82%AC%EC%9A%A9%ED%95%9C%EB%8B%A4%EB%8A%94_%EC%8B%A0%EA%B7%9C_%EA%B4%91%EA%B3%A0_%EB%A7%A4%EC%B2%B4%EB%8A%94_%EC%96%B4%EB%94%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2043420-%ED%95%9C%EA%B5%AD%EC%9D%B8_13%EC%9D%B4_%EC%82%AC%EC%9A%A9%ED%95%9C%EB%8B%A4%EB%8A%94_%EC%8B%A0%EA%B7%9C_%EA%B4%91%EA%B3%A0_%EB%A7%A4%EC%B2%B4%EB%8A%94_%EC%96%B4%EB%94%94/</guid>
-            <pubDate>Sun, 07 Apr 2024 17:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[한국인 1/3이 사용한다는 신규 광고 매체는 어디? 😮]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2043420.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
