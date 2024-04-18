@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Apr 2024 01:02:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 02:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 글을 대표님께 공유해 주세요 🥺]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2126336-%EC%9D%B4_%EA%B8%80%EC%9D%84_%EB%8C%80%ED%91%9C%EB%8B%98%EA%BB%98_%EA%B3%B5%EC%9C%A0%ED%95%B4_%EC%A3%BC%EC%84%B8%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2126336-%EC%9D%B4_%EA%B8%80%EC%9D%84_%EB%8C%80%ED%91%9C%EB%8B%98%EA%BB%98_%EA%B3%B5%EC%9C%A0%ED%95%B4_%EC%A3%BC%EC%84%B8%EC%9A%94/</guid>
+            <pubDate>Thu, 18 Apr 2024 02:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[이 글을 대표님께 공유해 주세요 🥺]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2126336.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[시장을 뒤집어 놓은 2위의 반란 (aka. 홍진호)]]></title>
             <link>https://qletter.i-boss.co.kr/view/2115459-%EC%8B%9C%EC%9E%A5%EC%9D%84_%EB%92%A4%EC%A7%91%EC%96%B4_%EB%86%93%EC%9D%80_2%EC%9C%84%EC%9D%98_%EB%B0%98%EB%9E%80_aka_%ED%99%8D%EC%A7%84%ED%98%B8/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 07 Apr 2024 17:13:11 GMT</pubDate>
             <content:encoded><![CDATA[점점 다양해지는 검색 채널, 2024 검색 트렌드 살펴보기 🔎]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2051626.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사수가 필요한 1-3년 차 마케터에게 필요한 책 10권]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2051278-%EC%82%AC%EC%88%98%EA%B0%80_%ED%95%84%EC%9A%94%ED%95%9C_13%EB%85%84_%EC%B0%A8_%EB%A7%88%EC%BC%80%ED%84%B0%EC%97%90%EA%B2%8C_%ED%95%84%EC%9A%94%ED%95%9C_%EC%B1%85_10%EA%B6%8C/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2051278-%EC%82%AC%EC%88%98%EA%B0%80_%ED%95%84%EC%9A%94%ED%95%9C_13%EB%85%84_%EC%B0%A8_%EB%A7%88%EC%BC%80%ED%84%B0%EC%97%90%EA%B2%8C_%ED%95%84%EC%9A%94%ED%95%9C_%EC%B1%85_10%EA%B6%8C/</guid>
-            <pubDate>Sun, 07 Apr 2024 17:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[사수가 필요한 1-3년 차 마케터에게 필요한 책 10권]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2051278.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
