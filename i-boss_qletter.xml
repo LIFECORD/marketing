@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Apr 2024 01:04:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 02:25:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성과가 없는 상황에서 포트폴리오 만드는 법 ✍🏻]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2128833-%EC%84%B1%EA%B3%BC%EA%B0%80_%EC%97%86%EB%8A%94_%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EB%A7%8C%EB%93%9C%EB%8A%94_%EB%B2%95/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2128833-%EC%84%B1%EA%B3%BC%EA%B0%80_%EC%97%86%EB%8A%94_%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EB%A7%8C%EB%93%9C%EB%8A%94_%EB%B2%95/</guid>
+            <pubDate>Mon, 22 Apr 2024 02:25:12 GMT</pubDate>
+            <content:encoded><![CDATA[성과가 없는 상황에서 포트폴리오 만드는 법 ✍🏻]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2128833.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이 글을 대표님께 공유해 주세요 🥺]]></title>
             <link>https://qletter.i-boss.co.kr/view/2126336-%EC%9D%B4_%EA%B8%80%EC%9D%84_%EB%8C%80%ED%91%9C%EB%8B%98%EA%BB%98_%EA%B3%B5%EC%9C%A0%ED%95%B4_%EC%A3%BC%EC%84%B8%EC%9A%94/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 07 Apr 2024 17:13:11 GMT</pubDate>
             <content:encoded><![CDATA[요새는 이것 때문에 물건 산다면서요 🤔]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2060235.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[점점 다양해지는 검색 채널, 2024 검색 트렌드 살펴보기 🔎]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2051626-%EC%A0%90%EC%A0%90_%EB%8B%A4%EC%96%91%ED%95%B4%EC%A7%80%EB%8A%94_%EA%B2%80%EC%83%89_%EC%B1%84%EB%84%90_2024_%EA%B2%80%EC%83%89_%ED%8A%B8%EB%A0%8C%EB%93%9C_%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2051626-%EC%A0%90%EC%A0%90_%EB%8B%A4%EC%96%91%ED%95%B4%EC%A7%80%EB%8A%94_%EA%B2%80%EC%83%89_%EC%B1%84%EB%84%90_2024_%EA%B2%80%EC%83%89_%ED%8A%B8%EB%A0%8C%EB%93%9C_%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/</guid>
-            <pubDate>Sun, 07 Apr 2024 17:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[점점 다양해지는 검색 채널, 2024 검색 트렌드 살펴보기 🔎]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2051626.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
