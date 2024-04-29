@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 01:04:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 02:26:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1020세대에서 찐친끼리만 이용한다는 폐쇄형 SNS]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2142166-1020%EC%84%B8%EB%8C%80%EC%97%90%EC%84%9C_%EC%B0%90%EC%B9%9C%EB%81%BC%EB%A6%AC%EB%A7%8C_%EC%9D%B4%EC%9A%A9%ED%95%9C%EB%8B%A4%EB%8A%94_%ED%8F%90%EC%87%84%ED%98%95_SNS/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2142166-1020%EC%84%B8%EB%8C%80%EC%97%90%EC%84%9C_%EC%B0%90%EC%B9%9C%EB%81%BC%EB%A6%AC%EB%A7%8C_%EC%9D%B4%EC%9A%A9%ED%95%9C%EB%8B%A4%EB%8A%94_%ED%8F%90%EC%87%84%ED%98%95_SNS/</guid>
+            <pubDate>Mon, 29 Apr 2024 02:26:01 GMT</pubDate>
+            <content:encoded><![CDATA[1020세대에서 찐친끼리만 이용한다는 폐쇄형 SNS]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2142166.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이 집 브랜딩 잘하네! 11가지 마케터 Pick 브랜드 😉]]></title>
             <link>https://qletter.i-boss.co.kr/view/2137777-%EC%9D%B4_%EC%A7%91_%EB%B8%8C%EB%9E%9C%EB%94%A9_%EC%9E%98%ED%95%98%EB%84%A4_11%EA%B0%80%EC%A7%80_%EB%A7%88%EC%BC%80%ED%84%B0_Pick_%EB%B8%8C%EB%9E%9C%EB%93%9C/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 07 Apr 2024 17:13:11 GMT</pubDate>
             <content:encoded><![CDATA[연차별, 직무별, 기업별 마케터의 평균 연봉은 얼마일까?]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2074851.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인기 아이돌보다 클릭률이 높았던 모델은 누구?]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2064480-%EC%9D%B8%EA%B8%B0_%EC%95%84%EC%9D%B4%EB%8F%8C%EB%B3%B4%EB%8B%A4_%ED%81%B4%EB%A6%AD%EB%A5%A0%EC%9D%B4_%EB%86%92%EC%95%98%EB%8D%98_%EB%AA%A8%EB%8D%B8%EC%9D%80_%EB%88%84%EA%B5%AC/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2064480-%EC%9D%B8%EA%B8%B0_%EC%95%84%EC%9D%B4%EB%8F%8C%EB%B3%B4%EB%8B%A4_%ED%81%B4%EB%A6%AD%EB%A5%A0%EC%9D%B4_%EB%86%92%EC%95%98%EB%8D%98_%EB%AA%A8%EB%8D%B8%EC%9D%80_%EB%88%84%EA%B5%AC/</guid>
-            <pubDate>Sun, 07 Apr 2024 17:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[인기 아이돌보다 클릭률이 높았던 모델은 누구?]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2064480.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
