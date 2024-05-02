@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 01:02:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 02:25:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성과가 잘 나오는 상세페이지는 뭐가 다를까?]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2153460-%EC%84%B1%EA%B3%BC%EA%B0%80_%EC%9E%98_%EB%82%98%EC%98%A4%EB%8A%94_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80%EB%8A%94_%EB%AD%90%EA%B0%80_%EB%8B%A4%EB%A5%BC%EA%B9%8C/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2153460-%EC%84%B1%EA%B3%BC%EA%B0%80_%EC%9E%98_%EB%82%98%EC%98%A4%EB%8A%94_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80%EB%8A%94_%EB%AD%90%EA%B0%80_%EB%8B%A4%EB%A5%BC%EA%B9%8C/</guid>
+            <pubDate>Thu, 02 May 2024 02:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[성과가 잘 나오는 상세페이지는 뭐가 다를까?]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2153460.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[1020세대에서 찐친끼리만 이용한다는 폐쇄형 SNS]]></title>
             <link>https://qletter.i-boss.co.kr/view/2142166-1020%EC%84%B8%EB%8C%80%EC%97%90%EC%84%9C_%EC%B0%90%EC%B9%9C%EB%81%BC%EB%A6%AC%EB%A7%8C_%EC%9D%B4%EC%9A%A9%ED%95%9C%EB%8B%A4%EB%8A%94_%ED%8F%90%EC%87%84%ED%98%95_SNS/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 07 Apr 2024 17:13:11 GMT</pubDate>
             <content:encoded><![CDATA[쿠키 없는 시대, 마케터는 어떻게 해야 되나요? 🍪]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2077529.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[연차별, 직무별, 기업별 마케터의 평균 연봉은 얼마일까?]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2074851-%EC%97%B0%EC%B0%A8%EB%B3%84_%EC%A7%81%EB%AC%B4%EB%B3%84_%EA%B8%B0%EC%97%85%EB%B3%84_%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98_%ED%8F%89%EA%B7%A0_%EC%97%B0%EB%B4%89%EC%9D%80_%EC%96%BC%EB%A7%88%EC%9D%BC%EA%B9%8C/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2074851-%EC%97%B0%EC%B0%A8%EB%B3%84_%EC%A7%81%EB%AC%B4%EB%B3%84_%EA%B8%B0%EC%97%85%EB%B3%84_%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98_%ED%8F%89%EA%B7%A0_%EC%97%B0%EB%B4%89%EC%9D%80_%EC%96%BC%EB%A7%88%EC%9D%BC%EA%B9%8C/</guid>
-            <pubDate>Sun, 07 Apr 2024 17:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[연차별, 직무별, 기업별 마케터의 평균 연봉은 얼마일까?]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2074851.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
