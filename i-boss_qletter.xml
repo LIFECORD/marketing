@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 01:05:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 02:27:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경쟁이 치열한 시장에서는 어떻게 마케팅해야 할까요?]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2174410-%EA%B2%BD%EC%9F%81%EC%9D%B4_%EC%B9%98%EC%97%B4%ED%95%9C_%EC%8B%9C%EC%9E%A5%EC%97%90%EC%84%9C%EB%8A%94_%EC%96%B4%EB%96%BB%EA%B2%8C_%EB%A7%88%EC%BC%80%ED%8C%85%ED%95%B4%EC%95%BC_%ED%95%A0%EA%B9%8C%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2174410-%EA%B2%BD%EC%9F%81%EC%9D%B4_%EC%B9%98%EC%97%B4%ED%95%9C_%EC%8B%9C%EC%9E%A5%EC%97%90%EC%84%9C%EB%8A%94_%EC%96%B4%EB%96%BB%EA%B2%8C_%EB%A7%88%EC%BC%80%ED%8C%85%ED%95%B4%EC%95%BC_%ED%95%A0%EA%B9%8C%EC%9A%94/</guid>
+            <pubDate>Thu, 16 May 2024 02:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[경쟁이 치열한 시장에서는 어떻게 마케팅해야 할까요?]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2174410.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마케터가 쓱 읽어볼 트렌드 뉴스 모아보기 👀]]></title>
             <link>https://qletter.i-boss.co.kr/view/2170937-%EB%A7%88%EC%BC%80%ED%84%B0%EA%B0%80_%EC%93%B1_%EC%9D%BD%EC%96%B4%EB%B3%BC_%ED%8A%B8%EB%A0%8C%EB%93%9C_%EB%89%B4%EC%8A%A4_%EB%AA%A8%EC%95%84%EB%B3%B4%EA%B8%B0/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 08 Apr 2024 02:23:47 GMT</pubDate>
             <content:encoded><![CDATA[요즘엔 소개팅 안하고 OOO에 간다고?]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2102067.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[1.5조 투자한다는 알리 vs 3조로 진입장벽 쌓는 쿠팡]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2093640-15%EC%A1%B0_%ED%88%AC%EC%9E%90%ED%95%9C%EB%8B%A4%EB%8A%94_%EC%95%8C%EB%A6%AC_vs_3%EC%A1%B0%EB%A1%9C_%EC%A7%84%EC%9E%85%EC%9E%A5%EB%B2%BD_%EC%8C%93%EB%8A%94_%EC%BF%A0%ED%8C%A1/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2093640-15%EC%A1%B0_%ED%88%AC%EC%9E%90%ED%95%9C%EB%8B%A4%EB%8A%94_%EC%95%8C%EB%A6%AC_vs_3%EC%A1%B0%EB%A1%9C_%EC%A7%84%EC%9E%85%EC%9E%A5%EB%B2%BD_%EC%8C%93%EB%8A%94_%EC%BF%A0%ED%8C%A1/</guid>
-            <pubDate>Sun, 07 Apr 2024 17:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[1.5조 투자한다는 알리 vs 3조로 진입장벽 쌓는 쿠팡]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2093640.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
