@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 01:05:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 02:30:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안 입는 옷으로 돈 번다고? 완전 럭키비키잖아 🍀]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2182319-%EC%95%88_%EC%9E%85%EB%8A%94_%EC%98%B7%EC%9C%BC%EB%A1%9C_%EB%8F%88_%EB%B2%88%EB%8B%A4%EA%B3%A0_%EC%99%84%EC%A0%84_%EB%9F%AD%ED%82%A4%EB%B9%84%ED%82%A4%EC%9E%96%EC%95%84/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2182319-%EC%95%88_%EC%9E%85%EB%8A%94_%EC%98%B7%EC%9C%BC%EB%A1%9C_%EB%8F%88_%EB%B2%88%EB%8B%A4%EA%B3%A0_%EC%99%84%EC%A0%84_%EB%9F%AD%ED%82%A4%EB%B9%84%ED%82%A4%EC%9E%96%EC%95%84/</guid>
+            <pubDate>Mon, 20 May 2024 02:30:17 GMT</pubDate>
+            <content:encoded><![CDATA[안 입는 옷으로 돈 번다고? 완전 럭키비키잖아 🍀]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2182319.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[경쟁이 치열한 시장에서는 어떻게 마케팅해야 할까요?]]></title>
             <link>https://qletter.i-boss.co.kr/view/2174410-%EA%B2%BD%EC%9F%81%EC%9D%B4_%EC%B9%98%EC%97%B4%ED%95%9C_%EC%8B%9C%EC%9E%A5%EC%97%90%EC%84%9C%EB%8A%94_%EC%96%B4%EB%96%BB%EA%B2%8C_%EB%A7%88%EC%BC%80%ED%8C%85%ED%95%B4%EC%95%BC_%ED%95%A0%EA%B9%8C%EC%9A%94/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 08 Apr 2024 02:23:47 GMT</pubDate>
             <content:encoded><![CDATA[매출이 오르는 광고주와 대행사의 협업 팁🍯]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2109930.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘엔 소개팅 안하고 OOO에 간다고?]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2102067-%EC%9A%94%EC%A6%98%EC%97%94_%EC%86%8C%EA%B0%9C%ED%8C%85_%EC%95%88%ED%95%98%EA%B3%A0_OOO%EC%97%90_%EA%B0%84%EB%8B%A4%EA%B3%A0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2102067-%EC%9A%94%EC%A6%98%EC%97%94_%EC%86%8C%EA%B0%9C%ED%8C%85_%EC%95%88%ED%95%98%EA%B3%A0_OOO%EC%97%90_%EA%B0%84%EB%8B%A4%EA%B3%A0/</guid>
-            <pubDate>Mon, 08 Apr 2024 02:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[요즘엔 소개팅 안하고 OOO에 간다고?]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2102067.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
