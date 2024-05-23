@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 01:05:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 02:28:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상세페이지, 이것만 보고 따라서 만드세요! (체크리스트 파일 제공) (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2187331-%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%9D%B4%EA%B2%83%EB%A7%8C_%EB%B3%B4%EA%B3%A0_%EB%94%B0%EB%9D%BC%EC%84%9C_%EB%A7%8C%EB%93%9C%EC%84%B8%EC%9A%94_%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8_%ED%8C%8C%EC%9D%BC_%EC%A0%9C%EA%B3%B5/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2187331-%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%9D%B4%EA%B2%83%EB%A7%8C_%EB%B3%B4%EA%B3%A0_%EB%94%B0%EB%9D%BC%EC%84%9C_%EB%A7%8C%EB%93%9C%EC%84%B8%EC%9A%94_%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8_%ED%8C%8C%EC%9D%BC_%EC%A0%9C%EA%B3%B5/</guid>
+            <pubDate>Thu, 23 May 2024 02:28:20 GMT</pubDate>
+            <content:encoded><![CDATA[상세페이지, 이것만 보고 따라서 만드세요! (체크리스트 파일 제공)]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2187331.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[안 입는 옷으로 돈 번다고? 완전 럭키비키잖아 🍀 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/2182319-%EC%95%88_%EC%9E%85%EB%8A%94_%EC%98%B7%EC%9C%BC%EB%A1%9C_%EB%8F%88_%EB%B2%88%EB%8B%A4%EA%B3%A0_%EC%99%84%EC%A0%84_%EB%9F%AD%ED%82%A4%EB%B9%84%ED%82%A4%EC%9E%96%EC%95%84/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 11 Apr 2024 02:23:44 GMT</pubDate>
             <content:encoded><![CDATA[서른여섯에 갑자기 마케팅이 하고 싶어졌다]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2115190.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[매출이 오르는 광고주와 대행사의 협업 팁🍯 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2109930-%EB%A7%A4%EC%B6%9C%EC%9D%B4_%EC%98%A4%EB%A5%B4%EB%8A%94_%EA%B4%91%EA%B3%A0%EC%A3%BC%EC%99%80_%EB%8C%80%ED%96%89%EC%82%AC%EC%9D%98_%ED%98%91%EC%97%85_%ED%8C%81/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2109930-%EB%A7%A4%EC%B6%9C%EC%9D%B4_%EC%98%A4%EB%A5%B4%EB%8A%94_%EA%B4%91%EA%B3%A0%EC%A3%BC%EC%99%80_%EB%8C%80%ED%96%89%EC%82%AC%EC%9D%98_%ED%98%91%EC%97%85_%ED%8C%81/</guid>
-            <pubDate>Mon, 08 Apr 2024 02:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[매출이 오르는 광고주와 대행사의 협업 팁🍯]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2109930.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
