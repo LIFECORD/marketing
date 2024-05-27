@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 May 2024 01:07:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 02:30:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사수 없이 일잘러 마케터로 거듭나는 방법 3️⃣가지]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2195312-%EC%82%AC%EC%88%98_%EC%97%86%EC%9D%B4_%EC%9D%BC%EC%9E%98%EB%9F%AC_%EB%A7%88%EC%BC%80%ED%84%B0%EB%A1%9C_%EA%B1%B0%EB%93%AD%EB%82%98%EB%8A%94_%EB%B0%A9%EB%B2%95_3%EA%B0%80%EC%A7%80/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2195312-%EC%82%AC%EC%88%98_%EC%97%86%EC%9D%B4_%EC%9D%BC%EC%9E%98%EB%9F%AC_%EB%A7%88%EC%BC%80%ED%84%B0%EB%A1%9C_%EA%B1%B0%EB%93%AD%EB%82%98%EB%8A%94_%EB%B0%A9%EB%B2%95_3%EA%B0%80%EC%A7%80/</guid>
+            <pubDate>Mon, 27 May 2024 02:30:17 GMT</pubDate>
+            <content:encoded><![CDATA[사수 없이 일잘러 마케터로 거듭나는 방법 3️⃣가지]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2195312.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[상세페이지, 이것만 보고 따라서 만드세요! (체크리스트 파일 제공)]]></title>
             <link>https://qletter.i-boss.co.kr/view/2187331-%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%9D%B4%EA%B2%83%EB%A7%8C_%EB%B3%B4%EA%B3%A0_%EB%94%B0%EB%9D%BC%EC%84%9C_%EB%A7%8C%EB%93%9C%EC%84%B8%EC%9A%94_%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8_%ED%8C%8C%EC%9D%BC_%EC%A0%9C%EA%B3%B5/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 15 Apr 2024 03:49:06 GMT</pubDate>
             <content:encoded><![CDATA[시장을 뒤집어 놓은 2위의 반란 (aka. 홍진호)]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2115459.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[서른여섯에 갑자기 마케팅이 하고 싶어졌다]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2115190-%EC%84%9C%EB%A5%B8%EC%97%AC%EC%84%AF%EC%97%90_%EA%B0%91%EC%9E%90%EA%B8%B0_%EB%A7%88%EC%BC%80%ED%8C%85%EC%9D%B4_%ED%95%98%EA%B3%A0_%EC%8B%B6%EC%96%B4%EC%A1%8C%EB%8B%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2115190-%EC%84%9C%EB%A5%B8%EC%97%AC%EC%84%AF%EC%97%90_%EA%B0%91%EC%9E%90%EA%B8%B0_%EB%A7%88%EC%BC%80%ED%8C%85%EC%9D%B4_%ED%95%98%EA%B3%A0_%EC%8B%B6%EC%96%B4%EC%A1%8C%EB%8B%A4/</guid>
-            <pubDate>Thu, 11 Apr 2024 02:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[서른여섯에 갑자기 마케팅이 하고 싶어졌다]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2115190.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
