@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Aug 2024 01:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Aug 2024 02:38:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[물경력 말고 불경력 쌓고 싶어요 🔥]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2330761-%EB%AC%BC%EA%B2%BD%EB%A0%A5_%EB%A7%90%EA%B3%A0_%EB%B6%88%EA%B2%BD%EB%A0%A5_%EC%8C%93%EA%B3%A0_%EC%8B%B6%EC%96%B4%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2330761-%EB%AC%BC%EA%B2%BD%EB%A0%A5_%EB%A7%90%EA%B3%A0_%EB%B6%88%EA%B2%BD%EB%A0%A5_%EC%8C%93%EA%B3%A0_%EC%8B%B6%EC%96%B4%EC%9A%94/</guid>
+            <pubDate>Mon, 12 Aug 2024 02:38:07 GMT</pubDate>
+            <content:encoded><![CDATA[물경력 말고 불경력 쌓고 싶어요 🔥]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2330761.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[5만 명의 마케터가 읽은 상세페이지 시리즈 마지막 편 📓]]></title>
             <link>https://qletter.i-boss.co.kr/view/2327663-5%EB%A7%8C_%EB%AA%85%EC%9D%98_%EB%A7%88%EC%BC%80%ED%84%B0%EA%B0%80_%EC%9D%BD%EC%9D%80_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%8B%9C%EB%A6%AC%EC%A6%88_%EB%A7%88%EC%A7%80%EB%A7%89_%ED%8E%B8/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 05 Aug 2024 06:23:38 GMT</pubDate>
             <content:encoded><![CDATA[유능한 마케터가 되고 싶다면 당장 봐야하는 글]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2267709.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡의 PB 상품 진열, 문제일까? 역차별일까? 🤔]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2254697-%EC%BF%A0%ED%8C%A1%EC%9D%98_PB_%EC%83%81%ED%92%88_%EC%A7%84%EC%97%B4_%EB%AC%B8%EC%A0%9C%EC%9D%BC%EA%B9%8C_%EC%97%AD%EC%B0%A8%EB%B3%84%EC%9D%BC%EA%B9%8C/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2254697-%EC%BF%A0%ED%8C%A1%EC%9D%98_PB_%EC%83%81%ED%92%88_%EC%A7%84%EC%97%B4_%EB%AC%B8%EC%A0%9C%EC%9D%BC%EA%B9%8C_%EC%97%AD%EC%B0%A8%EB%B3%84%EC%9D%BC%EA%B9%8C/</guid>
-            <pubDate>Mon, 05 Aug 2024 06:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[쿠팡의 PB 상품 진열, 문제일까? 역차별일까? 🤔]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2254697.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
