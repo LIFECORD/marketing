@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 01:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 02:40:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제약회사의 뷰티시장 도전, 그 중심에 계신 분을 만났어요! (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2367271-%EC%A0%9C%EC%95%BD%ED%9A%8C%EC%82%AC%EC%9D%98-%EB%B7%B0%ED%8B%B0%EC%8B%9C%EC%9E%A5-%EB%8F%84%EC%A0%84-%EA%B7%B8-%EC%A4%91%EC%8B%AC%EC%97%90-%EA%B3%84%EC%8B%A0-%EB%B6%84%EC%9D%84-%EB%A7%8C%EB%82%AC%EC%96%B4%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2367271-%EC%A0%9C%EC%95%BD%ED%9A%8C%EC%82%AC%EC%9D%98-%EB%B7%B0%ED%8B%B0%EC%8B%9C%EC%9E%A5-%EB%8F%84%EC%A0%84-%EA%B7%B8-%EC%A4%91%EC%8B%AC%EC%97%90-%EA%B3%84%EC%8B%A0-%EB%B6%84%EC%9D%84-%EB%A7%8C%EB%82%AC%EC%96%B4%EC%9A%94/</guid>
+            <pubDate>Thu, 29 Aug 2024 02:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[제약회사의 뷰티시장 도전, 그 중심에 계신 분을 만났어요!]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2367271.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[일상에서 자주 접하는 ‘이것’, 마케팅 수단으로 활용해 보세요! (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/2356171-%EC%9D%BC%EC%83%81%EC%97%90%EC%84%9C-%EC%9E%90%EC%A3%BC-%EC%A0%91%ED%95%98%EB%8A%94-%EC%9D%B4%EA%B2%83-%EB%A7%88%EC%BC%80%ED%8C%85-%EC%88%98%EB%8B%A8%EC%9C%BC%EB%A1%9C-%ED%99%9C%EC%9A%A9%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 14 Aug 2024 01:13:00 GMT</pubDate>
             <content:encoded><![CDATA[이런 경험은 자소서에 어떻게 적으면 좋을까요?]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2290106.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[치열한 마케팅 시장에서 어떤 무기를 들고 싸우고 있으신가요? (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2282476-%EC%B9%98%EC%97%B4%ED%95%9C-%EB%A7%88%EC%BC%80%ED%8C%85-%EC%8B%9C%EC%9E%A5%EC%97%90%EC%84%9C-%EC%96%B4%EB%96%A4-%EB%AC%B4%EA%B8%B0%EB%A5%BC-%EB%93%A4%EA%B3%A0-%EC%8B%B8%EC%9A%B0%EA%B3%A0-%EC%9E%88%EC%9C%BC%EC%8B%A0%EA%B0%80%EC%9A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2282476-%EC%B9%98%EC%97%B4%ED%95%9C-%EB%A7%88%EC%BC%80%ED%8C%85-%EC%8B%9C%EC%9E%A5%EC%97%90%EC%84%9C-%EC%96%B4%EB%96%A4-%EB%AC%B4%EA%B8%B0%EB%A5%BC-%EB%93%A4%EA%B3%A0-%EC%8B%B8%EC%9A%B0%EA%B3%A0-%EC%9E%88%EC%9C%BC%EC%8B%A0%EA%B0%80%EC%9A%94/</guid>
-            <pubDate>Wed, 14 Aug 2024 01:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[치열한 마케팅 시장에서 어떤 무기를 들고 싸우고 있으신가요?]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2282476.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
