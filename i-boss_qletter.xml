@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 01:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 02:43:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전환율이 낮은 이유, 상세페이지 때문이 아닐 수 있다? 🤔]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2367635-%EC%A0%84%ED%99%98%EC%9C%A8%EC%9D%B4-%EB%82%AE%EC%9D%80-%EC%9D%B4%EC%9C%A0-%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%95%8C%EB%AC%B8%EC%9D%B4-%EC%95%84%EB%8B%90-%EC%88%98-%EC%9E%88%EB%8B%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2367635-%EC%A0%84%ED%99%98%EC%9C%A8%EC%9D%B4-%EB%82%AE%EC%9D%80-%EC%9D%B4%EC%9C%A0-%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%95%8C%EB%AC%B8%EC%9D%B4-%EC%95%84%EB%8B%90-%EC%88%98-%EC%9E%88%EB%8B%A4/</guid>
+            <pubDate>Mon, 02 Sep 2024 02:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[전환율이 낮은 이유, 상세페이지 때문이 아닐 수 있다? 🤔]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2367635.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[제약회사의 뷰티시장 도전, 그 중심에 계신 분을 만났어요!]]></title>
             <link>https://qletter.i-boss.co.kr/view/2367271-%EC%A0%9C%EC%95%BD%ED%9A%8C%EC%82%AC%EC%9D%98-%EB%B7%B0%ED%8B%B0%EC%8B%9C%EC%9E%A5-%EB%8F%84%EC%A0%84-%EA%B7%B8-%EC%A4%91%EC%8B%AC%EC%97%90-%EA%B3%84%EC%8B%A0-%EB%B6%84%EC%9D%84-%EB%A7%8C%EB%82%AC%EC%96%B4%EC%9A%94/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 14 Aug 2024 01:13:00 GMT</pubDate>
             <content:encoded><![CDATA[네이버가 만든 브랜드 제휴 플랫폼은 뭐가 다를까?]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2292563.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이런 경험은 자소서에 어떻게 적으면 좋을까요?]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2290106-%EC%9D%B4%EB%9F%B0-%EA%B2%BD%ED%97%98%EC%9D%80-%EC%9E%90%EC%86%8C%EC%84%9C%EC%97%90-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A0%81%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%9D%84%EA%B9%8C%EC%9A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2290106-%EC%9D%B4%EB%9F%B0-%EA%B2%BD%ED%97%98%EC%9D%80-%EC%9E%90%EC%86%8C%EC%84%9C%EC%97%90-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A0%81%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%9D%84%EA%B9%8C%EC%9A%94/</guid>
-            <pubDate>Wed, 14 Aug 2024 01:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[이런 경험은 자소서에 어떻게 적으면 좋을까요?]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2290106.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
