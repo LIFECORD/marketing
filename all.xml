@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Sep 2024 01:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2024 02:41:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고객도, 상사도 이렇게 설득해 보세요! 🗣️ (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2379096-%EA%B3%A0%EA%B0%9D%EB%8F%84-%EC%83%81%EC%82%AC%EB%8F%84-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%84%A4%EB%93%9D%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2379096-%EA%B3%A0%EA%B0%9D%EB%8F%84-%EC%83%81%EC%82%AC%EB%8F%84-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%84%A4%EB%93%9D%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/</guid>
+            <pubDate>Thu, 05 Sep 2024 02:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[고객도, 상사도 이렇게 설득해 보세요! 🗣️]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2379096.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[전환율이 낮은 이유, 상세페이지 때문이 아닐 수 있다? 🤔 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/2367635-%EC%A0%84%ED%99%98%EC%9C%A8%EC%9D%B4-%EB%82%AE%EC%9D%80-%EC%9D%B4%EC%9C%A0-%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%95%8C%EB%AC%B8%EC%9D%B4-%EC%95%84%EB%8B%90-%EC%88%98-%EC%9E%88%EB%8B%A4/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 14 Aug 2024 01:13:00 GMT</pubDate>
             <content:encoded><![CDATA[대행사, 매체사, 광고주를 모두 경험한 23년 차 마케터의 인사이트 👀]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2301300.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버가 만든 브랜드 제휴 플랫폼은 뭐가 다를까? (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2292563-%EB%84%A4%EC%9D%B4%EB%B2%84%EA%B0%80-%EB%A7%8C%EB%93%A0-%EB%B8%8C%EB%9E%9C%EB%93%9C-%EC%A0%9C%ED%9C%B4-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%80-%EB%AD%90%EA%B0%80-%EB%8B%A4%EB%A5%BC%EA%B9%8C/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2292563-%EB%84%A4%EC%9D%B4%EB%B2%84%EA%B0%80-%EB%A7%8C%EB%93%A0-%EB%B8%8C%EB%9E%9C%EB%93%9C-%EC%A0%9C%ED%9C%B4-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%80-%EB%AD%90%EA%B0%80-%EB%8B%A4%EB%A5%BC%EA%B9%8C/</guid>
-            <pubDate>Wed, 14 Aug 2024 01:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[네이버가 만든 브랜드 제휴 플랫폼은 뭐가 다를까?]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2292563.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
