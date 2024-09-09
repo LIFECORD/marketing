@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Sep 2024 01:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 02:45:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[말로만 듣던 디지털 사후세계가 이미 존재한다고? 🤔]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2383022-%EB%A7%90%EB%A1%9C%EB%A7%8C-%EB%93%A3%EB%8D%98-%EB%94%94%EC%A7%80%ED%84%B8-%EC%82%AC%ED%9B%84%EC%84%B8%EA%B3%84%EA%B0%80-%EC%9D%B4%EB%AF%B8-%EC%A1%B4%EC%9E%AC%ED%95%9C%EB%8B%A4%EA%B3%A0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2383022-%EB%A7%90%EB%A1%9C%EB%A7%8C-%EB%93%A3%EB%8D%98-%EB%94%94%EC%A7%80%ED%84%B8-%EC%82%AC%ED%9B%84%EC%84%B8%EA%B3%84%EA%B0%80-%EC%9D%B4%EB%AF%B8-%EC%A1%B4%EC%9E%AC%ED%95%9C%EB%8B%A4%EA%B3%A0/</guid>
+            <pubDate>Mon, 09 Sep 2024 02:45:52 GMT</pubDate>
+            <content:encoded><![CDATA[말로만 듣던 디지털 사후세계가 이미 존재한다고? 🤔]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2383022.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[고객도, 상사도 이렇게 설득해 보세요! 🗣️]]></title>
             <link>https://qletter.i-boss.co.kr/view/2379096-%EA%B3%A0%EA%B0%9D%EB%8F%84-%EC%83%81%EC%82%AC%EB%8F%84-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%84%A4%EB%93%9D%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 14 Aug 2024 01:13:00 GMT</pubDate>
             <content:encoded><![CDATA[요새는 고기도 온라인으로, 축산물 D2C 시장이 열렸다 🍖]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2304800.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[대행사, 매체사, 광고주를 모두 경험한 23년 차 마케터의 인사이트 👀]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2301300-%EB%8C%80%ED%96%89%EC%82%AC-%EB%A7%A4%EC%B2%B4%EC%82%AC-%EA%B4%91%EA%B3%A0%EC%A3%BC%EB%A5%BC-%EB%AA%A8%EB%91%90-%EA%B2%BD%ED%97%98%ED%95%9C-23%EB%85%84-%EC%B0%A8-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2301300-%EB%8C%80%ED%96%89%EC%82%AC-%EB%A7%A4%EC%B2%B4%EC%82%AC-%EA%B4%91%EA%B3%A0%EC%A3%BC%EB%A5%BC-%EB%AA%A8%EB%91%90-%EA%B2%BD%ED%97%98%ED%95%9C-23%EB%85%84-%EC%B0%A8-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8/</guid>
-            <pubDate>Wed, 14 Aug 2024 01:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[대행사, 매체사, 광고주를 모두 경험한 23년 차 마케터의 인사이트 👀]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2301300.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
