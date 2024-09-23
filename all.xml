@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Sep 2024 01:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 02:49:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제 식품 시장에서 ○○○ 없으면 안 팔린다! (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2408973-%EC%9D%B4%EC%A0%9C-%EC%8B%9D%ED%92%88-%EC%8B%9C%EC%9E%A5%EC%97%90%EC%84%9C-%EC%97%86%EC%9C%BC%EB%A9%B4-%EC%95%88-%ED%8C%94%EB%A6%B0%EB%8B%A4/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2408973-%EC%9D%B4%EC%A0%9C-%EC%8B%9D%ED%92%88-%EC%8B%9C%EC%9E%A5%EC%97%90%EC%84%9C-%EC%97%86%EC%9C%BC%EB%A9%B4-%EC%95%88-%ED%8C%94%EB%A6%B0%EB%8B%A4/</guid>
+            <pubDate>Mon, 23 Sep 2024 02:49:45 GMT</pubDate>
+            <content:encoded><![CDATA[이제 식품 시장에서 ○○○ 없으면 안 팔린다!]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2408973.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[더 이상 의미 없는 테스트는 그만 ✋ 정답에 가까운 A/B 테스트 방법 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/2393037-%EB%8D%94-%EC%9D%B4%EC%83%81-%EC%9D%98%EB%AF%B8-%EC%97%86%EB%8A%94-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8A%94-%EA%B7%B8%EB%A7%8C-%EC%A0%95%EB%8B%B5%EC%97%90-%EA%B0%80%EA%B9%8C%EC%9A%B4-A-B-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%A9%EB%B2%95/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 14 Aug 2024 01:13:00 GMT</pubDate>
             <content:encoded><![CDATA[물욕을 자극하는 상세페이지 모음.zip 😘]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2318749.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[큐텐과 티메파크 사태, 큐레터가 아르켜줄게 😢 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2313870-%ED%81%90%ED%85%90%EA%B3%BC-%ED%8B%B0%EB%A9%94%ED%8C%8C%ED%81%AC-%EC%82%AC%ED%83%9C-%ED%81%90%EB%A0%88%ED%84%B0%EA%B0%80-%EC%95%84%EB%A5%B4%EC%BC%9C%EC%A4%84%EA%B2%8C/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2313870-%ED%81%90%ED%85%90%EA%B3%BC-%ED%8B%B0%EB%A9%94%ED%8C%8C%ED%81%AC-%EC%82%AC%ED%83%9C-%ED%81%90%EB%A0%88%ED%84%B0%EA%B0%80-%EC%95%84%EB%A5%B4%EC%BC%9C%EC%A4%84%EA%B2%8C/</guid>
-            <pubDate>Wed, 14 Aug 2024 01:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[큐텐과 티메파크 사태, 큐레터가 아르켜줄게 😢]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2313870.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
