@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 01:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 02:48:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성 갤럭시를 세계적인 브랜드로 만든 마케터의 브랜딩 인사이트 👀]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2416778-%EC%82%BC%EC%84%B1-%EA%B0%A4%EB%9F%AD%EC%8B%9C%EB%A5%BC-%EC%84%B8%EA%B3%84%EC%A0%81%EC%9D%B8-%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%A1%9C-%EB%A7%8C%EB%93%A0-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98-%EB%B8%8C%EB%9E%9C%EB%94%A9-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2416778-%EC%82%BC%EC%84%B1-%EA%B0%A4%EB%9F%AD%EC%8B%9C%EB%A5%BC-%EC%84%B8%EA%B3%84%EC%A0%81%EC%9D%B8-%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%A1%9C-%EB%A7%8C%EB%93%A0-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98-%EB%B8%8C%EB%9E%9C%EB%94%A9-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8/</guid>
+            <pubDate>Thu, 26 Sep 2024 02:48:33 GMT</pubDate>
+            <content:encoded><![CDATA[삼성 갤럭시를 세계적인 브랜드로 만든 마케터의 브랜딩 인사이트 👀]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2416778.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이제 식품 시장에서 ○○○ 없으면 안 팔린다!]]></title>
             <link>https://qletter.i-boss.co.kr/view/2408973-%EC%9D%B4%EC%A0%9C-%EC%8B%9D%ED%92%88-%EC%8B%9C%EC%9E%A5%EC%97%90%EC%84%9C-%EC%97%86%EC%9C%BC%EB%A9%B4-%EC%95%88-%ED%8C%94%EB%A6%B0%EB%8B%A4/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 14 Aug 2024 01:13:00 GMT</pubDate>
             <content:encoded><![CDATA[5만 명의 마케터가 읽은 상세페이지 시리즈 마지막 편 📓]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2327663.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[물욕을 자극하는 상세페이지 모음.zip 😘]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2318749-%EB%AC%BC%EC%9A%95%EC%9D%84-%EC%9E%90%EA%B7%B9%ED%95%98%EB%8A%94-%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%AA%A8%EC%9D%8C-zip/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2318749-%EB%AC%BC%EC%9A%95%EC%9D%84-%EC%9E%90%EA%B7%B9%ED%95%98%EB%8A%94-%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%AA%A8%EC%9D%8C-zip/</guid>
-            <pubDate>Wed, 14 Aug 2024 01:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[물욕을 자극하는 상세페이지 모음.zip 😘]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2318749.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
