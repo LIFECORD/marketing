@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Sep 2024 04:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2024 05:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콘텐츠 마케터인데 데이터가 어려워요 🥺]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2419402-%EC%BD%98%ED%85%90%EC%B8%A0-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%B8%EB%8D%B0-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EC%96%B4%EB%A0%A4%EC%9B%8C%EC%9A%94/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2419402-%EC%BD%98%ED%85%90%EC%B8%A0-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%B8%EB%8D%B0-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EC%96%B4%EB%A0%A4%EC%9B%8C%EC%9A%94/</guid>
+            <pubDate>Mon, 30 Sep 2024 05:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[콘텐츠 마케터인데 데이터가 어려워요 🥺]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2419402.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성 갤럭시를 세계적인 브랜드로 만든 마케터의 브랜딩 인사이트 👀]]></title>
             <link>https://qletter.i-boss.co.kr/view/2416778-%EC%82%BC%EC%84%B1-%EA%B0%A4%EB%9F%AD%EC%8B%9C%EB%A5%BC-%EC%84%B8%EA%B3%84%EC%A0%81%EC%9D%B8-%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%A1%9C-%EB%A7%8C%EB%93%A0-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98-%EB%B8%8C%EB%9E%9C%EB%94%A9-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 14 Aug 2024 01:13:00 GMT</pubDate>
             <content:encoded><![CDATA[물경력 말고 불경력 쌓고 싶어요 🔥]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2330761.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[5만 명의 마케터가 읽은 상세페이지 시리즈 마지막 편 📓]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2327663-5%EB%A7%8C-%EB%AA%85%EC%9D%98-%EB%A7%88%EC%BC%80%ED%84%B0%EA%B0%80-%EC%9D%BD%EC%9D%80-%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EB%A7%88%EC%A7%80%EB%A7%89-%ED%8E%B8/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2327663-5%EB%A7%8C-%EB%AA%85%EC%9D%98-%EB%A7%88%EC%BC%80%ED%84%B0%EA%B0%80-%EC%9D%BD%EC%9D%80-%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EB%A7%88%EC%A7%80%EB%A7%89-%ED%8E%B8/</guid>
-            <pubDate>Wed, 14 Aug 2024 01:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[5만 명의 마케터가 읽은 상세페이지 시리즈 마지막 편 📓]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2327663.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
