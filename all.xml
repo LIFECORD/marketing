@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 01:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 02:53:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마케터의 업무 퀄리티를 좌우하는 한 끗 차이 알아보기 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2428858-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98-%EC%97%85%EB%AC%B4-%ED%80%84%EB%A6%AC%ED%8B%B0%EB%A5%BC-%EC%A2%8C%EC%9A%B0%ED%95%98%EB%8A%94-%ED%95%9C-%EB%81%97-%EC%B0%A8%EC%9D%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2428858-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98-%EC%97%85%EB%AC%B4-%ED%80%84%EB%A6%AC%ED%8B%B0%EB%A5%BC-%EC%A2%8C%EC%9A%B0%ED%95%98%EB%8A%94-%ED%95%9C-%EB%81%97-%EC%B0%A8%EC%9D%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/</guid>
+            <pubDate>Mon, 07 Oct 2024 02:53:26 GMT</pubDate>
+            <content:encoded><![CDATA[마케터의 업무 퀄리티를 좌우하는 한 끗 차이 알아보기]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2428858.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[콘텐츠 마케터인데 데이터가 어려워요 🥺 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/2419402-%EC%BD%98%ED%85%90%EC%B8%A0-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%B8%EB%8D%B0-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EC%96%B4%EB%A0%A4%EC%9B%8C%EC%9A%94/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 19 Aug 2024 02:37:41 GMT</pubDate>
             <content:encoded><![CDATA[마케터가 바라보는 2030의 YONO 트렌드 💸]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2343221.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[물경력 말고 불경력 쌓고 싶어요 🔥 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2330761-%EB%AC%BC%EA%B2%BD%EB%A0%A5-%EB%A7%90%EA%B3%A0-%EB%B6%88%EA%B2%BD%EB%A0%A5-%EC%8C%93%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2330761-%EB%AC%BC%EA%B2%BD%EB%A0%A5-%EB%A7%90%EA%B3%A0-%EB%B6%88%EA%B2%BD%EB%A0%A5-%EC%8C%93%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94/</guid>
-            <pubDate>Wed, 14 Aug 2024 01:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[물경력 말고 불경력 쌓고 싶어요 🔥]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2330761.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
