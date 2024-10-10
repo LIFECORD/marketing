@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Oct 2024 05:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 06:26:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2025년 트렌드 키워드 한 눈에 보기 👀]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2439563-2025%EB%85%84-%ED%8A%B8%EB%A0%8C%EB%93%9C-%ED%82%A4%EC%9B%8C%EB%93%9C-%ED%95%9C-%EB%88%88%EC%97%90-%EB%B3%B4%EA%B8%B0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2439563-2025%EB%85%84-%ED%8A%B8%EB%A0%8C%EB%93%9C-%ED%82%A4%EC%9B%8C%EB%93%9C-%ED%95%9C-%EB%88%88%EC%97%90-%EB%B3%B4%EA%B8%B0/</guid>
+            <pubDate>Thu, 10 Oct 2024 06:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[2025년 트렌드 키워드 한 눈에 보기 👀]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2439563.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마케터의 업무 퀄리티를 좌우하는 한 끗 차이 알아보기]]></title>
             <link>https://qletter.i-boss.co.kr/view/2428858-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98-%EC%97%85%EB%AC%B4-%ED%80%84%EB%A6%AC%ED%8B%B0%EB%A5%BC-%EC%A2%8C%EC%9A%B0%ED%95%98%EB%8A%94-%ED%95%9C-%EB%81%97-%EC%B0%A8%EC%9D%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 22 Aug 2024 02:37:40 GMT</pubDate>
             <content:encoded><![CDATA[마케터도 인플루언서가 될 수 있어요! 퍼스널 브랜딩 가이드 📖]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2349991.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마케터가 바라보는 2030의 YONO 트렌드 💸]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2343221-%EB%A7%88%EC%BC%80%ED%84%B0%EA%B0%80-%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94-2030%EC%9D%98-YONO-%ED%8A%B8%EB%A0%8C%EB%93%9C/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2343221-%EB%A7%88%EC%BC%80%ED%84%B0%EA%B0%80-%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94-2030%EC%9D%98-YONO-%ED%8A%B8%EB%A0%8C%EB%93%9C/</guid>
-            <pubDate>Mon, 19 Aug 2024 02:37:41 GMT</pubDate>
-            <content:encoded><![CDATA[마케터가 바라보는 2030의 YONO 트렌드 💸]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2343221.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
