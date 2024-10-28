@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Oct 2024 01:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Oct 2024 02:55:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프로야구가 1000만 관중 달성한 비결 파헤치기 🥎 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2468259-%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC%EA%B0%80-1000%EB%A7%8C-%EA%B4%80%EC%A4%91-%EB%8B%AC%EC%84%B1%ED%95%9C-%EB%B9%84%EA%B2%B0-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2468259-%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC%EA%B0%80-1000%EB%A7%8C-%EA%B4%80%EC%A4%91-%EB%8B%AC%EC%84%B1%ED%95%9C-%EB%B9%84%EA%B2%B0-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0/</guid>
+            <pubDate>Mon, 28 Oct 2024 02:55:28 GMT</pubDate>
+            <content:encoded><![CDATA[프로야구가 1000만 관중 달성한 비결 파헤치기 🥎]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2468259.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[회사에서 제 역량을 벗어난 업무를 요구해요 😭 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/2465906-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-%EC%A0%9C-%EC%97%AD%EB%9F%89%EC%9D%84-%EB%B2%97%EC%96%B4%EB%82%9C-%EC%97%85%EB%AC%B4%EB%A5%BC-%EC%9A%94%EA%B5%AC%ED%95%B4%EC%9A%94/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 09 Sep 2024 02:45:52 GMT</pubDate>
             <content:encoded><![CDATA[말로만 듣던 디지털 사후세계가 이미 존재한다고? 🤔]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2383022.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[고객도, 상사도 이렇게 설득해 보세요! 🗣️ (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2379096-%EA%B3%A0%EA%B0%9D%EB%8F%84-%EC%83%81%EC%82%AC%EB%8F%84-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%84%A4%EB%93%9D%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2379096-%EA%B3%A0%EA%B0%9D%EB%8F%84-%EC%83%81%EC%82%AC%EB%8F%84-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%84%A4%EB%93%9D%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/</guid>
-            <pubDate>Thu, 05 Sep 2024 02:41:33 GMT</pubDate>
-            <content:encoded><![CDATA[고객도, 상사도 이렇게 설득해 보세요! 🗣️]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2379096.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
