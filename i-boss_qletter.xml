@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Nov 2024 01:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Nov 2024 02:54:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피자헛의 더블 바비큐 피자가 탄생하게 된 이야기 🍕]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2486239-%ED%94%BC%EC%9E%90%ED%97%9B%EC%9D%98-%EB%8D%94%EB%B8%94-%EB%B0%94%EB%B9%84%ED%81%90-%ED%94%BC%EC%9E%90%EA%B0%80-%ED%83%84%EC%83%9D%ED%95%98%EA%B2%8C-%EB%90%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2486239-%ED%94%BC%EC%9E%90%ED%97%9B%EC%9D%98-%EB%8D%94%EB%B8%94-%EB%B0%94%EB%B9%84%ED%81%90-%ED%94%BC%EC%9E%90%EA%B0%80-%ED%83%84%EC%83%9D%ED%95%98%EA%B2%8C-%EB%90%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0/</guid>
+            <pubDate>Mon, 04 Nov 2024 02:54:53 GMT</pubDate>
+            <content:encoded><![CDATA[피자헛의 더블 바비큐 피자가 탄생하게 된 이야기 🍕]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2486239.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[주니어 vs 시니어 vs 리더의 커뮤니케이션 💬]]></title>
             <link>https://qletter.i-boss.co.kr/view/2476223-%EC%A3%BC%EB%8B%88%EC%96%B4-vs-%EC%8B%9C%EB%8B%88%EC%96%B4-vs-%EB%A6%AC%EB%8D%94%EC%9D%98-%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 23 Sep 2024 02:49:45 GMT</pubDate>
             <content:encoded><![CDATA[이제 식품 시장에서 ○○○ 없으면 안 팔린다!]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2408973.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[더 이상 의미 없는 테스트는 그만 ✋ 정답에 가까운 A/B 테스트 방법]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2393037-%EB%8D%94-%EC%9D%B4%EC%83%81-%EC%9D%98%EB%AF%B8-%EC%97%86%EB%8A%94-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8A%94-%EA%B7%B8%EB%A7%8C-%EC%A0%95%EB%8B%B5%EC%97%90-%EA%B0%80%EA%B9%8C%EC%9A%B4-A-B-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%A9%EB%B2%95/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2393037-%EB%8D%94-%EC%9D%B4%EC%83%81-%EC%9D%98%EB%AF%B8-%EC%97%86%EB%8A%94-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8A%94-%EA%B7%B8%EB%A7%8C-%EC%A0%95%EB%8B%B5%EC%97%90-%EA%B0%80%EA%B9%8C%EC%9A%B4-A-B-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%A9%EB%B2%95/</guid>
-            <pubDate>Thu, 12 Sep 2024 02:42:03 GMT</pubDate>
-            <content:encoded><![CDATA[더 이상 의미 없는 테스트는 그만 ✋ 정답에 가까운 A/B 테스트 방법]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2393037.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
