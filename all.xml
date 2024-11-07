@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 01:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 02:47:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[광고로 높은 성과를 얻기 위한 방법론.. 근데 이제 경험을 곁들인 🎈 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2493575-%EA%B4%91%EA%B3%A0%EB%A1%9C-%EB%86%92%EC%9D%80-%EC%84%B1%EA%B3%BC%EB%A5%BC-%EC%96%BB%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%B0%A9%EB%B2%95%EB%A1%A0-%EA%B7%BC%EB%8D%B0-%EC%9D%B4%EC%A0%9C-%EA%B2%BD%ED%97%98%EC%9D%84-%EA%B3%81%EB%93%A4%EC%9D%B8/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2493575-%EA%B4%91%EA%B3%A0%EB%A1%9C-%EB%86%92%EC%9D%80-%EC%84%B1%EA%B3%BC%EB%A5%BC-%EC%96%BB%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%B0%A9%EB%B2%95%EB%A1%A0-%EA%B7%BC%EB%8D%B0-%EC%9D%B4%EC%A0%9C-%EA%B2%BD%ED%97%98%EC%9D%84-%EA%B3%81%EB%93%A4%EC%9D%B8/</guid>
+            <pubDate>Thu, 07 Nov 2024 02:47:33 GMT</pubDate>
+            <content:encoded><![CDATA[광고로 높은 성과를 얻기 위한 방법론.. 근데 이제 경험을 곁들인 🎈]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2493575.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[피자헛의 더블 바비큐 피자가 탄생하게 된 이야기 🍕 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/2486239-%ED%94%BC%EC%9E%90%ED%97%9B%EC%9D%98-%EB%8D%94%EB%B8%94-%EB%B0%94%EB%B9%84%ED%81%90-%ED%94%BC%EC%9E%90%EA%B0%80-%ED%83%84%EC%83%9D%ED%95%98%EA%B2%8C-%EB%90%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 26 Sep 2024 02:48:33 GMT</pubDate>
             <content:encoded><![CDATA[삼성 갤럭시를 세계적인 브랜드로 만든 마케터의 브랜딩 인사이트 👀]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2416778.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 식품 시장에서 ○○○ 없으면 안 팔린다! (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2408973-%EC%9D%B4%EC%A0%9C-%EC%8B%9D%ED%92%88-%EC%8B%9C%EC%9E%A5%EC%97%90%EC%84%9C-%EC%97%86%EC%9C%BC%EB%A9%B4-%EC%95%88-%ED%8C%94%EB%A6%B0%EB%8B%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2408973-%EC%9D%B4%EC%A0%9C-%EC%8B%9D%ED%92%88-%EC%8B%9C%EC%9E%A5%EC%97%90%EC%84%9C-%EC%97%86%EC%9C%BC%EB%A9%B4-%EC%95%88-%ED%8C%94%EB%A6%B0%EB%8B%A4/</guid>
-            <pubDate>Mon, 23 Sep 2024 02:49:45 GMT</pubDate>
-            <content:encoded><![CDATA[이제 식품 시장에서 ○○○ 없으면 안 팔린다!]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2408973.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
