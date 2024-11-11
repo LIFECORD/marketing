@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Nov 2024 01:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 02:49:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[광고와 찰떡인 이미지 뚝딱 만드는 AI 꿀팁 모음.zip 🗂️ (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2494303-%EA%B4%91%EA%B3%A0%EC%99%80-%EC%B0%B0%EB%96%A1%EC%9D%B8-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%9A%9D%EB%94%B1-%EB%A7%8C%EB%93%9C%EB%8A%94-AI-%EA%BF%80%ED%8C%81-%EB%AA%A8%EC%9D%8C-zip/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2494303-%EA%B4%91%EA%B3%A0%EC%99%80-%EC%B0%B0%EB%96%A1%EC%9D%B8-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%9A%9D%EB%94%B1-%EB%A7%8C%EB%93%9C%EB%8A%94-AI-%EA%BF%80%ED%8C%81-%EB%AA%A8%EC%9D%8C-zip/</guid>
+            <pubDate>Mon, 11 Nov 2024 02:49:34 GMT</pubDate>
+            <content:encoded><![CDATA[광고와 찰떡인 이미지 뚝딱 만드는 AI 꿀팁 모음.zip 🗂️]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2494303.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[광고로 높은 성과를 얻기 위한 방법론.. 근데 이제 경험을 곁들인 🎈 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/2493575-%EA%B4%91%EA%B3%A0%EB%A1%9C-%EB%86%92%EC%9D%80-%EC%84%B1%EA%B3%BC%EB%A5%BC-%EC%96%BB%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%B0%A9%EB%B2%95%EB%A1%A0-%EA%B7%BC%EB%8D%B0-%EC%9D%B4%EC%A0%9C-%EA%B2%BD%ED%97%98%EC%9D%84-%EA%B3%81%EB%93%A4%EC%9D%B8/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 30 Sep 2024 05:18:27 GMT</pubDate>
             <content:encoded><![CDATA[콘텐츠 마케터인데 데이터가 어려워요 🥺]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2419402.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 갤럭시를 세계적인 브랜드로 만든 마케터의 브랜딩 인사이트 👀 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2416778-%EC%82%BC%EC%84%B1-%EA%B0%A4%EB%9F%AD%EC%8B%9C%EB%A5%BC-%EC%84%B8%EA%B3%84%EC%A0%81%EC%9D%B8-%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%A1%9C-%EB%A7%8C%EB%93%A0-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98-%EB%B8%8C%EB%9E%9C%EB%94%A9-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2416778-%EC%82%BC%EC%84%B1-%EA%B0%A4%EB%9F%AD%EC%8B%9C%EB%A5%BC-%EC%84%B8%EA%B3%84%EC%A0%81%EC%9D%B8-%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%A1%9C-%EB%A7%8C%EB%93%A0-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98-%EB%B8%8C%EB%9E%9C%EB%94%A9-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8/</guid>
-            <pubDate>Thu, 26 Sep 2024 02:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[삼성 갤럭시를 세계적인 브랜드로 만든 마케터의 브랜딩 인사이트 👀]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2416778.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
