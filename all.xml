@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Nov 2024 23:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Nov 2024 01:26:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러닝 트렌드에 편승하려는 움직임, 유행은 영원하지 않지! 🏃‍♂️ (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2507867-%EB%9F%AC%EB%8B%9D-%ED%8A%B8%EB%A0%8C%EB%93%9C%EC%97%90-%ED%8E%B8%EC%8A%B9%ED%95%98%EB%A0%A4%EB%8A%94-%EC%9B%80%EC%A7%81%EC%9E%84-%EC%9C%A0%ED%96%89%EC%9D%80-%EC%98%81%EC%9B%90%ED%95%98%EC%A7%80-%EC%95%8A%EC%A7%80/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2507867-%EB%9F%AC%EB%8B%9D-%ED%8A%B8%EB%A0%8C%EB%93%9C%EC%97%90-%ED%8E%B8%EC%8A%B9%ED%95%98%EB%A0%A4%EB%8A%94-%EC%9B%80%EC%A7%81%EC%9E%84-%EC%9C%A0%ED%96%89%EC%9D%80-%EC%98%81%EC%9B%90%ED%95%98%EC%A7%80-%EC%95%8A%EC%A7%80/</guid>
+            <pubDate>Mon, 18 Nov 2024 01:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[러닝 트렌드에 편승하려는 움직임, 유행은 영원하지 않지! 🏃‍♂️]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2507867.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[큐레터의 네 번째 생일파티 🥳 (굿즈 선물 준비 완료 🎁) (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/2499536-%ED%81%90%EB%A0%88%ED%84%B0%EC%9D%98-%EB%84%A4-%EB%B2%88%EC%A7%B8-%EC%83%9D%EC%9D%BC%ED%8C%8C%ED%8B%B0-%EA%B5%BF%EC%A6%88-%EC%84%A0%EB%AC%BC-%EC%A4%80%EB%B9%84-%EC%99%84%EB%A3%8C/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 10 Oct 2024 06:26:04 GMT</pubDate>
             <content:encoded><![CDATA[2025년 트렌드 키워드 한 눈에 보기 👀]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2439563.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마케터의 업무 퀄리티를 좌우하는 한 끗 차이 알아보기 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2428858-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98-%EC%97%85%EB%AC%B4-%ED%80%84%EB%A6%AC%ED%8B%B0%EB%A5%BC-%EC%A2%8C%EC%9A%B0%ED%95%98%EB%8A%94-%ED%95%9C-%EB%81%97-%EC%B0%A8%EC%9D%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2428858-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98-%EC%97%85%EB%AC%B4-%ED%80%84%EB%A6%AC%ED%8B%B0%EB%A5%BC-%EC%A2%8C%EC%9A%B0%ED%95%98%EB%8A%94-%ED%95%9C-%EB%81%97-%EC%B0%A8%EC%9D%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/</guid>
-            <pubDate>Mon, 07 Oct 2024 02:53:26 GMT</pubDate>
-            <content:encoded><![CDATA[마케터의 업무 퀄리티를 좌우하는 한 끗 차이 알아보기]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2428858.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
