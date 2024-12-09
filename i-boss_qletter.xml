@@ -4,9 +4,17 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Dec 2024 23:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 01:38:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[❤️ 지도앱으로 데이트 코스 짜는 시대]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2546499-%EC%A7%80%EB%8F%84%EC%95%B1%EC%9C%BC%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%BD%94%EC%8A%A4-%EC%A7%9C%EB%8A%94-%EC%8B%9C%EB%8C%80/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2546499-%EC%A7%80%EB%8F%84%EC%95%B1%EC%9C%BC%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%BD%94%EC%8A%A4-%EC%A7%9C%EB%8A%94-%EC%8B%9C%EB%8C%80/</guid>
+            <pubDate>Mon, 09 Dec 2024 01:38:31 GMT</pubDate>
+            <content:encoded><![CDATA[❤️ 지도앱으로 데이트 코스 짜는 시대]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2546499.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마케터도 마케팅당하는 광고 모음.zip 🗂️]]></title>
             <link>https://qletter.i-boss.co.kr/view/2539735-%EB%A7%88%EC%BC%80%ED%84%B0%EB%8F%84-%EB%A7%88%EC%BC%80%ED%8C%85%EB%8B%B9%ED%95%98%EB%8A%94-%EA%B4%91%EA%B3%A0-%EB%AA%A8%EC%9D%8C-zip/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 31 Oct 2024 02:53:04 GMT</pubDate>
             <content:encoded><![CDATA[주니어 vs 시니어 vs 리더의 커뮤니케이션 💬]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2476223.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[프로야구가 1000만 관중 달성한 비결 파헤치기 🥎]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2468259-%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC%EA%B0%80-1000%EB%A7%8C-%EA%B4%80%EC%A4%91-%EB%8B%AC%EC%84%B1%ED%95%9C-%EB%B9%84%EA%B2%B0-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2468259-%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC%EA%B0%80-1000%EB%A7%8C-%EA%B4%80%EC%A4%91-%EB%8B%AC%EC%84%B1%ED%95%9C-%EB%B9%84%EA%B2%B0-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0/</guid>
-            <pubDate>Mon, 28 Oct 2024 02:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[프로야구가 1000만 관중 달성한 비결 파헤치기 🥎]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2468259.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
