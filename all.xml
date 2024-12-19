@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 23:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Dec 2024 01:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[👔 불편한 상사를 든든한 내 편으로 만드는 방법 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2566474-%EB%B6%88%ED%8E%B8%ED%95%9C-%EC%83%81%EC%82%AC%EB%A5%BC-%EB%93%A0%EB%93%A0%ED%95%9C-%EB%82%B4-%ED%8E%B8%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2566474-%EB%B6%88%ED%8E%B8%ED%95%9C-%EC%83%81%EC%82%AC%EB%A5%BC-%EB%93%A0%EB%93%A0%ED%95%9C-%EB%82%B4-%ED%8E%B8%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95/</guid>
+            <pubDate>Thu, 19 Dec 2024 01:24:42 GMT</pubDate>
+            <content:encoded><![CDATA[👔 불편한 상사를 든든한 내 편으로 만드는 방법]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2566474.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[⚖️ 대기업 퇴사하고 대행사 창업하기, 욕심일까요? (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/2558757-%EB%8C%80%EA%B8%B0%EC%97%85-%ED%87%B4%EC%82%AC%ED%95%98%EA%B3%A0-%EB%8C%80%ED%96%89%EC%82%AC-%EC%B0%BD%EC%97%85%ED%95%98%EA%B8%B0-%EC%9A%95%EC%8B%AC%EC%9D%BC%EA%B9%8C%EC%9A%94/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 11 Nov 2024 02:49:34 GMT</pubDate>
             <content:encoded><![CDATA[광고와 찰떡인 이미지 뚝딱 만드는 AI 꿀팁 모음.zip 🗂️]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2494303.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[광고로 높은 성과를 얻기 위한 방법론.. 근데 이제 경험을 곁들인 🎈 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2493575-%EA%B4%91%EA%B3%A0%EB%A1%9C-%EB%86%92%EC%9D%80-%EC%84%B1%EA%B3%BC%EB%A5%BC-%EC%96%BB%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%B0%A9%EB%B2%95%EB%A1%A0-%EA%B7%BC%EB%8D%B0-%EC%9D%B4%EC%A0%9C-%EA%B2%BD%ED%97%98%EC%9D%84-%EA%B3%81%EB%93%A4%EC%9D%B8/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2493575-%EA%B4%91%EA%B3%A0%EB%A1%9C-%EB%86%92%EC%9D%80-%EC%84%B1%EA%B3%BC%EB%A5%BC-%EC%96%BB%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%B0%A9%EB%B2%95%EB%A1%A0-%EA%B7%BC%EB%8D%B0-%EC%9D%B4%EC%A0%9C-%EA%B2%BD%ED%97%98%EC%9D%84-%EA%B3%81%EB%93%A4%EC%9D%B8/</guid>
-            <pubDate>Thu, 07 Nov 2024 02:47:33 GMT</pubDate>
-            <content:encoded><![CDATA[광고로 높은 성과를 얻기 위한 방법론.. 근데 이제 경험을 곁들인 🎈]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2493575.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
