@@ -4,7 +4,7 @@
         <title>큐레터 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jan 2025 04:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 05:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Mon, 06 Jan 2025 04:21:59 GMT</pubDate>
             <content:encoded><![CDATA[🖱️ 광고 캠페인, 언제 끄고 언제 늘려야할지 감이 안오신다면?]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2581847.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[🖱️ 광고 캠페인, 언제 끄고 언제 늘려야할지 감이 안오신다면?]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2579446-%EA%B4%91%EA%B3%A0-%EC%BA%A0%ED%8E%98%EC%9D%B8-%EC%96%B8%EC%A0%9C-%EB%81%84%EA%B3%A0-%EC%96%B8%EC%A0%9C-%EB%8A%98%EB%A0%A4%EC%95%BC%ED%95%A0%EC%A7%80-%EA%B0%90%EC%9D%B4-%EC%95%88%EC%98%A4%EC%8B%A0%EB%8B%A4%EB%A9%B4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2579446-%EA%B4%91%EA%B3%A0-%EC%BA%A0%ED%8E%98%EC%9D%B8-%EC%96%B8%EC%A0%9C-%EB%81%84%EA%B3%A0-%EC%96%B8%EC%A0%9C-%EB%8A%98%EB%A0%A4%EC%95%BC%ED%95%A0%EC%A7%80-%EA%B0%90%EC%9D%B4-%EC%95%88%EC%98%A4%EC%8B%A0%EB%8B%A4%EB%A9%B4/</guid>
-            <pubDate>Thu, 26 Dec 2024 02:48:18 GMT</pubDate>
-            <content:encoded><![CDATA[🖱️ 광고 캠페인, 언제 끄고 언제 늘려야할지 감이 안오신다면?]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2579446.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[창업을 한 번이라도 생각해본 마케터는 이 메일을 열어 주세요 🙏🏻]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Mon, 02 Dec 2024 01:28:18 GMT</pubDate>
             <content:encoded><![CDATA[😒 지금 일태기가 왔다면..?]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2534826.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[👾 회사에서 빌런 때문에 힘든 마케터들을 위한 글]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2526039-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-%EB%B9%8C%EB%9F%B0-%EB%95%8C%EB%AC%B8%EC%97%90-%ED%9E%98%EB%93%A0-%EB%A7%88%EC%BC%80%ED%84%B0%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B8%80/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2526039-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-%EB%B9%8C%EB%9F%B0-%EB%95%8C%EB%AC%B8%EC%97%90-%ED%9E%98%EB%93%A0-%EB%A7%88%EC%BC%80%ED%84%B0%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B8%80/</guid>
+            <pubDate>Mon, 06 Jan 2025 05:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[👾 회사에서 빌런 때문에 힘든 마케터들을 위한 글]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2526039.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
