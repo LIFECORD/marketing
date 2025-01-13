@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jan 2025 23:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 01:24:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🏖️ 디즈니가 17조나 투자하려는 이 시장은? (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2602708-%EB%94%94%EC%A6%88%EB%8B%88%EA%B0%80-17%EC%A1%B0%EB%82%98-%ED%88%AC%EC%9E%90%ED%95%98%EB%A0%A4%EB%8A%94-%EC%9D%B4-%EC%8B%9C%EC%9E%A5%EC%9D%80/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2602708-%EB%94%94%EC%A6%88%EB%8B%88%EA%B0%80-17%EC%A1%B0%EB%82%98-%ED%88%AC%EC%9E%90%ED%95%98%EB%A0%A4%EB%8A%94-%EC%9D%B4-%EC%8B%9C%EC%9E%A5%EC%9D%80/</guid>
+            <pubDate>Mon, 13 Jan 2025 01:24:26 GMT</pubDate>
+            <content:encoded><![CDATA[🏖️ 디즈니가 17조나 투자하려는 이 시장은?]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2602708.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[📊 2024~2025 마케팅 전략 서베이 자료 보기 (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/2596734-2024-2025-%EB%A7%88%EC%BC%80%ED%8C%85-%EC%A0%84%EB%9E%B5-%EC%84%9C%EB%B2%A0%EC%9D%B4-%EC%9E%90%EB%A3%8C-%EB%B3%B4%EA%B8%B0/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 05 Dec 2024 01:27:17 GMT</pubDate>
             <content:encoded><![CDATA[마케터도 마케팅당하는 광고 모음.zip 🗂️]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2539735.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[😒 지금 일태기가 왔다면..? (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2534826-%EC%A7%80%EA%B8%88-%EC%9D%BC%ED%83%9C%EA%B8%B0%EA%B0%80-%EC%99%94%EB%8B%A4%EB%A9%B4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2534826-%EC%A7%80%EA%B8%88-%EC%9D%BC%ED%83%9C%EA%B8%B0%EA%B0%80-%EC%99%94%EB%8B%A4%EB%A9%B4/</guid>
-            <pubDate>Mon, 02 Dec 2024 01:28:18 GMT</pubDate>
-            <content:encoded><![CDATA[😒 지금 일태기가 왔다면..?]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2534826.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
