@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 01:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 02:43:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[✨ 제품이 좋다면, 다음은 소유욕을 자극하기 (큐레터 저장소)]]></title>
+            <link>https://qletter.i-boss.co.kr/view/2624262-%EC%A0%9C%ED%92%88%EC%9D%B4-%EC%A2%8B%EB%8B%A4%EB%A9%B4-%EB%8B%A4%EC%9D%8C%EC%9D%80-%EC%86%8C%EC%9C%A0%EC%9A%95%EC%9D%84-%EC%9E%90%EA%B7%B9%ED%95%98%EA%B8%B0/</link>
+            <guid>https://qletter.i-boss.co.kr/view/2624262-%EC%A0%9C%ED%92%88%EC%9D%B4-%EC%A2%8B%EB%8B%A4%EB%A9%B4-%EB%8B%A4%EC%9D%8C%EC%9D%80-%EC%86%8C%EC%9C%A0%EC%9A%95%EC%9D%84-%EC%9E%90%EA%B7%B9%ED%95%98%EA%B8%B0/</guid>
+            <pubDate>Thu, 23 Jan 2025 02:43:43 GMT</pubDate>
+            <content:encoded><![CDATA[✨ 제품이 좋다면, 다음은 소유욕을 자극하기]]></content:encoded>
+            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2624262.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[📢 발표 잘하는 마케터의 비결 공개! (큐레터 저장소)]]></title>
             <link>https://qletter.i-boss.co.kr/view/2613969-%EB%B0%9C%ED%91%9C-%EC%9E%98%ED%95%98%EB%8A%94-%EB%A7%88%EC%BC%80%ED%84%B0%EC%9D%98-%EB%B9%84%EA%B2%B0-%EA%B3%B5%EA%B0%9C/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 16 Dec 2024 01:39:07 GMT</pubDate>
             <content:encoded><![CDATA[⚖️ 대기업 퇴사하고 대행사 창업하기, 욕심일까요?]]></content:encoded>
             <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2558757.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[⭐ 인급동에 오르는 유튜브 콘텐츠는 이렇게 만들어집니다 (큐레터 저장소)]]></title>
-            <link>https://qletter.i-boss.co.kr/view/2552151-%EC%9D%B8%EA%B8%89%EB%8F%99%EC%97%90-%EC%98%A4%EB%A5%B4%EB%8A%94-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%BD%98%ED%85%90%EC%B8%A0%EB%8A%94-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%91%EB%8B%88%EB%8B%A4/</link>
-            <guid>https://qletter.i-boss.co.kr/view/2552151-%EC%9D%B8%EA%B8%89%EB%8F%99%EC%97%90-%EC%98%A4%EB%A5%B4%EB%8A%94-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%BD%98%ED%85%90%EC%B8%A0%EB%8A%94-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%91%EB%8B%88%EB%8B%A4/</guid>
-            <pubDate>Fri, 13 Dec 2024 06:28:19 GMT</pubDate>
-            <content:encoded><![CDATA[⭐ 인급동에 오르는 유튜브 콘텐츠는 이렇게 만들어집니다]]></content:encoded>
-            <enclosure url="https://qletter.i-boss.co.kr/images/qletter_2552151.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
